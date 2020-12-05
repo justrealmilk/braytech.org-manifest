@@ -1,0 +1,49 @@
+{
+  "0": {
+  "displayProperties": {
+    "name": "Classificato",
+    "description": "Mantieni il segreto."
+    },
+    "itemTypeDisplayName": "Informazioni insufficienti"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "Uno dei cinque artefatti richiesti per il catalizzatore di Linea Oraria Zero."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "Uno dei cinque artefatti richiesti per il catalizzatore di Linea Oraria Zero."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "Uno dei cinque artefatti richiesti per il catalizzatore di Linea Oraria Zero."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "Uno dei cinque artefatti richiesti per il catalizzatore di Linea Oraria Zero."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "Uno dei cinque artefatti richiesti per il catalizzatore di Linea Oraria Zero."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "Aumenta l'esperienza del tuo Guardiano"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "Nessuna prodigio attualmente selezionato.",
+      "name": "Alloggiamento Prodigio Vuoto"
+    },
+    "itemTypeDisplayName": "Modifica arma",
+    "inventory": {
+      "tierTypeName": "Comune"
+    }
+  }
+}

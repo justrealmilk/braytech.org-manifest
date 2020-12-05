@@ -1,0 +1,65 @@
+{
+  "winRate": {
+    "statName": "Sieg-Rate"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Wappen gesichert"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Wappen wiederhergestellt"
+  },
+  "supremacySecureRate": {
+    "statName": "Sicherungsrate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kill bestätigt"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Verbündeten Kill bestätigt"
+  },
+  "highValueKills": {
+    "statName": "hochwertige Kills"
+  },
+  "invasionKills": {
+    "statName": "Kills als Eindringling"
+  },
+  "invasionDeaths": {
+    "statName": "Tode als Eindringling"
+  },
+  "invaderKills": {
+    "statName": "Eindringlinge getötet"
+  },
+  "invaderDeaths": {
+    "statName": "Tode durch Eindringlingen"
+  },
+  "primevalDamage": {
+    "statName": "Uhrzeitler Schaden"
+  },
+  "primevalKills": {
+    "statName": "Uhrzeitler Kills"
+  },
+  "motesDenied": {
+    "statName": "Partikel abgewehrt"
+  },
+  "invasions": {
+    "statName": "Invasionen"
+  },
+  "blockerKills": {
+    "statName": "Blocker Kills"
+  },
+  "smallBlockersSent": {
+    "statName": "Kleine Blocker gesendet"
+  },
+  "mediumBlockersSent": {
+    "statName": "Mittlere Blocker gesendet"
+  },
+  "largeBlockersSent": {
+    "statName": "Große Blocker gesendet"
+  },
+  "precisionKills": {
+    "statName": "Präzision"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Genauigkeit"
+  }
+}

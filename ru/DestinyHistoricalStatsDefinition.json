@@ -1,0 +1,74 @@
+{
+  "killsDeathsRatio": {
+    "statName": "У/С"
+  },
+  "winRate": {
+    "statName": "Процент побед"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Гербов подтверждено"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Гербов восстановлено"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Убийств защищено"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Союзных убийств защищено"
+  },
+  "highValueKills": {
+    "statName": "Убийств важных целей"
+  },
+  "invasionKills": {
+    "statName": "Убийств захватчиком"
+  },
+  "invasionDeaths": {
+    "statName": "Смертей за захватчика"
+  },
+  "invaderKills": {
+    "statName": "Убийств захватчиков"
+  },
+  "invaderDeaths": {
+    "statName": "Смертей от захватчиков"
+  },
+  "primevalDamage": {
+    "statName": "Урона первобытнику"
+  },
+  "primevalKills": {
+    "statName": "Убийств первобытников"
+  },
+  "motesDenied": {
+    "statName": "Частиц выбито"
+  },
+  "invasions": {
+    "statName": "Вторжений"
+  },
+  "blockerKills": {
+    "statName": "Убийств защитников"
+  },
+  "smallBlockersSent": {
+    "statName": "Маленьких защитников отправлено"
+  },
+  "mediumBlockersSent": {
+    "statName": "Средних защитников отправлено"
+  },
+  "largeBlockersSent": {
+    "statName": "Больших защитников отправлено"
+  },
+  "precisionKills": {
+    "statName": "Точных убийств"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Точность"
+  },
+  "elo": {
+    "statName": "Эло"
+  },
+  "opponentsDefeated": {
+    "statName": "Убийств и содействий"
+  }
+}

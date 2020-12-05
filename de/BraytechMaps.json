@@ -1,0 +1,317 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "Die Konfluenz West",
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Die Konfluenz Ost",
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Die Konfluenz Süd",
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Ouroborea",
+      "description": "Zerstöre alle Seuchen und kehre dann ins Foyer zurück, um die zuvor immunen Leere-Kristalle zu zerbrechen.\n\n_Nimm diese Herausforderung an, gehe zwischen die Welten und mache rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Ouroborea",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Bussschrein",
+      "description": "Überwinde die Hauptfäule, indem du alle drei Ladungen darunter ablegst. Eliminiere die Ritter der Schar.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Bussschrein",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Splitterruinen",
+      "description": "Klettere auf die Ruinen und eliminiere die Gefallenen-Phalanx.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Splitterruinen",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "10": {
+    "displayProperties": {
+      "name": "Bergfried der Geschliffenen",
+      "description": "Eliminiere die Schar Hexen, hebe ein Schwert und besiege die Schar Ritter.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "11": {
+    "displayProperties": {
+      "name": "Bergfried der Geschliffenen",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "12": {
+    "displayProperties": {
+      "name": "Preisrichter Abgrund",
+      "description": "Erreichen Sie den Boden und eliminieren Sie die Besessenen Zauberer.\n\n_Nehmen Sie diese Herausforderung an, gehen Sie zwischen den Welten und machen Sie rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Preisrichter Abgrund",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "14": {
+    "displayProperties": {
+      "name": "Cimmerische Garnison",
+      "description": "Diese Herausforderung führt zu einem Kampf zwischen dem Hüter, einem Schar Ritter und drei Schar Kreischer auf einer geräumigen Plattform mit unterschiedlichem Schutz vor feindlichem Feuer.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+    },
+    "type": {
+      "name": "Aszendenten-Herausforderung"
+    }
+  },
+  "15": {
+    "displayProperties": {
+      "name": "Cimmerische Garnison",
+      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "16": {
+    "displayProperties": {
+      "description": "Besiege diesen Albtraum, um den Rekord _Wandernde Albträume_ zu erreichen."
+    },
+    "type": {
+      "name": "Patrouillen-Boss"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "description": "Besiege diesen Albtraum, um den Rekord _Wandernde Albträume_ zu erreichen."
+    },
+    "type": {
+      "name": "Patrouillen-Boss"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "description": "Besiege diesen Albtraum, um den Rekord _Wandernde Albträume_ zu erreichen."
+    },
+    "type": {
+      "name": "Patrouillen-Boss"
+    }
+  },
+  "19": {
+    "displayProperties": {
+      "description": "Besiege diesen Albtraum, um den Rekord _Wandernde Albträume_ zu erreichen."
+    },
+    "type": {
+      "name": "Patrouillen-Boss"
+    }
+  },
+  "24": {
+    "displayProperties": {
+      "description": "Oben auf der Klippe mit Blick auf die gewundene Bucht, in der Nähe, wo Xûr manchmal auftaucht."
+    }
+  },
+  "33": {
+    "displayProperties": {
+      "description": "Links vom Eingang des verlorenen Sektors, schlecht beleuchtet, hinter einigen Kisten."
+    }
+  },
+  "34": {
+    "displayProperties": {
+      "description": "Ganz oben links auf den Felsen."
+    }
+  },
+  "35": {
+    "displayProperties": {
+      "description": "Hinter der Landezone."
+    }
+  },
+  "37": {
+    "displayProperties": {
+      "description": "Im hinteren Teil des beschädigten Gebäudes, im dritten Stock, in einem Raum auf der rechten Seite."
+    }
+  },
+  "38": {
+    "displayProperties": {
+      "description": "Hinter dem Wasserfall."
+    }
+  },
+  "39": {
+    "displayProperties": {
+      "description": "In der Decke des Dammes."
+    }
+  },
+  "40": {
+    "displayProperties": {
+      "description": "Durch die Schuttmauer."
+    }
+  },
+  "182": {
+    "displayProperties": {
+      "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche den Gegenstand auf dem Weg nach draußen."
+    }
+  },
+  "183": {
+    "displayProperties": {
+      "description": "Benötigt ein Firewall-Datenfragment. Erhalten durch einen Beutezug von Eris Morn."
+    }
+  },
+  "184": {
+    "displayProperties": {
+      "description": "Gehe über das Torhaus in den Knochenzirkel, dreh dich nach Rechts und folge der Schleife zum Höllenschlund. Vor dem nächsten Kreuzung, schau unter die Plattform um zwei Jade-Augen zu finden, die durch Ihr vom Reisenden gegebenes Licht stechen."
+    }
+  },
+  "215": {
+    "displayProperties": {
+      "description": "Betritt den Dungeon und gehe zum Turm ganz rechts. Behalte wenn möglich etwas Höhe bei. Auf der am weitest entfernten Seite des am weitest entfernten Turms, unterhalb seines Fußes, befindet sich eine Chiffre."
+    }
+  },
+  "216": {
+    "displayProperties": {
+      "description": "Beende die Begegnung vor der Nekropole und gehe weiter in Richtung Grube. Sobald du an der Wand der Wege angekommen sind, klettere und drehe dich um. Rechts von der Halle befindet sich eine kleine Kante entlang der Mondsteinmauer. Verwende sie, um in die obere Ebene des Flurs und weiter zur äußersten rechten Seite zu gelangen."
+    }
+  },
+  "217": {
+    "displayProperties": {
+      "description": "Schließe die Begegnung _Kammer des Leidens_ ab, bevor du durch Überqueren der Fallen tiefer gehen kannst und klettere vorsichtig auf die höchste Stufe."
+    }
+  },
+  "218": {
+    "displayProperties": {
+      "description": "Lass dich in die Tunnel der Verzweiflung fallen und halte dich rechts. Folge geduckt dem ersten Weg bis zum Ende. Du wirst eine rote Tür sehen. An der roten Tür stehend um 70° im Uhrzeigersinn drehen. Du wirst auf einen Felsbrocken schauen. Rechts vom Felsbrocken befindet sich der Preis, den du suchst."
+    }
+  },
+  "219": {
+    "displayProperties": {
+      "description": "Im mittleren Tunnel, der der grünen Gasgrube am nächsten liegt, in der sich die Sonnenkugel befindet. Wenn du den Tunnel von der Seite der grünen Gasgrube aus betrittst, wird er sich schnell zu einem kleinen Raum erweitern. Halten an, drehen dich um 180° und schaue nach oben."
+    }
+  },
+  "223": {
+    "displayProperties": {
+      "description": "Betritt das Torhaus über den Höllenschlund und folge ihm zu einem gut beleuchteten runden Raum. Suche entlang der Wand mit dem Fenster."
+    }
+  },
+  "225": {
+    "displayProperties": {
+      "description": "An der Seite der versteckten Seite des abgebildeten Moduls."
+    }
+  },
+  "227": {
+    "displayProperties": {
+      "description": "In den _Tunneln der Verzweiflung_, auf einem Felsvorsprung neben der grünen Gasgrube."
+    }
+  },
+  "278": {
+    "displayProperties": {
+      "name": "Königinnenhof",
+      "description": "Ein Portal zum _Königinnenhof_, Mara Sov's Thron Welt."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  },
+  "279": {
+    "displayProperties": {
+      "description": "Wenn du den Königinnenhof erreicht hast, erklimm die Mauer links vom Thron."
+    }
+  },
+  "288": {
+    "displayProperties": {
+      "description": "Laufe an dem verlorenen Sektoreingangskreuzung vorbei und folge dem Weg."
+    }
+  },
+  "292": {
+    "displayProperties": {
+      "description": "Klippenseite, unter dem Weg, der zu einem verlorenen Sektor führt."
+    }
+  },
+  "293": {
+    "displayProperties": {
+      "description": "Auf dem Catwalk."
+    }
+  },
+  "301": {
+    "displayProperties": {
+      "description": "Sitzt auf der Mittelwand des _Immerforst_."
+    }
+  },
+  "302": {
+    "extended": {
+      "instructions": "Diese Truhe erfordert, dass man ihre Realität überschreitet. Folgendes ist zu tun:\n\n1. In der Nähe von Bruder Vance findest du ein Buch. Untersuche es.\n2. Um 180° drehen. Gehe zur äußersten Wand und finde die nächste Ausgabe im Bücherregal. Untersuche es.\n3. Gehe zum Bücherregal rechts vom Eingang und suchen Sie die nächste Ausgabe neben der Feuerstelle am unteren Rand des Bücherregals. Untersuche es.\n4. Kehre zum ersten Bücherregal zurück und finde die nächste Ausgabe auf dem Schreibtisch neben dem Schüler. Untersuche es.\n5. Das letzte Buch ist hoch oben in einem Bücherregal quer durch den Raum bei der Schmiede versteckt. Untersuche es.\n6. Ein _Vex Conflux_ wird angezeigt. Untersuche es."
+    }
+  },
+  "438": {
+    "displayProperties": {
+      "description": "In der Nähe der Heiligtümer des Vex Conflux, zwischen den Wurzeln eines toten Baumes."
+    }
+  },
+  "596": {
+    "displayProperties": {
+      "name": "Klippe über den Salzminen",
+      "description": "Ein Portal zur Spitze der Klippen in den _Salzminen_, angetrieben durch Jury-manipulierten _Gefallenen_ Teile."
+    },
+    "type": {
+      "name": "Portal"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "killsDeathsRatio": {
+    "statName": "U/M"
+  },
+  "winRate": {
+    "statName": "Vittorie %"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Sigilli raccolti"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Sigilli recuperati"
+  },
+  "supremacySecureRate": {
+    "statName": "Rapporto sigilli raccolti"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Uccisioni confermate"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Uccisioni alleate confermate"
+  },
+  "highValueKills": {
+    "statName": "Uccisioni Alto Valore"
+  },
+  "invasionKills": {
+    "statName": "Uccisioni come invasore"
+  },
+  "invasionDeaths": {
+    "statName": "Morti come invasore"
+  },
+  "invaderKills": {
+    "statName": "Invasori sconfitti"
+  },
+  "invaderDeaths": {
+    "statName": "Morti da invasori"
+  },
+  "primevalDamage": {
+    "statName": "Danno Primordiale"
+  },
+  "primevalKills": {
+    "statName": "Uccisioni Primordiale"
+  },
+  "motesDenied": {
+    "statName": "Particelle negate"
+  },
+  "invasions": {
+    "statName": "Invasioni"
+  },
+  "blockerKills": {
+    "statName": "Uccisioni assedianti"
+  },
+  "smallBlockersSent": {
+    "statName": "Assedianti piccoli inviati"
+  },
+  "mediumBlockersSent": {
+    "statName": "Assedianti medi inviati"
+  },
+  "largeBlockersSent": {
+    "statName": "Assedianti grandi inviati"
+  },
+  "precisionKills": {
+    "statName": "Precisione"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Mira"
+  },
+  "elo": {
+    "statName": "Elo"
+  },
+  "opponentsDefeated": {
+    "statName": "Uccisioni + Assist"
+  }
+}

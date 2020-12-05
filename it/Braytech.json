@@ -1,0 +1,184 @@
+{
+  "platform_xbox": {
+    "displayProperties": {
+      "name": "Xbox",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
+  "platform_playstation": {
+    "displayProperties": {
+      "name": "Playstation",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
+  "platform_steam": {
+    "displayProperties": {
+      "name": "Steam",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
+  "platform_battlenet": {
+    "displayProperties": {
+      "name": "Battle.net",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
+  "platform_stadia": {
+    "displayProperties": {
+      "name": "Stadia",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
+  "warmind": {
+    "displayProperties": {
+      "name": "Sovrintendente",
+      "description": "Tom Chapman, creatore e ingeniere di Braytech."
+    },
+    "itemTypeDisplayName": "Intelligenza Artificiale"
+  },
+  "patron-veteran": {
+    "displayProperties": {
+      "name": "Subroutine",
+      "description": "Questo guardiano è un faro di luce che, attraverso le sue azioni, ha dimostrato di valorizzare il coraggio e il servizio sopra ogni altra cosa."
+    },
+    "itemTypeDisplayName": "Ricompensa Patron"
+  },
+  "patron": {
+    "displayProperties": {
+      "name": "Ricercatore",
+      "description": "Un compagno tecnico di Clovis Bray, questo Guardiano cerca di migliorare Braytech."
+    },
+    "itemTypeDisplayName": "Ricompensa Patron"
+  },
+  "commonality": {
+    "displayProperties": {
+      "name": "Rarità",
+      "description": "Una rappresentazione del numero di giocatori che hanno acquisito o riscattato questa voce."
+    }
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Valore punteggio",
+      "description": "Il valore in punti di questo trionfo."
+    }
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Fasi trionfi",
+      "description": "Alcuni trionfi hanno fasi. Differenti fasi hanno vari requisiti e punteggi."
+    }
+  },
+  "character_bound": {
+    "displayProperties": {
+      "name": "Legato al personaggio",
+      "description": "Questi oggetti sono legati al personaggio. Ciò significa che ogni personaggio li scoprirà unicamente."
+    }
+  },
+  "coverage": {
+    "displayProperties": {
+      "name": "Copertura",
+      "description": "La copertura in percentuale di questa traduzione."
+    }
+  },
+  "total_resets": {
+    "displayProperties": {
+      "name": "Reset totali",
+      "description": "I reset di tutte le stagioni. Dalla Stagione 4 in poi."
+    }
+  },
+  "destiny_tracker_elo": {
+    "displayProperties": {
+      "name": "Destiny Tracker Elo",
+      "description": "Elo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."
+    }
+  },
+  "braytech_purple_rune": {
+    "displayProperties": {
+      "description": "Una runa viola. Le rune viola includono: Runa della Gioia, Runa della Bestia e Runa del Giubilo.",
+      "name": "Runa Viola"
+    },
+    "itemTypeDisplayName": "Materiale",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Leggenda"
+    }
+  },
+  "braytech_red_rune": {
+    "displayProperties": {
+      "description": "Una runa rossa. Le rune rosse includono: Runa dell'Ambizione, Runa dell'Ingordigia e Runa dell'Astuzia.",
+      "name": "Runa Rossa"
+    },
+    "itemTypeDisplayName": "Materiale",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Leggenda"
+    }
+  },
+  "braytech_green_rune": {
+    "displayProperties": {
+      "description": "Una runa verde. Rune verdi includono: Runa della Guerra, Runa dell'Orgoglio e Runa del Desiderio.",
+      "name": "Runa Verde"
+    },
+    "itemTypeDisplayName": "Materiale",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Leggenda"
+    }
+  },
+  "braytech_blue_rune": {
+    "displayProperties": {
+      "description": "Una runa blu. Rune blu includono: Runa dell'Eccesso, Runa della Ricchezza e Runa del Piacere.",
+      "name": "Runa Blu"
+    },
+    "itemTypeDisplayName": "Materiale",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Leggenda"
+    }
+  },
+  "braytech_no_rune": {
+    "displayProperties": {
+      "description": "Inserisci runa in questo slot",
+      "name": "Slot vuoto"
+    },
+    "itemTypeDisplayName": "Azione",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Comune"
+    }
+  },
+  "braytech_remove_rune": {
+    "displayProperties": {
+      "description": "Rimuovi runa da questo slot",
+      "name": "Slot vuoto"
+    },
+    "itemTypeDisplayName": "Azione",
+    "itemTypeAndTierDisplayName": "Materiale Leggendario",
+    "inventory": {
+      "tierTypeName": "Comune"
+    }
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Memorie Latenti",
+      "description": "Misteriosi nodi di test sono sparsi per Marte. Qual è il loro scopo?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Errore Sconosciuto",
+      "description": "Si è verificato un errore durante il rendering di questo tooltip.\n\nQuesto errore è probabilmente temporaneo. Sentite scuse."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Dati obsoleti",
+      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie. Interagisci con l'app per riprendere l'aggiornamento del profilo in background."
+    }
+  }
+}

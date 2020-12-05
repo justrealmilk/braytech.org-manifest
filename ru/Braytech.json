@@ -1,0 +1,314 @@
+{
+  "platform_xbox": {
+    "displayProperties": {
+      "name": "Xbox",
+      "description": "Платформа, к которой принадлежит этот профиль."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Платформа"
+  },
+  "platform_playstation": {
+    "displayProperties": {
+      "name": "Playstation",
+      "description": "Платформа, к которой принадлежит этот профиль."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Платформа"
+  },
+  "platform_steam": {
+    "displayProperties": {
+      "name": "Steam",
+      "description": "Платформа, к которой принадлежит этот профиль."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Платформа"
+  },
+  "platform_battlenet": {
+    "displayProperties": {
+      "name": "Battle.net",
+      "description": "Платформа, к которой принадлежит этот профиль."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Платформа"
+  },
+  "platform_stadia": {
+    "displayProperties": {
+      "name": "Stadia",
+      "description": "Платформа, к которой принадлежит этот профиль."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Платформа"
+  },
+  "warmind": {
+    "displayProperties": {
+      "name": "Руководитель",
+      "description": "Том Чапмен, создатель и разработчик Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Искусственный интеллект"
+  },
+  "patron-veteran": {
+    "displayProperties": {
+      "name": "Подпрограмма",
+      "description": "Этот Страж - маяк света, который своими действиями доказал, что ценит храбрость и служба превыше всего."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Награда Patron"
+  },
+  "patron": {
+    "displayProperties": {
+      "name": "Исследователь",
+      "description": "Технический сотрудник Clovis Bray, этот Страж стремится улучшить Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Награда Patron"
+  },
+  "commonality": {
+    "displayProperties": {
+      "name": "Редкость",
+      "description": "Процент игроков, проиндексированных VOLUSPA, которые получили или выполнили это."
+    },
+    "itemType": 1
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Очки триумфа",
+      "description": "Выполнение триумфа принесет данное количество очков."
+    },
+    "itemType": 1
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Очки триумфа",
+      "description": "Выполнение оставшихся этапов триумфа принесет данное количество очков."
+    },
+    "itemType": 1
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Этапы триумфов",
+      "description": "Некоторые триумфы имеют этапы. Каждый последующий этап имеет увеличенные требования и награду."
+    },
+    "itemType": 1
+  },
+  "character_bound": {
+    "displayProperties": {
+      "name": "Привязано к персонажу",
+      "description": "Эти предметы привязаны к персонажу. Это означает, что для каждого персонажа они уникальны."
+    },
+    "itemType": 1
+  },
+  "coverage": {
+    "displayProperties": {
+      "name": "Перевод",
+      "description": "Процент перевода на данный язык."
+    },
+    "itemType": 1
+  },
+  "total_resets": {
+    "displayProperties": {
+      "name": "Всего обнулений",
+      "description": "Все сезонные обнуления. Отслеживаются начиная с 4 сезона."
+    },
+    "itemType": 1
+  },
+  "destiny_tracker_elo": {
+    "displayProperties": {
+      "name": "Destiny Tracker Elo",
+      "description": "Эло рейтинг с стороннего веб сайта _Destiny Tracker_. _Destiny Tracker_ начисляет Elo рейтинг всем игрокам Destiny, которые играли в _Горнило_ и _Гамбит_."
+    },
+    "itemType": 1
+  },
+  "braytech_purple_rune": {
+    "displayProperties": {
+      "description": "Фиолетовая руна. Фиолетовые руны включают; Руну Радости, Руну Зверя, и Руну Ликования.",
+      "name": "Фиолетовая руна",
+      "icon": "/static/images/extracts/ui/rune_purple.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Материал",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Легендарный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Легендарный",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune0",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_red_rune": {
+    "displayProperties": {
+      "description": "Красная руна. Красные руны включают; Руну Амбиций, Руну Чревоугодий, и Руну Хитрости.",
+      "name": "Красная руна",
+      "icon": "/static/images/extracts/ui/rune_red.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Материал",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Легендарный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Легендарный",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune3",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_green_rune": {
+    "displayProperties": {
+      "description": "Зеленая руна. Зеленые руны включают; Руну Войны, Руну Гордости, и Руну Желания.",
+      "name": "Green Rune",
+      "icon": "/static/images/extracts/ui/rune_green.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Материал",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Легендарный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Легендарный",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune6",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_blue_rune": {
+    "displayProperties": {
+      "description": "Синяя руна. Синие руны включают; Руну Избытка, Руну Богатства, и Руну Удовольствия.",
+      "name": "Blue Rune",
+      "icon": "/static/images/extracts/ui/rune_blue.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Материал",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Легендарный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Легендарный",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune9",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_no_rune": {
+    "displayProperties": {
+      "description": "Вставьте руну в эту ячейку",
+      "name": "Пустая ячейка",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Действие",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Обычный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Обычный",
+      "tierType": 1
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune20",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_remove_rune": {
+    "displayProperties": {
+      "description": "Удалите руну из данной ячейки",
+      "name": "Пустая ячейка",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+       "localIcon": true,
+      "hasIcon": true
+   },
+   "itemTypeDisplayName": "Действие",
+   "uiItemDisplayStyle": "",
+   "itemTypeAndTierDisplayName": "Обычный материал",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Обычный",
+      "tierType": 1
+    },
+    "plug": {
+     "plugCategoryIdentifier": "penumbra.runes.legendary.rune21",
+     "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Скрытые воспоминания",
+      "description": "По всему Марсу разбросаны загадочные тестировочные узлы. Каково их предназначение?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Неизвестная ошибка",
+      "description": "Произошла ошибка при обработке этой подсказки.\n\nВероятно, это временная ошибка. Просим прощения."
+    }
+  }
+}

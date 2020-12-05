@@ -1,0 +1,68 @@
+{
+  "killsDeathsRatio": {
+    "statName": "B/M"
+  },
+  "winRate": {
+    "statName": "Índice de victorias"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Insignias aseguradas"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Insignias recuperadas"
+  },
+  "supremacySecureRate": {
+    "statName": "Índice de asegurado"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Bajas aseguradas"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Bajas de aliados aseguradas"
+  },
+  "highValueKills": {
+    "statName": "Bajas de blanco prioritario"
+  },
+  "invasionKills": {
+    "statName": "Bajas como invasor"
+  },
+  "invasionDeaths": {
+    "statName": "Muertes como invasor"
+  },
+  "invaderKills": {
+    "statName": "Bajas de invasores"
+  },
+  "invaderDeaths": {
+    "statName": "Muertes por invasor"
+  },
+  "primevalDamage": {
+    "statName": "Daño al Primordial"
+  },
+  "primevalKills": {
+    "statName": "Bajas de Primordiales"
+  },
+  "motesDenied": {
+    "statName": "Motas denegadas"
+  },
+  "invasions": {
+    "statName": "Invasiones"
+  },
+  "blockerKills": {
+    "statName": "Bajas de bloqueadores"
+  },
+  "smallBlockersSent": {
+    "statName": "Bloqueadores pequeños enviados"
+  },
+  "mediumBlockersSent": {
+    "statName": "Bloqueadores medianos enviados"
+  },
+  "largeBlockersSent": {
+    "statName": "Bloqueadores grandes enviados"
+  },
+  "precisionKills": {
+    "statName": "Precisión"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Puntería"
+  }
+}

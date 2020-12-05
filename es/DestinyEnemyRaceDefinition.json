@@ -1,0 +1,88 @@
+{
+  "1636291695": {
+    "displayProperties": {
+      "name": "Caídos"
+    },
+    "factions": [
+      {
+        "hash": "devils",
+        "displayProperties": {
+          "name": "Casa de los Demonios"
+        }
+      },
+      {
+        "hash": "judgement",
+        "displayProperties": {
+          "name": "Casa del Juicio"
+        }
+      },
+      {
+        "hash": "kings",
+        "displayProperties": {
+          "name": "Casa de los Reyes"
+        }
+      },
+      {
+        "hash": "winter",
+        "displayProperties": {
+          "name": "Casa del Invierno"
+        }
+      },
+      {
+        "hash": "wolves",
+        "displayProperties": {
+          "name": "Casa de los Lobos"
+        }
+      },
+      {
+        "hash": "spider",
+        "displayProperties": {
+          "name": "Sindicato del Crimen de la Araña"
+        }
+      },
+      {
+        "hash": "dusk",
+        "displayProperties": {
+          "name": "Casa del Anochecer"
+        }
+      }
+    ]
+  },
+  "546070638": {
+    "displayProperties": {
+      "name": "Cabal"
+    },
+    "factions": [
+      {
+        "hash": "red",
+        "displayProperties": {
+          "name": "Legión Roja",
+          "description": "La Legión Roja es una legión de élite de los Cabal liderada por el Emperador Cabal, Dominus Ghaul."
+        }
+      }
+    ]
+  },
+  "711470098": {
+    "displayProperties": {
+      "name": "Vex"
+    }
+  },
+  "3265589059": {
+    "displayProperties": {
+      "name": "Colmena"
+    },
+    "factions": [
+      {
+        "hash": "crota",
+        "displayProperties": {
+          "name": "Progenie de Crota"
+        }
+      }
+    ]
+  },
+  "1371537226": {
+    "displayProperties": {
+      "name": "Poseídos"
+    }
+  }
+}

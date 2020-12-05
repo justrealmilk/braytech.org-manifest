@@ -1,0 +1,388 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "La Confluenza Ovest",
+      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "La Confluenza Est",
+      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "La Confluenza Sud",
+      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Ouroborea",
+      "description": "Distruggi tutte le piaghe e ritorna all'ingresso per frantumare i cristalli del Vuoto precedentemente immuni.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Ouroborea",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Altare del Pegno",
+      "description": "Sopprimi la piaga principale depositando tutte e tre le cariche sottostanti. Elimina i Cavalieri dell'Alveare.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Altare del Pegno",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Rovine Infrante",
+      "description": "Scala le rovine ed elimina la Falange Corrotta.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Rovine Infrante",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "10": {
+    "displayProperties": {
+      "name": "Rocca dei Fili Affinati",
+      "description": "Elimina le Maliarde dell'Alveare, evoca una spada e sconfiggi i Cavalieri dell'Alveare.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "11": {
+    "displayProperties": {
+      "name": "Rocca dei Fili Affinati",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "12": {
+    "displayProperties": {
+      "name": "Abisso Agonarca",
+      "description": "Raggiungi il fondo ed elimina le Maliarde Corrotte.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Abisso Agonarca",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "14": {
+    "displayProperties": {
+      "name": "Bastione Cimmerio",
+      "description": "Questa sfida culmina in una lotta tra il Guardiano, un Cavaliere dell'Alveare e tre Urlatori su una piattaforma spaziosa con varie coperture dal fuoco nemico.\n\n_Accetta questa sfida, cammina tra i mondi, e annulla ciò che è stato fatto._"
+    },
+    "type": {
+      "name": "Sfida Ascendente",
+      "hash": "ascendant-challenge"
+    }
+  },
+  "15": {
+    "displayProperties": {
+      "name": "Bastione Cimmerio",
+      "description": "Un portale per il _Piano Ascendente_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "16": {
+    "displayProperties": {
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+    },
+    "type": {
+      "name": "Boss Pattuglia",
+      "hash": "patrol-boss"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+    },
+    "type": {
+      "name": "Boss Pattuglia",
+      "hash": "patrol-boss"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+    },
+    "type": {
+      "name": "Boss Pattuglia",
+      "hash": "patrol-boss"
+    }
+  },
+  "19": {
+    "displayProperties": {
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+    },
+    "type": {
+      "name": "Boss Pattuglia",
+      "hash": "patrol-boss"
+    }
+  },
+  "24": {
+    "displayProperties": {
+      "description": "Sulla collina, con vista sulla Baia Tortuosa, vicino al luogo dove Xûr appare qualche volta."
+    }
+  },
+  "33": {
+    "displayProperties": {
+      "description": "A sinistra dell'entrata del settore perduto, scarsamente illuminato, dietro alcune casse."
+    }
+  },
+  "34": {
+    "displayProperties": {
+      "description": "Nell'angolo in alto a sinistra, sugli scogli."
+    }
+  },
+  "35": {
+    "displayProperties": {
+      "description": "Dietro la zona di atterraggio del viaggio rapido."
+    }
+  },
+  "37": {
+    "displayProperties": {
+      "description": "Nel retro della struttura danneggiata, al terzo piano, in una stanza a destra."
+    }
+  },
+  "38": {
+    "displayProperties": {
+      "description": "Attraverso la cascata."
+    }
+  },
+  "39": {
+    "displayProperties": {
+      "description": "All'interno del soffitto rialzato."
+    }
+  },
+  "40": {
+    "displayProperties": {
+      "description": "Attraverso il muro di mattoni in macerie."
+    }
+  },
+  "109": {
+    "displayProperties": {
+      "description": "Congelato in un blocco di ghiaccio. Trova un _capitano caduto_ nei pressi degli ascensori dell'_Accesso a Neo-Riis_ chiamato _Ferkis, Fragore della Salvezza_—ti lascierà ciò di cui hai bisogno."
+    }
+  },
+  "182": {
+    "displayProperties": {
+      "description": "Dopo aver completato il settore perduto, procedi verso l'uscita e troverai il soggetto sulla via."
+    }
+  },
+  "183": {
+    "displayProperties": {
+      "description": "Richiede un Frammento di Dati del Firewall. Ottieni i prerequisiti attraverso Eris Morn."
+    }
+  },
+  "184": {
+    "displayProperties": {
+      "description": "Entrando nel Cerchio delle Ossa tramite la Guardiola, svolta a destra e procedi seguendo il cerchio attorno alla Bocca dell'Inferno. Prima di raggiungere l'incrocio successivo, girati e guarda sotto la piattaforma per trovare due occhi di giada che penetrano nella tua luce data dal Viaggiatore."
+    }
+  },
+  "215": {
+    "displayProperties": {
+      "description": "Entra nella segreta, dirigiti verso la torre più a destra e, se possibile, mantieni un po' di altitudine. Sul lato più lontano della torre più lontana, alla base, c'è un cifrario."
+    }
+  },
+  "216": {
+    "displayProperties": {
+      "description": "Completa la fase della Necropoli e procedi verso La Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
+    }
+  },
+  "217": {
+    "displayProperties": {
+      "description": "Completa la fase dell'_Androne del Tormento_. Prima di proseguire attraversando le trappole verticali, sali con attenzione fino al livello più alto."
+    }
+  },
+  "218": {
+    "displayProperties": {
+      "description": "Scendi nelle _Gallerie della Disperazione_ e mantieni la destra. Entra al primo buco e seguilo fino alla fine. Vedrai una porta rossa. Stando alla porta rossa gira di 70° in senso orario. Starai fissando un masso. A destra del masso c'è il premio che cerchi."
+    }
+  },
+  "219": {
+    "displayProperties": {
+      "description": "Nel tunnel più al centro, il più vicino alla fossa di gas verde dove si trova la sfera solare. Entrando nel tunnel dal lato della fossa del gas verde, si allargherà rapidamente in una piccola stanza. Fermati, gira di 180 ° e guarda in alto."
+    }
+  },
+  "223": {
+    "displayProperties": {
+      "description": "Entra nella Guardiola attraverso la Bocca dell'Inferno e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
+    }
+  },
+  "225": {
+    "displayProperties": {
+      "description": "Di lato nel lato nascosto del modulo in figura."
+    }
+  },
+  "227": {
+    "displayProperties": {
+      "description": "Nelle _Gallerie della Desperazione_, su una sporgenza di scogliera adiacente alla fossa di gas verde."
+    }
+  },
+  "278": {
+    "displayProperties": {
+      "name": "Corte della Regina",
+      "description": "Un portale per la _Corte della Regina_, il Tronomondo di Mara Sov."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "279": {
+    "displayProperties": {
+      "description": "Una volta raggiunta la _Corte della Regina_ scala il muro a sinistra del trono."
+    }
+  },
+  "288": {
+    "displayProperties": {
+      "description": "Supera l'incrocio di accesso al settore perduto e prosegui lungo la passerella."
+    }
+  },
+  "292": {
+    "displayProperties": {
+      "description": "Sul lato scogliera, sotto il sentiero che porta al settore perduto."
+    }
+  },
+  "293": {
+    "displayProperties": {
+      "description": "Sulla passerella."
+    }
+  },
+  "301": {
+    "displayProperties": {
+      "description": "Appolaiato sulla parete centrale della _Foresta Infinita_."
+    }
+  },
+  "438": {
+    "displayProperties": {
+      "description": "Vicino al _Confluenza Vex del Reliquiario_, tra le radici di un albero morto."
+    }
+  },
+  "596": {
+    "displayProperties": {
+      "name": "Scogliere delle Miniere di Sale",
+      "description": "Un portale per la cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
+    },
+    "type": {
+      "name": "Portale",
+      "hash": "portal"
+    }
+  },
+  "597": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "598": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "599": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "600": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "601": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "602": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "603": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "604": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "605": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  },
+  "606": {
+    "displayProperties": {
+      "description": "Richiede sintonizzazione "
+    }
+  }
+}

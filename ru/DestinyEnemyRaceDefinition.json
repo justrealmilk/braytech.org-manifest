@@ -1,0 +1,88 @@
+{
+  "1636291695": {
+    "displayProperties": {
+      "name": "Падшие"
+    },
+    "factions": [
+      {
+        "hash": "devils",
+        "displayProperties": {
+          "name": "Дом дьяволов"
+        }
+      },
+      {
+        "hash": "judgement",
+        "displayProperties": {
+          "name": "Дом правосудия"
+        }
+      },
+      {
+        "hash": "kings",
+        "displayProperties": {
+          "name": "Дом королей"
+        }
+      },
+      {
+        "hash": "winter",
+        "displayProperties": {
+          "name": "Дом зимы"
+        }
+      },
+      {
+        "hash": "wolves",
+        "displayProperties": {
+          "name": "Дом волков"
+        }
+      },
+      {
+        "hash": "spider",
+        "displayProperties": {
+          "name": "Преступный синдикат Паука"
+        }
+      },
+      {
+        "hash": "dusk",
+        "displayProperties": {
+          "name": "Дом пыли"
+        }
+      }
+    ]
+  },
+  "546070638": {
+    "displayProperties": {
+      "name": "Кабал"
+    },
+    "factions": [
+      {
+        "hash": "red",
+        "displayProperties": {
+          "name": "Красный легион",
+          "description": "Красный легион это элита легионов Кабал ранее возглавляемый императором Кабал, Гоулом Доминусом."
+        }
+      }
+    ]
+  },
+  "711470098": {
+    "displayProperties": {
+      "name": "Вексы"
+    }
+  },
+  "3265589059": {
+    "displayProperties": {
+      "name": "Улей"
+    },
+    "factions": [
+      {
+        "hash": "crota",
+        "displayProperties": {
+          "name": "Порождения Кроты"
+        }
+      }
+    ]
+  },
+  "1371537226": {
+    "displayProperties": {
+      "name": "Одержимые"
+    }
+  }
+}

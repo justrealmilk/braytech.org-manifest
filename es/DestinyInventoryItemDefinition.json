@@ -1,0 +1,49 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Clasificado",
+      "description": "Mantenlo limpio."
+    },
+    "itemTypeDisplayName": "Autorización insuficiente"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea mundial Cero."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea mundial Cero."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea mundial Cero."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea mundial Cero."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea mundial Cero."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "Aumenta la experiencia de tu Guardián"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "Ninguna obra maestra seleccionada",
+      "name": "Ranura de Obra Maestra vacía"
+    },
+    "itemTypeDisplayName": "Modificador de arma",
+    "inventory": {
+      "tierTypeName": "Común"
+    }
+  }
+}
