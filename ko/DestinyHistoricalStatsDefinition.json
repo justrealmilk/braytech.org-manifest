@@ -1,168 +1,16 @@
 {
-  "medals_pvecomp_medal_void_blade_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007772.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_denied": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007671.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_revenge": {
-    "iconImage": "/static/images/extracts/medals/gambit/0560-00002176.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_massacre": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007809.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_first_to_block": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007764.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_big_game_hunter": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007760.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_bank_kill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007726.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_tags_denied_15": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007662.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_invader_kill_four": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007660.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_killmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007770.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_thermal_sword_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007812.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_overkillmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007654.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_no_escape": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007777.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_locksmith": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007798.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_void_bow_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007792.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_blockbuster": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007691.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_revenge_same_invasion": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007769.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_never_say_die": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007683.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_arc_beam_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007766.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_thermal_maul_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007756.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_fast_fill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007804.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_thermal_knives_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007753.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_fist_of_havoc_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007706.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_half_banked": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007783.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_nova_bomb_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007782.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_block_party": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007774.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_arc_lightning_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007758.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_void_shield_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007800.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_golden_gun_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007693.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_meteor_strike_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007788.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_arc_staff_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007689.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_thermal_hammer_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007789.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_everyone_invaded": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007833.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_nova_pulse_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007794.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_kill_after_invasion": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007818.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_thrillmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007652.png",
-    "localIcon": true
-  },
-  "Medals_pvecomp_medal_thermal_sword_healing_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007695.png",
-    "localIcon": true
-  },
-  "medals_pvecomp_medal_invasion_shutdown": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007805.png",
-    "localIcon": true
-  },
   "killsDeathsRatio": {
     "statName": "K/D"
   },
   "winRate": {
-    "statName": "Win Rate",
+    "statName": "승률",
     "unitType": 7
   },
   "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
+    "statName": "문양 확보"
   },
   "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
+    "statName": "문양 회복"
   },
   "supremacySecureRate": {
     "statName": "Secure Rate"
@@ -174,54 +22,54 @@
     "statName": "Allied Kills Secured"
   },
   "highValueKills": {
-    "statName": "High Value Kills"
+    "statName": "고가치 표적 처치"
   },
   "invasionKills": {
-    "statName": "Kills as Invader"
+    "statName": "침입자 상태로 처치"
   },
   "invasionDeaths": {
-    "statName": "Deaths as Invader"
+    "statName": "침입자 상태로 사망"
   },
   "invaderKills": {
-    "statName": "Invaders Killed"
+    "statName": "침입자 처치"
   },
   "invaderDeaths": {
-    "statName": "Deaths to Invaders"
+    "statName": "침입자에게 사망"
   },
   "primevalDamage": {
-    "statName": "Primeval Damage"
+    "statName": "원시 괴수 피해"
   },
   "primevalKills": {
-    "statName": "Primeval Kills"
+    "statName": "원시 괴수 처치"
   },
   "motesDenied": {
-    "statName": "Motes Denied"
+    "statName": "빼앗긴 티끌"
   },
   "invasions": {
-    "statName": "Invasions"
+    "statName": "침입"
   },
   "blockerKills": {
-    "statName": "Blocker Kills"
+    "statName": "방해꾼 처치"
   },
   "smallBlockersSent": {
-    "statName": "Small Blockers Sent"
+    "statName": "보낸 소형 방해꾼"
   },
   "mediumBlockersSent": {
-    "statName": "Medium Blockers Sent"
+    "statName": "보낸 중형 방해꾼"
   },
   "largeBlockersSent": {
-    "statName": "Large Blockers Sent"
+    "statName": "보낸 대형 방해꾼"
   },
   "precisionKills": {
-    "statName": "Precision"
+    "statName": "정밀 처치"
   },
   "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuracy"
+    "statName": "정밀 처치 비율"
   },
   "elo": {
     "statName": "Elo"
   },
   "opponentsDefeated": {
-    "statName": "Kills + Assists"
+    "statName": "처치 및 지원"
   }
 }

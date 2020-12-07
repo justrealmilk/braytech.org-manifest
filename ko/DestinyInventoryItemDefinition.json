@@ -1,101 +1,51 @@
 {
   "0": {
     "displayProperties": {
-      "name": "Classified",
-      "description": "Keep it clean."
+      "name": "비공개",
+      "description": "깨끗하게 유지하세요."
     },
-    "itemTypeDisplayName": "Insufficient Clearance"
+    "itemTypeDisplayName": "권한 부족"
   },
   "3243866699": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
     }
   },
   "3243866698": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
     }
   },
   "3243866697": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
     }
   },
   "3243866696": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
     }
   },
   "3243866703": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
     }
   },
   "2211488305": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience"
+      "description": "수호자의 XP를 증가시킵니다."
     }
   },
   "304443327": {
     "displayProperties": {
-      "description": "Increases your clan's experience"
-    },
-    "inventory": {
-      "tierTypeName": "Common"
+      "description": "클랜의 XP를 증가시킵니다."
     }
   },
   "23239861010": {
     "displayProperties": {
-      "description": "No masterwork currently selected.",
-      "name": "Empty Masterwork Socket",
-      "icon": "/static/images/extracts/ui/items/no-mod.png",
-      "localIcon": true,
-      "hasIcon": true
+      "description": "이 소켓에 경이 촉매제를 넣을 수 있습니다.",
+      "name": "촉매제 소켓 비어 있음"
     },
-    "itemTypeDisplayName": "Weapon Mod",
-    "tooltipStyle": "vendor_action",
-    "inventory": {
-      "maxStackSize": 1000,
-      "bucketTypeHash": 2422292810,
-      "recoveryBucketTypeHash": 0,
-      "tierTypeHash": 3340296461,
-      "isInstanceItem": false,
-      "nonTransferrableOriginal": false,
-      "tierTypeName": "Common",
-      "tierType": 2,
-      "expirationTooltip": "",
-      "expiredInActivityMessage": "",
-      "expiredInOrbitMessage": "",
-      "suppressExpirationWhenObjectivesComplete": true
-    },
-    "plug": {
-      "insertionRules": [],
-      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
-      "plugCategoryHash": 3945646995,
-      "onActionRecreateSelf": false,
-      "actionRewardSiteHash": 0,
-      "actionRewardItemOverrideHash": 0,
-      "insertionMaterialRequirementHash": 0,
-      "previewItemOverrideHash": 0,
-      "enabledMaterialRequirementHash": 0,
-      "enabledRules": [],
-      "uiPlugLabel": "",
-      "plugStyle": 0,
-      "plugAvailability": 0,
-      "alternateUiPlugLabel": "",
-      "alternatePlugStyle": 0,
-      "isDummyPlug": false
-    },
-    "perks": [],
-    "itemCategoryHashes": [59, 945330047, 610365472],
-    "specialItemType": 0,
-    "itemType": 19,
-    "itemSubType": 0,
-    "classType": 3,
-    "breakerType": 0,
-    "equippable": false,
-    "defaultDamageType": 0,
-    "hash": 23239861010,
-    "redacted": false
+    "itemTypeDisplayName": "무기 개조 부품"
   }
 }

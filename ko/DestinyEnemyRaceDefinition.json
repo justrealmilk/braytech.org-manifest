@@ -1,88 +1,79 @@
 {
   "1636291695": {
     "displayProperties": {
-      "name": "Fallen"
+      "name": "몰락자"
     },
     "factions": [
       {
-        "hash": "devils",
         "displayProperties": {
-          "name": "House of Devils"
+          "name": "악마의 가문"
         }
       },
       {
-        "hash": "judgement",
         "displayProperties": {
-          "name": "House of Judgement"
+          "name": "심판의 가문"
         }
       },
       {
-        "hash": "kings",
         "displayProperties": {
-          "name": "House of Kings"
+          "name": "국왕의 가문"
         }
       },
       {
-        "hash": "winter",
         "displayProperties": {
-          "name": "House of Winter"
+          "name": "겨울의 가문"
         }
       },
       {
-        "hash": "wolves",
         "displayProperties": {
-          "name": "House of Wolves"
+          "name": "늑대의 가문"
         }
       },
       {
-        "hash": "spider",
         "displayProperties": {
-          "name": "The Spider's Crime Syndicate"
+          "name": "거미의 범죄 조긱"
         }
       },
       {
-        "hash": "dusk",
         "displayProperties": {
-          "name": "House of Dusk"
+          "name": "황혼의 가문"
         }
       }
     ]
   },
   "546070638": {
     "displayProperties": {
-      "name": "Cabal"
+      "name": "기갑단"
     },
     "factions": [
       {
-        "hash": "red",
         "displayProperties": {
-          "name": "Red Legion",
-          "description": "The Red Legion is an elite Cabal Legion formerly led by the Cabal Emperor, Dominus Ghaul."
+          "name": "붉은 군단",
+          "description": "붉은 군단은 기갑단 황제, 도미누스 가울이 이끌던 직속 친위 군단입니다."
         }
       }
     ]
   },
   "711470098": {
     "displayProperties": {
-      "name": "Vex"
+      "name": "벡스"
     }
   },
   "3265589059": {
     "displayProperties": {
-      "name": "Hive"
+      "name": "군체"
     },
     "factions": [
       {
-        "hash": "crota",
         "displayProperties": {
-          "name": "Spawn of Crota"
+          "name": "크로타의 궁정"
         }
       }
     ]
   },
   "1371537226": {
     "displayProperties": {
-      "name": "Taken"
+      "name": "굴복자"
     }
   }
 }
