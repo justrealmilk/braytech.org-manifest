@@ -1,0 +1,185 @@
+{
+  "129918239": {
+    "timeToComplete": 6,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "271962655": {
+    "timeToComplete": 6,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "589157009": {
+    "timeToComplete": 12,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "1023966646": {
+    "timeToComplete": 7,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "1070049743": {
+    "timeToComplete": 9,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "1132291813": {
+    "timeToComplete": 10,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "1259766043": {
+    "timeToComplete": 11,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "1313648352": {
+    "timeToComplete": 6,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "1513386090": {
+    "timeToComplete": 13,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "1534123682": {
+    "timeToComplete": 5,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "1602328239": {
+    "timeToComplete": 8,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "1872813880": {
+    "timeToComplete": 6,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "1882259272": {
+    "timeToComplete": 5,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "1906514856": {
+    "timeToComplete": 9,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "2000185095": {
+    "timeToComplete": 9,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "2146977720": {
+    "timeToComplete": 8,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "2568845238": {
+    "timeToComplete": 12,
+    "eligibilityRequirements": {
+      "gameVersion": "warmind"
+    }
+  },
+  "2660895412": {
+    "timeToComplete": 5,
+    "eligibilityRequirements": {
+      "gameVersion": "warmind"
+    }
+  },
+  "2772894447": {
+    "timeToComplete": 7,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "2776154899": {
+    "timeToComplete": 7,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "2962137994": {
+    "timeToComplete": 10,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "3008658049": {
+    "timeToComplete": 7,
+    "eligibilityRequirements": {
+      "gameVersion": "warmind"
+    }
+  },
+  "3205547455": {
+    "timeToComplete": 5,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "3271773240": {
+    "timeToComplete": 7,
+    "eligibilityRequirements": {
+      "gameVersion": "base"
+    }
+  },
+  "4009655461": {
+    "timeToComplete": 12,
+    "eligibilityRequirements": {
+      "gameVersion": "forsaken"
+    }
+  },
+  "4234327344": {
+    "timeToComplete": 5,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "4237009519": {
+    "timeToComplete": 11,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "4244464899": {
+    "timeToComplete": 6,
+    "eligibilityRequirements": {
+      "gameVersion": "osiris"
+    }
+  },
+  "2032534090": {
+    "activityLightLevel": 750,
+    "activityTypeHash": 608898761,
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "4148187374": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "82913930": {
+    "displayProperties": {
+      "description": "In orbit, planning something terribly heroic."
+    }
+  }
+}
