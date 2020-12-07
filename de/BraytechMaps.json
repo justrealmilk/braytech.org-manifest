@@ -3,27 +3,18 @@
     "displayProperties": {
       "name": "Die Konfluenz West",
       "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "2": {
     "displayProperties": {
       "name": "Die Konfluenz Ost",
       "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "3": {
     "displayProperties": {
       "name": "Die Konfluenz Süd",
       "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "4": {
@@ -39,9 +30,6 @@
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "6": {
@@ -57,9 +45,6 @@
     "displayProperties": {
       "name": "Bussschrein",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "8": {
@@ -75,9 +60,6 @@
     "displayProperties": {
       "name": "Splitterruinen",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "10": {
@@ -93,9 +75,6 @@
     "displayProperties": {
       "name": "Bergfried der Geschliffenen",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "12": {
@@ -111,9 +90,6 @@
     "displayProperties": {
       "name": "Preisrichter Abgrund",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "14": {
@@ -129,9 +105,6 @@
     "displayProperties": {
       "name": "Cimmerische Garnison",
       "description": "Ein Portal zu der _Aszendenten-Ebene_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "16": {
@@ -206,6 +179,16 @@
       "description": "Durch die Schuttmauer."
     }
   },
+  "109": {
+    "displayProperties": {
+      "description": "In einem Eisblock gefroren. Finde einen _Gefallenen Captain_ in der Nähe der Aufzüge zum _Riis-Wiedergeboren Zugang_ namens _Ferkis, Sturm der Erlösung_ - er wird fallen lassen, was du brauchst."
+    }
+  },
+  "127": {
+    "displayProperties": {
+      "description": "Unter dem Eis."
+    }
+  },
   "182": {
     "displayProperties": {
       "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche den Gegenstand auf dem Weg nach draußen."
@@ -264,7 +247,7 @@
   "278": {
     "displayProperties": {
       "name": "Königinnenhof",
-      "description": "Ein Portal zum _Königinnenhof_, Mara Sov's Thron Welt."
+      "description": "Ein Portal zum _Königinnenhof_, Mara Sovs Thron Welt."
     },
     "type": {
       "name": "Portal"
@@ -277,7 +260,7 @@
   },
   "288": {
     "displayProperties": {
-      "description": "Laufe an dem verlorenen Sektoreingangskreuzung vorbei und folge dem Weg."
+      "description": "Laufe an der verlorenen Sektoreingangskreuzung vorbei und folge dem Weg."
     }
   },
   "292": {
@@ -309,9 +292,56 @@
     "displayProperties": {
       "name": "Klippe über den Salzminen",
       "description": "Ein Portal zur Spitze der Klippen in den _Salzminen_, angetrieben durch Jury-manipulierten _Gefallenen_ Teile."
-    },
-    "type": {
-      "name": "Portal"
+    }
+  },
+  "597": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "598": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "599": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "600": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "601": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "602": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "603": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "604": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "605": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
+    }
+  },
+  "606": {
+    "displayProperties": {
+      "description": "Benötigt  Einstimmung"
     }
   }
 }
