@@ -1,0 +1,782 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "서부 융합점",
+      "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "동부 융합점",
+      "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "남부 융합점",
+      "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈",
+      "hash": "portal"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "우로보레아",
+      "description": "모든 어둠그림자를 파괴하면 중앙의 면역 공허 수정을 부술 수 있습니다.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을  되돌리세요._"
+    },
+    "type": {
+      "name": "승천 도전"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=dogfPHV9dZI"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "우로보레아",
+      "description": "_승천 차원_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "몰수된 제단",
+      "description": "바깥쪽의 3개의 전기 구체를 중앙에 채운 후 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
+    },
+    "type": {
+      "name": "승천 도전"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=rM-ymyPe7j4"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "몰수된 제단",
+      "description": "_승천 차원_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "조각난 폐허",
+      "description": "폐허를 올라 굴복자 무리를 제거하세요.\n\\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
+    },
+    "type": {
+      "name": "승천 도전"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=3YOkwILrN5M"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "조각난 폐허",
+      "description": "_승천 차원_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "10": {
+    "displayProperties": {
+      "name": "연마된 칼날의 아성",
+      "description": "군체 마법사를 제거하고, 검을 들어올리고, 군체 기사를 무찌르세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
+    },
+    "type": {
+      "name": "승천 도전"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=4gvHUGJ5M1A"
+    }
+  },
+  "11": {
+    "displayProperties": {
+      "name": "연마된 칼날의 수호",
+      "description": "_승천 차원_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "12": {
+    "displayProperties": {
+      "name": "심판의 심연",
+      "description": "바닥까지 내려가서 굴복자 마법사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=lGle_vxlkdM"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "심판의 심연",
+      "description": "_승천 차원_과 연결된 포탈입니다.",
+      "icon": "portal"
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "14": {
+    "displayProperties": {
+      "name": "키메르 수비대",
+      "description": "군체 기사와 세 개의 군체 비명자, 수호자의 탄막이 쏟아지는 승강장을 지나 제단에서 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
+    },
+    "type": {
+      "name": "승천 도전"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=-y2XsHv09dw"
+    }
+  },
+  "15": {
+    "displayProperties": {
+      "name": "키메르 수비대",
+      "description": "_승천 차원_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "16": {
+    "displayProperties": {
+      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+    },
+    "type": {
+      "name": "방황하는  보스"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+    },
+    "type": {
+      "name": "방황하는  보스"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+    },
+    "type": {
+      "name": "방황하는  보스"
+    }
+  },
+  "19": {
+    "displayProperties": {
+      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+    },
+    "type": {
+      "name": "방황하는  보스"
+    }
+  },
+  "24": {
+    "displayProperties": {
+      "description": "구불구불한 만이 내려다 보이는 절벽 위, 쥴이 나타나는 곳 근처에 있음."
+    }
+  },
+  "33": {
+    "displayProperties": {
+      "description": "잊혀진 구역 입구 왼쪽, 어두움, 기갑단 상자 뒤에있음."
+    }
+  },
+  "34": {
+    "displayProperties": {
+      "description": "맨 위 왼쪽 모퉁이에서 바위 위쪽에 있음."
+    }
+  },
+  "35": {
+    "displayProperties": {
+      "description": "빠른 이동 소환 구역 뒤쪽에 있음."
+    }
+  },
+  "37": {
+    "displayProperties": {
+      "description": "부셔진 건물 3층 오른쪽 방 안쪽에 있음."
+    }
+  },
+  "38": {
+    "displayProperties": {
+      "description": "폭포 안쪽에 있음."
+    }
+  },
+  "39": {
+    "displayProperties": {
+      "description": "천장 빈공간 안쪽에 있음."
+    }
+  },
+  "40": {
+    "displayProperties": {
+      "description": "뚫린 돌 외벽 안쪽에 있음."
+    }
+  },
+  "98": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=AEqy3qL-a58"
+    }
+  },
+  "99": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=F_5HfIoe7yk"
+    }
+  },
+  "100": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "101": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "102": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "103": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "104": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "105": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "106": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "107": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "108": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
+    }
+  },
+  "109": {
+    "displayProperties": {
+      "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
+    }
+  },
+  "110": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "111": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "112": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "113": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "114": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "115": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "116": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "117": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "118": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
+    }
+  },
+  "127": {
+    "displayProperties": {
+      "description": "Under the ice."
+    }
+  },
+  "182": {
+    "displayProperties": {
+      "description": "잊혀진 구역 클리어 후 출구로 가서 나가는 길에 스캔 대상 있음"
+    }
+  },
+  "183": {
+    "displayProperties": {
+      "description": "방화벽 데이터 파편 필요. 에리스 몬 을 통해 선행 퀘스트를 받아야 함."
+    }
+  },
+  "184": {
+    "displayProperties": {
+      "description": "Entering the Circle of Bones via The Gatehouse, turn right and proceed to follow the loop around the Hellmouth. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
+    }
+  },
+  "215": {
+    "displayProperties": {
+      "description": "Enter the dungeon and head to the tower farthest right. Retain some altitude if possible. On the farthest side of the farthest tower, below its foot, is a cypher."
+    }
+  },
+  "216": {
+    "displayProperties": {
+      "description": "Complete the _Necropolis_ encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
+    }
+  },
+  "217": {
+    "displayProperties": {
+      "description": "Complete the _Chamber of Suffering_ encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
+    }
+  },
+  "218": {
+    "displayProperties": {
+      "description": "Drop down into the _Tunnels of Despair_ and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
+    }
+  },
+  "219": {
+    "displayProperties": {
+      "description": "In the middlest crouch-way tunnel, closest to the green gas pit where you find the solar orb. Entering the tunnel from the green gas pit side, it will quickly widen into a small room. Stop, turn 180°, and look upwards."
+    }
+  },
+  "223": {
+    "displayProperties": {
+      "description": "Enter _The Gatehouse_ via _Hellmouth_ and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
+    }
+  },
+  "225": {
+    "displayProperties": {
+      "description": "At the side on the hidden side of the pictured module."
+    }
+  },
+  "227": {
+    "displayProperties": {
+      "description": "In the _Tunnels of Despair_, on a cliff ledge adjacent to the green gas pit."
+    }
+  },
+  "278": {
+    "displayProperties": {
+      "name": "여왕의 궁정",
+      "description": "마라 소프의 왕좌의 세계, _여왕의 궁정_과 연결된 포탈입니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "279": {
+    "displayProperties": {
+      "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
+    }
+  },
+  "288": {
+    "displayProperties": {
+      "description": "Push past the lost sector entry junction and continue along the gangway."
+    }
+  },
+  "292": {
+    "displayProperties": {
+      "description": "Cliff-side, beneath the path which leads to a lost sector."
+    }
+  },
+  "293": {
+    "displayProperties": {
+      "description": "On the catwalk."
+    }
+  },
+  "301": {
+    "displayProperties": {
+      "description": "Perched upon the midwall of the _Infinite Forest_."
+    }
+  },
+  "302": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
+      "instructions": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
+    }
+  },
+  "306": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=YpKny_Yrav8"
+    }
+  },
+  "307": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Dk_fnc9GkDA"
+    }
+  },
+  "308": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
+    }
+  },
+  "309": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=mpU4GjM43OY"
+    }
+  },
+  "310": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
+    }
+  },
+  "311": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=X1_poqtAoNk"
+    }
+  },
+  "312": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=-3KkqGbjNko"
+    }
+  },
+  "313": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=SZ8aUXk89Kg"
+    }
+  },
+  "314": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=TzwxeqO0dpU"
+    }
+  },
+  "315": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=h-aNQy6mTME"
+    }
+  },
+  "316": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=5VEcwGEo6mI"
+    }
+  },
+  "317": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=VzAFKmZ-EEc"
+    }
+  },
+  "318": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=EwLi345-9uY"
+    }
+  },
+  "319": {
+    "extended": {
+      "video": "https://youtu.be/f8BtT6lW9nw"
+    }
+  },
+  "320": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8"
+    }
+  },
+  "321": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=50"
+    }
+  },
+  "322": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY"
+    }
+  },
+  "323": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=144"
+    }
+  },
+  "324": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=64"
+    }
+  },
+  "325": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=80"
+    }
+  },
+  "326": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=116"
+    }
+  },
+  "327": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=160"
+    }
+  },
+  "328": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=203"
+    }
+  },
+  "329": {
+    "extended": {
+      "video": "https://youtu.be/eihqad70SuY?t=183"
+    }
+  },
+  "330": {
+    "extended": {
+      "video": "https://youtu.be/81XxH2E-RsE?t=9"
+    }
+  },
+  "331": {
+    "extended": {
+      "video": "https://youtu.be/81XxH2E-RsE?t=32"
+    }
+  },
+  "332": {
+    "extended": {
+      "video": "https://youtu.be/81XxH2E-RsE?t=54"
+    }
+  },
+  "333": {
+    "extended": {
+      "video": "https://youtu.be/81XxH2E-RsE?t=87"
+    }
+  },
+  "334": {
+    "extended": {
+      "video": "https://youtu.be/81XxH2E-RsE?t=130"
+    }
+  },
+  "335": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=49"
+    }
+  },
+  "336": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=176"
+    }
+  },
+  "337": {
+    "extended": {
+      "video": "https://youtu.be/W8g0lsmYttk?t=62"
+    }
+  },
+  "338": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=W8g0lsmYttk"
+    }
+  },
+  "339": {
+    "extended": {
+      "video": "https://youtu.be/7kLnq__sKPA?t=1m4s"
+    }
+  },
+  "340": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&feature=youtu.be&t=2m34s"
+    }
+  },
+  "341": {
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&t=43"
+    }
+  },
+  "342": {
+    "extended": {
+      "video": "https://youtu.be/UDaLEilK9Xk"
+    }
+  },
+  "343": {
+    "extended": {
+      "video": "https://youtu.be/UDaLEilK9Xk?t=2m33s"
+    }
+  },
+  "344": {
+    "extended": {
+      "video": "https://youtu.be/vrMWYYy0FGI"
+    }
+  },
+  "345": {
+    "extended": {
+      "video": "https://youtu.be/8rK9zkO2Bw0"
+    }
+  },
+  "346": {
+    "extended": {
+      "video": "https://youtu.be/HIKuJ8CtnS4"
+    }
+  },
+  "347": {
+    "extended": {
+      "video": "https://youtu.be/fhKIfCiFPt8"
+    }
+  },
+  "348": {
+    "extended": {
+      "video": "https://youtu.be/NtCxIwocxik"
+    }
+  },
+  "390": {
+    "extended": {}
+  },
+  "391": {
+    "extended": {}
+  },
+  "392": {
+    "extended": {}
+  },
+  "393": {
+    "extended": {}
+  },
+  "394": {
+    "extended": {}
+  },
+  "395": {
+    "extended": {}
+  },
+  "396": {
+    "extended": {}
+  },
+  "397": {
+    "extended": {}
+  },
+  "398": {
+    "extended": {}
+  },
+  "399": {
+    "extended": {}
+  },
+  "400": {
+    "extended": {}
+  },
+  "401": {
+    "extended": {}
+  },
+  "438": {
+    "displayProperties": {
+      "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
+    }
+  },
+  "596": {
+    "displayProperties": {
+      "name": "소금 광산 절벽",
+      "description": "몰락자의 부품을 모아 임시로 만든 포탈입니다. _소금 광산_ 절벽 꼭대기와 연결되어 있습니다."
+    },
+    "type": {
+      "name": "포탈"
+    }
+  },
+  "597": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=PmSVWiaWShQ"
+    }
+  },
+  "598": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
+    }
+  },
+  "599": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
+    }
+  },
+  "600": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=bIOnQecP9hk"
+    }
+  },
+  "601": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
+    }
+  },
+  "602": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
+    }
+  },
+  "603": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
+    }
+  },
+  "604": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
+    }
+  },
+  "605": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
+    }
+  },
+  "606": {
+    "displayProperties": {
+      "description": "Requires  attunement"
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
+    }
+  }
+}

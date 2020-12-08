@@ -1,0 +1,51 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "비공개",
+      "description": "깨끗하게 유지하세요."
+    },
+    "itemTypeDisplayName": "권한 부족"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "세계선 제로의 촉매제에 필요한 5개의 아티펙트 중 하나입니다."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "수호자의 XP를 증가시킵니다."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "클랜의 XP를 증가시킵니다."
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "이 소켓에 경이 촉매제를 넣을 수 있습니다.",
+      "name": "촉매제 소켓 비어 있음"
+    },
+    "itemTypeDisplayName": "무기 개조 부품"
+  }
+}

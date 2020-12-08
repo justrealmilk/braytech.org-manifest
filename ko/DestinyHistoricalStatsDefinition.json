@@ -1,0 +1,75 @@
+{
+  "killsDeathsRatio": {
+    "statName": "K/D"
+  },
+  "winRate": {
+    "statName": "승률",
+    "unitType": 7
+  },
+  "supremacyCrestsSecured": {
+    "statName": "문양 확보"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "문양 회복"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kills Secured"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Allied Kills Secured"
+  },
+  "highValueKills": {
+    "statName": "고가치 표적 처치"
+  },
+  "invasionKills": {
+    "statName": "침입자 상태로 처치"
+  },
+  "invasionDeaths": {
+    "statName": "침입자 상태로 사망"
+  },
+  "invaderKills": {
+    "statName": "침입자 처치"
+  },
+  "invaderDeaths": {
+    "statName": "침입자에게 사망"
+  },
+  "primevalDamage": {
+    "statName": "원시 괴수 피해"
+  },
+  "primevalKills": {
+    "statName": "원시 괴수 처치"
+  },
+  "motesDenied": {
+    "statName": "빼앗긴 티끌"
+  },
+  "invasions": {
+    "statName": "침입"
+  },
+  "blockerKills": {
+    "statName": "방해꾼 처치"
+  },
+  "smallBlockersSent": {
+    "statName": "보낸 소형 방해꾼"
+  },
+  "mediumBlockersSent": {
+    "statName": "보낸 중형 방해꾼"
+  },
+  "largeBlockersSent": {
+    "statName": "보낸 대형 방해꾼"
+  },
+  "precisionKills": {
+    "statName": "정밀 처치"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "정밀 처치 비율"
+  },
+  "elo": {
+    "statName": "Elo"
+  },
+  "opponentsDefeated": {
+    "statName": "처치 및 지원"
+  }
+}

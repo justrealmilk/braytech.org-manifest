@@ -1,0 +1,79 @@
+{
+  "1636291695": {
+    "displayProperties": {
+      "name": "몰락자"
+    },
+    "factions": [
+      {
+        "displayProperties": {
+          "name": "악마의 가문"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "심판의 가문"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "국왕의 가문"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "겨울의 가문"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "늑대의 가문"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "거미의 범죄 조긱"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "황혼의 가문"
+        }
+      }
+    ]
+  },
+  "546070638": {
+    "displayProperties": {
+      "name": "기갑단"
+    },
+    "factions": [
+      {
+        "displayProperties": {
+          "name": "붉은 군단",
+          "description": "붉은 군단은 기갑단 황제, 도미누스 가울이 이끌던 직속 친위 군단입니다."
+        }
+      }
+    ]
+  },
+  "711470098": {
+    "displayProperties": {
+      "name": "벡스"
+    }
+  },
+  "3265589059": {
+    "displayProperties": {
+      "name": "군체"
+    },
+    "factions": [
+      {
+        "displayProperties": {
+          "name": "크로타의 궁정"
+        }
+      }
+    ]
+  },
+  "1371537226": {
+    "displayProperties": {
+      "name": "굴복자"
+    }
+  }
+}
