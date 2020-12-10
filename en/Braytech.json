@@ -63,6 +63,13 @@
     "itemType": 1,
     "itemTypeDisplayName": "Patron Reward"
   },
+  "patron-intern": {
+    "displayProperties": {
+      "name": "Intern"
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Patron Reward"
+  },
   "commonality": {
     "displayProperties": {
       "name": "Commonality",
