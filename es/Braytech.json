@@ -4,7 +4,6 @@
       "name": "Xbox",
       "description": "La plataforma a la que pertenece este perfil."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Plataforma"
   },
   "platform_playstation": {
@@ -12,7 +11,6 @@
       "name": "Playstation",
       "description": "La plataforma a la que pertenece este perfil."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Plataforma"
   },
   "platform_steam": {
@@ -20,7 +18,6 @@
       "name": "Steam",
       "description": "La plataforma a la que pertenece este perfil."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Plataforma"
   },
   "platform_battlenet": {
@@ -28,7 +25,6 @@
       "name": "Battle.net",
       "description": "La plataforma a la que pertenece este perfil."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Plataforma"
   },
   "platform_stadia": {
@@ -36,7 +32,6 @@
       "name": "Stadia",
       "description": "La plataforma a la que pertenece este perfil."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Plataforma"
   },
   "warmind": {
@@ -44,7 +39,6 @@
       "name": "Superintendente",
       "description": "Tom Chapman, creador e ingeniero de Braytech."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Inteligencia artificial"
   },
   "patron-veteran": {
@@ -52,7 +46,6 @@
       "name": "Subrutina",
       "description": "Este Guardián es un faro de luz que, con sus acciones, ha demostrado que valora la valentía y el servicio por encima de todo."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Recompensa de Patreon"
   },
   "patron": {
@@ -60,237 +53,127 @@
       "name": "Investigador",
       "description": "Este Guardián, un técnico colega de Clovis Bray, busca mejorar Braytech."
     },
-    "itemType": 1,
+    "itemTypeDisplayName": "Recompensa de Patreon"
+  },
+  "patron-intern": {
+    "displayProperties": {
+      "name": "Becario"
+    },
     "itemTypeDisplayName": "Recompensa de Patreon"
   },
   "commonality": {
     "displayProperties": {
       "name": "Rareza",
       "description": "Una representación del número de jugadores que han adquirido o canjeado este triunfo."
-    },
-    "itemType": 1
+    }
   },
   "score": {
     "displayProperties": {
       "name": "Valor en puntos",
       "description": "El valor en puntos de este triunfo."
-    },
-    "itemType": 1
+    }
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Valor en puntos",
+      "description": "El valor de los puntos restantes de este triunfo (suma de los pasos restantes)."
+    }
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Pasos del triunfo",
+      "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntuación variados."
+    }
   },
   "character_bound": {
     "displayProperties": {
       "name": "Enlazado al personaje",
       "description": "Estos elementos están vinculados a un personaje. Esto significa que cada personaje los descubre individualmente."
-    },
-    "itemType": 1
-  },
-  "record_intervals": {
-    "displayProperties": {
-      "name": "Intervalos del triunfo",
-      "description": "Algunos triunfos contienen intervalos. Los diferentes intervalos tienen requisitos y valor en puntos distintos."
-    },
-    "itemType": 1
+    }
   },
   "coverage": {
     "displayProperties": {
       "name": "Cobertura",
       "description": "La cobertura de esta traducción se representa en forma de porcentaje."
-    },
-    "itemType": 1
+    }
   },
   "total_resets": {
     "displayProperties": {
       "name": "Reinicios totales",
       "description": "Los reinicios de todas las temporadas. Se cuenta a partir de la Temporada 4."
-    },
-    "itemType": 1
+    }
   },
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Elo de Destiny Tracker",
       "description": "Las puntuaciones Elo de una página web externa, _Destiny Tracker_. _Destiny Tracker_ proporciona puntuaciones Elo para todos los jugadores de Destiny que participan en las actividades de _Crisol_ y _Gambito_."
-    },
-    "itemType": 1
+    }
   },
   "braytech_purple_rune": {
     "displayProperties": {
       "description": "Una runa morada. Las runas moradas son: Runa de la Alegría, Runa de la Bestia y Runa del Júbilo.",
-      "name": "Runa morada",
-      "icon": "/static/images/extracts/ui/rune_purple.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Runa morada"
     },
     "itemTypeDisplayName": "Material",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Leyenda",
-      "tierType": 5
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune0",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Leyenda"
+    }
   },
   "braytech_red_rune": {
     "displayProperties": {
       "description": "Una runa roja. Las runas rojas son: Runa de la Ambición, Runa de la Gula y Runa de la Astucia.",
-      "name": "Runa roja",
-      "icon": "/static/images/extracts/ui/rune_red.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Runa roja"
     },
     "itemTypeDisplayName": "Material",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Leyenda",
-      "tierType": 5
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune3",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Leyenda"
+    }
   },
   "braytech_green_rune": {
     "displayProperties": {
       "description": "Una runa verde. Las runas verdes son: Runa de la Guerra, Runa del Orgullo y Runa del Deseo.",
-      "name": "Runa verde",
-      "icon": "/static/images/extracts/ui/rune_green.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Runa verde"
     },
     "itemTypeDisplayName": "Material",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Leyenda",
-      "tierType": 5
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune6",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Leyenda"
+    }
   },
   "braytech_blue_rune": {
     "displayProperties": {
       "description": "Una runa azul. Las runas azules son: Runa del Exceso, Runa de la Riqueza y Runa del Placer.",
-      "name": "Runa azul",
-      "icon": "/static/images/extracts/ui/rune_blue.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Runa azul"
     },
     "itemTypeDisplayName": "Material",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Leyenda",
-      "tierType": 5
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune9",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Leyenda"
+    }
   },
   "braytech_no_rune": {
     "displayProperties": {
       "description": "Introduce una runa en esta ranura",
-      "name": "Ranura vacía",
-      "icon": "/static/images/extracts/ui/0560-00006055.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Ranura vacía"
     },
     "itemTypeDisplayName": "Acción",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Común",
-      "tierType": 1
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune20",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Común"
+    }
   },
   "braytech_remove_rune": {
     "displayProperties": {
       "description": "Quita la runa de esta ranura",
-      "name": "Vaciar ranura",
-      "icon": "/static/images/extracts/ui/0560-00006055.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Vaciar ranura"
     },
     "itemTypeDisplayName": "Acción",
-    "uiItemDisplayStyle": "",
     "itemTypeAndTierDisplayName": "Material de leyenda",
-    "displaySource": "",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Común",
-      "tierType": 1
-    },
-    "plug": {
-      "plugCategoryIdentifier": "penumbra.runes.legendary.rune21",
-      "plugCategoryHash": 415109986
-    },
-    "itemCategoryHashes": [3109687656],
-    "itemType": 20,
-    "itemSubType": 0,
-    "classType": 3,
-    "hash": 2149082452,
-    "redacted": false,
-    "blacklisted": false
+      "tierTypeName": "Común"
+    }
   },
   "latent-memories": {
     "displayProperties": {
@@ -301,7 +184,13 @@
   "tooltip-error": {
     "displayProperties": {
       "name": "Error desconocido",
-      "description": "Se ha producido un error al renderizar esta información. Probablemente sea un error temporal. Disculpas."
+      "description": "Se produjo un error al renderizar esta información.\n\nProbablemente sea un error temporal. Disculpas."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Perfil obsoleto",
+      "description": "Los datos del perfil están obsoletos. Esto significa que la actualización en segundo plano se ha detenido debido a inactividad o a que el servicio no ha llegado a los servidores de Bungie por el momento. Interactúa con la aplicación para volver a activar la actualización en segundo plano."
     }
   }
 }
