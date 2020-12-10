@@ -55,6 +55,12 @@
     },
     "itemTypeDisplayName": "Ricompensa Patron"
   },
+  "patron-intern": {
+    "displayProperties": {
+      "name": "Stagista"
+    },
+    "itemTypeDisplayName": "Ricompensa Patron"
+  },
   "commonality": {
     "displayProperties": {
       "name": "Rarità",
@@ -65,6 +71,12 @@
     "displayProperties": {
       "name": "Valore punteggio",
       "description": "Il valore in punti di questo trionfo."
+    }
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Valore punteggio",
+      "description": "Il punteggio rimanente di questo trionfo (somma delle fasi rimanenti)."
     }
   },
   "record_intervals": {
@@ -172,7 +184,7 @@
   "tooltip-error": {
     "displayProperties": {
       "name": "Errore Sconosciuto",
-      "description": "Si è verificato un errore durante il rendering di questo tooltip.\n\nQuesto errore è probabilmente temporaneo. Sentite scuse."
+      "description": "Si è verificato un errore durante il caricamento di questo tooltip.\n\nQuesto errore è probabilmente temporaneo. Sentite scuse."
     }
   },
   "profile-stale": {
