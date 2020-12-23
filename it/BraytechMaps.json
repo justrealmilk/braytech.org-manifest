@@ -2,7 +2,7 @@
   "1": {
     "displayProperties": {
       "name": "La Confluenza Ovest",
-      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
     },
     "type": {
       "name": "Portale",
@@ -12,7 +12,7 @@
   "2": {
     "displayProperties": {
       "name": "La Confluenza Est",
-      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
     },
     "type": {
       "name": "Portale",
@@ -22,7 +22,7 @@
   "3": {
     "displayProperties": {
       "name": "La Confluenza Sud",
-      "description": "Un portale per _La Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
     },
     "type": {
       "name": "Portale",
@@ -252,7 +252,7 @@
   },
   "216": {
     "displayProperties": {
-      "description": "Completa la fase della Necropoli e procedi verso La Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
+      "description": "Completa la fase della _Necropoli_ e procedi verso La Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
     }
   },
   "217": {
@@ -272,7 +272,7 @@
   },
   "223": {
     "displayProperties": {
-      "description": "Entra nella Guardiola attraverso la Bocca dell'Inferno e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
+      "description": "Entra nella _Guardiola_ attraverso la _Bocca dell'Inferno_ e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
     }
   },
   "225": {
