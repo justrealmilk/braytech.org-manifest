@@ -1239,6 +1239,18 @@
       "video": "https://www.youtube.com/watch?v=vXNLtqixKVY"
     }
   },
+  "152": {
+    "checklistHash": 1313979588,
+    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/kells-rising-1313979588.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 30,
+          "y": 64
+        }
+      }
+    }
+  },
   "178": {
     "checklistHash": 4062796495,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg"
