@@ -97,5 +97,11 @@
     "defaultDamageType": 0,
     "hash": 23239861010,
     "redacted": false
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Pinnacle Gear (Weak)",
+      "hasIcon": false
+    }
   }
 }
