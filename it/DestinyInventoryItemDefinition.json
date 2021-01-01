@@ -45,5 +45,10 @@
     "inventory": {
       "tierTypeName": "Comune"
     }
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Armamento di punta (debole)"
+    }
   }
 }
