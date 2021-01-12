@@ -1,0 +1,200 @@
+{
+  "platform_xbox": {
+    "displayProperties": {
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform_playstation": {
+    "displayProperties": {
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform_steam": {
+    "displayProperties": {
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform_battlenet": {
+    "displayProperties": {
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform_stadia": {
+    "displayProperties": {
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "warmind": {
+    "displayProperties": {
+      "description": "Tom Chapman, Erschaffer und Ingenieur von Braytech."
+    },
+    "itemTypeDisplayName": "Künstliche Intelligenz"
+  },
+  "patron-veteran": {
+    "displayProperties": {
+      "description": "Dieser Hüter ist wie ein Leuchtfeuer, der durch seine Handlungen bewiesen hat, dass er Tapferkeit und Dienst über alles schätzt."
+    },
+    "itemTypeDisplayName": "Patron Belohnung"
+  },
+  "patron": {
+    "displayProperties": {
+      "name": "Forscher",
+      "description": "Ein technischer Anhänger von Clovis Bray, dieser Hüter versucht Braytech zu verbessern."
+    },
+    "itemTypeDisplayName": "Patron Belohnung"
+  },
+  "patron-intern": {
+    "itemTypeDisplayName": "Patron Belohnung"
+  },
+  "commonality": {
+    "displayProperties": {
+      "name": "Gemeinsamkeit",
+      "description": "Prozentsatz der Spieler, die in VOLUSPA aufgelistet sind und diesen Eintrag erlangt haben."
+    }
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Triumphpunkte",
+      "description": "Triumphpunkte des Eintrags."
+    }
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Triumphpunkte",
+      "description": "Verbleibende Triumphpunkte des Eintrages (Summe der verbleibenden Abschnitte)."
+    }
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Triumph Abschnitt",
+      "description": "Einige Einträge haben Abschnitte. Unterschiedliche Intervalle haben unterschiedliche Voraussetzungen und Triumphpunkte."
+    }
+  },
+  "character_bound": {
+    "displayProperties": {
+      "name": "Charaktergebunden",
+      "description": "Diese Gegenstände sind Charakter-gebunden. Dies bedeutet, dass jeder Charakter sie auf eigene Weise entdecken muss."
+    }
+  },
+  "coverage": {
+    "displayProperties": {
+      "name": "Abdeckung",
+      "description": "Die Abdeckung dieser Übersetzung wird in Prozent dargestellt."
+    }
+  },
+  "total_resets": {
+    "displayProperties": {
+      "name": "Insgesammte Rücksetzungen",
+      "description": "Alle Saison Rücksetzungen. Beginnend von Saison 4."
+    }
+  },
+  "destiny_tracker_elo": {
+    "displayProperties": {
+      "name": "Destiny Tracker Elo",
+      "description": "Elo Bewertung einer Drittanbieter Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo ratings für alle Destiny Spieler, die _Schmelztiegel_ or _Gambit_ spielen."
+    }
+  },
+  "braytech_purple_rune": {
+    "displayProperties": {
+      "description": "Eine violette Rune. Violette Runen beinhalten: Rune der Freude, Rune des Tieres und Rune des Jubels.",
+      "name": "Violette Rune",
+    },
+    "itemTypeAndTierDisplayName": "Legendäres Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendär"
+    },
+    "hash": 2149082452
+  },
+  "braytech_red_rune": {
+    "displayProperties": {
+      "description": "Eine rote Rune. Rote Runen beinhalten: Rune des Ehrgeizes, Rune der Völlerei und Rune der List.",
+      "name": "Rote Rune"
+    },
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendär"
+    },
+    "hash": 2149082452
+  },
+  "braytech_green_rune": {
+    "displayProperties": {
+      "description": "Eine grüne Rune. Grüne Runen beinhalten: Rune des Krieges, Rune des Stolzes und Rune des Begehrens.",
+      "name": "Grüne Rune"
+    },
+    "itemTypeAndTierDisplayName": "Legendäres Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendär"
+    },
+    "hash": 2149082452
+  },
+  "braytech_blue_rune": {
+    "displayProperties": {
+      "description": "Eine blaue Rune. Blaue Runen beinhalten: Rune des Überflusses, Rune des Reichtums und Rune des Vergnügens.",
+      "name": "Blaue Rune",
+    },
+    "itemTypeAndTierDisplayName": "Legendäres Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendär"
+    },
+    "hash": 2149082452
+  },
+  "braytech_no_rune": {
+    "displayProperties": {
+      "description": "Füge eine Rune ein",
+      "name": "Leerer Platz",
+    },
+    "itemTypeDisplayName": "Aktion",
+    "itemTypeAndTierDisplayName": "Legendäres Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Gewöhnlich"
+    },
+    "hash": 2149082452
+  },
+  "braytech_remove_rune": {
+    "displayProperties": {
+      "description": "Entferne alle Runen",
+      "name": "Leerer Platz",
+    },
+    "itemTypeDisplayName": "Aktion",
+    "itemTypeAndTierDisplayName": "Legendäres Material",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Gewöhnlich"
+    },
+    "hash": 2149082452
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Verborgene Erinnerungen",
+      "description": "Geheimnisvolle Testknoten sind über den Mars verstreut. Was ist ihr Zweck?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Unbekannter Fehler",
+      "description": "Während dem Anzeigen des Tooltips trat ein Fehler auf.\n\nDas ist möglicherweise ein temporärer Fehler. Verzeihung."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Veraltetes Profil",
+      "description": "Profildaten sind veraltet. Das bedeutet Hintergrundaktualisierungen sind wegen Inaktivität pausiert oder das Service hat derzeit keine Verbindung zu den Servern von Bungie. Bediene die App und die Hintergrundaktualisierungen wieder zu aktivieren."
+    }
+  }
+}
