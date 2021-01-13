@@ -102,7 +102,7 @@
   "braytech_purple_rune": {
     "displayProperties": {
       "description": "Eine violette Rune. Violette Runen beinhalten: Rune der Freude, Rune des Tieres und Rune des Jubels.",
-      "name": "Violette Rune",
+      "name": "Violette Rune"
     },
     "itemTypeAndTierDisplayName": "Legendäres Material",
     "inventory": {
@@ -141,7 +141,7 @@
   "braytech_blue_rune": {
     "displayProperties": {
       "description": "Eine blaue Rune. Blaue Runen beinhalten: Rune des Überflusses, Rune des Reichtums und Rune des Vergnügens.",
-      "name": "Blaue Rune",
+      "name": "Blaue Rune"
     },
     "itemTypeAndTierDisplayName": "Legendäres Material",
     "inventory": {
@@ -154,7 +154,7 @@
   "braytech_no_rune": {
     "displayProperties": {
       "description": "Füge eine Rune ein",
-      "name": "Leerer Platz",
+      "name": "Leerer Platz"
     },
     "itemTypeDisplayName": "Aktion",
     "itemTypeAndTierDisplayName": "Legendäres Material",
@@ -168,7 +168,7 @@
   "braytech_remove_rune": {
     "displayProperties": {
       "description": "Entferne alle Runen",
-      "name": "Leerer Platz",
+      "name": "Leerer Platz"
     },
     "itemTypeDisplayName": "Aktion",
     "itemTypeAndTierDisplayName": "Legendäres Material",
