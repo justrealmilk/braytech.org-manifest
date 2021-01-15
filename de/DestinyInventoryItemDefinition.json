@@ -1,0 +1,62 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Klassifiziert",
+      "description": "Halte es sauber."
+    },
+    "itemTypeDisplayName": "Unzureichende Freigabe"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters"
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Clans"
+    },
+    "inventory": {
+      "tierTypeName": "Gewöhnlich"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "Kein Meisterwerk derzeit selektiert.",
+      "name": "Leerer Meisterwerk Sockel"
+    },
+    "itemTypeDisplayName": "Waffen Mod",
+    "inventory": {
+      "tierTypeName": "Gewöhnlich"
+    }
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Spitzenausrüstung (Schwach)"
+    }
+  }
+}
