@@ -122,7 +122,7 @@
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
-      "description": "Elo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
+      "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
     },
     "itemType": 1
   },
