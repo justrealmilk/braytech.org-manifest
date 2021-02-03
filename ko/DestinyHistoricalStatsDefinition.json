@@ -3,8 +3,7 @@
     "statName": "K/D"
   },
   "winRate": {
-    "statName": "승률",
-    "unitType": 7
+    "statName": "승률"
   },
   "supremacyCrestsSecured": {
     "statName": "문양 확보"

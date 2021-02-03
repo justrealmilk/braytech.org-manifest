@@ -50,7 +50,7 @@
   "commonality": {
     "displayProperties": {
       "name": "희소성",
-      "description": "이 항목을 획득하거나 완료한 유저 중 VOLUSPA에서 확인된 플레이어의 백분율."
+      "description": "Voluspa에서 확인되는 유저 중 이 항목을 획득 또는 완료한 플레이어 비율입니다."
     }
   },
   "score": {
