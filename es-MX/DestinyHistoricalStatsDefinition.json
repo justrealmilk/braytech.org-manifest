@@ -64,5 +64,11 @@
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Puntería"
+  },
+  "elo": {
+    "statName": "Elo"
+  },
+  "opponentsDefeated": {
+    "statName": "Bajas + asistencias"
   }
 }
