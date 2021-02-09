@@ -106,7 +106,7 @@
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Elo de Destiny Tracker",
-      "description": "Las puntuaciones Elo de una página web externa, _Destiny Tracker_. _Destiny Tracker_ proporciona puntuaciones Elo para todos los jugadores de Destiny que participan en las actividades de _Crisol_ y _Gambito_."
+      "description": "Clasificación Elo actual del jugador.\n\nLas puntuaciones Elo de una página web externa, _Destiny Tracker_. _Destiny Tracker_ proporciona puntuaciones Elo para todos los jugadores de Destiny que participan en las actividades de _Crisol_ y _Gambito_."
     }
   },
   "braytech_purple_rune": {
