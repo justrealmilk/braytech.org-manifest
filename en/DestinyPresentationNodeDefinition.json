@@ -132,6 +132,13 @@
       "localIcon": true
     }
   },
+  "1321008462": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/badges/02ef-00001064.png",
+      "hasIcon": true,
+      "localIcon": true
+    }
+  },
   "1321008463": {
     "displayProperties": {
       "icon": "/static/images/extracts/badges/027A-1089.png",
@@ -170,6 +177,13 @@
   "1486062207": {
     "displayProperties": {
       "icon": "/static/images/extracts/badges/0281-0F33.png",
+      "hasIcon": true,
+      "localIcon": true
+    }
+  },
+  "1733555826": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/badges/027C-1962.png",
       "hasIcon": true,
       "localIcon": true
     }
@@ -317,6 +331,13 @@
   "3680676656": {
     "displayProperties": {
       "icon": "/static/images/extracts/badges/0281-0EF7.png",
+      "hasIcon": true,
+      "localIcon": true
+    }
+  },
+  "3776992251": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/badges/027A-05E6.png",
       "hasIcon": true,
       "localIcon": true
     }
