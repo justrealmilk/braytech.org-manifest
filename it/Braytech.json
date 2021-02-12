@@ -106,7 +106,7 @@
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
-      "description": "Elo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."
+      "description": "Valutazione Elo attuale del giocatore.\n\nElo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."
     }
   },
   "braytech_purple_rune": {
