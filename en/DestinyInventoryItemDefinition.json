@@ -36,6 +36,11 @@
       "description": "Increases your Guardian's experience"
     }
   },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Increases your clan's experience"
