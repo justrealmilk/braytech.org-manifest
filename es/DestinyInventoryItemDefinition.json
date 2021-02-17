@@ -36,6 +36,19 @@
       "description": "Aumenta la experiencia de tu Guardián"
     }
   },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Aumenta la experiencia de tu clan"
+    },
+    "inventory": {
+      "tierTypeName": "Común"
+    }
+  },
   "23239861010": {
     "displayProperties": {
       "description": "Ninguna obra maestra seleccionada",
