@@ -33,7 +33,30 @@
   },
   "2211488305": {
     "displayProperties": {
-      "description": "Aumenta l'esperienza del tuo Guardiano"
+      "description": "Aumenta l'esperienza del tuo Guardiano."
+    }
+  },
+  "583797518": {
+    "displayProperties": {
+      "description": "Aumenta notevolmente l'esperienza del tuo Guardiano."
+    }
+  },
+  "1273084616": {
+    "displayProperties": {
+      "description": "Aumenta di molto l'esperienza del tuo Guardiano."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Aumenta il grado di valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Aumenta l'esperienza del tuo clan"
+    },
+    "inventory": {
+      "tierTypeName": "Comune"
     }
   },
   "23239861010": {
