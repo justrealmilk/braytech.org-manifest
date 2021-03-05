@@ -36,6 +36,21 @@
       "description": "수호자의 XP를 증가시킵니다."
     }
   },
+  "583797518": {
+    "displayProperties": {
+      "description": "수호자의 XP를 상당히 증가시킵니다."
+    }
+  },
+  "1273084616": {
+    "displayProperties": {
+      "description": "수호자의 XP를 매우 증가시킵니다."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "수호자의 용맹 점수를 증가시킵니다. 또한, 이건 살라딘 경을 흥분시킬 수도 있습니다."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "클랜의 XP를 증가시킵니다."
@@ -47,5 +62,11 @@
       "name": "촉매제 소켓 비어 있음"
     },
     "itemTypeDisplayName": "무기 개조 부품"
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "최고급 장비 (주간)",
+      "hasIcon": false
+    }
   }
 }
