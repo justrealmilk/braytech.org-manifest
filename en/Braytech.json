@@ -321,7 +321,7 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Stale Profile",
-      "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment. Interact with the app to re-enable background refresh."
+      "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment."
     }
   }
 }
