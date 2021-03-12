@@ -1,0 +1,122 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "Insufficient Clearance"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "583797518": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "1273084616": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Increases your clan's experience"
+    },
+    "inventory": {
+      "tierTypeName": "Common"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "No masterwork currently selected.",
+      "name": "Empty Masterwork Socket",
+      "icon": "/static/images/extracts/ui/items/no-mod.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Weapon Mod",
+    "tooltipStyle": "vendor_action",
+    "inventory": {
+      "maxStackSize": 1000,
+      "bucketTypeHash": 2422292810,
+      "recoveryBucketTypeHash": 0,
+      "tierTypeHash": 3340296461,
+      "isInstanceItem": false,
+      "nonTransferrableOriginal": false,
+      "tierTypeName": "Common",
+      "tierType": 2,
+      "expirationTooltip": "",
+      "expiredInActivityMessage": "",
+      "expiredInOrbitMessage": "",
+      "suppressExpirationWhenObjectivesComplete": true
+    },
+    "plug": {
+      "insertionRules": [],
+      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
+      "plugCategoryHash": 3945646995,
+      "onActionRecreateSelf": false,
+      "actionRewardSiteHash": 0,
+      "actionRewardItemOverrideHash": 0,
+      "insertionMaterialRequirementHash": 0,
+      "previewItemOverrideHash": 0,
+      "enabledMaterialRequirementHash": 0,
+      "enabledRules": [],
+      "uiPlugLabel": "",
+      "plugStyle": 0,
+      "plugAvailability": 0,
+      "alternateUiPlugLabel": "",
+      "alternatePlugStyle": 0,
+      "isDummyPlug": false
+    },
+    "perks": [],
+    "itemCategoryHashes": [59, 945330047, 610365472],
+    "specialItemType": 0,
+    "itemType": 19,
+    "itemSubType": 0,
+    "classType": 3,
+    "breakerType": 0,
+    "equippable": false,
+    "defaultDamageType": 0,
+    "hash": 23239861010,
+    "redacted": false
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Pinnacle Gear (Weak)",
+      "hasIcon": false
+    }
+  }
+}

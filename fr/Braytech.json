@@ -1,0 +1,327 @@
+{
+  "platform_xbox": {
+    "displayProperties": {
+      "name": "Xbox",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Platform"
+  },
+  "platform_playstation": {
+    "displayProperties": {
+      "name": "Playstation",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Platform"
+  },
+  "platform_steam": {
+    "displayProperties": {
+      "name": "Steam",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Platform"
+  },
+  "platform_battlenet": {
+    "displayProperties": {
+      "name": "Battle.net",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Platform"
+  },
+  "platform_stadia": {
+    "displayProperties": {
+      "name": "Stadia",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Platform"
+  },
+  "warmind": {
+    "displayProperties": {
+      "name": "Superintendent",
+      "description": "Tom Chapman, créateur et ingénieur de Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Artificial Intelligence"
+  },
+  "patron-veteran": {
+    "displayProperties": {
+      "name": "Subroutine",
+      "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Patron Reward"
+  },
+  "patron": {
+    "displayProperties": {
+      "name": "Researcher",
+      "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Patron Reward"
+  },
+  "patron-intern": {
+    "displayProperties": {
+      "name": "Intern"
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Patron Reward"
+  },
+  "commonality": {
+    "displayProperties": {
+      "name": "Commonality",
+      "description": "Percentage of players who are indexed by VOLUSPA who've acquired or redeemed this entry."
+    },
+    "itemType": 1
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Score value",
+      "description": "This record's score value."
+    },
+    "itemType": 1
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Score value",
+      "description": "This record's remaining score value (sum of remaining intervals)."
+    },
+    "itemType": 1
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Record intervals",
+      "description": "Some records have intervals. Different intervals have varied requirements and score values."
+    },
+    "itemType": 1
+  },
+  "character_bound": {
+    "displayProperties": {
+      "name": "Character bound",
+      "description": "These items are character-bound. This means that each character discovers them uniquely."
+    },
+    "itemType": 1
+  },
+  "coverage": {
+    "displayProperties": {
+      "name": "Coverage",
+      "description": "This translation's coverage represented by percentage."
+    },
+    "itemType": 1
+  },
+  "total_resets": {
+    "displayProperties": {
+      "name": "Total resets",
+      "description": "All seasons' resets. Tracks from Season 4 onward."
+    },
+    "itemType": 1
+  },
+  "destiny_tracker_elo": {
+    "displayProperties": {
+      "name": "Destiny Tracker Elo",
+      "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
+    },
+    "itemType": 1
+  },
+  "braytech_purple_rune": {
+    "displayProperties": {
+      "description": "A purple rune. Purple runes include; Rune of Joy, Rune of the Beast, and Rune of Jubilation.",
+      "name": "Purple Rune",
+      "icon": "/static/images/extracts/ui/rune_purple.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Material",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendary",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune0",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_red_rune": {
+    "displayProperties": {
+      "description": "A red rune. Red runes include; Rune of Ambition, Rune of Gluttony, and Rune of Cunning.",
+      "name": "Red Rune",
+      "icon": "/static/images/extracts/ui/rune_red.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Material",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendary",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune3",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_green_rune": {
+    "displayProperties": {
+      "description": "A green rune. Green runes include; Rune of War, Rune of Pride, and Rune of Desire.",
+      "name": "Green Rune",
+      "icon": "/static/images/extracts/ui/rune_green.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Material",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendary",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune6",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_blue_rune": {
+    "displayProperties": {
+      "description": "A blue rune. Blue runes include; Rune of Excess, Rune of Wealth, and Rune of Pleasure.",
+      "name": "Blue Rune",
+      "icon": "/static/images/extracts/ui/rune_blue.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Material",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Legendary",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune9",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_no_rune": {
+    "displayProperties": {
+      "description": "Insert a rune into this slot",
+      "name": "Empty slot",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Action",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Common",
+      "tierType": 1
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune20",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_remove_rune": {
+    "displayProperties": {
+      "description": "Remove any runes from this slot",
+      "name": "Empty slot",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Action",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Legendary Material",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Common",
+      "tierType": 1
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune21",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Latent Memories",
+      "description": "Mysterious test nodes are scattered across Mars. What is their purpose?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Unknown Error",
+      "description": "An error occurred while rendering this tooltip.\n\nThis is probably a temporary error. Apologies."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Stale Profile",
+      "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment."
+    }
+  }
+}

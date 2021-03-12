@@ -1,0 +1,46 @@
+{
+  "2032534090": {
+    "activityLightLevel": 750,
+    "activityTypeHash": 608898761,
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "4148187374": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "1077850348": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "82913930": {
+    "displayProperties": {
+      "description": "In orbit, planning something terribly heroic."
+    }
+  },
+  "567131519": {
+    "displayProperties": {
+      "name": "K1 Logistics: Master"
+    }
+  },
+  "2829206720": {
+    "displayProperties": {
+      "name": "K1 Communion: Master"
+    }
+  },
+  "184186578": {
+    "displayProperties": {
+      "name": "K1 Crew Quarters: Master"
+    }
+  },
+  "3911969238": {
+    "displayProperties": {
+      "name": "K1 Revelation: Master"
+    }
+  },
+  "1738383283": {
+    "originalDisplayProperties": {
+      "name": "Exotic Quest: Harbinger"
+    }
+  }
+}

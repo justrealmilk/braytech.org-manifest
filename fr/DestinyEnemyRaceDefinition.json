@@ -1,0 +1,88 @@
+{
+  "1636291695": {
+    "displayProperties": {
+      "name": "Fallen"
+    },
+    "factions": [
+      {
+        "hash": "devils",
+        "displayProperties": {
+          "name": "House of Devils"
+        }
+      },
+      {
+        "hash": "judgement",
+        "displayProperties": {
+          "name": "House of Judgement"
+        }
+      },
+      {
+        "hash": "kings",
+        "displayProperties": {
+          "name": "House of Kings"
+        }
+      },
+      {
+        "hash": "winter",
+        "displayProperties": {
+          "name": "House of Winter"
+        }
+      },
+      {
+        "hash": "wolves",
+        "displayProperties": {
+          "name": "House of Wolves"
+        }
+      },
+      {
+        "hash": "spider",
+        "displayProperties": {
+          "name": "The Spider's Crime Syndicate"
+        }
+      },
+      {
+        "hash": "dusk",
+        "displayProperties": {
+          "name": "House of Dusk"
+        }
+      }
+    ]
+  },
+  "546070638": {
+    "displayProperties": {
+      "name": "Cabal"
+    },
+    "factions": [
+      {
+        "hash": "red",
+        "displayProperties": {
+          "name": "Red Legion",
+          "description": "The Red Legion is an elite Cabal Legion formerly led by the Cabal Emperor, Dominus Ghaul."
+        }
+      }
+    ]
+  },
+  "711470098": {
+    "displayProperties": {
+      "name": "Vex"
+    }
+  },
+  "3265589059": {
+    "displayProperties": {
+      "name": "Hive"
+    },
+    "factions": [
+      {
+        "hash": "crota",
+        "displayProperties": {
+          "name": "Spawn of Crota"
+        }
+      }
+    ]
+  },
+  "1371537226": {
+    "displayProperties": {
+      "name": "Taken"
+    }
+  }
+}
