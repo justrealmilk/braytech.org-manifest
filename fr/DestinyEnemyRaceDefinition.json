@@ -1,63 +1,63 @@
 {
   "1636291695": {
     "displayProperties": {
-      "name": "Fallen"
+      "name": "Déchus"
     },
     "factions": [
       {
         "hash": "devils",
         "displayProperties": {
-          "name": "House of Devils"
+          "name": "Maison des Diables"
         }
       },
       {
         "hash": "judgement",
         "displayProperties": {
-          "name": "House of Judgement"
+          "name": "Maison du Jugement"
         }
       },
       {
         "hash": "kings",
         "displayProperties": {
-          "name": "House of Kings"
+          "name": "Maison des Rois"
         }
       },
       {
         "hash": "winter",
         "displayProperties": {
-          "name": "House of Winter"
+          "name": "Maison de l'Hiver"
         }
       },
       {
         "hash": "wolves",
         "displayProperties": {
-          "name": "House of Wolves"
+          "name": "Maison des Loups"
         }
       },
       {
         "hash": "spider",
         "displayProperties": {
-          "name": "The Spider's Crime Syndicate"
+          "name": "Le syndicat du crime de l'Araignée"
         }
       },
       {
         "hash": "dusk",
         "displayProperties": {
-          "name": "House of Dusk"
+          "name": "Maison des Exilés"
         }
       }
     ]
   },
   "546070638": {
     "displayProperties": {
-      "name": "Cabal"
+      "name": "Cabale"
     },
     "factions": [
       {
         "hash": "red",
         "displayProperties": {
-          "name": "Red Legion",
-          "description": "The Red Legion is an elite Cabal Legion formerly led by the Cabal Emperor, Dominus Ghaul."
+          "name": "La légion rouge",
+          "description": "La Légion rouge est une légion Cabale d'élite anciennement dirigée par l'empereur de la Cabale, Dominus Ghaul."
         }
       }
     ]
@@ -69,20 +69,20 @@
   },
   "3265589059": {
     "displayProperties": {
-      "name": "Hive"
+      "name": "La Ruche"
     },
     "factions": [
       {
         "hash": "crota",
         "displayProperties": {
-          "name": "Spawn of Crota"
+          "name": "Fils de Cropta"
         }
       }
     ]
   },
   "1371537226": {
     "displayProperties": {
-      "name": "Taken"
+      "name": "Corrompus"
     }
   }
 }

@@ -5,7 +5,7 @@
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "Plate-forme"
   },
   "platform_playstation": {
     "displayProperties": {
@@ -13,7 +13,7 @@
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "Plate-forme"
   },
   "platform_steam": {
     "displayProperties": {
@@ -21,7 +21,7 @@
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "Plate-forme"
   },
   "platform_battlenet": {
     "displayProperties": {
@@ -29,7 +29,7 @@
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "Plate-forme"
   },
   "platform_stadia": {
     "displayProperties": {
@@ -37,111 +37,111 @@
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "Plate-forme"
   },
   "warmind": {
     "displayProperties": {
-      "name": "Superintendent",
+      "name": "Surveillant général",
       "description": "Tom Chapman, créateur et ingénieur de Braytech."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Artificial Intelligence"
+    "itemTypeDisplayName": "Intelligence artificielle"
   },
   "patron-veteran": {
     "displayProperties": {
-      "name": "Subroutine",
-      "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
+      "name": "Sous-programme",
+      "description": "Ce gardien est un phare de lumière qui, par ses actions, a prouvé qu'il valorisait la bravoure et le service avant tout autre chose."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Récompense de mécène"
   },
   "patron": {
     "displayProperties": {
-      "name": "Researcher",
-      "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
+      "name": "Chercheur",
+      "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Récompense de mécène"
   },
   "patron-intern": {
     "displayProperties": {
-      "name": "Intern"
+      "name": "Interne"
     },
     "itemType": 1,
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Récompense de mécène"
   },
   "commonality": {
     "displayProperties": {
-      "name": "Commonality",
-      "description": "Percentage of players who are indexed by VOLUSPA who've acquired or redeemed this entry."
+      "name": "Rareté",
+      "description": "Pourcentage de joueurs indexés par VOLUSPA qui ont acquis ou récupéré cette entrée."
     },
     "itemType": 1
   },
   "score": {
     "displayProperties": {
-      "name": "Score value",
-      "description": "This record's score value."
+      "name": "Valeur du score",
+      "description": "Valeur de score de cet enregistrement."
     },
     "itemType": 1
   },
   "interval_score": {
     "displayProperties": {
-      "name": "Score value",
-      "description": "This record's remaining score value (sum of remaining intervals)."
+      "name": "Valeur du score",
+      "description": "Valeur de score restante de cet enregistrement (somme des intervalles restants)."
     },
     "itemType": 1
   },
   "record_intervals": {
     "displayProperties": {
-      "name": "Record intervals",
-      "description": "Some records have intervals. Different intervals have varied requirements and score values."
+      "name": "Intervalles de l'enregistrement",
+      "description": "Certains enregistrements ont des intervalles. Différents intervalles ont des exigences et des valeurs de score variées."
     },
     "itemType": 1
   },
   "character_bound": {
     "displayProperties": {
-      "name": "Character bound",
-      "description": "These items are character-bound. This means that each character discovers them uniquely."
+      "name": "Personnage lié",
+      "description": "Ces éléments sont liés aux personnages. Cela signifie que chaque personnage les découvre de manière unique."
     },
     "itemType": 1
   },
   "coverage": {
     "displayProperties": {
-      "name": "Coverage",
-      "description": "This translation's coverage represented by percentage."
+      "name": "Couverture",
+      "description": "La couverture de cette traduction représentée en pourcentage."
     },
     "itemType": 1
   },
   "total_resets": {
     "displayProperties": {
-      "name": "Total resets",
-      "description": "All seasons' resets. Tracks from Season 4 onward."
+      "name": "Total des réinitialisations",
+      "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
     },
     "itemType": 1
   },
   "destiny_tracker_elo": {
     "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
+      "name": "Traqueur Elo de Destiny",
+      "description": "Ratio Elo du joueur courant .\n\nÉvaluations Elo d'un site Web tiers, _Destiny Tracker_. _Destiny Tracker_ fournit des évaluations Elo pour tous les joueurs de Destiny qui participent aux activités _Crucible_ et _Gambit_."
     },
     "itemType": 1
   },
   "braytech_purple_rune": {
     "displayProperties": {
-      "description": "A purple rune. Purple runes include; Rune of Joy, Rune of the Beast, and Rune of Jubilation.",
-      "name": "Purple Rune",
+      "description": "Une rune violette. Les runes violettes comprennent; Rune de joie, Rune de la bête et Rune de jubilation.",
+      "name": "Rune violette",
       "icon": "/static/images/extracts/ui/rune_purple.png",
       "localIcon": true,
       "hasIcon": true
     },
-    "itemTypeDisplayName": "Material",
+    "itemTypeDisplayName": "Matériel",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendary",
+      "tierTypeName": "Légendaire",
       "tierType": 5
     },
     "plug": {
@@ -158,20 +158,20 @@
   },
   "braytech_red_rune": {
     "displayProperties": {
-      "description": "A red rune. Red runes include; Rune of Ambition, Rune of Gluttony, and Rune of Cunning.",
-      "name": "Red Rune",
+      "description": "Une rune rouge. Les runes rouges comprennent; Rune d'ambition, Rune de gourmandise et Rune de ruse.",
+      "name": "Rune rouge",
       "icon": "/static/images/extracts/ui/rune_red.png",
       "localIcon": true,
       "hasIcon": true
     },
-    "itemTypeDisplayName": "Material",
+    "itemTypeDisplayName": "Matériel",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendary",
+      "tierTypeName": "Légendaire",
       "tierType": 5
     },
     "plug": {
@@ -188,20 +188,20 @@
   },
   "braytech_green_rune": {
     "displayProperties": {
-      "description": "A green rune. Green runes include; Rune of War, Rune of Pride, and Rune of Desire.",
-      "name": "Green Rune",
+      "description": "Une rune verte. Les runes vertes comprennent; Rune de guerre, Rune de fierté et Rune de désir.",
+      "name": "Rune verte",
       "icon": "/static/images/extracts/ui/rune_green.png",
       "localIcon": true,
       "hasIcon": true
     },
-    "itemTypeDisplayName": "Material",
+    "itemTypeDisplayName": "Matériel",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendary",
+      "tierTypeName": "Légendaire",
       "tierType": 5
     },
     "plug": {
@@ -218,20 +218,20 @@
   },
   "braytech_blue_rune": {
     "displayProperties": {
-      "description": "A blue rune. Blue runes include; Rune of Excess, Rune of Wealth, and Rune of Pleasure.",
-      "name": "Blue Rune",
+      "description": "Une rune bleue. Les runes bleues comprennent; Rune d'excès, Rune de richesse et Rune de plaisir.",
+      "name": "Rune bleue",
       "icon": "/static/images/extracts/ui/rune_blue.png",
       "localIcon": true,
       "hasIcon": true
     },
-    "itemTypeDisplayName": "Material",
+    "itemTypeDisplayName": "Matériel",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendary",
+      "tierTypeName": "Légendaire",
       "tierType": 5
     },
     "plug": {
@@ -248,20 +248,20 @@
   },
   "braytech_no_rune": {
     "displayProperties": {
-      "description": "Insert a rune into this slot",
-      "name": "Empty slot",
+      "description": "Insérez une rune dans cet emplacement",
+      "name": "Emplacement vide",
       "icon": "/static/images/extracts/ui/0560-00006055.png",
       "localIcon": true,
       "hasIcon": true
     },
     "itemTypeDisplayName": "Action",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Common",
+      "tierTypeName": "Commun",
       "tierType": 1
     },
     "plug": {
@@ -278,20 +278,20 @@
   },
   "braytech_remove_rune": {
     "displayProperties": {
-      "description": "Remove any runes from this slot",
-      "name": "Empty slot",
+      "description": "Supprimez toutes les runes de cet emplacement",
+      "name": "Emplacement vide",
       "icon": "/static/images/extracts/ui/0560-00006055.png",
       "localIcon": true,
       "hasIcon": true
     },
     "itemTypeDisplayName": "Action",
     "uiItemDisplayStyle": "",
-    "itemTypeAndTierDisplayName": "Legendary Material",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
     "displaySource": "",
     "inventory": {
       "bucketTypeHash": 2422292810,
       "tierTypeHash": 4008398120,
-      "tierTypeName": "Common",
+      "tierTypeName": "Commun",
       "tierType": 1
     },
     "plug": {
@@ -308,20 +308,20 @@
   },
   "latent-memories": {
     "displayProperties": {
-      "name": "Latent Memories",
-      "description": "Mysterious test nodes are scattered across Mars. What is their purpose?"
+      "name": "Mémoires perdues",
+      "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
     }
   },
   "tooltip-error": {
     "displayProperties": {
-      "name": "Unknown Error",
-      "description": "An error occurred while rendering this tooltip.\n\nThis is probably a temporary error. Apologies."
+      "name": "Erreur inconnue",
+      "description": "Une erreur s'est produite lors de l'affichage de cette info-bulle.\n\nIl s'agit probablement d'une erreur temporaire. Toutes nos excuses."
     }
   },
   "profile-stale": {
     "displayProperties": {
-      "name": "Stale Profile",
-      "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment."
+      "name": "Profil périmé",
+      "description": "Les données de profil sont périmées. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas réussi à atteindre les serveurs de Bungie pour le moment."
     }
   }
 }

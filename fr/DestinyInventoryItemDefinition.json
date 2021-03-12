@@ -1,73 +1,73 @@
 {
   "0": {
     "displayProperties": {
-      "name": "Classified",
-      "description": "Keep it clean."
+      "name": "Classifié",
+      "description": "Garde le propre."
     },
-    "itemTypeDisplayName": "Insufficient Clearance"
+    "itemTypeDisplayName": "Dégagement insuffisant"
   },
   "3243866699": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
     }
   },
   "3243866698": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero.."
     }
   },
   "3243866697": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
     }
   },
   "3243866696": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
     }
   },
   "3243866703": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
     }
   },
   "2211488305": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience."
+      "description": "Augmente l'expérience de votre gardien."
     }
   },
   "583797518": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience substantially."
+      "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
   "1273084616": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
+      "description": "Augmente énormément l'expérience de votre gardien."
     }
   },
   "1808687944": {
     "displayProperties": {
-      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+      "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
     }
   },
   "304443327": {
     "displayProperties": {
-      "description": "Increases your clan's experience"
+      "description": "Augmente l'expérience de votre clan"
     },
     "inventory": {
-      "tierTypeName": "Common"
+      "tierTypeName": "Commun"
     }
   },
   "23239861010": {
     "displayProperties": {
-      "description": "No masterwork currently selected.",
-      "name": "Empty Masterwork Socket",
+      "description": "Aucune pièce maîtresse actuellement sélectionné.",
+      "name": "Emplacement de pièce maîtresse vide",
       "icon": "/static/images/extracts/ui/items/no-mod.png",
       "localIcon": true,
       "hasIcon": true
     },
-    "itemTypeDisplayName": "Weapon Mod",
+    "itemTypeDisplayName": "Mod de marchand",
     "tooltipStyle": "vendor_action",
     "inventory": {
       "maxStackSize": 1000,
@@ -76,7 +76,7 @@
       "tierTypeHash": 3340296461,
       "isInstanceItem": false,
       "nonTransferrableOriginal": false,
-      "tierTypeName": "Common",
+      "tierTypeName": "Commun",
       "tierType": 2,
       "expirationTooltip": "",
       "expiredInActivityMessage": "",
@@ -115,7 +115,7 @@
   },
   "73143230001": {
     "displayProperties": {
-      "name": "Pinnacle Gear (Weak)",
+      "name": "Equipement de prestige (Faible)",
       "hasIcon": false
     }
   }

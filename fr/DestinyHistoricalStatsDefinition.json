@@ -152,10 +152,10 @@
     "localIcon": true
   },
   "killsDeathsRatio": {
-    "statName": "K/D"
+    "statName": "E/M"
   },
   "winRate": {
-    "statName": "Win Rate",
+    "statName": "Ratio de victoires",
     "unitType": 7
   },
   "supremacyCrestsSecured": {
@@ -168,60 +168,60 @@
     "statName": "Secure Rate"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
+    "statName": "Eliminés sécurisés"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
+    "statName": "Eliminés alliés sécurisés"
   },
   "highValueKills": {
-    "statName": "High Value Kills"
+    "statName": "Eliminés de grande valeur"
   },
   "invasionKills": {
-    "statName": "Kills as Invader"
+    "statName": "Eliminés en tant qu'Intru"
   },
   "invasionDeaths": {
-    "statName": "Deaths as Invader"
+    "statName": "Morts en tant qu'Intru"
   },
   "invaderKills": {
-    "statName": "Invaders Killed"
+    "statName": "Intrus éliminés"
   },
   "invaderDeaths": {
-    "statName": "Deaths to Invaders"
+    "statName": "Morts des intrus"
   },
   "primevalDamage": {
-    "statName": "Primeval Damage"
+    "statName": "Dommage au Priomordial"
   },
   "primevalKills": {
-    "statName": "Primeval Kills"
+    "statName": "Priomordiaux éliminés"
   },
   "motesDenied": {
-    "statName": "Motes Denied"
+    "statName": "Particules perdues"
   },
   "invasions": {
     "statName": "Invasions"
   },
   "blockerKills": {
-    "statName": "Blocker Kills"
+    "statName": "Bloqueur tué"
   },
   "smallBlockersSent": {
-    "statName": "Small Blockers Sent"
+    "statName": "Petits bloqueurs envoyés"
   },
   "mediumBlockersSent": {
-    "statName": "Medium Blockers Sent"
+    "statName": "Bloqueurs moyens envoyés"
   },
   "largeBlockersSent": {
-    "statName": "Large Blockers Sent"
+    "statName": "Grands bloqueurs envoyés"
   },
   "precisionKills": {
-    "statName": "Precision"
+    "statName": "Précision"
   },
   "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuracy"
+    "statName": "Précision"
   },
   "elo": {
     "statName": "Elo"
   },
   "opponentsDefeated": {
-    "statName": "Kills + Assists"
+    "statName": "Éliminés + Assistances"
   }
 }

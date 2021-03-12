@@ -2,11 +2,11 @@
   "1": {
     "displayProperties": {
       "name": "The Confluence West",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -16,11 +16,11 @@
   "2": {
     "displayProperties": {
       "name": "The Confluence East",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -30,11 +30,11 @@
   "3": {
     "displayProperties": {
       "name": "The Confluence South",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -48,7 +48,7 @@
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -90,11 +90,11 @@
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -103,12 +103,12 @@
   },
   "6": {
     "displayProperties": {
-      "name": "Forfeit Shrine",
+      "name": "Autel du Forfait",
       "description": "Subdue the major blight by depositing all three charges beneath. Eliminate the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -151,12 +151,12 @@
   },
   "7": {
     "displayProperties": {
-      "name": "Forfeit Shrine",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "Autel du Forfait",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -165,12 +165,12 @@
   },
   "8": {
     "displayProperties": {
-      "name": "Shattered Ruins",
+      "name": "Ruines brisées",
       "description": "Climb the ruins and eliminate the Taken Phalanx.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -210,12 +210,12 @@
   },
   "9": {
     "displayProperties": {
-      "name": "Shattered Ruins",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "Ruines brisées",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -224,12 +224,12 @@
   },
   "10": {
     "displayProperties": {
-      "name": "Keep of Honed Edges",
+      "name": "Fort des tranchants aiguisés",
       "description": "Eliminate the Hive Wizards, raise a sword, and defeat the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -272,12 +272,12 @@
   },
   "11": {
     "displayProperties": {
-      "name": "Keep of Honed Edges",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "Fort des tranchants aiguisés",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -286,12 +286,12 @@
   },
   "12": {
     "displayProperties": {
-      "name": "Agonarch Abyss",
+      "name": "Abysse des argonarques",
       "description": "Reach the bottom and eliminate the Taken Wizards.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -332,12 +332,12 @@
   },
   "13": {
     "displayProperties": {
-      "name": "Agonarch Abyss",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "Abysse des argonarques",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -346,12 +346,12 @@
   },
   "14": {
     "displayProperties": {
-      "name": "Cimmerian Garrison",
+      "name": "Garnison cimmérienne",
       "description": "This challenge culminates in a fight between the Guardian, a Hive Knight, and three Hive Shriekers, on a spacious platform with various cover from enemy fire.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
     "type": {
-      "name": "Ascendant Challenge",
+      "name": "Défi Ascendant",
       "hash": "ascendant-challenge"
     },
     "destinationHash": 1416096592,
@@ -389,12 +389,12 @@
   },
   "15": {
     "displayProperties": {
-      "name": "Cimmerian Garrison",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "Garnison cimmérienne",
+      "description": "Un portail vers le _Plan ascendant_.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -406,7 +406,7 @@
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "type": {
-      "name": "Patrol Boss",
+      "name": "Boss de patrouille",
       "hash": "patrol-boss"
     },
     "destinationHash": 677774031,
@@ -432,7 +432,7 @@
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "type": {
-      "name": "Patrol Boss",
+      "name": "Boss de patrouille",
       "hash": "patrol-boss"
     },
     "destinationHash": 677774031,
@@ -458,7 +458,7 @@
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "type": {
-      "name": "Patrol Boss",
+      "name": "Boss de patrouille",
       "hash": "patrol-boss"
     },
     "destinationHash": 677774031,
@@ -484,7 +484,7 @@
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "type": {
-      "name": "Patrol Boss",
+      "name": "Boss de patrouille",
       "hash": "patrol-boss"
     },
     "destinationHash": 677774031,
@@ -1591,12 +1591,12 @@
   },
   "278": {
     "displayProperties": {
-      "name": "Queen's Court",
-      "description": "A portal to _Queen's Court_, Mara Sov's throne world.",
+      "name": "La Cour de la reine",
+      "description": "Un portail vers _La Cour de la reine_, le monde trône de Mara Sov.",
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 1416096592,
@@ -1607,7 +1607,7 @@
     "checklistHash": 1387596458,
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
     "displayProperties": {
-      "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
+      "description": "En arrivant à _La Cour de la reine_, escaladez le mur à gauche du trône."
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
@@ -1621,7 +1621,7 @@
     "checklistHash": 463653643,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-463653643.jpg",
     "displayProperties": {
-      "description": "Push past the lost sector entry junction and continue along the gangway."
+      "description": "Dépassez la jonction d'entrée du secteur perdu et continuez le long de la passerelle."
     }
   },
   "289": {
@@ -1640,14 +1640,14 @@
     "checklistHash": 2495538001,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-2495538001.jpg",
     "displayProperties": {
-      "description": "Cliff-side, beneath the path which leads to a lost sector."
+      "description": "Côté falaise, sous le chemin qui mène à un secteur perdu."
     }
   },
   "293": {
     "checklistHash": 3644688446,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3644688446.jpg",
     "displayProperties": {
-      "description": "On the catwalk."
+      "description": "Sur la passerelle."
     }
   },
   "294": {
@@ -1658,7 +1658,7 @@
     "checklistHash": 2809244994,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg",
     "displayProperties": {
-      "description": "Perched upon the midwall of the _Infinite Forest_."
+      "description": "Perché sur le mur médian de la _Forêt Infinie_."
     }
   },
   "302": {
@@ -2418,7 +2418,7 @@
       "icon": "portal"
     },
     "type": {
-      "name": "Portal",
+      "name": "Portail",
       "hash": "portal"
     },
     "destinationHash": 697502628,
