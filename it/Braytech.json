@@ -190,7 +190,7 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie. Interagisci con l'app per riprendere l'aggiornamento del profilo in background."
+      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie."
     }
   }
 }
