@@ -1,0 +1,327 @@
+{
+  "platform_xbox": {
+    "displayProperties": {
+      "name": "Xbox",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Plate-forme"
+  },
+  "platform_playstation": {
+    "displayProperties": {
+      "name": "Playstation",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Plate-forme"
+  },
+  "platform_steam": {
+    "displayProperties": {
+      "name": "Steam",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Plate-forme"
+  },
+  "platform_battlenet": {
+    "displayProperties": {
+      "name": "Battle.net",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Plate-forme"
+  },
+  "platform_stadia": {
+    "displayProperties": {
+      "name": "Stadia",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Plate-forme"
+  },
+  "warmind": {
+    "displayProperties": {
+      "name": "Surveillant général",
+      "description": "Tom Chapman, créateur et ingénieur de Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Intelligence artificielle"
+  },
+  "patron-veteran": {
+    "displayProperties": {
+      "name": "Sous-programme",
+      "description": "Ce gardien est un phare de lumière qui, par ses actions, a prouvé qu'il valorisait la bravoure et le service avant tout autre chose."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Récompense de mécène"
+  },
+  "patron": {
+    "displayProperties": {
+      "name": "Chercheur",
+      "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Récompense de mécène"
+  },
+  "patron-intern": {
+    "displayProperties": {
+      "name": "Interne"
+    },
+    "itemType": 1,
+    "itemTypeDisplayName": "Récompense de mécène"
+  },
+  "commonality": {
+    "displayProperties": {
+      "name": "Rareté",
+      "description": "Pourcentage de joueurs indexés par VOLUSPA qui ont acquis ou récupéré cette entrée."
+    },
+    "itemType": 1
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Valeur du score",
+      "description": "Valeur de score de cet enregistrement."
+    },
+    "itemType": 1
+  },
+  "interval_score": {
+    "displayProperties": {
+      "name": "Valeur du score",
+      "description": "Valeur de score restante de cet enregistrement (somme des intervalles restants)."
+    },
+    "itemType": 1
+  },
+  "record_intervals": {
+    "displayProperties": {
+      "name": "Intervalles de l'enregistrement",
+      "description": "Certains enregistrements ont des intervalles. Différents intervalles ont des exigences et des valeurs de score variées."
+    },
+    "itemType": 1
+  },
+  "character_bound": {
+    "displayProperties": {
+      "name": "Personnage lié",
+      "description": "Ces éléments sont liés aux personnages. Cela signifie que chaque personnage les découvre de manière unique."
+    },
+    "itemType": 1
+  },
+  "coverage": {
+    "displayProperties": {
+      "name": "Couverture",
+      "description": "La couverture de cette traduction représentée en pourcentage."
+    },
+    "itemType": 1
+  },
+  "total_resets": {
+    "displayProperties": {
+      "name": "Total des réinitialisations",
+      "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
+    },
+    "itemType": 1
+  },
+  "destiny_tracker_elo": {
+    "displayProperties": {
+      "name": "Traqueur Elo de Destiny",
+      "description": "Ratio Elo du joueur courant .\n\nÉvaluations Elo d'un site Web tiers, _Destiny Tracker_. _Destiny Tracker_ fournit des évaluations Elo pour tous les joueurs de Destiny qui participent aux activités _Crucible_ et _Gambit_."
+    },
+    "itemType": 1
+  },
+  "braytech_purple_rune": {
+    "displayProperties": {
+      "description": "Une rune violette. Les runes violettes comprennent; Rune de joie, Rune de la bête et Rune de jubilation.",
+      "name": "Rune violette",
+      "icon": "/static/images/extracts/ui/rune_purple.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Matériel",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Légendaire",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune0",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_red_rune": {
+    "displayProperties": {
+      "description": "Une rune rouge. Les runes rouges comprennent; Rune d'ambition, Rune de gourmandise et Rune de ruse.",
+      "name": "Rune rouge",
+      "icon": "/static/images/extracts/ui/rune_red.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Matériel",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Légendaire",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune3",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_green_rune": {
+    "displayProperties": {
+      "description": "Une rune verte. Les runes vertes comprennent; Rune de guerre, Rune de fierté et Rune de désir.",
+      "name": "Rune verte",
+      "icon": "/static/images/extracts/ui/rune_green.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Matériel",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Légendaire",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune6",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_blue_rune": {
+    "displayProperties": {
+      "description": "Une rune bleue. Les runes bleues comprennent; Rune d'excès, Rune de richesse et Rune de plaisir.",
+      "name": "Rune bleue",
+      "icon": "/static/images/extracts/ui/rune_blue.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Matériel",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Légendaire",
+      "tierType": 5
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune9",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_no_rune": {
+    "displayProperties": {
+      "description": "Insérez une rune dans cet emplacement",
+      "name": "Emplacement vide",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Action",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Commun",
+      "tierType": 1
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune20",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "braytech_remove_rune": {
+    "displayProperties": {
+      "description": "Supprimez toutes les runes de cet emplacement",
+      "name": "Emplacement vide",
+      "icon": "/static/images/extracts/ui/0560-00006055.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Action",
+    "uiItemDisplayStyle": "",
+    "itemTypeAndTierDisplayName": "Matériel légendaire",
+    "displaySource": "",
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 4008398120,
+      "tierTypeName": "Commun",
+      "tierType": 1
+    },
+    "plug": {
+      "plugCategoryIdentifier": "penumbra.runes.legendary.rune21",
+      "plugCategoryHash": 415109986
+    },
+    "itemCategoryHashes": [3109687656],
+    "itemType": 20,
+    "itemSubType": 0,
+    "classType": 3,
+    "hash": 2149082452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Mémoires perdues",
+      "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Erreur inconnue",
+      "description": "Une erreur s'est produite lors de l'affichage de cette info-bulle.\n\nIl s'agit probablement d'une erreur temporaire. Toutes nos excuses."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Profil périmé",
+      "description": "Les données de profil sont périmées. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas réussi à atteindre les serveurs de Bungie pour le moment."
+    }
+  }
+}

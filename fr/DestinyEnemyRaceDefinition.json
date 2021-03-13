@@ -1,0 +1,88 @@
+{
+  "1636291695": {
+    "displayProperties": {
+      "name": "Déchus"
+    },
+    "factions": [
+      {
+        "hash": "devils",
+        "displayProperties": {
+          "name": "Maison des Diables"
+        }
+      },
+      {
+        "hash": "judgement",
+        "displayProperties": {
+          "name": "Maison du Jugement"
+        }
+      },
+      {
+        "hash": "kings",
+        "displayProperties": {
+          "name": "Maison des Rois"
+        }
+      },
+      {
+        "hash": "winter",
+        "displayProperties": {
+          "name": "Maison de l'Hiver"
+        }
+      },
+      {
+        "hash": "wolves",
+        "displayProperties": {
+          "name": "Maison des Loups"
+        }
+      },
+      {
+        "hash": "spider",
+        "displayProperties": {
+          "name": "Le syndicat du crime de l'Araignée"
+        }
+      },
+      {
+        "hash": "dusk",
+        "displayProperties": {
+          "name": "Maison des Exilés"
+        }
+      }
+    ]
+  },
+  "546070638": {
+    "displayProperties": {
+      "name": "Cabale"
+    },
+    "factions": [
+      {
+        "hash": "red",
+        "displayProperties": {
+          "name": "La légion rouge",
+          "description": "La Légion rouge est une légion Cabale d'élite anciennement dirigée par l'empereur de la Cabale, Dominus Ghaul."
+        }
+      }
+    ]
+  },
+  "711470098": {
+    "displayProperties": {
+      "name": "Vex"
+    }
+  },
+  "3265589059": {
+    "displayProperties": {
+      "name": "La Ruche"
+    },
+    "factions": [
+      {
+        "hash": "crota",
+        "displayProperties": {
+          "name": "Fils de Cropta"
+        }
+      }
+    ]
+  },
+  "1371537226": {
+    "displayProperties": {
+      "name": "Corrompus"
+    }
+  }
+}

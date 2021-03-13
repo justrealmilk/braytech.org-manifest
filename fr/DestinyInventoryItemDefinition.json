@@ -1,0 +1,122 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Classifié",
+      "description": "Garde le propre."
+    },
+    "itemTypeDisplayName": "Dégagement insuffisant"
+  },
+  "3243866699": {
+    "displayProperties": {
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
+    }
+  },
+  "3243866698": {
+    "displayProperties": {
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero.."
+    }
+  },
+  "3243866697": {
+    "displayProperties": {
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
+    }
+  },
+  "3243866696": {
+    "displayProperties": {
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
+    }
+  },
+  "3243866703": {
+    "displayProperties": {
+      "description": "Un des cinq artefacts requis pour le catalyseur de Ligne d'univers Zero."
+    }
+  },
+  "2211488305": {
+    "displayProperties": {
+      "description": "Augmente l'expérience de votre gardien."
+    }
+  },
+  "583797518": {
+    "displayProperties": {
+      "description": "Augmente considérablement l'expérience de votre gardien."
+    }
+  },
+  "1273084616": {
+    "displayProperties": {
+      "description": "Augmente énormément l'expérience de votre gardien."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Augmente l'expérience de votre clan"
+    },
+    "inventory": {
+      "tierTypeName": "Commun"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "Aucune pièce maîtresse actuellement sélectionné.",
+      "name": "Emplacement de pièce maîtresse vide",
+      "icon": "/static/images/extracts/ui/items/no-mod.png",
+      "localIcon": true,
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Mod de marchand",
+    "tooltipStyle": "vendor_action",
+    "inventory": {
+      "maxStackSize": 1000,
+      "bucketTypeHash": 2422292810,
+      "recoveryBucketTypeHash": 0,
+      "tierTypeHash": 3340296461,
+      "isInstanceItem": false,
+      "nonTransferrableOriginal": false,
+      "tierTypeName": "Commun",
+      "tierType": 2,
+      "expirationTooltip": "",
+      "expiredInActivityMessage": "",
+      "expiredInOrbitMessage": "",
+      "suppressExpirationWhenObjectivesComplete": true
+    },
+    "plug": {
+      "insertionRules": [],
+      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
+      "plugCategoryHash": 3945646995,
+      "onActionRecreateSelf": false,
+      "actionRewardSiteHash": 0,
+      "actionRewardItemOverrideHash": 0,
+      "insertionMaterialRequirementHash": 0,
+      "previewItemOverrideHash": 0,
+      "enabledMaterialRequirementHash": 0,
+      "enabledRules": [],
+      "uiPlugLabel": "",
+      "plugStyle": 0,
+      "plugAvailability": 0,
+      "alternateUiPlugLabel": "",
+      "alternatePlugStyle": 0,
+      "isDummyPlug": false
+    },
+    "perks": [],
+    "itemCategoryHashes": [59, 945330047, 610365472],
+    "specialItemType": 0,
+    "itemType": 19,
+    "itemSubType": 0,
+    "classType": 3,
+    "breakerType": 0,
+    "equippable": false,
+    "defaultDamageType": 0,
+    "hash": 23239861010,
+    "redacted": false
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Equipement de prestige (Faible)",
+      "hasIcon": false
+    }
+  }
+}
