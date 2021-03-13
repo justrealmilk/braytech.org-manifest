@@ -159,13 +159,13 @@
     "unitType": 7
   },
   "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
+    "statName": "Particules sécurisées"
   },
   "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
+    "statName": "Particules récupérées"
   },
   "supremacySecureRate": {
-    "statName": "Secure Rate"
+    "statName": "Taux sécurisé"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "Eliminés sécurisés"
