@@ -2,2610 +2,371 @@
   "1": {
     "displayProperties": {
       "name": "La Confluence Ouest",
-      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
-      "icon": "portal"
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 1091325847,
-    "screenshot": "/static/images/screenshots/portals/portal_1.jpg"
+      "name": "Portail"
+    }
   },
   "2": {
     "displayProperties": {
       "name": "La Confluence Est",
-      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
-      "icon": "portal"
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 278887670,
-    "screenshot": "/static/images/screenshots/portals/portal_2.jpg"
+      "name": "Portail"
+    }
   },
   "3": {
     "displayProperties": {
       "name": "La Confluence Sud",
-      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles.",
-      "icon": "portal"
+      "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 768261954,
-    "screenshot": "/static/images/screenshots/portals/portal_3.jpg"
+      "name": "Portail"
+    }
   },
   "4": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Détruisez toutes les infections corrompues puis retournez dans le foyer pour briser les cristaux du Vide auparavant immunisés.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Détruisez toutes les infections corrompues puis retournez dans le foyer pour briser les cristaux du Vide auparavant immunisés.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-1.jpg",
-    "related": {
-      "records": [
-        {
-          "recordHash": 4097367904
-        },
-        {
-          "recordHash": 4114145488
-        },
-        {
-          "recordHash": 289544273
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1084474576,
-            1084474577,
-            1084474591
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1387596463
-          ]
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=CxzxJlvZz8k"
+      "name": "Défi Ascendant"
     }
   },
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 544256237,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
+      "name": "Portail"
+    }
   },
   "6": {
     "displayProperties": {
       "name": "Autel du Forfait",
-      "description": "Soumettez l'infection corrompue majeure en déposant les trois charges en dessous. Éliminez les Chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Soumettez l'infection corrompue majeure en déposant les trois charges en dessous. Éliminez les Chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-1.jpg",
-    "related": {
-      "records": [
-        {
-          "recordHash": 4114145489
-        },
-        {
-          "recordHash": 4114145491
-        },
-        {
-          "recordHash": 3184551921
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1034141726,
-            1067696996,
-            1067696997,
-            1067696998,
-            1084474590
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1387596460
-          ]
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=0MRCoHQE0OE"
+      "name": "Défi Ascendant"
     }
   },
   "7": {
     "displayProperties": {
       "name": "Autel du Forfait",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 278887670,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-2.jpg"
+      "name": "Portail"
+    }
   },
   "8": {
     "displayProperties": {
       "name": "Ruines brisées",
-      "description": "Grimpez dans les ruines et éliminez la phalange corrompue.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Grimpez dans les ruines et éliminez la phalange corrompue.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-1.jpg",
-    "related": {
-      "records": [
-        {
-          "recordHash": 4097367907
-        },
-        {
-          "recordHash": 4130923072
-        },
-        {
-          "recordHash": 1943513477
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1067696992,
-            1067696993,
-            1067696999,
-            1067697005,
-            1084474583
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1370818879
-          ]
-        }
-      ]
+      "name": "Défi Ascendant"
     }
   },
   "9": {
     "displayProperties": {
       "name": "Ruines brisées",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 768261954,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-2.jpg"
+      "name": "Portail"
+    }
   },
   "10": {
     "displayProperties": {
       "name": "Fort des tranchants aiguisés",
-      "description": "Éliminez les sorcières de la ruche, prenez l'épée et battez les chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Éliminez les sorcières de la ruche, prenez l'épée et battez les chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "related": {
-      "records": [
-        {
-          "recordHash": 4114145503
-        },
-        {
-          "recordHash": 4114145494
-        },
-        {
-          "recordHash": 3136361071
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1084474578,
-            1084474579,
-            1118029876,
-            1118029877,
-            1118029882
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1387596457
-          ]
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-1.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vV6oWIgSsgU"
+      "name": "Défi Ascendant"
     }
   },
   "11": {
     "displayProperties": {
       "name": "Fort des tranchants aiguisés",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 1091325847,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-2.jpg"
+      "name": "Portail"
+    }
   },
   "12": {
     "displayProperties": {
       "name": "Abysse des argonarques",
-      "description": "Atteignez le fond du plan ascendant et éliminez les sorcières corrompues.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Atteignez le fond du plan ascendant et éliminez les sorcières corrompues.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "related": {
-      "records": [
-        {
-          "recordHash": 4097367911
-        },
-        {
-          "recordHash": 4130923073
-        },
-        {
-          "recordHash": 3657296930
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1084474580,
-            1084474581,
-            1084474582
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1370818878
-          ]
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-1.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=R3hxNNzfxBI"
+      "name": "Défi Ascendant"
     }
   },
   "13": {
     "displayProperties": {
       "name": "Abysse des argonarques",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 735161098,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
+      "name": "Portail"
+    }
   },
   "14": {
     "displayProperties": {
       "name": "Garnison cimmérienne",
-      "description": "Ce défi se termine par un combat entre le gardien, un chevalier de la ruche et trois vigies de la ruche, sur une large plate-forme avec diverses couvertures contre les tirs ennemis.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._",
-      "icon": "ascendant-challenge"
+      "description": "Ce défi se termine par un combat entre le gardien, un chevalier de la ruche et trois vigies de la ruche, sur une large plate-forme avec diverses couvertures contre les tirs ennemis.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
     },
     "type": {
-      "name": "Défi Ascendant",
-      "hash": "ascendant-challenge"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-1.jpg",
-    "related": {
-      "records": [
-        {
-          "recordHash": 4097367905
-        },
-        {
-          "recordHash": 4130923085
-        },
-        {
-          "recordHash": 2554779913
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1067696994,
-            1067696995,
-            1067697004
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1370818866
-          ]
-        }
-      ]
+      "name": "Défi Ascendant"
     }
   },
   "15": {
     "displayProperties": {
       "name": "Garnison cimmérienne",
-      "description": "Un portail vers le _Plan ascendant_.",
-      "icon": "portal"
+      "description": "Un portail vers le _Plan ascendant_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 3366050756,
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
+      "name": "Portail"
+    }
   },
   "16": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     },
     "type": {
-      "name": "Boss de patrouille",
-      "hash": "patrol-boss"
-    },
-    "destinationHash": 677774031,
-    "bubbleHash": 417490937,
-    "activityLightLevel": 980,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1627455393
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1842542594,
-          "objectiveHash": 1009409498
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/enemies/sorrows-harbor_patrol-boss_nightmareXortal.jpg"
+      "name": "Boss de patrouille"
+    }
   },
   "17": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     },
     "type": {
-      "name": "Boss de patrouille",
-      "hash": "patrol-boss"
-    },
-    "destinationHash": 677774031,
-    "bubbleHash": 4025450777,
-    "activityLightLevel": 980,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1627455393
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1842542594,
-          "objectiveHash": 1009409496
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/enemies/anchor-of-light_patrol-boss_nightmareHorkis.jpg"
+      "name": "Boss de patrouille"
+    }
   },
   "18": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     },
     "type": {
-      "name": "Boss de patrouille",
-      "hash": "patrol-boss"
-    },
-    "destinationHash": 677774031,
-    "bubbleHash": 4195493657,
-    "activityLightLevel": 980,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1627455393
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1842542594,
-          "objectiveHash": 1009409497
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/enemies/hellmouth_patrol-boss_nightmareJaxx.jpg"
+      "name": "Boss de patrouille"
+    }
   },
   "19": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     },
     "type": {
-      "name": "Boss de patrouille",
-      "hash": "patrol-boss"
-    },
-    "destinationHash": 677774031,
-    "bubbleHash": 3326367698,
-    "activityLightLevel": 980,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1627455393
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1842542594,
-          "objectiveHash": 1009409499
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/enemies/archers-line_patrol-boss_nightmareFallenCouncil.jpg"
-  },
-  "20": {
-    "checklistHash": 3156467474,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts_region-chests_10.jpg"
-  },
-  "21": {
-    "checklistHash": 2473593253,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts_region-chests_11.jpg"
-  },
-  "22": {
-    "checklistHash": 505173108,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts-505173108.jpg"
-  },
-  "23": {
-    "checklistHash": 3557288846,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3557288846.jpg"
+      "name": "Boss de patrouille"
+    }
   },
   "24": {
     "displayProperties": {
       "description": "Sur la falaise, surplombant La crique sinueuse, près de l'endroit où Xûr apparaît parfois."
-    },
-    "checklistHash": 3658842337,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3658842337.jpg"
-  },
-  "25": {
-    "checklistHash": 1116639056,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-1116639056.jpg"
-  },
-  "26": {
-    "checklistHash": 72017611,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-72017611.jpg"
-  },
-  "27": {
-    "checklistHash": 3212130160,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-3212130160.jpg"
-  },
-  "28": {
-    "checklistHash": 97796737,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-97796737.jpg"
-  },
-  "29": {
-    "checklistHash": 113362963,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-113362963.jpg"
-  },
-  "30": {
-    "checklistHash": 2355206132,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-2355206132.jpg"
-  },
-  "31": {
-    "checklistHash": 28658981,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-28658981.jpg"
-  },
-  "32": {
-    "checklistHash": 2482079866,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-2482079866.jpg"
+    }
   },
   "33": {
     "displayProperties": {
       "description": "À gauche de l'entrée du secteur oublié, mal éclairé, derrière des caisses."
-    },
-    "checklistHash": 576743835,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-576743835.jpg"
+    }
   },
   "34": {
     "displayProperties": {
       "description": "Dans le coin tout en haut à gauche, sur les rochers."
-    },
-    "checklistHash": 3307732497,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-3307732497.jpg"
+    }
   },
   "35": {
     "displayProperties": {
       "description": "Derrière le point d'accès rapide de la zone d'atterrissage."
-    },
-    "checklistHash": 823939877,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-823939877.jpg"
-  },
-  "36": {
-    "checklistHash": 908643859,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-908643859.jpg"
+    }
   },
   "37": {
     "displayProperties": {
       "description": "À l'arrière de la structure endommagée, au troisième étage, dans une pièce à droite."
-    },
-    "checklistHash": 1085712440,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-1085712440.jpg"
+    }
   },
   "38": {
     "displayProperties": {
       "description": "Derrière la cascade."
-    },
-    "checklistHash": 589814471,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-589814471.jpg"
+    }
   },
   "39": {
     "displayProperties": {
       "description": "À l'intérieur du plafond de l'allée."
-    },
-    "checklistHash": 2503906440,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-2503906440.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 60,
-          "y": 40
-        }
-      }
     }
   },
   "40": {
     "displayProperties": {
       "description": "À travers le mur de briques."
-    },
-    "checklistHash": 3609559330,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-3609559330.jpg"
-  },
-  "41": {
-    "checklistHash": 1956319555,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-1956319555.jpg"
-  },
-  "42": {
-    "checklistHash": 1375559682,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-1375559682.jpg"
-  },
-  "43": {
-    "checklistHash": 387879790,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-387879790.jpg"
-  },
-  "44": {
-    "checklistHash": 92809392,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-92809392.jpg"
-  },
-  "45": {
-    "checklistHash": 1281044779,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-1281044779.jpg"
-  },
-  "46": {
-    "checklistHash": 2662231509,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-2662231509.jpg"
-  },
-  "47": {
-    "checklistHash": 1881681731,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-1881681731.jpg"
-  },
-  "48": {
-    "checklistHash": 1704777267,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-1704777267.jpg"
-  },
-  "49": {
-    "checklistHash": 2779832084,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-2779832084.jpg"
-  },
-  "50": {
-    "checklistHash": 4128910789,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-4128910789.jpg"
-  },
-  "51": {
-    "checklistHash": 2414643433,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-2414643433.jpg"
-  },
-  "52": {
-    "checklistHash": 4048519991,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-4048519991.jpg"
-  },
-  "53": {
-    "checklistHash": 517025716,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-517025716.jpg"
-  },
-  "54": {
-    "checklistHash": 3947020272,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3947020272.jpg"
-  },
-  "55": {
-    "checklistHash": 3812883599,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3812883599.jpg"
-  },
-  "56": {
-    "checklistHash": 731133614,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-731133614.jpg"
-  },
-  "57": {
-    "checklistHash": 3147488613,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3147488613.jpg"
-  },
-  "58": {
-    "checklistHash": 3364328658,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3364328658.jpg"
-  },
-  "59": {
-    "checklistHash": 2448388435,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-2448388435.jpg"
-  },
-  "60": {
-    "checklistHash": 2499619401,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-2499619401.jpg"
-  },
-  "61": {
-    "checklistHash": 340933878,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-340933878.jpg"
-  },
-  "62": {
-    "checklistHash": 74989591,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-74989591.jpg"
-  },
-  "63": {
-    "checklistHash": 204962005,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-204962005.jpg"
-  },
-  "64": {
-    "checklistHash": 3138619650,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3138619650.jpg"
-  },
-  "65": {
-    "checklistHash": 3719379523,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3719379523.jpg"
-  },
-  "66": {
-    "checklistHash": 2777193860,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/whispered-falls-2777193860.jpg"
-  },
-  "67": {
-    "checklistHash": 3240560483,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-drain-3240560483.jpg"
-  },
-  "68": {
-    "checklistHash": 3402131234,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/scavengers-den-3402131234.jpg"
-  },
-  "69": {
-    "checklistHash": 815928620,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-weep-815928620.jpg"
-  },
-  "70": {
-    "checklistHash": 4091723403,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-pit-4091723403.jpg"
-  },
-  "71": {
-    "checklistHash": 2554253964,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/pathfinders-crash-2554253964.jpg"
-  },
-  "72": {
-    "checklistHash": 3850160541,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/excavation-site-xii-3850160541.jpg"
-  },
-  "73": {
-    "checklistHash": 1850051473,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/flooded-chasm-1850051473-3854937584.jpg",
-    "extended": {
-      "screenshots": [
-        {
-          "bubbleHash": 3854937584,
-          "screenshot": "/static/images/screenshots/checklists/lost-sectors/flooded-chasm-1850051473-3854937584.jpg"
-        },
-        {
-          "bubbleHash": 3861059923,
-          "screenshot": "/static/images/screenshots/checklists/lost-sectors/flooded-chasm-1850051473-3861059923.jpg"
-        }
-      ]
     }
-  },
-  "74": {
-    "checklistHash": 1505712119,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/skydock-iv-1505712119.jpg"
-  },
-  "75": {
-    "checklistHash": 245987256,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-quarry-245987256.jpg"
-  },
-  "76": {
-    "checklistHash": 526088259,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/atrium-526088259.jpg"
-  },
-  "77": {
-    "checklistHash": 2954440164,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/terminus-east-2954440164.jpg"
-  },
-  "78": {
-    "checklistHash": 1306638037,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/widows-walk-1306638037.jpg"
-  },
-  "79": {
-    "checklistHash": 874424041,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/cavern-of-souls-874424041.jpg"
-  },
-  "80": {
-    "checklistHash": 3010602390,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/hallowed-grove-3010602390.jpg"
-  },
-  "81": {
-    "checklistHash": 2508300599,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/shaft-13-2508300599.jpg"
-  },
-  "82": {
-    "checklistHash": 1719798656,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/methane-flush-1719798656.jpg"
-  },
-  "83": {
-    "checklistHash": 3267113018,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/ds-quarters-2-3267113018.jpg"
-  },
-  "84": {
-    "checklistHash": 3359286509,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/cargo-bay-3-3359286509.jpg"
-  },
-  "85": {
-    "checklistHash": 2485656913,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-rift-2485656913.jpg"
-  },
-  "86": {
-    "checklistHash": 2248063191,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-conflux-2248063191.jpg"
-  },
-  "87": {
-    "checklistHash": 2069372641,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-orrery-2069372641.jpg"
-  },
-  "88": {
-    "checklistHash": 2806770339,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-carrion-pit-2806770339.jpg"
-  },
-  "89": {
-    "checklistHash": 3107552723,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/pariahs-refuge-3107552723.jpg"
-  },
-  "90": {
-    "checklistHash": 3205937151,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/core-terminus-3205937151.jpg"
-  },
-  "91": {
-    "checklistHash": 2025886454,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/maadim-subterrane-2025886454.jpg"
-  },
-  "92": {
-    "checklistHash": 486022069,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphelions-rest-486022069.jpg"
-  },
-  "93": {
-    "checklistHash": 97924869,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/chamber-of-starlight-97924869.jpg"
-  },
-  "94": {
-    "checklistHash": 1949102307,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-logistics-1949102307.jpg"
-  },
-  "95": {
-    "checklistHash": 4102839450,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-revelation-4102839450.jpg"
-  },
-  "96": {
-    "checklistHash": 3978091702,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-crew-quarters-3978091702.jpg"
-  },
-  "97": {
-    "checklistHash": 2955806106,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-communion-2955806106.jpg"
-  },
-  "98": {
-    "checklistHash": 1629596387,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/cadmus-ridge-1629596387.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=AEqy3qL-a58"
-    }
-  },
-  "99": {
-    "checklistHash": 271815222,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/well-of-infinitude-271815222.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=F_5HfIoe7yk"
-    }
-  },
-  "100": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/asterion-abyss-2677830030.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 60
-        }
-      }
-    },
-    "checklistHash": 2677830030
-  },
-  "101": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/concealed-void-523132396.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 31
-        }
-      }
-    },
-    "checklistHash": 523132396
-  },
-  "102": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/cadmus-ridge-2927552589.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws"
-    },
-    "checklistHash": 2927552589
-  },
-  "103": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/eventide-ruins-3482887819.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 56
-        }
-      }
-    },
-    "checklistHash": 3482887819
-  },
-  "104": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/bunker-e15-2679813844.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 65,
-          "y": 35
-        }
-      }
-    },
-    "checklistHash": 2679813844
-  },
-  "105": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/riis-reborn-approach-3527611025.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 51,
-          "y": 65
-        }
-      }
-    },
-    "checklistHash": 3527611025
-  },
-  "106": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/kells-rising-951414128.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 35,
-          "y": 55
-        }
-      }
-    },
-    "checklistHash": 951414128
-  },
-  "107": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/technocrats-iron-1217064983.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
-      "screenshot": {
-        "highlight": {
-          "x": 64.5,
-          "y": 25
-        }
-      }
-    },
-    "checklistHash": 1217064983
-  },
-  "108": {
-    "screenshot": "/static/images/screenshots/checklists/entropic-shards/creation-1146417010.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=ZNZfbgoCgz4",
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 17
-        }
-      }
-    },
-    "checklistHash": 1146417010
   },
   "109": {
-    "checklistHash": 3880966469,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
     "displayProperties": {
       "description": "Congelé dans un bloc de glace. Trouvez un boss _Capitaine déchu_ près des ascenseurs pour _l'Approche du Renouveau de Riis_ nommé _Ferkis, Bourrasque du Salut_ — il vous laissera tomber ce dont vous avez besoin."
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
     }
-  },
-  "110": {
-    "checklistHash": 1287812596,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/asterion-abyss-1287812596.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "111": {
-    "checklistHash": 2578791723,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/cadmus-ridge-2578791723.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "112": {
-    "checklistHash": 1291596818,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/well-of-infinitude-1291596818.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ",
-      "screenshot": {
-        "highlight": {
-          "x": 24,
-          "y": 56
-        }
-      }
-    }
-  },
-  "113": {
-    "checklistHash": 2717332017,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/bray-exoscience-2717332017.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "114": {
-    "checklistHash": 3854379920,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/concealed-void-3854379920.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "115": {
-    "checklistHash": 4176343351,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/bunker-e15-4176343351.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ",
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 53
-        }
-      }
-    }
-  },
-  "116": {
-    "checklistHash": 2039102766,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/perdition-2039102766.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "117": {
-    "checklistHash": 3497190125,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/eventide-ruins-3497190125.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
-    }
-  },
-  "118": {
-    "checklistHash": 3239366412,
-    "screenshot": "/static/images/screenshots/checklists/dead-exos/creation-3239366412.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ",
-      "screenshot": {
-        "highlight": {
-          "x": 45.5,
-          "y": 50
-        }
-      }
-    }
-  },
-  "119": {
-    "checklistHash": 1390564489,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/perdition-1390564489.jpg"
-  },
-  "120": {
-    "checklistHash": 4185289787,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/exodus-garden-2a-4185289787.jpg"
-  },
-  "121": {
-    "checklistHash": 2980991787,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/veles-labyrinth-2980991787.jpg"
-  },
-  "122": {
-    "checklistHash": 373734578,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/concealed-void-373734578.jpg"
-  },
-  "123": {
-    "checklistHash": 3162269612,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/bunker-e15-3162269612.jpg"
-  },
-  "124": {
-    "checklistHash": 2391303040,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-2391303040.jpg"
-  },
-  "125": {
-    "checklistHash": 4263661791,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-4263661791.jpg"
-  },
-  "126": {
-    "checklistHash": 4169219646,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-4169219646.jpg"
   },
   "127": {
-    "checklistHash": 3888342093,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg",
     "displayProperties": {
       "description": "Sous la glace."
     }
   },
-  "128": {
-    "checklistHash": 201955226,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-201955226.jpg"
-  },
-  "129": {
-    "checklistHash": 763777083,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-763777083.jpg"
-  },
-  "130": {
-    "checklistHash": 2131720755,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-2131720755.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 54,
-          "y": 60
-        }
-      }
-    }
-  },
-  "131": {
-    "checklistHash": 3206775572,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-3206775572.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 23,
-          "y": 60
-        }
-      }
-    }
-  },
-  "132": {
-    "checklistHash": 260886981,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-260886981.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 22,
-          "y": 65
-        }
-      }
-    }
-  },
-  "133": {
-    "checklistHash": 1636954546,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-1636954546.jpg"
-  },
-  "134": {
-    "checklistHash": 995760197,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-995760197.jpg"
-  },
-  "135": {
-    "checklistHash": 3941648788,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-3941648788.jpg"
-  },
-  "136": {
-    "checklistHash": 3017060296,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-3017060296.jpg"
-  },
-  "137": {
-    "checklistHash": 1845401863,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-1845401863.jpg"
-  },
-  "138": {
-    "checklistHash": 2242541542,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-2242541542.jpg"
-  },
-  "139": {
-    "checklistHash": 2584781838,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-2584781838.jpg"
-  },
-  "140": {
-    "checklistHash": 2686335329,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-2686335329.jpg"
-  },
-  "141": {
-    "checklistHash": 144132048,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-144132048.jpg"
-  },
-  "142": {
-    "checklistHash": 2791553137,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2791553137.jpg"
-  },
-  "143": {
-    "checklistHash": 2537351390,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2537351390.jpg"
-  },
-  "144": {
-    "checklistHash": 2631896703,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2631896703.jpg"
-  },
-  "145": {
-    "checklistHash": 2899711728,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-2899711728.jpg"
-  },
-  "146": {
-    "checklistHash": 2765575055,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-2765575055.jpg"
-  },
-  "147": {
-    "checklistHash": 3978792366,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-3978792366.jpg"
-  },
-  "148": {
-    "checklistHash": 3420140384,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/bray-exoscience-3420140384.jpg"
-  },
-  "149": {
-    "checklistHash": 3890313479,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/asterion-abyss-3890313479.jpg"
-  },
-  "150": {
-    "checklistHash": 290570570,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/riis-reborn-approach-290570570.jpg"
-  },
-  "151": {
-    "checklistHash": 3254863625,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/nexus-3254863625.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vXNLtqixKVY"
-    }
-  },
-  "152": {
-    "checklistHash": 1313979588,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/kells-rising-1313979588.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 30,
-          "y": 64
-        }
-      }
-    }
-  },
-  "153": {
-    "checklistHash": 1610085355,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eternity-1610085355.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=p-tlrW96Y0M"}
-  },
-  "178": {
-    "checklistHash": 4062796495,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg"
-  },
-  "179": {
-    "checklistHash": 269847098,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/hellmouth-269847098.jpg"
-  },
-  "180": {
-    "checklistHash": 957600697,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg"
-  },
-  "181": {
-    "checklistHash": 2293092716,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg"
-  },
   "182": {
     "displayProperties": {
       "description": "Après avoir terminé le secteur oublié, dirigez-vous vers la sortie et trouvez l'objet en sortant."
-    },
-    "checklistHash": 2779900411,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg"
+    }
   },
   "183": {
     "displayProperties": {
       "description": "Nécessite un fragment de données de pare-feu. Acquérir les prérequis via Eris Morn."
-    },
-    "checklistHash": 3728157446,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg"
+    }
   },
   "184": {
     "displayProperties": {
       "description": "En entrant dans le Cercle des ossements via La Loge, tournez à droite et continuez pour suivre la boucle autour du Gouffre des Enfers. Avant d'atteindre la prochaine intersection, retournez vous et regardez sous la plate-forme pour trouver deux yeux de jade perçant à travers votre lumière donnée par le Voyageur."
-    },
-    "checklistHash": 3977481189,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
-  },
-  "185": {
-    "checklistHash": 1568227000,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
-  },
-  "186": {
-    "checklistHash": 2115406343,
-    "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg"
-  },
-  "200": {
-    "recordHash": 4212118078,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.i-of-tattered-blood-and-broken-bone-4212118078.jpg"
-  },
-  "201": {
-    "recordHash": 4251590407,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.ii-of-tattered-blood-and-broken-bone-4251590407.jpg"
-  },
-  "202": {
-    "recordHash": 4251590404,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iii-of-tattered-blood-and-broken-bone-4251590404.jpg"
-  },
-  "203": {
-    "recordHash": 4251590405,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iv-of-tattered-blood-and-broken-bone-4251590405.jpg"
-  },
-  "204": {
-    "recordHash": 4251590402,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ii-an-audience-with-slaughter-4251590402.jpg"
-  },
-  "205": {
-    "recordHash": 4251590403,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iii-ritualistic-circle-pit-4251590403.jpg"
-  },
-  "206": {
-    "recordHash": 4251590400,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iv-blood-sport-4251590400.jpg"
-  },
-  "207": {
-    "recordHash": 4251590401,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/v-a-sinister-plot-4251590401.jpg"
-  },
-  "208": {
-    "recordHash": 4251590414,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vi-blood-sport-4251590414.jpg"
-  },
-  "209": {
-    "recordHash": 4251590415,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vii-the-severed-and-the-unmade-4251590415.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 48,
-          "y": 48
-        }
-      }
     }
-  },
-  "210": {
-    "recordHash": 4111390773,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii-a-sacrifice-of-self-4111390773.jpg"
-  },
-  "211": {
-    "recordHash": 4111390772,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.i-the-unmaking-4111390772.jpg"
-  },
-  "212": {
-    "recordHash": 4111390775,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.ii-the-unmaking-4111390775.jpg"
-  },
-  "213": {
-    "recordHash": 4111390774,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/x-faith-in-bone-4111390774.jpg"
-  },
-  "214": {
-    "recordHash": 4111390769,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi-the-anti-logic-4111390769.jpg"
   },
   "215": {
     "displayProperties": {
       "description": "Entrez dans le donjon et dirigez-vous vers la tour la plus à droite. Conservez une certaine altitude si possible. Sur le côté le plus éloigné de la tour la plus éloignée, sous son pied, se trouve un cryptage."
-    },
-    "recordHash": 4111390768,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg"
+    }
   },
   "216": {
     "displayProperties": {
       "description": "Terminez la rencontre de _La Nécropole_ et continuez vers La Fosse. Une fois au mur des chemins, grimpez et faites demi-tour. À droite de la salle se trouve un petit rebord le long du mur de pierre de lune. Utilisez-le pour accéder au niveau supérieur du couloir et passez sur le côté droit le plus éloigné."
-    },
-    "recordHash": 4111390771,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg"
+    }
   },
   "217": {
     "displayProperties": {
       "description": "Terminez la rencontre de la _Chambre des supplices_. Avant de vous frayer un chemin plus en avant en traversant les pièges en hauteur, montez prudemment à leur niveau le plus élevé."
-    },
-    "recordHash": 4111390770,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg"
+    }
   },
   "218": {
     "displayProperties": {
       "description": "Descendez dans les _Tunnels du désespoir_ et restez à droite. Entrez par le premier chemin accroupi et suivez-le jusqu'à sa fin. Vous verrez une porte rouge. Debout devant la porte rouge, tournez de 70 ° dans le sens des aiguilles d'une montre. Vous allez regarder un rocher. À droite du rocher se trouve le prix que vous recherchez."
-    },
-    "recordHash": 4111390781,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg"
+    }
   },
   "219": {
     "displayProperties": {
       "description": "Dans le tunnel accroupi le plus au milieu, le plus proche de la fosse de gaz vert où se trouve l'orbe solaire. En entrant dans le tunnel du côté de la fosse de gaz vert, il s'élargira rapidement en une petite pièce. Arrêtez-vous, tournez à 180 ° et regardez vers le haut."
-    },
-    "recordHash": 4111390780,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi.x-apocrypha-4111390780.jpg"
-  },
-  "220": {
-    "recordHash": 3390078235,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-gunnvors-ghost-3390078235.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 2313160420
-        }
-      ]
-    }
-  },
-  "221": {
-    "recordHash": 4292949218,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-sai-motas-ghost-4292949218.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 993395957
-        }
-      ]
-    }
-  },
-  "222": {
-    "recordHash": 4292949217,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-gimble-4s-ghost-4292949217.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 2244757358
-        }
-      ]
     }
   },
   "223": {
     "displayProperties": {
       "description": "Entrez dans _La Loge_ via _Le gouffre des enfers_ et suivez-le jusqu'à une pièce circulaire bien éclairée. Le long du mur vitré sur la droite est ce que vous cherchez."
-    },
-    "recordHash": 4292949216,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-eris-morns-ghost-4292949216.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 687082423
-        }
-      ]
-    }
-  },
-  "224": {
-    "recordHash": 4292949223,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-tolands-ghost-4292949223.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 3799864144
-        }
-      ]
     }
   },
   "225": {
     "displayProperties": {
       "description": "Sur le côté du l'endroit caché du module illustré."
-    },
-    "recordHash": 4292949222,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-vyhars-ghost-4292949222.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 3140210033
-        }
-      ]
-    }
-  },
-  "226": {
-    "recordHash": 4292949221,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-lonesome-ghost-4292949221.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 2962817690
-        }
-      ]
     }
   },
   "227": {
     "displayProperties": {
       "description": "Dans les _Tunnels du désespoir_, sur une corniche de falaise adjacente à la fosse de gaz vert."
-    },
-    "recordHash": 4292949220,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-omar-agahs-ghost-4292949220.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 3277020515
-        }
-      ]
     }
-  },
-  "228": {
-    "recordHash": 4292949227,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-eriana-3s-ghost-4292949227.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 1343473388
-        }
-      ]
-    }
-  },
-  "229": {
-    "recordHash": 4292949226,
-    "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-vell-tarlowes-ghost-4292949226.jpg",
-    "related": {
-      "quests": [
-        {
-          "itemHash": 2743180254
-        }
-      ]
-    }
-  },
-  "230": {
-    "vendorHash": 1735426333,
-    "bubbleHash": 1461622515,
-    "screenshot": "/static/images/screenshots/vendors/vendors_ana-bray-2.jpg"
-  },
-  "231": {
-    "vendorHash": 2398407866,
-    "bubbleHash": 2822410613,
-    "screenshot": "/static/images/screenshots/vendors/vendors_brother-vance-2.jpg"
-  },
-  "232": {
-    "vendorHash": 396892126,
-    "bubbleHash": 3091570009,
-    "screenshot": "/static/images/screenshots/vendors/vendors_devrim-kay-2.jpg"
-  },
-  "233": {
-    "vendorHash": 1576276905,
-    "bubbleHash": 4205285323,
-    "screenshot": "/static/images/screenshots/vendors/vendors_failsafe-2.jpg"
-  },
-  "234": {
-    "vendorHash": 1062861569,
-    "bubbleHash": 4035573696,
-    "screenshot": "/static/images/screenshots/vendors/vendors_sloane-2.jpg"
-  },
-  "235": {
-    "vendorHash": 1616085565,
-    "bubbleHash": 240420607,
-    "screenshot": "/static/images/screenshots/vendors/vendors_eris-morn-2.jpg"
-  },
-  "236": {
-    "vendorHash": 3411552308,
-    "bubbleHash": 240420607,
-    "screenshot": "/static/images/screenshots/vendors/vendors_lectern-of-enchantment-2.jpg"
-  },
-  "237": {
-    "vendorHash": 3982706173,
-    "bubbleHash": 577912749,
-    "screenshot": "/static/images/screenshots/vendors/vendors_asher-mir-2.jpg"
-  },
-  "238": {
-    "vendorHash": 863940356,
-    "bubbleHash": 824533556,
-    "screenshot": "/static/images/screenshots/vendors/vendors_spider-2.jpg"
-  },
-  "239": {
-    "vendorHash": 4254652401,
-    "bubbleHash": 1439553579,
-    "screenshot": "/static/images/screenshots/vendors/vendors_stranger-2.jpg"
-  },
-  "240": {
-    "vendorHash": 2531198101,
-    "bubbleHash": 2724165023,
-    "screenshot": "/static/images/screenshots/vendors/vendors_variks-2.jpg"
-  },
-  "241": {
-    "vendorHash": 1816541247,
-    "bubbleHash": 1788937179,
-    "screenshot": "/static/images/screenshots/vendors/vendors_shaw-han-2.jpg"
-  },
-  "242": {
-    "vendorHash": 3611983588,
-    "bubbleHash": 824533556,
-    "screenshot": "/static/images/screenshots/vendors/vendors_crow-2.jpg"
   },
   "278": {
     "displayProperties": {
       "name": "La Cour de la reine",
-      "description": "Un portail vers _La Cour de la reine_, le monde trône de Mara Sov.",
-      "icon": "portal"
+      "description": "Un portail vers _La Cour de la reine_, le monde trône de Mara Sov."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 1416096592,
-    "bubbleHash": 768261954,
-    "screenshot": "/static/images/screenshots/portals/portal_278.jpg"
-  },
-  "279": {
-    "checklistHash": 1387596458,
-    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
-    "displayProperties": {
-      "description": "En arrivant à _La Cour de la reine_, escaladez le mur à gauche du trône."
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
+      "name": "Portail"
     }
   },
-  "287": {
-    "checklistHash": 89704164,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-89704164.jpg"
+  "279": {
+    "displayProperties": {
+      "description": "En arrivant à _La Cour de la reine_, escaladez le mur à gauche du trône."
+    }
   },
   "288": {
-    "checklistHash": 463653643,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-463653643.jpg",
     "displayProperties": {
       "description": "Dépassez la jonction d'entrée du secteur perdu et continuez le long de la passerelle."
     }
   },
-  "289": {
-    "checklistHash": 4157158378,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-4157158378.jpg"
-  },
-  "290": {
-    "checklistHash": 2270250077,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-2270250077.jpg"
-  },
-  "291": {
-    "checklistHash": 1250639948,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-1250639948.jpg"
-  },
   "292": {
-    "checklistHash": 2495538001,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-2495538001.jpg",
     "displayProperties": {
       "description": "Côté falaise, sous le chemin qui mène à un secteur perdu."
     }
   },
   "293": {
-    "checklistHash": 3644688446,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3644688446.jpg",
     "displayProperties": {
       "description": "Sur la passerelle."
     }
   },
-  "294": {
-    "checklistHash": 3739130591,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3739130591.jpg"
-  },
   "301": {
-    "checklistHash": 2809244994,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg",
     "displayProperties": {
       "description": "Perché sur le mur du milieu de la _Forêt Infinie_."
     }
   },
-  "302": {
-    "checklistHash": 4084570599,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "instructions": "Ce coffre exige de soi de transcender leur réalité. Pour y accéder:\n\n1. Près de _Frère Vance_, trouvez un livre interactif. Examinez-le.\n2. Tournez à 180 °. Dirigez-vous vers le mur le plus éloigné et trouvez la prochaine édition sur l'étagère. Examinez-le.\n3. Déplacez-vous vers la bibliothèque à droite du portail et trouvez la prochaine édition à côté du foyer au bas de la bibliothèque. Examinez-le.\n4. Revenez à la première bibliothèque et trouvez l'édition suivante sur le bureau à côté du disciple. Examinez-le.\n5. Le dernier livre est caché sur une étagère de l'autre côté de la pièce, près de la forge. Examinez-le.\n6. Un _Flux vex_ apparaîtra. Examinez-le."
-    }
-  },
-  "303": {
-    "checklistHash": 1353530822,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-1353530822.jpg"
-  },
-  "306": {
-    "checklistHash": 1370818871,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=YpKny_Yrav8"
-    }
-  },
-  "307": {
-    "checklistHash": 1370818868,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Dk_fnc9GkDA"
-    }
-  },
-  "308": {
-    "checklistHash": 1370818869,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
-    }
-  },
-  "309": {
-    "checklistHash": 1370818866,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=mpU4GjM43OY"
-    }
-  },
-  "310": {
-    "checklistHash": 1370818867,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
-    }
-  },
-  "311": {
-    "checklistHash": 1370818864,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=X1_poqtAoNk"
-    }
-  },
-  "312": {
-    "checklistHash": 1370818865,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=-3KkqGbjNko"
-    },
-    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/spine-of-keres-1370818865.jpg"
-  },
-  "313": {
-    "checklistHash": 1370818878,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=SZ8aUXk89Kg"
-    }
-  },
-  "314": {
-    "checklistHash": 1370818879,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=TzwxeqO0dpU"
-    }
-  },
-  "315": {
-    "checklistHash": 1387596457,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=h-aNQy6mTME"
-    }
-  },
-  "316": {
-    "checklistHash": 1387596456,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=5VEcwGEo6mI"
-    }
-  },
-  "317": {
-    "checklistHash": 1387596459,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=VzAFKmZ-EEc"
-    }
-  },
-  "318": {
-    "checklistHash": 1387596461,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=EwLi345-9uY",
-      "screenshot": {
-        "highlight": {
-          "x": 57,
-          "y": 54
-        }
-      }
-    },
-    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/spine-of-keres-1387596461.jpg"
-  },
-  "319": {
-    "checklistHash": 1387596460,
-    "extended": {
-      "video": "https://youtu.be/f8BtT6lW9nw"
-    }
-  },
-  "320": {
-    "checklistHash": 1387596463,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8"
-    }
-  },
-  "321": {
-    "checklistHash": 1101252171,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=50"
-    }
-  },
-  "322": {
-    "checklistHash": 1101252168,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY"
-    }
-  },
-  "323": {
-    "checklistHash": 1101252169,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=144"
-    }
-  },
-  "324": {
-    "checklistHash": 1101252174,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=64"
-    }
-  },
-  "325": {
-    "checklistHash": 1101252175,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=80"
-    }
-  },
-  "326": {
-    "checklistHash": 1101252172,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=116"
-    }
-  },
-  "327": {
-    "checklistHash": 1101252173,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=160"
-    }
-  },
-  "328": {
-    "checklistHash": 1101252162,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=203"
-    }
-  },
-  "329": {
-    "checklistHash": 1101252163,
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=183"
-    }
-  },
-  "330": {
-    "checklistHash": 1118029885,
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=9"
-    }
-  },
-  "331": {
-    "checklistHash": 1118029884,
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=32"
-    }
-  },
-  "332": {
-    "checklistHash": 1118029887,
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=54"
-    }
-  },
-  "333": {
-    "checklistHash": 1118029886,
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=87"
-    }
-  },
-  "334": {
-    "checklistHash": 1118029881,
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=130"
-    }
-  },
-  "335": {
-    "checklistHash": 1067696994,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=49"
-    }
-  },
-  "336": {
-    "checklistHash": 1067696995,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=176"
-    }
-  },
-  "337": {
-    "checklistHash": 1067697005,
-    "extended": {
-      "video": "https://youtu.be/W8g0lsmYttk?t=62"
-    }
-  },
-  "338": {
-    "checklistHash": 1084474583,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=W8g0lsmYttk"
-    }
-  },
-  "339": {
-    "checklistHash": 1084474582,
-    "extended": {
-      "video": "https://youtu.be/7kLnq__sKPA?t=1m4s"
-    }
-  },
-  "340": {
-    "checklistHash": 1084474581,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&feature=youtu.be&t=2m34s"
-    }
-  },
-  "341": {
-    "checklistHash": 1084474580,
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&t=43"
-    }
-  },
-  "342": {
-    "checklistHash": 1084474579,
-    "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk"
-    }
-  },
-  "343": {
-    "checklistHash": 1084474578,
-    "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk?t=2m33s"
-    }
-  },
-  "344": {
-    "checklistHash": 1084474577,
-    "extended": {
-      "video": "https://youtu.be/vrMWYYy0FGI"
-    }
-  },
-  "345": {
-    "checklistHash": 1084474576,
-    "extended": {
-      "video": "https://youtu.be/8rK9zkO2Bw0"
-    }
-  },
-  "346": {
-    "checklistHash": 1084474591,
-    "extended": {
-      "video": "https://youtu.be/HIKuJ8CtnS4"
-    }
-  },
-  "347": {
-    "checklistHash": 56362725,
-    "extended": {
-      "video": "https://youtu.be/fhKIfCiFPt8"
-    },
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/harbingers-seclude-56362725.jpg"
-  },
-  "348": {
-    "checklistHash": 3629051903,
-    "extended": {
-      "video": "https://youtu.be/NtCxIwocxik"
-    },
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/divalian-mists-3629051903.jpg"
-  },
-  "390": {
-    "checklistHash": 2754290383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg",
-    "extended": {}
-  },
-  "391": {
-    "checklistHash": 4069164097,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg",
-    "extended": {}
-  },
-  "392": {
-    "checklistHash": 3577247371,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg",
-    "extended": {}
-  },
-  "393": {
-    "checklistHash": 2313471548,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg",
-    "extended": {}
-  },
-  "394": {
-    "checklistHash": 2693527578,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg",
-    "extended": {}
-  },
-  "395": {
-    "checklistHash": 2890414560,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg",
-    "extended": {}
-  },
-  "396": {
-    "checklistHash": 2317648357,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg",
-    "extended": {}
-  },
-  "397": {
-    "checklistHash": 3860391092,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg",
-    "extended": {}
-  },
-  "398": {
-    "checklistHash": 3096918071,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg",
-    "extended": {}
-  },
-  "399": {
-    "checklistHash": 4137615299,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg",
-    "extended": {}
-  },
-  "400": {
-    "checklistHash": 2270999908,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg",
-    "extended": {}
-  },
-  "401": {
-    "checklistHash": 3883378312,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg",
-    "extended": {}
-  },
-  "430": {
-    "checklistHash": 1427733666
-  },
-  "434": {
-    "checklistHash": 2925348591,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-2925348591.jpg"
-  },
-  "435": {
-    "checklistHash": 3059588176,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-3059588176.jpg"
-  },
-  "436": {
-    "checklistHash": 131897336,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-131897336.jpg"
-  },
-  "437": {
-    "checklistHash": 1295226450,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-1295226450.jpg"
-  },
   "438": {
-    "checklistHash": 379286227,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-379286227.jpg",
     "displayProperties": {
       "description": "Près d'un _ancien flux Vex_, parmi les racines d'un arbre mort."
-    }
-  },
-  "439": {
-    "checklistHash": 3128564200,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-3128564200.jpg"
-  },
-  "443": {
-    "checklistHash": 1965760095,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-1965760095.jpg"
-  },
-  "444": {
-    "checklistHash": 93401344,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-93401344.jpg"
-  },
-  "445": {
-    "checklistHash": 722167505,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-722167505.jpg"
-  },
-  "446": {
-    "checklistHash": 925785517,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/ancients-haunt-925785517.jpg"
-  },
-  "456": {
-    "checklistHash": 4143709398,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-4143709398.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 49,
-          "y": 50
-        }
-      }
-    }
-  },
-  "457": {
-    "checklistHash": 2049004329,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-2049004329.jpg"
-  },
-  "458": {
-    "checklistHash": 1780053523,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-1780053523.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 49,
-          "y": 50
-        }
-      }
-    }
-  },
-  "463": {
-    "checklistHash": 3360907267,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/bay-of-drowned-wishes-3360907267.jpg"
-  },
-  "464": {
-    "checklistHash": 2700275579,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg"
-  },
-  "465": {
-    "checklistHash": 633083132,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg"
-  },
-  "466": {
-    "checklistHash": 1105312397,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg"
-  },
-  "467": {
-    "checklistHash": 2326920926,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg"
-  },
-  "468": {
-    "checklistHash": 1067696998,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/divalian-mists-1067696998.jpg"
-  },
-  "469": {
-    "checklistHash": 1067696992,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696992.jpg"
-  },
-  "470": {
-    "checklistHash": 1067696993,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696993.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 34,
-          "y": 69
-        }
-      }
-    }
-  },
-  "471": {
-    "checklistHash": 2253687296,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/spine-of-keres-2253687296.jpg"
-  },
-  "472": {
-    "checklistHash": 1159650715,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/spine-of-keres-1159650715.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 30,
-          "y": 77
-        }
-      }
-    }
-  },
-  "473": {
-    "checklistHash": 1067696996,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/gardens-of-esila-1067696996.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 42,
-          "y": 43
-        }
-      }
-    }
-  },
-  "474": {
-    "checklistHash": 1067696997,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/gardens-of-esila-1067696997.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 48
-        }
-      }
-    }
-  },
-  "475": {
-    "checklistHash": 2420371297,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/gardens-of-esila-2420371297.jpg"
-  },
-  "476": {
-    "checklistHash": 3986286066,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg"
-  },
-  "477": {
-    "checklistHash": 216809093,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg"
-  },
-  "478": {
-    "checklistHash": 3162697940,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3162697940.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 69,
-          "y": 70
-        }
-      }
-    }
-  },
-  "479": {
-    "checklistHash": 2357751383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg"
-  },
-  "480": {
-    "checklistHash": 2576690974,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg"
-  },
-  "481": {
-    "checklistHash": 1109476065,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg"
-  },
-  "482": {
-    "checklistHash": 1007922574,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1007922574.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 67
-        }
-      }
-    }
-  },
-  "483": {
-    "checklistHash": 2728000495,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-2728000495.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 65
-        }
-      }
-    }
-  },
-  "484": {
-    "checklistHash": 2013384876,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-2013384876.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 54
-        }
-      }
-    }
-  },
-  "485": {
-    "checklistHash": 1118029882,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029882.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 22
-        }
-      }
-    }
-  },
-  "486": {
-    "checklistHash": 1118029877,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029877.jpg"
-  },
-  "487": {
-    "checklistHash": 1118029876,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029876.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 23,
-          "y": 37
-        }
-      }
-    }
-  },
-  "488": {
-    "checklistHash": 2853314242,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/rheasilvia-2853314242.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 66
-        }
-      }
-    }
-  },
-  "489": {
-    "checklistHash": 4262976548,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/harbingers-seclude-4262976548.jpg"
-  },
-  "490": {
-    "checklistHash": 3255812950,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/rheasilvia-3255812950.jpg"
-  },
-  "491": {
-    "vendorHash": 765357505,
-    "screenshot": "/static/images/screenshots/vendors/vendors_saint-14-2.jpg"
-  },
-  "492": {
-    "checklistHash": 847545115,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-847545115.jpg"
-  },
-  "493": {
-    "checklistHash": 3817650588,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-3817650588.jpg"
-  },
-  "494": {
-    "checklistHash": 3311088557,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-3311088557.jpg"
-  },
-  "495": {
-    "checklistHash": 1640978814,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-1640978814.jpg"
-  },
-  "496": {
-    "checklistHash": 858668439,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-858668439.jpg"
-  },
-  "497": {
-    "checklistHash": 2449085400,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-2449085400.jpg"
-  },
-  "498": {
-    "checklistHash": 3283298249,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-3283298249.jpg"
-  },
-  "499": {
-    "checklistHash": 3612414514,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-3612414514.jpg"
-  },
-  "500": {
-    "checklistHash": 1997430677,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/high-plains-1997430677.jpg"
-  },
-  "501": {
-    "checklistHash": 4232901662,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/kingship-dock-4232901662.jpg"
-  },
-  "502": {
-    "checklistHash": 1616620401,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-empty-tank-1616620401.jpg"
-  },
-  "503": {
-    "checklistHash": 1134123378,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/trappers-cave-1134123378.jpg"
-  },
-  "504": {
-    "checklistHash": 341637691,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-cobble-341637691.jpg"
-  },
-  "505": {
-    "checklistHash": 3694727100,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-cobble-3694727100.jpg"
-  },
-  "506": {
-    "checklistHash": 3649605808,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3649605808.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 47,
-          "y": 38
-        }
-      }
-    }
-  },
-  "507": {
-    "checklistHash": 3197493071,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3197493071.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 69,
-          "y": 54
-        }
-      }
-    }
-  },
-  "508": {
-    "checklistHash": 3944676206,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3944676206.jpg"
-  },
-  "509": {
-    "checklistHash": 3778887197,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3778887197.jpg"
-  },
-  "510": {
-    "checklistHash": 1678213457,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-1678213457.jpg"
-  },
-  "511": {
-    "checklistHash": 2827363902,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-2827363902.jpg"
-  },
-  "512": {
-    "checklistHash": 2921806047,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-2921806047.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 40,
-          "y": 44
-        }
-      }
-    }
-  },
-  "513": {
-    "checklistHash": 1875856732,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-1875856732.jpg"
-  },
-  "514": {
-    "checklistHash": 592877507,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/shipyard-awo-43-592877507.jpg"
-  },
-  "515": {
-    "checklistHash": 2693451640,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/wolfship-turbine-2693451640.jpg"
-  },
-  "595": {
-    "checklistHash": 1067696999,
-    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696999.jpg",
-    "extended": {
-      "screenshot": {
-        "highlight": {
-          "x": 50,
-          "y": 22
-        }
-      }
     }
   },
   "596": {
     "displayProperties": {
       "name": "Falaises des Mines de Sel",
-      "description": "Un portail vers le sommet des falaises des _Mines de sel_, alimenté par un aggrégat de pièces de _Déchus_.",
-      "icon": "portal"
+      "description": "Un portail vers le sommet des falaises des _Mines de sel_, alimenté par un aggrégat de pièces de _Déchus_."
     },
     "type": {
-      "name": "Portail",
-      "hash": "portal"
-    },
-    "destinationHash": 697502628,
-    "bubbleHash": 3600472775,
-    "screenshot": "/static/images/screenshots/portals/portal_596.jpg"
+      "name": "Portail"
+    }
   },
   "597": {
-    "checklistHash": 1000001001,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 2471210438,
-          "objectiveHash": 1398410807
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=PmSVWiaWShQ"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/bray-exoscience-1000001001.jpg"
+    }
   },
   "598": {
-    "checklistHash": 1000001002,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 3560528864,
-          "objectiveHash": 3971407501
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/bray-exoscience-1000001002.jpg"
+    }
   },
   "599": {
-    "checklistHash": 1000001003,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 3560528864,
-          "objectiveHash": 3971407500
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/eternity-1000001003.jpg"
+    }
   },
   "600": {
-    "checklistHash": 1000001004,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 908878819,
-          "objectiveHash": 2857574936
-        }
-      ]
-    },
-    "map": {
-      "in": "lost-sector"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=bIOnQecP9hk"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/perdition-1000001004.jpg"
+    }
   },
   "601": {
-    "checklistHash": 1000001005,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 658526296,
-          "objectiveHash": 3339133749
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/riis-reborn-approach-1000001005.jpg"
+    }
   },
   "602": {
-    "checklistHash": 1000001006,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 658526296,
-          "objectiveHash": 3339133749
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/riis-reborn-approach-1000001006.jpg"
+    }
   },
   "603": {
-    "checklistHash": 1000001007,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 658526296,
-          "objectiveHash": 3339133748
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/technocrats-iron-1000001007.jpg"
+    }
   },
   "604": {
-    "checklistHash": 1000001008,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 1666445095,
-          "objectiveHash": 2469985780
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/nexus-1000001008.jpg"
+    }
   },
   "605": {
-    "checklistHash": 1000001009,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 1666445095,
-          "objectiveHash": 2469985781
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001009.jpg"
+    }
   },
   "606": {
-    "checklistHash": 1000001010,
     "displayProperties": {
       "description": "Requière  harmonisation"
-    },
-    "related": {
-      "quests": [
-        {
-          "itemHash": 1666445095,
-          "objectiveHash": 2469985781
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
-    },
-    "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001010.jpg"
+    }
   }
 }
