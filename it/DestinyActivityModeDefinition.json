@@ -1,17 +1,88 @@
 {
   "608898761": {
     "displayProperties": {
-      "name": "Segrete"
+      "name": "Segrete",
+      "description": "Avventurati nelle profondità più oscure delle zone controllate dai nemici. Tieniti stretta la tua luce."
     }
   },
   "20434039890": {
     "displayProperties": {
-      "name": "Incursioni"
+      "name": "Incursioni",
+      "description": "Forma una squadra di 6 regicidi e affronta gli strani e potenti regni dei nostri nemici."
+    }
+  },
+  "4110605575": {
+    "displayProperties": {
+      "name": "Assalti dell'Avanguardia",
+      "description": "Fate il lavoro sporco dell'Avanguardia e tenete sotto controllo la frontiera."
     }
   },
   "547513715": {
     "displayProperties": {
-      "name": "Cala la Notte: Calvario"
+      "name": "Cala la Notte: Calvario",
+      "description": "Amanda Holiday non sarà in grado di tirarti fuori se qualcosa dovesse andare storto stavolta..."
+    }
+  },
+  "748895195": {
+    "displayProperties": {
+      "name": "Tutte le attività",
+      "description": "Riepiloghi di carneficina post–partita di tutti i tipi di attività: il culmine di tutti i tuoi sforzi."
+    }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "Hai fatto fuori Ghaul, risvegliato il Viaggiatore e ora per le strade corre voce delle imprese che tu e il tuo clan state compiendo... Ecco uno dei motivi per cui ho cominciato questa storia del clan–la gente aspetta ancora che l'Avanguardia dia l'esempio, ma é tempo di cambiamenti! E i Guardiani come te lo stanno rendendo possibile... Senza fretta."
+    }
+  },
+  "11647605040": {
+    "displayProperties": {
+      "name":"Crogiolo",
+      "description": "Hai lanciato abbastanza granate?"
+    }
+  },
+  "1848252830": {
+    "displayProperties": {
+      "description": "Dai la caccia agli nemici nelle zone di guerra attive. Fai i conti con poteri maggiori. Sii famigerato."
+    }
+  },
+  "1585787840": {
+    "displayProperties": {
+      "description": "Combatti per il Valore sconfiggendo gli avversari."
+    }
+  },
+  "3199098480": {
+    "displayProperties": {
+      "description": "Combatti per il Valore catturando le zone e sconfiggendo gli avversari."
+    }
+  },
+  "4078439804": {
+    "displayProperties": {
+      "description": "Combatti per il Valore eliminando tutti gli avversari in questa modalità a round. Non dimenticare di rianimare i tuoi Guardiani compagni."
+    }
+  },
+  "1826469369": {
+    "displayProperties": {
+      "description": "Catture le zone per aumentare i punti di ogni avversario sconfitto. Catture tutte le 3 zone per bloccarle e andare a caccia dei tuoi avversari."
+    }
+  },
+  "1264443021": {
+    "displayProperties": {
+      "description": "Super, abilità e munizioni pesanti si rigenerano molto più velocemente—resisti e impegnati in un vortice di caos."
+    }
+  },
+  "157639802": {
+    "displayProperties": {
+      "description": "Combatti per il Valore sconfiggendo gli avversari. Niente squadre. Niente alleati. Un tutti contro tutti dove chi è in vantaggio farebbe meglio a guardarsi le spalle."
+    }
+  },
+  "2239249083": {
+    "displayProperties": {
+      "description": "Combatti per la Gloria esaurendo la riserva di vita condivisa dei tuoi avversari, poi eliminandoli."
+    }
+  },
+  "1673724806": {
+    "displayProperties": {
+      "description": "Competi in una versione evento di Eliminazione che richiede una squadra. Guadagna più vittore possibili su un biglietto. Tre sconfitte e sei fuori."
     }
   }
 }
