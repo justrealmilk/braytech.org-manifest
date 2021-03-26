@@ -1,7 +1,88 @@
 {
   "608898761": {
     "displayProperties": {
-      "name": "Mazmorras"
+      "name": "Mazmorras",
+      "description": "Aventúrate en las profundidades más oscuras de los territorios ocupados por el enemigo. Mantén tu luz cerca."
+    }
+  },
+  "20434039890": {
+    "displayProperties": {
+      "name": "Incursiones",
+      "description": "Forma una escuadra de seis matadioses y enfréntate a los extraños y poderosos reinos de nuestros enemigos."
+    }
+  },
+  "4110605575": {
+    "displayProperties": {
+      "name": "Asaltos de la Vanguardia",
+      "description": "Haz el trabajo sucio de la Vanguardia y mantén la frontera bajo control."
+    }
+  },
+  "547513715": {
+    "displayProperties": {
+      "name": "Ocaso: el suplicio",
+      "description": "Amanda Holiday no podrá teletransportarte si algo sale mal esta vez..."
+    }
+  },
+  "748895195": {
+    "displayProperties": {
+      "name": "Todas las actividades",
+      "description": "Informes de partida para todo tipo de actividades: la culminación de todos tus esfuerzos."
+    }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "Te cargaste a Ghaul. Despertaste al Viajero. Y ahora en las calles solo se habla de tu clan y de lo mucho que estáis ayudando a los demás. Ese es el espíritu que me motivó a empezar esto de los clanes. La gente aún espera que la Vanguardia nos guíe a todos. ¡Pero es hora de que cambien las cosas! Los guardianes como tú lo lograréis. Sin agobios."
+    }
+  },
+  "11647605040": {
+    "displayProperties": {
+      "name":"Todo el Crisol",
+      "description": "¿Habéis lanzado suficientes granadas?"
+    }
+  },
+  "1848252830": {
+    "displayProperties": {
+      "description": "Caza enemigos en zonas de guerra activas. Cuenta con poderes mayores. Sé notorio."
+    }
+  },
+  "1585787840": {
+    "displayProperties": {
+      "description": "Lucha por Valor derrotando oponentes."
+    }
+  },
+  "3199098480": {
+    "displayProperties": {
+      "description": "Lucha por Valor capturando zonas y derrotando oponentes."
+    }
+  },
+  "4078439804": {
+    "displayProperties": {
+      "description": "Lucha por Valor eliminando a todos los oponentes en este modo de juego por rondas. No te olvides de revivir a tus compañeros Guardianes."
+    }
+  },
+  "1826469369": {
+    "displayProperties": {
+      "description": "Captura zonas para aumentar los puntos por cada oponente derrotado. Captura las tres para bloquear las zonas y cazar a tus oponentes."
+    }
+  },
+  "1264443021": {
+    "displayProperties": {
+      "description": "Las habilidades, las Súper y la munición pesada se regeneran más rápido: resiste y participa en un torbellino de caos."
+    }
+  },
+  "157639802": {
+    "displayProperties": {
+      "description": "Lucha por Valor derrotando oponentes. Sin equipos. Sin alianzas. Un todos contra todos en el que habrá que tener los ojos en la nuca."
+    }
+  },
+  "2239249083": {
+    "displayProperties": {
+      "description": "Lucha por Gloria agotando la vida compartida de tus oponentes y eliminándolos."
+    }
+  },
+  "1673724806": {
+    "displayProperties": {
+      "description": "Compite en una versión de Eliminación que requiere una escuadra. Consigue todas las victorias que puedas en un pase. Tres derrotas y estás fuera."
     }
   }
 }
