@@ -1,17 +1,88 @@
 {
   "608898761": {
     "displayProperties": {
-      "name": "Donjons"
+      "name": "Donjons",
+      "description": "Aventurez-vous dans les profondeurs les plus sombres des zones contrôlées par l'ennemi. Gardez votre lumière à proximité."
     }
   },
   "20434039890": {
     "displayProperties": {
-      "name": "Raids"
+      "name": "Raids",
+      "description": "Formez une équipe de six tueurs de dieu et bravez les étranges et puissants royaumes de nos ennemis."
+    }
+  },
+  "4110605575": {
+    "displayProperties": {
+      "name": "Assauts de l'Avant-Garde",
+      "description": "Faire le sale boulot de l'Avant-Garde et garder la frontière sous contrôle."
     }
   },
   "547513715": {
     "displayProperties": {
-      "name": "Nuit noire: Péril"
+      "name": "Nuit noire: Péril",
+      "description": "Amanda Holiday ne pourra pas vous transmettre d'informations si quelque chose ne va pas cette fois-ci ..."
+    }
+  },
+  "748895195": {
+    "displayProperties": {
+      "name": "Toutes les activités",
+      "description": "Rapports de carnage post-match pour tous les modes d'activité: le point culminant de tous vos efforts."
+    }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "Vous avez supprimé Ghaul, réveillé le Voyageur, et maintenant la moitié de ce que j'entends dans les rues, c'est à quel point vous et votre clan faites une différence ... Et c'est pourquoi j'ai commencé tout ce truc de clan en premier lieu - les gens attendent toujours que l'Avant-garde montre l'exemple, mais il est temps de changer cela ! Et ce sont des Gardiens comme vous qui vont nous y aider ... Pas de pression."
+    }
+  },
+  "11647605040": {
+    "displayProperties": {
+      "name":"Toute l'Epreuve",
+      "description": "Avez vous lancer assez de grenades ?"
+    }
+  },
+  "1848252830": {
+    "displayProperties": {
+      "description": "Chassez les ennemis dans les zones de guerre actives. Comptez avec de plus grands pouvoirs. Soyez notoire."
+    }
+  },
+  "1585787840": {
+    "displayProperties": {
+      "description": "Combattez avec Courage en battant vos adversaires."
+    }
+  },
+  "3199098480": {
+    "displayProperties": {
+      "description": "Combattez avec Courage en capturant des zones et en battant vos adversaires."
+    }
+  },
+  "4078439804": {
+    "displayProperties": {
+      "description": "Combattez avec Courage en éliminant tous les adversaires dans ce mode basé par tour. N'oubliez pas de faire revivre vos camarades Gardiens."
+    }
+  },
+  "1826469369": {
+    "displayProperties": {
+      "description": "Capturez des zones afin d'augmenter les points pour chaque adversaire vaincu. Capturez les trois zones pour les verrouiller et faire la chasse à vos adversaires."
+    }
+  },
+  "1264443021": {
+    "displayProperties": {
+      "description": "Supers et capacités plus rapides, et des munitions lourdes apparaissent plus rapidement - résistez et engagez-vous dans un tourbillon de chaos."
+    }
+  },
+  "157639802": {
+    "displayProperties": {
+      "description": "Combattez avec Courage en battant vos adversaires. Pas d'équipes. Aucune allégeance. Un Chacun-pour-soi où le leader ferait mieux de surveiller leurs arrières."
+    }
+  },
+  "2239249083": {
+    "displayProperties": {
+      "description": "Combattez pour la Gloire en épuisant la réserve de vie partagée de vos adversaires, puis en les éliminant."
+    }
+  },
+  "1673724806": {
+    "displayProperties": {
+      "description": "Participez à une version spéciale d'Elimination requérant une équipe complète. Gagnez autant de victoires que possible avec un ticket. Trois défaites et vous êtes éliminés."
     }
   }
 }
