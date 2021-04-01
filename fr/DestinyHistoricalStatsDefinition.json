@@ -70,5 +70,122 @@
   },
   "opponentsDefeated": {
     "statName": "Éliminés + Assistances"
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "En équipe, battez tous les Gardiens adverses au moins une fois pendant la Chasse."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Survivez à une chasse dans laquelle aucun membre de votre équipe n'est vaincu, puis commencez la prochaine chasse."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Terminez un match de la bannière de fer avec le plus d'éliminations lorsque vous avez l'avantage et pendant la chasse."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Vainquez cinq adversaires tout en maintenant l'avantage de zone avant que l'équipe adverse ne reprenne une zone."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "En une seule vie, participez à la capture des trois zones menant à la chasse."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Survivez à la chasse de vos adversaires sans être vaincu."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "En une seule vie, battez trois adversaires qui tentent de capturer des zones de capture alliées."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Récupérez une zone dans les 15 secondes suivant sa capture par vos adversaires."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Battez au moins deux adversaires avec un avantage de zone dans les 10 secondes suivant la capture d'une zone."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Capturez une zone avec toute votre équipe présente."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Attaquez les derniers coups sur toute l'équipe ennemie avant que l'un d'eux ne réapparaisse."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "Battez rapidement 7 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Battez rapidement 6 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Battez rapidement 5 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Battez rapidement 4 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Battez rapidement 3 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Battez rapidement 2 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Donnez le coup de grâce au gardien qui vous a vaincu en dernier."
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Donnez le coup final à un adversaire qui vient de vaincre un allié."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Donnez le coup final à un adversaire qui a récemment blessé un allié."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "En une seule vie, battez 50 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "En une seule vie, battez 20 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Attaquez les derniers coups sur sept adversaires sans subir de dégâts d'aucune source."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Terminez en solo la Fosse de l'Hérésie."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "En une seule vie, battez 10 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "En équipe, battez 7 Gardiens adverses sans qu'aucun membre de votre équipe ne soit vaincu."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "En une seule vie, battez 5 Gardiens adverses."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Vaincre 3 adversaires en une seule vie après avoir été vaincu deux fois consécutives."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Arrêtez la série d'un adversaire."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "En une seule vie, battez 3 Gardiens adverses tout en aidant ou en étant aidé par vos coéquipiers."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Terminez un match de la bannière de Fer dans lequel vous battez au moins sept adversaires et n'êtes jamais vaincu par un adversaire."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Gagnez un match de la bannière de Fer avec une grande marge de victoire."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Infligez le plus de dégâts aux adversaires en un seul match de la bannière de Fer."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Gagnez un match de la bannière de Fer après avoir été distancé par une marge significative."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Obtenez toutes les pages de légendes sur les champs de bataille."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Gagnez un match de la bannière de Fer en prolongation."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "Dans un seul match de la bannière de Fer, assénez au moins un coup final avec chaque classe d'arme (cinétique, énergie, puissance) et de capacité (mêlée, grenade, super)."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Asséner le premier coup fatal du match."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Arrêtez le Super d'un adversaire avec votre Super."
   }
 }
