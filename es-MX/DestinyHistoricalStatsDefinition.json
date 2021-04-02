@@ -70,5 +70,122 @@
   },
   "opponentsDefeated": {
     "statName": "Bajas + asistencias"
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "Como equipo, elimina a todos los guardianes rivales al menos una vez, durante la Cacería."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Sobrevive una Cacería en la que ningún miembro de tu equipo sea derrotado, luego comienza la próxima Cacería."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Completa una partida de Estandarte de Hierro con más puntos combinados de Ventaja y Cacería."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Derrota a cinco rivales mientras tienes Ventaja de zonas antes de que el equipo rival recapture una zona."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "Participa en capturar las tres zonas que conducen a la Cacería en una vida."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Sobrevive la Cacería de tu rival sin ser derrotado."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "En una sola vida, derrota a tres rivales que intentan capturar zonas de captura aliadas."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Recaptura una zona en los primeros 15 segundos después de que el rival la haya capturado."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Derrota a dos rivales con Ventaja de zonas en los primeros 10 segundos tras capturar una zona."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Captura una zona con todo tu equipo presente."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Logra golpes finales con todo el equipo rival antes de que reaparezcan."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "Derrota rápidamente a 7 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Derrota rápidamente a 6 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Derrota rápidamente a 5 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Derrota rápidamente a 4 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Derrota rápidamente a 3 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Derrota rápidamente a 2 guardianes rivales."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Asesta el golpe final al último guardián que te derrotó."
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Asesta el golpe final a un rival que acaba de derrotar a un aliado."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Asesta el golpe final a un rival que dañó a un aliado recientemente."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "Derrota a 50 guardianes rivales en una sola vida."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "Derrota a 20 guardianes rivales en una sola vida."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Logra golpes finales en siete oponentes sin recibir daño de ninguna fuente."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Completa el Foso de la herejía en solitario."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "Derrota a 10 guardianes rivales en una sola vida."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "Como equipo, derrota a 7 guardianes rivales sin que muera nadie en tu equipo."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "Derrota a 5 guardianes rivales en una sola vida."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Derrota a tres rivales en una sola vida, tras haber sido derrotado dos veces seguidas."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Pon fin a la racha de un rival."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "Derrota a 3 guardianes rivales en una sola vida mientras asistes o eres asistido por tus compañeros de equipo."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Completa una partida del Estandarte de Hierro en la que derrotas al menos siete rivales y nunca eres derrotado por tu rival."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Gana una partida del Estandarte de Hierro por amplio margen."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Haz el mayor daño total a tus rivales en una única partida del Estandarte de Hierro."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Gana una partida del Estandarte de Hierro luego de ir perdiendo por un margen importante."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Obtén todas las páginas de historia de los Campos de batalla."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Gana una partida del Estandarte de Hierro en tiempo extra."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "En una sola partida del Estandarte de Hierro, logra al menos un golpe final con cada tipo de arma (cinética, energética, potente) y habilidad (cuerpo a cuerpo, granada, Súper)."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Logra el primer golpe final de la partida."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Detén con tu Súper la Súper de un rival."
   }
 }
