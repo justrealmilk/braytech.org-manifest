@@ -358,6 +358,7 @@
   },
   "16": {
     "displayProperties": {
+      "name": "Nightmare of Xortal, Sworn of Crota",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "typeHash": 3,
@@ -381,6 +382,7 @@
   },
   "17": {
     "displayProperties": {
+      "name": "Nightmare of Horkis, Fear of Mithrax",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "typeHash": 3,
@@ -404,6 +406,7 @@
   },
   "18": {
     "displayProperties": {
+      "name": "Nightmare of Jaxx, Claw of Xivu Arath",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "typeHash": 3,
@@ -427,6 +430,7 @@
   },
   "19": {
     "displayProperties": {
+      "name": "Fallen Council",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
     "typeHash": 3,
