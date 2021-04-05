@@ -2665,7 +2665,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "417490937"
+    "bubbleHash": 417490937
   },
   "2000000013": {
     "displayProperties": {
@@ -2674,7 +2674,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "417490937"
+    "bubbleHash": 417490937
   },
   "2000000014": {
     "displayProperties": {
@@ -2683,7 +2683,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "417490937"
+    "bubbleHash": 417490937
   },
   "2000000015": {
     "displayProperties": {
@@ -2692,7 +2692,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4195493657"
+    "bubbleHash": 4195493657
   },
   "2000000016": {
     "displayProperties": {
@@ -2701,7 +2701,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4195493657"
+    "bubbleHash": 4195493657
   },
   "2000000017": {
     "displayProperties": {
@@ -2710,7 +2710,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4195493657"
+    "bubbleHash": 4195493657
   },
   "2000000018": {
     "displayProperties": {
@@ -2719,7 +2719,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4025450777"
+    "bubbleHash": 4025450777
   },
   "2000000019": {
     "displayProperties": {
@@ -2728,7 +2728,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4025450777"
+    "bubbleHash": 4025450777
   },
   "2000000020": {
     "displayProperties": {
@@ -2737,7 +2737,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "4025450777"
+    "bubbleHash": 4025450777
   },
   "2000000021": {
     "displayProperties": {
@@ -2746,7 +2746,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "3326367698"
+    "bubbleHash": 3326367698
   },
   "2000000022": {
     "displayProperties": {
@@ -2755,7 +2755,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "3326367698"
+    "bubbleHash": 3326367698
   },
   "2000000023": {
     "displayProperties": {
@@ -2764,7 +2764,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "3326367698"
+    "bubbleHash": 3326367698
   },
   "2000000024": {
     "displayProperties": {
@@ -2773,7 +2773,7 @@
     },
     "typeHash": 4,
     "destinationHash": 677774031,
-    "bubbleHash": "3326367698"
+    "bubbleHash": 3326367698
   },
   "2000000025": {
     "displayProperties": {
@@ -3935,5 +3935,14 @@
     "typeHash": 4,
     "destinationHash": 697502628,
     "bubbleHash": 4200309587
+  },
+  "2000000154": {
+    "displayProperties": {
+      "name": "Defeat Combatants",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": 3326367698
   }
 }
