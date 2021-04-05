@@ -5,10 +5,7 @@
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
     "screenshot": "/static/images/screenshots/portals/portal_1.jpg"
@@ -19,10 +16,7 @@
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
     "screenshot": "/static/images/screenshots/portals/portal_2.jpg"
@@ -33,10 +27,7 @@
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/portals/portal_3.jpg"
@@ -47,10 +38,7 @@
       "description": "Destroy all blights then return to the foyer to shatter the previously-immune Void crystals.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-1.jpg",
@@ -93,10 +81,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
@@ -107,10 +92,7 @@
       "description": "Subdue the major blight by depositing all three charges beneath. Eliminate the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-1.jpg",
@@ -155,10 +137,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-2.jpg"
@@ -169,10 +148,7 @@
       "description": "Climb the ruins and eliminate the Taken Phalanx.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-1.jpg",
@@ -214,10 +190,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-2.jpg"
@@ -228,10 +201,7 @@
       "description": "Eliminate the Hive Wizards, raise a sword, and defeat the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "related": {
@@ -276,10 +246,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-2.jpg"
@@ -290,10 +257,7 @@
       "description": "Reach the bottom and eliminate the Taken Wizards.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "related": {
@@ -336,10 +300,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
@@ -350,10 +311,7 @@
       "description": "This challenge culminates in a fight between the Guardian, a Hive Knight, and three Hive Shriekers, on a spacious platform with various cover from enemy fire.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "type": {
-      "name": "Ascendant Challenge",
-      "hash": "ascendant-challenge"
-    },
+    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-1.jpg",
@@ -393,10 +351,7 @@
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
@@ -405,10 +360,7 @@
     "displayProperties": {
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "type": {
-      "name": "Patrol Boss",
-      "hash": "patrol-boss"
-    },
+    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 417490937,
     "activityLightLevel": 980,
@@ -431,10 +383,7 @@
     "displayProperties": {
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "type": {
-      "name": "Patrol Boss",
-      "hash": "patrol-boss"
-    },
+    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 4025450777,
     "activityLightLevel": 980,
@@ -457,10 +406,7 @@
     "displayProperties": {
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "type": {
-      "name": "Patrol Boss",
-      "hash": "patrol-boss"
-    },
+    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 4195493657,
     "activityLightLevel": 980,
@@ -483,10 +429,7 @@
     "displayProperties": {
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "type": {
-      "name": "Patrol Boss",
-      "hash": "patrol-boss"
-    },
+    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 3326367698,
     "activityLightLevel": 980,
@@ -1596,10 +1539,7 @@
       "description": "A portal to _Queen's Court_, Mara Sov's throne world.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/portals/portal_278.jpg"
@@ -2418,10 +2358,7 @@
       "description": "A portal to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
       "icon": "portal"
     },
-    "type": {
-      "name": "Portal",
-      "hash": "portal"
-    },
+    "typeHash": 1,
     "destinationHash": 697502628,
     "bubbleHash": 3600472775,
     "screenshot": "/static/images/screenshots/portals/portal_596.jpg"
@@ -2608,5 +2545,1391 @@
       "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     },
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001010.jpg"
+  },
+  "2000000000": {
+    "displayProperties": {
+      "name": "Field Assignment: Assassination",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 3522109173
+  },
+  "2000000001": {
+    "displayProperties": {
+      "name": "Field Assignment: Salvage",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 3522109173
+  },
+  "2000000002": {
+    "displayProperties": {
+      "name": "Field Assignment: Pilgrimage",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 3522109173
+  },
+  "2000000003": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 3522109173
+  },
+  "2000000004": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272
+  },
+  "2000000005": {
+    "displayProperties": {
+      "name": "Field Assignment: Salvage",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272
+  },
+  "2000000006": {
+    "displayProperties": {
+      "name": "Field Assignment: Assassination",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272
+  },
+  "2000000007": {
+    "displayProperties": {
+      "name": "Field Assignment: Pilgrimage",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272
+  },
+  "2000000008": {
+    "displayProperties": {
+      "name": "Field Assignment: Assassination",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308
+  },
+  "2000000009": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308
+  },
+  "2000000010": {
+    "displayProperties": {
+      "name": "Field Assignment: Salvage",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308
+  },
+  "2000000011": {
+    "displayProperties": {
+      "name": "Field Assignment: Pilgrimage",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308
+  },
+  "2000000012": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "417490937"
+  },
+  "2000000013": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "417490937"
+  },
+  "2000000014": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "417490937"
+  },
+  "2000000015": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4195493657"
+  },
+  "2000000016": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4195493657"
+  },
+  "2000000017": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4195493657"
+  },
+  "2000000018": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4025450777"
+  },
+  "2000000019": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4025450777"
+  },
+  "2000000020": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "4025450777"
+  },
+  "2000000021": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "3326367698"
+  },
+  "2000000022": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "3326367698"
+  },
+  "2000000023": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "3326367698"
+  },
+  "2000000024": {
+    "displayProperties": {
+      "name": "Field Assignment: Active Duty",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": "3326367698"
+  },
+  "2000000025": {
+    "displayProperties": {
+      "name": "Combat Mission",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000026": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000027": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000028": {
+    "displayProperties": {
+      "name": "Assassination Mission",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000029": {
+    "displayProperties": {
+      "name": "Analysis Mission",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000030": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000031": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1635947699
+  },
+  "2000000032": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000033": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000034": {
+    "displayProperties": {
+      "name": "Assassination Mission",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000035": {
+    "displayProperties": {
+      "name": "Combat Mission",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000036": {
+    "displayProperties": {
+      "name": "Analysis Mission",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000037": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1026950430
+  },
+  "2000000038": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000039": {
+    "displayProperties": {
+      "name": "Assassination Mission",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000040": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000041": {
+    "displayProperties": {
+      "name": "Combat Mission",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000042": {
+    "displayProperties": {
+      "name": "Analysis Mission",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000043": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000044": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 3520035140
+  },
+  "2000000045": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000046": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000047": {
+    "displayProperties": {
+      "name": "Combat Mission",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000048": {
+    "displayProperties": {
+      "name": "Assassination Mission",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000049": {
+    "displayProperties": {
+      "name": "Salvage Mission",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000050": {
+    "displayProperties": {
+      "name": "Analysis Mission",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000051": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000052": {
+    "displayProperties": {
+      "name": "Survey mission",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3821439926,
+    "bubbleHash": 1608679832
+  },
+  "2000000053": {
+    "displayProperties": {
+      "name": "Nothing is Crystal Clear",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000054": {
+    "displayProperties": {
+      "name": "Out of Order",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000055": {
+    "displayProperties": {
+      "name": "Pools Party",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000056": {
+    "displayProperties": {
+      "name": "Thermal Decomposition",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000057": {
+    "displayProperties": {
+      "name": "Bathtime",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000058": {
+    "displayProperties": {
+      "name": "Cistern Vandals",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000059": {
+    "displayProperties": {
+      "name": "Half Empty",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000060": {
+    "displayProperties": {
+      "name": "Taking Shelter",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000061": {
+    "displayProperties": {
+      "name": "Brave New World",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 2132187573
+  },
+  "2000000062": {
+    "displayProperties": {
+      "name": "Binary and Digital",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000063": {
+    "displayProperties": {
+      "name": "Having a Ball",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000064": {
+    "displayProperties": {
+      "name": "Acoustic Shadow",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000065": {
+    "displayProperties": {
+      "name": "Mind Control",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000066": {
+    "displayProperties": {
+      "name": "Unilateral Disarmament",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000067": {
+    "displayProperties": {
+      "name": "Entanglement",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000068": {
+    "displayProperties": {
+      "name": "Tangled Up in Red",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000069": {
+    "displayProperties": {
+      "name": "Sifting Through the Tangle",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000070": {
+    "displayProperties": {
+      "name": "Spelunking",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000071": {
+    "displayProperties": {
+      "name": "Brave to the Grave",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000072": {
+    "displayProperties": {
+      "name": "What is This Place?",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 933267223
+  },
+  "2000000073": {
+    "displayProperties": {
+      "name": "Long Way Down",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000074": {
+    "displayProperties": {
+      "name": "States of Matter",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000075": {
+    "displayProperties": {
+      "name": "Putting Them in Their Graves",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000076": {
+    "displayProperties": {
+      "name": "Radiolarian to the Grave",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000077": {
+    "displayProperties": {
+      "name": "Not Like This",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000078": {
+    "displayProperties": {
+      "name": "The Shapes of Things",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000079": {
+    "displayProperties": {
+      "name": "Crimson Canopy",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284
+  },
+  "2000000080": {
+    "displayProperties": {
+      "name": "Watch Your Step",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 1702304883
+  },
+  "2000000081": {
+    "displayProperties": {
+      "name": "Artifact Hunting",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 1702304883
+  },
+  "2000000082": {
+    "displayProperties": {
+      "name": "Searching High and Low",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 1702304883
+  },
+  "2000000083": {
+    "displayProperties": {
+      "name": "Untangling the Situation",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 1702304883
+  },
+  "2000000084": {
+    "displayProperties": {
+      "name": "Don't Pass the Torch",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000085": {
+    "displayProperties": {
+      "name": "Below Vex",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000086": {
+    "displayProperties": {
+      "name": "An Empty Feeling",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000087": {
+    "displayProperties": {
+      "name": "Hallows, What's This?",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000088": {
+    "displayProperties": {
+      "name": "Pods in the Hallows",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000089": {
+    "displayProperties": {
+      "name": "Seeing is Believing",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000090": {
+    "displayProperties": {
+      "name": "Watch What Happens",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3710329679
+  },
+  "2000000091": {
+    "displayProperties": {
+      "name": "Ceiling and Ground",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000092": {
+    "displayProperties": {
+      "name": "The Point of No Return",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000093": {
+    "displayProperties": {
+      "name": "No Survivors",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000094": {
+    "displayProperties": {
+      "name": "Fallen, Out of the Sky",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000095": {
+    "displayProperties": {
+      "name": "Drained from the Dregs",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000096": {
+    "displayProperties": {
+      "name": "Secure Your Mask before Helping Others",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000097": {
+    "displayProperties": {
+      "name": "Through the Wreckage",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 4205285323
+  },
+  "2000000098": {
+    "displayProperties": {
+      "name": "Soundproofing",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3311195705
+  },
+  "2000000099": {
+    "displayProperties": {
+      "name": "Echoes of What Remains",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3311195705
+  },
+  "2000000100": {
+    "displayProperties": {
+      "name": "Conversion One",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3311195705
+  },
+  "2000000101": {
+    "displayProperties": {
+      "name": "Should the Pool Be Glowing?",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3311195705
+  },
+  "2000000102": {
+    "displayProperties": {
+      "name": "The Crash Site",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3311195705
+  },
+  "2000000103": {
+    "displayProperties": {
+      "name": "Chronicler of History",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000104": {
+    "displayProperties": {
+      "name": "The Scavenge Beast",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000105": {
+    "displayProperties": {
+      "name": "Mining Operations",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000106": {
+    "displayProperties": {
+      "name": "Those Don't Belong to You",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000107": {
+    "displayProperties": {
+      "name": "Urban Flight",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000108": {
+    "displayProperties": {
+      "name": "Cleaning Up the Streets",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000109": {
+    "displayProperties": {
+      "name": "Deep, Dark, and Down",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000110": {
+    "displayProperties": {
+      "name": "Not in My Backyard",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3091570009
+  },
+  "2000000111": {
+    "displayProperties": {
+      "name": "Back in Town",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000112": {
+    "displayProperties": {
+      "name": "Fallen Literacy Rates",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000113": {
+    "displayProperties": {
+      "name": "Camping Trip",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000114": {
+    "displayProperties": {
+      "name": "Vandal Tanks",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000115": {
+    "displayProperties": {
+      "name": "Beachcombing",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000116": {
+    "displayProperties": {
+      "name": "Suburban Violence",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000117": {
+    "displayProperties": {
+      "name": "Bottle Recycling",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000118": {
+    "displayProperties": {
+      "name": "Land Ho",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000119": {
+    "displayProperties": {
+      "name": "Other People's Stuff",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3340296448
+  },
+  "2000000120": {
+    "displayProperties": {
+      "name": "Invisible Pollution",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584
+  },
+  "2000000121": {
+    "displayProperties": {
+      "name": "Unsafe for Swimming",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584
+  },
+  "2000000122": {
+    "displayProperties": {
+      "name": "Return to Basics",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584
+  },
+  "2000000123": {
+    "displayProperties": {
+      "name": "Cleaning Up the Beach",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584
+  },
+  "2000000124": {
+    "displayProperties": {
+      "name": "The Hills Have You",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584
+  },
+  "2000000125": {
+    "displayProperties": {
+      "name": "A Shard Act to Follow",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000126": {
+    "displayProperties": {
+      "name": "Getting Away from It All",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000127": {
+    "displayProperties": {
+      "name": "Brain Oxygenation",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000128": {
+    "displayProperties": {
+      "name": "Firebase Fireworks",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000129": {
+    "displayProperties": {
+      "name": "Beneath the Surfaces",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000130": {
+    "displayProperties": {
+      "name": "Slamfire",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000131": {
+    "displayProperties": {
+      "name": "Supply Run",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 2212414297
+  },
+  "2000000132": {
+    "displayProperties": {
+      "name": "On the Land As on the Sea",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000133": {
+    "displayProperties": {
+      "name": "Sunken Supplies",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000134": {
+    "displayProperties": {
+      "name": "Living Under a Rock",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000135": {
+    "displayProperties": {
+      "name": "Fire Down Below",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000136": {
+    "displayProperties": {
+      "name": "Work Smarter and Harder",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000137": {
+    "displayProperties": {
+      "name": "What's in the Box",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000138": {
+    "displayProperties": {
+      "name": "Security en Garde",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 1094980045
+  },
+  "2000000139": {
+    "displayProperties": {
+      "name": "Paved with Good Intentions",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000140": {
+    "displayProperties": {
+      "name": "Claustrophobia",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000141": {
+    "displayProperties": {
+      "name": "De-Supplying the Legion",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000142": {
+    "displayProperties": {
+      "name": "Underground Fighting",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000143": {
+    "displayProperties": {
+      "name": "Something More Refined",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000144": {
+    "displayProperties": {
+      "name": "Wetwork",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000145": {
+    "displayProperties": {
+      "name": "River Transport",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 3861059923
+  },
+  "2000000146": {
+    "displayProperties": {
+      "name": "Only You Can Prevent",
+      "icon": "patrol-assassination"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000147": {
+    "displayProperties": {
+      "name": "Everybody in the Pools",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000148": {
+    "displayProperties": {
+      "name": "Treehugger",
+      "icon": "patrol-analysis"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000149": {
+    "displayProperties": {
+      "name": "This Is For Your Own Goods",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000150": {
+    "displayProperties": {
+      "name": "Coasting",
+      "icon": "patrol-survey"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000151": {
+    "displayProperties": {
+      "name": "Industrial Warfare",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000152": {
+    "displayProperties": {
+      "name": "Environmental Storytelling",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
+  },
+  "2000000153": {
+    "displayProperties": {
+      "name": "Psion Their Own Supply",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 697502628,
+    "bubbleHash": 4200309587
   }
 }

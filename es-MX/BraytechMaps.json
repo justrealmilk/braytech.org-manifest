@@ -3,135 +3,90 @@
     "displayProperties": {
       "name": "La confluencia, Oeste",
       "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "2": {
     "displayProperties": {
       "name": "La confluencia, Este",
       "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "3": {
     "displayProperties": {
       "name": "La confluencia, Sur",
       "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "4": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Destruye todas las plagas y luego regresa al centro para romper los cristales de vacío que antes eran inmunes.\n\n_Acepta este desafío, camina entre los mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "6": {
     "displayProperties": {
       "name": "Altar de la Pérdida",
       "description": "Destruye la plaga principal depositando tres cargas en ella. Elimina a los Caballeros de la Colmena.\n\n_Acepta este desafío, camina entre mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "7": {
     "displayProperties": {
       "name": "Altar de la Pérdida",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "8": {
     "displayProperties": {
       "name": "Ruinas Desvastadas",
       "description": "Escala por las ruinas y elimina la Falange poseída.\n\n_Acepta este desafío, camina entre mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "9": {
     "displayProperties": {
       "name": "Ruinas Desvastadas",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "10": {
     "displayProperties": {
       "name": "Fortaleza Filos Cortantes",
       "description": "Elimina a las Magas de la Colmena, alza una espada y derrota a los Caballeros de la Colmena.\n\n_Acepta este desafío, camina entre mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "11": {
     "displayProperties": {
       "name": "Fortaleza Filos Cortantes",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "12": {
     "displayProperties": {
       "name": "Abismo Agonarca",
       "description": "Alcanza el fondo y elimina a las Magas poseídas.\n\n_Acepta este desafío, camina entre mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "13": {
     "displayProperties": {
       "name": "Abismo Agonarca",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "14": {
     "displayProperties": {
       "name": "Guarnición Cimmeria",
       "description": "Este desafío culmina en una lucha entre el Guardián, un Caballero de la Colmena, y tres Aulladores de la Colmena, en una plataforma grande con varias coberturas frente al fuego enemigo.\n\n_Acepta este desafío, camina entre mundos y deshaz lo que fue hecho._"
-    },
-    "type": {
-      "name": "Desafío ascendente"
     }
   },
   "15": {
     "displayProperties": {
       "name": "Guarnición Cimmeria",
       "description": "Un portal al _Plano Ascendente_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "16": {
@@ -258,9 +213,6 @@
     "displayProperties": {
       "name": "Corte de la Reina",
       "description": "Un portal a la _Corte de la Reina_, el mundo trono de Mara Sov."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "279": {
@@ -297,9 +249,6 @@
     "displayProperties": {
       "name": "Acantilados de las Minas de Sal",
       "description": "Un portal a la cima de los acantilados de las _Minas de Sal_, alimentado por partes recompuestas de _Los Caídos_."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "597": {

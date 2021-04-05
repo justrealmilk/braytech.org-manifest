@@ -3,167 +3,110 @@
     "displayProperties": {
       "name": "La Confluence Ouest",
       "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "2": {
     "displayProperties": {
       "name": "La Confluence Est",
       "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "3": {
     "displayProperties": {
       "name": "La Confluence Sud",
       "description": "Un portail vers _La Confluence_, alimenté par des énergies paracausalles."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "4": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Détruisez toutes les infections corrompues puis retournez dans le foyer pour briser les cristaux du Vide auparavant immunisés.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "6": {
     "displayProperties": {
       "name": "Autel du Forfait",
       "description": "Soumettez l'infection corrompue majeure en déposant les trois charges en dessous. Éliminez les Chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "7": {
     "displayProperties": {
       "name": "Autel du Forfait",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "8": {
     "displayProperties": {
       "name": "Ruines brisées",
       "description": "Grimpez dans les ruines et éliminez la phalange corrompue.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "9": {
     "displayProperties": {
       "name": "Ruines brisées",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "10": {
     "displayProperties": {
       "name": "Fort des tranchants aiguisés",
       "description": "Éliminez les sorcières de la ruche, prenez l'épée et battez les chevaliers de la ruche.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "11": {
     "displayProperties": {
       "name": "Fort des tranchants aiguisés",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "12": {
     "displayProperties": {
       "name": "Abysse des argonarques",
       "description": "Atteignez le fond du plan ascendant et éliminez les sorcières corrompues.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "13": {
     "displayProperties": {
       "name": "Abysse des argonarques",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "14": {
     "displayProperties": {
       "name": "Garnison cimmérienne",
       "description": "Ce défi se termine par un combat entre le gardien, un chevalier de la ruche et trois vigies de la ruche, sur une large plate-forme avec diverses couvertures contre les tirs ennemis.\n\n_Acceptez ce défi, marchez entre les mondes et annulez ce qui a été fait._"
-    },
-    "type": {
-      "name": "Défi Ascendant"
     }
   },
   "15": {
     "displayProperties": {
       "name": "Garnison cimmérienne",
       "description": "Un portail vers le _Plan ascendant_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "16": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
-    },
-    "type": {
-      "name": "Boss de patrouille"
     }
   },
   "17": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
-    },
-    "type": {
-      "name": "Boss de patrouille"
     }
   },
   "18": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
-    },
-    "type": {
-      "name": "Boss de patrouille"
     }
   },
   "19": {
     "displayProperties": {
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
-    },
-    "type": {
-      "name": "Boss de patrouille"
     }
   },
   "24": {
@@ -275,9 +218,6 @@
     "displayProperties": {
       "name": "La Cour de la reine",
       "description": "Un portail vers _La Cour de la reine_, le monde trône de Mara Sov."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "279": {
@@ -314,9 +254,6 @@
     "displayProperties": {
       "name": "Falaises des Mines de Sel",
       "description": "Un portail vers le sommet des falaises des _Mines de sel_, alimenté par un aggrégat de pièces de _Déchus_."
-    },
-    "type": {
-      "name": "Portail"
     }
   },
   "597": {

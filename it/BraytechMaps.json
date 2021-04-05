@@ -3,186 +3,110 @@
     "displayProperties": {
       "name": "La Confluenza Ovest",
       "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "2": {
     "displayProperties": {
       "name": "La Confluenza Est",
       "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "3": {
     "displayProperties": {
       "name": "La Confluenza Sud",
       "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "4": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Distruggi tutte le piaghe e ritorna all'ingresso per frantumare i cristalli del Vuoto precedentemente immuni.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "6": {
     "displayProperties": {
       "name": "Altare del Pegno",
       "description": "Sopprimi la piaga principale depositando tutte e tre le cariche sottostanti. Elimina i Cavalieri dell'Alveare.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "7": {
     "displayProperties": {
       "name": "Altare del Pegno",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "8": {
     "displayProperties": {
       "name": "Rovine Infrante",
       "description": "Scala le rovine ed elimina la Falange Corrotta.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "9": {
     "displayProperties": {
       "name": "Rovine Infrante",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "10": {
     "displayProperties": {
       "name": "Rocca dei Fili Affinati",
       "description": "Elimina le Maliarde dell'Alveare, evoca una spada e sconfiggi i Cavalieri dell'Alveare.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "11": {
     "displayProperties": {
       "name": "Rocca dei Fili Affinati",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "12": {
     "displayProperties": {
       "name": "Abisso Agonarca",
       "description": "Raggiungi il fondo ed elimina le Maliarde Corrotte.\n\n_Accetta questa sfida, cammina tra i mondi e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "13": {
     "displayProperties": {
       "name": "Abisso Agonarca",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "14": {
     "displayProperties": {
       "name": "Bastione Cimmerio",
       "description": "Questa sfida culmina in una lotta tra il Guardiano, un Cavaliere dell'Alveare e tre Urlatori su una piattaforma spaziosa con varie coperture dal fuoco nemico.\n\n_Accetta questa sfida, cammina tra i mondi, e annulla ciò che è stato fatto._"
-    },
-    "type": {
-      "name": "Sfida Ascendente",
-      "hash": "ascendant-challenge"
     }
   },
   "15": {
     "displayProperties": {
       "name": "Bastione Cimmerio",
       "description": "Un portale per il _Piano Ascendente_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "16": {
     "displayProperties": {
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
-    },
-    "type": {
-      "name": "Boss Pattuglia",
-      "hash": "patrol-boss"
     }
   },
   "17": {
     "displayProperties": {
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
-    },
-    "type": {
-      "name": "Boss Pattuglia",
-      "hash": "patrol-boss"
     }
   },
   "18": {
     "displayProperties": {
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
-    },
-    "type": {
-      "name": "Boss Pattuglia",
-      "hash": "patrol-boss"
     }
   },
   "19": {
     "displayProperties": {
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
-    },
-    "type": {
-      "name": "Boss Pattuglia",
-      "hash": "patrol-boss"
     }
   },
   "24": {
@@ -289,10 +213,6 @@
     "displayProperties": {
       "name": "Corte della Regina",
       "description": "Un portale per la _Corte della Regina_, il Tronomondo di Mara Sov."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "279": {
@@ -329,10 +249,6 @@
     "displayProperties": {
       "name": "Scogliere delle Miniere di Sale",
       "description": "Un portale per la cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
-    },
-    "type": {
-      "name": "Portale",
-      "hash": "portal"
     }
   },
   "597": {

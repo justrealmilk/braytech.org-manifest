@@ -3,37 +3,24 @@
     "displayProperties": {
       "name": "서부 융합점",
       "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "2": {
     "displayProperties": {
       "name": "동부 융합점",
       "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "3": {
     "displayProperties": {
       "name": "남부 융합점",
       "description": "비인과성 에너지로 작동하는 _융합_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈",
-      "hash": "portal"
     }
   },
   "4": {
     "displayProperties": {
       "name": "우로보레아",
       "description": "모든 어둠그림자를 파괴하면 중앙의 면역 공허 수정을 부술 수 있습니다.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을  되돌리세요._"
-    },
-    "type": {
-      "name": "승천 도전"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=dogfPHV9dZI"
@@ -43,18 +30,12 @@
     "displayProperties": {
       "name": "우로보레아",
       "description": "_승천 차원_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "6": {
     "displayProperties": {
       "name": "몰수된 제단",
       "description": "바깥쪽의 3개의 전기 구체를 중앙에 채운 후 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "type": {
-      "name": "승천 도전"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=rM-ymyPe7j4"
@@ -64,18 +45,12 @@
     "displayProperties": {
       "name": "몰수된 제단",
       "description": "_승천 차원_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "8": {
     "displayProperties": {
       "name": "조각난 폐허",
       "description": "폐허를 올라 굴복자 무리를 제거하세요.\n\\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "type": {
-      "name": "승천 도전"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=3YOkwILrN5M"
@@ -85,18 +60,12 @@
     "displayProperties": {
       "name": "조각난 폐허",
       "description": "_승천 차원_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "10": {
     "displayProperties": {
       "name": "연마된 칼날의 아성",
       "description": "군체 마법사를 제거하고, 검을 들어올리고, 군체 기사를 무찌르세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "type": {
-      "name": "승천 도전"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=4gvHUGJ5M1A"
@@ -106,9 +75,6 @@
     "displayProperties": {
       "name": "연마된 칼날의 수호",
       "description": "_승천 차원_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "12": {
@@ -125,18 +91,12 @@
       "name": "심판의 심연",
       "description": "_승천 차원_과 연결된 포탈입니다.",
       "icon": "portal"
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "14": {
     "displayProperties": {
       "name": "키메르 수비대",
       "description": "군체 기사와 세 개의 군체 비명자, 수호자의 탄막이 쏟아지는 승강장을 지나 제단에서 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "type": {
-      "name": "승천 도전"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=-y2XsHv09dw"
@@ -146,41 +106,26 @@
     "displayProperties": {
       "name": "키메르 수비대",
       "description": "_승천 차원_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "16": {
     "displayProperties": {
       "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
-    },
-    "type": {
-      "name": "방황하는  보스"
     }
   },
   "17": {
     "displayProperties": {
       "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
-    },
-    "type": {
-      "name": "방황하는  보스"
     }
   },
   "18": {
     "displayProperties": {
       "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
-    },
-    "type": {
-      "name": "방황하는  보스"
     }
   },
   "19": {
     "displayProperties": {
       "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
-    },
-    "type": {
-      "name": "방황하는  보스"
     }
   },
   "24": {
@@ -395,9 +340,6 @@
     "displayProperties": {
       "name": "여왕의 궁정",
       "description": "마라 소프의 왕좌의 세계, _여왕의 궁정_과 연결된 포탈입니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "279": {
@@ -694,9 +636,6 @@
     "displayProperties": {
       "name": "소금 광산 절벽",
       "description": "몰락자의 부품을 모아 임시로 만든 포탈입니다. _소금 광산_ 절벽 꼭대기와 연결되어 있습니다."
-    },
-    "type": {
-      "name": "포탈"
     }
   },
   "597": {

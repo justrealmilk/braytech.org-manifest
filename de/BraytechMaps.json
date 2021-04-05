@@ -21,9 +21,6 @@
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Zerstöre alle Seuchen und kehre dann ins Foyer zurück, um die zuvor immunen Leere-Kristalle zu zerbrechen.\n\n_Nimm diese Herausforderung an, gehe zwischen die Welten und mache rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "5": {
@@ -36,9 +33,6 @@
     "displayProperties": {
       "name": "Bußschrein",
       "description": "Überwinde die Hauptfäule, indem du alle drei Ladungen darunter ablegst. Eliminiere die Ritter der Schar.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "7": {
@@ -51,9 +45,6 @@
     "displayProperties": {
       "name": "Splitterruinen",
       "description": "Klettere auf die Ruinen und eliminiere die Gefallenen-Phalanx.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "9": {
@@ -66,9 +57,6 @@
     "displayProperties": {
       "name": "Bergfried der Geschliffenen",
       "description": "Eliminiere die Schar Hexen, hebe ein Schwert und besiege die Schar Ritter.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "11": {
@@ -81,9 +69,6 @@
     "displayProperties": {
       "name": "Preisrichter Abgrund",
       "description": "Erreichen Sie den Boden und eliminieren Sie die Besessenen Zauberer.\n\n_Nehmen Sie diese Herausforderung an, gehen Sie zwischen den Welten und machen Sie rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "13": {
@@ -96,9 +81,6 @@
     "displayProperties": {
       "name": "Cimmerische Garnison",
       "description": "Diese Herausforderung führt zu einem Kampf zwischen dem Hüter, einem Schar Ritter und drei Schar Kreischer auf einer geräumigen Plattform mit unterschiedlichem Schutz vor feindlichem Feuer.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
-    },
-    "type": {
-      "name": "Aszendenten-Herausforderung"
     }
   },
   "15": {
@@ -110,33 +92,21 @@
   "16": {
     "displayProperties": {
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
-    },
-    "type": {
-      "name": "Patrouillen-Boss"
     }
   },
   "17": {
     "displayProperties": {
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
-    },
-    "type": {
-      "name": "Patrouillen-Boss"
     }
   },
   "18": {
     "displayProperties": {
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
-    },
-    "type": {
-      "name": "Patrouillen-Boss"
     }
   },
   "19": {
     "displayProperties": {
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
-    },
-    "type": {
-      "name": "Patrouillen-Boss"
     }
   },
   "24": {
@@ -248,9 +218,6 @@
     "displayProperties": {
       "name": "Königinnenhof",
       "description": "Ein Portal zum _Königinnenhof_, Mara Sovs Thron Welt."
-    },
-    "type": {
-      "name": "Portal"
     }
   },
   "279": {
