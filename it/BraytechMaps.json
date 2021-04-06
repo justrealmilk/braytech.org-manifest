@@ -91,21 +91,25 @@
   },
   "16": {
     "displayProperties": {
+      "name": "Incubo di Xortal, Giurato a Crota",
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
     }
   },
   "17": {
     "displayProperties": {
+      "name": "Incubo di Horkis, Paura di Mithrax",
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
     }
   },
   "18": {
     "displayProperties": {
+      "name": "Incubo di Jaxx, Artiglio di Xivu Arath",
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
     }
   },
   "19": {
     "displayProperties": {
+      "name": "Consiglio dei caduti",
       "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
     }
   },
@@ -299,6 +303,21 @@
   "606": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
+    }
+  },
+  "2000000105": {
+    "displayProperties": {
+      "name": "Operazioni di scavo"
+    }
+  },
+  "2000000107": {
+    "displayProperties": {
+      "name": "Volo urbano"
+    }
+  },
+  "2000000108": {
+    "displayProperties": {
+      "name": "Pulizia strade"
     }
   }
 }
