@@ -2660,7 +2660,8 @@
   },
   "2000000012": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Find Toland",
+      "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -2669,7 +2670,7 @@
   },
   "2000000013": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Defeat Combatants",
       "icon": "patrol-combat"
     },
     "typeHash": 4,
@@ -2678,7 +2679,7 @@
   },
   "2000000014": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Hunt the Nightmare of Volniks, Deathkeeper",
       "icon": "patrol-assassination"
     },
     "typeHash": 4,
@@ -2687,7 +2688,7 @@
   },
   "2000000015": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Collect Supplies",
       "icon": "patrol-salvage"
     },
     "typeHash": 4,
@@ -2696,7 +2697,8 @@
   },
   "2000000016": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Hunt the Nightmare of Talgoth, Soul Smasher",
+      "description": "Go to the Gatehouse and take out the Nightmare of Talgoth, Soul Smasher.",
       "icon": "patrol-assassination"
     },
     "typeHash": 4,
@@ -2705,7 +2707,8 @@
   },
   "2000000017": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Find Toland",
+      "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -2714,7 +2717,7 @@
   },
   "2000000018": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Collect Supplies",
       "icon": "patrol-salvage"
     },
     "typeHash": 4,
@@ -2723,7 +2726,7 @@
   },
   "2000000019": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Hunt the Nightmare of Lambiks-4",
       "icon": "patrol-assassination"
     },
     "typeHash": 4,
@@ -2732,7 +2735,8 @@
   },
   "2000000020": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Find Toland",
+      "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -2741,7 +2745,7 @@
   },
   "2000000021": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Collect Supplies",
       "icon": "patrol-salvage"
     },
     "typeHash": 4,
@@ -2750,7 +2754,7 @@
   },
   "2000000022": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Defeat Combatants",
       "icon": "patrol-combat"
     },
     "typeHash": 4,
@@ -2759,7 +2763,7 @@
   },
   "2000000023": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Hunt the Nightmare of Val Sinu, Hellbringer",
       "icon": "patrol-assassination"
     },
     "typeHash": 4,
@@ -2768,7 +2772,8 @@
   },
   "2000000024": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "Find Toland",
+      "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -3944,5 +3949,32 @@
     "typeHash": 4,
     "destinationHash": 677774031,
     "bubbleHash": 3326367698
+  },
+  "2000000155": {
+    "displayProperties": {
+      "name": "Defeat Combatants",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": 4025450777
+  },
+  "2000000156": {
+    "displayProperties": {
+      "name": "Defeat Combatants",
+      "icon": "patrol-combat"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": 4195493657
+  },
+  "2000000157": {
+    "displayProperties": {
+      "name": "Collect Supplies",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4,
+    "destinationHash": 677774031,
+    "bubbleHash": 417490937
   }
 }
