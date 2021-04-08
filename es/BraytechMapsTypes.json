@@ -1,4 +1,9 @@
 {
+  "1": {
+    "displayProperties": {
+      "name": "Portal"
+    }
+  },
   "2": {
     "displayProperties": {
       "name": "Desafío ascendente"
@@ -11,7 +16,7 @@
   },
   "4": {
     "displayProperties": {
-      "name": "Patrol"
+      "name": "Patrulla"
     }
   }
 }
