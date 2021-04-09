@@ -3237,14 +3237,24 @@
   "2000000103": {
     "displayProperties": {
       "name": "Chronicler of History",
-      "description": "Retrieve a three-dimensional scan of a pre-Collaspe sculpture in Marvic Square.",
+      "description": "Retrieve a three-dimensional scan of a pre-Collaspe sculpture in Maevic Square.",
       "icon": "patrol-analysis"
     },
-    "typeHash": 4
+    "typeHash": 4,
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 46
+        }
+      }
+    },
+    "screenshot": "/static/images/screenshots/auxiliary/patrols/2000000103.jpg"
   },
   "2000000104": {
     "displayProperties": {
       "name": "The Scavenge Beast",
+      "description": "Fallen scavenging crews continue to present a problem in Maevic Square. Eliminate their leader to solve the problem.",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
@@ -3252,13 +3262,24 @@
   "2000000105": {
     "displayProperties": {
       "name": "Mining Operations",
+      "description": "Descend into the mines and search for any still-functioning Golden Age technology.",
       "icon": "patrol-analysis"
     },
-    "typeHash": 4
+    "typeHash": 4,
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 48,
+          "y": 60
+        }
+      }
+    },
+    "screenshot": "/static/images/screenshots/auxiliary/patrols/2000000105.jpg"
   },
   "2000000106": {
     "displayProperties": {
       "name": "Those Don't Belong to You",
+      "description": "Defeat Fallen in Trostland and collect the Forgotten Journals they drop.",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
@@ -3266,6 +3287,7 @@
   "2000000107": {
     "displayProperties": {
       "name": "Urban Flight",
+      "description": "The Fallen are more familiar with terrain in the Outskits than humanity is. Shift that balance.",
       "icon": "patrol-survey"
     },
     "typeHash": 4
@@ -3280,6 +3302,7 @@
   "2000000109": {
     "displayProperties": {
       "name": "Deep, Dark, and Down",
+      "description": "A Fallen Servitor is stripping the cavern walls for minerals. Put a stop to it.",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
@@ -3287,6 +3310,7 @@
   "2000000110": {
     "displayProperties": {
       "name": "Not in My Backyard",
+      "description": "Defeat enemies in the streets abd buildings of this ruined town.",
       "icon": "patrol-combat"
     },
     "typeHash": 4
