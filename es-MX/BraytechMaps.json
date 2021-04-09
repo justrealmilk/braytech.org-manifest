@@ -90,23 +90,27 @@
     }
   },
   "16": {
-    "type": {
-      "name": "Jefe de patrulla"
+    "displayProperties": {
+      "name": "Pesadilla de Xortal, jurado of Crota",
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
     }
   },
   "17": {
-    "type": {
-      "name": "Jefe de patrulla"
+    "displayProperties": {
+      "name": "Pesadilla of Horkis, miedo de Mithrax",
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
     }
   },
   "18": {
-    "type": {
-      "name": "Jefe de patrulla"
+    "displayProperties": {
+      "name": "Pesadilla de Jaxx, garra de Xivu Arath",
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
     }
   },
   "19": {
-    "type": {
-      "name": "Jefe de patrulla"
+    "displayProperties": {
+      "name": "Consejo de los caídos",
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
     }
   },
   "24": {
