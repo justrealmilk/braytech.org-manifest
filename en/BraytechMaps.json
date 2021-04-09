@@ -3237,6 +3237,7 @@
   "2000000103": {
     "displayProperties": {
       "name": "Chronicler of History",
+      "description": "Retrieve a three-dimensional scan of a pre-Collaspe sculpture in Marvic Square.",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
