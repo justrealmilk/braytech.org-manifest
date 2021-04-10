@@ -91,21 +91,25 @@
   },
   "16": {
     "displayProperties": {
+      "name": "Cauchemar de Xortal, Juré à Crota",
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     }
   },
   "17": {
     "displayProperties": {
+      "name": "Cauchemar de Horkis, Terreur de Mithrax",
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     }
   },
   "18": {
     "displayProperties": {
+      "name": "Cauchemar de Jaxx, Griffe de Xivu Arath",
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     }
   },
   "19": {
     "displayProperties": {
+      "name": "Conseil Déchu",
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement _Cauchemars errants_."
     }
   },
@@ -305,5 +309,981 @@
     "displayProperties": {
       "description": "Requière  harmonisation"
     }
-  }
+  },
+  "2000000000": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Assassinat",
+      "description": "Assassinez un commandant des Infâmes."
+    }
+  },
+  "2000000001": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Récupération",
+      "description": "Réquisitionnez des provisions des Corrompus."
+    }
+  },
+  "2000000002": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Pèlerinage",
+      "description": "Shuro Chi aimerait que vous alliez voir quelque chose aux Jardins d'Esila."
+    }
+  },
+  "2000000003": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Service actif",
+      "description": "Traquez des ennemis des éveillés."
+    }
+  },
+  "2000000004": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Service actif",
+      "description": "Traquez des ennemis des éveillés."
+    }
+  },
+  "2000000005": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Récupération",
+      "description": "Réquisitionnez des provisions des Corrompus."
+    }
+  },
+  "2000000006": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Assassinat",
+      "description": "Assassinez un commandant de la Ruche."
+    }
+  },
+  "2000000007": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Pèlerinage",
+      "description": "Shuro Chi aimerait que vous alliez voir quelque chose à la Crête de Kères."
+    }
+  },
+  "2000000008": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Assassinat",
+      "description": "Assassinez un commandant des Corrompus."
+    }
+  },
+  "2000000009": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Service actif",
+      "description": "Traquez des ennemis des éveillés."
+    }
+  },
+  "2000000010": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Récupération",
+      "description": "Réquisitionnez des provisions des Corrompus."
+    }
+  },
+  "2000000011": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Pèlerinage",
+      "description": "Shuro Chi aimerait que vous alliez voir quelque chose à l'Ermitage de l'Augure."
+    }
+  },
+  "2000000012": {
+    "displayProperties": {
+      "name": "Trouvez Toland",
+      "description": "Trouver Toland pour l'écouter parler de la Lune."
+    }
+  },
+  "2000000013": {
+    "displayProperties": {
+      "name": "Éliminez des combattants",
+      "description": "Éliminez des combattants au Port du Malheur."
+    }
+  },
+  "2000000014": {
+    "displayProperties": {
+      "name": "Traquez le Cauchemar de Volniks, le Garde-Mort",
+      "description": "Allez au Champ de bataille lunaire et éliminez le cauchemar de Volniks, le Garde-Mort."
+    }
+  },
+  "2000000015": {
+    "displayProperties": {
+      "name": "Récupérez des Provisions",
+      "description": "Éliminez des Acolytes de la Ruche pour récupérer des Tablettes runiques."
+    }
+  },
+  "2000000016": {
+    "displayProperties": {
+      "name": "Traquez le Cauchemar de Talgoth, le Fracasseur d'âmes.",
+      "description": "Allez à La Loge et éliminez le cauchemar de Talgoth, le Fracasseur d'âmes."
+    }
+  },
+  "2000000017": {
+    "displayProperties": {
+      "name": "Trouvez Toland",
+      "description": "Trouver Toland pour l'écouter parler de la Lune."
+    }
+  },
+  "2000000018": {
+    "displayProperties": {
+      "name": "Récupérez des Provisions",
+      "description": "Éliminez des collecteurs déchus pour récupérer des réservoirs d'éther vidés."
+    }
+  },
+  "2000000019": {
+    "displayProperties": {
+      "name": "Traquez le Cauchemar de Lambiks-4",
+      "description": "Allez au Ketch du traître et éliminez le Cauchemar de Lambiks-4."
+    }
+  },
+  "2000000020": {
+    "displayProperties": {
+      "name": "Trouvez Toland",
+      "description": "Trouver Toland pour l'écouter parler de la Lune."
+    }
+  },
+  "2000000021": {
+    "displayProperties": {
+      "name": "Récupérez des Provisions",
+      "description": "Éliminez des Vandales déchus pour récupérer des réservoirs d'éther vidés."
+    }
+  },
+  "2000000022": {
+    "displayProperties": {
+      "name": "Éliminez des combattants",
+      "description": "Éliminez des combattants au Poste de l'archer."
+    }
+  },
+  "2000000023": {
+    "displayProperties": {
+      "name": "Traquez le Cauchemar de Val Sinu, le Héraut des enfers",
+      "description": "Allez au Hall de sagesse et éliminez le Cauchemar de Val Sinu, le Héraut des enfers."
+    }
+  },
+  "2000000024": {
+    "displayProperties": {
+      "name": "Trouvez Toland",
+      "description": "Trouver Toland pour l'écouter parler de la Lune."
+    }
+  },
+  "2000000025": {
+    "displayProperties": {
+      "name": "Patrouille du Dépotoire de Saturne",
+      "description": "Traquez des ennemis de la Côte enchevêtrée."
+    }
+  },
+  "2000000026": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000027": {
+    "displayProperties": {
+      "name": "Récup au Dépotoire de Saturne",
+      "description": "Réquisitionnez des provisions de la Ruche."
+    }
+  },
+  "2000000028": {
+    "displayProperties": {
+      "name": "Contrat d'assassinat",
+      "description": "Trouvez et assassinez la Prêtresse de la Ruche."
+    }
+  },
+  "2000000029": {
+    "displayProperties": {
+      "name": "Enquêtez sur la Côte",
+      "description": "Rendez-vous au Canyon infernal et trouvez le moteur de Ketch déchu."
+    }
+  },
+  "2000000030": {
+    "displayProperties": {
+      "name": "Récup au Dépotoire de Saturne",
+      "description": "Réquisitionnez des provisions des Acolytes de la Ruche."
+    }
+  },
+  "2000000031": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance à l'Incision de Soriks."
+    }
+  },
+  "2000000032": {
+    "displayProperties": {
+      "name": "Pillage du Ravin aux quatre cornes",
+      "description": "Réquisitionnez des provisions des Déchus."
+    }
+  },
+  "2000000033": {
+    "displayProperties": {
+      "name": "Pillage du Ravin aux quatre cornes",
+      "description": "Réquisitionnez des provisions des Rebuts déchus."
+    }
+  },
+  "2000000034": {
+    "displayProperties": {
+      "name": "Contrat d'assassinat",
+      "description": "Trouvez et assassinez un Chef infâme."
+    }
+  },
+  "2000000035": {
+    "displayProperties": {
+      "name": "Patrouille du Ravin aux quatre cornes",
+      "description": "Traquez des ennemis de la Côte enchevêtrée."
+    }
+  },
+  "2000000036": {
+    "displayProperties": {
+      "name": "Enquêtez sur la Côte",
+      "description": "Rendez-vous aux Hautes plaines et trouvez la capsule cryo de la Prison des vétérans."
+    }
+  },
+  "2000000037": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Rendez-vous au Débarcadère des voleurs et trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000038": {
+    "displayProperties": {
+      "name": "Récupération à l'Incision de Soriks",
+      "description": "Récupérez des provisions des Légionnaires cabals."
+    }
+  },
+  "2000000039": {
+    "displayProperties": {
+      "name": "Contrat d'assassinat",
+      "description": "Trouvez et assassinez la Phalange cabale."
+    }
+  },
+  "2000000040": {
+    "displayProperties": {
+      "name": "Récupération à l'Incision de Soriks",
+      "description": "Récupérez des provisions des Légionnaires cabals."
+    }
+  },
+  "2000000041": {
+    "displayProperties": {
+      "name": "Patrouille de l'Incision de Soriks",
+      "description": "Traquez des ennemis de la Côte enchevêtrée."
+    }
+  },
+  "2000000042": {
+    "displayProperties": {
+      "name": "Enquêtez sur la Côte",
+      "description":"Rendez-vous à la Mine de Diaviks et trouvez le Skiff déchu."
+    }
+  },
+  "2000000043": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000044": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000045": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000046": {
+    "displayProperties": {
+      "name": "Récupération au Débarcadère des voleurs",
+      "description": "Réquisitionnez des provisions des Déchus."
+    }
+  },
+  "2000000047": {
+    "displayProperties": {
+      "name": "Patrouille au Débarcadère des voleurs",
+      "description": "Traquez des ennemis de la Côte enchevêtrée."
+    }
+  },
+  "2000000048": {
+    "displayProperties": {
+      "name": "Contrat d'assassinat",
+      "description": "Trouvez et assassinez la Fureur infâme."
+    }
+  },
+  "2000000049": {
+    "displayProperties": {
+      "name": "Récupération au Débarcadère des voleurs",
+      "description": "Réquisitionnez des provisions des Vandales déchus."
+    }
+  },
+  "2000000050": {
+    "displayProperties": {
+      "name": "Enquêtez sur la Côte",
+      "description": "Rendez vous au Puits des déserteurs et trouvez le Serviteur défunt."
+    }
+  },
+  "2000000051": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance."
+    }
+  },
+  "2000000052": {
+    "displayProperties": {
+      "name": "Surveillance sur la Côte",
+      "description": "Trouvez un bon poste de surveillance à l'Incision de Soriks."
+    }
+  },
+  "2000000053": {
+    "displayProperties": {
+      "name": "Rien n'est clair comme le crystal",
+      "description": "Analysez le gros cristal afin de savoir s'il est naturel ou synthétique."
+    }
+  },
+  "2000000054": {
+    "displayProperties": {
+      "name": "Hors service",
+      "description": "Analysez la plateforme centrale afin de savoir si elle a récemment été déplacée."
+    }
+  },
+  "2000000055": {
+    "displayProperties": {
+      "name": "Que la fête commence !",
+      "description": "Trouvez et éliminez l'Esprit photométrique."
+    }
+  },
+  "2000000056": {
+    "displayProperties": {
+      "name": "Décomposition thermique",
+      "description": "Trouvez et détruisez l'Esprit cumulatif."
+    }
+  },
+  "2000000057": {
+    "displayProperties": {
+      "name": "L'heure du bain",
+      "description": "Neutralisez tous les ennemis à la Citerne."
+    }
+  },
+  "2000000058": {
+    "displayProperties": {
+      "name": "Vandales de la citerne",
+      "description": "A la Citerne, récupérez les matrices de conversion des Vandales déchus."
+    }
+  },
+  "2000000059": {
+    "displayProperties": {
+      "name": "À moitié vide",
+      "description": "Neutralisez les Déchus à la Citerne et les réservoirs d'éther vidés."
+    }
+  },
+  "2000000060": {
+    "displayProperties": {
+      "name": "Des problèmes de calcul ?",
+      "description": "Approchez-vous de la carcasse du vaisseau afin d'en analyser la composition et d'y détecter des défauts structurels."
+    }
+  },
+  "2000000061": {
+    "displayProperties": {
+      "name": "Le meilleur des mondes",
+      "description": "Trouvez un endroit ombragé à l'Enchevêtrement et analysez le différentiel de température."
+    }
+  },
+  "2000000062": {
+    "displayProperties": {
+      "name": "Binaire et numérique",
+      "description": "Analysez les statues vex étranges afin d'en apprendre plus sur leur origine et leur utilité."
+    }
+  },
+  "2000000063": {
+    "displayProperties": {
+      "name": "Étude sphérique",
+      "description": "Analysez la sphère à demi terminée et comparez sa structure à celle d'un Serviteur déchu."
+    }
+  },
+  "2000000064": {
+    "displayProperties": {
+      "name": "Ombre acoustique",
+      "description": "Trouvez et détruisez l'Esprit d'atténuation."
+    }
+  },
+  "2000000065": {
+    "displayProperties": {
+      "name": "Contrôle mental",
+      "description": "Trouvez et neutralisez l'Esprit igné."
+    }
+  },
+  "2000000066": {
+    "displayProperties": {
+      "name": "Désarmement unilatéral",
+      "description": "Trouvez et éliminez l'Esprit nucléatif."
+    }
+  },
+  "2000000067": {
+    "displayProperties": {
+      "name": "Imbriglio",
+      "description": "Neutralisez les cibles à l'Enchevêtrement."
+    }
+  },
+  "2000000068": {
+    "displayProperties": {
+      "name": "Enchevêtrés de rouge",
+      "description": "Éliminez les Vex dans l'Enchevêtrement et récupérez les matrices de conversion qu'ils laissent derrière eux."
+    }
+  },
+  "2000000069": {
+    "displayProperties": {
+      "name": "Serpentez à travers l'Enchevêtrement",
+      "description": "Détruisez les Harpies vex dans l'Enchevêtrement et récupérez les capsules radiolaires."
+    }
+  },
+  "2000000070": {
+    "displayProperties": {
+      "name": "Spéléologie",
+      "description": "Observez attentivement l'écoulement des rivières radiolaires pour tenter d'en deviner l'embouchure."
+    }
+  },
+  "2000000071": {
+    "displayProperties": {
+      "name": "Une salle de classe ?",
+      "description": "Descendez dans l'amphithéâtre abandonné et analysez la à la recherche d'indices sur son utilité."
+    }
+  },
+  "2000000072": {
+    "displayProperties": {
+      "name": "Quel est cet endroit ?",
+      "description": "Analysez l'épave de la navette à l'Arête de la relique afin d'en savoir plus sur Nessos."
+    }
+  },
+  "2000000073": {
+    "displayProperties": {
+      "name": "Une longue descente",
+      "description": "Analysez le pilier en silicate pour vous assurer que ses fonctions principales sont désactivées."
+    }
+  },
+  "2000000074": {
+    "displayProperties": {
+      "name": "Les états de la matière",
+      "description": "Trouvez et détruisez l'Esprit liquide."
+    }
+  },
+  "2000000075": {
+    "displayProperties": {
+      "name": "Direction : la tombe",
+      "description": "Éliminez tous les ennemis dans la Tombe de l'Observateur."
+    }
+  },
+  "2000000076": {
+    "displayProperties": {
+      "name": "Radiolaire à mort",
+      "description": "Éliminez les Harpies vex sur la Tombe de l'Observateur et récupérez leurs capsules radiolaires."
+    }
+  },
+  "2000000077": {
+    "displayProperties": {
+      "name": "Pas comme ça",
+      "description": "Éliminez les Vex sur la Tombe de l'Observateur et récupérez les matrices de conversion qu'ils laissent derrière eux."
+    }
+  },
+  "2000000078": {
+    "displayProperties": {
+      "name": "Ne pas perdre la boule",
+      "description": "Sous une sphère parfaite, cherchez toute trace de résonance issue d'un passage de portail."
+    }
+  },
+  "2000000079": {
+    "displayProperties": {
+      "name": "Canopée garance",
+      "description": "Analysez les arbres étranges à l'Enchevêtrement."
+    }
+  },
+  "2000000080": {
+    "displayProperties": {
+      "name": "Attention où vous mettez les pieds",
+      "description": "Analysez les bords d'un large gouffre aux Sanctifications pour détecter des anomalies gravitationnelles."
+    }
+  },
+  "2000000081": {
+    "displayProperties": {
+      "name": "Chasse à l'Arête",
+      "description": "Éliminez tous les ennemis à l'Arête de la relique."
+    }
+  },
+  "2000000082": {
+    "displayProperties": {
+      "name": "Exploration des hauts et des bas",
+      "description": "Détruisez les Vex à l'Arête de la relique et récupérez les matrices de conversion qu'ils laissent derrière eux."
+    }
+  },
+  "2000000083": {
+    "displayProperties": {
+      "name": "Démêler la situation",
+      "description": "Analysez les 'arbres' hybrides dans l'Enchevêtrement afin de mesurer l'étendue des prouesses technologiques vex en matière de flore."
+    }
+  },
+  "2000000084": {
+    "displayProperties": {
+      "name": "Ne passez pas le flambeau",
+      "description": "Trouvez une source de chaleur et de lumière traditionnelle et cherchez à connaitre son utilité pour les Vex."
+    }
+  },
+  "2000000085": {
+    "displayProperties": {
+      "name": "Sous Vex",
+      "description": "Trouvez et éliminez l'Esprit spélaeothème."
+    }
+  },
+  "2000000086": {
+    "displayProperties": {
+      "name": "Faire le vide",
+      "description": "Détruisez des cibles aux Sanctifications."
+    }
+  },
+  "2000000087": {
+    "displayProperties": {
+      "name": "Des Sanctifications ?",
+      "description": "Récupérez les matrices de conversion des Vex vaincus aux Sanctifications."
+    }
+  },
+  "2000000088": {
+    "displayProperties": {
+      "name": "Des capsules aux Sanctifications",
+      "description": "Éliminez des Gobelins vex aux Sanctifications et récupérez les capsules radiolaires qu'ils laissent derrière eux."
+    }
+  },
+  "2000000089": {
+    "displayProperties": {
+      "name": "Il faut le voir pour le croire",
+      "description": "Prenez de la hauteur pour étudier l'épave de l'Exode noir dans la Clairière des échos."
+    }
+  },
+  "2000000090": {
+    "displayProperties": {
+      "name": "L'Observateur observé",
+      "description": "Inspectez la structure semblable à un amphithéâtre à la Tombe de l'Observateur afin d'y trouver des signes d'activité vex."
+    }
+  },
+  "2000000091": {
+    "displayProperties": {
+      "name": "Du sol au plafond",
+      "description": "Cherchez une formation mi-stalagmite mi-stalactite pour en analyser la structure."
+    }
+  },
+  "2000000092": {
+    "displayProperties": {
+      "name": "Le point de non-retour",
+      "description": "Trouvez et neutralisez le Pollueur d'ozone."
+    }
+  },
+  "2000000093": {
+    "displayProperties": {
+      "name": "Pas de quartier",
+      "description": "Éliminez toutes les cibles dans l'Exode noir."
+    }
+  },
+  "2000000094": {
+    "displayProperties": {
+      "name": "Tombés de haut",
+      "description": "Éliminez les ennemis déchus dans l'Exode noir et récupérez les matrices de conversion qu'ils ont volées."
+    }
+  },
+  "2000000095": {
+    "displayProperties": {
+      "name": "Pris aux rebuts",
+      "description": "Prenez les réservoirs d'éther vidés aux Rebuts déchus dans l'Exode noir."
+    }
+  },
+  "2000000096": {
+    "displayProperties": {
+      "name": "Mettez votre masque avant d'aider les autres",
+      "description": "Éliminez les Vandales déchus dans l'Exode noir et récupérez leur réservoirs d'éther vidés."
+    }
+  },
+  "2000000097": {
+    "displayProperties": {
+      "name": "Parmi les débris",
+      "description": "Inspectez les restes de l'épave du vaisseau colonisateur afin de trouver des différences significatives dans sa composition chimique."
+    }
+  },
+  "2000000098": {
+    "displayProperties": {
+      "name": "Insonorisation",
+      "description": "Neutralisez tous les ennemis à la Clairière des échos."
+    }
+  },
+  "2000000099": {
+    "displayProperties": {
+      "name": "Les échos de ce qu'il reste",
+      "description": "Récupérez les réservoirs d’éther vidés des Vandales déchus vaincus dans la Clairière des échos."
+    }
+  },
+  "2000000100": {
+    "displayProperties": {
+      "name": "Première conversion",
+      "description": "Éliminez les Déchus de la Clairière des échos et prenez les matrices de conversion qu'ils laissent derrière eux."
+    }
+  },
+  "2000000101": {
+    "displayProperties": {
+      "name": "C'est normal la flaque luminescente ?",
+      "description": "Inspectez les mystérieuses cascades de fluide radiolaire à la Citerne."
+    }
+  },
+  "2000000102": {
+    "displayProperties": {
+      "name": "Le Site du Crash",
+      "description": "Analysez les conteneurs de ravitaillement vides dans l'Exode noir afin d'y trouver des indices sur la raison de son destin funeste."
+    }
+  },
+  "2000000103": {
+    "displayProperties": {
+      "name": "Chroniqeur de l'histoire",
+      "description": "Faites une analyse en trois dimensions de la sculpture de l'époque précédant la Chute."
+    }
+  },
+  "2000000104": {
+    "displayProperties": {
+      "name": "Charogne",
+      "description": "Les Charognards déchus continuent de poser problème sur la place Maevic. Éliminez leur chef pour résoudre la situation."
+    }
+  },
+  "2000000105": {
+    "displayProperties": {
+      "name": "Opérations minières",
+      "description": "Descendez dans les mines et cherchez de la technologie de l'Âge d'or encore opérationnelle."
+    }
+  },
+  "2000000106": {
+    "displayProperties": {
+      "name": "Cela ne vous appartient pas",
+      "description": "Éliminer les Déchus à Trostland et récupérez les journaux oubliés qu'ils lâchent."
+    }
+  },
+  "2000000107": {
+    "displayProperties": {
+      "name": "Vol sur la ville",
+      "description": "Les Déchus maîtrisent mieux le terrain de la Bordure que l'humanité. Inversez la donne."
+    }
+  },
+  "2000000108": {
+    "displayProperties": {
+      "name": "Nettoyage des rues",
+      "description": "Éliminez les Rebuts à Trostland et récupérez leurs réservoirs d'éther vidés."
+    }
+  },
+  "2000000109": {
+    "displayProperties": {
+      "name": "Dans les profondeurs",
+      "description": "Un Serviteur déchu extirpe les minerais des murs de la grotte. Mettez-y un terme."
+    }
+  },
+  "2000000110": {
+    "displayProperties": {
+      "name": "Pas sur mes plates-bandes",
+      "description": "Éliminez tous les ennemis dans les rues et les bâtiments de cette ville abandonnée."
+    }
+  },
+  "2000000111": {
+    "displayProperties": {
+      "name": "De retour en ville",
+      "description": "Enquêtez sur les activités inhabituelles à Trostland."
+    }
+  },
+  "2000000112": {
+    "displayProperties": {
+      "name": "Analphabétisme déchu",
+      "description": "Éliminez les Déchus dans la Bordure et récupérez les journaux oubliés qu'ils lâchent."
+    }
+  },
+  "2000000113": {
+    "displayProperties": {
+      "name": "Camping",
+      "description": "Assurez-vous que l'équipement abandonné au campement du Navigateur est toujours opérationnel."
+    }
+  },
+  "2000000114": {
+    "displayProperties": {
+      "name": "Chars vandales",
+      "description": "Éliminez les Vandales déchus dans la Bordure et ramassez leurs réservoirs d'éther vidés."
+    }
+  },
+  "2000000115": {
+    "displayProperties": {
+      "name": "La plage au peigne fin",
+      "description": "Assurez-vous que la Légion rouge n'a pas pris plus de territoires dans la Crique sinueuse."
+    }
+  },
+  "2000000116": {
+    "displayProperties": {
+      "name": "Violence de banlieue",
+      "description": "Abattez les ennemis dans et autour de la Bordure."
+    }
+  },
+  "2000000117": {
+    "displayProperties": {
+      "name": "Recyclage de bouteilles",
+      "description": "Récupérez les réservoirs d'éther vidés des Rebuts de la Bordure."
+    }
+  },
+  "2000000118": {
+    "displayProperties": {
+      "name": "Terre !",
+      "description": "Fouillez la zone industrielle à la recherche des signes de l'avancée de la Légion rouge."
+    }
+  },
+  "2000000119": {
+    "displayProperties": {
+      "name": "Les affaires des autres",
+      "description": "Le Campement du Navigateur a été pris d'assaut par un commando de déchus. Trouvez leur chef et éliminez-le."
+    }
+  },
+  "2000000120": {
+    "displayProperties": {
+      "name": "Pollution invisible",
+      "description": "Récupérez les réservoirs d'éther vidés sur les Déchus ennemis de la Crique sinueuse."
+    }
+  },
+  "2000000121": {
+    "displayProperties": {
+      "name": "Eaux troubles",
+      "description": "Éliminez les forces ennemies dans la Crique sinueuse."
+    }
+  },
+  "2000000122": {
+    "displayProperties": {
+      "name": "Retour aux bases",
+      "description": "Placez-vous en hauteur et gardez un œil sur les mouvements de la Légion rouge."
+    }
+  },
+  "2000000123": {
+    "displayProperties": {
+      "name": "Nettoyage de la plage",
+      "description": "Neutralisez les Rebuts déchus dans la Crique sinueuse et récupérez leurs réservoirs d'éther vidés."
+    }
+  },
+  "2000000124": {
+    "displayProperties": {
+      "name": "La colline a vos yeux",
+      "description": "L'action des Déchus s'est clamée récemment. Inspectez la zone pour vérifier si 'pas de nouvelle' veut bien dire 'bonne nouvelle'."
+    }
+  },
+  "2000000125": {
+    "displayProperties": {
+      "name": "Une action fragmentée",
+      "description": "Accédez au réseau de recherche et essayez de comprendre ce que la Légion rouge veut faire avec le Fragment."
+    }
+  },
+  "2000000126": {
+    "displayProperties": {
+      "name": "Un peu de répit",
+      "description": "Inspectez les zones côtières et tâchez d'en apprendre plus."
+    }
+  },
+  "2000000127": {
+    "displayProperties": {
+      "name": "Oxygénation du cerveau",
+      "description": "Éliminez les Psions de la Légion rouge dans le Fort d'Hadès et récupérez les provisions qu'ils laissent tomber."
+    }
+  },
+  "2000000128": {
+    "displayProperties": {
+      "name": "Feu d'artifice du Fort",
+      "description": "Neutralisez tout ce qui bouge autour du Fort d'Hadès."
+    }
+  },
+  "2000000129": {
+    "displayProperties": {
+      "name": "Sous les surfaces",
+      "description": "Allez voir les dégâts causés par les Corrompus dans le Ravin."
+    }
+  },
+  "2000000130": {
+    "displayProperties": {
+      "name": "Tir accidentel",
+      "description": "Chassez le chef des forces d'artillerie du Fort de la Légion rouge."
+    }
+  },
+  "2000000131": {
+    "displayProperties": {
+      "name": "Approvisionnement",
+      "description": "Récupérez les provisions de la Légion rouge que les Légionnaires laissent tomber dans le Fort d'Hadès."
+    }
+  },
+  "2000000132": {
+    "displayProperties": {
+      "name": "Sur terre comme sur mer",
+      "description": "Éliminez les cibles dans la zone autour de la Soute de l’Égéon."
+    }
+  },
+  "2000000133": {
+    "displayProperties": {
+      "name": "Provisions submergées",
+      "description": "Neutralisez les Légionnaires dans les îles immergées et récupérez leurs provisions."
+    }
+  },
+  "2000000134": {
+    "displayProperties": {
+      "name": "Caché dans sa grotte",
+      "description": "Analysez les générateurs du transport blindé pour trouver des points faibles."
+    }
+  },
+  "2000000135": {
+    "displayProperties": {
+      "name": "Feu dans les profondeurs",
+      "description": "Une confrontation incendiaire vous attend dans les tunnels. Éliminez la cible dangereuse."
+    }
+  },
+  "2000000136": {
+    "displayProperties": {
+      "name": "Travailler plus, réfléchir plus",
+      "description": "Récupérez les provisions de la Légion rouge gardées par les Psions dans les îles immergées."
+    }
+  },
+  "2000000137": {
+    "displayProperties": {
+      "name": "Dans la boîte",
+      "description": "Approchez-vous du conteneur et essayez de voir ce qu'il y a à l'intérieur."
+    }
+  },
+  "2000000138": {
+    "displayProperties": {
+      "name": "En garde, sécurité !",
+      "description": "Neutralisez les officiers de la Légion rouge qui supervisent la sécurité de la zone."
+    }
+  },
+  "2000000139": {
+    "displayProperties": {
+      "name": "Pavé de bonnes intentions",
+      "description": "Explorez la zone pour vous préparer à de futurs combats avec la Légion rouge."
+    }
+  },
+  "2000000140": {
+    "displayProperties": {
+      "name": "Claustrophobie",
+      "description": "Cherchez les faiblesses structurelles sur les piliers."
+    }
+  },
+  "2000000141": {
+    "displayProperties": {
+      "name": "Pas de provisions pour la Légion",
+      "description": "Prenez les provisions de la Légion rouge aux Légionnaires dans le Ravin."
+    }
+  },
+  "2000000142": {
+    "displayProperties": {
+      "name": "Combat souterrain",
+      "description": "Trouvez la nouvelle Phalange responsable des tunnels et éliminez-le."
+    }
+  },
+  "2000000143": {
+    "displayProperties": {
+      "name": "Quelque chose de plus raffiné",
+      "description": "Inspectez les raffineries aux alentours pour obtenir des informations sur le comportement de la Légion rouge."
+    }
+  },
+  "2000000144": {
+    "displayProperties": {
+      "name": "Sale boulot",
+      "description": "Repoussez tous les ennemis en dehors du Ravin, quel qu'en soit le coût."
+    }
+  },
+  "2000000145": {
+    "displayProperties": {
+      "name": "Transport fluvial",
+      "description": "Éliminez les Psions dans le Ravin et récupérez toutes les provisions qu'ils laissent tomber."
+    }
+  },
+  "2000000146": {
+    "displayProperties": {
+      "name": "Vous seul pouvez l'empêcher",
+      "description": "Les ennemis corrompus menacent de couvrir d'ombre la ZME. Arrêtez ce processus à la source."
+    }
+  },
+  "2000000147": {
+    "displayProperties": {
+      "name": "Il faut se mouiller",
+      "description": "Un terrain accidenté constitue un champ de bataille imprévisible. Explorez les terrains boueux pour éviter cela."
+    }
+  },
+  "2000000148": {
+    "displayProperties": {
+      "name": "Ami de la nature",
+      "description": "Analysez la zone à la recherche d'anomalies d'énergie de Corrompus."
+    }
+  },
+  "2000000149": {
+    "displayProperties": {
+      "name": "C'est pour vos biens",
+      "description": "Éliminez les Légionnaires dans le Bourbier et récupérez les provisions de la Légion rouge qu'ils laissent derrière eux."
+    }
+  },
+  "2000000150": {
+    "displayProperties": {
+      "name": "Accostage",
+      "description": "Déplacez-vous parmi les véhicules abandonnés et les débris éparpillés et ouvrez l’œil."
+    }
+  },
+  "2000000151": {
+    "displayProperties": {
+      "name": "Guerre industrielle",
+      "description": "Attaquez et détruisez toutes les cibles dans le Bourbier."
+    }
+  },
+  "2000000152": {
+    "displayProperties": {
+      "name": "Une histoire d'environnement",
+      "description": "Récupérer les journaux oubliés sur les membres de la Légion rouge dans le Bourbier."
+    }
+  },
+  "2000000153": {
+    "displayProperties": {
+      "name": "Par ici les provisions",
+      "description": "Abattez les Psions de la Légion rouge dans le Bourbier et récupérez les provisions qu'ils laissent derrière eux."
+    }
+  },
+  "2000000154": {
+    "displayProperties": {
+      "name": "Éliminez des combattants",
+      "description": "Éliminez des combattants au Poste de l'archer."
+    }
+  },
+  "2000000155": {
+    "displayProperties": {
+      "name": "Éliminez des combattants",
+      "description": "Éliminez tous les combattants à l'ancre de Lumière."
+    }
+  },
+  "2000000156": {
+    "displayProperties": {
+      "name": "Éliminez des combattants",
+      "description": "Éliminez des combattants au Gouffre des Enfers."
+    }
+  },
+  "2000000157": {
+    "displayProperties": {
+      "name": "Récupérez des Provisions",
+      "description": "Éliminez des Esclaves de la Ruche pour récupérer des Tablettes runiques."
+    }
+  },
+  "2000000163": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000164": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000165": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000168": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000169": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000170": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000176": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000177": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000180": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000181": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000186": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000187": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000188": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000189": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000190": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000191": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000192": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000193": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000195": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000196": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000197": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000198": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000199": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000200": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000201": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000202": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000203": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000204": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 }
 }
