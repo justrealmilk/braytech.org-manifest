@@ -3671,5 +3671,19 @@
   "2000000201": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
   "2000000202": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
   "2000000203": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000204": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 }
+  "2000000204": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000215": {
+    "displayProperties": {
+      "name": "Field Assignment: Salvage",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4
+  },
+  "2000000230": {
+    "displayProperties": {
+      "name": "Field Assignment: Salvage",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4
+  }
 }
