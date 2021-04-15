@@ -1285,5 +1285,21 @@
   "2000000201": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
   "2000000202": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
   "2000000203": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000204": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 }
+  "2000000204": { "displayProperties": { "name": "Aléatoire", "description": "Cette balise peut relayer différents objectifs.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000215": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Récupération",
+      "description":"Récup sur la Rive",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4
+  },
+  "2000000230": {
+    "displayProperties": {
+      "name": "Affectation sur le terrain : Récupération",
+      "description": "Réquisitionnez des provisions des Rôdeurs Infâmes",
+      "icon": "patrol-salvage"
+    },
+    "typeHash": 4
+  }
 }
