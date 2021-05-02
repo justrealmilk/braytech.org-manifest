@@ -57,11 +57,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474576, 1084474577, 1084474591]
+          "checklistItems": [
+            1084474576,
+            1084474577,
+            1084474591
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596463]
+          "checklistItems": [
+            1387596463
+          ]
         }
       ]
     },
@@ -105,11 +111,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
+          "checklistItems": [
+            1034141726,
+            1067696996,
+            1067696997,
+            1067696998,
+            1084474590
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596460]
+          "checklistItems": [
+            1387596460
+          ]
         }
       ]
     },
@@ -153,11 +167,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
+          "checklistItems": [
+            1067696992,
+            1067696993,
+            1067696999,
+            1067697005,
+            1084474583
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818879]
+          "checklistItems": [
+            1370818879
+          ]
         }
       ]
     }
@@ -197,11 +219,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
+          "checklistItems": [
+            1084474578,
+            1084474579,
+            1118029876,
+            1118029877,
+            1118029882
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596457]
+          "checklistItems": [
+            1387596457
+          ]
         }
       ]
     },
@@ -245,11 +275,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474580, 1084474581, 1084474582]
+          "checklistItems": [
+            1084474580,
+            1084474581,
+            1084474582
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818878]
+          "checklistItems": [
+            1370818878
+          ]
         }
       ]
     },
@@ -294,11 +330,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696994, 1067696995, 1067697004]
+          "checklistItems": [
+            1067696994,
+            1067696995,
+            1067697004
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818866]
+          "checklistItems": [
+            1370818866
+          ]
         }
       ]
     }
@@ -1162,6 +1204,36 @@
     "extended": {
       "video": "https://www.youtube.com/watch?v=p-tlrW96Y0M"
     }
+  },
+  "154": {
+    "checklistHash": 1000002001,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002001.jpg",
+    "extended": {}
+  },
+  "155": {
+    "checklistHash": 1000002002,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002002.jpg",
+    "extended": {}
+  },
+  "156": {
+    "checklistHash": 1000002003,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002003.jpg",
+    "extended": {}
+  },
+  "157": {
+    "checklistHash": 1000002004,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002004.jpg",
+    "extended": {}
+  },
+  "158": {
+    "checklistHash": 1000002005,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002005.jpg",
+    "extended": {}
+  },
+  "159": {
+    "checklistHash": 1000002006,
+    "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002006.jpg",
+    "extended": {}
   },
   "178": {
     "checklistHash": 4062796495,
@@ -3644,34 +3716,230 @@
     },
     "typeHash": 4
   },
-  "2000000163": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000164": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000165": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000168": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000169": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000170": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000176": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000177": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000180": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000181": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000186": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000187": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000188": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000189": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000190": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000191": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000192": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000193": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000195": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000196": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000197": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000198": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000199": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000200": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000201": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000202": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000203": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
-  "2000000204": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000163": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000164": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000165": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000168": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000169": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000170": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000176": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000177": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000180": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000181": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000186": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000187": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000188": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000189": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000190": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000191": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000192": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000193": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000195": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000196": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000197": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000198": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000199": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000200": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000201": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000202": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000203": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000204": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
   "2000000215": {
     "displayProperties": {
       "name": "Field Assignment: Salvage",
