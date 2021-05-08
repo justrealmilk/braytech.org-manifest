@@ -106,7 +106,7 @@
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
-      "description": "Эло рейтинг с стороннего веб сайта _Destiny Tracker_. _Destiny Tracker_ начисляет Elo рейтинг всем игрокам Destiny, которые играли в _Горнило_ и _Гамбит_."
+      "description": "Текущий эло рейтинг игрока.\n\nЭло рейтинг с стороннего веб сайта _Destiny Tracker_. _Destiny Tracker_ начисляет Elo рейтинг всем игрокам Destiny, которые играли в _Горнило_ и _Гамбит_."
     }
   },
   "braytech_purple_rune": {
@@ -185,6 +185,12 @@
     "displayProperties": {
       "name": "Неизвестная ошибка",
       "description": "Произошла ошибка при обработке этой подсказки.\n\nВероятно, это временная ошибка. Просим прощения."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Устаревший профиль.",
+      "description": "Данные профиля устарели. Это означает, что фоновые обновления приостановлены по причине неактивности либо невозможности получить ответ от серверов Bungie в данный момент."
     }
   }
 }
