@@ -55,6 +55,12 @@
       "description": "Fight for Valor by capturing zones and defeating opponents."
     }
   },
+  "31990984800": {
+    "displayProperties": {
+      "name":"Momentum Control",
+      "description": "Fight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled."
+    }
+  },
   "4078439804": {
     "displayProperties": {
       "description": "Fight for Valor by eliminating all opponents in this round-based mode. Don't forget to revive your fellow Guardians."
