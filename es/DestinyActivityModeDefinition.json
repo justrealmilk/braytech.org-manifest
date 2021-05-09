@@ -55,6 +55,12 @@
       "description": "Lucha por Valor capturando zonas y derrotando oponentes."
     }
   },
+  "31990984800": {
+    "displayProperties": {
+      "name":"Control de impulso",
+      "description": "Lucha por Valor capturando zonas y derrotando oponentes. Todas las armas son más letales, las habilidades solo se recargan con bajas y el rastreador está desactivado."
+    }
+  },
   "4078439804": {
     "displayProperties": {
       "description": "Lucha por Valor eliminando a todos los oponentes en este modo de juego por rondas. No te olvides de revivir a tus compañeros Guardianes."
