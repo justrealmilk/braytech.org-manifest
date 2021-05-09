@@ -97,7 +97,7 @@
   },
   "17": {
     "displayProperties": {
-      "name": "Pesadilla of Horkis, Miedo de Mithrax",
+      "name": "Pesadilla de Horkis, Miedo de Mithrax",
       "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
     }
   },
@@ -303,6 +303,474 @@
   "606": {
     "displayProperties": {
       "description": "Requiere armonización "
+    }
+  },
+  "2000000000": {
+    "displayProperties": {
+      "name": "Misión de campo: Asesinato"
+    }
+  },
+  "2000000001": {
+    "displayProperties": {
+      "name": "Misión de campo: Salvamento"
+    }
+  },
+  "2000000002": {
+    "displayProperties": {
+      "name": "Misión de campo: Peregrinaje"
+    }
+  },
+  "2000000003": {
+    "displayProperties": {
+      "name": "Misión de campo: Servicio activo"
+    }
+  },
+  "2000000004": {
+    "displayProperties": {
+      "name": "Misión de campo: Servicio activo"
+    }
+  },
+  "2000000005": {
+    "displayProperties": {
+      "name": "Misión de campo: Salvamento"
+    }
+  },
+  "2000000006": {
+    "displayProperties": {
+      "name": "Misión de campo: Asesinato"
+    }
+  },
+  "2000000007": {
+    "displayProperties": {
+      "name": "Misión de campo: Peregrinaje"
+    }
+  },
+  "2000000008": {
+    "displayProperties": {
+      "name": "Misión de campo: Asesinato"
+    }
+  },
+  "2000000009": {
+    "displayProperties": {
+      "name": "Misión de campo: Servicio activo"
+    }
+  },
+  "2000000010": {
+    "displayProperties": {
+      "name": "Misión de campo: Salvamento"
+    }
+  },
+  "2000000011": {
+    "displayProperties": {
+      "name": "Misión de campo: Peregrinaje"
+    }
+  },
+  "2000000012": {
+    "displayProperties": {
+      "name": "Encuentra a Toland",
+      "description": "Busca a Toland para escuchar sus reflexiones sobre la Luna."
+    }
+  },
+  "2000000013": {
+    "displayProperties": {
+      "name": "Derrota combatientes"
+    }
+  },
+  "2000000014": {
+    "displayProperties": {
+      "name": "Da caza a la Pesadilla de Volniks, Guardián de la muerte"
+    }
+  },
+  "2000000015": {
+    "displayProperties": {
+      "name": "Obtén suministros"
+    }
+  },
+  "2000000016": {
+    "displayProperties": {
+      "name": "Da caza a la Pesadilla de Talgoth, Aplastaalmas",
+      "description": "Ve a La Antesala y derrota la Pesadilla de Talgoth, Aplastaalmas."
+    }
+  },
+  "2000000017": {
+    "displayProperties": {
+      "name": "Encuentra a Toland",
+      "description": "Busca a Toland para escuchar sus reflexiones sobre la Luna."
+    }
+  },
+  "2000000018": {
+    "displayProperties": {
+      "name": "Obtén suministros"
+    }
+  },
+  "2000000019": {
+    "displayProperties": {
+      "name": "Da caza a la Pesadilla de Lambiks-4"
+    }
+  },
+  "2000000020": {
+    "displayProperties": {
+      "name": "Encuentra a Toland",
+      "description": "Busca a Toland para escuchar sus reflexiones sobre la Luna."
+    }
+  },
+  "2000000021": {
+    "displayProperties": {
+      "name": "Obtén suministros"
+    }
+  },
+  "2000000022": {
+    "displayProperties": {
+      "name": "Derrota combatientes"
+    }
+  },
+  "2000000023": {
+    "displayProperties": {
+      "name": "Da caza a la Pesadilla de Val Sinu, el Infernal"
+    }
+  },
+  "2000000024": {
+    "displayProperties": {
+      "name": "Encuentra a Toland",
+      "description": "Busca a Toland para escuchar sus reflexiones sobre la Luna."
+    }
+  },
+  "2000000025": {
+    "displayProperties": {
+      "name": "Misión de combate"
+    }
+  },
+  "2000000026": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000027": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000028": {
+    "displayProperties": {
+      "name": "Misión de asesinato"
+    }
+  },
+  "2000000029": {
+    "displayProperties": {
+      "name": "Misión de análisis"
+    }
+  },
+  "2000000030": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000031": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000032": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000033": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000034": {
+    "displayProperties": {
+      "name": "Misión de asesinato"
+    }
+  },
+  "2000000035": {
+    "displayProperties": {
+      "name": "Misión de combate"
+    }
+  },
+  "2000000036": {
+    "displayProperties": {
+      "name": "Misión de análisis"
+    }
+  },
+  "2000000037": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000038": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000039": {
+    "displayProperties": {
+      "name": "Misión de asesinato"
+    }
+  },
+  "2000000040": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000041": {
+    "displayProperties": {
+      "name": "Misión de combate"
+    }
+  },
+  "2000000042": {
+    "displayProperties": {
+      "name": "Misión de análisis"
+    }
+  },
+  "2000000043": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000044": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000045": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000046": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000047": {
+    "displayProperties": {
+      "name": "Misión de combate"
+    }
+  },
+  "2000000048": {
+    "displayProperties": {
+      "name": "Misión de asesinato"
+    }
+  },
+  "2000000049": {
+    "displayProperties": {
+      "name": "Misión de salvamento"
+    }
+  },
+  "2000000050": {
+    "displayProperties": {
+      "name": "Misión de análisis"
+    }
+  },
+  "2000000051": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000052": {
+    "displayProperties": {
+      "name": "Misión de reconocimiento"
+    }
+  },
+  "2000000154": {
+    "displayProperties": {
+      "name": "Derrota combatientes"
+    }
+  },
+  "2000000155": {
+    "displayProperties": {
+      "name": "Derrota combatientes"
+    }
+  },
+  "2000000156": {
+    "displayProperties": {
+      "name": "Derrota combatientes"
+    }
+  },
+  "2000000157": {
+    "displayProperties": {
+      "name": "Obtén suministros"
+    }
+  },
+  "2000000163": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000164": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000165": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000168": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000169": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000170": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000176": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000177": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000180": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000181": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000186": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000187": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000188": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000189": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000190": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000191": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000192": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000193": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000195": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000196": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000197": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000198": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000199": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000200": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000201": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000202": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000203": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000204": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000215": {
+    "displayProperties": {
+      "name": "Misión de campo: Salvamento"
+    }
+  },
+  "2000000230": {
+    "displayProperties": {
+      "name": "Misión de campo: Salvamento"
     }
   }
 }
