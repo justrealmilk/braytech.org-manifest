@@ -51,6 +51,11 @@
       "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
     }
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Increases your clan's experience"
@@ -117,6 +122,11 @@
     "displayProperties": {
       "name": "Pinnacle Gear (Weak)",
       "hasIcon": false
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthcord material which can be converted to Synthweave using the Loom."
     }
   }
 }
