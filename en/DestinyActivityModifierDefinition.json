@@ -22,5 +22,23 @@
       "name": "The Throne",
       "description": "COME— I will congratulate you, personally..."
     }
+  },
+  "25589576690": {
+    "displayProperties": {
+      "name": "Solar Shields",
+      "description": "This activity has Solar shields"
+    }
+  },
+  "32153845200": {
+    "displayProperties": {
+      "name": "Arc Shields",
+      "description": "This activity has Arc shields"
+    }
+  },
+  "33620748140": {
+    "displayProperties": {
+      "name": "Void Shields",
+      "description": "This activity has Void shields"
+    }
   }
 }
