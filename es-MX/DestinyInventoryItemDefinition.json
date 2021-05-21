@@ -41,6 +41,11 @@
       "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
     }
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Infamia de tu Guardián. No se lo cuentes a la Vanguardia."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta la experiencia de tu clan"
@@ -62,6 +67,11 @@
   "73143230001": {
     "displayProperties": {
       "name": "Equipamiento hito (débil)"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Cordel sintético suave que puede convertirse en Tejido sintético usando el Telar."
     }
   }
 }
