@@ -29,6 +29,12 @@
       "hasIcon": true
     }
   },
+  "250211794": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/10eb188aae222806131864097a012b57.jpg",
+      "hasIcon": true
+    }
+  },
   "252263460": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/5d835716e5298a974f93098bfc66ab1d.jpg",
@@ -314,12 +320,6 @@
   "3968841949": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/5106f4624da0a5ff26b97702547fc282.jpg",
-      "hasIcon": true
-    }
-  },
-  "3972260545": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/10eb188aae222806131864097a012b57.jpg",
       "hasIcon": true
     }
   },
