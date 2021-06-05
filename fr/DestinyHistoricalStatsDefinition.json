@@ -1,6 +1,6 @@
 {
   "killsDeathsRatio": {
-    "statName": "E/M"
+    "statName": "F/M"
   },
   "winRate": {
     "statName": "Ratio de victoires"
@@ -15,16 +15,16 @@
     "statName": "Taux sécurisé"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Eliminés sécurisés"
+    "statName": "Frags sécurisés"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Eliminés alliés sécurisés"
+    "statName": "Frags alliés sécurisés"
   },
   "highValueKills": {
-    "statName": "Eliminés de grande valeur"
+    "statName": "Frags de grande valeur"
   },
   "invasionKills": {
-    "statName": "Eliminés en tant qu'Intru"
+    "statName": "Frags en tant qu'Intru"
   },
   "invasionDeaths": {
     "statName": "Morts en tant qu'Intru"
@@ -69,7 +69,7 @@
     "statName": "Elo"
   },
   "opponentsDefeated": {
-    "statName": "Éliminés + Assistances"
+    "statName": "Frags + Assistances"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "En équipe, battez tous les Gardiens adverses au moins une fois pendant la Chasse."
