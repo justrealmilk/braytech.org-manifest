@@ -36,7 +36,7 @@
   },
   "11647605040": {
     "displayProperties": {
-      "name":"Toute l'Epreuve",
+      "name":"Toute l'Épreuve",
       "description": "Avez vous lancer assez de grenades ?"
     }
   },
@@ -47,17 +47,23 @@
   },
   "1585787840": {
     "displayProperties": {
-      "description": "Combattez avec Courage en battant vos adversaires."
+      "description": "Combattez pour le Courage en battant vos adversaires."
     }
   },
   "3199098480": {
     "displayProperties": {
-      "description": "Combattez avec Courage en capturant des zones et en battant vos adversaires."
+      "description": "Combattez pour le Courage en capturant des zones et en battant vos adversaires."
+    }
+  },
+  "31990984800": {
+    "displayProperties": {
+      "name":"Domination et impulsion",
+      "description": "Combattez pour le Courage en capturant des zones et en battant vos adversaires. Toutes les armes sont plus meurtrières, les capacités ne se reconstituent qu'en faisant des frags et le radar est désactivé."
     }
   },
   "4078439804": {
     "displayProperties": {
-      "description": "Combattez avec Courage en éliminant tous les adversaires dans ce mode basé par tour. N'oubliez pas de faire revivre vos camarades Gardiens."
+      "description": "Combattez pour le Courage en éliminant tous les adversaires dans ce mode basé par tour. N'oubliez pas de faire revivre vos camarades Gardiens."
     }
   },
   "1826469369": {
@@ -72,7 +78,7 @@
   },
   "157639802": {
     "displayProperties": {
-      "description": "Combattez avec Courage en battant vos adversaires. Pas d'équipes. Aucune allégeance. Un Chacun-pour-soi où le leader ferait mieux de surveiller leurs arrières."
+      "description": "Combattez pour le Courage en battant vos adversaires. Pas d'équipes. Aucune allégeance. Un Chacun-pour-soi où le leader ferait mieux de surveiller leurs arrières."
     }
   },
   "2239249083": {
