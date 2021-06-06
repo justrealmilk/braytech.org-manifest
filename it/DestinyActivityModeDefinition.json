@@ -36,7 +36,7 @@
   },
   "11647605040": {
     "displayProperties": {
-      "name":"Crogiolo",
+      "name": "Crogiolo",
       "description": "Hai lanciato abbastanza granate?"
     }
   },
@@ -53,6 +53,12 @@
   "3199098480": {
     "displayProperties": {
       "description": "Combatti per il Valore catturando le zone e sconfiggendo gli avversari."
+    }
+  },
+  "31990984800": {
+    "displayProperties": {
+      "name": "Controllo Impetuoso",
+      "description": "Combatti per il Valore catturando le zone e sconfiggendo gli avversari. Tutte le armi sono più letali, le abilità si ricaricano solo con uccisioni e il radar è disattivato."
     }
   },
   "4078439804": {

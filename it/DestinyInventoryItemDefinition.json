@@ -51,6 +51,11 @@
       "description": "Aumenta il grado di valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
     }
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Aumenta il grado di infamia del tuo Guardiano. Non dirlo all'Avanguardia."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo clan"
@@ -72,6 +77,11 @@
   "73143230001": {
     "displayProperties": {
       "name": "Armamento di punta (debole)"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Materiale di Sintospago che può essere convertito in Sintostoffa tramite il Telaio."
     }
   }
 }
