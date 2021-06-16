@@ -323,5 +323,47 @@
       "name": "Stale Profile",
       "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment."
     }
+  },
+  "sub-active-triumphs": {
+    "displayProperties": {
+      "name": "Active Triumphs and Seals",
+      "description": "View all active Triumphs and Seals."
+    }
+  },
+  "sub-legacy-triumphs": {
+    "displayProperties": {
+      "name": "Legacy Triumphs and Seals",
+      "description": "View a collection of legacy Triumphs and Seals."
+    }
+  },
+  "sub-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
+    }
+  },
+  "sub-medals": {
+    "displayProperties": {
+      "name": "Medals",
+      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned."
+    }
+  },
+  "sub-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Exotic Catalysts",
+      "description": "Exotic catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential."
+    }
+  },
+  "sub-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs."
+    }
+  },
+  "sub-metrics": {
+    "displayProperties": {
+      "name": "Stat Trackers",
+      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible."
+    }
   }
 }
