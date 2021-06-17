@@ -192,5 +192,47 @@
       "name": "Dati obsoleti",
       "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie."
     }
+  },
+  "sub-active-triumphs": {
+    "displayProperties": {
+      "name": "Active Triumphs and Seals",
+      "description": "View all active Triumphs and Seals."
+    }
+  },
+  "sub-legacy-triumphs": {
+    "displayProperties": {
+      "name": "Trionfi e sigilli storici",
+      "description": "Vedi una collezione di trionfi e sigilli storici."
+    }
+  },
+  "sub-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Sfide stagionali",
+      "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense."
+    }
+  },
+  "sub-medals": {
+    "displayProperties": {
+      "name": "Medaglie",
+      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate."
+    }
+  },
+  "sub-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Catalizzatori esotici",
+      "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale."
+    }
+  },
+  "sub-lore": {
+    "displayProperties": {
+      "name": "Leggende",
+      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi."
+    }
+  },
+  "sub-metrics": {
+    "displayProperties": {
+      "name": "Contatori statistiche",
+      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile."
+    }
   }
 }
