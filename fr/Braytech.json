@@ -126,5 +126,47 @@
       "name": "Profil périmé",
       "description": "Les données de profil sont périmées. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas réussi à atteindre les serveurs de Bungie pour le moment."
     }
+  },
+  "sub-active-triumphs": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux actifs",
+      "description": "Voir tous les triomphes et sceaux actifs."
+    }
+  },
+  "sub-legacy-triumphs": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux du passé",
+      "description": "Voir une collection de triomphes et de sceaux passés."
+    }
+  },
+  "sub-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Défis Saisonniers",
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses."
+    }
+  },
+  "sub-medals": {
+    "displayProperties": {
+      "name": "Médailles",
+      "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées."
+    }
+  },
+  "sub-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Catalyseurs exotiques",
+      "description": "Les catalyseurs exotiques augmentent la puissance de vos armes exotiques. Trouvez-les et terminez leurs objectifs pour libérer tout le potentiel de votre arsenal."
+    }
+  },
+  "sub-lore": {
+    "displayProperties": {
+      "name": "Légendes",
+      "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes."
+    }
+  },
+  "sub-metrics": {
+    "displayProperties": {
+      "name": "Traqueurs de statistiques",
+      "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles."
+    }
   }
 }
