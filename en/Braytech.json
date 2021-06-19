@@ -401,5 +401,41 @@
       "name": "Relationships",
       "description": "See which clan members you dedicate your time to."
     }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "name": "Equipment",
+      "description": "Evaulate your Guardian's battle readiness."
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items."
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Consumables",
+      "description": "Supplies and materials that can be used to enhance your Guardian and their gear."
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters."
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Carnage",
+      "description": "All of the selected Guardian's recent activities"
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
   }
 }
