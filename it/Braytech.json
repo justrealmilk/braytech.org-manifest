@@ -193,46 +193,82 @@
       "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie."
     }
   },
-  "sub-active-triumphs": {
+  "sub-triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
       "description": "Vedi tutti i trionfi e sigilli attivi."
     }
   },
-  "sub-legacy-triumphs": {
+  "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Trionfi e sigilli storici",
       "description": "Vedi una collezione di trionfi e sigilli storici."
     }
   },
-  "sub-seasonal-challenges": {
+  "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Sfide stagionali",
       "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense."
     }
   },
-  "sub-medals": {
+  "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Medaglie",
       "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate."
     }
   },
-  "sub-exotic-catalysts": {
+  "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
       "name": "Catalizzatori esotici",
       "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale."
     }
   },
-  "sub-lore": {
+  "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Leggende",
       "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi."
     }
   },
-  "sub-metrics": {
+  "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Contatori statistiche",
       "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile."
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Informazioni sul tuo clan e su cosa rappresenta."
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Membri",
+      "description": "Trova amici con cui giocare."
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Amministrazione",
+      "description": "Amministra questioni e membri del clan."
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Statistiche storiche",
+      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan."
+    }
+  },
+  "sub-clan-timetable": {
+    "displayProperties": {
+      "name": "Programmazione",
+      "description": "Metti per iscritto gli eventi del clan e rendili ufficiali."
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Relazioni",
+      "description": "Scopri a quali membri del clan dedichi il tuo tempo."
     }
   }
 }
