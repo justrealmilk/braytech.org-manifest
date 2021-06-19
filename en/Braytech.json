@@ -324,46 +324,82 @@
       "description": "Profile data is stale. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment."
     }
   },
-  "sub-active-triumphs": {
+  "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
       "description": "View all active Triumphs and Seals."
     }
   },
-  "sub-legacy-triumphs": {
+  "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Legacy Triumphs and Seals",
       "description": "View a collection of legacy Triumphs and Seals."
     }
   },
-  "sub-seasonal-challenges": {
+  "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
     }
   },
-  "sub-medals": {
+  "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Medals",
       "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned."
     }
   },
-  "sub-exotic-catalysts": {
+  "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
       "name": "Exotic Catalysts",
       "description": "Exotic catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential."
     }
   },
-  "sub-lore": {
+  "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Lore",
       "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs."
     }
   },
-  "sub-metrics": {
+  "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Stat Trackers",
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible."
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "About your clan and what it stands for."
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Roster",
+      "description": "Find friends to play with."
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Administration",
+      "description": "Take action on clan matters and members."
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Historical Stats",
+      "description": "Compare _Historical Stats_ for several activity modes across all clan members."
+    }
+  },
+  "sub-clan-timetable": {
+    "displayProperties": {
+      "name": "Timetable",
+      "description": "Put clan events down on paper and make it official."
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Relationships",
+      "description": "See which clan members you dedicate your time to."
     }
   }
 }
