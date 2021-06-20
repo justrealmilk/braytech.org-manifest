@@ -1,0 +1,14 @@
+{
+  "14342153471": {
+    "displayProperties": {
+      "name": "Taglie",
+      "description": "Tutte le taglie del Guardiano selezionato"
+    }
+  },
+  "14342153470": {
+    "displayProperties": {
+      "name": "Imprese",
+      "description": "Tutte le imprese del Guardiano selezionato"
+    }
+  }
+}

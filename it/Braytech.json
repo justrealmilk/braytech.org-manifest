@@ -270,5 +270,41 @@
       "name": "Relazioni",
       "description": "Scopri a quali membri del clan dedichi il tuo tempo."
     }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "name": "Equipaggiamento",
+      "description": "Valuta la prontezza in battaglia del tuo Guardiano."
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Amministratrice",
+      "description": "I telai da amministratore supervisionano diligentemente consegne, messaggi e oggetti smarriti."
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Consumabili",
+      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento."
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Deposito",
+      "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi."
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Carneficina",
+      "description": "Tutte le attività recenti del Guardiano selezionato"
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Preferiti",
+      "description": "Attività che hai aggiunto ai preferiti"
+    }
   }
 }
