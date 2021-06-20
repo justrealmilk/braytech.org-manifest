@@ -192,5 +192,119 @@
       "name": "Perfil obsoleto",
       "description": "Los datos del perfil están obsoletos. Esto significa que la actualización en segundo plano se detuvo debido a inactividad o a que el servicio no llegó a los servidores de Bungie por el momento. Interactúa con la aplicación para volver a activar la actualización en segundo plano."
     }
+  },
+  "sub-triumphs-active": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos activos",
+      "description": "Ver todos los triunfos y sellos activos."
+    }
+  },
+  "sub-triumphs-legacy": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos de legado",
+      "description": "Ver una colección de triunfos y sellos de legado."
+    }
+  },
+  "sub-triumphs-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Desafíos de temporada",
+      "description": "Completa desafíos de tiempo limitado para obtener rangos de temporada, polvo brillante y otras recompensas."
+    }
+  },
+  "sub-triumphs-medals": {
+    "displayProperties": {
+      "name": "Medallas",
+      "description": "Las medallas se obtienen mediante hazañas en el juego. Consulta la lista de medallas y cuántas has obtenido."
+    }
+  },
+  "sub-triumphs-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Catalizadores excepcionales",
+      "description": "Los catalizadores excepcionales amplían el poder de tus armas excepcionales. Ecuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
+    }
+  },
+  "sub-triumphs-lore": {
+    "displayProperties": {
+      "name": "Historia",
+      "description": "La historia contiene más información sobre el universo de Destiny. Completa triunfos para desbloquear y leer las páginas de historia."
+    }
+  },
+  "sub-triumphs-metrics": {
+    "displayProperties": {
+      "name": "Rastreadores estadísticos",
+      "description": "Los rastreadores estadísticos se pueden aplicar a tu emblema en la pantalla de detalles. Los rastreadores equipados aparecerán en tu placa de indentificación cuando sea visible."
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Sobre su clan y lo que representa."
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Jugadores",
+      "description": "Encuentra amigos con los que jugar."
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Administración",
+      "description": "Toma decisiones sobre los asuntos del clan y sus miembros."
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Estadísticas históricas",
+      "description": "Compara las _estadísticas históricas_ de varias actividades entre todos los miembros del clan."
+    }
+  },
+  "sub-clan-timetable": {
+    "displayProperties": {
+      "name": "Calendario",
+      "description": "Plasma los eventos del clan por escrito y hazlo oficial."
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Relaciones",
+      "description": "Mira a qué miembros del clan dedicas tu tiempo."
+    }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "name": "Equipamiento",
+      "description": "Evalúa si tu Guardián está preparado para la batalla."
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Administración",
+      "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos."
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Consumibles",
+      "description": "Suministros y materiales que pueden utilizarse para mejorar a tu Guardián y su equipo."
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Depósito",
+      "description": "Almacenamiento seguro de artículos generales. Accesible para todos tus personajes."
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Informes",
+      "description": "Todas las actividades recientes del Guardián seleccionado"
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Favoritos",
+      "description": "Actividades que has marcado como favoritas"
+    }
   }
 }
