@@ -437,5 +437,11 @@
       "name": "Bookmarks",
       "description": "Activities you've bookmarked"
     }
+  },
+  "sub-activity-graphs": {
+    "displayProperties": {
+      "name": "Graphs",
+      "description": "Activities plotted against graphs, for the statistically inclined."
+    }
   }
 }
