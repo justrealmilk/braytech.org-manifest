@@ -306,5 +306,11 @@
       "name": "Favoritos",
       "description": "Actividades que has marcado como favoritas"
     }
+  },
+  "sub-activity-graphs": {
+    "displayProperties": {
+      "name": "Gráficos",
+      "description": "Actividades representadas en gráficos, para los interesados en la estadística."
+    }
   }
 }
