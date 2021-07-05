@@ -224,6 +224,9 @@
   "opponentsDefeated": {
     "statName": "Kills + Assists"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Average K/D"
+  },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
   },
