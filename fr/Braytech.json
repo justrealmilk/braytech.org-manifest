@@ -204,5 +204,41 @@
       "name": "Relations",
       "description": "Découvrez à quels membres du clan vous consacrez votre temps."
     }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "name": "Équipement",
+      "description": "Évaluez l'état de préparation au combat de votre gardien."
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Commis des postes",
+      "description": "Le Commis des postes supervise consciencieusement les livraisons, les messages et les objets perdus."
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Consommables",
+      "description": "Fournitures et matériaux pouvant être utilisés pour améliorer votre gardien et son équipement."
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Coffre-fort",
+      "description": "Stockage sûr pour les objets généraux. Accessible à tous vos personnages."
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Carnage",
+      "description": "Toutes les activités récentes du Gardien sélectionné"
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Favoris",
+      "description": "Activités que vous avez ajoutées à vos favoris"
+    }
   }
 }
