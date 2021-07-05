@@ -71,6 +71,9 @@
   "opponentsDefeated": {
     "statName": "Frags + Assistances"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Moyenne F/M"
+  },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "En équipe, battez tous les Gardiens adverses au moins une fois pendant la Chasse."
   },
