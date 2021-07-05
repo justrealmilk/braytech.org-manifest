@@ -127,46 +127,82 @@
       "description": "Les données de profil sont périmées. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas réussi à atteindre les serveurs de Bungie pour le moment."
     }
   },
-  "sub-active-triumphs": {
+  "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triomphes et Sceaux actifs",
       "description": "Voir tous les triomphes et sceaux actifs."
     }
   },
-  "sub-legacy-triumphs": {
+  "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Triomphes et Sceaux du passé",
       "description": "Voir une collection de triomphes et de sceaux passés."
     }
   },
-  "sub-seasonal-challenges": {
+  "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Défis Saisonniers",
       "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses."
     }
   },
-  "sub-medals": {
+  "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Médailles",
       "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées."
     }
   },
-  "sub-exotic-catalysts": {
+  "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
       "name": "Catalyseurs exotiques",
       "description": "Les catalyseurs exotiques augmentent la puissance de vos armes exotiques. Trouvez-les et terminez leurs objectifs pour libérer tout le potentiel de votre arsenal."
     }
   },
-  "sub-lore": {
+  "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Légendes",
       "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes."
     }
   },
-  "sub-metrics": {
+  "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Traqueurs de statistiques",
       "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles."
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "À propos de votre clan et de ce qu'il représente."
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Roster",
+      "description": "Trouvez des amis avec qui jouer."
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Administration",
+      "description": "Prendre des mesures sur les questions et les membres du clan."
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Statistiques de l'Historique",
+      "description": "Comparez les _Statistiques de l'Historique_ pour plusieurs modes d'activité parmi tous les membres du clan."
+    }
+  },
+  "sub-clan-timetable": {
+    "displayProperties": {
+      "name": "Calendrier",
+      "description": "Mettez les événements du clan sur papier et rendez-les officiels."
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Relations",
+      "description": "Découvrez à quels membres du clan vous consacrez votre temps."
     }
   }
 }
