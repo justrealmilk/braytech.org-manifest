@@ -71,6 +71,9 @@
   "opponentsDefeated": {
     "statName": "Bajas + asistencias"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Promedio de B/M"
+  },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Elimina al menos una vez a todos los rivales durante la Cacería, con la ayuda de tu escuadra."
   },
