@@ -71,6 +71,9 @@
   "opponentsDefeated": {
     "statName": "Bajas + asistencias"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Promedio de B/M"
+  },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Como equipo, elimina a todos los guardianes rivales al menos una vez, durante la Cacería."
   },
