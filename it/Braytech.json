@@ -64,7 +64,7 @@
   "commonality": {
     "displayProperties": {
       "name": "Rarità",
-      "description": "Una rappresentazione del numero di giocatori che hanno acquisito o riscattato questa voce."
+      "description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito o riscattato questa voce."
     }
   },
   "score": {
@@ -268,7 +268,7 @@
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relazioni",
-      "description": "Scopri a quali membri del clan dedichi il tuo tempo."
+      "description": "Scopri a quali membri del clan dedichi maggiormente il tuo tempo."
     }
   },
   "sub-character-equipment": {
