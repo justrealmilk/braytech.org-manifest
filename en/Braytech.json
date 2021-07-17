@@ -119,6 +119,12 @@
     },
     "itemType": 1
   },
+  "artifact_power_bonus": {
+    "displayProperties": {
+      "name": "Artifact Power Bonus",
+      "description": "Earning XP grants Power bonuses and unlocks powerful mods on your seasonal artifact."
+    }
+  },
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
