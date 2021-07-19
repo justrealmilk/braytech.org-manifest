@@ -4,7 +4,6 @@
       "name": "Xbox",
       "description": "The platform to which this profile belongs."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Platform"
   },
   "platform_playstation": {
@@ -12,7 +11,6 @@
       "name": "Playstation",
       "description": "The platform to which this profile belongs."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Platform"
   },
   "platform_steam": {
@@ -20,7 +18,6 @@
       "name": "Steam",
       "description": "The platform to which this profile belongs."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Platform"
   },
   "platform_battlenet": {
@@ -28,7 +25,6 @@
       "name": "Battle.net",
       "description": "The platform to which this profile belongs."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Platform"
   },
   "platform_stadia": {
@@ -36,7 +32,6 @@
       "name": "Stadia",
       "description": "The platform to which this profile belongs."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Platform"
   },
   "warmind": {
@@ -44,7 +39,6 @@
       "name": "Superintendent",
       "description": "Tom Chapman, creator and engineer of Braytech."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Artificial Intelligence"
   },
   "patron-veteran": {
@@ -52,7 +46,6 @@
       "name": "Subroutine",
       "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Patron Reward"
   },
   "patron": {
@@ -60,64 +53,73 @@
       "name": "Researcher",
       "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Patron Reward"
   },
   "patron-intern": {
     "displayProperties": {
       "name": "Intern"
     },
-    "itemType": 1,
     "itemTypeDisplayName": "Patron Reward"
   },
   "commonality": {
     "displayProperties": {
       "name": "Commonality",
       "description": "Percentage of players who are indexed by Voluspa who've acquired or redeemed this entry."
-    },
-    "itemType": 1
+    }
   },
   "score": {
     "displayProperties": {
       "name": "Score value",
       "description": "This record's score value."
-    },
-    "itemType": 1
+    }
   },
   "interval_score": {
     "displayProperties": {
       "name": "Score value",
       "description": "This record's remaining score value (sum of remaining intervals)."
-    },
-    "itemType": 1
+    }
   },
   "record_intervals": {
     "displayProperties": {
       "name": "Record intervals",
       "description": "Some records have intervals. Different intervals have varied requirements and score values."
-    },
-    "itemType": 1
+    }
+  },
+  "legacy_triumph_score": {
+    "displayProperties": {
+      "name": "Legacy Triumph Score",
+      "description": "Total score of all completed legacy Triumphs."
+    }
+  },
+  "lifetime_triumph_score": {
+    "displayProperties": {
+      "name": "Lifetime Triumph Score",
+      "description": "A combination of all completed active and legacy Triumph scores."
+    }
+  },
+  "active_triumph_score": {
+    "displayProperties": {
+      "name": "Active Triumph Score",
+      "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
+    }
   },
   "character_bound": {
     "displayProperties": {
       "name": "Character bound",
       "description": "These items are character-bound. This means that each character discovers them uniquely."
-    },
-    "itemType": 1
+    }
   },
   "coverage": {
     "displayProperties": {
       "name": "Coverage",
       "description": "This translation's coverage represented by percentage."
-    },
-    "itemType": 1
+    }
   },
   "total_resets": {
     "displayProperties": {
       "name": "Total resets",
       "description": "All seasons' resets. Tracks from Season 4 onward."
-    },
-    "itemType": 1
+    }
   },
   "artifact_power_bonus": {
     "displayProperties": {
@@ -129,8 +131,7 @@
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
-    },
-    "itemType": 1
+    }
   },
   "latent-memories": {
     "displayProperties": {
