@@ -85,6 +85,24 @@
       "description": "Alcuni trionfi hanno fasi. Differenti fasi hanno vari requisiti e punteggi."
     }
   },
+  "legacy_triumph_score": {
+    "displayProperties": {
+      "name": "Punteggio trionfale strorico",
+      "description": "Punteggio totale di tutti i tionfi storici completati."
+    }
+  },
+  "lifetime_triumph_score": {
+    "displayProperties": {
+      "name": "Punteggio trionfale totale",
+      "description": "Punteggio totale di tutti i tionfi attivi e storici completati."
+    }
+  },
+  "active_triumph_score": {
+    "displayProperties": {
+      "name": "Active Triumph Score",
+      "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
+    }
+  },
   "character_bound": {
     "displayProperties": {
       "name": "Legato al personaggio",
@@ -103,76 +121,16 @@
       "description": "I reset di tutte le stagioni. Dalla Stagione 4 in poi."
     }
   },
+  "artifact_power_bonus": {
+    "displayProperties": {
+      "name": "Potere bonus artefatto",
+      "description": "Guadagnare PE garantisce bonus di potere e sblocca potenti modifiche nel tuo artefatto stagionale."
+    }
+  },
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "Valutazione Elo attuale del giocatore.\n\nElo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."
-    }
-  },
-  "braytech_purple_rune": {
-    "displayProperties": {
-      "description": "Una runa viola. Le rune viola includono: Runa della Gioia, Runa della Bestia e Runa del Giubilo.",
-      "name": "Runa Viola"
-    },
-    "itemTypeDisplayName": "Materiale",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Leggenda"
-    }
-  },
-  "braytech_red_rune": {
-    "displayProperties": {
-      "description": "Una runa rossa. Le rune rosse includono: Runa dell'Ambizione, Runa dell'Ingordigia e Runa dell'Astuzia.",
-      "name": "Runa Rossa"
-    },
-    "itemTypeDisplayName": "Materiale",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Leggenda"
-    }
-  },
-  "braytech_green_rune": {
-    "displayProperties": {
-      "description": "Una runa verde. Rune verdi includono: Runa della Guerra, Runa dell'Orgoglio e Runa del Desiderio.",
-      "name": "Runa Verde"
-    },
-    "itemTypeDisplayName": "Materiale",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Leggenda"
-    }
-  },
-  "braytech_blue_rune": {
-    "displayProperties": {
-      "description": "Una runa blu. Rune blu includono: Runa dell'Eccesso, Runa della Ricchezza e Runa del Piacere.",
-      "name": "Runa Blu"
-    },
-    "itemTypeDisplayName": "Materiale",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Leggenda"
-    }
-  },
-  "braytech_no_rune": {
-    "displayProperties": {
-      "description": "Inserisci runa in questo slot",
-      "name": "Slot vuoto"
-    },
-    "itemTypeDisplayName": "Azione",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Comune"
-    }
-  },
-  "braytech_remove_rune": {
-    "displayProperties": {
-      "description": "Rimuovi runa da questo slot",
-      "name": "Slot vuoto"
-    },
-    "itemTypeDisplayName": "Azione",
-    "itemTypeAndTierDisplayName": "Materiale Leggendario",
-    "inventory": {
-      "tierTypeName": "Comune"
     }
   },
   "latent-memories": {
@@ -190,7 +148,7 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie."
+      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
     }
   },
   "sub-triumphs-active": {
