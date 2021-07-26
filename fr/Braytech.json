@@ -103,6 +103,12 @@
       "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
     }
   },
+  "artifact_power_bonus": {
+    "displayProperties": {
+      "name": "Bonus de Puissance d'artefact",
+      "description": "Gagner de l'XP confère des bonus de puissance d'artefact et débloque de puissants mods sur votre artefact saisonnier."
+    }
+  },
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Traqueur Elo de Destiny",
