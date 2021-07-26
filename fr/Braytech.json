@@ -85,6 +85,24 @@
       "description": "Certains enregistrements ont des intervalles. Différents intervalles ont des exigences et des valeurs de score variées."
     }
   },
+  "legacy_triumph_score": {
+    "displayProperties": {
+      "name": "Score de Triomphe du passé",
+      "description": "Score total de tous les triomphes du passé terminés."
+    }
+  },
+  "lifetime_triumph_score": {
+    "displayProperties": {
+      "name": "Score de Triomphe total",
+      "description": "Une combinaison de tous les scores Triomphe actifs et du passé terminés."
+    }
+  },
+  "active_triumph_score": {
+    "displayProperties": {
+      "name": "Score de Triomphe actif",
+      "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
+    }
+  },
   "character_bound": {
     "displayProperties": {
       "name": "Personnage lié",
