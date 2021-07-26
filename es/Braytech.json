@@ -85,6 +85,24 @@
       "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntuación variados."
     }
   },
+  "legacy_triumph_score": {
+    "displayProperties": {
+      "name": "Puntuación de triunfos antiguos",
+      "description": "Puntuación total de triunfos antiguos completados."
+    }
+  },
+  "lifetime_triumph_score": {
+    "displayProperties": {
+      "name": "Puntuación global de triunfos",
+      "description": "Una combinación de la puntuación de todos los triunfos completados, activos y antiguos."
+    }
+  },
+  "active_triumph_score": {
+    "displayProperties": {
+      "name": "Puntuación de triunfos activos",
+      "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en antiguos."
+    }
+  },
   "character_bound": {
     "displayProperties": {
       "name": "Enlazado al personaje",
@@ -101,6 +119,12 @@
     "displayProperties": {
       "name": "Reinicios totales",
       "description": "Los reinicios de todas las temporadas. Se cuenta a partir de la Temporada 4."
+    }
+  },
+  "artifact_power_bonus": {
+    "displayProperties": {
+      "name": "Bonificación de Poder del artefacto",
+      "description": "Ganar PE otorga bonificaciones de Poder y desbloquea potentes modificadores en tu artefacto de temporada."
     }
   },
   "destiny_tracker_elo": {
@@ -190,7 +214,7 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Perfil obsoleto",
-      "description": "Los datos del perfil están obsoletos. Esto significa que la actualización en segundo plano se ha detenido debido a inactividad o a que el servicio no ha llegado a los servidores de Bungie por el momento. Interactúa con la aplicación para volver a activar la actualización en segundo plano."
+      "description": "Tus datos de perfil están _obsoletos_. Esto significa que la actualización en segundo plano se ha detenido debido a inactividad o a que el servicio no ha llegado a los servidores de Bungie por el momento.\n\nEl uso continuado de Braytech resolverá este problema, si los servicios de Bungie.net lo permiten."
     }
   },
   "sub-triumphs-active": {
