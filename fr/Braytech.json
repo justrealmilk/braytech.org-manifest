@@ -130,7 +130,7 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Profil périmé",
-      "description": "Les données de profil sont périmées. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas réussi à atteindre les serveurs de Bungie pour le moment."
+      "description": "Vos données de profil sont _périmées_. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas pu atteindre les serveurs de Bungie pour le moment.\n\nL'utilisation continue de Braytech résoudra ce problème, si les services Bungie.net le permettent."
     }
   },
   "sub-triumphs-active": {
