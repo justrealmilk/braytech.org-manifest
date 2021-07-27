@@ -22,5 +22,23 @@
       "name": "Le trône",
       "description": "VENEZ - Je vais vous féliciter personnellement ..."
     }
+  },
+  "25589576690": {
+    "displayProperties": {
+      "name": "Boucliers solaires",
+      "description": "Cette activité contient des boucliers solaires"
+    }
+  },
+  "32153845200": {
+    "displayProperties": {
+      "name": "Boucliers cryo-électriques",
+      "description": "Cette activité contient des boucliers cryo-électriques"
+    }
+  },
+  "33620748140": {
+    "displayProperties": {
+      "name": "Boucliers abyssaux",
+      "description": "Cette activité contient des boucliers abyssaux"
+    }
   }
 }
