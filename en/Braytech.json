@@ -270,5 +270,17 @@
       "name": "Graphs",
       "description": "Activities plotted against graphs, for the statistically inclined."
     }
+  },
+  "sub-weeklies-cycles": {
+    "displayProperties": {
+      "name": "Cycles",
+      "description": "Key activities and cycles."
+    }
+  },
+  "sub-weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges."
+    }
   }
 }
