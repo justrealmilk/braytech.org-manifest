@@ -270,5 +270,17 @@
       "name": "Graphiques",
       "description": "Activités tracées avec des graphiques de points, pour les statistiques."
     }
+  },
+  "sub-weeklies-cycles": {
+    "displayProperties": {
+      "name": "Cycles",
+      "description": "Activités et cycles clés."
+    }
+  },
+  "sub-weeklies-challenges": {
+    "displayProperties": {
+      "name": "Défis",
+      "description": "Tous les défis de l'activité."
+    }
   }
 }
