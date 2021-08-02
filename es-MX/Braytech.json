@@ -336,5 +336,17 @@
       "name": "Gráficos",
       "description": "Actividades representadas en gráficos, para los interesados en la estadística."
     }
+  },
+  "sub-weeklies-cycles": {
+    "displayProperties": {
+      "name": "Ciclos",
+      "description": "Actividades clave y ciclos."
+    }
+  },
+  "sub-weeklies-challenges": {
+    "displayProperties": {
+      "name": "Desafíos",
+      "description": "Todos los desafíos de actividades."
+    }
   }
 }
