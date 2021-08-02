@@ -270,5 +270,17 @@
       "name": "Grafici",
       "description": "Attività tracciate su grafici, per coloro inclini alle statistiche."
     }
+  },
+  "sub-weeklies-cycles": {
+    "displayProperties": {
+      "name": "Cicli",
+      "description": "Attività chiave e cicli."
+    }
+  },
+  "sub-weeklies-challenges": {
+    "displayProperties": {
+      "name": "Sfide",
+      "description": "Tutte le sfide delle attività."
+    }
   }
 }
