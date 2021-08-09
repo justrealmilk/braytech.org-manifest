@@ -41,6 +41,13 @@
     },
     "itemTypeDisplayName": "Inteligencia artificial"
   },
+  "developer": {
+    "displayProperties": {
+      "name": "Tom Chapman",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Desarrollador de Braytech"
+  },
   "patron-veteran": {
     "displayProperties": {
       "name": "Subrutina",
