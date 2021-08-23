@@ -106,7 +106,7 @@
   },
   "active_triumph_score": {
     "displayProperties": {
-      "name": "Active Triumph Score",
+      "name": "Punteggio trionfale attivo",
       "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
     }
   },
