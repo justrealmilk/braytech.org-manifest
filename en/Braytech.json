@@ -53,20 +53,20 @@
       "name": "Subroutine",
       "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
     },
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Braytech Supporter"
   },
   "patron": {
     "displayProperties": {
       "name": "Researcher",
       "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
     },
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Braytech Supporter"
   },
   "patron-intern": {
     "displayProperties": {
       "name": "Intern"
     },
-    "itemTypeDisplayName": "Patron Reward"
+    "itemTypeDisplayName": "Braytech Supporter"
   },
   "commonality": {
     "displayProperties": {
