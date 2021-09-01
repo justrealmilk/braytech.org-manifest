@@ -53,20 +53,20 @@
       "name": "Subrutina",
       "description": "Este Guardián es un faro de luz que, con sus acciones, ha demostrado que valora la valentía y el servicio por encima de todo."
     },
-    "itemTypeDisplayName": "Recompensa de Patreon"
+    "itemTypeDisplayName": "Patrocinador de Braytech"
   },
   "patron": {
     "displayProperties": {
       "name": "Investigador",
       "description": "Este Guardián, un técnico colega de Clovis Bray, busca mejorar Braytech."
     },
-    "itemTypeDisplayName": "Recompensa de Patreon"
+    "itemTypeDisplayName": "Patrocinador de Braytech"
   },
   "patron-intern": {
     "displayProperties": {
       "name": "Becario"
     },
-    "itemTypeDisplayName": "Recompensa de Patreon"
+    "itemTypeDisplayName": "Patrocinador de Braytech"
   },
   "commonality": {
     "displayProperties": {
