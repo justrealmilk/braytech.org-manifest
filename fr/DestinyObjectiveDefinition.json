@@ -38,6 +38,9 @@
   "3278614711": {
     "progressDescription": "Quête \"Présage\" achevée"
   },
+  "874571462": {
+    "progressDescription": "Combattants vaincus ou affectés par la [Stase]"
+  },
   "1980717736": {
     "progressDescription": "Chasse de l'Empire terminée"
   },
@@ -70,5 +73,8 @@
   },
   "31826834": {
     "progressDescription": "Contrats du Serviteur symbiot terminés"
+  },
+  "52567997": {
+    "progressDescription": "Alignement astral : Les trésors du Chemineur sont ouverts"
   }
 }
