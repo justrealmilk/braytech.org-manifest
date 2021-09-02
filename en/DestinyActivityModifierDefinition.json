@@ -40,5 +40,29 @@
       "name": "Void Shields",
       "description": "This activity has Void shields"
     }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "Solar and Arc Shields",
+      "description": "This activity has Solar and Arc shields"
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "Solar and Void Shields",
+      "description": "This activity has Solar and Void shields"
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "Arc and Void Shields",
+      "description": "This activity has Arc and Void shields"
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "Solar, Arc, and Void Shields",
+      "description": "This activity has Solar, Arc, and Void shields"
+    }
   }
 }
