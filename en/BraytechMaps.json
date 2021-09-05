@@ -3397,6 +3397,7 @@
   "2000000108": {
     "displayProperties": {
       "name": "Cleaning Up the Streets",
+      "description": "Eliminate Dregs in Trostland and recover their Drained Ether Tanks.",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
