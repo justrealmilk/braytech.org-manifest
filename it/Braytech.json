@@ -53,20 +53,20 @@
       "name": "Subroutine",
       "description": "Questo guardiano è un faro di luce che, attraverso le sue azioni, ha dimostrato di valorizzare il coraggio e il servizio sopra ogni altra cosa."
     },
-    "itemTypeDisplayName": "Ricompensa Patron"
+    "itemTypeDisplayName": "Sostenitore di Braytech"
   },
   "patron": {
     "displayProperties": {
       "name": "Ricercatore",
       "description": "Un compagno tecnico di Clovis Bray, questo Guardiano cerca di migliorare Braytech."
     },
-    "itemTypeDisplayName": "Ricompensa Patron"
+    "itemTypeDisplayName": "Sostenitore di Braytech"
   },
   "patron-intern": {
     "displayProperties": {
       "name": "Stagista"
     },
-    "itemTypeDisplayName": "Ricompensa Patron"
+    "itemTypeDisplayName": "Sostenitore di Braytech"
   },
   "commonality": {
     "displayProperties": {

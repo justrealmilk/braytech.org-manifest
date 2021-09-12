@@ -40,5 +40,29 @@
       "name": "Scudi da Vuoto",
       "description": "Questa attività ha scudi da Vuoto"
     }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "Scudi Solari e ad Arco",
+      "description": "Questa attività ha scudi Solari e ad Arco"
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "Scudi Solari e da Vuoto",
+      "description": "Questa attività ha scudi Solari e da Vuoto"
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "Scudi ad Arco e da Vuoto",
+      "description": "Questa attività ha scudi ad Arco e da Vuoto"
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "Scudi Solari, ad Arco e da Vuoto",
+      "description": "Questa attività ha scudi Solari, ad Arco e da Vuoto"
+    }
   }
 }
