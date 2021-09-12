@@ -40,5 +40,29 @@
       "name": "Boucliers abyssaux",
       "description": "Cette activité contient des boucliers abyssaux"
     }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "Boucliers solaires et cryo",
+      "description": "Cette activité contient des boucliers solaires et cryo"
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "Boucliers solaires et abyssaux",
+      "description": "Cette activité contient des boucliers solaires et abyssaux"
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "Boucliers cryo et abyssaux",
+      "description": "Cette activité contient des boucliers cryo et abyssaux"
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "Boucliers solaires, cryo et abyssaux",
+      "description": "Cette activité contient des boucliers solaires, cryo et abyssaux"
+    }
   }
 }
