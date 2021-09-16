@@ -4,7 +4,8 @@
       "name": "Classified",
       "description": "Keep it clean."
     },
-    "itemTypeDisplayName": "Insufficient Clearance"
+    "itemTypeDisplayName": "Insufficient Clearance",
+    "redacted": true
   },
   "3243866699": {
     "displayProperties": {
