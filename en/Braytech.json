@@ -1,4 +1,25 @@
 {
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Primary",
+      "description": "This weapon has infinite reserves."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Special",
+      "description": "This weapon uses special ammo."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "Heavy",
+      "description": "This weapon uses heavy ammo."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
   "platform_xbox": {
     "displayProperties": {
       "name": "Xbox",
