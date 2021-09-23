@@ -87,7 +87,7 @@
   },
   "666440382": {
     "displayProperties": {
-      "tip": "Increases duration to 4.5 seconds."
+      "tip": "Increases perk's duration to 4.5 seconds."
     }
   },
   "691393048": {
@@ -122,7 +122,7 @@
   },
   "960810156": {
     "displayProperties": {
-      "tip": "Activates within ~15 meters of 3 enemies, lingers for ~4 seconds."
+      "tip": "Active when at least 3 enemies are within ~15 metres. Lasts for ~4 seconds."
     }
   },
   "972757866": {
@@ -182,7 +182,7 @@
   },
   "1471333428": {
     "displayProperties": {
-      "tip": "Increases perk's damage bonus to 40%. Swords increase to 35%. Bonus lingers for 1.5 seconds after leaving Surrounded range."
+      "tip": "Increases perk's damage bonus to 40% (Swords increase to 35%). Lasts 1.5 seconds."
     }
   },
   "1513326571": {
@@ -267,7 +267,7 @@
   },
   "1799762209": {
     "displayProperties": {
-      "tip": "Activates within ~15m of 3 enemies. Grants 100 ms faster Charge Time/Draw Time. Last for 1.5 seconds."
+      "tip": "Active when at least 3 enemies are within ~15 metres. Lasts for 1.5 seconds.\n•  -100 ms Charge Time/Draw Time"
     }
   },
   "1808687944": {
