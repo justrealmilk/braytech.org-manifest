@@ -7,12 +7,485 @@
     "itemTypeDisplayName": "Insufficient Clearance",
     "redacted": true
   },
-  "3243866699": {
+  "11612903": {
     "displayProperties": {
-      "description": "One of five artifacts required for Worldline Zero's catalyst."
+      "tip": "Duration refreshes on grenade kills and lasts 10 seconds:\n•  1x: +10% damage, +10 Handling\n•  2x: +21% damage, +20 Handling\n•  3x: +33% damage, +30 Handling"
     }
   },
-  "3243866698": {
+  "47981717": {
+    "displayProperties": {
+      "tip": "Applies to the first shot only after 3.1 seconds after not firing.\n•  +20 Aim Assistance\n•  +20 Range\n•  +5% damage falloff distance (excludes Shotguns)\n•  -10% accuracy cone growth"
+    }
+  },
+  "124408337": {
+    "displayProperties": {
+      "tip": "Minor enemies spawn a medium-sized Stasis Crystal. Any enemy of rank greater than minor spawns a large-sized Crystal."
+    }
+  },
+  "176055472": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "201365942": {
+    "displayProperties": {
+      "tip": "Decreases draw time to 440 ms for 3 seconds."
+    }
+  },
+  "205890336": {
+    "displayProperties": {
+      "tip": "Once below ~150 HP, increased Reload Speed. Effect increases linearly as health decreases up to 100 Reload with 0.9x duration multiplier."
+    }
+  },
+  "247000308": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "247725512": {
+    "displayProperties": {
+      "tip": "Stacks up to 5x and lasts for 2 seconds.\n•  +5 Reload Speed, +5 Stability\n•  +27 Reload Speed, 10 Stability\n•  +32 Reload Speed, 15 Stability\n•  +40 Reload Speed, +20 Stability\n•  +54 Reload Speed, +23 Stability"
+    }
+  },
+  "256080248": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "280464955": {
+    "displayProperties": {
+      "tip": "When crouched, grants:\n•  +30 Handling\n•  +20 Stability\n•  -40 Accuracy Cone Size\n•  -17% Accuracy Cone Growth\n•  -80 Recoil Yaw (Horizontal Recoil)"
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Increases your clan's experience"
+    },
+    "inventory": {
+      "tierTypeName": "Common"
+    }
+  },
+  "354401740": {
+    "displayProperties": {
+      "tip": "15% damage increase for 5 seconds."
+    }
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
+  "438098033": {
+    "displayProperties": {
+      "tip": "Activates on weapon ready within 3 seconds of getting a kill with a different weapon. Grants +20% damage increase and +15 Handling for 7 seconds."
+    }
+  },
+  "460017080": {
+    "displayProperties": {
+      "tip": "Headshots after hitting at least one bodyshot receive +8% increased precision damage. Fourth bullet in Aggressive Burst frames (Pulse Rifles) don't receive increased damage."
+    }
+  },
+  "588594999": {
+    "displayProperties": {
+      "tip": "+3% movement speed and +10 Aim Assistance while ADS"
+    }
+  },
+  "666440382": {
+    "displayProperties": {
+      "tip": "Increases duration to 4.5 seconds."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "699525795": {
+    "displayProperties": {
+      "tip": "Once below ~150 HP, handling and accuracy increases. Effect increases linearly as health decreases."
+    }
+  },
+  "706527188": {
+    "displayProperties": {
+      "tip": "Grants +100 Ready/Stow Handling for 1 second, or until ADS."
+    }
+  },
+  "818211479": {
+    "displayProperties": {
+      "tip": "67% damage increase."
+    }
+  },
+  "908147344": {
+    "displayProperties": {
+      "tip": "Prevents ping on radar after shooting while crouched. Increases arrow hold time by +25%."
+    }
+  },
+  "951095735": {
+    "displayProperties": {
+      "tip": "+13% Velocity, +10 Reload Speed with 0.8x multiplier."
+    }
+  },
+  "957782887": {
+    "displayProperties": {
+      "tip": "+33% faster ADS than +100 Handling. Stacks with Targeting mods, Threat Detector, and Wraithmetal Mail."
+    }
+  },
+  "960810156": {
+    "displayProperties": {
+      "tip": "Activates within ~15 meters of 3 enemies, lingers for ~4 seconds."
+    }
+  },
+  "972757866": {
+    "displayProperties": {
+      "tip": "When active, adds +45 Handling and grants a +5% faster swap speed. Fully refreshes weapon when held or stowed."
+    }
+  },
+  "984527513": {
+    "displayProperties": {
+      "tip": "7.8% damage increase to Major combatants. This includes Champions."
+    }
+  },
+  "1015611457": {
+    "displayProperties": {
+      "tip": "Has a duration of 5 seconds. Marksman's Dodge and Wraithmail Metal (Dragon's Shadow) can also trigger this perk.\n•  Precision: +33% damage\n•  Non-precision: +30% damage"
+    }
+  },
+  "1168162263": {
+    "displayProperties": {
+      "tip": "+63 Reload Speed with a 0.9x multiplier for 6 seconds"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthcord material which can be converted to Synthweave using the Loom."
+    }
+  },
+  "1195158366": {
+    "displayProperties": {
+      "tip": "On precision kills, grants +10 Range per stack and maxes at 3 stacks. On non-precision kill, removes a stack and grants Accuracy Cone growth and +30 Stability. Lasts 7 seconds and is refreshed on kill."
+    }
+  },
+  "1264398905": {
+    "displayProperties": {
+      "tip": "Adds the following when Last Guardian Standing:\n•  +100 Handling\n•  +100 Reload\n•  +100  Aim Assistance\n•  Massively decreased flinch received\n•  Increased accuracy\n•  Stronger target highlighting through scope\n•  Enables radar while aiming down sights"
+    }
+  },
+  "1354429876": {
+    "displayProperties": {
+      "tip": "4 Precision Hits within 2.5 seconds adds 2 shots to the magazine."
+    }
+  },
+  "1359896290": {
+    "displayProperties": {
+      "tip": "Greatly increases Accuracy after sustained fire for 0.6 seconds, almost negating the effects of bloom.\n•  Adds 9 Stability over time.\nIn-air accuracy is still bad unless used with Icarus Grip."
+    }
+  },
+  "1387420892": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "1427256713": {
+    "displayProperties": {
+      "tip": "+25% damage increase"
+    }
+  },
+  "1471333428": {
+    "displayProperties": {
+      "tip": "Increases perk's damage bonus to 40%. Swords increase to 35%. Bonus lingers for 1.5 seconds after leaving Surrounded range."
+    }
+  },
+  "1513326571": {
+    "displayProperties": {
+      "tip": "10% damage increase to all Taken combatants, including Riven and Techeuns (Sedia, Kalli, & Shuro-Chi)."
+    }
+  },
+  "1523832109": {
+    "displayProperties": {
+      "tip": "After not shooting for 4 seconds, reloads 10% of the magazine. Maximum of more than double magazine size."
+    }
+  },
+  "1528281896": {
+    "displayProperties": {
+      "tip": "+63 Reload Speed with a 0.9x multiplier for 6 seconds"
+    }
+  },
+  "1546637391": {
+    "displayProperties": {
+      "tip": "15% damage increase."
+    }
+  },
+  "1556840489": {
+    "displayProperties": {
+      "tip": "Grants the equivalent of 1 Special Ammo pickup."
+    }
+  },
+  "1570042021": {
+    "displayProperties": {
+      "tip": "Lasts 5.5 seconds.\n• 1x:  +15% Accuracy, +15 Stability, +~20 Recoil Direction\n• 2x:  +30% Accuracy, +30 Stability, +~40 Recoil Direction"
+    }
+  },
+  "1572351682": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "1600092898": {
+    "displayProperties": {
+      "tip": "4 seconds after switching to Fusion Rifle:\n•  Multiplies Charge Time by 0.8\n•  +20% reduced damage\n•  +100 Handling"
+    }
+  },
+  "1631667848": {
+    "displayProperties": {
+      "tip": "Primary weapons get refilled (generates ammo from nothing). Special and Power weapons get refreshed (reloaded with no animation, does not trigger on reload perks)."
+    }
+  },
+  "1645158859": {
+    "displayProperties": {
+      "tip": "Activates once the magazine falls below 50%. Grants +25%-50% increased accuracy and up to +20 Stability."
+    }
+  },
+  "1683379515": {
+    "displayProperties": {
+      "tip": "On Elemental/Barrier or Guardian shield break: Applies a debuff that grants 50% increased Kinetic damage for 5.5 seconds. Stacks with other debuffs due to being a weapon perk."
+    }
+  },
+  "1685431615": {
+    "displayProperties": {
+      "tip": "+30% damage increase for 1.5 seconds."
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience enormously."
+    }
+  },
+  "1754714824": {
+    "displayProperties": {
+      "tip": "+20% more damage and 100 ms faster Charge Time during a slide after sprinting for 1.5 seconds. Buff can expire mid-burst if you don't immediately start charging."
+    }
+  },
+  "1771339417": {
+    "displayProperties": {
+      "tip": "Activates when near friendly Guardians and AI allies. Bugged as of Sept. 5, 2021. Should be 20% across all weapons, but is the following:\n•  Snipers: ~12/14%\n•  MGs: ~6%\n•  Linear Fusions: ~14%"
+    }
+  },
+  "1774574192": {
+    "displayProperties": {
+      "tip": "Does not work with the Exotic trait on the Warlock helmet, Verity's Brow."
+    }
+  },
+  "1799762209": {
+    "displayProperties": {
+      "tip": "Activates within ~15m of 3 enemies. Grants 100 ms faster Charge Time/Draw Time. Lingers for 1.5 seconds."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+    }
+  },
+  "1820235745": {
+    "displayProperties": {
+      "tip": "Reloads 10-17% of the magazine per kill."
+    }
+  },
+  "1837151577": {
+    "displayProperties": {
+      "tip": "Explosion radius increased by 50%. Increases damage up to 50% from the epicentre of the explosion."
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "1866048759": {
+    "displayProperties": {
+      "tip": "When hipfiring:\n•  +1.2x Aim Assistance falloff\n•  +15 Aim Assistance\n•  +2.7 degree precision angle threshold (except for Sniper Rifles)\n•  +~30 more accuracy\n•  +~30 Stability"
+    }
+  },
+  "1890422124": {
+    "displayProperties": {
+      "tip": "Grants +25 Stability and +10% increased accuracy for 0.6 seconds. Refreshes immediately after not firing. For controller, the weapon fires the instant trigger pressure is applied."
+    }
+  },
+  "1954620775": {
+    "displayProperties": {
+      "tip": "Splits 55% of damage into explosive damage with +30% damage and no fall off. Detonates after 0.6 seconds.\n•  PvE: +12% increase to precision damage and +16% to non-precision damage.\n•  PvP: total damage remains almost the same."
+    }
+  },
+  "1968497646": {
+    "displayProperties": {
+      "tip": "5% damage increase against Combatant Shields. Bullets are able to penetrate up to 1 enemy."
+    }
+  },
+  "2010801679": {
+    "displayProperties": {
+      "tip": "Increase magazine capacity by 10% per kill up to a maximum of 50%."
+    }
+  },
+  "2039302152": {
+    "displayProperties": {
+      "tip": "Lasts 3 seconds. Refreshes 15% of the magazine and grants +~20 Stability & +~25 Handling."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "2213355989": {
+    "displayProperties": {
+      "tip": "Gradual damage increase when magazine is at or less than 50% full.\n•  PvE: +12.1%-25.6% damage.\n•  PvP: +3%-6% damage."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "2284787283": {
+    "displayProperties": {
+      "tip": "Randomly increases magazine between +10% and +50% on reload. Always rounds magazine up."
+    }
+  },
+  "2387244414": {
+    "displayProperties": {
+      "tip": "Removes reticle bounce and weapon shake on repeated hits. No boost to Stability. Noticeable mostly on controllers, as their reticle bounces on fire, akin to Machine Guns on mice."
+    }
+  },
+  "2396489472": {
+    "displayProperties": {
+      "tip": "Kills create an elemental explosion. Not affected by Dragonfly Spec."
+    }
+  },
+  "2450788523": {
+    "displayProperties": {
+      "tip": "Lasts for 6 seconds, additional kills add 6 seconds, caps at 8 seconds.\n•  +20 Range\n•  +50 Mobility\n•  +~40 Handling\n•  +30% ADS movement speed\n•  1.05x Damage Falloff Distance Multiplier"
+    }
+  },
+  "2458213969": {
+    "displayProperties": {
+      "tip": "Killing and reloading will interrupt and reset current buff timer. Stacks are always reset upon reload. Has a duration of 5 seconds.\n•  1x: +17% damage\n•  2x: +33% damage\n•  3x: +50% damage"
+    }
+  },
+  "2551157718": {
+    "displayProperties": {
+      "tip": "Activates 1.5 seconds after aiming down sights and not firing. \n•  Scout Rifle: +66% damage\n•  Linear Fusion: +33% damage\n•  Sniper (Aggressive): +37% damage\n•  Sniper (Adaptive & Rapid-Fire): +31% damage"
+    }
+  },
+  "2621346526": {
+    "displayProperties": {
+      "tip": "Within 15 metres of an ally, gain +30 Handling and a reload speed bonus. Lingers for 1.5 seconds."
+    }
+  },
+  "2679019194": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2679249093": {
+    "displayProperties": {
+      "tip": "200% melee damage increase on most combatants.\n•  Minors: 200%\n•  Majors: 200%\n•  Ultras: 350%\n•  Liar's Handshake: 80% (reduced)"
+    }
+  },
+  "2686128774": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2726471870": {
+    "displayProperties": {
+      "tip": "Primary weapon kills and Heavy weapon kills grant +1% Super energy. Special weapon kills grant +1.5% (+1% in PvP) Super energy."
+    }
+  },
+  "2779035018": {
+    "displayProperties": {
+      "tip": "Last 3.5 seconds. Grants a flat Reload Speed bonus and a multiplier per stack:\n•  1x: +10 Reload Speed/0x\n•  2x: +45 Reload Speed/0.9x\n•  3x: +55 Reload Speed/0.88x\n•  4x: +75 Reload Speed/0.85x\n•  5x: +100 Reload Speed/0.8x"
+    }
+  },
+  "2788909693": {
+    "displayProperties": {
+      "tip": "7.8% damage increase to Boss/Ultra combatants."
+    }
+  },
+  "2846385770": {
+    "displayProperties": {
+      "tip": "\n•  +10% Zoom when ADS\n•  +5% Velocity when ADS"
+    }
+  },
+  "2848615171": {
+    "displayProperties": {
+      "tip": "Creates an elemental explosion based on the weapon's element damage type, has a 3 metre radius, and is not affected by weapon perks."
+    }
+  },
+  "2850782006": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2866798147": {
+    "displayProperties": {
+      "tip": "After ADS for 1 second without firing, flinch is reduced by 35%. Stacks multiplicatively with unflinching mods."
+    }
+  },
+  "2869569095": {
+    "displayProperties": {
+      "tip": "\n•  +45 Reload Speed with 0.8x multiplier and 0.8x ready/stow animation duration.\n•  The Inventory Size increase is the reserves boost."
+    }
+  },
+  "2888557110": {
+    "displayProperties": {
+      "tip": "Increases Explosive Damage by 0.63% for every metre past 10 metres, up to 25% at 50 metres."
+    }
+  },
+  "2946784966": {
+    "displayProperties": {
+      "tip": "Activates after reloading 6 seconds after a kill.\n•  +20 Aim Assistance\n•  +20% accuracy"
+    }
+  },
+  "3016987351": {
+    "displayProperties": {
+      "tip": "Attack must be guarded within ~0.5 seconds of starting Block. 50% damage increase for 2 seconds."
+    }
+  },
+  "3038247973": {
+    "displayProperties": {
+      "tip": "Splits 50% of damage into explosive damage with 30% more damage and no fall off.\n•  In PvE, 11% increase to precision damage and 15% to non-precision damage.\n•  In PvP, total damage remains almost the same."
+    }
+  },
+  "3047969693": {
+    "displayProperties": {
+      "tip": "Reloading within 6 seconds of a precision kill increases your Rate of Fire to 600 Rounds Per Minute for 7 seconds. Reduces damage by 20% against combatants. Can be refreshed."
+    }
+  },
+  "3096702027": {
+    "displayProperties": {
+      "tip": "Refreshes magazine on elemental or Barrier Champion shield break. Energy weapons generate 1 ammo per hit against matching elemental shields."
+    }
+  },
+  "3108830275": {
+    "displayProperties": {
+      "tip": "Starts health regen and grants ~80 HP after obtaining 3 points. Rank-And-File grant 1 point, Guardians grant 2, Elites/Mini-Bosses/Bosses grant 3. Kills must be within ~8s of eachother."
+    }
+  },
+  "3161816588": {
+    "displayProperties": {
+      "tip": "Lasts ~3 seconds with a 0.3 second cooldown. Refreshes 15% of the magazine and grants +20 Range and +~50 Stability."
+    }
+  },
+  "3194351027": {
+    "displayProperties": {
+      "tip": "+15% damage increase to Rocket Launchers."
+    }
+  },
+  "3201496230": {
+    "displayProperties": {
+      "tip": "On low-tier Minor hit, grants one stack."
+    }
+  },
+  "3243866696": {
     "displayProperties": {
       "description": "One of five artifacts required for Worldline Zero's catalyst."
     }
@@ -22,7 +495,12 @@
       "description": "One of five artifacts required for Worldline Zero's catalyst."
     }
   },
-  "3243866696": {
+  "3243866698": {
+    "displayProperties": {
+      "description": "One of five artifacts required for Worldline Zero's catalyst."
+    }
+  },
+  "3243866699": {
     "displayProperties": {
       "description": "One of five artifacts required for Worldline Zero's catalyst."
     }
@@ -32,19 +510,19 @@
       "description": "One of five artifacts required for Worldline Zero's catalyst."
     }
   },
-  "1858002338": {
+  "3275789089": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience."
+      "tip": "Explosion disorients enemies within 7 meters for 5 seconds."
     }
   },
-  "2174060729": {
+  "3300816228": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience."
+      "tip": "Reloads stowed weapons from reserves after 3 seconds."
     }
   },
-  "691393048": {
+  "3301904089": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience substantially."
+      "tip": "50% damage increase to impact damage. If you get this perk, aim for low Blast Radius and high Velocity."
     }
   },
   "3348653032": {
@@ -52,9 +530,54 @@
       "description": "Increases your Guardian's experience substantially."
     }
   },
-  "2250176030": {
+  "3350417888": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
+      "tip": "Refreshes stowed weapons after reloading up to 6 seconds after a kill."
+    }
+  },
+  "3365897133": {
+    "displayProperties": {
+      "tip": "Splits 55% of damage into explosive damage with +30% damage and no fall off. Detonates after 0.6 seconds.\n•  PvE: +12% increase to precision damage and +16% to non-precision damage.\n•  PvP: total damage remains almost the same."
+    }
+  },
+  "3400784728": {
+    "displayProperties": {
+      "tip": "Activation window is 2.5 seconds."
+    }
+  },
+  "3418782618": {
+    "displayProperties": {
+      "tip": "Refils magazine by 50-60% for Primary weapons or 30-40% for Special weapons"
+    }
+  },
+  "3425386926": {
+    "displayProperties": {
+      "tip": "Lasts 3.5 seconds.\n•  1x: +10% damage\n•  2x: +21% damage\n•  3x: +33% damage"
+    }
+  },
+  "3436462433": {
+    "displayProperties": {
+      "tip": "Multi-charge abilities contribute to the requirements (ex. 2 grenades and a melee will count as max benefit Surplus).\n•  1x: +5 Reload Speed, +10 Handling, +5 Stability\n•  2x: +22 Reload Speed, +25 Handling, +15 Stability\n•  3x: +50 Reload Speed, +50 Handling, +25 Stability"
+    }
+  },
+  "3511092054": {
+    "displayProperties": {
+      "tip": "[Stasis] increases ADS movement speed by +5%."
+    }
+  },
+  "3513791699": {
+    "displayProperties": {
+      "tip": "20% chance on miss to return 1 shot to the magazine."
+    }
+  },
+  "3523296417": {
+    "displayProperties": {
+      "tip": "Primary and Power weapon kills grant 10% grenade energy and Special weapon kills grant 20% grenade energy. 3 second cooldown on the grenade-usage-reload effect."
+    }
+  },
+  "3551326236": {
+    "displayProperties": {
+      "tip": "Lasts 3.5 seconds.\n•  1x: +10% damage\n•  2x: +21% damage\n•  3x: +33% damage"
     }
   },
   "3582080006": {
@@ -62,27 +585,94 @@
       "description": "Increases your Guardian's experience greatly."
     }
   },
-  "1711513650": {
+  "3592538738": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience enormously."
+      "tip": "Grants +7.5% ability energy split equally across all uncharged abilities."
     }
   },
-  "1808687944": {
+  "3643424744": {
     "displayProperties": {
-      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+      "tip": "Refills magazine to 2x capacity."
     }
   },
-  "372496383": {
+  "3673922083": {
     "displayProperties": {
-      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+      "tip": "Lasts 6 seconds. Generally grants a +25% damage (+20% for shotguns and bows) and -20% slower rate of fire or charge time. Varies per archetype."
     }
   },
-  "304443327": {
+  "3700496672": {
     "displayProperties": {
-      "description": "Increases your clan's experience"
-    },
-    "inventory": {
-      "tierTypeName": "Common"
+      "tip": "Triggers ammo-pickup perks."
+    }
+  },
+  "3708227201": {
+    "displayProperties": {
+      "tip": "Activates within 8m of 3 enemies. Swords have a reduced bonus compared to other weapons.\n•  Normal: 30%\n•  Swords: 25%"
+    }
+  },
+  "3722653512": {
+    "displayProperties": {
+      "tip": "Increases handling by ~20."
+    }
+  },
+  "3796465595": {
+    "displayProperties": {
+      "tip": "10% increase to impact damage."
+    }
+  },
+  "3824105627": {
+    "displayProperties": {
+      "tip": "Precision kills grant +45 Reload Speed for 6 seconds. Same radius as Dragonfly Spec, but deals +25% more damage. Does not work with Dragonfly Spec."
+    }
+  },
+  "3871884143": {
+    "displayProperties": {
+      "tip": "50% damage increase to Kinetic weapons."
+    }
+  },
+  "3913600130": {
+    "displayProperties": {
+      "tip": "Has a duration of 3 seconds.\n•  1x: 6%\n•  2x: 12%\n•  3x: 18%\n•  4x: 24%\n•  5x: 30%"
+    }
+  },
+  "3927722942": {
+    "displayProperties": {
+      "tip": "Rockets detonate 3 seconds after impact and deal +20% more blast damage.\n•  +25 Blast Radius"
+    }
+  },
+  "4049631843": {
+    "displayProperties": {
+      "tip": "+35% damage after hitting three separate targets within 3 seconds of one another."
+    }
+  },
+  "4071163871": {
+    "displayProperties": {
+      "tip": "\n•  Within 15 metres of 1 enemy: +~15 Stability, +15 Reload Speed, +25% faster Handling animation speed.\n•  Within 15m of 2+ enemies: +~40 Stability, +55 Reload Speed, and +43% faster Handling animation speed."
+    }
+  },
+  "4082225868": {
+    "displayProperties": {
+      "tip": "Lasts 4.5 seconds.\n•  1x: +6.6% damage\n•  2x: +13.2% damage\n•  3x: +20% damage\n•  4x: +26.6% damage\n•  5x: +33.3% damage"
+    }
+  },
+  "4091000557": {
+    "displayProperties": {
+      "tip": "7.8% damage increase to Minor combatants."
+    }
+  },
+  "4104185692": {
+    "displayProperties": {
+      "tip": "Being in combat for 12 seconds grants +15% increased damage, +~50 Handling, and +50 Reload Speed. Lasts until out of combat. Being in Combat is having dealt or received damage within 5 seconds."
+    }
+  },
+  "4252909580": {
+    "displayProperties": {
+      "tip": "While last Guardian standing, kills fully refresh the magazine.\n•  +30 Magazine"
+    }
+  },
+  "4267945040": {
+    "displayProperties": {
+      "tip": "Increases fire rate by +10% on shotguns only."
     }
   },
   "23239861010": {
@@ -128,7 +718,11 @@
       "isDummyPlug": false
     },
     "perks": [],
-    "itemCategoryHashes": [59, 945330047, 610365472],
+    "itemCategoryHashes": [
+      59,
+      945330047,
+      610365472
+    ],
     "specialItemType": 0,
     "itemType": 19,
     "itemSubType": 0,
@@ -144,18 +738,5 @@
       "name": "Pinnacle Gear (Weak)",
       "hasIcon": false
     }
-  },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Synthcord material which can be converted to Synthweave using the Loom."
-    }
-  },
-  "176055472": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "247000308": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "256080248": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "1387420892": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "1572351682": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "2679019194": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "2686128774": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } },
-  "2850782006": { "displayProperties": { "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png" } }
+  }
 }
