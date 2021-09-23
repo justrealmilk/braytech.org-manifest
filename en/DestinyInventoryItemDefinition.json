@@ -65,11 +65,6 @@
       "tierTypeName": "Common"
     }
   },
-  "354401740": {
-    "displayProperties": {
-      "tip": "15% damage increase for 5 seconds."
-    }
-  },
   "372496383": {
     "displayProperties": {
       "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
@@ -110,11 +105,6 @@
       "tip": "Grants +100 Ready/Stow Handling for 1 second, or until ADS."
     }
   },
-  "818211479": {
-    "displayProperties": {
-      "tip": "67% damage increase."
-    }
-  },
   "908147344": {
     "displayProperties": {
       "tip": "Prevents ping on radar after shooting while crouched. Increases arrow hold time by +25%."
@@ -147,7 +137,7 @@
   },
   "1015611457": {
     "displayProperties": {
-      "tip": "Marksman's Dodge and Wraithmail Metal (Dragon's Shadow) can also trigger this perk. Lasts 5 seconds.\n•  Precision: +33% damage\n•  Non-precision: +30% damage"
+      "tip": "Marksman's Dodge and Wraithmail Metal (Dragon's Shadow) can also trigger this perk. Lasts 5 seconds.\n•  precision: +33% damage\n•  Non-precision: +30% damage"
     }
   },
   "1168162263": {
@@ -172,7 +162,7 @@
   },
   "1354429876": {
     "displayProperties": {
-      "tip": "4 Precision Hits within 2.5 seconds adds 2 shots to the magazine."
+      "tip": "4 precision hits within 2.5 seconds adds 2 shots to the magazine."
     }
   },
   "1359896290": {
@@ -212,7 +202,7 @@
   },
   "1546637391": {
     "displayProperties": {
-      "tip": "15% damage increase."
+      "tip": "15% Damage Increase against minibosses, champions, vehicles, and bosses. Against Guardians in super, +40-50% for Primary weapons and +10-20% for Special weapons."
     }
   },
   "1556840489": {
@@ -268,11 +258,6 @@
   "1754714824": {
     "displayProperties": {
       "tip": "+20% more damage and 100 ms faster Charge Time during a slide after sprinting for 1.5 seconds. Buff can expire mid-burst if you don't immediately start charging."
-    }
-  },
-  "1771339417": {
-    "displayProperties": {
-      "tip": "Activates when near friendly Guardians and AI allies. Bugged as of Sept. 5, 2021. Should be 20% across all weapons, but is the following:\n•  Snipers: ~12/14%\n•  MGs: ~6%\n•  Linear Fusions: ~14%"
     }
   },
   "1774574192": {
@@ -390,11 +375,6 @@
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-  "2679249093": {
-    "displayProperties": {
-      "tip": "200% melee damage increase on most combatants.\n•  Minors: 200%\n•  Majors: 200%\n•  Ultras: 350%\n•  Liar's Handshake: 80% (reduced)"
-    }
-  },
   "2686128774": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
@@ -438,11 +418,6 @@
   "2869569095": {
     "displayProperties": {
       "tip": "\n•  +45 Reload Speed with 0.8x multiplier and 0.8x ready/stow animation duration.\n•  The Inventory Size increase is the reserves boost."
-    }
-  },
-  "2888557110": {
-    "displayProperties": {
-      "tip": "Increases Explosive Damage by 0.63% for every metre past 10 metres, up to 25% at 50 metres."
     }
   },
   "2946784966": {
@@ -525,11 +500,6 @@
       "tip": "Reloads stowed weapons from reserves after 3 seconds."
     }
   },
-  "3301904089": {
-    "displayProperties": {
-      "tip": "50% damage increase to impact damage. If you get this perk, aim for low Blast Radius and high Velocity."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
@@ -610,29 +580,9 @@
       "tip": "Triggers ammo-pickup perks."
     }
   },
-  "3708227201": {
-    "displayProperties": {
-      "tip": "Activates within 8m of 3 enemies. Swords have a reduced bonus compared to other weapons.\n•  Normal: 30%\n•  Swords: 25%"
-    }
-  },
-  "3722653512": {
-    "displayProperties": {
-      "tip": "Increases handling by ~20."
-    }
-  },
-  "3796465595": {
-    "displayProperties": {
-      "tip": "10% increase to impact damage."
-    }
-  },
   "3824105627": {
     "displayProperties": {
-      "tip": "Precision kills grant +45 Reload Speed for 6 seconds. Same radius as Dragonfly Spec, but deals +25% more damage. Does not work with Dragonfly Spec."
-    }
-  },
-  "3871884143": {
-    "displayProperties": {
-      "tip": "50% damage increase to Kinetic weapons."
+      "tip": "precision kills grant +45 Reload Speed for 6 seconds. Same radius as Dragonfly Spec, but deals +25% more damage. Does not work with Dragonfly Spec."
     }
   },
   "3913600130": {
