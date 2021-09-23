@@ -44,7 +44,7 @@
   },
   "247725512": {
     "displayProperties": {
-      "tip": "Stacks up to 5x and lasts for 2 seconds.\n•  +5 Reload Speed, +5 Stability\n•  +27 Reload Speed, 10 Stability\n•  +32 Reload Speed, 15 Stability\n•  +40 Reload Speed, +20 Stability\n•  +54 Reload Speed, +23 Stability"
+      "tip": "Stacks up to 5x and lasts for 2 seconds.\n•  1x: +5 Reload Speed, +5 Stability\n•  2x: +27 Reload Speed, 10 Stability\n•  3x: +32 Reload Speed, 15 Stability\n•  4x: +40 Reload Speed, +20 Stability\n•  5x: +54 Reload Speed, +23 Stability"
     }
   },
   "256080248": {
@@ -54,7 +54,7 @@
   },
   "280464955": {
     "displayProperties": {
-      "tip": "When crouched, grants:\n•  +30 Handling\n•  +20 Stability\n•  -40 Accuracy Cone Size\n•  -17% Accuracy Cone Growth\n•  -80 Recoil Yaw (Horizontal Recoil)"
+      "tip": "When crouched, grants:\n•  +30 Handling\n•  +20 Stability\n•  -40 accuracy cone size\n•  -17% accuracy cone growth\n•  -80 Recoil Yaw (Horizontal Recoil)"
     }
   },
   "304443327": {
@@ -152,7 +152,7 @@
   },
   "1168162263": {
     "displayProperties": {
-      "tip": "+63 Reload Speed with a 0.9x multiplier for 6 seconds"
+      "tip": "\n•  +63 Reload Speed with a 0.9x multiplier for 6 seconds"
     }
   },
   "1190250163": {
@@ -162,12 +162,12 @@
   },
   "1195158366": {
     "displayProperties": {
-      "tip": "On precision kills, grants +10 Range per stack and maxes at 3 stacks. On non-precision kill, removes a stack and grants Accuracy Cone growth and +30 Stability. Lasts 7 seconds and is refreshed on kill."
+      "tip": "On precision kills, grants +10 Range per stack and maxes at 3 stacks. On non-precision kill, removes a stack and grants accuracy cone growth and +30 Stability. Lasts 7 seconds and is refreshed on kill."
     }
   },
   "1264398905": {
     "displayProperties": {
-      "tip": "Adds the following when Last Guardian Standing:\n•  +100 Handling\n•  +100 Reload\n•  +100  Aim Assistance\n•  Massively decreased flinch received\n•  Increased accuracy\n•  Stronger target highlighting through scope\n•  Enables radar while aiming down sights"
+      "tip": "While you are the last living member of your fireteam:\n•  +100 Handling\n•  +100 Reload\n•  +100  Aim Assistance\n•  Massively decreased flinch received\n•  Increased accuracy\n•  Stronger target highlighting through scope\n•  Enables radar while aiming down sights"
     }
   },
   "1354429876": {
@@ -177,7 +177,7 @@
   },
   "1359896290": {
     "displayProperties": {
-      "tip": "Greatly increases Accuracy after sustained fire for 0.6 seconds, almost negating the effects of bloom.\n•  Adds 9 Stability over time.\nIn-air accuracy is still bad unless used with Icarus Grip."
+      "tip": "Greatly increases accuracy after sustained fire for 0.6 seconds, almost negating the effects of bloom.\n•  Adds 9 Stability over time.\nIn-air accuracy is still bad unless used with Icarus Grip."
     }
   },
   "1387420892": {
@@ -187,7 +187,7 @@
   },
   "1427256713": {
     "displayProperties": {
-      "tip": "+25% damage increase"
+      "tip": "\n•  +25% damage"
     }
   },
   "1471333428": {
@@ -207,7 +207,7 @@
   },
   "1528281896": {
     "displayProperties": {
-      "tip": "+63 Reload Speed with a 0.9x multiplier for 6 seconds"
+      "tip": "\n•  +63 Reload Speed with a 0.9x multiplier for 6 seconds"
     }
   },
   "1546637391": {
@@ -227,7 +227,7 @@
   },
   "1570042021": {
     "displayProperties": {
-      "tip": "Lasts 5.5 seconds.\n• 1x:  +15% Accuracy, +15 Stability, +~20 Recoil Direction\n• 2x:  +30% Accuracy, +30 Stability, +~40 Recoil Direction"
+      "tip": "Lasts 5.5 seconds.\n• 1x:  +15% accuracy, +15 Stability, +~20 Recoil Direction\n• 2x:  +30% accuracy, +30 Stability, +~40 Recoil Direction"
     }
   },
   "1572351682": {
@@ -282,7 +282,7 @@
   },
   "1799762209": {
     "displayProperties": {
-      "tip": "Activates within ~15m of 3 enemies. Grants 100 ms faster Charge Time/Draw Time. Lingers for 1.5 seconds."
+      "tip": "Activates within ~15m of 3 enemies. Grants 100 ms faster Charge Time/Draw Time. Last for 1.5 seconds."
     }
   },
   "1808687944": {
@@ -382,7 +382,7 @@
   },
   "2621346526": {
     "displayProperties": {
-      "tip": "Within 15 metres of an ally, gain +30 Handling and a reload speed bonus. Lingers for 1.5 seconds."
+      "tip": "Within 15 metres of an ally, gain +30 Handling and a reload speed bonus. Last for 1.5 seconds."
     }
   },
   "2679019194": {
@@ -482,7 +482,7 @@
   },
   "3194351027": {
     "displayProperties": {
-      "tip": "+15% damage increase to Rocket Launchers."
+      "tip": "\n•  +15% damage to Rocket Launchers"
     }
   },
   "3201496230": {
@@ -672,7 +672,7 @@
   },
   "4252909580": {
     "displayProperties": {
-      "tip": "While last Guardian standing, kills fully refresh the magazine.\n•  +30 Magazine"
+      "tip": "While you are the last living member of your fireteam, kills fully refresh the magazine.\n•  +30 Magazine"
     }
   },
   "4267945040": {
