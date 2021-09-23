@@ -127,7 +127,7 @@
   },
   "957782887": {
     "displayProperties": {
-      "tip": "+33% faster ADS than +100 Handling. Stacks with Targeting mods, Threat Detector, and Wraithmetal Mail."
+      "tip": "+33% faster ADS than +100 Handling. Stacks with Targeting mods, Threat Detector, and Wraithmail Metal (Dragon's Shadow)."
     }
   },
   "960810156": {
@@ -147,7 +147,7 @@
   },
   "1015611457": {
     "displayProperties": {
-      "tip": "Has a duration of 5 seconds. Marksman's Dodge and Wraithmail Metal (Dragon's Shadow) can also trigger this perk.\n•  Precision: +33% damage\n•  Non-precision: +30% damage"
+      "tip": "Marksman's Dodge and Wraithmail Metal (Dragon's Shadow) can also trigger this perk. Lasts 5 seconds.\n•  Precision: +33% damage\n•  Non-precision: +30% damage"
     }
   },
   "1168162263": {
@@ -372,7 +372,7 @@
   },
   "2458213969": {
     "displayProperties": {
-      "tip": "Killing and reloading will interrupt and reset current buff timer. Stacks are always reset upon reload. Has a duration of 5 seconds.\n•  1x: +17% damage\n•  2x: +33% damage\n•  3x: +50% damage"
+      "tip": "Killing and reloading will interrupt and reset current buff timer. Stacks are always reset upon reload. Lasts 5 seconds.\n•  1x: +17% damage\n•  2x: +33% damage\n•  3x: +50% damage"
     }
   },
   "2551157718": {
