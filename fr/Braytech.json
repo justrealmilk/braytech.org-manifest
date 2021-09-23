@@ -289,5 +289,17 @@
       "name": "Défis",
       "description": "Tous les défis de l'activité."
     }
+  },
+  "sub-inspect-equipment": {
+    "displayProperties": {
+      "name": "Emplacements",
+      "description": "Tous les attributs de cet objet; stats, perks et mods."
+    }
+  },
+  "sub-inspect-lore": {
+    "displayProperties": {
+      "name": "Histoire",
+      "description": "Lire l'histoire de cet objet."
+    }
   }
 }
