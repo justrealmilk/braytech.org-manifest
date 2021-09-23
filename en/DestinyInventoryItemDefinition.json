@@ -19,7 +19,7 @@
   },
   "124408337": {
     "displayProperties": {
-      "tip": "Minor enemies spawn a medium-sized Stasis Crystal. Any enemy of rank greater than minor spawns a large-sized Crystal."
+      "tip": "Minor-rank enemies spawn a medium-sized Stasis Crystal. Any enemy of rank greater than minor spawns a large-sized Crystal."
     }
   },
   "176055472": {
@@ -142,7 +142,7 @@
   },
   "984527513": {
     "displayProperties": {
-      "tip": "7.8% damage increase to Major combatants. This includes Champions."
+      "tip": "7.8% damage increase to major-rank combatants. This includes Champions."
     }
   },
   "1015611457": {
@@ -220,6 +220,11 @@
       "tip": "Grants the equivalent of 1 Special Ammo pickup."
     }
   },
+  "1561002382": {
+    "displayProperties": {
+      "tip": "Stronger flinch dealt towards combatants. Enables Primary weapons to affected higher-ranked enemies and consistently stuns minor-rank enemies. Varies between weapon archetypes, from +6-11% flinch dealt."
+    }
+  },
   "1570042021": {
     "displayProperties": {
       "tip": "Lasts 5.5 seconds.\n• 1x:  +15% Accuracy, +15 Stability, +~20 Recoil Direction\n• 2x:  +30% Accuracy, +30 Stability, +~40 Recoil Direction"
@@ -242,7 +247,7 @@
   },
   "1645158859": {
     "displayProperties": {
-      "tip": "Activates once the magazine falls below 50%. Grants +25%-50% increased accuracy and up to +20 Stability."
+      "tip": "Activates once the magazine falls below 50%. Grants +25-50% increased accuracy and up to +20 Stability."
     }
   },
   "1683379515": {
@@ -337,7 +342,7 @@
   },
   "2213355989": {
     "displayProperties": {
-      "tip": "Gradual damage increase when magazine is at or less than 50% full.\n•  PvE: +12.1%-25.6% damage.\n•  PvP: +3%-6% damage."
+      "tip": "Gradual damage increase when magazine is at or less than 50% full.\n•  PvE: +12.1-25.6% damage.\n•  PvP: +3-6% damage."
     }
   },
   "2250176030": {
@@ -407,7 +412,7 @@
   },
   "2788909693": {
     "displayProperties": {
-      "tip": "7.8% damage increase to Boss/Ultra combatants."
+      "tip": "7.8% damage increase to ultra-rank and boss combatants."
     }
   },
   "2846385770": {
@@ -482,7 +487,7 @@
   },
   "3201496230": {
     "displayProperties": {
-      "tip": "On low-tier Minor hit, grants one stack."
+      "tip": "On low-tier minor-rank combatant hit, grants one stack."
     }
   },
   "3243866696": {
@@ -632,7 +637,7 @@
   },
   "3913600130": {
     "displayProperties": {
-      "tip": "Has a duration of 3 seconds.\n•  1x: 6%\n•  2x: 12%\n•  3x: 18%\n•  4x: 24%\n•  5x: 30%"
+      "tip": "Lasts 3 seconds.\n•  1x: +6% damage\n•  2x: +12% damage\n•  3x: +18% damage\n•  4x: +24% damage\n•  5x: +30% damage"
     }
   },
   "3927722942": {
@@ -657,7 +662,7 @@
   },
   "4091000557": {
     "displayProperties": {
-      "tip": "7.8% damage increase to Minor combatants."
+      "tip": "7.8% damage increase to minor-rank combatants."
     }
   },
   "4104185692": {
