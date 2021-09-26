@@ -227,7 +227,7 @@
   },
   "1600092898": {
     "displayProperties": {
-      "tip": "4 seconds after switching to Fusion Rifle:\n•  Multiplies Charge Time by 0.8\n•  +20% reduced damage\n•  +100 Handling"
+      "tip": "4 seconds after switching to Fusion Rifle:\n•  Multiplies Charge Time by 0.8x\n•  -20% damage\n•  +100 Handling"
     }
   },
   "1631667848": {
@@ -437,7 +437,7 @@
   },
   "3047969693": {
     "displayProperties": {
-      "tip": "Reloading within 6 seconds of a precision kill increases your Rate of Fire to 600 Rounds Per Minute for 7 seconds. Reduces damage by 20% against combatants. Can be refreshed."
+      "tip": "Reloading within 6 seconds of a precision kill grants 600 Rounds Per Minute for 7 seconds, but reduces damage towards combatants by -20%."
     }
   },
   "3096702027": {
@@ -572,7 +572,7 @@
   },
   "3673922083": {
     "displayProperties": {
-      "tip": "Lasts 6 seconds. Generally grants a +25% damage (+20% for shotguns and bows) and -20% slower rate of fire or charge time. Varies per archetype."
+      "tip": "Lasts 6 seconds:\n•  +25% damage (+20% for Shotguns and Bows)\n•  -20% rate of fire/Charge Time"
     }
   },
   "3700496672": {
