@@ -376,5 +376,17 @@
       "name": "Desafíos",
       "description": "Todos los desafíos de actividades."
     }
+  },
+  "sub-inspect-equipment": {
+    "displayProperties": {
+      "name": "Ranuras",
+      "description": "Todos los atributos del objeto; estadísticas, ventajas, y mods."
+    }
+  },
+  "sub-inspect-lore": {
+    "displayProperties": {
+      "name": "Historia",
+      "description": "Lee la historia de este objeto."
+    }
   }
 }
