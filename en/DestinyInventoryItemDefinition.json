@@ -212,7 +212,7 @@
   },
   "1561002382": {
     "displayProperties": {
-      "tip": "Stronger flinch dealt towards combatants. Enables Primary weapons to affected higher-ranked enemies and consistently stuns minor-rank enemies. Varies between weapon archetypes, from +6-11% flinch dealt."
+      "tip": "Stronger flinch dealt towards combatants. Enables Primary weapons to affect higher-ranked enemies and consistently stuns minor-rank enemies. Varies between weapon archetypes, from +6-11% flinch dealt."
     }
   },
   "1570042021": {
@@ -392,7 +392,7 @@
   },
   "2788909693": {
     "displayProperties": {
-      "tip": "7.8% damage increase to ultra-rank and boss combatants."
+      "tip": "7.8% damage increase to ultra-rank and boss combatants and vehicles."
     }
   },
   "2846385770": {
@@ -422,7 +422,7 @@
   },
   "2946784966": {
     "displayProperties": {
-      "tip": "Activates after reloading 6 seconds after a kill.\n•  +20 Aim Assistance\n•  +20% accuracy"
+      "tip": "Activates after reloading within 6 seconds after a kill.\n•  +20 Aim Assistance\n•  +20% accuracy"
     }
   },
   "3016987351": {
@@ -432,7 +432,7 @@
   },
   "3038247973": {
     "displayProperties": {
-      "tip": "Splits 50% of damage into explosive damage with 30% more damage and no fall off.\n•  In PvE, 11% increase to precision damage and 15% to non-precision damage.\n•  In PvP, total damage remains almost the same."
+      "tip": "Splits 50% of damage into explosive damage with 30% more damage and no fall off.\n•  PvE: 11% increase to precision damage and 15% to non-precision damage.\n•  PvP: total damage remains almost the same."
     }
   },
   "3047969693": {
