@@ -1,4 +1,25 @@
 {
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Primarie",
+      "description": "Questa arma ha riserve infinite."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Speciali",
+      "description": "Questa arma usa munizioni speciali."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "Pesanti",
+      "description": "Questa arma usa munizioni pesanti."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
   "platform_xbox": {
     "displayProperties": {
       "name": "Xbox",
@@ -288,6 +309,18 @@
     "displayProperties": {
       "name": "Sfide",
       "description": "Tutte le sfide delle attività."
+    }
+  },
+  "sub-inspect-equipment": {
+    "displayProperties": {
+      "name": "Attributi",
+      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto."
+    }
+  },
+  "sub-inspect-lore": {
+    "displayProperties": {
+      "name": "Leggende",
+      "description": "Leggi la storia di questo oggetto."
     }
   }
 }
