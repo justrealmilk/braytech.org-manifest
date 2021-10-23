@@ -9,14 +9,14 @@
   "ammo-type-special": {
     "displayProperties": {
       "name": "Speciali",
-      "description": "Quest'arma usa munizioni speciali."
+      "description": "Questa arma usa munizioni speciali."
     },
     "itemTypeDisplayName": "Munizioni"
   },
   "ammo-type-heavy": {
     "displayProperties": {
       "name": "Pesanti",
-      "description": "Quest'arma usa munizioni pesanti."
+      "description": "Questa arma usa munizioni pesanti."
     },
     "itemTypeDisplayName": "Munizioni"
   },
