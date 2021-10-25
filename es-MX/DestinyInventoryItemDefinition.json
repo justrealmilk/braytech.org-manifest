@@ -6,74 +6,39 @@
     },
     "itemTypeDisplayName": "Autorización insuficiente"
   },
-  "3243866699": {
+  "11612903": {
     "displayProperties": {
-      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea de universo Cero."
+      "tip": "La duración se recarga con bajas de granada y dura 10 segundos:\n•  1x: +10% daño, +10 manejo\n•  2x: +21% daño, +20 manejo\n•  3x: +33% daño, +30 manejo"
     }
   },
-  "3243866698": {
+  "47981717": {
     "displayProperties": {
-      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea de universo Cero."
+      "tip": "Se aplica al primer disparo solo tras 3,1 segundos sin disparar.\n•  +20 asistencia de apuntado\n•  +20 alcance\n•  +5% distancia efectiva del daño  (excluye escopetas)\n•  -10% precisión cone growth"
     }
   },
-  "3243866697": {
+  "124408337": {
     "displayProperties": {
-      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea de universo Cero."
+      "tip": "Los enemigos de nivel raso generan un cristal de estasis de tamaño medio. Cualquier enemigo de nivel mayor que raso genera un cristal de gran tamaño."
     }
   },
-  "3243866696": {
+  "201365942": {
     "displayProperties": {
-      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea de universo Cero."
+      "tip": "Disminuye el tiempo de tensado a 440 ms durante 3 segundos."
     }
   },
-  "3243866703": {
+  "205890336": {
     "displayProperties": {
-      "description": "Uno de los cinco artefactos necesarios para el catalizador de Línea de universo Cero."
+      "tip": "Cuando la vida baje de ~150, se aumenta la velocidad de recarga. El efecto aumenta linealmente a medida que disminuye la salud hasta 100 de recarga con un multiplicador de duración de 0,9x."
     }
   },
-  "1858002338": {
+  "247725512": {
     "displayProperties": {
-      "description": "Aumenta la experiencia de tu Guardián"
+      "tip": "Se acumula hasta 5 veces y dura 2 segundos.\n•  1x: +5 velocidad de recarga, +5 estabilidad\n•  2x: +27 velocidad de recarga, 10 estabilidad\n•  3x: +32 velocidad de recarga, 15 estabilidad\n•  4x: +40 velocidad de recarga, +20 estabilidad\n•  5x: +54 velocidad de recarga, +23 estabilidad"
     }
   },
-  "2174060729": {
+  "280464955": {
     "displayProperties": {
-      "description": "Aumenta la experiencia de tu Guardián."
-    }
-  },
-  "691393048": {
-    "displayProperties": {
-      "description": "Aumenta considerablemente la experiencia de tu Guardián."
-    }
-  },
-  "3348653032": {
-    "displayProperties": {
-      "description": "Aumenta considerablemente la experiencia de tu Guardián."
-    }
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "Aumenta mucho la experiencia de tu Guardián."
-    }
-  },
-  "3582080006": {
-    "displayProperties": {
-      "description": "Aumenta mucho la experiencia de tu Guardián."
-    }
-  },
-  "1711513650": {
-    "displayProperties": {
-      "description": "Aumenta enormemente la experiencia de tu Guardián."
-    }
-  },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
-    }
-  },
-  "372496383": {
-    "displayProperties": {
-      "description": "Aumenta el rango de Infamia de tu Guardián. No se lo cuentes a la Vanguardia."
+      "tip": "Cuando estás agachado, otorga:\n•  +30 manejo\n•  +20 estabilidad\n•  -40 tamaño del cono de precisión\n•  -17% aumento del cono de precisión\n•  -80 retroceso horizontal"
     }
   },
   "304443327": {
@@ -84,9 +49,524 @@
       "tierTypeName": "Común"
     }
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Infamia de tu Guardián. No se lo cuentes a la Vanguardia."
+    }
+  },
+  "438098033": {
+    "displayProperties": {
+      "tip": "Se activa cuando el arma está lista en un plazo de 3 segundos tras conseguir una muerte con un arma diferente. Otorga +20% de aumento de daño y +15 de manejo durante 7 segundos."
+    }
+  },
+  "460017080": {
+    "displayProperties": {
+      "tip": "Los disparos después de golpear al menos una vez en el cuerpo reciben +8% de daño de precisión aumentado. La cuarta bala en los armazones de Ráfaga agresiva (fusiles de pulso) no reciben el daño aumentado."
+    }
+  },
+  "588594999": {
+    "displayProperties": {
+      "tip": "+3% velocidad de movimiento y +10 asistencia de apuntado al apuntar con mira"
+    }
+  },
+  "666440382": {
+    "displayProperties": {
+      "tip": "Aumenta la duración de la ventaja a 4,5 segundos."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Aumenta considerablemente la experiencia de tu Guardián."
+    }
+  },
+  "699525795": {
+    "displayProperties": {
+      "tip": "Cuando la vida baje de ~150, aumenta el manejo y la precisión. El efecto aumenta linealmente a medida que disminuye la salud."
+    }
+  },
+  "706527188": {
+    "displayProperties": {
+      "tip": "Otorga +100 de manejo con el arma lista o guardada durante 1 segundo, o hasta que apuntes."
+    }
+  },
+  "908147344": {
+    "displayProperties": {
+      "tip": "Evita las señanles del radar tras disparar agachado. Aumenta el tiempo de espera de la flecha en un +25%."
+    }
+  },
+  "951095735": {
+    "displayProperties": {
+      "tip": "+13% velocidad, +10 velocidad de recarga con un multiplicador 0,8x."
+    }
+  },
+  "957782887": {
+    "displayProperties": {
+      "tip": "Apuntado con mira un +33% más rápido a +100 manejo. Se acumula con modificadores de focalización, Detector de amenazas, y Cota de espectrometal (La sombra del dragón)."
+    }
+  },
+  "960810156": {
+    "displayProperties": {
+      "tip": "Se activa cuando hay al menos 3 enemigos en un radio de ~15 metros. Dura ~4 segundos."
+    }
+  },
+  "972757866": {
+    "displayProperties": {
+      "tip": "Cuando está activo, añade +45 de manejo y otorga un +5% más de velocidad de cambio. Refresca completamente el arma cuando se mantiene o se guarda."
+    }
+  },
+  "984527513": {
+    "displayProperties": {
+      "tip": "Aumento del 7,8% de daño a los combatientes de rango mayor. Esto incluye campeones."
+    }
+  },
+  "1015611457": {
+    "displayProperties": {
+      "tip": "Evasión del tirador y Cota de espectrometal (La sombra del dragón) también pueden activar esta ventaja. Dura 5 segundos.\n•  De precisión: +33% daño\n•  De no precisión: +30% daño"
+    }
+  },
+  "1168162263": {
+    "displayProperties": {
+      "tip": "\n•  +63 velocidad de recarga con un multiplicador 0,9x durante 6 segundos"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Cordel sintético suave que puede convertirse en Tejido sintético usando el Telar."
+    }
+  },
+  "1195158366": {
+    "displayProperties": {
+      "tip": "Al matar con precisión, otorga +10 de alcance por cada bonificación hasta un máximo de 3. Al matar sin precisión, elimina una bonificación y otorga un aumento del cono de precisión y +30 de estabilidad. Dura 7 segundos y se actualiza al matar."
+    }
+  },
+  "1264398905": {
+    "displayProperties": {
+      "tip": "Mientras seas el último miembro vivo de tu escuadra:\n•  +100 manejo\n•  +100 recarga\n•  +100  asistencia de apuntado\n•  Disminución masiva del temblor recibido\n•  Precisión aumentada\n•  Mayor resaltado del objetivo a través de la mira\n•  Activa el radar al apuntar con la mira"
+    }
+  },
+  "1354429876": {
+    "displayProperties": {
+      "tip": "4 golpes de precisión en 2,5 segundos añaden 2 disparos al cargador."
+    }
+  },
+  "1359896290": {
+    "displayProperties": {
+      "tip": "Aumenta enormemente la precisión después de un disparo mantenido durante 0,6 segundos, casi anulando los efectos de _bloom_.\n•  Añade 9 de estabilidad con el tiempo.\nLa precisión en el aire sigue siendo mala a menos que se use con Empuñadura de Ícaro."
+    }
+  },
+  "1427256713": {
+    "displayProperties": {
+      "tip": "\n•  +25% daño"
+    }
+  },
+  "1471333428": {
+    "displayProperties": {
+      "tip": "Aumenta la bonificación de daño de la ventaja a 40% (las espadas aumentan a 35%). Dura 1,5 segundos."
+    }
+  },
+  "1513326571": {
+    "displayProperties": {
+      "tip": "10% de aumento de daño a todos los combatientes poseídos, incluyendo Riven y las Técnidas (Sedia, Kalli y Shuro-Chi)."
+    }
+  },
+  "1523832109": {
+    "displayProperties": {
+      "tip": "Después de no disparar durante 4 segundos, recarga el 10% del cargador. Máximo de más del doble del tamaño del cargador."
+    }
+  },
+  "1528281896": {
+    "displayProperties": {
+      "tip": "\n•  +63 velocidad de recarga con un multiplicador 0,9x durante 6 segundos"
+    }
+  },
+  "1546637391": {
+    "displayProperties": {
+      "tip": "15% de incremento de daño contra minijefes, campeones, vehículos, y jefes. Contra Guardianes con la súper, +40-50% para armas principales y +10-20% para armas especiales."
+    }
+  },
+  "1556840489": {
+    "displayProperties": {
+      "tip": "Otorga el equivalente a 1 paquete de munición especial."
+    }
+  },
+  "1561002382": {
+    "displayProperties": {
+      "tip": "Mayor temblor infligido a los combatientes. Permite que las armas principales afecten a los enemigos de rango superior y aturde constantemente a los de rango inferior. Varía entre los arquetipos de armas, de +6 a 11% de temblor."
+    }
+  },
+  "1570042021": {
+    "displayProperties": {
+      "tip": "Dura 5.5 segundos.\n• 1x:  +15% precisión, +15 estabilidad, +~20 dirección del retroceso\n• 2x:  +30% precisión, +30 estabilidad, +~40 dirección del retroceso"
+    }
+  },
+  "1600092898": {
+    "displayProperties": {
+      "tip": "4 segundos después de cambiar al fusil de fusión:\n•  Multiplica el tiempo de carga en 0,8x\n•  -20% daño\n•  +100 manejo"
+    }
+  },
+  "1631667848": {
+    "displayProperties": {
+      "tip": "Las armas primarias se recargan (generan munición de la nada). Las armas especiales y destructivas se rellenan (se recargan sin animación, no se activan con las ventajas de recarga)."
+    }
+  },
+  "1645158859": {
+    "displayProperties": {
+      "tip": "Se activa cuando el cargador baja del 50%. Concede un +25-50% de precisión y hasta +20 de estabilidad."
+    }
+  },
+  "1683379515": {
+    "displayProperties": {
+      "tip": "Al romper un escudo elemental/barrera o de Guardián: aplica una ventaja que otorga un 50% más de daño cinético durante 5,5 segundos. Se acumula con otras ventajas por ser una ventaja de arma."
+    }
+  },
+  "1685431615": {
+    "displayProperties": {
+      "tip": "+30% de aumento de daño durante 1,5 segundos."
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Aumenta enormemente la experiencia de tu Guardián."
+    }
+  },
+  "1754714824": {
+    "displayProperties": {
+      "tip": "+20% más de daño y 100 ms más rápido de tiempo de carga durante un deslizamiento después de esprintar durante 1,5 segundos. La mejora puede expirar a mitad de carrera si no empiezas a cargar inmediatamente."
+    }
+  },
+  "1774574192": {
+    "displayProperties": {
+      "tip": "No funciona con el rasgo excepcional del casco de hehicero, Ceño de la Verdad."
+    }
+  },
+  "1799762209": {
+    "displayProperties": {
+      "tip": "Se activa cuando hay al menos 3 enemigos en un radio de 15 metros. Dura 1,5 segundos.\n•  -100 ms tiempo de carga/tiempo de tensado"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
+    }
+  },
+  "1820235745": {
+    "displayProperties": {
+      "tip": "Recarga el 10-17% del cargador por cada baja."
+    }
+  },
+  "1837151577": {
+    "displayProperties": {
+      "tip": "Radio de explosión aumentado en un 50%. Aumenta el daño hasta un 50% desde el epicentro de la explosión."
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "Aumenta la experiencia de tu Guardián."
+    }
+  },
+  "1866048759": {
+    "displayProperties": {
+      "tip": "Al disparar desde la cadera:\n•  +1,2x asistencia de apuntado efectiva\n•  +15 asistencia de apuntado\n•  +2.7  umbral del ángulo de precisión en grados (excepto rifles de francotirador)\n•  +~30 más precisión\n•  +~30 estabilidad"
+    }
+  },
+  "1890422124": {
+    "displayProperties": {
+      "tip": "Otorga +25 de estabilidad y +10% de precisión durante 0,6 segundos. Se recarga inmediatamente después de no disparar. Con mando, el arma dispara en el instante en que se aplica presión al gatillo."
+    }
+  },
+  "1954620775": {
+    "displayProperties": {
+      "tip": "Divide un 55% del daño en daño explosivo con un +30% de daño y sin pérdidas. Detona a los 0,6 segundos.\n•  JcE: +12% aumento al daño de precisión y +16% al daño de no precisión.\n•  JcJ: el daño total permanece casi igual."
+    }
+  },
+  "1968497646": {
+    "displayProperties": {
+      "tip": "5% de incremento de daño contra enemigos con escudo. Las balas son capaces de penetrar hasta 1 enemigo."
+    }
+  },
+  "2010801679": {
+    "displayProperties": {
+      "tip": "Aumenta la capacidad del cargador en un 10% por baja hasta un máximo del 50%."
+    }
+  },
+  "2039302152": {
+    "displayProperties": {
+      "tip": "Dura 3 segundos. Recarga el 15% del cargador y otorga +~20 de estabilidad y +~25 de manejo."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Aumenta la experiencia de tu Guardián."
+    }
+  },
+  "2213355989": {
+    "displayProperties": {
+      "tip": "Aumento gradual del daño cuando el cargador está lleno al 50% o menos.\n•  JcE: +12,1-25,6% daño.\n•  JcJ: +3-6% daño."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Aumenta mucho la experiencia de tu Guardián."
+    }
+  },
+  "2284787283": {
+    "displayProperties": {
+      "tip": "Aumenta aleatoriamente el cargador entre +10% y +50% al recargar. Siempre redondea el cargador al alza."
+    }
+  },
+  "2387244414": {
+    "displayProperties": {
+      "tip": "Elimina el rebote de la retícula y el temblor del arma al impactar repetidamente. No aumenta la estabilidad. Se nota sobre todo con los mandos, ya que su retícula rebota al disparar, como las ametralladoras con un ratón."
+    }
+  },
+  "2396489472": {
+    "displayProperties": {
+      "tip": "Las bajas crean una explosión elemental. No se ve afectado por Especialización en Libélula."
+    }
+  },
+  "2450788523": {
+    "displayProperties": {
+      "tip": "Dura 6 segundos, las bajas adicionales añaden 6 segundos, con un tope de 8 segundos.\n•  +20 alcance\n•  +50 movilidad\n•  +~40 manejo\n•  +30% velocidad de movimiento al apuntar con mira\n•  1.05x multiplicador de la distancia efectiva del daño"
+    }
+  },
+  "2458213969": {
+    "displayProperties": {
+      "tip": "Matar y recargar interrumpirá y reiniciará el temporizador de la bonificación actual. Las acumulaciones siempre se reinician al recargar. Dura 5 segundos.\n•  1x: +17% daño\n•  2x: +33% daño\n•  3x: +50% daño"
+    }
+  },
+  "2551157718": {
+    "displayProperties": {
+      "tip": "Se activa 1,5 segundos después de apuntar con la mira y no disparar. \n•  Fusil de explorador: +66% daño\n•  Fusión lineal: +33% daño\n•  Francotirador (agresivo): +37% daño\n•  Francotirador (adaptable y disparo rápido): +31% daño"
+    }
+  },
+  "2621346526": {
+    "displayProperties": {
+      "tip": "A 15 metros de un aliado, obtienes +30 de manejo y una bonificación de velocidad de recarga. Dura 1,5 segundos."
+    }
+  },
+  "2726471870": {
+    "displayProperties": {
+      "tip": "Las bajas con armas principales y las bajas con armas pesadas otorgan +1% de energía de Súper. Las bajas con armas especiales otorgan +1,5% (+1% en JcJ) de energía de Súper."
+    }
+  },
+  "2779035018": {
+    "displayProperties": {
+      "tip": "Dura 3,5 segundos. Concede una bonificación plana de velocidad de recarga y un multiplicador por acumulación:\n•  1x: +10 velocidad de recarga/0x\n•  2x: +45 velocidad de recarga/0,9x\n•  3x: +55 velocidad de recarga/0,88x\n•  4x: +75 velocidad de recarga/0,85x\n•  5x: +100 velocidad de recarga/0,8x"
+    }
+  },
+  "2788909693": {
+    "displayProperties": {
+      "tip": "7,8% de aumento de daño a combatientes ultra, jefes y vehículos."
+    }
+  },
+  "2846385770": {
+    "displayProperties": {
+      "tip": "\n•  +10% _zoom_ al apuntar con mira \n•  +5% velocidad al apuntar con mira"
+    }
+  },
+  "2848615171": {
+    "displayProperties": {
+      "tip": "Crea una explosión elemental basada en el tipo de daño elemental del arma, tiene un radio de 3 metros y no se ve afectada por las ventajas del arma."
+    }
+  },
+  "2866798147": {
+    "displayProperties": {
+      "tip": "Tras apuntar con mira durante 1 segundo sin disparar, el temblor se reduce un 35%. Se acumulan de forma multiplicativa con los modificadores de apuntado sin temblor."
+    }
+  },
+  "2869569095": {
+    "displayProperties": {
+      "tip": "\n•  +45 de velocidad de recarga con un multiplicador del 0,8x y 0,8x a la duración de la animación de guardar y tener lista el arma.\n•  El aumento del tamaño del inventario es el incremento de las reservas."
+    }
+  },
+  "2946784966": {
+    "displayProperties": {
+      "tip": "Se activa tras recargar en los 6 segundos siguientes a una baja.\n•  +20 asistencia de apuntado\n•  +20% precisión"
+    }
+  },
+  "3016987351": {
+    "displayProperties": {
+      "tip": "El ataque debe ser bloqueado en un plazo de ~0,5 segundos desde el inicio del bloqueo. Aumenta el daño en un 50% durante 2 segundos."
+    }
+  },
+  "3038247973": {
+    "displayProperties": {
+      "tip": "Divide un 50% del daño en daño explosivo con un +30% de daño y sin pérdidas.\n•  JcE: +11% aumento al daño de precisión y +15% al daño de no precisión.\n•  JcJ: el daño total permanece casi igual."
+    }
+  },
+  "3047969693": {
+    "displayProperties": {
+      "tip": "Recargar en los 6 segundos siguientes a una baja de precisión otorga 600 disparos por minuto durante 7 segundos, pero reduce el daño hacia los combatientes en un -20%."
+    }
+  },
+  "3096702027": {
+    "displayProperties": {
+      "tip": "Recarga el cargador al romper un escudo elemental o de Campeón de barrera. Las armas energéticas generan 1 munición por impacto contra escudos elementales que coincidan."
+    }
+  },
+  "3108830275": {
+    "displayProperties": {
+      "tip": "Inicia la regeneración de salud y otorga ~80 de vida después de obtener 3 puntos. Los enemigos de rango bajo conceden 1 punto, los Guardianes conceden 2, los de élite/minijefes/jefes conceden 3. Las bajas deben realizarse con un intervalo de ~8s entre ellas."
+    }
+  },
+  "3161816588": {
+    "displayProperties": {
+      "tip": "Dura ~3 segundos con un enfriamiento de 0,3 segundos. Refresca un 15% del cargador y otorga +20 de alcance y +~50 de estabilidad."
+    }
+  },
+  "3194351027": {
+    "displayProperties": {
+      "tip": "\n•  +15% de daño a los lanzacohetes"
+    }
+  },
+  "3201496230": {
+    "displayProperties": {
+      "tip": "Al golpear a un combatiente de rango menor, concede una carga."
+    }
+  },
+  "3275789089": {
+    "displayProperties": {
+      "tip": "La explosión desorienta a los enemigos en un radio de 7 metros durante 5 segundos."
+    }
+  },
+  "3300816228": {
+    "displayProperties": {
+      "tip": "Recarga las armas guardadas de las reservas después de 3 segundos."
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "Aumenta considerablemente la experiencia de tu Guardián."
+    }
+  },
+  "3350417888": {
+    "displayProperties": {
+      "tip": "Refresca las armas guardadas después de recargar hasta 6 segundos después de una baja."
+    }
+  },
+  "3365897133": {
+    "displayProperties": {
+      "tip": "Divide un 55% del daño en daño explosivo con un +30% de daño y sin pérdidas. Detona a los 0,6 segundos.\n•  JcE: +12% aumento al daño de precisión y +16% al daño de no precisión.\n•  JcJ: el daño total permanece casi igual."
+    }
+  },
+  "3400784728": {
+    "displayProperties": {
+      "tip": "La ventana de activación es de 2,5 segundos."
+    }
+  },
+  "3418782618": {
+    "displayProperties": {
+      "tip": "Recarga el cargador en un 50-60% para las armas principales o en un 30-40% para las armas especiales"
+    }
+  },
+  "3425386926": {
+    "displayProperties": {
+      "tip": "Dura 3,5 segundos.\n•  1x: +10% daño\n•  2x: +21% daño\n•  3x: +33% daño"
+    }
+  },
+  "3436462433": {
+    "displayProperties": {
+      "tip": "Las habilidades de carga múltiple contribuyen a los requisitos (por ejemplo, 2 granadas y un cuerpo a cuerpo contarán como beneficio máximo de Excedente).\n•  1x: +5 velocidad de recarga, +10 manejo, +5 estabilidad\n•  2x: +22 velocidad de recarga, +25 manejo, +15 estabilidad\n•  3x: +50 velocidad de recarga, +50 manejo, +25 estabilidad"
+    }
+  },
+  "3511092054": {
+    "displayProperties": {
+      "tip": "[Estasis] aumenta la velocidad de movimiento al apuntar con mira en un +5%."
+    }
+  },
+  "3513791699": {
+    "displayProperties": {
+      "tip": "20% de probabilidad de que al fallar se devuelva 1 disparo al cargador."
+    }
+  },
+  "3523296417": {
+    "displayProperties": {
+      "tip": "Las bajas con armas principales y destructivas otorgan un 10% de energía de granada y las bajas con armas especiales otorgan un 20% de energía de granada. Enfriamiento de 3 segundos en el efecto de recarga de uso de granadas."
+    }
+  },
+  "3551326236": {
+    "displayProperties": {
+      "tip": "Dura 3,5 segundos.\n•  1x: +10% daño\n•  2x: +21% daño\n•  3x: +33% daño"
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Aumenta mucho la experiencia de tu Guardián."
+    }
+  },
+  "3592538738": {
+    "displayProperties": {
+      "tip": "Concede un +7,5% de energía de habilidad repartida por igual entre todas las habilidades no cargadas."
+    }
+  },
+  "3643424744": {
+    "displayProperties": {
+      "tip": "Rellena el cargador al 2x de su capacidad."
+    }
+  },
+  "3673922083": {
+    "displayProperties": {
+      "tip": "Dura 6 segundos:\n•  +25% daño (+20% para escopetas y arcos)\n•  -20% cadencia de fuego/tiempo de carga"
+    }
+  },
+  "3700496672": {
+    "displayProperties": {
+      "tip": "Activa las ventajas de obtención de munición."
+    }
+  },
+  "3824105627": {
+    "displayProperties": {
+      "tip": "Las muertes de precisión otorgan +45 de velocidad de recarga durante 6 segundos. Tiene el mismo radio que la Especialización en Libélula, pero inflige un +25% más de daño. No funciona con Especialización en Libélula."
+    }
+  },
+  "3913600130": {
+    "displayProperties": {
+      "tip": "Dura 3 segundos.\n•  1x: +6% daño\n•  2x: +12% daño\n•  3x: +18% daño\n•  4x: +24% daño\n•  5x: +30% daño"
+    }
+  },
+  "3927722942": {
+    "displayProperties": {
+      "tip": "Los cohetes detonan 3 segundos después del impacto e infligen un +20% más de daño por explosión.\n•  +25 radio de explosión"
+    }
+  },
+  "4049631843": {
+    "displayProperties": {
+      "tip": "+35% de daño después de golpear tres objetivos distintos con 3 segundos de diferencia."
+    }
+  },
+  "4071163871": {
+    "displayProperties": {
+      "tip": "\n•  A menos de 15 metros de 1 enemigo: +~15 estabilidad, +15 velocidad de recarga, +25% mayor velocidad de la animación del manejo.\n•  A menos de 15 metros de 2+ enemigos: +~40 estabilidad, +55 velocidad de recarga, y +43% mayor velocidad de la animación de manejo."
+    }
+  },
+  "4082225868": {
+    "displayProperties": {
+      "tip": "Dura 4,5 segundos.\n•  1x: +6,6% daño\n•  2x: +13,2% daño\n•  3x: +20% daño\n•  4x: +26,6% daño\n•  5x: +33,3% daño"
+    }
+  },
+  "4091000557": {
+    "displayProperties": {
+      "tip": "Aumento del 7,8% de daño a los combatientes de rango menor."
+    }
+  },
+  "4104185692": {
+    "displayProperties": {
+      "tip": "Estar en combate durante 12 segundos otorga +15% de daño aumentado, +~50 de manejo y +50 de velocidad de recarga. Dura hasta que se sale del combate. Estar en combate es haber infligido o recibido daño en los últimos 5 segundos."
+    }
+  },
+  "4252909580": {
+    "displayProperties": {
+      "tip": "Mientras seas el último miembro vivo de tu escuadra, las bajas recargan por completo el cargador.\n•  +30 cargador"
+    }
+  },
+  "4267945040": {
+    "displayProperties": {
+      "tip": "Aumenta la cadencia de fuego en un +10% sólo en las escopetas."
+    }
+  },
   "23239861010": {
     "displayProperties": {
-      "description": "Ninguna obra maestra seleccionada",
+      "description": "Ninguna obra maestra seleccionada.",
       "name": "Ranura de Obra Maestra vacía"
     },
     "itemTypeDisplayName": "Modificador de arma",
@@ -97,11 +577,6 @@
   "73143230001": {
     "displayProperties": {
       "name": "Equipamiento hito (débil)"
-    }
-  },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Cordel sintético suave que puede convertirse en Tejido sintético usando el Telar."
     }
   }
 }
