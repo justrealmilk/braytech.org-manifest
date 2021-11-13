@@ -182,103 +182,103 @@
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
-      "description": "View all active Triumphs and Seals."
+      "description": "View all active Triumphs and Seals"
     }
   },
   "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Legacy Triumphs and Seals",
-      "description": "View a collection of legacy Triumphs and Seals."
+      "description": "View a collection of legacy Triumphs and Seals"
     }
   },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
   "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Medals",
-      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned."
+      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
     }
   },
   "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
       "name": "Exotic Catalysts",
-      "description": "Exotic catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential."
+      "description": "Exotic catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
     }
   },
   "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Lore",
-      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs."
+      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
     }
   },
   "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Stat Trackers",
-      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible."
+      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
   "sub-clan-about": {
     "displayProperties": {
       "name": "Clan",
-      "description": "About your clan and what it stands for."
+      "description": "About your clan and what it stands for"
     }
   },
   "sub-clan-roster": {
     "displayProperties": {
       "name": "Roster",
-      "description": "Find friends to play with."
+      "description": "Find friends to play with"
     }
   },
   "sub-clan-administration": {
     "displayProperties": {
       "name": "Administration",
-      "description": "Take action on clan matters and members."
+      "description": "Take action on clan matters and members"
     }
   },
   "sub-clan-stats": {
     "displayProperties": {
       "name": "Historical Stats",
-      "description": "Compare _Historical Stats_ for several activity modes across all clan members."
+      "description": "Compare _Historical Stats_ for several activity modes across all clan members"
     }
   },
   "sub-clan-timetable": {
     "displayProperties": {
       "name": "Timetable",
-      "description": "Put clan events down on paper and make it official."
+      "description": "Put clan events down on paper and make it official"
     }
   },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relationships",
-      "description": "See which clan members you dedicate your time to most."
+      "description": "See which clan members you dedicate your time to most"
     }
   },
   "sub-character-equipment": {
     "displayProperties": {
       "name": "Equipment",
-      "description": "Evaluate your Guardian's battle readiness."
+      "description": "Evaluate your Guardian's battle readiness"
     }
   },
   "sub-character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items."
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
     }
   },
   "sub-character-consumables": {
     "displayProperties": {
       "name": "Consumables",
-      "description": "Supplies and materials that can be used to enhance your Guardian and their gear."
+      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
     }
   },
   "sub-character-vault": {
     "displayProperties": {
       "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters."
+      "description": "Safe storage for general items. Accessible to all your characters"
     }
   },
   "sub-activity-carnage": {
@@ -296,31 +296,31 @@
   "sub-activity-graphs": {
     "displayProperties": {
       "name": "Graphs",
-      "description": "Activities plotted against graphs, for the statistically inclined."
+      "description": "Activities plotted against graphs, for the statistically inclined"
     }
   },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Cycles",
-      "description": "Key activities and cycles."
+      "description": "Key activities and cycles"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Challenges",
-      "description": "All activity challenges."
+      "description": "All activity challenges"
     }
   },
   "sub-inspect-equipment": {
     "displayProperties": {
       "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods."
+      "description": "All item attributes; stats, perks, and mods"
     }
   },
   "sub-inspect-lore": {
     "displayProperties": {
       "name": "Lore",
-      "description": "Read this item's story."
+      "description": "Read this item's story"
     }
   }
 }
