@@ -182,103 +182,103 @@
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
-      "description": "Vedi tutti i trionfi e sigilli attivi."
+      "description": "Vedi tutti i trionfi e sigilli attivi"
     }
   },
   "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Trionfi e sigilli storici",
-      "description": "Vedi una collezione di trionfi e sigilli storici."
+      "description": "Vedi una collezione di trionfi e sigilli storici"
     }
   },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Sfide stagionali",
-      "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense."
+      "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
     }
   },
   "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Medaglie",
-      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate."
+      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
     }
   },
   "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
       "name": "Catalizzatori esotici",
-      "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale."
+      "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale"
     }
   },
   "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Leggende",
-      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi."
+      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
     }
   },
   "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Contatori statistiche",
-      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile."
+      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
     }
   },
   "sub-clan-about": {
     "displayProperties": {
       "name": "Clan",
-      "description": "Informazioni sul tuo clan e su cosa rappresenta."
+      "description": "Informazioni sul tuo clan e su cosa rappresenta"
     }
   },
   "sub-clan-roster": {
     "displayProperties": {
       "name": "Membri",
-      "description": "Trova amici con cui giocare."
+      "description": "Trova amici con cui giocare"
     }
   },
   "sub-clan-administration": {
     "displayProperties": {
       "name": "Amministrazione",
-      "description": "Amministra questioni e membri del clan."
+      "description": "Amministra questioni e membri del clan"
     }
   },
   "sub-clan-stats": {
     "displayProperties": {
       "name": "Statistiche storiche",
-      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan."
+      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan"
     }
   },
   "sub-clan-timetable": {
     "displayProperties": {
       "name": "Programmazione",
-      "description": "Metti per iscritto gli eventi del clan e rendili ufficiali."
+      "description": "Metti per iscritto gli eventi del clan e rendili ufficiali"
     }
   },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relazioni",
-      "description": "Scopri a quali membri del clan dedichi maggiormente il tuo tempo."
+      "description": "Scopri a quali membri del clan dedichi maggiormente il tuo tempo"
     }
   },
   "sub-character-equipment": {
     "displayProperties": {
       "name": "Equipaggiamento",
-      "description": "Valuta la prontezza in battaglia del tuo Guardiano."
+      "description": "Valuta la prontezza in battaglia del tuo Guardiano"
     }
   },
   "sub-character-postmaster": {
     "displayProperties": {
       "name": "Amministratrice",
-      "description": "I telai da amministratore supervisionano diligentemente consegne, messaggi e oggetti smarriti."
+      "description": "I telai da amministratore supervisionano diligentemente consegne, messaggi e oggetti smarriti"
     }
   },
   "sub-character-consumables": {
     "displayProperties": {
       "name": "Consumabili",
-      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento."
+      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento"
     }
   },
   "sub-character-vault": {
     "displayProperties": {
       "name": "Deposito",
-      "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi."
+      "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi"
     }
   },
   "sub-activity-carnage": {
@@ -296,31 +296,31 @@
   "sub-activity-graphs": {
     "displayProperties": {
       "name": "Grafici",
-      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche."
+      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche"
     }
   },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Cicli",
-      "description": "Attività chiave e cicli."
+      "description": "Attività chiave e cicli"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Sfide",
-      "description": "Tutte le sfide delle attività."
+      "description": "Tutte le sfide delle attività"
     }
   },
   "sub-inspect-equipment": {
     "displayProperties": {
       "name": "Attributi",
-      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto."
+      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto"
     }
   },
   "sub-inspect-lore": {
     "displayProperties": {
       "name": "Leggende",
-      "description": "Leggi la storia di questo oggetto."
+      "description": "Leggi la storia di questo oggetto"
     }
   }
 }
