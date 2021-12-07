@@ -118,6 +118,13 @@
       "localIcon": true
     }
   },
+  "1210906311": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/badges/0311_0687_02.png",
+      "hasIcon": true,
+      "localIcon": true
+    }
+  },
   "1235050036": {
     "displayProperties": {
       "icon": "/static/images/extracts/badges/7e6a6b6b0da229123b72b599477b1120.png",
@@ -240,6 +247,13 @@
   "2107507397": {
     "displayProperties": {
       "icon": "/static/images/extracts/badges/0281-0F15.png",
+      "hasIcon": true,
+      "localIcon": true
+    }
+  },
+  "2185719388": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/badges/0311_0687_01.png",
       "hasIcon": true,
       "localIcon": true
     }
