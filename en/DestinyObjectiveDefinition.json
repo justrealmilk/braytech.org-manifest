@@ -6,7 +6,7 @@
     "progressDescription": "Nightfall: The Ordeal strikes completed"
   },
   "2498962144": {
-    "progressDescription": "Nightfall: The Ordeal 100,000 score achieved"
+    "progressDescription": "Nightfall: The Ordeal strike completed with a score of 100,000 or higher"
   },
   "3118376466": {
     "progressDescription": "Control matches completed"
@@ -52,6 +52,12 @@
   },
   "3930555788": {
     "progressDescription": "Corrupted Conflux Chests opened"
+  },
+  "1948254616": {
+    "progressDescription": "Dares of Eternity activities completed"
+  },
+  "1205559531": {
+    "progressDescription": "Dares of Eternity completed with a score of {var:3648290880} or higher"
   },
   "4140117227": {
     "progressDescription": "Vanguard bounties completed"
