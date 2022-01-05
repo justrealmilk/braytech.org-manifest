@@ -6,10 +6,10 @@
     "progressDescription": "Asaltos de Ocaso: el tormento completados"
   },
   "2498962144": {
-    "progressDescription": "Puntuación de 100 000 en Ocaso: el tormento"
+    "progressDescription": "Ocaso: el suplicio completado con una puntuación de 100 000 o superior"
   },
   "3118376466": {
-    "progressDescription": "Partidas de Control completadas"
+    "progressDescription": "Partidas en listas de juego del Crisol completadas"
   },
   "1607758693": {
     "progressDescription": "Rondas de Supervivencia ganadas"
@@ -19,6 +19,9 @@
   },
   "1734176373": {
     "progressDescription": "Partidas de Gambito completadas"
+  },
+  "3243082817": {
+    "progressDescription": "Mazmorra \"Garras de la avaricia\" completada"
   },
   "1501017628": {
     "progressDescription": "Incursión \"Cripta de la piedra profunda\" completada"
@@ -49,6 +52,12 @@
   },
   "3930555788": {
     "progressDescription": "Cofres de la confluencia corrupto abiertos"
+  },
+  "1948254616": {
+    "progressDescription": "Actividades de Retos de la Eternidad completadas"
+  },
+  "1205559531": {
+    "progressDescription": "Retos de la Eternidad completado con una puntuación de {var:3648290880} o superior"
   },
   "4140117227": {
     "progressDescription": "Contratos de la Vanguardia completados"
