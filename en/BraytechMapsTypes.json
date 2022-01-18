@@ -18,5 +18,10 @@
     "displayProperties": {
       "name": "Patrol"
     }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Public Event"
+    }
   }
 }
