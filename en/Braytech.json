@@ -281,6 +281,12 @@
       "description": "Safe storage for general items. Accessible to all your characters"
     }
   },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carnage",
