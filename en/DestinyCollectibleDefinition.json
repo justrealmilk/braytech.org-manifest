@@ -1,7 +1,196 @@
 {
   "1469913804": {
     "displayProperties": {
-      "tip": "Dropped by Morgeth, the Spirekeeper."
+      "tip": "Rare drop from completing the 3rd encounter (Morgeth, the Spirekeeper)."
+    }
+  },
+  "3360537485": {
+    "displayProperties": {
+      "tip": "Rare drop from completing any encounter."
+    }
+  },
+  "3163873693": {
+    "displayProperties": {
+      "tip": "Earned by opening the Glittering Key chest, found between the 3rd (Morgeth, the Spirekeeper) and 4th (The Vault) encounters if the \"2nd Wish\" has been entered."
+    }
+  },
+  "3617101589": {
+    "displayProperties": {
+      "tip": "Complete the raid for the first time."
+    }
+  },
+  "1246578675": {
+    "displayProperties": {
+      "tip": "Rare drop from any encounter."
+    }
+  },
+  "1246578674": {
+    "displayProperties": {
+      "tip": "Earned by completing all the raid challenges."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "tip": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes\"."
+    },
+    "sourceString": "Source: Last Wish raid."
+  },
+  "1171206947": {
+    "sourceString": "Source: Complete the \"Last Wish\" raid within the first 24 hours after its launch."
+  },
+  "199171385": {
+    "displayProperties": {
+      "tip": "Very rare drop from opening the Ethereal Key chests after the final encounter."
+    }
+  },
+  "1279318107": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "4274523514": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "2589931342": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "256984752": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "301231525": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "3471068543": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "3849455378": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "1534387872": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "637236": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "4058916407": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "2760144873": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "2826590445": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "1230173206": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "28595": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "552469184": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "1908141240": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "3536103390": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "915053447": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "2340335439": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "2976357604": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "934024124": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "4240106002": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "1927215059": {
+    "displayProperties": {
+      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
+    }
+  },
+  "1616812058": {
+    "displayProperties": {
+      "tip": "Rare drop from the secret chests found between the raid encounters."
+    }
+  },
+  "1244899887": {
+    "displayProperties": {
+      "tip": "Rare drop from the secret chests found between the raid encounters."
+    }
+  },
+  "2061705522": {
+    "displayProperties": {
+      "tip": "Rare drop from the secret chests found between the raid encounters."
+    }
+  },
+  "426204227": {
+    "displayProperties": {
+      "tip": "Rare drop from the secret chests found between the raid encounters."
+    }
+  },
+  "3424534823": {
+    "displayProperties": {
+      "tip": "Rare drop from the secret chests found between the raid encounters."
+    }
+  },
+  "737130625": {
+    "displayProperties": {
+      "sourceString": "Source: Unobtainable."
+    }
+  },
+  "73480071": {
+    "displayProperties": {
+      "tip": "Earned by completing Queen's Bounties."
     }
   }
 }
