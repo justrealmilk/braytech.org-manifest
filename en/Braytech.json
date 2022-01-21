@@ -167,6 +167,12 @@
       "description": "Mysterious test nodes are scattered across Mars. What is their purpose?"
     }
   },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "DIM Sync Required",
+      "description": "This feature requires _DIM Sync_.\n\nEnable the service in _Settings_."
+    }
+  },
   "tooltip-error": {
     "displayProperties": {
       "name": "Unknown Error",
