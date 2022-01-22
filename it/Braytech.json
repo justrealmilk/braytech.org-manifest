@@ -167,6 +167,12 @@
       "description": "Misteriosi nodi di test sono sparsi per Marte. Qual è il loro scopo?"
     }
   },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "DIM Sync necessario",
+      "description": "Questa funzione richiede _DIM Sync_.\n\nAttiva il servizio nelle _Impostazioni_."
+    }
+  },
   "tooltip-error": {
     "displayProperties": {
       "name": "Errore Sconosciuto",
@@ -279,6 +285,12 @@
     "displayProperties": {
       "name": "Deposito",
       "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi"
+    }
+  },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Mercanti",
+      "description": "Spia i tuoi deleganti di attività e compagni di scambi preferiti"
     }
   },
   "sub-activity-carnage": {
