@@ -18,5 +18,10 @@
     "displayProperties": {
       "name": "Patrulla"
     }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Evento público"
+    }
   }
 }

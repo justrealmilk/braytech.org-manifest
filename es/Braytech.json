@@ -233,6 +233,12 @@
       "description": "Misteriosos nodos de prueba están dispersos por todo Marte. ¿Cuál es su propósito?"
     }
   },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "Sincronización con DIM requerida",
+      "description": "Esta función requiere _Sincronización con DIM_.\n\nHabilita el servicio en _Ajustes_."
+    }
+  },
   "tooltip-error": {
     "displayProperties": {
       "name": "Error desconocido",
@@ -345,6 +351,12 @@
     "displayProperties": {
       "name": "Depósito",
       "description": "Almacenamiento seguro de artículos generales. Accesible para todos tus personajes."
+    }
+  },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Comerciantes",
+      "description": "Espía a tus delegantes de tareas y socios comerciales favoritos"
     }
   },
   "sub-activity-carnage": {
