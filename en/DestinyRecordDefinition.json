@@ -3,5 +3,17 @@
     "displayProperties": {
       "tip": "During the Warden of Nothing strike, use pikes to kill enemies."
     }
+  },
+  "1219237947": {
+    "intervalInfo": {
+      "intervalRewards": []
+    },
+    "rewardItems": [
+      {
+        "itemHash": 232928045,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      }
+    ]
   }
 }
