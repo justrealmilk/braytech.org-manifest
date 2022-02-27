@@ -609,8 +609,7 @@
     "displayProperties": {
       "description": "No masterwork currently selected.",
       "name": "Empty Masterwork Socket",
-      "icon": "/static/images/extracts/ui/items/no-mod.png",
-      "localIcon": true,
+      "iconLocal": "/static/images/extracts/ui/items/no-mod.png",
       "hasIcon": true
     },
     "itemTypeDisplayName": "Weapon Mod",

@@ -633,10 +633,7 @@
   "23239861010": {
     "displayProperties": {
       "description": "Aucune pièce maîtresse actuellement sélectionné.",
-      "name": "Emplacement de pièce maîtresse vide",
-      "icon": "/static/images/extracts/ui/items/no-mod.png",
-      "localIcon": true,
-      "hasIcon": true
+      "name": "Emplacement de pièce maîtresse vide"
     },
     "itemTypeDisplayName": "Mod de marchand",
     "tooltipStyle": "vendor_action",
