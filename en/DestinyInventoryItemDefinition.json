@@ -670,5 +670,25 @@
   },
   "2595497736": {
     "itemSubType": 33
+  },
+  "163842160": {
+    "inventory": {
+      "maxStackSize": 250
+    }
+  },
+  "163842161": {
+    "inventory": {
+      "maxStackSize": 250
+    }
+  },
+  "163842162": {
+    "inventory": {
+      "maxStackSize": 250
+    }
+  },
+  "163842163": {
+    "inventory": {
+      "maxStackSize": 250
+    }
   }
 }
