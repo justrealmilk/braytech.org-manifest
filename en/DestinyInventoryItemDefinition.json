@@ -672,23 +672,45 @@
     "itemSubType": 33
   },
   "163842160": {
+    "displayProperties": {
+      "description": "Currency used in weapon shaping.\n\nCan be obtained by completing Deepsight objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material",
     "inventory": {
       "maxStackSize": 250
     }
   },
   "163842161": {
+    "displayProperties": {
+      "description": "Currency used in weapon shaping.\n\nCan be obtained by completing Deepsight objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material",
     "inventory": {
       "maxStackSize": 250
     }
   },
   "163842162": {
+    "displayProperties": {
+      "description": "Currency used in weapon shaping.\n\nCan be obtained by completing Deepsight objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material",
     "inventory": {
       "maxStackSize": 250
     }
   },
   "163842163": {
+    "displayProperties": {
+      "description": "Currency used in weapon shaping.\n\nCan be obtained by completing Deepsight objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material",
     "inventory": {
       "maxStackSize": 250
     }
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "Currency used in weapon shaping.\n\nCan be obtained by completing Deepsight objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material"
   }
 }
