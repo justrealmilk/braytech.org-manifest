@@ -51,17 +51,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474576,
-            1084474577,
-            1084474591
-          ]
+          "checklistItems": [1084474576, 1084474577, 1084474591]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596463
-          ]
+          "checklistItems": [1387596463]
         }
       ]
     },
@@ -99,19 +93,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1034141726,
-            1067696996,
-            1067696997,
-            1067696998,
-            1084474590
-          ]
+          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596460
-          ]
+          "checklistItems": [1387596460]
         }
       ]
     },
@@ -149,19 +135,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696992,
-            1067696993,
-            1067696999,
-            1067697005,
-            1084474583
-          ]
+          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818879
-          ]
+          "checklistItems": [1370818879]
         }
       ]
     }
@@ -195,19 +173,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474578,
-            1084474579,
-            1118029876,
-            1118029877,
-            1118029882
-          ]
+          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596457
-          ]
+          "checklistItems": [1387596457]
         }
       ]
     },
@@ -245,17 +215,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474580,
-            1084474581,
-            1084474582
-          ]
+          "checklistItems": [1084474580, 1084474581, 1084474582]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818878
-          ]
+          "checklistItems": [1370818878]
         }
       ]
     },
@@ -294,17 +258,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696994,
-            1067696995,
-            1067697004
-          ]
+          "checklistItems": [1067696994, 1067696995, 1067697004]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818866
-          ]
+          "checklistItems": [1370818866]
         }
       ]
     }
@@ -3984,5 +3942,31 @@
       "icon": "patrol-salvage"
     },
     "typeHash": 4
-  }
+  },
+  "2000000231": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000232": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000233": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000234": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000235": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000236": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000237": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000238": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000239": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000240": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000241": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000242": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000243": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000244": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000245": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000246": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000247": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000248": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 },
+  "2000000249": { "displayProperties": { "name": "Random", "description": "This beacon can relay various objectives.", "icon": "patrol-random" }, "typeHash": 4 }
 }
