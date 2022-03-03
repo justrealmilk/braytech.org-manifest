@@ -1312,8 +1312,7 @@
   },
   "187": {
     "checklistHash": 4180769175,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-4180769175.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-4180769175.jpg"
   },
   "188": {
     "checklistHash": 1476218840,
@@ -1329,8 +1328,7 @@
   },
   "189": {
     "checklistHash": 2310431689,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-2310431689.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-2310431689.jpg"
   },
   "190": {
     "checklistHash": 36550832,
@@ -1382,8 +1380,7 @@
   },
   "194": {
     "checklistHash": 2413985082,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2413985082.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2413985082.jpg"
   },
   "195": {
     "checklistHash": 826419291,
@@ -1399,18 +1396,22 @@
   },
   "196": {
     "checklistHash": 37242594,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/metamorphosis-37242594.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/metamorphosis-37242594.jpg"
   },
   "197": {
     "checklistHash": 2946946913,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sepulcher-2946946913.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sepulcher-2946946913.jpg"
   },
   "198": {
     "checklistHash": 3423978360,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/extraction-3423978360.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/extraction-3423978360.jpg"
+  },
+  "199": {
+    "checklistHash": 2904405255,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/quagmire-2904405255.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=2-cYU_XzBkI"
+    }
   },
   "200": {
     "recordHash": 4212118078,
@@ -1698,6 +1699,27 @@
     "vendorHash": 3611983588,
     "bubbleHash": 824533556,
     "screenshot": "/static/images/screenshots/vendors/vendors_crow-2.jpg"
+  },
+  "243": {
+    "checklistHash": 3599629642,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/apothecary-3599629642.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=2-cYU_XzBkI&t=38s"
+    }
+  },
+  "244": {
+    "checklistHash": 2268955401,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/temple-of-the-cunning-2268955401.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=_SMPyuPQ0LY&t=146s"
+    }
+  },
+  "245": {
+    "checklistHash": 333170652,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/alluring-curtain-333170652.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=_SMPyuPQ0LY"
+    }
   },
   "278": {
     "displayProperties": {
@@ -4238,7 +4260,7 @@
       "icon": "patrol-random"
     },
     "typeHash": 4
-  },  
+  },
   "2000000250": {
     "vendorHash": 2384113223,
     "bubbleHash": 3056690829,

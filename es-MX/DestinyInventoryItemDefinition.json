@@ -588,45 +588,30 @@
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas, necesaria para ajustar las ventajas de daño y proyectiles.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
     },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 250
-    }
+    "itemTypeDisplayName": "Material"
   },
   "163842161": {
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas básicas características de las armas.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
     },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 250
-    }
+    "itemTypeDisplayName": "Material"
   },
   "163842162": {
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas de habilidades.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
     },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 250
-    }
+    "itemTypeDisplayName": "Material"
   },
   "163842163": {
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas de munición y recarga.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
     },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 250
-    }
+    "itemTypeDisplayName": "Material"
   },
   "3491404510": {
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
     },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 8500
-    }
+    "itemTypeDisplayName": "Material"
   }
 }
