@@ -1721,6 +1721,68 @@
       "video": "https://www.youtube.com/watch?v=_SMPyuPQ0LY"
     }
   },
+  "246": {
+    "checklistHash": 2525596425,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/quagmire-2525596425.jpg",
+    "extended": {}
+  },
+  "247": {
+    "checklistHash": 2914357734,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/florescent-canal-2914357734.jpg",
+    "extended": {}
+  },
+  "248": {
+    "checklistHash": 2976471567,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/miasma-2976471567.jpg",
+    "extended": {}
+  },
+  "249": {
+    "checklistHash": 668304140,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/extraction-668304140.jpg",
+    "extended": {}
+  },
+  "250": {
+    "checklistHash": 926127853,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/sepulcher-926127853.jpg",
+    "extended": {}
+  },
+  "251": {
+    "checklistHash": 1521382762,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/metamorphosis-1521382762.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=gaNtvsEa1QQ&t=210s"
+    }
+  },
+  "252": {
+    "checklistHash": 3538365411,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/altar-of-reflection-3538365411.jpg",
+    "extended": {}
+  },
+  "253": {
+    "checklistHash": 1283317648,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/queens-bailey-1283317648.jpg",
+    "extended": {}
+  },
+  "254": {
+    "checklistHash": 146269745,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/temple-of-the-cunning-146269745.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=gaNtvsEa1QQ&t=291s",
+      "screenshot": {
+        "highlight": {
+          "x": 76,
+          "y": 35
+        }
+      }
+    }
+  },
+  "255": {
+    "checklistHash": 1279404415,
+    "screenshot": "/static/images/screenshots/checklists/darkness-rifts/court-of-thorns-1279404415.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=gaNtvsEa1QQ&t=66s"
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Queen's Court",
