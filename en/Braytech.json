@@ -311,6 +311,12 @@
       "description": "Activities plotted against graphs, for the statistically inclined"
     }
   },
+  "sub-activity-legends": {
+    "displayProperties": {
+      "name": "Legends",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Cycles",
