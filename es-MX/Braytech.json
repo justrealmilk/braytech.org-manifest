@@ -377,6 +377,12 @@
       "description": "Actividades representadas en gráficos, para los interesados en la estadística."
     }
   },
+  "sub-activity-legends": {
+    "displayProperties": {
+      "name": "Leyendas",
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios"
+    }
+  },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Ciclos",
