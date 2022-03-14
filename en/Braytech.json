@@ -185,6 +185,12 @@
       "description": "Your profile data is _stale_. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment.\n\nContinued use of Braytech will resolve this issue, Bungie.net services permitting."
     }
   },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Amongst the First",
+      "description": "This activity was finished in the contest mode window: triumph under extraordinary circumstance and pressure"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
