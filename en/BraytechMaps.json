@@ -51,11 +51,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474576, 1084474577, 1084474591]
+          "checklistItems": [
+            1084474576,
+            1084474577,
+            1084474591
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596463]
+          "checklistItems": [
+            1387596463
+          ]
         }
       ]
     },
@@ -93,11 +99,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
+          "checklistItems": [
+            1034141726,
+            1067696996,
+            1067696997,
+            1067696998,
+            1084474590
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596460]
+          "checklistItems": [
+            1387596460
+          ]
         }
       ]
     },
@@ -135,11 +149,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
+          "checklistItems": [
+            1067696992,
+            1067696993,
+            1067696999,
+            1067697005,
+            1084474583
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818879]
+          "checklistItems": [
+            1370818879
+          ]
         }
       ]
     }
@@ -173,11 +195,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
+          "checklistItems": [
+            1084474578,
+            1084474579,
+            1118029876,
+            1118029877,
+            1118029882
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596457]
+          "checklistItems": [
+            1387596457
+          ]
         }
       ]
     },
@@ -215,11 +245,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474580, 1084474581, 1084474582]
+          "checklistItems": [
+            1084474580,
+            1084474581,
+            1084474582
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818878]
+          "checklistItems": [
+            1370818878
+          ]
         }
       ]
     },
@@ -258,11 +294,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696994, 1067696995, 1067697004]
+          "checklistItems": [
+            1067696994,
+            1067696995,
+            1067697004
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818866]
+          "checklistItems": [
+            1370818866
+          ]
         }
       ]
     }
@@ -1758,6 +1800,38 @@
       }
     }
   },
+  "258": {
+    "displayProperties": {
+      "description": "Accessable via the _Wellspring_ offensive."
+    },
+    "checklistHash": 2895058245,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/court-of-thorns-2895058245.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 31,
+          "y": 61
+        }
+      },
+      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=87s"
+    }
+  },
+  "259": {
+    "displayProperties": {
+      "description": "Requires _Deepsight_ to reveal."
+    },
+    "checklistHash": 1903309704,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/witchs-echo-1903309704.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 49,
+          "y": 58
+        }
+      },
+      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=0s"
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Queen's Court",
@@ -2770,72 +2844,6 @@
       "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     },
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001010.jpg"
-  },
-  "2000000251": {
-    "displayProperties": {
-      "name": "Alluring Curtain Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
-    },
-    "typeHash": 3,
-    "destinationHash": 2244580325,
-    "bubbleHash": 3056690829,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1649840682
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1649840682,
-          "objectiveHash": 4272832083
-        }
-      ]
-    }
-  },
-  "2000000252": {
-    "displayProperties": {
-      "name": "Queen's Bailey Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
-    },
-    "typeHash": 3,
-    "destinationHash": 2244580325,
-    "bubbleHash": 409878074,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1649840682
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1649840682,
-          "objectiveHash": 4272832082
-        }
-      ]
-    }
-  },
-  "2000000253": {
-    "displayProperties": {
-      "name": "Witch's Echo Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
-    },
-    "typeHash": 3,
-    "destinationHash": 2244580325,
-    "bubbleHash": 3375528975,
-    "related": {
-      "records": [
-        {
-          "recordHash": 1649840682
-        }
-      ],
-      "objectives": [
-        {
-          "recordHash": 1649840682,
-          "objectiveHash": 4272832081
-        }
-      ]
-    }
   },
   "2000000000": {
     "displayProperties": {
@@ -4368,5 +4376,71 @@
     "vendorHash": 2384113223,
     "bubbleHash": 3056690829,
     "screenshot": "/static/images/screenshots/vendors/vendors_fynch-1.jpg"
+  },
+  "2000000251": {
+    "displayProperties": {
+      "name": "Alluring Curtain Executioner",
+      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
+    },
+    "typeHash": 3,
+    "destinationHash": 2244580325,
+    "bubbleHash": 3056690829,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1649840682
+        }
+      ],
+      "objectives": [
+        {
+          "recordHash": 1649840682,
+          "objectiveHash": 4272832083
+        }
+      ]
+    }
+  },
+  "2000000252": {
+    "displayProperties": {
+      "name": "Queen's Bailey Executioner",
+      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
+    },
+    "typeHash": 3,
+    "destinationHash": 2244580325,
+    "bubbleHash": 409878074,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1649840682
+        }
+      ],
+      "objectives": [
+        {
+          "recordHash": 1649840682,
+          "objectiveHash": 4272832082
+        }
+      ]
+    }
+  },
+  "2000000253": {
+    "displayProperties": {
+      "name": "Witch's Echo Executioner",
+      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
+    },
+    "typeHash": 3,
+    "destinationHash": 2244580325,
+    "bubbleHash": 3375528975,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1649840682
+        }
+      ],
+      "objectives": [
+        {
+          "recordHash": 1649840682,
+          "objectiveHash": 4272832081
+        }
+      ]
+    }
   }
 }
