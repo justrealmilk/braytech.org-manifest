@@ -227,7 +227,7 @@
   },
   "1600092898": {
     "displayProperties": {
-      "tip": "4 secondes après changement d'un fusil à fusion:\n•  Multiplies le temps de charge par 0,8\n•  +20% réduction de dégâts\n•  +100 Maniement"
+      "tip": "Changer vers cette arme accorde ce qui suit pendant 4 secondes:\n•  Multiplies le temps de charge par 0,8\n•  +20% réduction de dégâts\n•  +100 Maniement"
     }
   },
   "1631667848": {
@@ -392,7 +392,7 @@
   },
   "2788909693": {
     "displayProperties": {
-      "tip": "7,8% d'augmentation des dégâts aux combattants de rangs Boss/Ultra."
+      "tip": "7,8% d'augmentation des dégâts aux combattants de rangs Boss/Ultra et aux véhicules."
     }
   },
   "2846385770": {
@@ -422,7 +422,7 @@
   },
   "2946784966": {
     "displayProperties": {
-      "tip": "S'active après avoir rechargé 6 secondes après une élimination.\n•  +20 Assistance à la visée\n•  +20% précision"
+      "tip": "S'active après avoir rechargé pendant 6 secondes après une élimination.\n•  +20 Assistance à la visée\n•  +20% précision"
     }
   },
   "3016987351": {
@@ -432,7 +432,7 @@
   },
   "3038247973": {
     "displayProperties": {
-      "tip": "Divise 50 % des dégâts en dégâts explosifs avec 30 % de dégâts en plus et aucune chute de visée.\n•  En PvE, 11% d'augmentation des dommages de précision et 15% des dommages imprécis.\n•  En PvP, le total des dégâts reste presque le même."
+      "tip": "Divise 50 % des dégâts en dégâts explosifs avec 30 % de dégâts en plus et aucune chute de visée.\n•  PvE: 11% d'augmentation des dommages de précision et 15% des dommages imprécis.\n•  PvP: le total des dégâts reste presque le même."
     }
   },
   "3047969693": {
@@ -463,31 +463,6 @@
   "3201496230": {
     "displayProperties": {
       "tip": "En cas de coup d'un ennemi de rang mineur de niveau inférieur, confère une charge."
-    }
-  },
-  "3243866696": {
-    "displayProperties": {
-      "description": "L'un des cinq artefacts requis pour le catalyseur de Ligne d'Univers Zero."
-    }
-  },
-  "3243866697": {
-    "displayProperties": {
-      "description": "L'un des cinq artefacts requis pour le catalyseur de Ligne d'Univers Zero."
-    }
-  },
-  "3243866698": {
-    "displayProperties": {
-      "description": "L'un des cinq artefacts requis pour le catalyseur de Ligne d'Univers Zero."
-    }
-  },
-  "3243866699": {
-    "displayProperties": {
-      "description": "L'un des cinq artefacts requis pour le catalyseur de Ligne d'Univers Zero."
-    }
-  },
-  "3243866703": {
-    "displayProperties": {
-      "description": "L'un des cinq artefacts requis pour le catalyseur de Ligne d'Univers Zero."
     }
   },
   "3275789089": {
@@ -689,6 +664,36 @@
     "displayProperties": {
       "name": "Equipement de prestige (Faible)",
       "hasIcon": false
+    }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
+    }
+  },
+  "163842160": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les dégâts et les avantages des projectiles.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
+    }
+  },
+  "163842161": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les avantages de base des caractéristiques de l'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
+    }
+  },
+  "163842162": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les traits de capacité.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
+    }
+  },
+  "163842163": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les munitions et changer les avantages d'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
+    }
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   }
 }

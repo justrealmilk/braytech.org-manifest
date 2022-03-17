@@ -1,7 +1,760 @@
 {
   "1469913804": {
     "displayProperties": {
-      "tip": "Obtenu par Morgeth, Le Garde-Flèche."
+      "tip": "Récompense rare après avoir terminé la 3e rencontre (Morgeth, le Garde-Flèche)."
+    }
+  },
+  "3360537485": {
+    "displayProperties": {
+      "tip": "Récompense rare après avoir terminé n'importe quelle rencontre."
+    }
+  },
+  "3163873693": {
+    "displayProperties": {
+      "tip": "Gagné en ouvrant le coffre de la clé scintillante, trouvé entre les troisième (Morgeth, le Garde-Flèche) et quatrième (Le Caveau) rencontres si le \"second Vœu\" a été activé sur le mur des Vœux."
+    }
+  },
+  "3617101589": {
+    "displayProperties": {
+      "tip": "Obtenu en terminant le raid pour la première fois."
+    }
+  },
+  "1246578675": {
+    "displayProperties": {
+      "tip": "Récompense rare de n'importe quelle rencontre."
+    }
+  },
+  "1246578674": {
+    "displayProperties": {
+      "tip": "Gagné en complétant tous les défis du raid."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "tip": "Gagné en entrant le \"troisième vœu\" sur le \"Mur des Vœux\"."
+    },
+    "sourceString": "Source: raid Dernier Vœu."
+  },
+  "1171206947": {
+    "displayProperties": {
+      "tip": "Impossible à obtenir."
+    },
+    "sourceString": "Source: Terminez le raid \"Dernier Vœu\" dans les premières 24 heures après son lancement."
+  },
+  "199171385": {
+    "displayProperties": {
+      "tip": "Récompense très rare en ouvrant les coffres avec des clés d'Éternité après la rencontre finale."
+    }
+  },
+  "1279318107": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "4274523514": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "2589931342": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "256984752": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "301231525": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "3471068543": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "3849455378": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "1534387872": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "637236": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "4058916407": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "2760144873": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "2826590445": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "1230173206": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "28595": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "552469184": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "1908141240": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "3536103390": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "915053447": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "2340335439": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "2976357604": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "934024124": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "4240106002": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "1927215059": {
+    "displayProperties": {
+      "tip": "Récompense de n'importe quelle rencontre.\nDeviens une récompense des coffres secrets si acquis précédemment."
+    }
+  },
+  "1616812058": {
+    "displayProperties": {
+      "tip": "Récompense rare des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "1244899887": {
+    "displayProperties": {
+      "tip": "Récompense rare des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2061705522": {
+    "displayProperties": {
+      "tip": "Récompense rare des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "426204227": {
+    "displayProperties": {
+      "tip": "Récompense rare des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3424534823": {
+    "displayProperties": {
+      "tip": "Récompense rare des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "737130625": {
+      "sourceString": "Source: Impossible à obtenir."
+  },
+  "73480071": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant les contrats de la reine."
+    }
+  },
+  "304436264": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant tous les défis de raid."
+    }
+  },
+  "304436265": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe de l'[\"Infection Parfaite\"](https://bray.tech/triumphs/node/1473265108/2178633627/615240848)"
+    }
+  },
+  "3938759710": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le raid pour la première fois."
+    }
+  },
+  "3938759711": {
+    "displayProperties": {
+      "tip": "Momentanément impossible à obtenir."
+    },
+    "sourceString": "Terminez le raid \"Jardin du Salut\" dans les 24 premières heures suivant la sortie."
+  },
+  "1988948484": {
+    "sourceString": "Source: Obtenu en complétant la quête exotique \"Défragmentation Divine\"."
+  },
+  "1844459180": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 1ère rencontre (Évasion)."
+    }
+  },
+  "3995207026": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 1ère rencontre (Évasion)."
+    }
+  },
+  "2948134329": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 2e rencontre (Invocation)."
+    }
+  },
+  "4228109048": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 2e rencontre (Invocation)."
+    }
+  },
+  "1999017690": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 3e rencontre (Esprit Consacré)."
+    }
+  },
+  "773381624": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 3e rencontre (Esprit Consacré)."
+    }
+  },
+  "1141170786": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé)."
+    }
+  },
+  "204539712": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "95569771": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 2e rencontre (Invocation).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "2783756445": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 3e rencontre (Esprit Consacré).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "1740561233": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 1ère rencontre (Évasion).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "29206418": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "3635099391": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "4276241044": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 2e rencontre (Invocation).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "2100683596": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 3e rencontre (Esprit Consacré).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "166135138": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 1ère rencontre (Évasion).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "3093771363": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "1399922251": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "831181528": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 2e rencontre (Invocation).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "3854372384": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 3e rencontre (Esprit Consacré).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "3851783670": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la 1ère rencontre (Évasion).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "2282824303": {
+    "displayProperties": {
+      "tip": "Récompense après avoir terminé la rencontre finale (Esprit Sacralisé).\nRécompense des coffres secrets s'ils ont été acquis précédemment."
+    }
+  },
+  "911081605": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "1435246899": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2081488768": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2276007528": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "160781275": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "1395260669": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2076751138": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3796544862": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3574313939": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Toucher le fond\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    },
+    "sourceString": "Source: raid \"Crypte de la Pierre\"."
+  },
+  "392272160": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Pas une égratignure\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    },
+    "sourceString": "Source: raid \"Crypte de la Pierre\"."
+  },
+  "2571679418": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Garde de la Crypte\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2571679419": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Loi du plus fort\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2273453973": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Crypte de la Pierre\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2273453972": {
+    "displayProperties": {
+      "tip": "Momentanément impossible à obtenir, Obtenu en complétant le triomphe \"Tout droit sortis de la crypte\"."
+    },
+    "sourceString": "Terminez le raid \"Crypte de la Pierre\" dans les premières 24 heures suivant la sortie."
+  },
+  "753200559": {
+    "displayProperties": {
+      "tip": "Récompense très rare après avoir terminé la rencontre finale (Abomination)."
+    }
+  },
+  "2170524258": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère rencontre (Sécurité).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1095326468": {
+    "displayProperties": {
+      "tip": "Récompense des 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1901414106": {
+    "displayProperties": {
+      "tip": "Récompense de la 2e rencontre (Atraks-1).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2423099022": {
+    "displayProperties": {
+      "tip": "Récompense de la 3e rencontre (Survie à la descente).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2291988568": {
+    "displayProperties": {
+      "tip": "Récompense de la rencontre finale (Abomination).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3767726769": {
+    "displayProperties": {
+      "tip": "Récompense de la rencontre finale (Abomination).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3798857473": {
+    "displayProperties": {
+      "tip": "Récompense de la rencontre finale (Abomination).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "285064438": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "4052971298": {
+    "displayProperties": {
+      "tip": "Récompense de la 3e (Survie à la descente) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1481114068": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2782379061": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2485720530": {
+    "displayProperties": {
+      "tip": "Récompense de la rencontre finale (Abomination).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2790550781": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3540189675": {
+    "displayProperties": {
+      "tip": "Récompense de la 3e (Survie à la descente) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3255058899": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "816770468": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3293236622": {
+    "displayProperties": {
+      "tip": "Récompense de la rencontre finale (Abomination).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2341487969": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "454243247": {
+    "displayProperties": {
+      "tip": "Récompense de la 3e (Survie à la descente) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2425656839": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et dernière (Abomination) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3219239120": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère (Sécurité), 2e (Atraks-1) et 3e (Survie à la descente) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2802279446": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2040177352": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "811728933": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "1755084153": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "958866288": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Maître du verre\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3568861785": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Perle de verre\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3568861784": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Le Caveau de verre sans-faute\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "2172413747": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe [\"Le Caveau de verre\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3332781237": {
+    "displayProperties": {
+      "tip": "Gagné en amenant 10 Gardiens jusqu'à leur première réalisation du raid \"Caveau de Verre\" (doit être réclamé auprès des Récompenses de Bungie avant le 31/12/2022)."
+    }
+  },
+  "2172413746": {
+    "displayProperties": {
+      "tip": "Momentanément impossible à obtenir, obtenu en complétant le triomphe \"Tempo's Edge\"."
+    },
+    "sourceString": "Terminez le raid \"Caveau de verre\" et rencontrez tous les défis dans les 24 premières heures."
+  },
+  "2300465938": {
+    "displayProperties": {
+      "tip": "Récompense très rare après avoir terminé la rencontre finale (Athéon)."
+    }
+  },
+  "634586904": {
+    "displayProperties": {
+      "tip": "Récompense des 3e (Templier) et 4e (Maître des clés) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3463901839": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 3e (Templier) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "724059973": {
+    "displayProperties": {
+      "tip": "Récompense des 4e (Maître des clés) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3515970092": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 2e (Oracles) et 3e (Templier) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2948791533": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 2e (Oracles) et 4e (Maître des clés) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2347222640": {
+    "displayProperties": {
+      "tip": "Récompense des 2e (Oracles) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3231668945": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le défi (Hors de son chemin) de la 3e rencontre (Templier) en difficulté Maîtrise.\nPar la suite également disponible auprès du vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "3593833250": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le défi (Refrain en chœur) de la rencontre finale (Athéon) en difficulté Maîtrise.\nPar la suite également disponible auprès du vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "3395832948": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le défi (Étrangers du temps) de la 4e rencontre (Maître des clés) en difficulté Maîtrise.\nPar la suite également disponible auprès du vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "1798635285": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le défi (Ça va venir...) de la 1ere rencontre (Déchirures) en difficulté Maîtrise.\nPar la suite également disponible auprès du vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "2573048236": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le triomphe \"Maestro du verre\".\nPar la suite exclusivement disponible chez le vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "1986202265": {
+    "displayProperties": {
+      "tip": "Obtenu en complétant le défi (Le seul Oracle pour vous) de la 2e rencontre (Oracles) en difficulté Maîtrise.\nPar la suite également disponible auprès du vendeur de butins de conquête après la rencontre finale en difficulté Maîtrise uniquement."
+    }
+  },
+  "3516045044": {
+    "displayProperties": {
+      "tip": "Récompense des 4e (Maître des clés) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3279460087": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 2e (Oracles) et 3e (Templier) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1098118569": {
+    "displayProperties": {
+      "tip": "Récompense des 3e (Templier) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2088710573": {
+    "displayProperties": {
+      "tip": "Récompense des 2e (Oracles) et 4e (Maître des clés) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3821537750": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures) rencontre.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "930771313": {
+    "displayProperties": {
+      "tip": "Récompense des 4e (Maître des clés) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1748402214": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 2e (Oracles) et 3e (Templier) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "597202930": {
+    "displayProperties": {
+      "tip": "Récompense des 3e (Templier) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1865461412": {
+    "displayProperties": {
+      "tip": "Récompense des 2e (Oracles) et 4e (Maître des clés) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3631920453": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère rencontre (Déchirures).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "983347941": {
+    "displayProperties": {
+      "tip": "Récompense des 4e (Maître des clés) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1123371330": {
+    "displayProperties": {
+      "tip": "Récompense des 1ère (Déchirures), 2e (Oracles) et 3e (Templier) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1476565614": {
+    "displayProperties": {
+      "tip": "Récompense des 3e (Templier) et dernière (Athéon) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "3233980800": {
+    "displayProperties": {
+      "tip": "Récompense des 2e (Oracles) et 4e (Maître des clés) rencontres.\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "2778391833": {
+    "displayProperties": {
+      "tip": "Récompense de la 1ère rencontre (Déchirures).\nRécompense des coffres secrets s'ils ont été acquis précédemment.\nDisponible auprès du marchet dans le raid contre des butins de conquêtes après la rencontre finale."
+    }
+  },
+  "1995412175": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "1995412174": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3837479520": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3837479521": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "3837479522": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2070411865": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2070411864": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2070411867": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2923491623": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2923491622": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
+    }
+  },
+  "2923491621": {
+    "displayProperties": {
+      "tip": "Récompense des coffres secrets trouvés entre les rencontres de raid."
     }
   }
 }
