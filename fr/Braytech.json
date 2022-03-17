@@ -167,6 +167,12 @@
       "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
     }
   },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "Synchronisation DIM requise",
+      "description": "Cette fonctionnalité nécessite la _Synchronisation DIM_.\n\nActivez le service dans _Paramètres_."
+    }
+  },
   "tooltip-error": {
     "displayProperties": {
       "name": "Erreur inconnue",
@@ -179,106 +185,118 @@
       "description": "Vos données de profil sont _périmées_. Cela signifie que l'actualisation en arrière-plan est interrompue en raison d'une inactivité ou que le service n'a pas pu atteindre les serveurs de Bungie pour le moment.\n\nL'utilisation continue de Braytech résoudra ce problème, si les services Bungie.net le permettent."
     }
   },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Parmi les premiers",
+      "description": "Cette activité s'est terminée dans le temps du mode concours. Un triopmhe dans des circonstances et une pression extraordinaires"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triomphes et Sceaux actifs",
-      "description": "Voir tous les triomphes et sceaux actifs."
+      "description": "Voir tous les triomphes et sceaux actifs"
     }
   },
   "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Triomphes et Sceaux du passé",
-      "description": "Voir une collection de triomphes et de sceaux passés."
+      "description": "Voir une collection de triomphes et de sceaux passés"
     }
   },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Défis Saisonniers",
-      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses."
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
     }
   },
   "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Médailles",
-      "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées."
+      "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées"
     }
   },
   "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
-      "name": "Catalyseurs exotiques",
-      "description": "Les catalyseurs exotiques augmentent la puissance de vos armes exotiques. Trouvez-les et terminez leurs objectifs pour libérer tout le potentiel de votre arsenal."
+      "name": "Patrons & Catalyseurs",
+      "description": "Les patrons permettent de façonner les armes. Les catalyseurs augmentent la puissance de vos armes exotiques. Trouvez-les et terminez leurs objectifs pour libérer tout le potentiel de votre arsenal"
     }
   },
   "sub-triumphs-lore": {
     "displayProperties": {
       "name": "Légendes",
-      "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes."
+      "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes"
     }
   },
   "sub-triumphs-metrics": {
     "displayProperties": {
       "name": "Traqueurs de statistiques",
-      "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles."
+      "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles"
     }
   },
   "sub-clan-about": {
     "displayProperties": {
       "name": "Clan",
-      "description": "À propos de votre clan et de ce qu'il représente."
+      "description": "À propos de votre clan et de ce qu'il représente"
     }
   },
   "sub-clan-roster": {
     "displayProperties": {
       "name": "Roster",
-      "description": "Trouvez des amis avec qui jouer."
+      "description": "Trouvez des amis avec qui jouer"
     }
   },
   "sub-clan-administration": {
     "displayProperties": {
       "name": "Administration",
-      "description": "Prendre des mesures sur les questions et les membres du clan."
+      "description": "Prendre des mesures sur les questions et les membres du clan"
     }
   },
   "sub-clan-stats": {
     "displayProperties": {
       "name": "Statistiques de l'Historique",
-      "description": "Comparez les _Statistiques de l'Historique_ pour plusieurs modes d'activité parmi tous les membres du clan."
+      "description": "Comparez les _Statistiques de l'Historique_ pour plusieurs modes d'activité parmi tous les membres du clan"
     }
   },
   "sub-clan-timetable": {
     "displayProperties": {
       "name": "Calendrier",
-      "description": "Mettez les événements du clan sur papier et rendez-les officiels."
+      "description": "Mettez les événements du clan sur papier et rendez-les officiels"
     }
   },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relations",
-      "description": "Découvrez à quels membres du clan vous consacrez le plus votre temps."
+      "description": "Découvrez à quels membres du clan vous consacrez le plus votre temps"
     }
   },
   "sub-character-equipment": {
     "displayProperties": {
       "name": "Équipement",
-      "description": "Évaluez l'état de préparation au combat de votre gardien."
+      "description": "Évaluez l'état de préparation au combat de votre gardien"
     }
   },
   "sub-character-postmaster": {
     "displayProperties": {
       "name": "Commis des postes",
-      "description": "Le Commis des postes supervise consciencieusement les livraisons, les messages et les objets perdus."
+      "description": "Le Commis des postes supervise consciencieusement les livraisons, les messages et les objets perdus"
     }
   },
   "sub-character-consumables": {
     "displayProperties": {
       "name": "Consommables",
-      "description": "Fournitures et matériaux pouvant être utilisés pour améliorer votre gardien et son équipement."
+      "description": "Fournitures et matériaux pouvant être utilisés pour améliorer votre gardien et son équipement"
     }
   },
   "sub-character-vault": {
     "displayProperties": {
       "name": "Coffre-fort",
-      "description": "Stockage sûr pour les objets généraux. Accessible à tous vos personnages."
+      "description": "Stockage sûr pour les objets généraux. Accessible à tous vos personnages"
+    }
+  },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Marchands",
+      "description": "Espionnez vos délégués de tâches et partenaires commerciaux préférés"
     }
   },
   "sub-activity-carnage": {
@@ -296,31 +314,37 @@
   "sub-activity-graphs": {
     "displayProperties": {
       "name": "Graphiques",
-      "description": "Activités tracées avec des graphiques de points, pour les statistiques."
+      "description": "Activités tracées avec des graphiques de points, pour les statistiques"
+    }
+  },
+  "sub-activity-legends": {
+    "displayProperties": {
+      "name": "Légendes",
+      "description": "Triomphes dans les conditions les plus périlleuses, compte-rendu des premières victoires de vos escouades contre nos plus grands adversaires"
     }
   },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Cycles",
-      "description": "Activités et cycles clés."
+      "description": "Activités et cycles clés"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Défis",
-      "description": "Tous les défis de l'activité."
+      "description": "Tous les défis de l'activité"
     }
   },
   "sub-inspect-equipment": {
     "displayProperties": {
       "name": "Emplacements",
-      "description": "Tous les attributs de cet objet; stats, perks et mods."
+      "description": "Tous les attributs de cet objet; stats, perks et mods"
     }
   },
   "sub-inspect-lore": {
     "displayProperties": {
       "name": "Histoire",
-      "description": "Lire l'histoire de cet objet."
+      "description": "Lire l'histoire de cet objet"
     }
   }
 }

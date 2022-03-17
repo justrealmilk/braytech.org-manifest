@@ -218,6 +218,16 @@
       "description": "Dans les _Tunnels du désespoir_, sur une corniche de falaise adjacente à la fosse de gaz vert."
     }
   },
+  "258": {
+    "displayProperties": {
+      "description": "Accessible via l'activité _Source_."
+    }
+  },
+  "259": {
+    "displayProperties": {
+      "description": "Nécessite _Souvenance_ pour être révélé."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "La Cour de la reine",
@@ -1301,5 +1311,175 @@
       "icon": "patrol-salvage"
     },
     "typeHash": 4
+  },
+  "2000000231": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000232": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000233": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000234": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000235": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000236": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000237": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000238": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000239": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000240": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000241": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000242": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000243": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000244": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000245": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000246": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000247": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000248": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000249": {
+    "displayProperties": {
+      "name": "Aléatoire",
+      "description": "Cette balise peut relayer différents objectifs.",
+      "icon": "patrol-random"
+    },
+    "typeHash": 4
+  },
+  "2000000251": {
+    "displayProperties": {
+      "name": "Bourreau du Rideau Envoûtant",
+      "description": "Vaincre le Bourreau luminescent présent dans le Rideau Envoûtant pour progresser dans le triomphe _Chasseur de primes élevé_."
+    }
+  },
+  "2000000252": {
+    "displayProperties": {
+      "name": "Bourreau de la Lice de la Reine",
+      "description": "Vaincre le Bourreau luminescent présent dans la Lice de la Reine pour progresser dans le triomphe _Chasseur de primes élevé_."
+    }
+  },
+  "2000000253": {
+    "displayProperties": {
+      "name": "Bourreau de l'Écho de la Sorcière",
+      "description": "Vaincre le Bourreau luminescent présent dans l'Écho de la Sorcière pour progresser dans le triomphe _Chasseur de primes élevé_."
+    }
   }
 }

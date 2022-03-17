@@ -6,7 +6,7 @@
     "progressDescription": "Assauts de Nuit Noire:Péril terminés"
   },
   "2498962144": {
-    "progressDescription": "Score de Nuit Noire:Péril atteint"
+    "progressDescription": "Nuit Noire: Péril terminée avec un score de 100 000 ou plus"
   },
   "3118376466": {
     "progressDescription": "Matchs de contrôle terminés"
@@ -20,35 +20,14 @@
   "1734176373": {
     "progressDescription": "Matchs de Gambit terminés"
   },
+  "3243082817": {
+    "progressDescription": "\"Étreinte de l'Avarice\" donjon terminé"
+  },
   "1501017628": {
     "progressDescription": "Raid \"Crypte de la Pierre\" terminé"
   },
   "3214312537": {
     "progressDescription": "Raid \"Caveau de Verre\" terminé"
-  },
-  "1259975935": {
-    "progressDescription": "Quête \"Augure\" achevée"
-  },
-  "3278614711": {
-    "progressDescription": "Quête \"Présage\" achevée"
-  },
-  "874571462": {
-    "progressDescription": "Combattants vaincus ou affectés par la [Stase]"
-  },
-  "1980717736": {
-    "progressDescription": "Chasse de l'Empire terminée"
-  },
-  "252439031": {
-    "progressDescription": "Activités des Champs de Bataille terminées"
-  },
-  "4266408224": {
-    "progressDescription": "Activités de Surcharge terminées"
-  },
-  "3472168319": {
-    "progressDescription": "Coffres de Déchirure de Surchage ouverts"
-  },
-  "3930555788": {
-    "progressDescription": "Coffres de Déchirure corrompues ouverts"
   },
   "4140117227": {
     "progressDescription": "Contrats de l'Avant-Garde terminés"
@@ -74,28 +53,34 @@
   "4026431786": {
     "progressDescription": "Parler avec le Seigneur Shaxx"
   },
-  "363387926": {
-    "progressDescription": "Contrats d'Europe terminés"
+  "3270653927": {
+    "progressDescription": "Battez de puissants combattants dans la quête \"Vox Obscura\""
   },
-  "1619867321": {
-    "progressDescription": "Parler avec Variks"
+  "2395957698": {
+    "progressDescription": "Source terminée en difficulté \"Maîtrise\""
   },
-  "31826834": {
-    "progressDescription": "Contrats du Serviteur symbiot terminés"
+  "355099864": {
+    "progressDescription": "Mission de campagne hebdomadaire terminée"
   },
-  "594674637": {
-    "progressDescription": "Interagir avec le Serviteur symbiot"
+  "291160875": {
+    "progressDescription": "Mission de campagne hebdomadaire terminée avec un score of 100,000 ou plus haut"
   },
-  "1280756070": {
-    "progressDescription": "Contrats de la boussole du Chemineur terminés"
+  "1876328522": {
+    "progressDescription": "Gagnez de la réputation auprès de Fynch"
   },
-  "2619808433": {
-    "progressDescription": "Intéragir avec la boussole du Chemineur"
+  "1184525507": {
+    "progressDescription": "Parlez à Fynch"
   },
-  "1803895609": {
-    "progressDescription": "Royaume brisé: Champions vaincus"
+  "3138192810": {
+    "progressDescription": "Champs de batille PsiOps: Coffres runiques ouverts"
   },
-  "52567997": {
-    "progressDescription": "Alignement astral : Les trésors du Chemineur sont ouverts"
+  "1292322502": {
+    "progressDescription": "Champs de batille PsiOps: Coffres runiques ouverts"
+  },
+  "1844077498": {
+    "progressDescription": "Champs de batille PsiOps: Coffres runiques ouverts"
+  },
+  "237251534": {
+    "progressDescription": "Champs de batille PsiOps: Champions vaincus"
   }
 }
