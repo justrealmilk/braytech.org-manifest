@@ -251,6 +251,12 @@
       "description": "Tus datos de perfil están _obsoletos_. Esto significa que la actualización en segundo plano se detuvo debido a inactividad o a que el servicio no llegó a los servidores de Bungie por el momento.\n\nEl uso continuado de Braytech resolverá este problema, si los servicios de Bungie.net lo permiten."
     }
   },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Entre los primeros",
+      "description": "Esta actividad se completó dentro del plazo durante el modo competición: un triunfo en circunstancias extraordinarias y bajo presión"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triunfos y Sellos activos",
@@ -277,8 +283,8 @@
   },
   "sub-triumphs-exotic-catalysts": {
     "displayProperties": {
-      "name": "Catalizadores excepcionales",
-      "description": "Los catalizadores excepcionales amplían el poder de tus armas excepcionales. Ecuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
+      "name": "Patrones y catalizadores",
+      "description": "Los patrones permiten la formación de armas. Los catalizadores excepcionales amplían el poder de tus armas excepcionales. Ecuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
     }
   },
   "sub-triumphs-lore": {

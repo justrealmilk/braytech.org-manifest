@@ -213,6 +213,16 @@
       "description": "En los _Túneles de la desesperanza, en un saliente del acantilado al lado del foso de gas verde."
     }
   },
+  "258": {
+    "displayProperties": {
+      "description": "Accesible a través de la ofensiva _El Manantial_."
+    }
+  },
+  "259": {
+    "displayProperties": {
+      "description": "Requiere _Visión Profunda_ para revelar."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Corte de la Reina",
@@ -796,5 +806,23 @@
   "2000000246": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
   "2000000247": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
   "2000000248": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000249": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }}
+  "2000000249": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
+  "2000000251": {
+    "displayProperties": {
+      "name": "Ejecutor de Cortina seductora",
+      "description": "Derrota al ejecutor luminoso acuartelado en Cortina seductora para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    }
+  },
+  "2000000252": {
+    "displayProperties": {
+      "name": "Ejecutor de Recinto de la Reina",
+      "description": "Derrota al ejecutor luminoso acuartelado en Recinto de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    }
+  },
+  "2000000253": {
+    "displayProperties": {
+      "name": "Ejecutor de Eco de la bruja",
+      "description": "Derrota al ejecutor luminoso acuartelado en Eco de la bruja para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    }
+  }
 }
