@@ -679,7 +679,7 @@
     },
     "itemTypeDisplayName": "Material",
     "inventory": {
-      "maxStackSize": 250
+      "maxStackSize": 1000
     }
   },
   "163842161": {
@@ -688,7 +688,7 @@
     },
     "itemTypeDisplayName": "Material",
     "inventory": {
-      "maxStackSize": 250
+      "maxStackSize": 1000
     }
   },
   "163842162": {
@@ -697,7 +697,7 @@
     },
     "itemTypeDisplayName": "Material",
     "inventory": {
-      "maxStackSize": 250
+      "maxStackSize": 1000
     }
   },
   "163842163": {
@@ -706,7 +706,7 @@
     },
     "itemTypeDisplayName": "Material",
     "inventory": {
-      "maxStackSize": 250
+      "maxStackSize": 1000
     }
   },
   "3491404510": {
@@ -715,7 +715,7 @@
     },
     "itemTypeDisplayName": "Material",
     "inventory": {
-      "maxStackSize": 8500
+      "maxStackSize": 10000
     }
   }
 }
