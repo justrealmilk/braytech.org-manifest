@@ -82,5 +82,53 @@
       "name": "Atheon, Time's Conflux",
       "description": "The Axis Mind responsible for bridging the Vex's own calculations into existence."
     }
+  },
+  "1001": {
+    "displayProperties": {
+      "name": "Acquisition",
+      "description": "Fulfil the requirements and pierce the veil."
+    }
+  },
+  "1002": {
+    "displayProperties": {
+      "name": "The Caretaker",
+      "description": "Subdue and destroy the abomination."
+    }
+  },
+  "1003": {
+    "displayProperties": {
+      "name": "The Upended",
+      "description": "Reorient your perspective."
+    }
+  },
+  "1004": {
+    "displayProperties": {
+      "name": "Rhulk",
+      "description": "Meet the destroyer."
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Evade the Consecrated Mind",
+      "description": "Evade Voltaic Overload charges and pursue the Consecrated Mind."
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "Summon the Consecrated Mind",
+      "description": "Bypass Vex confluxes and force out the Consecrated Mind from hiding."
+    }
+  },
+  "2003": {
+    "displayProperties": {
+      "name": "Defeat the Consecrated Mind",
+      "description": "Once and for all, defeat the Consecrated Mind."
+    }
+  },
+  "2004": {
+    "displayProperties": {
+      "name": "The Sanctified Mind",
+      "description": "A Vex Axis Mind, the Sanctified Mind amasses control over many Vex. Defeat it to prevent further incursions by the Sol Divisive outside of the Black Garden."
+    }
   }
 }
