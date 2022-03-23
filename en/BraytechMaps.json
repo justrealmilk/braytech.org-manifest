@@ -1807,13 +1807,13 @@
     "checklistHash": 2895058245,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/court-of-thorns-2895058245.jpg",
     "extended": {
+      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=87s",
       "screenshot": {
         "highlight": {
           "x": 31,
           "y": 61
         }
-      },
-      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=87s"
+      }
     }
   },
   "259": {
@@ -1823,13 +1823,30 @@
     "checklistHash": 1903309704,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/witchs-echo-1903309704.jpg",
     "extended": {
+      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=0s",
       "screenshot": {
         "highlight": {
           "x": 49,
           "y": 58
         }
-      },
-      "video": "https://www.youtube.com/watch?v=aREAntiv7bc&t=0s"
+      }
+    }
+  },
+  "260": {
+    "displayProperties": {
+      "description": "Accessible via the _Altar of Reflection_ activities."
+    },
+    "checklistHash": 703052847,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/altar-of-reflection-703052847.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=KA1nsMPIjFY&t=24s"
+    }
+  },
+  "261": {
+    "checklistHash": 3466568729,
+    "screenshot": "/static/images/screenshots/checklists/lucent-moths/florescent-canal-3466568729.jpg",
+    "extended": {
+      "video": "https://twitter.com/Ansonikage/status/1506393515181453328"
     }
   },
   "278": {
