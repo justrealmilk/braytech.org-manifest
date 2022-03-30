@@ -82,5 +82,53 @@
       "name": "Atheon, Confluencia temporal",
       "description": "La Mente del Eje responsable de que los propios cálculos de los Vex lleguen a existir."
     }
+  },
+  "1001": {
+    "displayProperties": {
+      "name": "Adquisición",
+      "description": "Cumple los requisitos y atraviesa el velo."
+    }
+  },
+  "1002": {
+    "displayProperties": {
+      "name": "El Cuidador",
+      "description": "Somete y destruye la abominación."
+    }
+  },
+  "1003": {
+    "displayProperties": {
+      "name": "El Inverso",
+      "description": "Reorienta tu perspectiva."
+    }
+  },
+  "1004": {
+    "displayProperties": {
+      "name": "Rhulk",
+      "description": "Conoce al destructor."
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Evita la Mente consagrada",
+      "description": "Evita las cargas de Sobrecarga voltaica y persigue a la Mente consagrada."
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "Invoca a la Mente consagrada",
+      "description": "Evita las confluencias vex y obliga a la Mente consagrada a salir de su escondite."
+    }
+  },
+  "2003": {
+    "displayProperties": {
+      "name": "Derrota a la Mente consagrada",
+      "description": "Derrota de una vez por todas a la Mente consagrada."
+    }
+  },
+  "2004": {
+    "displayProperties": {
+      "name": "La Mente santificada",
+      "description": "La Mente Santificada, una Mente del Eje vex, ejerce control sobre muchos vex. Derrótalo para evitar más incursiones del Divisivo Sol fuera del Jardín Negro."
+    }
   }
 }

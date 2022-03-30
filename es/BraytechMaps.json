@@ -223,6 +223,11 @@
       "description": "Requiere _Visión profunda_ para revelar."
     }
   },
+  "260": {
+    "displayProperties": {
+      "description": "Accesible a través de las actividades _Altar de Reflexión_."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Corte de la Reina",
