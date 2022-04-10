@@ -1,0 +1,47 @@
+{
+  "2032534090": {
+    "activityLightLevel": 750,
+    "activityTypeHash": 608898761,
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "4148187374": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "1077850348": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761,    
+    "pgcrImage": "/img/destiny_content/pgcr/dungeon_prophecy.jpg"
+  },
+  "82913930": {
+    "displayProperties": {
+      "description": "オービットで、ひどく壮絶な何かが計画されている"
+    }
+  },
+  "567131519": {
+    "displayProperties": {
+      "name": "K1 ロジスティックス: 達人"
+    }
+  },
+  "2829206720": {
+    "displayProperties": {
+      "name": "K1 コミュニオン: 達人"
+    }
+  },
+  "184186578": {
+    "displayProperties": {
+      "name": "K1 クルー区画: 達人"
+    }
+  },
+  "3911969238": {
+    "displayProperties": {
+      "name": "K1 リベレーション: 達人"
+    }
+  },
+  "1738383283": {
+    "originalDisplayProperties": {
+      "name": "エキゾチッククエスト: ヘラルド"
+    }
+  }
+}
