@@ -20,70 +20,70 @@
     },
     "itemTypeDisplayName": "Munizioni"
   },
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "La piattaforma d'appartenenza di questo profilo."
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "La piattaforma d'appartenenza di questo profilo."
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "La piattaforma d'appartenenza di questo profilo."
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "La piattaforma d'appartenenza di questo profilo."
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "La piattaforma d'appartenenza di questo profilo."
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "Sovrintendente",
       "description": "Tom Chapman, creatore e ingeniere di Braytech."
     },
     "itemTypeDisplayName": "Intelligenza Artificiale"
   },
-  "developer": {
+  "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": ""
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "Subroutine",
       "description": "Questo guardiano è un faro di luce che, attraverso le sue azioni, ha dimostrato di valorizzare il coraggio e il servizio sopra ogni altra cosa."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Ricercatore",
       "description": "Un compagno tecnico di Clovis Bray, questo Guardiano cerca di migliorare Braytech."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "Stagista"
     },

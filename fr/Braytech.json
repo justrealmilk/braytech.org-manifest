@@ -20,70 +20,70 @@
     },
     "itemTypeDisplayName": "Munition"
   },
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "La plateforme à laquelle appartient ce profil."
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "Surveillant général",
       "description": "Tom Chapman, créateur et ingénieur de Braytech."
     },
     "itemTypeDisplayName": "Intelligence artificielle"
   },
-  "developer": {
+  "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": ""
     },
     "itemTypeDisplayName": "Développeur de Braytech"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "Sous-programme",
       "description": "Ce gardien est un phare de lumière qui, par ses actions, a prouvé qu'il valorisait la bravoure et le service avant tout autre chose."
     },
     "itemTypeDisplayName": "Récompense de mécène"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Chercheur",
       "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
     },
     "itemTypeDisplayName": "Récompense de mécène"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "Interne"
     },

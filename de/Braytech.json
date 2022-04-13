@@ -1,54 +1,54 @@
 {
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "description": "Tom Chapman, Erschaffer und Ingenieur von Braytech."
     },
     "itemTypeDisplayName": "Künstliche Intelligenz"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "description": "Dieser Hüter ist wie ein Leuchtfeuer, der durch seine Handlungen bewiesen hat, dass er Tapferkeit und Dienst über alles schätzt."
     },
     "itemTypeDisplayName": "Patron Belohnung"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Forscher",
       "description": "Ein technischer Anhänger von Clovis Bray, dieser Hüter versucht Braytech zu verbessern."
     },
     "itemTypeDisplayName": "Patron Belohnung"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "itemTypeDisplayName": "Patron Belohnung"
   },
   "commonality": {

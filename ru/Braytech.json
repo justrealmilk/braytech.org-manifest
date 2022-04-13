@@ -1,61 +1,61 @@
 {
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "Платформа, к которой принадлежит этот профиль."
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "Платформа, к которой принадлежит этот профиль."
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "Платформа, к которой принадлежит этот профиль."
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "Платформа, к которой принадлежит этот профиль."
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "Платформа, к которой принадлежит этот профиль."
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "Руководитель",
       "description": "Том Чапмен, создатель и разработчик Braytech."
     },
     "itemTypeDisplayName": "Искусственный интеллект"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "Подпрограмма",
       "description": "Этот Страж — луч света, доказавший своими действиями, что ставит превыше всего храбрость и службу."
     },
     "itemTypeDisplayName": "Награда спонсора на Patreon"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Исследователь",
       "description": "Технический сотрудник Clovis Bray, этот Страж стремится улучшить Braytech."
     },
     "itemTypeDisplayName": "Награда спонсора на Patreon"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "Стажер"
     },

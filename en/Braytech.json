@@ -20,70 +20,77 @@
     },
     "itemTypeDisplayName": "Ammo"
   },
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "The platform to which this profile belongs."
     },
     "itemTypeDisplayName": "Platform"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "The platform to which this profile belongs."
     },
     "itemTypeDisplayName": "Platform"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "The platform to which this profile belongs."
     },
     "itemTypeDisplayName": "Platform"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "The platform to which this profile belongs."
     },
     "itemTypeDisplayName": "Platform"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "The platform to which this profile belongs."
     },
     "itemTypeDisplayName": "Platform"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "Superintendent",
       "description": "Tom Chapman, creator and engineer of Braytech."
     },
     "itemTypeDisplayName": "Artificial Intelligence"
   },
-  "developer": {
+  "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": ""
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
-  "patron-veteran": {
+  "flair-tokai": {
+    "displayProperties": {
+      "name": "Tokai",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Braytech Concierge"
+  },
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "Subroutine",
       "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Researcher",
       "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "Intern"
     },

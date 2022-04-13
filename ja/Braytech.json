@@ -20,70 +20,70 @@
     },
     "itemTypeDisplayName": "弾薬"
   },
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "総合開発責任者",
       "description": "トム・チャップマン、Braytech開発兼制作責任者"
     },
     "itemTypeDisplayName": "Artificial Intelligence"
   },
-  "developer": {
+  "flair-developer": {
     "displayProperties": {
       "name": "トム・チャップマン",
       "description": ""
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "サブルーチン",
       "description": "行動を通して、その勇気と慈愛を何よりも変え難きものと証明した、光の道標となるガーディアン達"
     },
     "itemTypeDisplayName": "Braytech支援者"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "研究者",
       "description": "クロビス・ブレイに寄与する特別研究員として、Braytechの機能向上を目指すガーディアン達。"
     },
     "itemTypeDisplayName": "Braytech支援者"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "インターン"
     },

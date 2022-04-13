@@ -20,70 +20,70 @@
     },
     "itemTypeDisplayName": "Munición"
   },
-  "platform_xbox": {
+  "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
       "description": "La plataforma a la que pertenece este perfil."
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "platform_playstation": {
+  "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "La plataforma a la que pertenece este perfil."
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "platform_steam": {
+  "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "La plataforma a la que pertenece este perfil."
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "platform_battlenet": {
+  "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "La plataforma a la que pertenece este perfil."
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "platform_stadia": {
+  "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "La plataforma a la que pertenece este perfil."
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "warmind": {
+  "flair-warmind": {
     "displayProperties": {
       "name": "Superintendente",
       "description": "Tom Chapman, creador e ingeniero de Braytech."
     },
     "itemTypeDisplayName": "Inteligencia artificial"
   },
-  "developer": {
+  "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": ""
     },
     "itemTypeDisplayName": "Desarrollador de Braytech"
   },
-  "patron-veteran": {
+  "flair-patron-veteran": {
     "displayProperties": {
       "name": "Subrutina",
       "description": "Este Guardián es un faro de luz que, con sus acciones, demostró que valora la valentía y el servicio por encima de todo."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
-  "patron": {
+  "flair-patron": {
     "displayProperties": {
       "name": "Investigador",
       "description": "Este Guardián, un técnico colega de Clovis Bray, busca mejorar Braytech."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
-  "patron-intern": {
+  "flair-patron-intern": {
     "displayProperties": {
       "name": "Becario"
     },
