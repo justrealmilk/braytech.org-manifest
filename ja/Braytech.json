@@ -60,7 +60,7 @@
       "name": "総合開発責任者",
       "description": "トム・チャップマン、Braytech開発兼制作責任者"
     },
-    "itemTypeDisplayName": "Artificial Intelligence"
+    "itemTypeDisplayName": "人工知能"
   },
   "flair-developer": {
     "displayProperties": {
@@ -98,7 +98,7 @@
   "score": {
     "displayProperties": {
       "name": "スコア値",
-      "description": "このレコードのスコア値です。"
+      "description": "このレコードのスコア値です"
     }
   },
   "interval_score": {
@@ -301,7 +301,7 @@
   },
   "sub-activity-carnage": {
     "displayProperties": {
-      "name": "カルネージ",
+      "name": "Carnage",
       "description": "選択中のガーディアンの最近の活動すべて"
     }
   },
@@ -338,7 +338,7 @@
   "sub-inspect-equipment": {
     "displayProperties": {
       "name": "ソケット",
-      "description": "すべてのアイテム属性; ステータス、パーク、mod"
+      "description": "すべてのアイテム属性; ステータス、パーク、Mod"
     }
   },
   "sub-inspect-lore": {

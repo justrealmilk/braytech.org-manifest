@@ -1,100 +1,100 @@
 {
   "608898761": {
     "displayProperties": {
-      "name": "Dungeons",
-      "description": "Venture into the darkest depths of enemy-controlled zones. Keep your light close."
+      "name": "迷宮",
+      "description": "敵の支配する深淵の暗黒地帯に踏み込め。己の光をその手元から離すな。"
     }
   },
   "20434039890": {
     "displayProperties": {
-      "name": "Raids",
-      "description": "Form a fireteam of six god-killers and brave the strange and powerful realms of our enemies."
+      "name": "レイド",
+      "description": "6人の神殺しで組んだファイアチームで、強力な敵が棲む未知の領域へ勇敢に立ち向かおう。"
     }
   },
   "103143560": {
     "displayProperties": {
-      "name": "Lost Sectors",
-      "description": "There are many hidden places in our worlds. Have you found them all?"
+      "name": "失われたセクター",
+      "description": "私たちの世界には、たくさんの隠れ家があります。それらはすべて見つけましたか、ガーディアン？"
     }
   },
   "4110605575": {
     "displayProperties": {
-      "name": "Vanguard Strikes",
-      "description": "Doing the Vanguard's dirty work and keeping the frontier under control."
+      "name": "バンガードストライク",
+      "description": "バンガードの汚れ仕事をこなして、最前線を支配下に置け。"
     }
   },
   "547513715": {
     "displayProperties": {
-      "name": "Nightfall: The Ordeal",
-      "description": "Amanda Holiday won't be able to transmat you up if something goes wrong this time..."
+      "name": "ナイトフォール「試練」",
+      "description": "今回ばかりは何かあったらアマンダ・ホリディの救助艇が間に合わないかも知れません..."
     }
   },
   "748895195": {
     "displayProperties": {
-      "name": "All Activities",
-      "description": "Post game carnage reports for all activity modes: the culmination of all of your efforts."
+      "name": "すべてのアクティビティ",
+      "description": "Post game carnage reportsがアクティビティを記録しています: あなたの努力の集大成を閲覧できます"
     }
   },
   "1686739444": {
     "displayProperties": {
-      "description": "Took out Ghaul, woke up the Traveler, and now half of what I hear in the streets is how much you and your clan are making a difference... And that's why I started this whole clan thing in the first place–people are still waiting for the Vanguard to lead the way, but it's time for a change! And Guardians like you are making it happen... No pressure."
+      "description": "ガウルを倒し、トラベラーを目覚めさせ、そして今、シティで聞く話の半分は、お前とそのクランがどれだけの希望をもたらしたかだ......。そしてそれが、私がこのクランを始めたそもそもの理由だ。市民はまだまだ未来を切り開くためにバンガードを信頼し、お前のようなガーディアンがそれを実現させている... 無理はするな。"
     }
   },
   "11647605040": {
     "displayProperties": {
-      "name": "All Crucible",
-      "description": "Did you throw enough grenades?"
+      "name": "すべてのクルーシブル",
+      "description": "もっとグレネードを投げれたのではないか？"
     }
   },
   "1848252830": {
     "displayProperties": {
-      "description": "Hunt hostiles in active warzones. Reckon with greater powers. Be notorious."
+      "description": "戦闘地域で相手チームを狩れ。強大な力を警戒しろ。悪名を刻みつけてやれ。"
     }
   },
   "1585787840": {
     "displayProperties": {
-      "description": "Fight for Valor by defeating opponents."
+      "description": "武勇を賭けて相手を倒せ"
     }
   },
   "3199098480": {
     "displayProperties": {
-      "description": "Fight for Valor by capturing zones and defeating opponents."
+      "description": "武勇を賭けて陣地を奪い、相手に打ち勝て"
     }
   },
   "31990984800": {
     "displayProperties": {
-      "name": "Momentum Control",
-      "description": "Fight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled."
+      "name": "モメンタムコントロール",
+      "description": "エリアを占領して敵を倒し、武勇を賭けて競います。すべての武器の殺傷力は上がり、アビリティはキルしたときだけ回復し、レーダー機能は無効になります。"
     }
   },
   "4078439804": {
     "displayProperties": {
-      "description": "Fight for Valor by eliminating all opponents in this round-based mode. Don't forget to revive your fellow Guardians."
+      "description": "武勇のために戦います。ラウンド制のこのモードでは、すべての敵を排除して勝利できます。仲間のガーディアンを蘇生させることも忘れずに。"
     }
   },
   "1826469369": {
     "displayProperties": {
-      "description": "Capture zones to increase points for each opponent defeated. Capture all three to lock the zones and hunt your opponents."
+      "description": "エリアを制圧してから相手を倒すとポイントが通常より増えます。3つのエリアをすべて制圧すると、エリアがロックされ、一定時間ポイントが増えた状態で相手を倒すチャンスが得られます。"
     }
   },
   "1264443021": {
     "displayProperties": {
-      "description": "Faster Supers, abilities, and Heavy ammo spawns—withstand and engage in a whirlwind of chaos."
+      "description": "より速くなったスーパーチャージ、アビリティ、ヘビー弾の供給時間 - 混沌の渦に耐えて戦い抜け"
     }
   },
   "157639802": {
     "displayProperties": {
-      "description": "Fight for Valor by defeating opponents. No teams. No allegiance. A free-for-all where the leader had better watch their back."
+      "description": "武勇を求めて相手を倒せ。チームはない。忠誠心も要らない。ルール無用の舞台で勝者は背後に気をつけろ。"
     }
   },
   "2239249083": {
     "displayProperties": {
-      "description": "Fight for Glory by depleting your opponents' shared life pool, then eliminating them."
+      "description": "栄光を賭けて相手のライフを枯渇させ、相手から勝利を奪い取れ、ガーディアン"
     }
   },
   "1673724806": {
     "displayProperties": {
-      "description": "Compete in a fireteam-required event version of Elimination. Earn as many wins on a ticket as you can. Three losses and you're out."
+      "description": "ファイアチームを組んで残りライフをすべて奪い、敵チームを全滅させろ。試練の証を手に入れ、不敗を達成しろ"
     }
   }
 }
