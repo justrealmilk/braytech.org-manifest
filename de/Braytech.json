@@ -11,7 +11,7 @@
       "name": "Spezial",
       "description": "Diese Waffe verwendet Spezialmunition."
     },
-    "itemTypeDisplayName": "Muntion"
+    "itemTypeDisplayName": "Munition"
   },
   "ammo-type-heavy": {
     "displayProperties": {
@@ -91,7 +91,7 @@
   },
   "commonality": {
     "displayProperties": {
-      "name": "Gemeinsamkeit",
+      "name": "Gebräuchlichkeit",
       "description": "Prozentsatz der Spieler, die in Voluspa aufgelistet sind und diesen Eintrag erlangt haben."
     }
   },
@@ -128,7 +128,7 @@
   "active_triumph_score": {
     "displayProperties": {
       "name": "Aktive Triumphpunkte",
-      "description": "Der Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
+      "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
     }
   },
   "character_bound": {
@@ -152,13 +152,13 @@
   "artifact_power_bonus": {
     "displayProperties": {
       "name": "Artefakt-Powerbonus",
-      "description": "Earning XP grants Power bonuses and unlocks powerful mods on your seasonal artifact."
+      "description": "Das Verdienen von XP gewährt Power-Boni und schaltet mächtige Mods für das saisonale Artefakt frei."
     }
   },
   "destiny_tracker_elo": {
     "displayProperties": {
       "name": "Destiny Tracker-Elo",
-      "description": "Elo-Bewertung einer Drittanbieter-Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo für alle Destiny-Spieler, die _Schmelztiegel_ or _Gambit_ spielen."
+      "description": "Elo-Bewertung einer Drittanbieter-Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo für alle Destiny-Spieler, die _Schmelztiegel_ und _Gambit_ spielen."
     }
   },
   "latent-memories": {
@@ -169,8 +169,8 @@
   },
   "enable-dim-sync": {
     "displayProperties": {
-      "name": "DIM Sync erforderlich",
-      "description": "Diese Funktion benötigt _DIM Sync_.\n\nDu kannst es in den _Einstellungen_ aktivieren."
+      "name": "DIM Sync benötigt",
+      "description": "Diese Funktion erfordert _DIM Sync_.\n\nDu kannst es in den _Einstellungen_ aktivieren."
     }
   },
   "tooltip-error": {
@@ -188,7 +188,7 @@
   "activity-contest-mode": {
     "displayProperties": {
       "name": "Unter den Ersten",
-      "description": "Diese Aktivität wurde während des Contest Mode beendet: ein Triumph unter extraordinären Umständen."
+      "description": "Diese Aktivität wurde im Wettkampfmodus absolviert: ein Triumph unter extraordinären Umständen und Druck."
     }
   },
   "sub-triumphs-active": {
@@ -206,7 +206,7 @@
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Saisonale Herausforderungen",
-      "description": "Erfülle zeitbegrenzte Herausforderungen für Saison-Ränge, Glanzstaub und andere Belohnungen"
+      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
   "sub-triumphs-medals": {
@@ -229,8 +229,8 @@
   },
   "sub-triumphs-metrics": {
     "displayProperties": {
-      "name": "Metriken",
-      "description": "Metriken können auf dein Emblem angewendet werden, indem du es untersuchst. Angewendete Metriken sind auf deiner Namens-Plakette sichtbar"
+      "name": "Stat-Tracker",
+      "description": "Stat-Tracker können in der Details-Ansicht deinem Abzeichen hinzugefügt werden. Hinzugefügte Tracker sind auf deiner Namensplakette sichtbar"
     }
   },
   "sub-clan-about": {
@@ -253,7 +253,7 @@
   },
   "sub-clan-stats": {
     "displayProperties": {
-      "name": "Historische Statistik",
+      "name": "Historische Statistiken",
       "description": "Vergleiche _Historische Statistiken_ für mehrere Aktivitäten über Clan-Mitglieder hinweg."
     }
   },
@@ -278,7 +278,7 @@
   "sub-character-postmaster": {
     "displayProperties": {
       "name": "Poststelle",
-      "description": "Die Poststellen-Droiden schauen pflichtbewusst nach deinen Nachrichten und verlorenen Gegeständen"
+      "description": "Droiden der Poststelle kümmern sich pflichtbewusst um Lieferungen, Nachrichten und Fundsachen"
     }
   },
   "sub-character-consumables": {
@@ -290,7 +290,7 @@
   "sub-character-vault": {
     "displayProperties": {
       "name": "Tresor",
-      "description": "Sichere Lagerung für deine Gegenstände. Von allen Charakteren aus verfügbar"
+      "description": "Sichere Lagerung für deine Gegenstände. Zugänglich für alle Charaktere"
     }
   },
   "sub-character-vendors": {
@@ -301,7 +301,7 @@
   },
   "sub-activity-carnage": {
     "displayProperties": {
-      "name": "Verwüstung",
+      "name": "Spielgeschichte",
       "description": "Alle letzten Aktivitäten deines gewählten Hüters"
     }
   },
