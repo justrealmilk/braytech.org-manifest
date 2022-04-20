@@ -1,4 +1,9 @@
 {
+  "1": {
+    "displayProperties": {
+      "name": "Portal"
+    }
+  },
   "2": {
     "displayProperties": {
       "name": "Aszendenten-Herausforderung"
@@ -13,5 +18,11 @@
     "displayProperties": {
       "name": "Patrol"
     }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Öffentliches Event"
+    }
   }
+}
 }
