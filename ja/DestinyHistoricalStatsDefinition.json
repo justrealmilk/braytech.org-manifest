@@ -117,193 +117,193 @@
     "statName": "K/D"
   },
   "winRate": {
-    "statName": "Win Rate",
+    "statName": "勝率",
     "unitType": 7
   },
   "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
+    "statName": "保護した記章"
   },
   "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
+    "statName": "回収した記章"
   },
   "supremacySecureRate": {
-    "statName": "Secure Rate"
+    "statName": "防衛率"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
+    "statName": "防衛した相手をキル"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
+    "statName": "仲間による防衛した相手をキル"
   },
   "highValueKills": {
-    "statName": "High Value Kills"
+    "statName": "高価値のキル"
   },
   "invasionKills": {
-    "statName": "Kills as Invader"
+    "statName": "侵入者としてのキル数"
   },
   "invasionDeaths": {
-    "statName": "Deaths as Invader"
+    "statName": "侵入者としてのキル数"
   },
   "invaderKills": {
-    "statName": "Invaders Killed"
+    "statName": "侵入者をキルした数"
   },
   "invaderDeaths": {
-    "statName": "Deaths to Invaders"
+    "statName": "侵入者にキルされた数"
   },
   "primevalDamage": {
-    "statName": "Primeval Damage"
+    "statName": "プライミーバルへのダメージ"
   },
   "primevalKills": {
-    "statName": "Primeval Kills"
+    "statName": "プライミーバルをキルした数"
   },
   "motesDenied": {
-    "statName": "Motes Denied"
+    "statName": "かけら強奪から防いだ数"
   },
   "invasions": {
-    "statName": "Invasions"
+    "statName": "侵入回数"
   },
   "blockerKills": {
-    "statName": "Blocker Kills"
+    "statName": "ブロッカーを倒した数"
   },
   "smallBlockersSent": {
-    "statName": "Small Blockers Sent"
+    "statName": "小型ブロッカーを送り込んだ数"
   },
   "mediumBlockersSent": {
-    "statName": "Medium Blockers Sent"
+    "statName": "中型ブロッカーを送り込んだ数"
   },
   "largeBlockersSent": {
-    "statName": "Large Blockers Sent"
+    "statName": "大型ブロッカーを送り込んだ数"
   },
   "precisionKills": {
-    "statName": "Precision"
+    "statName": "精密キル数"
   },
   "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuracy"
+    "statName": "精度"
   },
   "elo": {
     "statName": "Elo"
   },
   "opponentsDefeated": {
-    "statName": "Kills + Assists"
+    "statName": "キル + アシスト"
   },
   "averageKillsDeathsRatio": {
-    "statName": "Average K/D"
+    "statName": "平均 K/D"
   },
   "Medals_pvp_medal_ib_control_3a": {
-    "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
+    "statDescription": "チームとして、1回の狩りの間に敵を全て倒すことを少なくとも1回達成する。"
   },
   "Medals_pvp_medal_ib_control_3b": {
-    "statDescription": "Survive a Hunt in which no member of your team is defeated—then start the next Hunt."
+    "statDescription": "チームメンバーが誰も倒されることなく狩りを生き残り、次の狩りを始める。"
   },
   "Medals_pvp_medal_ib_control_2a": {
-    "statDescription": "Complete an Iron Banner match with the most combined Advantage and Hunt kills."
+    "statDescription": "エリア・アドバンテージの狩りキル合計数が最も多い状態でアイアンバナーの対戦を完了する。"
   },
   "Medals_pvp_medal_ib_control_2b": {
-    "statDescription": "Defeat five opponents while holding Zone Advantage before the opposing team recaptures a zone."
+    "statDescription": "敵のチームがエリアを奪取しかえす前にエリア・アドバンテージの状態で敵を5人倒す。"
   },
   "Medals_pvp_medal_ib_control_2c": {
-    "statDescription": "In a single life, participate in capturing all three zones leading to the Hunt."
+    "statDescription": "死なずに、3つ全てのエリアを奪取するのに参加して狩りに持ち込む。"
   },
   "Medals_pvp_medal_ib_control_2d": {
-    "statDescription": "Survive your opponents' Hunt without being defeated."
+    "statDescription": "倒されることなく、敵の狩りを生き残る。"
   },
   "Medals_pvp_medal_ib_control_1a": {
-    "statDescription": "In a single life, defeat three opponents attempting to capture allied capture zones."
+    "statDescription": "死なずに、味方のエリアを奪取しようとしている敵を3人倒す。"
   },
   "Medals_pvp_medal_ib_control_1b": {
-    "statDescription": "Recapture a zone within 15 seconds of it being captured by your opponents."
+    "statDescription": "敵にエリアを奪取された後、15秒以内にそのエリアを奪い返す。"
   },
   "Medals_pvp_medal_ib_control_1c": {
-    "statDescription": "Defeat two or more opponents with Zone Advantage within 10 seconds of capturing a zone."
+    "statDescription": "エリアを奪取し、エリア・アドバンテージとなった状態で、10秒以内に敵を2人以上倒す。"
   },
   "Medals_pvp_medal_ib_control_1d": {
-    "statDescription": "Capture a zone with your entire team present."
+    "statDescription": "チームメンバーが全員生きている状態でエリアを奪取する。"
   },
   "Medals_pvp_medal_ib_multi_entire_team": {
-    "statDescription": "Land final blows on the entire enemy team before any of them respawn."
+    "statDescription": "敵にリスポーンする間を与えずに、敵チーム全体にトドメを刺す。"
   },
   "Medals_pvp_medal_ib_multi_7x": {
-    "statDescription": "Rapidly defeat 7 opposing Guardians."
+    "statDescription": "敵のガーディアンを素早く7人倒す。"
   },
   "Medals_pvp_medal_ib_multi_6x": {
-    "statDescription": "Rapidly defeat 6 opposing Guardians."
+    "statDescription": "敵のガーディアンを素早く6人倒す。"
   },
   "Medals_pvp_medal_ib_multi_5x": {
-    "statDescription": "Rapidly defeat 5 opposing Guardians."
+    "statDescription": "敵のガーディアンを素早く5人倒す。"
   },
   "Medals_pvp_medal_ib_multi_4x": {
-    "statDescription": "Rapidly defeat 4 opposing Guardians."
+    "statDescription": "素早く敵を4人倒す。"
   },
   "Medals_pvp_medal_ib_multi_3x": {
-    "statDescription": "Rapidly defeat 3 opposing Guardians."
+    "statDescription": "素早く敵を3人倒す。"
   },
   "Medals_pvp_medal_ib_multi_2x": {
-    "statDescription": "Rapidly defeat 2 opposing Guardians."
+    "statDescription": "素早く敵を2人倒す。"
   },
   "Medals_pvp_medal_ib_payback": {
-    "statDescription": "Land the final blow on the Guardian who last defeated you."
+    "statDescription": "最後に自分を倒したガーディアンにトドメを刺す。"
   },
   "Medals_pvp_medal_ib_avenger": {
-    "statDescription": "Land the final blow on an opponent who just defeated an ally."
+    "statDescription": "味方を倒したばかりの敵にトドメを刺す。"
   },
   "Medals_pvp_medal_ib_defender": {
-    "statDescription": "Land the final blow on an opponent who has recently damaged an ally."
+    "statDescription": "味方にダメージを与えたばかりの敵にトドメを刺す。"
   },
   "Medals_pvp_medal_ib_streak_huge": {
-    "statDescription": "In a single life, defeat 50 opposing Guardians."
+    "statDescription": "死なずにガーディアンを50人倒す。"
   },
   "Medals_pvp_medal_ib_streak_lg": {
-    "statDescription": "In a single life, defeat 20 opposing Guardians."
+    "statDescription": "死なずにガーディアンを20人倒す。"
   },
   "Medals_pvp_medal_ib_streak_no_damage": {
-    "statDescription": "Land final blows on seven opponents without taking any damage from any source."
+    "statDescription": "1回も倒されずに敵を最低7人倒してアイアンバナーの対戦を完了する。"
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statDescription": "Complete the Pit of Heresy solo."
+    "statDescription": "いかなるダメージも受けずに7人の敵にトドメを刺せ。"
   },
   "Medals_pvp_medal_ib_streak_med": {
-    "statDescription": "In a single life, defeat 10 opposing Guardians."
+    "statDescription": "死なずに敵を10人倒す。"
   },
   "Medals_pvp_medal_ib_streak_team": {
-    "statDescription": "As a team, defeat 7 opposing Guardians without any member of your team being defeated."
+    "statDescription": "チームとして、誰も死なない状態で敵を7人倒す。"
   },
   "Medals_pvp_medal_ib_streak_sm": {
-    "statDescription": "In a single life, defeat 5 opposing Guardians."
+    "statDescription": "死なずに敵を5人倒す。"
   },
   "Medals_pvp_medal_ib_streak_comeback": {
-    "statDescription": "Defeat 3 opponents in a single life after having been defeated two consecutive times."
+    "statDescription": "2回連続で倒された後で死なずに3人の敵を倒す。"
   },
   "Medals_pvp_medal_ib_streak_shutdown": {
-    "statDescription": "Shut down an opponent's streak."
+    "statDescription": "敵の連続キルを止める。"
   },
   "Medals_pvp_medal_ib_streak_combined": {
-    "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
+    "statDescription": "チームメートをアシストしたり、アシストされたりしながら、死なずに敵を3人倒す。"
   },
   "Medals_pvp_medal_ib_match_undefeated": {
-    "statDescription": "Complete an Iron Banner match in which you defeat at least seven opponents and are never defeated by an opponent."
+    "statDescription": "1回も倒されずに敵を最低7人倒してアイアンバナーの対戦を完了する。"
   },
   "Medals_pvp_medal_ib_match_blowout": {
-    "statDescription": "Win an Iron Banner match with a large margin of victory."
+    "statDescription": "大差を付けてアイアンバナーの対戦に勝利する。"
   },
   "Medals_pvp_medal_ib_match_most_damage": {
-    "statDescription": "Deal the most total damage to opponents in a single Iron Banner match."
+    "statDescription": "1回のアイアンバナーの対戦で、敵に与えたダメージ量が最大になる。"
   },
   "Medals_pvp_medal_ib_match_comeback": {
-    "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
+    "statDescription": "アイアンバナーの対戦で大差で負けていたところから逆転勝ちする。"
   },
   "Medals_pvp_medal_ib_match_never_trailed": {
-    "statDescription": "Obtain every lore page from the Battlegrounds."
+    "statDescription": "1回もリードを奪われずにアイアンバナーの対戦に勝利する。"
   },
   "Medals_pvp_medal_ib_match_overtime": {
-    "statDescription": "Win an Iron Banner match in overtime."
+    "statDescription": "延長戦でアイアンバナーの対戦に勝利する。"
   },
   "Medals_pvp_medal_ib_cycle": {
-    "statDescription": "In a single Iron Banner match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (melee, grenade, Super)."
+    "statDescription": "1回のアイアンバナーの対戦で、少なくとも1回はそれぞれの武器タイプ(キネティック、エネルギー、パワー)およびスキル(近接、グレネード 、スーパースキル)でトドメを刺す"
   },
   "Medals_pvp_medal_ib_first_strike": {
-    "statDescription": "Land the first final blow of the match."
+    "statDescription": "対戦で誰よりも先にトドメを刺す。"
   },
   "Medals_pvp_medal_ib_super_shutdown": {
-    "statDescription": "Stop an opponent's Super with your Super."
+    "statDescription": "スーパースキルを使ってスーパースキルを使っている敵を止める。"
   }
 }
