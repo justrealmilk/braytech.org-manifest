@@ -35,7 +35,7 @@
   "4": {
     "displayProperties": {
       "name": "ウロボレア",
-      "description": "空間内にある汚染のドームをすべて破壊し、中央の広場に戻れば、それまで攻撃が通じなかったボイドクリスタルが破壊できる。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_ ",
+      "description": "空間内にある汚染のドームをすべて破壊し、中央の広場に戻れば、それまで攻撃が通じなかったボイドクリスタルが破壊できる。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -83,7 +83,7 @@
   "6": {
     "displayProperties": {
       "name": "剥奪の神殿",
-      "description": "3つのアークチャージを中央のポイント地点にすべて投入して、アビザル・チャンピオンを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_ ",
+      "description": "3つのアークチャージを中央のポイント地点にすべて投入して、アビザル・チャンピオンを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -133,7 +133,7 @@
   "8": {
     "displayProperties": {
       "name": "砕けた廃墟",
-      "description": "瓦礫を駆け上り、頂上にいる宿られたファランクスを倒せ。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_ ",
+      "description": "瓦礫を駆け上り、頂上にいる宿られたファランクスを倒せ。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -180,7 +180,7 @@
   "10": {
     "displayProperties": {
       "name": "研がれ刃の砦",
-      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_ ",
+      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -230,7 +230,7 @@
   "12": {
     "displayProperties": {
       "name": "アゴナークの深淵",
-      "description": "奈落の底に進み宿られたウィザードを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_ ",
+      "description": "奈落の底に進み宿られたウィザードを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -278,7 +278,7 @@
   "14": {
     "displayProperties": {
       "name": "暗黒の駐屯地",
-      "description": "様々な遮蔽物を利用して敵の攻撃を避けながら広大な空間の中を走り切り、奥で待つナイトとシュリーカーを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻すのだ_",
+      "description": "様々な遮蔽物を利用して敵の攻撃を避けながら広大な空間の中を走り切り、奥で待つナイトとシュリーカーを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -498,7 +498,7 @@
   },
   "37": {
     "displayProperties": {
-      "description": "被災した建物の奥、3階の右側の部屋"
+      "description": "崩壊した建物の奥、3階の右側の部屋"
     },
     "checklistHash": 1085712440,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-1085712440.jpg"
@@ -1024,7 +1024,7 @@
     "checklistHash": 3888342093,
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg",
     "displayProperties": {
-      "description": "氷の下にある"
+      "description": "氷の中にある"
     }
   },
   "128": {
@@ -1923,7 +1923,7 @@
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "instructions": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
+      "instructions": "このクレートは現実を超越させる必要がある。アクセス方法:\n\n1.  _修道士バンス_ , の左側にある「感動的な本」を調べる。\n2. 180°回れ右をする。 そのまま正面の奥の壁に向かうと本棚に光る「印が入った本」を調べる。\n3. 壁に向かって右側のポータルまで進み、さらに右隣にある松明の所にある「年季が入った本」を調べる。\n4. 最初の本棚の所まで戻り、1人の弟子座っている机の上に「興味深い本」があるので調べる\n5. そこからまっすぐ反対の壁まで進み、無限の炉の右側にある本棚の棚に登って、「重要な本」を調べる。\n6. 2番目の本に近くに _ベックスの合流点_ が出てくるので調べるとファイアウォールが消える。"
     }
   },
   "303": {
@@ -2671,7 +2671,7 @@
   "596": {
     "displayProperties": {
       "name": "岩塩坑",
-      "description": " _フォールン_ たちが再利用パーツで作った _岩塩坑_ の山頂へのポータル",
+      "description": " _フォールン_ たちが廃材を再利用して作った _岩塩坑_ の山頂へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -3331,7 +3331,7 @@
   },
   "2000000066": {
     "displayProperties": {
-      "name": "一方的な武装解除",
+      "name": "一方的な無力化",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
@@ -3633,7 +3633,7 @@
   "2000000106": {
     "displayProperties": {
       "name": "お前らのものじゃない",
-      "description": "トロストランドでフォールンを倒し、彼らからForgotten Journalsを回収せよ。",
+      "description": "トロストランドでフォールンを倒し、彼らから忘れられた日記を回収せよ。",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
