@@ -139,10 +139,10 @@
     "statName": "高価値のキル"
   },
   "invasionKills": {
-    "statName": "侵入者としてのキル数"
+    "statName": "侵入者でのキル数"
   },
   "invasionDeaths": {
-    "statName": "侵入者としてのキル数"
+    "statName": "侵入者でのキル数"
   },
   "invaderKills": {
     "statName": "侵入者をキルした数"
@@ -154,7 +154,7 @@
     "statName": "プライミーバルへのダメージ"
   },
   "primevalKills": {
-    "statName": "プライミーバルをキルした数"
+    "statName": "プライミーバルのキル数"
   },
   "motesDenied": {
     "statName": "かけら強奪から防いだ数"

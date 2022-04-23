@@ -1,14 +1,14 @@
 {
   "ammo-type-primary": {
     "displayProperties": {
-      "name": "プライマリ",
+      "name": "キネティック",
       "description": "この武器には弾数制限がありません。"
     },
     "itemTypeDisplayName": "弾薬"
   },
   "ammo-type-special": {
     "displayProperties": {
-      "name": "特殊",
+      "name": "エネルギー",
       "description": "この武器は特殊弾を使用します"
     },
     "itemTypeDisplayName": "弾薬"
@@ -92,7 +92,7 @@
   "commonality": {
     "displayProperties": {
       "name": "共通性",
-      "description": "Voluspaのデータに登録されているプレイヤーのうち、この項目を取得した人の割合です。"
+      "description": "Voluspaのデータに登録されているプレイヤーのうち、取得または達成した人の割合です。"
     }
   },
   "score": {
@@ -109,8 +109,8 @@
   },
   "record_intervals": {
     "displayProperties": {
-      "name": "レコード区切り",
-      "description": "レコードによっては、必要条件やスコア値を変える区切りがあります。"
+      "name": "レコード進捗",
+      "description": "レコードによっては、必要条件やスコア値が変わる区切りがあります。"
     }
   },
   "legacy_triumph_score": {
@@ -182,13 +182,13 @@
   "profile-stale": {
     "displayProperties": {
       "name": "プロフィール更新失敗",
-      "description": "プロフィールデータが _更新に失敗_ しました。これは、バックグラウンドの更新が非アクティブのために一時停止しているか、サービスがBungieのサーバーに通信できなかったことを意味します。 \n\n Bungie.netのサービスが許す限り、ブレイテックを継続して使用することでこの問題は解決されます。"
+      "description": "プロフィールデータが _更新に失敗_ しました。これは、バックグラウンドの更新が非アクティブのために一時停止しているか、サービスがBungieのサーバーに通信できなかったことを意味します。 \n\n Bungie.netのサービスが許す限り、BrayTechを継続して使用することでこの問題は解決されます。"
     }
   },
   "activity-contest-mode": {
     "displayProperties": {
       "name": "初回",
-      "description": "このアクティビティは、コンテストモードで終了しました：異常な状況やプレッシャーの中での勝利"
+      "description": "このアクティビティは、コンテストモードで終了しました：非常に厳しいプレッシャーの中での勝利"
     }
   },
   "sub-triumphs-active": {
@@ -260,19 +260,19 @@
   "sub-clan-timetable": {
     "displayProperties": {
       "name": "タイムテーブル",
-      "description": "クランイベントを書き出してメンバー内で共有できます"
+      "description": "クラン内のイベントを書き出してメンバー内で共有できます"
     }
   },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "信頼関係",
-      "description": "どのクランメンバーに最も時間を割いているかを確認します"
+      "description": "どのクランメンバーと最も一緒に時間を過ごしているかを確認します"
     }
   },
   "sub-character-equipment": {
     "displayProperties": {
       "name": "装備",
-      "description": "ガーディアンの戦闘準備体制を鑑定します"
+      "description": "ガーディアンの戦闘態勢を確認します"
     }
   },
   "sub-character-postmaster": {
@@ -290,7 +290,7 @@
   "sub-character-vault": {
     "displayProperties": {
       "name": "保管庫",
-      "description": "一般的なアイテムを安全に収納できます。すべてのキャラクターにて利用可能"
+      "description": "ゲーム中に登場するほとんどのアイテムを安全に収納できます。すべてのキャラクターにて利用可能"
     }
   },
   "sub-character-vendors": {
