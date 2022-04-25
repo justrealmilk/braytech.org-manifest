@@ -1,4 +1,7 @@
 {
+    "killsDeathsRatio": {
+    "statName": "K/D"
+  },
   "winRate": {
     "statName": "Sieg-Rate"
   },
@@ -61,5 +64,131 @@
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Genauigkeit"
+  },
+  "elo": {
+    "statName": "Elo"
+  },
+  "opponentsDefeated": {
+    "statName": "Kills + Assists"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Durchschnitts K/D"
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "Besiege als Team mind. einmal während der Jagd alle Hüter."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Überlebe eine Jagd, in der kein Team-Mitglied besiegt wird - startet dann die nächste Jagd."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Schließe ein Eisenbanner-Match mit der höchsten Kombi aus Vorteils- und Jagd-Kills ab."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Besiege fünf Gegner, während du Zonen-Vorteil hast, bevor das andere Team eine Zone zurückerobert."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "Nimm in einem einzigen Leben an der Eroberung aller drei Zonen teil und leite so die Jagd ein."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Überlebe die Jagd deines Gegners, ohne besiegt zu werden."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "Besiege 3 Gegner in einem einzigen Leben, die versuchen die Zonen deines Teams einzunehmen."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Erobere die Zone innerhalb der ersten 15 Sekunden zurück, nachdem sie von Gegnern eingenommen wurde."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Besiege zwei oder mehr Gegner mit Zonen-Vorteil innerhalb 10 Sekunden nach Eroberung einer Zone."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Nimm eine Zone ein, während dein ganzes Team anwesend ist."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Lande Todesstöße bei dem gesamten Team, bevor einer von ihnen zurückkommen kann."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "Besiege rasch 7 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Besiege rasch 6 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Besiege rasch 5 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Besiege rasch 4 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Besiege rasch 3 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Besiege rasch 2 gegnerische Hüter."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Lande den Todesstoß gegen den Hüter, der dich zuletzt besiegt hat."
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Besiege einen Gegner, der gerade einen Verbündeten ausgeschaltet hat."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Besiege einen Gegner, der gerade einem Verbündeten Schaden zugefügt hat"
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "Besiege 50 gegnerische Hüter in einem einzigen Leben."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "Besiege 20 gegnerische Hüter in einem einzigen Leben."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Erziele bei 7 Gegnern Todesstöße ohne jeglichen Schaden zu nehmen."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Besiege einen Gegner, der gerade eine Strähne von 20 oder mehr hat."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "Besiege 10 gegnerische Hüter in einem einzigen Leben."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "Besiege als Team 7 Gegner, ohne dass jemand in deinem Team besiegt wird."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "Besiege 5 gegnerische Hüter in einem einzigen Leben."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Besiege in einem einzigen Leben 3 Gegner, nachdem du mind. zweimal hintereinander besiegt wurdest."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Beende die Kill-Strähne eines Gegners."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "Besiege 3 gegnerische Hüter in einem einzigen Leben, während du Verbündeten hilfst oder sie dir."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Schließe ein Eisenbanner-Match ab, in dem du mindestens sieben Gegner besiegst und von niemandem besiegt wurdest."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Gewinne ein Eisenbanner-Match mit großem Vorsprung."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Bewirke den höchsten Gesamtschaden bei Gegnern in einem einzigen Eisenbanner-Match."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Gewinne ein Eisenbanner-Match, nachdem du weit zurückgelegen hast."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Gewinne ein Eisenbanner-Match, in dem dein Team nie zurückgelegen hat."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Gewinne ein Eisenbanner-Match in der Extrazeit."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "Lande in einem einzigen Eisenbanner-Match mind. einen Todesstoß mit jeder Waffenklasse (Kinetik, Energie, Power) und Fähigkeit (Nahkampf, Granate, Super)."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Lande den ersten Todesstoß des Matches."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Halte die Super eines Gegners mit deiner Super auf."
   }
 }
