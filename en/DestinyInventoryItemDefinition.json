@@ -387,7 +387,7 @@
   },
   "2779035018": {
     "displayProperties": {
-      "tip": "Last 3.5 seconds. Grants a flat Reload Speed bonus and a multiplier per stack:\n•  1x: +10 Reload Speed/0x\n•  2x: +45 Reload Speed/0.9x\n•  3x: +55 Reload Speed/0.88x\n•  4x: +75 Reload Speed/0.85x\n•  5x: +100 Reload Speed/0.8x"
+      "tip": "Lasts 3.5 seconds. Grants a flat Reload Speed bonus and a multiplier per stack:\n•  1x: +10 Reload Speed/0x\n•  2x: +45 Reload Speed/0.9x\n•  3x: +55 Reload Speed/0.88x\n•  4x: +75 Reload Speed/0.85x\n•  5x: +100 Reload Speed/0.8x"
     }
   },
   "2788909693": {
