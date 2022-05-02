@@ -1,8 +1,8 @@
 {
   "1": {
     "displayProperties": {
-      "name": "The Confluence West",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "name": "合流点 西",
+      "description": "因果を超越した力によって存在する _合流点_ へのポータル。",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -12,8 +12,8 @@
   },
   "2": {
     "displayProperties": {
-      "name": "The Confluence East",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "name": "合流点 東",
+      "description": "因果を超越した力によって存在する _合流点_ へのポータル。",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -23,8 +23,8 @@
   },
   "3": {
     "displayProperties": {
-      "name": "The Confluence South",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "name": "合流点 南",
+      "description": "因果を超越した力によって存在する _合流点_ へのポータル。",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -34,8 +34,8 @@
   },
   "4": {
     "displayProperties": {
-      "name": "Ouroborea",
-      "description": "Destroy all blights then return to the foyer to shatter the previously-immune Void crystals.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "ウロボレア",
+      "description": "空間内にある汚染のドームをすべて破壊し、中央の広場に戻れば、それまで攻撃が通じなかったボイドクリスタルが破壊できる。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -71,8 +71,8 @@
   },
   "5": {
     "displayProperties": {
-      "name": "Ouroborea",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "ウロボレア",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -82,8 +82,8 @@
   },
   "6": {
     "displayProperties": {
-      "name": "Forfeit Shrine",
-      "description": "Subdue the major blight by depositing all three charges beneath. Eliminate the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "剥奪の神殿",
+      "description": "3つのアークチャージを中央のポイント地点にすべて投入して、アビザル・チャンピオンを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -121,8 +121,8 @@
   },
   "7": {
     "displayProperties": {
-      "name": "Forfeit Shrine",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "剥奪の神殿",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -132,8 +132,8 @@
   },
   "8": {
     "displayProperties": {
-      "name": "Shattered Ruins",
-      "description": "Climb the ruins and eliminate the Taken Phalanx.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "砕けた廃墟",
+      "description": "瓦礫を駆け上り、頂上にいる宿られたファランクスを倒せ。\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -168,8 +168,8 @@
   },
   "9": {
     "displayProperties": {
-      "name": "Shattered Ruins",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "砕けた廃墟",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -179,8 +179,8 @@
   },
   "10": {
     "displayProperties": {
-      "name": "Keep of Honed Edges",
-      "description": "Eliminate the Hive Wizards, raise a sword, and defeat the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "研がれ刃の砦",
+      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -218,8 +218,8 @@
   },
   "11": {
     "displayProperties": {
-      "name": "Keep of Honed Edges",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "研がれ刃の砦",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -229,8 +229,8 @@
   },
   "12": {
     "displayProperties": {
-      "name": "Agonarch Abyss",
-      "description": "Reach the bottom and eliminate the Taken Wizards.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "アゴナークの深淵",
+      "description": "奈落の底に進み宿られたウィザードを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -266,8 +266,8 @@
   },
   "13": {
     "displayProperties": {
-      "name": "Agonarch Abyss",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "アゴナークの深淵",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -277,8 +277,8 @@
   },
   "14": {
     "displayProperties": {
-      "name": "Cimmerian Garrison",
-      "description": "This challenge culminates in a fight between the Guardian, a Hive Knight, and three Hive Shriekers, on a spacious platform with various cover from enemy fire.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
+      "name": "暗黒の駐屯地",
+      "description": "様々な遮蔽物を利用して敵の攻撃を避けながら広大な空間の中を走り切り、奥で待つナイトとシュリーカーを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_",
       "icon": "ascendant-challenge"
     },
     "typeHash": 2,
@@ -311,8 +311,8 @@
   },
   "15": {
     "displayProperties": {
-      "name": "Cimmerian Garrison",
-      "description": "A portal to the _Ascendant Plane_.",
+      "name": "暗黒の駐屯地",
+      "description": " _亜空間_ へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -322,8 +322,8 @@
   },
   "16": {
     "displayProperties": {
-      "name": "Nightmare of Xortal, Sworn of Crota",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "name": "クロタ・スウォーン、イグゾータルのナイトメア",
+      "description": "ナイトメアを倒して勝利の道のり _彷徨うナイトメア_ を手に入れろ"
     },
     "typeHash": 3,
     "destinationHash": 677774031,
@@ -346,8 +346,8 @@
   },
   "17": {
     "displayProperties": {
-      "name": "Nightmare of Horkis, Fear of Mithrax",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "name": "ミスラックスの恐怖、ホーキスのナイトメア",
+      "description": "ナイトメアを倒して勝利の道のり _彷徨うナイトメア_ を手に入れろ"
     },
     "typeHash": 3,
     "destinationHash": 677774031,
@@ -370,8 +370,8 @@
   },
   "18": {
     "displayProperties": {
-      "name": "Nightmare of Jaxx, Claw of Xivu Arath",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "name": "シヴアラスの爪、ジャックスのナイトメア",
+      "description": "ナイトメアを倒して勝利の道のり _彷徨うナイトメア_ を手に入れろ"
     },
     "typeHash": 3,
     "destinationHash": 677774031,
@@ -394,8 +394,8 @@
   },
   "19": {
     "displayProperties": {
-      "name": "Fallen Council",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "name": "フォールン議会",
+      "description": "3体のナイトメア全員を倒して勝利の道のり _彷徨うナイトメア_ を手に入れろ"
     },
     "typeHash": 3,
     "destinationHash": 677774031,
@@ -434,7 +434,7 @@
   },
   "24": {
     "displayProperties": {
-      "description": "Up on the cliff, overlooking Winding Cove, near where Xûr sometimes appears."
+      "description": "屈曲の細道を見下ろす崖の上、シュールが時々現れる場所の近く"
     },
     "checklistHash": 3658842337,
     "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3658842337.jpg"
@@ -473,21 +473,21 @@
   },
   "33": {
     "displayProperties": {
-      "description": "Left of the lost sector's entrance, poorly lit, behind some crates."
+      "description": "失われたセクターの入り口左側、クレートの後ろの暗がりの中にある"
     },
     "checklistHash": 576743835,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-576743835.jpg"
   },
   "34": {
     "displayProperties": {
-      "description": "Up in the very top left corner, on the rocks."
+      "description": "左上の天井近く、岩の上"
     },
     "checklistHash": 3307732497,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-3307732497.jpg"
   },
   "35": {
     "displayProperties": {
-      "description": "Behind the fast travel landing zone."
+      "description": "ファストトラベルのすぐ後ろ"
     },
     "checklistHash": 823939877,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-823939877.jpg"
@@ -498,21 +498,21 @@
   },
   "37": {
     "displayProperties": {
-      "description": "In the rear of the damaged structure, on the third floor, in a room on the right."
+      "description": "崩壊した建物の奥、3階の右側の部屋"
     },
     "checklistHash": 1085712440,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-1085712440.jpg"
   },
   "38": {
     "displayProperties": {
-      "description": "Through the waterfall."
+      "description": "滝を抜けた奥にある"
     },
     "checklistHash": 589814471,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-589814471.jpg"
   },
   "39": {
     "displayProperties": {
-      "description": "Inside the causeway's ceiling."
+      "description": "通りの上にある建物の天井にある"
     },
     "checklistHash": 2503906440,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-2503906440.jpg",
@@ -527,7 +527,7 @@
   },
   "40": {
     "displayProperties": {
-      "description": "Through the rubbled brick wall."
+      "description": "瓦礫のレンガの壁を超えた先"
     },
     "checklistHash": 3609559330,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-3609559330.jpg"
@@ -901,7 +901,7 @@
     "checklistHash": 3880966469,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
     "displayProperties": {
-      "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
+      "description": "氷の塊の中で凍っている。リース・リボーンへのリフト近くにいる _フォールンキャプテン_こと _サバスンの突風、フェルキス_を見つけろ。倒すと「必要なもの」がドロップする。"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
@@ -1024,7 +1024,7 @@
     "checklistHash": 3888342093,
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg",
     "displayProperties": {
-      "description": "Under the ice."
+      "description": "氷の中にある"
     }
   },
   "128": {
@@ -1283,21 +1283,21 @@
   },
   "182": {
     "displayProperties": {
-      "description": "After completing the sector, proceed to the exit and find the subject on the way out."
+      "description": "セクターをクリアしたら出口まで進み、出口にある玉兎を見つける。"
     },
     "checklistHash": 2779900411,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg"
   },
   "183": {
     "displayProperties": {
-      "description": "Requires a Firewall Data Fragment. Acquire prerequisite through Eris Morn."
+      "description": "ファイヤウォールデータの断片が必要。エリス・モーンのバウンティから断片を取得する。"
     },
     "checklistHash": 3728157446,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg"
   },
   "184": {
     "displayProperties": {
-      "description": "Entering the _Circle of Bones_ via The _Gatehouse_, turn right and proceed to follow the loop around the _Hellmouth_. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
+      "description": "ゲートハウスに入ってからサークル・オブ・ボーンズに入ったら、右折してヘルマウスの周りをぐるっと一周する。次の分かれ道の手前で踵を返し、台の下を見ると翡翠の瞳がガーディアンの肩にとまるトラベラーの光を見つめている事に気がつくだろう。"
     },
     "checklistHash": 3977481189,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
@@ -1483,35 +1483,35 @@
   },
   "215": {
     "displayProperties": {
-      "description": "Enter the dungeon and head to the tower farthest right. Retain some altitude if possible. On the farthest side of the farthest tower, below its foot, is a cypher."
+      "description": "異端の奈落に入り、最初のステージの一番右奥の塔へ向かえ。可能なら、ある程度高度を保て。一番奥の塔の一番奥、足元の下にはその暗号がある。"
     },
     "recordHash": 4111390768,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg"
   },
   "216": {
     "displayProperties": {
-      "description": "Complete the _Necropolis_ encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
+      "description": " _ネクロポリス_ をクリアしたら、次ステージ「穴」に向かって進め。大量の扉がある壁まで出たら、扉の壁を登り来た道を振り向け。来た道の右側の岩肌には、小さな岩棚がある。それらを登り、左に渡って岩の足場まで進め。"
     },
     "recordHash": 4111390771,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg"
   },
   "217": {
     "displayProperties": {
-      "description": "Complete the _Chamber of Suffering_ encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
+      "description": " _苦痛の部屋_をクリアしたら次の移動で高所恐怖症になる前に、その足場を使って一番高いところまで登れ。"
     },
     "recordHash": 4111390770,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg"
   },
   "218": {
     "displayProperties": {
-      "description": "Drop down into the _Tunnels of Despair_ and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
+      "description": "絶望のトンネルに降り立ち、右に進む。すぐ右側にある避難通路に入り、突き当たりまで進む。赤い扉が見えたらドアの前に沿って右壁沿いでしゃがみ、狭い場所に入れ。そこに探しているものがある。"
     },
     "recordHash": 4111390781,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg"
   },
   "219": {
     "displayProperties": {
-      "description": "In the middlest crouch-way tunnel, closest to the green gas pit where you find the solar orb. Entering the tunnel from the green gas pit side, it will quickly widen into a small room. Stop, turn 180°, and look upwards."
+      "description": "左奥の崖の一段下がった場所からトンネルの中に入れ。通路から小さな空間に出たら、180度回転して、上を見ろ。"
     },
     "recordHash": 4111390780,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi.x-apocrypha-4111390780.jpg"
@@ -1551,7 +1551,7 @@
   },
   "223": {
     "displayProperties": {
-      "description": "Enter _The Gatehouse_ via _Hellmouth_ and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
+      "description": "_ヘルマウス_ から _ゲートハウス_ の明るく照らされた円形の小さな部屋まで進め。右奥の窓まで進むと、お前が探しているものがある。"
     },
     "recordHash": 4292949216,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-eris-morns-ghost-4292949216.jpg",
@@ -1576,7 +1576,7 @@
   },
   "225": {
     "displayProperties": {
-      "description": "At the side on the hidden side of the pictured module."
+      "description": "月の戦場の奥、ロケットの残骸の横。上の画像だと見えない奥側にある。"
     },
     "recordHash": 4292949222,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-vyhars-ghost-4292949222.jpg",
@@ -1601,7 +1601,7 @@
   },
   "227": {
     "displayProperties": {
-      "description": "In the _Tunnels of Despair_, on a cliff ledge adjacent to the green gas pit."
+      "description": "_絶望のトンネル_ の入って左側にある、崖の通路に沿って左奥に進むとある"
     },
     "recordHash": 4292949220,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-omar-agahs-ghost-4292949220.jpg",
@@ -1802,7 +1802,7 @@
   },
   "258": {
     "displayProperties": {
-      "description": "Accessible via the _Wellspring_ offensive."
+      "description": " _源泉:襲撃_ のボス戦で右奥の部屋の石像にとまっている"
     },
     "checklistHash": 2895058245,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/court-of-thorns-2895058245.jpg",
@@ -1818,7 +1818,7 @@
   },
   "259": {
     "displayProperties": {
-      "description": "Requires _Deepsight_ to reveal."
+      "description": " _ディープサイト_ を発動する必要がある。"
     },
     "checklistHash": 1903309704,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/witchs-echo-1903309704.jpg",
@@ -1834,7 +1834,7 @@
   },
   "260": {
     "displayProperties": {
-      "description": "Accessible via the _Altar of Reflection_ activities."
+      "description": "_幻影の祭壇:洞察_ にてディープサイトを使う所から壁を登る"
     },
     "checklistHash": 703052847,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/altar-of-reflection-703052847.jpg",
@@ -1851,8 +1851,8 @@
   },
   "278": {
     "displayProperties": {
-      "name": "Queen's Court",
-      "description": "A portal to _Queen's Court_, Mara Sov's throne world.",
+      "name": "女王の間",
+      "description": "_女王の間_ へと続くポータル。マラ・ソヴの玉座の世界。",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -1864,7 +1864,7 @@
     "checklistHash": 1387596458,
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
     "displayProperties": {
-      "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
+      "description": "_女王の間_ に辿り着いたら、王座の左側の壁沿いを登れ。"
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
@@ -1878,7 +1878,7 @@
     "checklistHash": 463653643,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-463653643.jpg",
     "displayProperties": {
-      "description": "Push past the lost sector entry junction and continue along the gangway."
+      "description": "失われたセクターの入り口の分岐点から通り過ぎて、通路を進む。"
     }
   },
   "289": {
@@ -1897,14 +1897,14 @@
     "checklistHash": 2495538001,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-2495538001.jpg",
     "displayProperties": {
-      "description": "Cliff-side, beneath the path which leads to a lost sector."
+      "description": "崖側、失われたセクターに続く道の下"
     }
   },
   "293": {
     "checklistHash": 3644688446,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3644688446.jpg",
     "displayProperties": {
-      "description": "On the catwalk."
+      "description": "足場の上"
     }
   },
   "294": {
@@ -1915,7 +1915,7 @@
     "checklistHash": 2809244994,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg",
     "displayProperties": {
-      "description": "Perched upon the midwall of the _Infinite Forest_."
+      "description": "_無限の森_ の中腹にある。"
     }
   },
   "302": {
@@ -1923,7 +1923,7 @@
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "instructions": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
+      "instructions": "このクレートは現実を超越させる必要がある。アクセス方法:\n\n1.  _修道士バンス_ , の左側にある「感動的な本」を調べる。\n2. 180°回れ右をする。 そのまま正面の奥の壁に向かうと本棚に光る「印が入った本」を調べる。\n3. 壁に向かって右側のポータルまで進み、さらに右隣にある松明の所にある「年季が入った本」を調べる。\n4. 最初の本棚の所まで戻り、1人の弟子座っている机の上に「興味深い本」があるので調べる\n5. そこからまっすぐ反対の壁まで進み、無限の炉の右側にある本棚の棚に登って、「重要な本」を調べる。\n6. 2番目の本に近くに _ベックスの合流点_ が出てくるので調べるとファイアウォールが消える。"
     }
   },
   "303": {
@@ -2670,8 +2670,8 @@
   },
   "596": {
     "displayProperties": {
-      "name": "Salt Mines Cliffs",
-      "description": "A portal to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
+      "name": "岩塩坑",
+      "description": " _フォールン_ たちが廃材を再利用して作った _岩塩坑_ の山頂へのポータル",
       "icon": "portal"
     },
     "typeHash": 1,
@@ -2682,7 +2682,7 @@
   "597": {
     "checklistHash": 1000001001,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2700,7 +2700,7 @@
   "598": {
     "checklistHash": 1000001002,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2718,7 +2718,7 @@
   "599": {
     "checklistHash": 1000001003,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2736,7 +2736,7 @@
   "600": {
     "checklistHash": 1000001004,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2757,7 +2757,7 @@
   "601": {
     "checklistHash": 1000001005,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2775,7 +2775,7 @@
   "602": {
     "checklistHash": 1000001006,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2793,7 +2793,7 @@
   "603": {
     "checklistHash": 1000001007,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2811,7 +2811,7 @@
   "604": {
     "checklistHash": 1000001008,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2829,7 +2829,7 @@
   "605": {
     "checklistHash": 1000001009,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2847,7 +2847,7 @@
   "606": {
     "checklistHash": 1000001010,
     "displayProperties": {
-      "description": "Requires  attunement"
+      "description": "  アチューンメントが必要"
     },
     "related": {
       "quests": [
@@ -2864,502 +2864,502 @@
   },
   "2000000000": {
     "displayProperties": {
-      "name": "Field Assignment: Assassination",
+      "name": "フィールド課題: 暗殺",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000001": {
     "displayProperties": {
-      "name": "Field Assignment: Salvage",
+      "name": "フィールド課題: 回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000002": {
     "displayProperties": {
-      "name": "Field Assignment: Pilgrimage",
+      "name": "フィールド課題: 分析",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000003": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "フィールド課題: 戦闘",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000004": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "フィールド課題: 戦闘",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000005": {
     "displayProperties": {
-      "name": "Field Assignment: Salvage",
+      "name": "フィールド課題: 回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000006": {
     "displayProperties": {
-      "name": "Field Assignment: Assassination",
+      "name": "フィールド課題: 暗殺",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000007": {
     "displayProperties": {
-      "name": "Field Assignment: Pilgrimage",
+      "name": "フィールド課題: 分析",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000008": {
     "displayProperties": {
-      "name": "Field Assignment: Assassination",
+      "name": "フィールド課題: 暗殺",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000009": {
     "displayProperties": {
-      "name": "Field Assignment: Active Duty",
+      "name": "フィールド課題: 戦闘",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000010": {
     "displayProperties": {
-      "name": "Field Assignment: Salvage",
+      "name": "フィールド課題: 回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000011": {
     "displayProperties": {
-      "name": "Field Assignment: Pilgrimage",
+      "name": "フィールド課題: 分析",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000012": {
     "displayProperties": {
-      "name": "Find Toland",
-      "description": "Seek out Toland to hear his ruminations about the Moon.",
+      "name": "トーランドを探す",
+      "description": "月についての考察を聞くため、トーランドを探し出せ",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000013": {
     "displayProperties": {
-      "name": "Defeat Combatants",
+      "name": "戦闘員を倒す",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000014": {
     "displayProperties": {
-      "name": "Hunt the Nightmare of Volniks, Deathkeeper",
+      "name": "ボルニクス・デスキーパーのナイトメアを狩れ",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000015": {
     "displayProperties": {
-      "name": "Collect Supplies",
+      "name": "物資を集める",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000016": {
     "displayProperties": {
-      "name": "Hunt the Nightmare of Talgoth, Soul Smasher",
-      "description": "Go to the Gatehouse and take out the Nightmare of Talgoth, Soul Smasher.",
+      "name": "ソウルスマッシャー・タルゴスのナイトメアを狩れ",
+      "description": "ゲートハウスに向かいソウルスマッシャー・タルゴスのナイトメアを倒す",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000017": {
     "displayProperties": {
-      "name": "Find Toland",
-      "description": "Seek out Toland to hear his ruminations about the Moon.",
+      "name": "トーランドを探せ",
+      "description": "月についての考察を聞くため、トーランドを探し出せ",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000018": {
     "displayProperties": {
-      "name": "Collect Supplies",
+      "name": "物資を集める",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000019": {
     "displayProperties": {
-      "name": "Hunt the Nightmare of Lambiks-4",
+      "name": "ランビクス-4のナイトメアを狩れ",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000020": {
     "displayProperties": {
-      "name": "Find Toland",
-      "description": "Seek out Toland to hear his ruminations about the Moon.",
+      "name": "トーランドを探せ",
+      "description": "月についての考察を聞くため、トーランドを探し出せ",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000021": {
     "displayProperties": {
-      "name": "Collect Supplies",
+      "name": "物資を集める",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000022": {
     "displayProperties": {
-      "name": "Defeat Combatants",
+      "name": "戦闘員を倒す",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000023": {
     "displayProperties": {
-      "name": "Hunt the Nightmare of Val Sinu, Hellbringer",
+      "name": "ヘルブリンガー・バル・シヌのナイトメアを倒せ",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000024": {
     "displayProperties": {
-      "name": "Find Toland",
-      "description": "Seek out Toland to hear his ruminations about the Moon.",
+      "name": "トーランドを探せ",
+      "description": "月についての考察を聞くため、トーランドを探し出せ",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000025": {
     "displayProperties": {
-      "name": "Combat Mission",
+      "name": "戦闘ミッション",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000026": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000027": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000028": {
     "displayProperties": {
-      "name": "Assassination Mission",
+      "name": "暗殺ミッション",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000029": {
     "displayProperties": {
-      "name": "Analysis Mission",
+      "name": "分析ミッション",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000030": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000031": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000032": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000033": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000034": {
     "displayProperties": {
-      "name": "Assassination Mission",
+      "name": "暗殺ミッション",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000035": {
     "displayProperties": {
-      "name": "Combat Mission",
+      "name": "戦闘ミッション",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000036": {
     "displayProperties": {
-      "name": "Analysis Mission",
+      "name": "分析ミッション",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000037": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000038": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000039": {
     "displayProperties": {
-      "name": "Assassination Mission",
+      "name": "暗殺ミッション",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000040": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000041": {
     "displayProperties": {
-      "name": "Combat Mission",
+      "name": "戦闘ミッション",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000042": {
     "displayProperties": {
-      "name": "Analysis Mission",
+      "name": "分析ミッション",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000043": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000044": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000045": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000046": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000047": {
     "displayProperties": {
-      "name": "Combat Mission",
+      "name": "戦闘ミッション",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000048": {
     "displayProperties": {
-      "name": "Assassination Mission",
+      "name": "暗殺ミッション",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000049": {
     "displayProperties": {
-      "name": "Salvage Mission",
+      "name": "回収ミッション",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000050": {
     "displayProperties": {
-      "name": "Analysis Mission",
+      "name": "分析ミッション",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000051": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000052": {
     "displayProperties": {
-      "name": "Survey mission",
+      "name": "調査ミッション",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000053": {
     "displayProperties": {
-      "name": "Nothing is Crystal Clear",
+      "name": "透明なものなどない",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000054": {
     "displayProperties": {
-      "name": "Out of Order",
+      "name": "故障中",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000055": {
     "displayProperties": {
-      "name": "Pools Party",
+      "name": "プールパーティ",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000056": {
     "displayProperties": {
-      "name": "Thermal Decomposition",
+      "name": "熱分解",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000057": {
     "displayProperties": {
-      "name": "Bathtime",
+      "name": "バスタイム",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000058": {
     "displayProperties": {
-      "name": "Cistern Vandals",
+      "name": "貯水池荒らし",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000059": {
     "displayProperties": {
-      "name": "Half Empty",
+      "name": "半減期",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000060": {
     "displayProperties": {
-      "name": "Taking Shelter",
+      "name": "避難",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000061": {
     "displayProperties": {
-      "name": "Brave New World",
+      "name": "すばらしい新世界",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000062": {
     "displayProperties": {
-      "name": "Binary and Digital",
+      "name": "バイナリーとデジタル",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000063": {
     "displayProperties": {
-      "name": "Having a Ball",
+      "name": "楽しい時間",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000064": {
     "displayProperties": {
-      "name": "Acoustic Shadow",
+      "name": "音の影",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000065": {
     "displayProperties": {
-      "name": "Mind Control",
+      "name": "マインドコントロール",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000066": {
     "displayProperties": {
-      "name": "Unilateral Disarmament",
+      "name": "一方的な無力化",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000067": {
     "displayProperties": {
-      "name": "Entanglement",
+      "name": "錯綜",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000068": {
     "displayProperties": {
-      "name": "Tangled Up in Red",
+      "name": "赤い絡み合い",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000069": {
     "displayProperties": {
-      "name": "Sifting Through the Tangle",
+      "name": "篩に掛けられる混乱",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000070": {
     "displayProperties": {
-      "name": "Spelunking",
+      "name": "洞窟探検",
       "icon": "patrol-survey"
     },
     "typeHash": 4
@@ -3373,28 +3373,28 @@
   },
   "2000000072": {
     "displayProperties": {
-      "name": "What is This Place?",
+      "name": "ここはどこ?",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000073": {
     "displayProperties": {
-      "name": "Long Way Down",
+      "name": "長い道のり",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000074": {
     "displayProperties": {
-      "name": "States of Matter",
+      "name": "物質の状態",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000075": {
     "displayProperties": {
-      "name": "Putting Them in Their Graves",
+      "name": "墓に納める",
       "icon": "patrol-combat"
     },
     "typeHash": 4
@@ -3408,70 +3408,70 @@
   },
   "2000000077": {
     "displayProperties": {
-      "name": "Not Like This",
+      "name": "これじゃない",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000078": {
     "displayProperties": {
-      "name": "The Shapes of Things",
+      "name": "物の形",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000079": {
     "displayProperties": {
-      "name": "Crimson Canopy",
+      "name": "クリムゾン・キャノピー",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000080": {
     "displayProperties": {
-      "name": "Watch Your Step",
+      "name": "足もと注意",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000081": {
     "displayProperties": {
-      "name": "Artifact Hunting",
+      "name": "遺物狩り",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000082": {
     "displayProperties": {
-      "name": "Searching High and Low",
+      "name": "上から下まで探す",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000083": {
     "displayProperties": {
-      "name": "Untangling the Situation",
+      "name": "状況整理",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000084": {
     "displayProperties": {
-      "name": "Don't Pass the Torch",
+      "name": "トーチを渡すな",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000085": {
     "displayProperties": {
-      "name": "Below Vex",
+      "name": "ベックス以下",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000086": {
     "displayProperties": {
-      "name": "An Empty Feeling",
+      "name": "空虚な気持ち",
       "icon": "patrol-combat"
     },
     "typeHash": 4
@@ -3492,106 +3492,106 @@
   },
   "2000000089": {
     "displayProperties": {
-      "name": "Seeing is Believing",
+      "name": "百聞は一見にしかず",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000090": {
     "displayProperties": {
-      "name": "Watch What Happens",
+      "name": "何が起こるかわからない",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000091": {
     "displayProperties": {
-      "name": "Ceiling and Ground",
+      "name": "天井と地面",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000092": {
     "displayProperties": {
-      "name": "The Point of No Return",
+      "name": "帰還不能限界点",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000093": {
     "displayProperties": {
-      "name": "No Survivors",
+      "name": "生存者なし",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000094": {
     "displayProperties": {
-      "name": "Fallen, Out of the Sky",
+      "name": "空の彼方から、フォールン",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000095": {
     "displayProperties": {
-      "name": "Drained from the Dregs",
+      "name": "ドレッグによる流出",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000096": {
     "displayProperties": {
-      "name": "Secure Your Mask before Helping Others",
+      "name": "人助けをする前に、自分のマスクはしっかり守れ",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000097": {
     "displayProperties": {
-      "name": "Through the Wreckage",
+      "name": "残骸の中から",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000098": {
     "displayProperties": {
-      "name": "Soundproofing",
+      "name": "防音設備",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000099": {
     "displayProperties": {
-      "name": "Echoes of What Remains",
+      "name": "残骸と思しきエコー",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000100": {
     "displayProperties": {
-      "name": "Conversion One",
+      "name": "コンバージョン・ワン",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000101": {
     "displayProperties": {
-      "name": "Should the Pool Be Glowing?",
+      "name": "プールは光っているべき?",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000102": {
     "displayProperties": {
-      "name": "The Crash Site",
+      "name": "墜落現場",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000103": {
     "displayProperties": {
-      "name": "Chronicler of History",
-      "description": "Retrieve a three-dimensional scan of a pre-Collaspe sculpture in Maevic Square.",
+      "name": "歴史のクロニクル",
+      "description": "メイビック広場にある、大崩壊前に作られた彫刻を3Dスキャンする。",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -3607,16 +3607,16 @@
   },
   "2000000104": {
     "displayProperties": {
-      "name": "The Scavenge Beast",
-      "description": "Fallen scavenging crews continue to present a problem in Maevic Square. Eliminate their leader to solve the problem.",
+      "name": "ゴミ漁りの獣",
+      "description": "メイビック広場で、フォールンの廃品漁りが問題になっている。リーダーを倒して解決しろ。",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000105": {
     "displayProperties": {
-      "name": "Mining Operations",
-      "description": "Descend into the mines and search for any still-functioning Golden Age technology.",
+      "name": "鉱山作業",
+      "description": "鉱山に入り、まだ機能している黄金時代のテクノロジーを探せ。",
       "icon": "patrol-analysis"
     },
     "typeHash": 4,
@@ -3632,131 +3632,131 @@
   },
   "2000000106": {
     "displayProperties": {
-      "name": "Those Don't Belong to You",
-      "description": "Defeat Fallen in Trostland and collect the Forgotten Journals they drop.",
+      "name": "お前らのものじゃない",
+      "description": "トロストランドでフォールンを倒し、彼らから忘れられた日記を回収せよ。",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000107": {
     "displayProperties": {
-      "name": "Urban Flight",
-      "description": "The Fallen are more familiar with terrain in the Outskits than humanity is. Shift that balance.",
+      "name": "都市飛行",
+      "description": "今ではフォールンは人類より郊外の地形に詳しい。その状況を変えろ。",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000108": {
     "displayProperties": {
-      "name": "Cleaning Up the Streets",
-      "description": "Eliminate Dregs in Trostland and recover their Drained Ether Tanks.",
+      "name": "街頭清掃",
+      "description": "トロストランドにいるドレッグを退治し、空のエーテルタンクを回収しろ。",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000109": {
     "displayProperties": {
-      "name": "Deep, Dark, and Down",
-      "description": "A Fallen Servitor is stripping the cavern walls for minerals. Put a stop to it.",
+      "name": "深く、暗く、そして下に",
+      "description": "フォールンサービターが洞窟を掘削して鉱物を得ようとしている。奴らを止めろ。",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000110": {
     "displayProperties": {
-      "name": "Not in My Backyard",
-      "description": "Defeat enemies in the streets and buildings of this ruined town.",
+      "name": "ここから出て行け",
+      "description": "廃墟と化した街の通りや建物にいる敵を倒せ。",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000111": {
     "displayProperties": {
-      "name": "Back in Town",
+      "name": "街へ戻る",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000112": {
     "displayProperties": {
-      "name": "Fallen Literacy Rates",
+      "name": "フォールンの識字率",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000113": {
     "displayProperties": {
-      "name": "Camping Trip",
+      "name": "キャンプ旅行",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000114": {
     "displayProperties": {
-      "name": "Vandal Tanks",
+      "name": "バンダル・タンク",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000115": {
     "displayProperties": {
-      "name": "Beachcombing",
+      "name": "漂着物拾い",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000116": {
     "displayProperties": {
-      "name": "Suburban Violence",
+      "name": "郊外での暴動",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000117": {
     "displayProperties": {
-      "name": "Bottle Recycling",
+      "name": "ボトルリサイクル",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000118": {
     "displayProperties": {
-      "name": "Land Ho",
+      "name": "おい、陸だ!",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000119": {
     "displayProperties": {
-      "name": "Other People's Stuff",
+      "name": "他人の物",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000120": {
     "displayProperties": {
-      "name": "Invisible Pollution",
+      "name": "見えない汚染",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000121": {
     "displayProperties": {
-      "name": "Unsafe for Swimming",
+      "name": "遊泳禁止",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000122": {
     "displayProperties": {
-      "name": "Return to Basics",
+      "name": "基本に戻る",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000123": {
     "displayProperties": {
-      "name": "Cleaning Up the Beach",
+      "name": "海岸の清掃",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
@@ -3777,614 +3777,614 @@
   },
   "2000000126": {
     "displayProperties": {
-      "name": "Getting Away from It All",
+      "name": "すべてから離れる",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000127": {
     "displayProperties": {
-      "name": "Brain Oxygenation",
+      "name": "脳内酸素濃度",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000128": {
     "displayProperties": {
-      "name": "Firebase Fireworks",
+      "name": "ファイアベース・ファイアワークス",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000129": {
     "displayProperties": {
-      "name": "Beneath the Surfaces",
+      "name": "地表の下にあるもの",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000130": {
     "displayProperties": {
-      "name": "Slamfire",
+      "name": "暴発",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000131": {
     "displayProperties": {
-      "name": "Supply Run",
+      "name": "供給",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000132": {
     "displayProperties": {
-      "name": "On the Land As on the Sea",
+      "name": "陸と海の上で",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000133": {
     "displayProperties": {
-      "name": "Sunken Supplies",
+      "name": "水没したサプライ",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000134": {
     "displayProperties": {
-      "name": "Living Under a Rock",
+      "name": "岩の下に生きる",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000135": {
     "displayProperties": {
-      "name": "Fire Down Below",
+      "name": "地下の火事",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000136": {
     "displayProperties": {
-      "name": "Work Smarter and Harder",
+      "name": "よりスマートに、よりハードに",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000137": {
     "displayProperties": {
-      "name": "What's in the Box",
+      "name": "箱の内容は",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000138": {
     "displayProperties": {
-      "name": "Security en Garde",
+      "name": "警備中のセキュリティ",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000139": {
     "displayProperties": {
-      "name": "Paved with Good Intentions",
+      "name": "善意に満ちた舗装",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000140": {
     "displayProperties": {
-      "name": "Claustrophobia",
+      "name": "閉所恐怖症",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000141": {
     "displayProperties": {
-      "name": "De-Supplying the Legion",
+      "name": "部隊への補給排除",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000142": {
     "displayProperties": {
-      "name": "Underground Fighting",
+      "name": "アンダーグラウンド ファイティング",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000143": {
     "displayProperties": {
-      "name": "Something More Refined",
+      "name": "より洗練されたもの",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000144": {
     "displayProperties": {
-      "name": "Wetwork",
+      "name": "汚れ仕事",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000145": {
     "displayProperties": {
-      "name": "River Transport",
+      "name": "河川運送",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000146": {
     "displayProperties": {
-      "name": "Only You Can Prevent",
+      "name": "あなただけが防げる",
       "icon": "patrol-assassination"
     },
     "typeHash": 4
   },
   "2000000147": {
     "displayProperties": {
-      "name": "Everybody in the Pools",
+      "name": "みんなでプール",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000148": {
     "displayProperties": {
-      "name": "Treehugger",
+      "name": "環境保護論者",
       "icon": "patrol-analysis"
     },
     "typeHash": 4
   },
   "2000000149": {
     "displayProperties": {
-      "name": "This Is For Your Own Goods",
+      "name": "これはあなたのもの",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000150": {
     "displayProperties": {
-      "name": "Coasting",
+      "name": "惰性",
       "icon": "patrol-survey"
     },
     "typeHash": 4
   },
   "2000000151": {
     "displayProperties": {
-      "name": "Industrial Warfare",
+      "name": "産業戦争",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000152": {
     "displayProperties": {
-      "name": "Environmental Storytelling",
+      "name": "環境ストーリーテリング",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000153": {
     "displayProperties": {
-      "name": "Psion Their Own Supply",
+      "name": "サイオンの自己供給",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000154": {
     "displayProperties": {
-      "name": "Defeat Combatants",
+      "name": "戦闘員を倒す",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000155": {
     "displayProperties": {
-      "name": "Defeat Combatants",
+      "name": "戦闘員を倒す",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000156": {
     "displayProperties": {
-      "name": "Defeat Combatants",
+      "name": "戦闘員を倒す",
       "icon": "patrol-combat"
     },
     "typeHash": 4
   },
   "2000000157": {
     "displayProperties": {
-      "name": "Collect Supplies",
+      "name": "物資回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000163": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000164": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000165": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000168": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000169": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000170": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000176": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000177": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000180": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000181": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000186": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000187": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000188": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000189": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000190": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000191": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000192": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000193": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000195": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000196": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000197": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000198": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000199": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000200": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000201": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000202": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000203": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000204": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000215": {
     "displayProperties": {
-      "name": "Field Assignment: Salvage",
+      "name": "フィールド課題: 回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000230": {
     "displayProperties": {
-      "name": "Field Assignment: Salvage",
+      "name": "フィールド課題: 回収",
       "icon": "patrol-salvage"
     },
     "typeHash": 4
   },
   "2000000231": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000232": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000233": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000234": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000235": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000236": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000237": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000238": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000239": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000240": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000241": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000242": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000243": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000244": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000245": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000246": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000247": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000248": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
   },
   "2000000249": {
     "displayProperties": {
-      "name": "Random",
-      "description": "This beacon can relay various objectives.",
+      "name": "ランダム",
+      "description": "このビーコンは、さまざまな目的を中継できる。",
       "icon": "patrol-random"
     },
     "typeHash": 4
@@ -4396,8 +4396,8 @@
   },
   "2000000251": {
     "displayProperties": {
-      "name": "Alluring Curtain Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
+      "name": "魅惑のカーテンのルーセント執行者",
+      "description": "魅惑のカーテンにいるルーセント執行者を倒し、_気高きバウンティハンター_ の記録を進行させる。"
     },
     "typeHash": 3,
     "destinationHash": 2244580325,
@@ -4418,8 +4418,8 @@
   },
   "2000000252": {
     "displayProperties": {
-      "name": "Queen's Bailey Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
+      "name": "女王の中庭の執行者",
+      "description": "女王の中庭にいるルーセント執行者を倒し、_気高きバウンティハンター_ の記録を進行させる。"
     },
     "typeHash": 3,
     "destinationHash": 2244580325,
@@ -4440,8 +4440,8 @@
   },
   "2000000253": {
     "displayProperties": {
-      "name": "Witch's Echo Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
+      "name": "魔女の残響の執行者",
+      "description": "魔女の残響にいるルーセント執行者を倒し、_気高きバウンティハンター_ の記録を進行させる。"
     },
     "typeHash": 3,
     "destinationHash": 2244580325,
