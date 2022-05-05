@@ -63,7 +63,10 @@
     },
     "inventory": {
       "tierTypeName": "Common"
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "372496383": {
     "displayProperties": {
@@ -93,7 +96,10 @@
   "691393048": {
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "699525795": {
     "displayProperties": {
@@ -253,7 +259,10 @@
   "1711513650": {
     "displayProperties": {
       "description": "Increases your Guardian's experience enormously."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "1754714824": {
     "displayProperties": {
@@ -288,7 +297,10 @@
   "1858002338": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "1866048759": {
     "displayProperties": {
@@ -323,7 +335,10 @@
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "2213355989": {
     "displayProperties": {
@@ -333,7 +348,10 @@
   "2250176030": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "2284787283": {
     "displayProperties": {
@@ -478,7 +496,10 @@
   "3348653032": {
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "3350417888": {
     "displayProperties": {
@@ -533,7 +554,10 @@
   "3582080006": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly."
-    }
+    },
+    "traitIds": [
+      "item_type.currency"
+    ]
   },
   "3592538738": {
     "displayProperties": {
