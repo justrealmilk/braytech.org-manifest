@@ -65,7 +65,7 @@
       "tierTypeName": "Common"
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "372496383": {
@@ -98,7 +98,7 @@
       "description": "Increases your Guardian's experience substantially."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "699525795": {
@@ -261,7 +261,7 @@
       "description": "Increases your Guardian's experience enormously."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "1754714824": {
@@ -299,7 +299,7 @@
       "description": "Increases your Guardian's experience."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "1866048759": {
@@ -337,7 +337,12 @@
       "description": "Increases your Guardian's experience."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
+    ]
+  },
+  "3381471334": {
+    "traitIds": [
+      "item_type.experience"
     ]
   },
   "2213355989": {
@@ -350,7 +355,7 @@
       "description": "Increases your Guardian's experience greatly."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "2284787283": {
@@ -498,7 +503,7 @@
       "description": "Increases your Guardian's experience substantially."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "3350417888": {
@@ -556,7 +561,7 @@
       "description": "Increases your Guardian's experience greatly."
     },
     "traitIds": [
-      "item_type.currency"
+      "item_type.experience"
     ]
   },
   "3592538738": {
