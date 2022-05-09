@@ -69,6 +69,13 @@
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
+  "flair-tokai": {
+    "displayProperties": {
+      "name": "Tokai",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Braytech相談役"
+  },
   "flair-patron-veteran": {
     "displayProperties": {
       "name": "サブルーチン",
