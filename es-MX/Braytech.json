@@ -275,6 +275,12 @@
       "description": "Completa desafíos de tiempo limitado para obtener rangos de temporada, polvo brillante y otras recompensas."
     }
   },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Triunfos transitorios",
+      "description": "No todos los triunfos son para siempre: completa estos registros con premura o se perderán en el tiempo para siempre."
+    }
+  },
   "sub-triumphs-medals": {
     "displayProperties": {
       "name": "Medallas",

@@ -269,6 +269,12 @@
       "description": "Ver una colección de triunfos y sellos antiguos."
     }
   },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Triunfos transitorios",
+      "description": "No todos los triunfos son para siempre: completa estos registros con premura o se perderán en el tiempo para siempre."
+    }
+  },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
