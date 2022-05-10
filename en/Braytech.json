@@ -210,6 +210,12 @@
       "description": "View a collection of legacy Triumphs and Seals"
     }
   },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Transient Triumphs",
+      "description": "Not all Triumphs are forever - complete these records with haste or be lost forever in time."
+    }
+  },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
