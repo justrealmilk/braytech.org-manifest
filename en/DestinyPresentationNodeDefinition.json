@@ -2,7 +2,8 @@
   "1000000001": {
     "hash": 1000000001,
     "displayProperties": {
-      "name": "Transient Triumphs"
+      "name": "Transient Triumphs",
+      "description": "These records are time-sensitive. This is a developer-curated list of records that will no longer be completable next season."
     },
     "children": {
       "presentationNodes": [
@@ -36,7 +37,7 @@
   "1000000003": {
     "hash": 1000000003,
     "displayProperties": {
-      "name": "Season of the Risen (dynamically translated at runtime)",
+      "name": "Season of the Risen (don't translate/translated dynamically)",
       "presentationNodeHash": 741267279
     },
     "children": {
