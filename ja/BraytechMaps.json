@@ -1483,7 +1483,7 @@
   },
   "215": {
     "displayProperties": {
-      "description": "異端の奈落に入り、最初のステージの一番右奥の塔へ向かえ。可能なら、ある程度高度を保て。一番奥の塔の一番奥、足元の下にはその暗号がある。"
+      "description": "異端の奈落の、最初のステージの一番右奥の塔へ向かえ。可能なら、ある程度高度を保て。一番奥の塔の一番奥、足元の下にはその暗号がある。"
     },
     "recordHash": 4111390768,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg"
@@ -2281,7 +2281,7 @@
     "checklistHash": 379286227,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-379286227.jpg",
     "displayProperties": {
-      "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
+      "description": "霊場の近くにある _合流点_ の近く、枯れ木の根の間にある。"
     }
   },
   "439": {

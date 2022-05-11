@@ -210,6 +210,12 @@
       "description": "過去の勝利の道のりと印を見ることができます"
     }
   },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "一時的な勝利の道のり",
+      "description": "すべての道のりは永遠に挑戦できるものではありません。これらのレコードは、急いで達成しないと永遠に取得できるチャンスはありません。"
+    }
+  },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンの挑戦",
@@ -332,7 +338,7 @@
   },
   "sub-weeklies-cycles": {
     "displayProperties": {
-      "name": "サイクル",
+      "name": "周回アクティビティ",
       "description": "主要アクティビティと周回アクティビティ"
     }
   },
