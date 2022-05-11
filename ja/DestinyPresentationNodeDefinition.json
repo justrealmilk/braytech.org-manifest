@@ -1,74 +1,8 @@
 { 
   "1000000001": {
-    "hash": 1000000001,
     "displayProperties": {
       "name": "一時的な勝利の道のり",
       "description": "すべての道のりは永遠に挑戦できるものではありません。いくつかは時間制限があります。これらのレコードは、ブレイテックにて抽出したリストで来シーズンからは挑戦できなくなります"
-    },
-    "children": {
-      "presentationNodes": [
-        {
-          "presentationNodeHash": 1000000002
-        }
-      ],
-      "collectibles": [],
-      "records": [],
-      "metrics": [],
-      "craftables": []
-    },
-    "redacted": false
-  },
-  "1000000002": {
-    "hash": 1000000002,
-    "displayProperties": {},
-    "children": {
-      "presentationNodes": [
-        {
-          "presentationNodeHash": 1000000003
-        }
-      ],
-      "collectibles": [],
-      "records": [],
-      "metrics": [],
-      "craftables": []
-    },
-    "redacted": false
-  },
-  "1000000003": {
-    "hash": 1000000003,
-    "displayProperties": {
-      "name": "Season of the Risen (don't translate/translated dynamically)",
-      "presentationNodeHash": 741267279
-    },
-    "children": {
-      "presentationNodes": [],
-      "collectibles": [],
-      "records":  [
-        {
-          "recordHash": 748794675
-        },
-        {
-          "recordHash": 287777529
-        },
-        {
-          "recordHash": 3431988403
-        },
-        {
-          "recordHash": 1480969782
-        },
-        {
-          "recordHash": 3134742219
-        },
-        {
-          "recordHash": 292307915
-        },
-        {
-          "recordHash": 3950914558
-        }
-      ],
-      "metrics": [],
-      "craftables": []
-    }
-  },
-  "redacted": false
+    }    
+  }
 }
