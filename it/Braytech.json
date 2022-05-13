@@ -69,6 +69,13 @@
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
   },
+  "flair-tokai": {
+    "displayProperties": {
+      "name": "Tokai",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Portinaio di Braytech"
+  },
   "flair-patron-veteran": {
     "displayProperties": {
       "name": "Subroutine",
@@ -185,6 +192,12 @@
       "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
     }
   },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Tra i primi",
+      "description": "Questa attività è stata completata durante il periodo della modalità contesa: trionfa sotto pressione e in circostanze straordinarie"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
@@ -195,6 +208,12 @@
     "displayProperties": {
       "name": "Trionfi e sigilli storici",
       "description": "Vedi una collezione di trionfi e sigilli storici"
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Trionfi transitori",
+      "description": "Non tutti i trionfi sono immortali–completa questi trionfi di fretta o saranno persi nel tempo per sempre."
     }
   },
   "sub-triumphs-seasonal-challenges": {
@@ -311,6 +330,12 @@
       "description": "Attività tracciate su grafici, per coloro inclini alle statistiche"
     }
   },
+  "sub-activity-legends": {
+    "displayProperties": {
+      "name": "Leggende",
+      "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
+    }
+  },
   "sub-weeklies-cycles": {
     "displayProperties": {
       "name": "Cicli",
@@ -331,7 +356,7 @@
   },
   "sub-inspect-lore": {
     "displayProperties": {
-      "name": "Leggende",
+      "name": "Storie",
       "description": "Leggi la storia di questo oggetto"
     }
   }

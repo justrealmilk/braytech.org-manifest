@@ -82,5 +82,53 @@
       "name": "Atheon, Confluenza Temporale",
       "description": "La Mente dell'Asse spaziotemporale, responsabile di rendere realtà i calcoli dei Vex."
     }
+  },
+  "580855089": {
+    "displayProperties": {
+      "name": "Acquisizione",
+      "description": "Soddisfa i requisiti e perfora il velo."
+    }
+  },
+  "1942966197": {
+    "displayProperties": {
+      "name": "Collezione",
+      "description": "Sottometti e distruggi l'abominio."
+    }
+  },
+  "196663595": {
+    "displayProperties": {
+      "name": "Esibizione",
+      "description": "Riorienta la tua prospettiva."
+    }
+  },
+  "3840791265": {
+    "displayProperties": {
+      "name": "Dominio",
+      "description": "Incontra il distruttore, Rhulk."
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Evita la Mente Consacrata",
+      "description": "Evita le cariche di sovraccarico voltaico e segui la Mente Consacrata."
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "Evoca la Mente Consacrata",
+      "description": "Supera le confluenze Vex e costringi la Mente Consacrata allo scoperto."
+    }
+  },
+  "2003": {
+    "displayProperties": {
+      "name": "Sconfiggi la Mente Consacrata",
+      "description": "Una volta per tutte, sconfiggi la Mente Consacrata."
+    }
+  },
+  "2004": {
+    "displayProperties": {
+      "name": "La Mente Santificata",
+      "description": "Una Mente dell'axis Vex, la Mente Santificata accumula controllo su molti Vex. Sconfiggilo per prevenire ulteriori incursioni della Divisione Sol al di fuori del Giardino Nero."
+    }
   }
 }
