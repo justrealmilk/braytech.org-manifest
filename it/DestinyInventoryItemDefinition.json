@@ -6,40 +6,29 @@
     },
     "itemTypeDisplayName": "Informazioni insufficienti"
   },
-  "11612903": {
+  "163842160": {
     "displayProperties": {
-      "tip": "La durata è di 10 secondi e si ripristina con uccisioni da granate:\n•  1x: +10% danni, +10 Maneggevolezza\n•  2x: +21% danni, +20 Maneggevolezza\n•  3x: +33% danni, +30 Maneggevolezza"
-    }
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità di danno e dei proiettili.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
+    },
+    "itemTypeDisplayName": "Materiale"
   },
-  "47981717": {
+  "163842161": {
     "displayProperties": {
-      "tip": "Si applica al primo colpo solo dopo non aver sparato per 3,1 secondi.\n•  +20 Mira assistita\n•  +20 Gittata\n•  +5% distanza di decadimento dei danni (esclusi i fucili a pompa)\n•  -10% crescita del cono di precisione"
-    }
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità delle caratteristiche base delle armi.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
+    },
+    "itemTypeDisplayName": "Materiale"
   },
-  "124408337": {
+  "163842162": {
     "displayProperties": {
-      "tip": "I nemici di grado minore generano un cristallo di stasi di medie dimensioni. I nemici di qualsiasi maggior grado generano un cristallo di grandi dimensioni."
-    }
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare i tratti di abilità.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
+    },
+    "itemTypeDisplayName": "Materiale"
   },
-  "201365942": {
+  "163842163": {
     "displayProperties": {
-      "tip": "Diminuisce il tempo d'estrazione a 440 ms per la durata di 3 secondi."
-    }
-  },
-  "205890336": {
-    "displayProperties": {
-      "tip": "Una volta al di sotto di ~150 PV, aumenta la Velocità di ricarica. L'effetto aumenta linearmente man mano che la salute diminuisce fino a 100 Velocità di ricarica con moltiplicatore di durata a 0,9x."
-    }
-  },
-  "247725512": {
-    "displayProperties": {
-      "tip": "Si accumula fino a 5 volte e dura 2 secondi.\n•  1x: +5 Velocità di ricarica, +5 Stabilità\n•  2x: +27 Velocità di ricarica, 10 Stabilità\n•  3x: +32 Velocità di ricarica, 15 Stabilità\n•  4x: +40 Velocità di ricarica, +20 Stabilità\n•  5x: +54 Velocità di ricarica, +23 Stabilità"
-    }
-  },
-  "280464955": {
-    "displayProperties": {
-      "tip": "Quando si è accovacciati, conferisce:\n•  +30 Maneggevolezza\n•  +20 Stabilità\n•  -40 dimensione del cono di precisione\n•  -17% crescita del cono di precisione\n•  -80 rinculo orizzontale"
-    }
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità di ricarica e di munizioni.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
+    },
+    "itemTypeDisplayName": "Materiale"
   },
   "304443327": {
     "displayProperties": {
@@ -54,79 +43,9 @@
       "description": "Aumenta il grado di infamia del tuo Guardiano. Non dirlo all'Avanguardia."
     }
   },
-  "438098033": {
-    "displayProperties": {
-      "tip": "Si attiva con arma pronta entro 3 secondi dall'uccisione con un'arma diversa. Conferisce +20% di aumento del danno e +15 Maneggevolezza per 7 secondi."
-    }
-  },
-  "460017080": {
-    "displayProperties": {
-      "tip": "I colpi di precisione, dopo aver colpito almeno una volta il corpo, ricevono un aumento del danno di precisione dell'8%. Il quarto proiettile dei telai a raffica aggressiva (fucili a impulsi) non ricevono il bonus."
-    }
-  },
-  "588594999": {
-    "displayProperties": {
-      "tip": "+3% velocità di movimento e +10 Mira assistita mentre si guarda nel mirino"
-    }
-  },
-  "666440382": {
-    "displayProperties": {
-      "tip": "Estende la durata della peculiarità a 4,5 secondi."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Aumenta sostanzialmente l'esperienza del tuo Guardiano."
-    }
-  },
-  "699525795": {
-    "displayProperties": {
-      "tip": "Una volta al di sotto di ~150 PV, la maneggevolezza e la precisione aumentano. L'effetto aumenta linearmente man mano che la salute diminuisce."
-    }
-  },
-  "706527188": {
-    "displayProperties": {
-      "tip": "Conferisce +100 Maneggevolezza (solo velocità di prontezza) per 1 secondo o fino a quando si guarda nel mirino."
-    }
-  },
-  "908147344": {
-    "displayProperties": {
-      "tip": "Inibisce la rilevazione sul radar quando si scoccano frecce mentre si è accovacciati. Aumenta il tempo di tensione di +25%."
-    }
-  },
-  "951095735": {
-    "displayProperties": {
-      "tip": "+13% Velocità, +10 Velocità di ricarica con moltiplicatore di 0,8x."
-    }
-  },
-  "957782887": {
-    "displayProperties": {
-      "tip": "Velocità di mira più veloce di +33% rispetto a +100 Maneggevolezza. Si accumula con gli effetti di Regolatore di mira (modifica), Rilevatore di minacce (peculiarità) e Cotta di ombracciaio (Ombra del Drago)."
-    }
-  },
-  "960810156": {
-    "displayProperties": {
-      "tip": "Si attiva quando almeno 3 nemici si trovano entro ~15 metri. Dura per ~4 secondi."
-    }
-  },
-  "972757866": {
-    "displayProperties": {
-      "tip": "Quando è attivo, aggiunge +45 Maneggevolezza e conferisce destrezza più veloce di +5%. Ricarica l'arma sia quando estratta o riposta."
-    }
-  },
-  "984527513": {
-    "displayProperties": {
-      "tip": "7,8% di aumento del danno ai nemici di grado maggiore, campioni inclusi."
-    }
-  },
-  "1015611457": {
-    "displayProperties": {
-      "tip": "Anche la Schivata dei tiratori e Cotta di ombracciaio (Ombra del Drago) possono attivare questa peculiarità. Dura 5 secondi.\n•  di precisione: +33% danni\n•  non di precisione: +30% danni"
-    }
-  },
-  "1168162263": {
-    "displayProperties": {
-      "tip": "\n•  +63 Velocità di ricarica con un moltiplicatore di 0,9x dalla durata di 6 secondi"
     }
   },
   "1190250163": {
@@ -134,129 +53,14 @@
       "description": "Materiale di Sintospago che può essere convertito in Sintostoffa tramite il Telaio."
     }
   },
-  "1195158366": {
-    "displayProperties": {
-      "tip": "Con uccisioni di precisione conferisce +10 Gittata per punto e raggiunge un massimo di 3 punti. Con uccisioni non di precisione rimuove un punto, conferisce una crescita del cono di precisione e +30 Stabilità. La durata è di 7 secondi e si ripristina all'uccisione."
-    }
-  },
-  "1264398905": {
-    "displayProperties": {
-      "tip": "Mentre sei l'ultimo membro rimasto della tua squadra:\n•  +100 Maneggevolezza\n•  +100 Velocità di ricarica\n•  +100 Mira assistita\n•  Barcollamento da fuoco nemico drasticamente ridotto\n•  Maggiore precisione\n•  MIglior evidenziazione dei bersagli attraverso il mirino\n•  Radar attivo mentre guardi nel mirino"
-    }
-  },
-  "1354429876": {
-    "displayProperties": {
-      "tip": "4 colpi di precisione entro 2,5 secondi aggiungono 2 colpi al caricatore."
-    }
-  },
-  "1359896290": {
-    "displayProperties": {
-      "tip": "Aumenta notevolmente la precisione dopo il fuoco prolungato per 0,6 secondi, annullando quasi gli effetti del bloom.\n• Aggiunge +9 Stabilità nel tempo.\nLa precisione in aria è comunque scarsa a meno che si utilizzi con la modifica Impugnatura di Icaro."
-    }
-  },
-  "1427256713": {
-    "displayProperties": {
-      "tip": "\n•  +25% danno"
-    }
-  },
-  "1471333428": {
-    "displayProperties": {
-      "tip": "Aumenta il bonus di danno della peculiarità al 40% (35% per le spade). Ha una durata di 1,5 secondi."
-    }
-  },
-  "1513326571": {
-    "displayProperties": {
-      "tip": "10% di aumento dei danni a tutti i nemici corrotti, incluse Riven e le Tecnidi (Seda, Kalli e Shuro-Chi)."
-    }
-  },
-  "1523832109": {
-    "displayProperties": {
-      "tip": "Dopo 4 secondi senza aver sparato, ricarica il 10% del caricatore fino a un massimo di più del doppio della sua dimensione."
-    }
-  },
-  "1528281896": {
-    "displayProperties": {
-      "tip": "\n•  +63 Velocità di ricarica con un moltiplicatore di 0,9x per la durata di 6 secondi"
-    }
-  },
-  "1546637391": {
-    "displayProperties": {
-      "tip": "15% di aumento del danno contro miniboss, campioni, veicoli e boss. Contro i Guardiani mentre sono in super, +40-50% per le armi primarie e +10-20% per le armi speciali."
-    }
-  },
-  "1556840489": {
-    "displayProperties": {
-      "tip": "Conferisce l'equivalente della raccolta di 1 pacchetto di munizioni speciali."
-    }
-  },
-  "1561002382": {
-    "displayProperties": {
-      "tip": "Maggior barcollamento inflitto ai nemici. Permette alle armi primarie di affliggere i nemici di grado più alto e stordisce costantemente i nemici di grado minore. Varia tra gli archetipi delle armi, da +6-11% barcollamento inflitto."
-    }
-  },
-  "1570042021": {
-    "displayProperties": {
-      "tip": "Dura 5,5 secondi.\n•  1x: +15% Precisione, +15 Stabilità, +~20 Direzione rinculo\n•  2x: +30% Precisione, +30 Stabilità, +~40 Direzione rinculo"
-    }
-  },
-  "1600092898": {
-    "displayProperties": {
-      "tip": "Passare a questa arma garantisce i seguenti effetti per 4 secondi:\n•  Moltiplica il Tempo di carica di 0,8 volte\n•  -20% danni\n•  +100 Maneggevolezza"
-    }
-  },
-  "1631667848": {
-    "displayProperties": {
-      "tip": "Ricarica le armi: primarie (dalle riserve infinite), speciali e pesanti (senza animazione, non si attivano le peculiarità che richiedono una ricarica)."
-    }
-  },
-  "1645158859": {
-    "displayProperties": {
-      "tip": "Si attiva quando il caricatore scende al di sotto del 50%. Conferisce +25-50% Precisione e fino a +20 Stabilità."
-    }
-  },
-  "1683379515": {
-    "displayProperties": {
-      "tip": "Quando si infrange uno scudo elementale/barriera (campione) o di un Guardiano: rende vulnerabili i bersagli con un aumento del danno cinetico del 50% per la durata di 5,5 secondi. Si accumula con altre vulnerabilità perché è una peculiarità dell'arma."
-    }
-  },
-  "1685431615": {
-    "displayProperties": {
-      "tip": "+30% di aumento dei danni per 1,5 secondi."
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "Aumenta enormemente l'esperienza del tuo Guardiano."
     }
   },
-  "1754714824": {
-    "displayProperties": {
-      "tip": "+20% di danni in più e Tempo di ricarica più veloce di 100 ms durante una scivolata dopo una corsa di almeno 1,5 secondi. L'effetto della peculiarità può scadere a metà se non inizi immediatamente a caricare il fucile."
-    }
-  },
-  "1774574192": {
-    "displayProperties": {
-      "tip": "Non funziona con la caratteristica esotica del casco per stregoni, Espressione della Verità."
-    }
-  },
-  "1799762209": {
-    "displayProperties": {
-      "tip": "Attivo quando almeno 3 nemici si trovano entro ~15 metri per  la durata di 1,5 secondi.\n•  -100 ms Tempo di carica/Tempo di tensione"
-    }
-  },
   "1808687944": {
     "displayProperties": {
-      "description": "Aumenta il grado di valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
-    }
-  },
-  "1820235745": {
-    "displayProperties": {
-      "tip": "Ricarica il 10-17% del caricatore per uccisione."
-    }
-  },
-  "1837151577": {
-    "displayProperties": {
-      "tip": "Area impatto aumentata del 50%. Aumenta i danni fino al 50% dall'epicentro dell'esplosione."
+      "description": "Aumenta il grado di Valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
     }
   },
   "1858002338": {
@@ -264,44 +68,9 @@
       "description": "Aumenta l'esperienza del tuo Guardiano."
     }
   },
-  "1866048759": {
-    "displayProperties": {
-      "tip": "Quando non guardi nel mirino:\n•  +1,2x distanza di decadimento della mira assistita\n•  +15 Mira assistita\n•  +2,7 gradi di soglia dell'angolo di precisione (eccetto fucili di precisione)\n•  +~30 precisione in più\n•  +~30 Stabilità"
-    }
-  },
-  "1890422124": {
-    "displayProperties": {
-      "tip": "Conferisce +25 Stabilità e +10% Precisione per 0,6 secondi. Si riattiva immediatamente dopo l'interruzione del fuoco. Per controller, l'arma spara nell'istante quando viene applicata pressione al grilletto."
-    }
-  },
-  "1954620775": {
-    "displayProperties": {
-      "tip": "I danni inflitti vengono divisi in due, il 55% diventa esplosivo: +30% di danno e nessun decadimento dei danni su distanza. Detona dopo 0,6 secondi.\n•  PvE: aumento del +12% ai danni di precisione e +16% ai danni non di precisione.\n•  PvP: il danno totale rimane quasi lo stesso."
-    }
-  },
-  "1968497646": {
-    "displayProperties": {
-      "tip": "5% di aumento del danno contro gli scudi dei nemici. I proiettili possono penetrare fino a 1 nemico."
-    }
-  },
-  "2010801679": {
-    "displayProperties": {
-      "tip": "Aumenta la capacità del caricatore del 10% per uccisione fino a un massimo del 50%."
-    }
-  },
-  "2039302152": {
-    "displayProperties": {
-      "tip": "Ha una durata di 3 secondi. Ricarica il 15% del caricatore e conferisce +~20 Stabilità e +~25 Maneggevolezza."
-    }
-  },
   "2174060729": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo Guardiano."
-    }
-  },
-  "2213355989": {
-    "displayProperties": {
-      "tip": "Aumento graduale del danno quando il caricatore è al 50% della capienza o meno.\n•  PvE: +12,1-25,6% di danno.\n•  PvP: +3-6% di danno."
     }
   },
   "2250176030": {
@@ -309,259 +78,20 @@
       "description": "Aumenta di molto l'esperienza del tuo Guardiano."
     }
   },
-  "2284787283": {
-    "displayProperties": {
-      "tip": "Aumenta casualmente il caricatore tra +10% e +50% alla ricarica. Arrotonda sempre per eccesso."
-    }
-  },
-  "2387244414": {
-    "displayProperties": {
-      "tip": "Rimuove il rimbalzo del reticolo e il tremolio dell'arma in caso di colpi ripetuti. Nessuna miglioria alla stabilità. Si nota soprattutto sui controller, poiché il loro reticolo rimbalza quando si fa fuoco, come le mitragliatrici con mouse."
-    }
-  },
-  "2396489472": {
-    "displayProperties": {
-      "tip": "Le uccisioni creano un'esplosione elementale. Non è influenzato dalla modifica Specifica Libellula."
-    }
-  },
-  "2450788523": {
-    "displayProperties": {
-      "tip": "Dura per 6 secondi, uccisioni aggiuntive aggiungono 6 secondi e si ferma a 8 secondi.\n•  +20 Gittata\n•  +50 Mobilità\n•  +~40 Maneggevolezza\n•  +30% velocità di movimento mentre si guarda nel mirino\n•  1,05x distanza di decadimento dei danni"
-    }
-  },
-  "2458213969": {
-    "displayProperties": {
-      "tip": "Uccidere e ricaricare interromperà e ripristinerà il timer del bonus attuale. I punti vengono sempre ripristinati al momento della ricarica. Dura 5 secondi.\n•  1x: +17% danni\n•  2x: +33% danni\n•  3x: +50% danni"
-    }
-  },
-  "2551157718": {
-    "displayProperties": {
-      "tip": "Si attiva 1,5 secondi dopo aver guardato nel mirino senza sparare.\n•  Fucili da ricognizione: +66% danni\n•  Fucili a fusione lineare: +33% danni\n•  Fucili di precisione (telaio aggressivo): +37% danni\n•  Fucili di precisione (telaio adattivo e telaio rapido): +31% danni"
-    }
-  },
-  "2621346526": {
-    "displayProperties": {
-      "tip": "Quando si è entro 15 metri da un alleato, +30 Maneggevolezza e un bonus alla velocità di ricarica. Dura per 1,5 secondi."
-    }
-  },
-  "2726471870": {
-    "displayProperties": {
-      "tip": "Le uccisioni con armi primarie e le uccisioni con armi pesanti forniscono +1% di energia della super. Le uccisioni con armi speciali forniscono +1,5% (+1% in PvP) energia della super."
-    }
-  },
-  "2779035018": {
-    "displayProperties": {
-      "tip": "Dura 3,5 secondi. Fornisce un bonus fisso alla velocità di ricarica e un moltiplicatore per ogni punto:\n•  1x: +10 Velocità di ricarica/0x\n•  2x: +45 Velocità di ricarica/0.9x\n•  3x: +55 Velocità di ricarica/0.88x\n•  4x: +75 Velocità di ricarica/0,85x\n•  5x: +100 Velocità di ricarica/0,8x"
-    }
-  },
-  "2788909693": {
-    "displayProperties": {
-      "tip": "7,8% di aumento del danno ai veicoli e ai nemici di grado ultra e boss."
-    }
-  },
-  "2846385770": {
-    "displayProperties": {
-      "tip": "\n•  +10% Zoom quando si guarda nel mirino\n•  +5% Velocità quando si guarda nel mirino"
-    }
-  },
-  "2848615171": {
-    "displayProperties": {
-      "tip": "Crea un'esplosione elementale in base al tipo di danno dell'elemento dell'arma, ha un raggio di 3 metri e non è influenzata dalle peculiarità dell'arma."
-    }
-  },
-  "2866798147": {
-    "displayProperties": {
-      "tip": "Dopo aver guardato nel mirino per 1 secondo senza sparare, il barcollamento è ridotto del 35%. Si accumula in modo moltiplicativo con le modifiche anti-sussulto."
-    }
-  },
-  "2869569095": {
-    "displayProperties": {
-      "tip": "\n•  +45 Velocità di ricarica con un moltiplicatore di 0,8x e durata dell'animazione di estrazione 0,8x.\n•  L'aumento della Dimensione inventario è l'aumento delle riserve."
-    }
-  },
-  "2946784966": {
-    "displayProperties": {
-      "tip": "Si attiva dopo aver ricaricato entro 6 secondi dopo un'uccisione.\n•  +20 Mira assistita\n•  +20% Precisione"
-    }
-  },
-  "3016987351": {
-    "displayProperties": {
-      "tip": "L'attacco va bloccato entro ~0,5 secondi dall'inizio della parata. 50% di aumento dei danni per 2 secondi."
-    }
-  },
-  "3038247973": {
-    "displayProperties": {
-      "tip": "I danni inflitti viengono divisi in due, il 50% diventa esplosivo: +30% di danno e nessun decadimento dei danni su distanza.\n•  PvE: aumento del +11% ai danni di precisione e +15% ai danni non di precisione.\n•  PvP: il danno totale rimane quasi lo stesso."
-    }
-  },
-  "3047969693": {
-    "displayProperties": {
-      "tip": "Ricaricare entro 6 secondi da un'uccisione di precisione conferisce una cadenza di tiro 600 proiettili al minuto per 7 secondi, ma riduce i danni ai nemici del -20%."
-    }
-  },
-  "3096702027": {
-    "displayProperties": {
-      "tip": "Ricarica il caricatore quando si infrange uno scudo elementale o barriera (campione). Le armi a energia generano 1 munizione per colpo contro gli scudi elementali corrispondenti."
-    }
-  },
-  "3108830275": {
-    "displayProperties": {
-      "tip": "Avvia la rigenerazione della salute e fornisce ~80 HP dopo aver ottenuto 3 punti. I nemici di basso grado conferiscono 1 punto, i Guardiani 2 punti e gli élite/mini-boss/boss 3 punti. Le uccisioni devono avvenire entro ~8 secondi l'una dall'altra."
-    }
-  },
-  "3161816588": {
-    "displayProperties": {
-      "tip": "Dura ~3 secondi con un periodo di riattivazione di 0,3 secondi. Ricarica il 15% del caricatore e conferisce +20 Gittata e +~50 Stabilità."
-    }
-  },
-  "3194351027": {
-    "displayProperties": {
-      "tip": "\n•  +15% danni ai lanciarazzi"
-    }
-  },
-  "3201496230": {
-    "displayProperties": {
-      "tip": "Conferisce un punto quando si colpisce un nemico di basso grado."
-    }
-  },
-  "3275789089": {
-    "displayProperties": {
-      "tip": "Le esplosion disorientano i nemici entro 7 metri per una durata di 5 seconds."
-    }
-  },
-  "3300816228": {
-    "displayProperties": {
-      "tip": "Ricarica le armi riposte dalle riserve dopo 3 secondi."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Aumenta sostanzialmente l'esperienza del tuo Guardiano."
     }
   },
-  "3350417888": {
+  "3491404510": {
     "displayProperties": {
-      "tip": "Ricarica le armi riposte dopo aver ricaricato dopo un'uccisione entro 6 secondi."
-    }
-  },
-  "3365897133": {
-    "displayProperties": {
-      "tip": "I danni inflitti vengono divisi in due, il 55% diventa esplosivo: +30% di danno e nessun decadimento dei danni su distanza. Detona dopo 0,6 secondi.\n•  PvE: aumento del +12% ai danni di precisione e +16% ai danni non di precisione.\n•  PvP: il danno totale rimane quasi lo stesso."
-    }
-  },
-  "3400784728": {
-    "displayProperties": {
-      "tip": "La finestra d'attivazione è di 2,5 secondi."
-    }
-  },
-  "3418782618": {
-    "displayProperties": {
-      "tip": "Riempe il caricatore del 50-60% per armi primare o del 30-40% per armi speciali"
-    }
-  },
-  "3425386926": {
-    "displayProperties": {
-      "tip": "Dura 3,5 secondi.\n•  1x: +10% danno\n•  2x: +21% danno\n•  3x: +33% danno"
-    }
-  },
-  "3436462433": {
-    "displayProperties": {
-      "tip": "Le abilità con più cariche contribuiscono ai requisiti (ad es. 2 granate e un corpo a corpo contano come Surplus massimo).\n•  1x: +5 Velocità di ricarica, +10 Maneggevolezza, +5 Stabilità\n•  2x: +22 Velocità di ricarica, +25 Maneggevolezza, +15 Stabilità\n•  3x: +50 Velocità di ricarica, +50 Maneggevolezza, +25 Stabilità"
-    }
-  },
-  "3511092054": {
-    "displayProperties": {
-      "tip": "[Stasi] aumenta la velocità di movimento mentre si mira del +5%."
-    }
-  },
-  "3513791699": {
-    "displayProperties": {
-      "tip": "Quando un colpo non va a segno, la probabilità che 1 colpo ritorni nel caricatore è del 20%."
-    }
-  },
-  "3523296417": {
-    "displayProperties": {
-      "tip": "Le uccisioni con armi primarie e pesanti generano il 10% di energia per le granate e le uccisioni con armi speciali generano il 20% di energia per le granate. Il tempo di recupero per l'effetto di ricarica all'uso della granata è di 3 secondi."
-    }
-  },
-  "3551326236": {
-    "displayProperties": {
-      "tip": "Dura 3,5 secondi.\n•  1x: +10% danno\n•  2x: +21% danno\n•  3x: +33% danno"
-    }
+      "description": "Materiale utilizzato nella forgiatura delle armi.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
+    },
+    "itemTypeDisplayName": "Materiale"
   },
   "3582080006": {
     "displayProperties": {
       "description": "Aumenta di molto l'esperienza del tuo Guardiano."
-    }
-  },
-  "3592538738": {
-    "displayProperties": {
-      "tip": "Genera +7,5% di energia delle abilità e viene divisa equamente tra tutte quelle scariche."
-    }
-  },
-  "3643424744": {
-    "displayProperties": {
-      "tip": "Ricarica il caricatore fino al doppio della sua capienza."
-    }
-  },
-  "3673922083": {
-    "displayProperties": {
-      "tip": "Dura 6 secondi:\n•  +25% danni (+20% per fucili a pompa e archi)\n•  -20% cadenza di fuoco/Tempo di carica"
-    }
-  },
-  "3700496672": {
-    "displayProperties": {
-      "tip": "Attiva peculiarità basate sul raccoglimento di munizioni."
-    }
-  },
-  "3824105627": {
-    "displayProperties": {
-      "tip": "Le uccisioni di precisione forniscono +45 Velocità di ricarica per 6 secondi. Ha lo stesso raggio della modifica Specifica Libellula, ma infligge il 25% di danni in più. Non funziona con la modifica Specifica Libellula."
-    }
-  },
-  "3913600130": {
-    "displayProperties": {
-      "tip": "Dura 3 secondi.\n•  1x: +6% danni\n•  2x: +12% danni\n•  3x: +18% danni\n•  4x: +24% danni\n•  5x: +30% danni"
-    }
-  },
-  "3927722942": {
-    "displayProperties": {
-      "tip": "I razzi esplodono 3 secondi dopo l'impatto e infliggono +20% di danni da esplosione.\n•  +25 Area impatto"
-    }
-  },
-  "4049631843": {
-    "displayProperties": {
-      "tip": "+35% danni dopo aver colpito tre bersagli diversi entro 3 secondi l'uno dall'altro."
-    }
-  },
-  "4071163871": {
-    "displayProperties": {
-      "tip": "\n•  Quando si è entro 15 metri da un nemico: +~15 Stabilità, +15 Velocità di ricarica, +25% velocità d'animazione di estrazione.\n•  Quando si è entro 15 metri da 2 o più nemici: +~40 Stabilità, +55 Velocità di ricarica e + 43% velocità d'animazione di estrazione."
-    }
-  },
-  "4082225868": {
-    "displayProperties": {
-      "tip": "Dura 4,5 secondi.\n•  1x: +6,6% danni\n•  2x: +13,2% danni\n•  3x: +20% danni\n•  4x: +26,6% danni\n•  5x: +33,3% danni"
-    }
-  },
-  "4091000557": {
-    "displayProperties": {
-      "tip": "7,8% di aumento del danno ai nemici di grado minore."
-    }
-  },
-  "4104185692": {
-    "displayProperties": {
-      "tip": "Essere in combattimento per 12 secondi fornisce un aumento del danno del 15%, +~50 Maneggevolezza e +50 Velocità di ricarica. Dura fino al termine del combattimento. Essere in combattimento significa aver inflitto o ricevuto danni entro 5 secondi."
-    }
-  },
-  "4252909580": {
-    "displayProperties": {
-      "tip": "Finché sei l'ultimo membro sopravvissuto della tua squadra, le uccisioni ricaricano completamente il caricatore.\n•  +30 Caricatore"
-    }
-  },
-  "4267945040": {
-    "displayProperties": {
-      "tip": "Aumenta la cadenza di fuoco del +10% solo per i fucili a pompa."
     }
   },
   "23239861010": {
