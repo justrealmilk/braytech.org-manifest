@@ -336,16 +336,22 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
-  "sub-weeklies-cycles": {
+  "sub-weeklies-this-week": {
     "displayProperties": {
-      "name": "Cycles",
-      "description": "Key activities and cycles"
+      "name": "This Week",
+      "description": "This week in Destiny"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Challenges",
       "description": "All activity challenges"
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
     }
   },
   "sub-inspect-equipment": {
