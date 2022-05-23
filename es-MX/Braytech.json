@@ -254,7 +254,7 @@
   "activity-contest-mode": {
     "displayProperties": {
       "name": "Entre los primeros",
-      "description": "Esta actividad se completó dentro del plazo durante el modo competición: un triunfo en circunstancias extraordinarias y bajo presión"
+      "description": "Esta actividad se completó dentro del plazo durante el modo competición: un triunfo en circunstancias extraordinarias y bajo presión."
     }
   },
   "sub-triumphs-active": {
@@ -368,19 +368,19 @@
   "sub-character-vendors": {
     "displayProperties": {
       "name": "Comerciantes",
-      "description": "Espía a tus delegantes de tareas y socios comerciales favoritos"
+      "description": "Espía a tus delegantes de tareas y socios comerciales favoritos."
     }
   },
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Informes",
-      "description": "Todas las actividades recientes del Guardián seleccionado"
+      "description": "Todas las actividades recientes del Guardián seleccionado."
     }
   },
   "sub-activity-bookmarks": {
     "displayProperties": {
       "name": "Favoritos",
-      "description": "Actividades que has marcado como favoritas"
+      "description": "Actividades que has marcado como favoritas."
     }
   },
   "sub-activity-graphs": {
@@ -392,19 +392,25 @@
   "sub-activity-legends": {
     "displayProperties": {
       "name": "Leyendas",
-      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios"
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
     }
   },
-  "sub-weeklies-cycles": {
+  "sub-weeklies-this-week": {
     "displayProperties": {
-      "name": "Ciclos",
-      "description": "Actividades clave y ciclos."
+      "name": "Esta semana",
+      "description": "Esta semana en Destiny."
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Desafíos",
       "description": "Todos los desafíos de actividades."
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotaciones",
+      "description": "Predice los ciclos de varias actividades."
     }
   },
   "sub-inspect-equipment": {
