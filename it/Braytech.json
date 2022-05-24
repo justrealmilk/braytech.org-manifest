@@ -336,16 +336,22 @@
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
     }
   },
-  "sub-weeklies-cycles": {
+  "sub-weeklies-this-week": {
     "displayProperties": {
-      "name": "Cicli",
-      "description": "Attività chiave e cicli"
+      "name": "Questa settimana",
+      "description": "Questa settimana in Destiny"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Sfide",
       "description": "Tutte le sfide delle attività"
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotazioni",
+      "description": "Prevedi le rotazioni di varie attività"
     }
   },
   "sub-inspect-equipment": {
