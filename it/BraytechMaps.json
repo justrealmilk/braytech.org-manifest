@@ -241,7 +241,7 @@
   },
   "301": {
     "displayProperties": {
-      "description": "Appolaiato sulla parete centrale della _Foresta Infinita_."
+      "description": "Appollaiato sulla parete centrale della _Foresta Infinita_."
     }
   },
   "438": {
@@ -318,6 +318,24 @@
   "2000000108": {
     "displayProperties": {
       "name": "Pulizia strade"
+    }
+  },
+  "2000000251": {
+    "displayProperties": {
+      "name": "Carnefice della Tenda Seducente",
+      "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+    }
+  },
+  "2000000252": {
+    "displayProperties": {
+      "name": "Carnefice delle Mura della Regina",
+      "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+    }
+  },
+  "2000000253": {
+    "displayProperties": {
+      "name": "Carnefice dell'Eco della Regina",
+      "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
     }
   }
 }
