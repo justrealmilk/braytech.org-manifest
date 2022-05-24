@@ -338,14 +338,20 @@
   },
   "sub-weeklies-cycles": {
     "displayProperties": {
-      "name": "周回アクティビティ",
-      "description": "主要アクティビティと周回アクティビティ"
+      "name": "今週のDestiny2",
+      "description": "今週のアクティビティ"
     }
   },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
       "description": "全アクティビティの挑戦"
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "ローテーション",
+      "description": "さまざまなアクティビティの舞台を読み解け"
     }
   },
   "sub-inspect-equipment": {
