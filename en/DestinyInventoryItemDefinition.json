@@ -7,42 +7,6 @@
     "itemTypeDisplayName": "Insufficient Clearance",
     "redacted": true
   },
-  "163842160": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust damage and projectile perks.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
-    },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 1000
-    }
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust basic weapon characteristic perks.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
-    },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 1000
-    }
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust ability traits.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
-    },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 1000
-    }
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust ammo and reload perks.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
-    },
-    "itemTypeDisplayName": "Material",
-    "inventory": {
-      "maxStackSize": 1000
-    }
-  },
   "176055472": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"

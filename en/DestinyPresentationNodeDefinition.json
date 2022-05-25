@@ -37,33 +37,36 @@
   "1000000003": {
     "hash": 1000000003,
     "displayProperties": {
-      "name": "Season of the Risen (don't translate/translated dynamically)",
-      "presentationNodeHash": 741267279
+      "name": "Season of the Haunted (don't translate/translated dynamically)",
+      "presentationNodeHash": 239187336
     },
     "children": {
       "presentationNodes": [],
       "collectibles": [],
-      "records":  [
+      "records":   [
         {
-          "recordHash": 748794675
+          "recordHash": 368791520
         },
         {
-          "recordHash": 287777529
+          "recordHash": 420665768
         },
         {
-          "recordHash": 3431988403
+          "recordHash": 3468730524
         },
         {
-          "recordHash": 1480969782
+          "recordHash": 1640011073
         },
         {
-          "recordHash": 3134742219
+          "recordHash": 2100941700
         },
         {
-          "recordHash": 292307915
+          "recordHash": 3639193500
         },
         {
-          "recordHash": 3950914558
+          "recordHash": 1436176126
+        },
+        {
+          "recordHash": 2574923249
         }
       ],
       "metrics": [],
