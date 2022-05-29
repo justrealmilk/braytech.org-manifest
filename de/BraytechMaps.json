@@ -2,25 +2,25 @@
   "1": {
     "displayProperties": {
       "name": "Die Konfluenz West",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
     }
   },
   "2": {
     "displayProperties": {
       "name": "Die Konfluenz Ost",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
     }
   },
   "3": {
     "displayProperties": {
       "name": "Die Konfluenz Süd",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakasuellen Energien."
+      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
     }
   },
   "4": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Zerstöre alle Seuchen und kehre dann ins Foyer zurück, um die zuvor immunen Leere-Kristalle zu zerbrechen.\n\n_Nimm diese Herausforderung an, gehe zwischen die Welten und mache rückgängig, was getan wurde._"
+      "description": "Zerstöre alle Seuchen und kehre dann ins Foyer zurück, um die zuvor immunen Leere-Kristalle zu zerbrechen.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "5": {
@@ -32,7 +32,7 @@
   "6": {
     "displayProperties": {
       "name": "Bußschrein",
-      "description": "Überwinde die Hauptfäule, indem du alle drei Ladungen darunter ablegst. Eliminiere die Ritter der Schar.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+      "description": "Überwinde die Hauptfäule, indem du alle drei Ladungen darunter deponierst. Eliminiere die Ritter der Schar.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "7": {
@@ -44,7 +44,7 @@
   "8": {
     "displayProperties": {
       "name": "Splitterruinen",
-      "description": "Klettere auf die Ruinen und eliminiere die Gefallenen-Phalanx.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+      "description": "Erklimme die Ruinen und eliminiere die Gefallenen-Phalanx.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "9": {
@@ -56,7 +56,7 @@
   "10": {
     "displayProperties": {
       "name": "Bergfried der Geschliffenen",
-      "description": "Eliminiere die Schar Hexen, hebe ein Schwert und besiege die Schar Ritter.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+      "description": "Eliminiere die Schar-Hexen, erhebe ein Schwert und besiege die Schar-Ritter.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "11": {
@@ -68,7 +68,7 @@
   "12": {
     "displayProperties": {
       "name": "Preisrichter Abgrund",
-      "description": "Erreichen Sie den Boden und eliminieren Sie die Besessenen Zauberer.\n\n_Nehmen Sie diese Herausforderung an, gehen Sie zwischen den Welten und machen Sie rückgängig, was getan wurde._"
+      "description": "Erreiche den Boden und eliminiere die Besessenen-Zauberer.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "13": {
@@ -80,7 +80,7 @@
   "14": {
     "displayProperties": {
       "name": "Cimmerische Garnison",
-      "description": "Diese Herausforderung führt zu einem Kampf zwischen dem Hüter, einem Schar Ritter und drei Schar Kreischer auf einer geräumigen Plattform mit unterschiedlichem Schutz vor feindlichem Feuer.\n\n_Nimm diese Herausforderung an, gehe zwischen den Welten und mache rückgängig, was getan wurde._"
+      "description": "Diese Herausforderung führt zu einem Kampf zwischen dem Hüter, einem Schar-Ritter und drei Schar-Kreischern auf einer geräumigen Plattform mit diversem Schutz vor feindlichem Feuer.\n\n_Nimm diese Herausforderung an, wandle zwischen den Welten und mache rückgängig, was getan wurde._"
     }
   },
   "15": {
@@ -91,27 +91,31 @@
   },
   "16": {
     "displayProperties": {
+      "name": "Albtraum von Xortal, Geschworener von Crota",
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
     }
   },
   "17": {
     "displayProperties": {
+      "name": "Albtraum von Horkis, Furcht von Mithrax",
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
     }
   },
   "18": {
     "displayProperties": {
+      "name": "Albtraum von Jaxx, Klaue von Xivu Arath",
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
     }
   },
   "19": {
     "displayProperties": {
+      "name": "Albtraum von Loronvis, Ratshelferin",
       "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
     }
   },
   "24": {
     "displayProperties": {
-      "description": "Oben auf der Klippe mit Blick auf die gewundene Bucht, in der Nähe, wo Xûr manchmal auftaucht."
+      "description": "Oben auf der Klippe mit Blick auf die gewundene Bucht, nahe dem Ort, an dem Xûr manchmal auftaucht."
     }
   },
   "33": {
@@ -151,7 +155,7 @@
   },
   "109": {
     "displayProperties": {
-      "description": "In einem Eisblock gefroren. Finde einen _Gefallenen Captain_ in der Nähe der Aufzüge zum _Riis-Wiedergeboren Zugang_ namens _Ferkis, Sturm der Erlösung_ - er wird fallen lassen, was du brauchst."
+      "description": "In einem Eisblock gefroren. Finde einen _Gefallenen-Captain_ namens _Ferkis, Sturm der Erlösung_ in der Nähe der Aufzüge zum _Riis-Wiedergeboren-Zugang_ – er wird fallen lassen, was du brauchst."
     }
   },
   "127": {
@@ -161,7 +165,7 @@
   },
   "182": {
     "displayProperties": {
-      "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche den Gegenstand auf dem Weg nach draußen."
+      "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche das Subjekt auf dem Weg nach draußen."
     }
   },
   "183": {
@@ -171,37 +175,37 @@
   },
   "184": {
     "displayProperties": {
-      "description": "Gehe über das Torhaus in den Knochenzirkel, dreh dich nach Rechts und folge der Schleife zum Höllenschlund. Vor dem nächsten Kreuzung, schau unter die Plattform um zwei Jade-Augen zu finden, die durch Ihr vom Reisenden gegebenes Licht stechen."
+      "description": "Gehe über das _Torhaus_ in den _Knochenzirkel_, dreh dich nach rechts und folge der Schleife zum _Höllenschlund_. Dreh dich vor der nächsten Kreuzung um und schau unter die Plattform, um zwei Jade-Augen zu finden, die durch dein vom Reisenden gegebenes Licht stechen."
     }
   },
   "215": {
     "displayProperties": {
-      "description": "Betritt den Dungeon und gehe zum Turm ganz rechts. Behalte wenn möglich etwas Höhe bei. Auf der am weitest entfernten Seite des am weitest entfernten Turms, unterhalb seines Fußes, befindet sich eine Chiffre."
+      "description": "Betritt den Dungeon und gehe zum Turm ganz rechts. Behalte am besten etwas Höhe bei. Auf der am weitest entfernten Seite des am weitest entfernten Turms, unterhalb seines Fußes, befindet sich eine Chiffre."
     }
   },
   "216": {
     "displayProperties": {
-      "description": "Beende die Begegnung vor der Nekropole und gehe weiter in Richtung Grube. Sobald du an der Wand der Wege angekommen sind, klettere und drehe dich um. Rechts von der Halle befindet sich eine kleine Kante entlang der Mondsteinmauer. Verwende sie, um in die obere Ebene des Flurs und weiter zur äußersten rechten Seite zu gelangen."
+      "description": "Absolviere die _Nekropole_-Begegnung und gehe weiter in Richtung Grube. Sobald du an der Wand der Wege angekommen bist, klettere hoch und drehe dich um. Rechts von der Halle befindet sich eine kleine Kante entlang der Mondsteinmauer. Verwende sie, um in die obere Ebene des Flurs und weiter zur äußersten rechten Seite zu gelangen."
     }
   },
   "217": {
     "displayProperties": {
-      "description": "Schließe die Begegnung _Kammer des Leidens_ ab, bevor du durch Überqueren der Fallen tiefer gehen kannst und klettere vorsichtig auf die höchste Stufe."
+      "description": "Schließe die Begegnung _Kammer des Leidens_ ab. Bevor du (durch das Überqueren der Fallen) tiefer abwärts gehst, klettere stattdessen vorsichtig auf die höchste Stufe."
     }
   },
   "218": {
     "displayProperties": {
-      "description": "Lass dich in die Tunnel der Verzweiflung fallen und halte dich rechts. Folge geduckt dem ersten Weg bis zum Ende. Du wirst eine rote Tür sehen. An der roten Tür stehend um 70° im Uhrzeigersinn drehen. Du wirst auf einen Felsbrocken schauen. Rechts vom Felsbrocken befindet sich der Preis, den du suchst."
+      "description": "Lass dich in die _Tunnel der Verzweiflung_ fallen und halte dich rechts. Betritt den ersten Kriechweg und folge ihm bis zum Ende. Du siehst dann eine rote Tür. An der roten Tür stehend, dreh dich um 70° im Uhrzeigersinn. Du starrst dann auf einen Felsbrocken. Rechts vom Felsbrocken befindet sich der Preis, den du suchst."
     }
   },
   "219": {
     "displayProperties": {
-      "description": "Im mittleren Tunnel, der der grünen Gasgrube am nächsten liegt, in der sich die Sonnenkugel befindet. Wenn du den Tunnel von der Seite der grünen Gasgrube aus betrittst, wird er sich schnell zu einem kleinen Raum erweitern. Halten an, drehen dich um 180° und schaue nach oben."
+      "description": "Im mittleren Kriech-Tunnel, der der grünen Gasgrube mit der Solar-Sphäre am nächsten liegt. Wenn du den Tunnel von der Seite der grünen Gasgrube aus betrittst, wird er sich schnell zu einem kleinen Raum erweitern. Halte an, dreh dich um 180° und schau nach oben."
     }
   },
   "223": {
     "displayProperties": {
-      "description": "Betritt das Torhaus über den Höllenschlund und folge ihm zu einem gut beleuchteten runden Raum. Suche entlang der Wand mit dem Fenster."
+      "description": "Betritt _Das Torhaus_ über den _Höllenschlund_ und folge ihm zu einem gut beleuchteten runden Raum. Suche entlang der Wand mit dem Fenster."
     }
   },
   "225": {
@@ -214,10 +218,25 @@
       "description": "In den _Tunneln der Verzweiflung_, auf einem Felsvorsprung neben der grünen Gasgrube."
     }
   },
+  "258": {
+    "displayProperties": {
+      "description": "Zugänglich über die _Die Urquell_-Offensive."
+    }
+  },
+  "259": {
+    "displayProperties": {
+      "description": "Benötigt _Tiefensicht_ zum Enthüllen."
+    }
+  },
+  "260": {
+    "displayProperties": {
+      "description": "Zugänglich über die _Altar der Reflexion_-Aktivität"
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Königinnenhof",
-      "description": "Ein Portal zum _Königinnenhof_, Mara Sovs Thron Welt."
+      "description": "Ein Portal zum _Königinnenhof_, Mara Sovs Thronwelt."
     }
   },
   "279": {
@@ -227,12 +246,12 @@
   },
   "288": {
     "displayProperties": {
-      "description": "Laufe an der verlorenen Sektoreingangskreuzung vorbei und folge dem Weg."
+      "description": "Laufe an der Eingangskreuzung des Verlorenen Sektors vorbei und folge ab dort dem Weg."
     }
   },
   "292": {
     "displayProperties": {
-      "description": "Klippenseite, unter dem Weg, der zu einem verlorenen Sektor führt."
+      "description": "Klippenseitig, unter dem Weg, der zu einem Verlorenen Sektor führt."
     }
   },
   "293": {
@@ -247,23 +266,18 @@
   },
   "302": {
     "extended": {
-      "instructions": "Diese Truhe erfordert, dass man ihre Realität überschreitet. Folgendes ist zu tun:\n\n1. In der Nähe von Bruder Vance findest du ein Buch. Untersuche es.\n2. Um 180° drehen. Gehe zur äußersten Wand und finde die nächste Ausgabe im Bücherregal. Untersuche es.\n3. Gehe zum Bücherregal rechts vom Eingang und suchen Sie die nächste Ausgabe neben der Feuerstelle am unteren Rand des Bücherregals. Untersuche es.\n4. Kehre zum ersten Bücherregal zurück und finde die nächste Ausgabe auf dem Schreibtisch neben dem Schüler. Untersuche es.\n5. Das letzte Buch ist hoch oben in einem Bücherregal quer durch den Raum bei der Schmiede versteckt. Untersuche es.\n6. Ein _Vex Conflux_ wird angezeigt. Untersuche es."
-    }
-  },
-  "438": {
-    "displayProperties": {
-      "description": "In der Nähe der Heiligtümer des Vex Conflux, zwischen den Wurzeln eines toten Baumes."
+      "instructions": "Diese Truhe erfordert das Überschreiten der eigenen Realität. Folgendes ist zu tun:\n\n1. In der Nähe von _Bruder Vance_ findest du ein spannendes Buch. Untersuche es.\n2. Dreh dich um 180°. Gehe zur äußersten Wand und finde die nächste Ausgabe im Bücherregal. Untersuche sie.\n3. Gehe zum Bücherregal rechts vom Eingang und suche die nächste Ausgabe neben der Feuerstelle am unteren Rand des Bücherregals. Untersuche sie.\n4. Kehre zum ersten Bücherregal zurück und finde die nächste Ausgabe auf dem Schreibtisch neben dem Schüler. Untersuche sie.\n5. Das letzte Buch ist hoch oben in einem Bücherregal auf der anderen Seite des Raums bei der Schmiede versteckt. Untersuche es.\n6. Ein _Vex-Konflux_ wird angezeigt. Untersuche es."
     }
   },
   "596": {
     "displayProperties": {
-      "name": "Klippe über den Salzminen",
-      "description": "Ein Portal zur Spitze der Klippen in den _Salzminen_, angetrieben durch Jury-manipulierten _Gefallenen_ Teile."
+      "name": "Salzminen-Klippen",
+      "description": "Ein Portal zur Spitze der Klippen in den _Salzminen_, angetrieben durch Jury-manipulierte _Gefallenen_-Teile."
     }
   },
   "597": {
     "displayProperties": {
-      "description": "Benötigt  Einstimmung"
+      "description": "Benötigt  Einstimmung"
     }
   },
   "598": {
@@ -309,6 +323,606 @@
   "606": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
+    }
+  },
+  "2000000000": {
+    "displayProperties": {
+      "name": "Feldauftrag: Vernichtung"
+    }
+  },
+  "2000000001": {
+    "displayProperties": {
+      "name": "Feldauftrag: Küsten-Plünderung"
+    }
+  },
+  "2000000002": {
+    "displayProperties": {
+      "name": "Feldauftrag: Pilgerreise"
+    }
+  },
+  "2000000003": {
+    "displayProperties": {
+      "name": "Feldauftrag: Aktiver Dienst"
+    }
+  },
+  "2000000004": {
+    "displayProperties": {
+      "name": "Feldauftrag: Aktiver Dienst"
+    }
+  },
+  "2000000005": {
+    "displayProperties": {
+      "name": "Feldauftrag: Küsten-Plünderung"
+    }
+  },
+  "2000000006": {
+    "displayProperties": {
+      "name": "Feldauftrag: Vernichtung"
+    }
+  },
+  "2000000007": {
+    "displayProperties": {
+      "name": "Feldauftrag: Pilgerreise"
+    }
+  },
+  "2000000008": {
+    "displayProperties": {
+      "name": "Feldauftrag: Vernichtung"
+    }
+  },
+  "2000000009": {
+    "displayProperties": {
+      "name": "Feldauftrag: Aktiver Dienst"
+    }
+  },
+  "2000000010": {
+    "displayProperties": {
+      "name": "Feldauftrag: Küsten-Plünderung"
+    }
+  },
+  "2000000011": {
+    "displayProperties": {
+      "name": "Feldauftrag: Pilgerreise"
+    }
+  },
+  "2000000012": {
+    "displayProperties": {
+      "name": "Finde Toland",
+      "description": "Suche Toland auf, um seine Gedanken über den Mond zu hören."
+    }
+  },
+  "2000000013": {
+    "displayProperties": {
+      "name": "c"
+    }
+  },
+  "2000000014": {
+    "displayProperties": {
+      "name": "Verfolge den Albtraum von Volniks, Todträger"
+    }
+  },
+  "2000000015": {
+    "displayProperties": {
+      "name": "Sammle Vorräte"
+    }
+  },
+  "2000000016": {
+    "displayProperties": {
+      "name": "Verfolge den Albtraum von Talgoth, Seelensäger",
+      "description": "Gehe zum Torhaus und eliminiere Albtraum von Talgoth, Seelensäger"
+    }
+  },
+  "2000000017": {
+    "displayProperties": {
+      "name": "Finde Toland",
+      "description": "Suche Toland auf, um seine Gedanken über den Mond zu hören."
+    }
+  },
+  "2000000018": {
+    "displayProperties": {
+      "name": "Sammle Vorräte"
+    }
+  },
+  "2000000019": {
+    "displayProperties": {
+      "name": "Verfolge den Albtraum von Lambiks-4"
+    }
+  },
+  "2000000020": {
+    "displayProperties": {
+      "name": "Finde Toland",
+      "description": "Suche Toland auf, um seine Gedanken über den Mond zu hören."
+    }
+  },
+  "2000000021": {
+    "displayProperties": {
+      "name": "Sammle Vorräte"
+    }
+  },
+  "2000000022": {
+    "displayProperties": {
+      "name": "Gegner besiegen"
+    }
+  },
+  "2000000023": {
+    "displayProperties": {
+      "name": "Verfolge den Albtraum von Val Sinu, Höllenholer"
+    }
+  },
+  "2000000024": {
+    "displayProperties": {
+      "name": "Finde Toland",
+      "description": "Suche Toland auf, um seine Gedanken über den Mond zu hören."
+    }
+  },
+  "2000000025": {
+    "displayProperties": {
+      "name": "Kampfmission"
+    }
+  },
+  "2000000026": {
+    "displayProperties": {
+      "name": "Beobachtungsmission"
+    }
+  },
+  "2000000027": {
+    "displayProperties": {
+      "name": "Bergungsmission"
+    }
+  },
+  "2000000028": {
+    "displayProperties": {
+      "name": "Attentatsmission"
+    }
+  },
+  "2000000029": {
+    "displayProperties": {
+      "name": "Analyse-Mission"
+    }
+  },
+  "2000000030": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000031": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000032": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000033": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000034": {
+    "displayProperties": {
+      "name": "Attentatsmission"
+    }
+  },
+  "2000000035": {
+    "displayProperties": {
+      "name": "Kampfmission"
+    }
+  },
+  "2000000036": {
+    "displayProperties": {
+      "name": "Analyse-Mission"
+    }
+  },
+  "2000000037": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000038": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000039": {
+    "displayProperties": {
+      "name": "Attentatsmission"
+    }
+  },
+  "2000000040": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000041": {
+    "displayProperties": {
+      "name": "Kampfmission"
+    }
+  },
+  "2000000042": {
+    "displayProperties": {
+      "name": "Analyse-Mission"
+    }
+  },
+  "2000000043": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000044": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000045": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000046": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000047": {
+    "displayProperties": {
+      "name": "Kampfmission"
+    }
+  },
+  "2000000048": {
+    "displayProperties": {
+      "name": "Attentatsmission"
+    }
+  },
+  "2000000049": {
+    "displayProperties": {
+      "name": "Rettungsmission"
+    }
+  },
+  "2000000050": {
+    "displayProperties": {
+      "name": "Analyse-Mission"
+    }
+  },
+  "2000000051": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000052": {
+    "displayProperties": {
+      "name": "Aufklärungsmission"
+    }
+  },
+  "2000000154": {
+    "displayProperties": {
+      "name": "Gegner besiegen"
+    }
+  },
+  "2000000155": {
+    "displayProperties": {
+      "name": "Gegner besiegen"
+    }
+  },
+  "2000000156": {
+    "displayProperties": {
+      "name": "Gegner besiegen"
+    }
+  },
+  "2000000157": {
+    "displayProperties": {
+      "name": "Sammle Vorräte"
+    }
+  },
+  "2000000163": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000164": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000165": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000168": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000169": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000170": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000176": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000177": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000180": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000181": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000186": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000187": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000188": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000189": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000190": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000191": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000192": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000193": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000195": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000196": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000197": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000198": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000199": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000200": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000201": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000202": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000203": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000204": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000215": {
+    "displayProperties": {
+      "name": "Feldauftrag: Rettung"
+    }
+  },
+  "2000000230": {
+    "displayProperties": {
+      "name": "Feldauftrag: Rettung"
+    }
+  },
+  "2000000231": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000232": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000233": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000234": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000235": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000236": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000237": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000238": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000239": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000240": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000241": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000242": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000243": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000244": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000245": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000246": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000247": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000248": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000249": {
+    "displayProperties": {
+      "name": "Zufällig",
+      "description": "Dieses Leuchtfeuer vergibt verschiedene Ziele."
+    }
+  },
+  "2000000251": {
+    "displayProperties": {
+      "name": "Verlockender Vorhang Henker",
+      "description": "Eliminiere den Strahlenden Henker, der beim _Verlockenden Vorhang_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
+    }
+  },
+  "2000000252": {
+    "displayProperties": {
+      "name": "Burghof der Königin Henker",
+      "description": "Eliminiere den Strahlenden Henker, der beim _Burghof der Königin_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
+    }
+  },
+  "2000000253": {
+    "displayProperties": {
+      "name": "Hexenecho Henker",
+      "description": "Eliminiere den Strahlenden Henker, der bei _Hexenecho_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
     }
   }
 }

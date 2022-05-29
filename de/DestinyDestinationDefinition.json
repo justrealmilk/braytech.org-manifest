@@ -2,11 +2,13 @@
   "697502628": {
     "bubbles": [
       {
+        "hash": 6975026281,
         "displayProperties": {
           "name": "Die Farm"
         }
       },
       {
+        "hash": 6975026282,
         "displayProperties": {
           "name": "Echion Kampfstation"
         }
@@ -16,26 +18,31 @@
   "3607432451": {
     "bubbles": [
       {
+        "hash": 36074324511,
         "displayProperties": {
           "name": "Die verdrehte Säule"
         }
       },
       {
+        "hash": 36074324512,
         "displayProperties": {
           "name": "Virgo Leitung"
         }
       },
       {
+        "hash": 36074324513,
         "displayProperties": {
           "name": "Brunnen des Staubes"
         }
       },
       {
+        "hash": 36074324514,
         "displayProperties": {
           "name": "Die Zerklüftung"
         }
       },
       {
+        "hash": 36074324515,
         "displayProperties": {
           "name": "Brunnen der Sterne"
         }
@@ -45,8 +52,15 @@
   "3821439926": {
     "bubbles": [
       {
+        "hash": 1519764506,
         "displayProperties": {
           "name": "Hochebenen"
+        }
+      },
+      {
+        "hash": 3598542751,
+        "displayProperties": {
+          "name": "Sjurs Ruhestätte"
         }
       }
     ]
@@ -54,43 +68,63 @@
   "1416096592": {
     "bubbles": [
       {
+        "hash": 27792021731,
         "displayProperties": {
           "name": "Die Konfluenz"
         }
       },
       {
+        "hash": 27792021732,
         "displayProperties": {
           "name": "Bussschrein"
         }
       },
       {
+        "hash": 27792021733,
         "displayProperties": {
           "name": "Splitterruinen"
         }
       },
       {
+        "hash": 27792021734,
         "displayProperties": {
           "name": "Bergfried der Geschliffenen"
         }
       },
       {
+        "hash": 27792021735,
         "displayProperties": {
           "name": "Preisrichter Abgrund"
         }
       },
       {
+        "hash": 27792021736,
         "displayProperties": {
           "name": "Cimmerische Garnison"
         }
       },
       {
+        "hash": 27792021737,
         "displayProperties": {
           "name": "Aszendenten-Ebene"
         }
       },
       {
+        "hash": 27792021738,
         "displayProperties": {
           "name": "Königinnenhof"
+        }
+      },
+      {
+        "hash": 27792021739,
+        "displayProperties": {
+          "name": "Hof der Königin"
+        }
+      },
+      {
+        "hash": 27792021740,
+        "displayProperties": {
+          "name": "Das Adytum"
         }
       }
     ]
@@ -98,21 +132,25 @@
   "677774031": {
     "bubbles": [
       {
+        "hash": 2904442601,
         "displayProperties": {
           "name": "Nekropole"
         }
       },
       {
+        "hash": 2904442602,
         "displayProperties": {
           "name": "Tunnel der Verzweiflung"
         }
       },
       {
+        "hash": 2904442603,
         "displayProperties": {
           "name": "Kammer des Leidens"
         }
       },
       {
+        "hash": 2904442604,
         "displayProperties": {
           "name": "Die Gequälte"
         }
@@ -122,6 +160,7 @@
   "1729879943": {
     "bubbles": [
       {
+        "hash": 29123498281,
         "displayProperties": {
           "name": "Riis-Wiedergeboren-Zugang"
         }
@@ -131,6 +170,7 @@
   "3990611421": {
     "bubbles": [
       {
+        "hash": 14321453961,
         "displayProperties": {
           "name": "Terrestrischer Komplex"
         }

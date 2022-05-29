@@ -1,4 +1,25 @@
 {
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Primär",
+      "description": "Diese Waffe hat unbegrenzte Reserven."
+    },
+    "itemTypeDisplayName": "Munition"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Spezial",
+      "description": "Diese Waffe verwendet Spezialmunition."
+    },
+    "itemTypeDisplayName": "Munition"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "Schwer",
+      "description": "Diese Waffe verwendet schwere Munition."
+    },
+    "itemTypeDisplayName": "Munition"
+  },
   "platform-xbox": {
     "displayProperties": {
       "description": "Die Plattform, zu der dieses Profil gehört."
@@ -35,26 +56,43 @@
     },
     "itemTypeDisplayName": "Künstliche Intelligenz"
   },
+  "flair-developer": {
+    "displayProperties": {
+      "name": "Tom Chapman",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Braytech-Entwickler"
+  },
+  "flair-tokai": {
+    "displayProperties": {
+      "name": "Tokai",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Braytech-Concierge"
+  },
   "flair-patron-veteran": {
     "displayProperties": {
       "description": "Dieser Hüter ist wie ein Leuchtfeuer, der durch seine Handlungen bewiesen hat, dass er Tapferkeit und Dienst über alles schätzt."
     },
-    "itemTypeDisplayName": "Patron Belohnung"
+    "itemTypeDisplayName": "Braytech-Unterstützer"
   },
   "flair-patron": {
     "displayProperties": {
       "name": "Forscher",
-      "description": "Ein technischer Anhänger von Clovis Bray, dieser Hüter versucht Braytech zu verbessern."
+      "description": "Als technischer Fellow bei Clovis Bray versucht dieser Hüter, Braytech zu verbessern."
     },
-    "itemTypeDisplayName": "Patron Belohnung"
+    "itemTypeDisplayName": "Braytech-Unterstützer"
   },
   "flair-patron-intern": {
-    "itemTypeDisplayName": "Patron Belohnung"
+    "displayProperties": {
+      "name": "Praktikant"
+    },
+    "itemTypeDisplayName": "Braytech-Unterstützer"
   },
   "commonality": {
     "displayProperties": {
-      "name": "Gemeinsamkeit",
-      "description": "Prozentsatz der Spieler, die in VOLUSPA aufgelistet sind und diesen Eintrag erlangt haben."
+      "name": "Gebräuchlichkeit",
+      "description": "Prozentsatz der Spieler, die in Voluspa aufgelistet sind und diesen Eintrag erlangt haben."
     }
   },
   "score": {
@@ -71,14 +109,32 @@
   },
   "record_intervals": {
     "displayProperties": {
-      "name": "Triumph Abschnitt",
+      "name": "Triumph-Abschnitt",
       "description": "Einige Einträge haben Abschnitte. Unterschiedliche Intervalle haben unterschiedliche Voraussetzungen und Triumphpunkte."
+    }
+  },
+  "legacy_triumph_score": {
+    "displayProperties": {
+      "name": "Vermächtnis-Triumphpunkte",
+      "description": "Gesamtpunktzahl deiner Vermächtnis-Triumphe."
+    }
+  },
+  "lifetime_triumph_score": {
+    "displayProperties": {
+      "name": "Gesamte Triumphpunkte",
+      "description": "Eine Kombination aus allen aktiven und allen Vermächtnis-Triumphpunkten."
+    }
+  },
+  "active_triumph_score": {
+    "displayProperties": {
+      "name": "Aktive Triumphpunkte",
+      "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
     }
   },
   "character_bound": {
     "displayProperties": {
       "name": "Charaktergebunden",
-      "description": "Diese Gegenstände sind Charakter-gebunden. Dies bedeutet, dass jeder Charakter sie auf eigene Weise entdecken muss."
+      "description": "Diese Gegenstände sind charaktergebunden. Dies bedeutet, dass jeder Charakter sie auf eigene Weise entdecken muss."
     }
   },
   "coverage": {
@@ -89,95 +145,21 @@
   },
   "total_resets": {
     "displayProperties": {
-      "name": "Insgesammte Rücksetzungen",
-      "description": "Alle Saison Rücksetzungen. Beginnend von Saison 4."
+      "name": "Gesamte Rücksetzungen",
+      "description": "Rücksetzungen aus allen Saisons, beginnend ab Saison 4."
+    }
+  },
+  "artifact_power_bonus": {
+    "displayProperties": {
+      "name": "Artefakt-Powerbonus",
+      "description": "Das Verdienen von XP gewährt Power-Boni und schaltet mächtige Mods für das saisonale Artefakt frei."
     }
   },
   "destiny_tracker_elo": {
     "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "Elo Bewertung einer Drittanbieter Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo ratings für alle Destiny Spieler, die _Schmelztiegel_ or _Gambit_ spielen."
+      "name": "Destiny Tracker-Elo",
+      "description": "Elo-Bewertung einer Drittanbieter-Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo für alle Destiny-Spieler, die _Schmelztiegel_ und _Gambit_ spielen."
     }
-  },
-  "braytech_purple_rune": {
-    "displayProperties": {
-      "description": "Eine violette Rune. Violette Runen beinhalten: Rune der Freude, Rune des Tieres und Rune des Jubels.",
-      "name": "Violette Rune"
-    },
-    "itemTypeAndTierDisplayName": "Legendäres Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendär"
-    },
-    "hash": 2149082452
-  },
-  "braytech_red_rune": {
-    "displayProperties": {
-      "description": "Eine rote Rune. Rote Runen beinhalten: Rune des Ehrgeizes, Rune der Völlerei und Rune der List.",
-      "name": "Rote Rune"
-    },
-    "itemTypeAndTierDisplayName": "Legendary Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendär"
-    },
-    "hash": 2149082452
-  },
-  "braytech_green_rune": {
-    "displayProperties": {
-      "description": "Eine grüne Rune. Grüne Runen beinhalten: Rune des Krieges, Rune des Stolzes und Rune des Begehrens.",
-      "name": "Grüne Rune"
-    },
-    "itemTypeAndTierDisplayName": "Legendäres Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendär"
-    },
-    "hash": 2149082452
-  },
-  "braytech_blue_rune": {
-    "displayProperties": {
-      "description": "Eine blaue Rune. Blaue Runen beinhalten: Rune des Überflusses, Rune des Reichtums und Rune des Vergnügens.",
-      "name": "Blaue Rune"
-    },
-    "itemTypeAndTierDisplayName": "Legendäres Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Legendär"
-    },
-    "hash": 2149082452
-  },
-  "braytech_no_rune": {
-    "displayProperties": {
-      "description": "Füge eine Rune ein",
-      "name": "Leerer Platz"
-    },
-    "itemTypeDisplayName": "Aktion",
-    "itemTypeAndTierDisplayName": "Legendäres Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Gewöhnlich"
-    },
-    "hash": 2149082452
-  },
-  "braytech_remove_rune": {
-    "displayProperties": {
-      "description": "Entferne alle Runen",
-      "name": "Leerer Platz"
-    },
-    "itemTypeDisplayName": "Aktion",
-    "itemTypeAndTierDisplayName": "Legendäres Material",
-    "inventory": {
-      "bucketTypeHash": 2422292810,
-      "tierTypeHash": 4008398120,
-      "tierTypeName": "Gewöhnlich"
-    },
-    "hash": 2149082452
   },
   "latent-memories": {
     "displayProperties": {
@@ -185,16 +167,184 @@
       "description": "Geheimnisvolle Testknoten sind über den Mars verstreut. Was ist ihr Zweck?"
     }
   },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "DIM Sync benötigt",
+      "description": "Diese Funktion erfordert _DIM Sync_.\n\nDu kannst es in den _Einstellungen_ aktivieren."
+    }
+  },
   "tooltip-error": {
     "displayProperties": {
       "name": "Unbekannter Fehler",
-      "description": "Während dem Anzeigen des Tooltips trat ein Fehler auf.\n\nDas ist möglicherweise ein temporärer Fehler. Verzeihung."
+      "description": "Während des Anzeigens des Tooltips trat ein Fehler auf.\n\nDas ist wahrscheinlich ein vorübergehender Fehler. Verzeihung."
     }
   },
   "profile-stale": {
     "displayProperties": {
       "name": "Veraltetes Profil",
-      "description": "Profildaten sind veraltet. Das bedeutet Hintergrundaktualisierungen sind wegen Inaktivität pausiert oder das Service hat derzeit keine Verbindung zu den Servern von Bungie. Bediene die App und die Hintergrundaktualisierungen wieder zu aktivieren."
+      "description": "Deine Profildaten sind _veraltet_. Das bedeutet, dass Hintergrundaktualisierungen wegen Inaktivität pausiert sind, oder dass der Service derzeit keine Verbindung zu den Bungie-Servern aufbauen kann. Braytech einfach weiter zu verwenden, löst dieses Problem (solange die Bungie-Server es zulassen)."
+    }
+  },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Unter den Ersten",
+      "description": "Diese Aktivität wurde im Wettkampfmodus absolviert: ein Triumph unter extraordinären Umständen und Druck."
+    }
+  },
+  "sub-triumphs-active": {
+    "displayProperties": {
+      "name": "Aktive Triumphe und Siegel",
+      "description": "Zeige alle aktiven Triumphe und Siegel"
+    }
+  },
+  "sub-triumphs-legacy": {
+    "displayProperties": {
+      "name": "Vermächtnis-Triumphe und -Siegel",
+      "description": "Zeige die Sammlung an Vermächtnis-Triumphen und -Siegeln"
+    }
+  },
+  "sub-triumphs-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Saisonale Herausforderungen",
+      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
+    }
+  },
+  "sub-triumphs-medals": {
+    "displayProperties": {
+      "name": "Medaillen",
+      "description": "Medaillen werden durch das Zeigen von Spielexpertise gesammelt. Sieh dir die Liste von Medaillen an, und wie viele von ihnen du verdient hast"
+    }
+  },
+  "sub-triumphs-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Baupläne und Katalysatoren",
+      "description": "Baupläne erlauben das Formen von Waffen. Katalysatoren erweitern die Stärke deiner Exotischen Waffen. Finde sie und erfülle ihre Voraussetzungen, um das Potenzial deines Arsenals voll auszunutzen."
+    }
+  },
+  "sub-triumphs-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lore erzählt die Geschichte des Destiny-Universums. Schalte Lore zum Lesen frei, indem du Triumphe erfüllst"
+    }
+  },
+  "sub-triumphs-metrics": {
+    "displayProperties": {
+      "name": "Stat-Tracker",
+      "description": "Stat-Tracker können in der Details-Ansicht deinem Abzeichen hinzugefügt werden. Hinzugefügte Tracker sind auf deiner Namensplakette sichtbar"
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Über deinen Clan und wofür er steht"
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Übersicht",
+      "description": "Finde Freunde zum Spielen"
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Verwaltung",
+      "description": "Kümmere dich um Clan-Angelegenheiten"
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Historische Statistiken",
+      "description": "Vergleiche _Historische Statistiken_ für mehrere Aktivitäten über Clan-Mitglieder hinweg."
+    }
+  },
+  "sub-clan-timetable": {
+    "displayProperties": {
+      "name": "Stundenplan",
+      "description": "Schreib Clan-Events auf (digitales) Papier und mach sie offiziell"
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Beziehungen",
+      "description": "Schau, welchen Clan-Mitgliedern du die meiste Zeit widmest"
+    }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "name": "Ausrüstung",
+      "description": "Prüfe die Kampfbereitschaft deines Hüters"
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Poststelle",
+      "description": "Droiden der Poststelle kümmern sich pflichtbewusst um Lieferungen, Nachrichten und Fundsachen"
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Verbrauchsgegenstände",
+      "description": "Vorräte und Materialien, die zum Verbessern deines Hüters und seiner Ausrüstung genutzt werden können"
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Tresor",
+      "description": "Sichere Lagerung für deine Gegenstände. Zugänglich für alle Charaktere"
+    }
+  },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Händler",
+      "description": "Schau nach, was deine Lieblings-Auftraggeber und -Händler anbieten"
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Spielgeschichte",
+      "description": "Alle letzten Aktivitäten deines gewählten Hüters"
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Lesezeichen",
+      "description": "Aktivitäten, die du mit einem Lesezeichen versehen hast"
+    }
+  },
+  "sub-activity-graphs": {
+    "displayProperties": {
+      "name": "Graphen",
+      "description": "Aktivitäten auf Graphen dargestellt, für Statistikfreunde."
+    }
+  },
+  "sub-activity-legends": {
+    "displayProperties": {
+      "name": "Legenden",
+      "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
+    }
+  },
+  "sub-weeklies-cycles": {
+    "displayProperties": {
+      "name": "Zyklen",
+      "description": "Schlüsselaktivitäten und Zyklen"
+    }
+  },
+  "sub-weeklies-challenges": {
+    "displayProperties": {
+      "name": "Herausforderungen",
+      "description": "Alle Aktivitäts-Herausforderungen"
+    }
+  },
+  "sub-inspect-equipment": {
+    "displayProperties": {
+      "name": "Fassungen",
+      "description": "Alle Gegenstands-Eigenschaften; Werte, Perks und Mods"
+    }
+  },
+  "sub-inspect-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lerne die Geschichte hinter diesem Gegenstand"
     }
   }
 }
