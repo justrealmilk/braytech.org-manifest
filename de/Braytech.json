@@ -323,12 +323,6 @@
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
     }
   },
-  "sub-weeklies-cycles": {
-    "displayProperties": {
-      "name": "Zyklen",
-      "description": "Schlüsselaktivitäten und Zyklen"
-    }
-  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Herausforderungen",
