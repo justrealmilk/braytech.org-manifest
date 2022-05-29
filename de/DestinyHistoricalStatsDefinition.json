@@ -18,10 +18,10 @@
     "statName": "Kill bestätigt"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Verbündeten Kill bestätigt"
+    "statName": "Verbündeten-Kill bestätigt"
   },
   "highValueKills": {
-    "statName": "hochwertige Kills"
+    "statName": "Hochwertige Kills"
   },
   "invasionKills": {
     "statName": "Kills als Eindringling"
@@ -36,10 +36,10 @@
     "statName": "Tode durch Eindringlingen"
   },
   "primevalDamage": {
-    "statName": "Uhrzeitler Schaden"
+    "statName": "Urzeitler-Schaden"
   },
   "primevalKills": {
-    "statName": "Uhrzeitler Kills"
+    "statName": "Urzeitler-Kills"
   },
   "motesDenied": {
     "statName": "Partikel abgewehrt"
@@ -48,7 +48,7 @@
     "statName": "Invasionen"
   },
   "blockerKills": {
-    "statName": "Blocker Kills"
+    "statName": "Blocker-Kills"
   },
   "smallBlockersSent": {
     "statName": "Kleine Blocker gesendet"
@@ -75,7 +75,7 @@
     "statName": "Durchschnitts K/D"
   },
   "Medals_pvp_medal_ib_control_3a": {
-    "statDescription": "Besiege als Team mind. einmal während der Jagd alle Hüter."
+    "statDescription": "Besiege als Team mindestens einmal während der Jagd alle Hüter."
   },
   "Medals_pvp_medal_ib_control_3b": {
     "statDescription": "Überlebe eine Jagd, in der kein Team-Mitglied besiegt wird - startet dann die nächste Jagd."
@@ -93,7 +93,7 @@
     "statDescription": "Überlebe die Jagd deines Gegners, ohne besiegt zu werden."
   },
   "Medals_pvp_medal_ib_control_1a": {
-    "statDescription": "Besiege 3 Gegner in einem einzigen Leben, die versuchen die Zonen deines Teams einzunehmen."
+    "statDescription": "Besiege 3 Gegner, die versuchen, die Zonen deines Teams einzunehmen, in einem einzigen Leben."
   },
   "Medals_pvp_medal_ib_control_1b": {
     "statDescription": "Erobere die Zone innerhalb der ersten 15 Sekunden zurück, nachdem sie von Gegnern eingenommen wurde."
@@ -141,7 +141,7 @@
     "statDescription": "Besiege 20 gegnerische Hüter in einem einzigen Leben."
   },
   "Medals_pvp_medal_ib_streak_no_damage": {
-    "statDescription": "Erziele bei 7 Gegnern Todesstöße ohne jeglichen Schaden zu nehmen."
+    "statDescription": "Erziele bei 7 Gegnern Todesstöße, ohne jeglichen Schaden zu nehmen."
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
     "statDescription": "Besiege einen Gegner, der gerade eine Strähne von 20 oder mehr hat."
@@ -150,13 +150,13 @@
     "statDescription": "Besiege 10 gegnerische Hüter in einem einzigen Leben."
   },
   "Medals_pvp_medal_ib_streak_team": {
-    "statDescription": "Besiege als Team 7 Gegner, ohne dass jemand in deinem Team besiegt wird."
+    "statDescription": "Besiegt als Team 7 Gegner, ohne dass jemand in deinem Team besiegt wird."
   },
   "Medals_pvp_medal_ib_streak_sm": {
     "statDescription": "Besiege 5 gegnerische Hüter in einem einzigen Leben."
   },
   "Medals_pvp_medal_ib_streak_comeback": {
-    "statDescription": "Besiege in einem einzigen Leben 3 Gegner, nachdem du mind. zweimal hintereinander besiegt wurdest."
+    "statDescription": "Besiege in einem einzigen Leben 3 Gegner, nachdem du mindestens zweimal hintereinander besiegt wurdest."
   },
   "Medals_pvp_medal_ib_streak_shutdown": {
     "statDescription": "Beende die Kill-Strähne eines Gegners."
