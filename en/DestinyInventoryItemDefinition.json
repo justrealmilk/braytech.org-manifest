@@ -160,34 +160,17 @@
     "inventory": {
       "maxStackSize": 1000,
       "bucketTypeHash": 2422292810,
-      "recoveryBucketTypeHash": 0,
       "tierTypeHash": 3340296461,
-      "isInstanceItem": false,
-      "nonTransferrableOriginal": false,
       "tierTypeName": "Common",
-      "tierType": 2,
-      "expirationTooltip": "",
-      "expiredInActivityMessage": "",
-      "expiredInOrbitMessage": "",
-      "suppressExpirationWhenObjectivesComplete": true
+      "tierType": 2
     },
     "plug": {
       "insertionRules": [],
       "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
       "plugCategoryHash": 3945646995,
-      "onActionRecreateSelf": false,
-      "actionRewardSiteHash": 0,
-      "actionRewardItemOverrideHash": 0,
-      "insertionMaterialRequirementHash": 0,
-      "previewItemOverrideHash": 0,
-      "enabledMaterialRequirementHash": 0,
-      "enabledRules": [],
       "uiPlugLabel": "",
       "plugStyle": 0,
-      "plugAvailability": 0,
-      "alternateUiPlugLabel": "",
-      "alternatePlugStyle": 0,
-      "isDummyPlug": false
+      "plugAvailability": 0
     },
     "perks": [],
     "itemCategoryHashes": [
@@ -195,13 +178,11 @@
       945330047,
       610365472
     ],
-    "specialItemType": 0,
     "itemType": 19,
     "itemSubType": 0,
     "classType": 3,
     "breakerType": 0,
     "equippable": false,
-    "defaultDamageType": 0,
     "hash": 23239861010,
     "redacted": false
   },
@@ -209,6 +190,12 @@
     "displayProperties": {
       "name": "Pinnacle Gear (Weak)",
       "hasIcon": false
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Increased \"Heartshadow\" drop rate",
+      "description": "Increases the drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
     }
   }
 }
