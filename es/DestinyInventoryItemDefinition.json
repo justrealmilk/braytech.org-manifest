@@ -579,34 +579,16 @@
       "name": "Equipamiento hito (débil)"
     }
   },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Aumenta el índice de obtención de \"Sombra del Corazón\".",
+      "description": "Aumenta el índice de obtención de la espada excepcional \"Sombra del Corazón\" de la mazmorra \"Dualidad\"."
+    }
+  },
   "2497395625": {
     "displayProperties": {
       "description": "Divisa utilizada en la formación de armas, necesaria para ajustar rasgos intrínsecos.\n\nSe obtienen principalmente desmontando armas legendarias, pero también pueden obtenerse por completar actividades."
     }
-  },
-  "163842160": {
-    "displayProperties": {
-      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar las ventajas de daño y proyectiles.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas básicas características de las armas.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas de habilidades.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar ventajas de munición y recarga.\n\nSe puede obtener al completar los objetivos de Resonancia de Visión profunda en armas legendarias."
-    },
-    "itemTypeDisplayName": "Material"
   },
   "3491404510": {
     "displayProperties": {
