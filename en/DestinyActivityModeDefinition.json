@@ -73,6 +73,11 @@
       "description": "Fight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled."
     }
   },
+  "3484731833": {
+    "displayProperties": {
+      "description": "Achieve victory by controlling zones, earning points for your team over time."
+    }
+  },
   "4078439804": {
     "displayProperties": {
       "description": "Fight for Valor by eliminating all opponents in this round-based mode. Don't forget to revive your fellow Guardians."
