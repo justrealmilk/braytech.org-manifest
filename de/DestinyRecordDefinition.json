@@ -1,19 +1,7 @@
 {
   "1337108984": {
     "displayProperties": {
-      "tip": "Töte Gegner mit Pikes, während des Wächter des Nichts Strikes."
+      "tip": "Töte Gegner mit Pikes, während des \"Wächter des Nichts\"-Strikes."
     }
-  },
-  "1219237947": {
-    "intervalInfo": {
-      "intervalRewards": []
-    },
-    "rewardItems": [
-      {
-        "itemHash": 232928045,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      }
-    ]
   }
 }
