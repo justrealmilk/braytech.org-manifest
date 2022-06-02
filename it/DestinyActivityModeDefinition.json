@@ -73,6 +73,11 @@
       "description": "Combatti per il Valore catturando le zone e sconfiggendo gli avversari. Tutte le armi sono più letali, le abilità si ricaricano solo con uccisioni e il radar è disattivato."
     }
   },
+  "3484731833": {
+    "displayProperties": {
+      "description": "Ottieni la vittoria controllando le zone, guadagnando punti per la tua squadra nel tempo."
+    }
+  },
   "4078439804": {
     "displayProperties": {
       "description": "Combatti per il Valore eliminando tutti gli avversari in questa modalità a round. Non dimenticare di rianimare i tuoi Guardiani compagni."

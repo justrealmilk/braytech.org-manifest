@@ -6,30 +6,6 @@
     },
     "itemTypeDisplayName": "Informazioni insufficienti"
   },
-  "163842160": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità di danno e dei proiettili.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
-    },
-    "itemTypeDisplayName": "Materiale"
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità delle caratteristiche base delle armi.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
-    },
-    "itemTypeDisplayName": "Materiale"
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare i tratti di abilità.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
-    },
-    "itemTypeDisplayName": "Materiale"
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità di ricarica e di munizioni.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
-    },
-    "itemTypeDisplayName": "Materiale"
-  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo clan"
@@ -68,6 +44,12 @@
       "description": "Aumenta l'esperienza del tuo Guardiano."
     }
   },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Cuordombra\" aumentata",
+      "description": "Aumenta la probabilità di trovare la spada esotica \"Cuordombra\" dalla segreta \"Dualità\"."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo Guardiano."
@@ -77,6 +59,10 @@
     "displayProperties": {
       "description": "Aumenta di molto l'esperienza del tuo Guardiano."
     }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."}
   },
   "3348653032": {
     "displayProperties": {
