@@ -1,0 +1,29 @@
+import Braytech from '@Data/manifest/ko/Braytech.json';
+import BraytechMaps from '@Data/manifest/ko/BraytechMaps.json';
+import BraytechMapsTypes from '@Data/manifest/ko/BraytechMapsTypes.json';
+import DestinyActivityDefinition from '@Data/manifest/ko/DestinyActivityDefinition.json';
+import DestinyActivityModeDefinition from '@Data/manifest/ko/DestinyActivityModeDefinition.json';
+import DestinyActivityModifierDefinition from '@Data/manifest/ko/DestinyActivityModifierDefinition.json';
+import DestinyDestinationDefinition from '@Data/manifest/ko/DestinyDestinationDefinition.json';
+import DestinyEnemyRaceDefinition from '@Data/manifest/ko/DestinyEnemyRaceDefinition.json';
+import DestinyHistoricalStatsDefinition from '@Data/manifest/ko/DestinyHistoricalStatsDefinition.json';
+import DestinyInventoryBucketDefinition from '@Data/manifest/ko/DestinyInventoryBucketDefinition.json';
+import DestinyInventoryItemDefinition from '@Data/manifest/ko/DestinyInventoryItemDefinition.json';
+import DestinySeasonDefinition from '@Data/manifest/ko/DestinySeasonDefinition.json';
+
+const ko = {
+  Braytech,
+  BraytechMaps,
+  BraytechMapsTypes,
+  DestinyActivityDefinition,
+  DestinyActivityModeDefinition,
+  DestinyActivityModifierDefinition,
+  DestinyDestinationDefinition,
+  DestinyEnemyRaceDefinition,
+  DestinyHistoricalStatsDefinition,
+  DestinyInventoryBucketDefinition,
+  DestinyInventoryItemDefinition,
+  DestinySeasonDefinition,
+};
+
+export default ko;
