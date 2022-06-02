@@ -1,4 +1,4 @@
-{ 
+{
   "1000000001": {
     "hash": 1000000001,
     "displayProperties": {
@@ -43,7 +43,7 @@
     "children": {
       "presentationNodes": [],
       "collectibles": [],
-      "records":   [
+      "records": [
         {
           "recordHash": 368791520
         },
@@ -71,7 +71,7 @@
       ],
       "metrics": [],
       "craftables": []
-    }
-  },
-  "redacted": false
+    },
+    "redacted": false
+  }
 }
