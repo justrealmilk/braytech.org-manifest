@@ -73,6 +73,11 @@
       "description": "Kämpfe um Schmelztiegel-Ränge, indem du Zonen einnimmst und Gegner besiegst. Waffen sind tödlicher, Fähigkeiten laden sich nur durch Kills auf und der Tracker ist deaktiviert."
     }
   },
+  "3484731833": {
+    "displayProperties": {
+      "description": "Siege durch das Kontrollieren von Zonen, die deinem Team über Zeit Punkte verdienen."
+    }
+  },
   "4078439804": {
     "displayProperties": {
       "description": "Kämpfe um Schmelztiegel-Ränge, indem du alle Gegner besiegst in diesem runden-basierten Spielmodus. Vergiss nicht deine Hüter-Kameraden wiederzubeleben."
