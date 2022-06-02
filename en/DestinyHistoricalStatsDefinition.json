@@ -259,7 +259,7 @@
     "statDescription": "Land final blows on seven opponents without taking any damage from any source."
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statDescription": "Complete the Pit of Heresy solo."
+    "statDescription": "Shut down an opponent's streak of 20 or more."
   },
   "Medals_pvp_medal_ib_streak_med": {
     "statDescription": "In a single life, defeat 10 opposing Guardians."
@@ -292,7 +292,7 @@
     "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
   },
   "Medals_pvp_medal_ib_match_never_trailed": {
-    "statDescription": "Obtain every lore page from the Battlegrounds."
+    "statDescription": "Win an Iron Banner match in which your team never trailed."
   },
   "Medals_pvp_medal_ib_match_overtime": {
     "statDescription": "Win an Iron Banner match in overtime."

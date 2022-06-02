@@ -1,0 +1,760 @@
+{
+  "1469913804": {
+    "displayProperties": {
+      "tip": "Seltener Drop durch Abschluss der 3. Begegnung (Morgeth, der Säulenwächter)."
+    }
+  },
+  "3360537485": {
+    "displayProperties": {
+      "tip": "Seltener Drop durch Abschluss einer beliebigen Begegnung."
+    }
+  },
+  "3163873693": {
+    "displayProperties": {
+      "tip": "Verdient durch Öffnen der Glitzerschlüssel-Truhe, die zwischen der 3. (Morgeth, der Säulenwächter) und der 4. (Der Tresor) Begegnung zu finden ist, wenn der _2. Wunsch_ eingegeben wurde."
+    }
+  },
+  "3617101589": {
+    "displayProperties": {
+      "tip": "Verdient durch erstmaligen Abschluss des Raids."
+    }
+  },
+  "1246578675": {
+    "displayProperties": {
+      "tip": "Seltener Drop bei jeder Begegnung."
+    }
+  },
+  "1246578674": {
+    "displayProperties": {
+      "tip": "Verdient durch das Abschließen aller Raid-Herausforderungen."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "tip": "Verdient durch Eingeben des _3. Wunsches_ an der _Wunschtafel_."
+    },
+    "sourceString": "Quelle: \"Letzter Wunsch\"-Raid."
+  },
+  "1171206947": {
+    "displayProperties": {
+      "tip": "Derzeit nicht verfügbar."
+    },
+    "sourceString": "Quelle: Absolviere den \"Letzter Wunsch\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
+  },
+  "199171385": {
+    "displayProperties": {
+      "tip": "Sehr seltener Drop beim Öffnen der Ethereal Key-Truhen nach der letzten Begegnung."
+    }
+  },
+  "1279318107": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "4274523514": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "2589931342": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "256984752": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "301231525": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "3471068543": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "3849455378": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "1534387872": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "637236": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "4058916407": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "2760144873": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "2826590445": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "1230173206": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "28595": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "552469184": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "1908141240": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "3536103390": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "915053447": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "2340335439": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "2976357604": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "934024124": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "4240106002": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "1927215059": {
+    "displayProperties": {
+      "tip": "Droppt von jeder Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten"
+    }
+  },
+  "1616812058": {
+    "displayProperties": {
+      "tip": "Seltener Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "1244899887": {
+    "displayProperties": {
+      "tip": "Seltener Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2061705522": {
+    "displayProperties": {
+      "tip": "Seltener Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "426204227": {
+    "displayProperties": {
+      "tip": "Seltener Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3424534823": {
+    "displayProperties": {
+      "tip": "Seltener Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "737130625": {
+    "sourceString": "Quelle: Nicht verfügbar."
+  },
+  "73480071": {
+    "displayProperties": {
+      "tip": "Verdient durch das Abschließen von Beutezügen der Königin"
+    }
+  },
+  "304436264": {
+    "displayProperties": {
+      "tip": "Verdient durch das Abschließen aller Raid-Herausforderungen."
+    }
+  },
+  "304436265": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Inhärente Perfektion\"](https://bray.tech/triumphs/node/1473265108/2178633627/615240848)-Triumphes."
+    }
+  },
+  "3938759710": {
+    "displayProperties": {
+      "tip": "Verdient durch erstmaligen Abschluss des Raids."
+    }
+  },
+  "3938759711": {
+    "displayProperties": {
+      "tip": "Derzeit nicht verfügbar."
+    },
+    "sourceString": "Absolviere den \"Garten der Erlösung\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
+  },
+  "1988948484": {
+    "sourceString": "Quelle: Verdient durch Abschluss der exotischen Quest \"Göttliche Fragmentierung\"."
+  },
+  "1844459180": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Ausweichen)."
+    }
+  },
+  "3995207026": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Ausweichen)."
+    }
+  },
+  "2948134329": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Beschwören)."
+    }
+  },
+  "4228109048": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Beschwören)."
+    }
+  },
+  "1999017690": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Konsekrierter Geist)."
+    }
+  },
+  "773381624": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Konsekrierter Geist)."
+    }
+  },
+  "1141170786": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist)."
+    }
+  },
+  "204539712": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "95569771": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Beschwören).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "2783756445": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Konsekrierter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "1740561233": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Ausweichen).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "29206418": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "3635099391": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "4276241044": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Beschwören).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "2100683596": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Konsekrierter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "166135138": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Ausweichen).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "3093771363": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "1399922251": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "831181528": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Beschwören).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "3854372384": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Konsekrierter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "3851783670": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Ausweichen).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "2282824303": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Geweihter Geist).\nDroppt auch von den geheimen Truhen, falls bereits erhalten."
+    }
+  },
+  "911081605": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "1435246899": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2081488768": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2276007528": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "160781275": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "1395260669": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2076751138": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3796544862": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3574313939": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Tiefpunkt\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)-Triumphes."
+    },
+    "sourceString": "Quelle: \"Tiefsteinkrypta\"-Raid."
+  },
+  "392272160": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Ohne einen Kratzer\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)-Triumphes."
+    },
+    "sourceString": "Quelle: \"Tiefsteinkrypta\"-Raid."
+  },
+  "2571679418": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Krypta-Wächter\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)-Triumphes."
+    }
+  },
+  "2571679419": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Überleben der Stärkeren\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)-Triumphes."
+    }
+  },
+  "2273453973": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Tiefsteinkrypta\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)-Triumphes."
+    }
+  },
+  "2273453972": {
+    "displayProperties": {
+      "tip": "Nicht verfügbar, verdient durch Abschluss des \"Frisch aus der Krypta\" Triumphes."
+    },
+    "sourceString": "Absolviere den \"Tiefsteinkrypta\"-Raid innerhalb der ersten 24 Stunden nach Erscheinung."
+  },
+  "753200559": {
+    "displayProperties": {
+      "tip": "Sehr seltener Drop bei Abschluss der letzten Begegnung (Monstrosität)."
+    }
+  },
+  "2170524258": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der ersten Begegnung (Sicherheit).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1095326468": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1901414106": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der zweiten Begegnung (Replikation).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2423099022": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der dritten Begegnung (Entschärfung).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2291988568": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Monstrosität).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3767726769": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Monstrosität).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3798857473": {
+    "displayProperties": {
+      "tip": "Droppt durch Abschluss der finalen Begegnung (Monstrosität).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "285064438": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "4052971298": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Entschärfung) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1481114068": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2782379061": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2485720530": {
+    "displayProperties": {
+      "tip": "Droppt von der finalen Begegnung (Monstrosität).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2790550781": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3540189675": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Entschärfung) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3255058899": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "816770468": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3293236622": {
+    "displayProperties": {
+      "tip": "Droppt von der finalen Begegnung (Monstrosität).\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2341487969": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "454243247": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Entschärfung) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2425656839": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und finalen (Monstrosität) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3219239120": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Sicherheit), zweiten (Replikation) und dritten (Entschärfung) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2802279446": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2040177352": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "811728933": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "1755084153": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "958866288": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Gläserner Großmeister\"](https://bray.tech/triumphs/node/4011083713/3472409870)-Triumphes."
+    }
+  },
+  "3568861785": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Gläserne Perle\"](https://bray.tech/triumphs/node/4011083713/3472409870)-Triumphes."
+    }
+  },
+  "3568861784": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Makellose Gläserne Kammer\"](https://bray.tech/triumphs/node/4011083713/3472409870)-Triumphes."
+    }
+  },
+  "2172413747": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des [\"Gläserne Kammer\"](https://bray.tech/triumphs/node/4011083713/3472409870)-Triumphes."
+    }
+  },
+  "3332781237": {
+    "displayProperties": {
+      "tip": "Verdient, indem man 10 Hütern beim ersten \"Gläserne Kammer\"-Abschluss hilft (muss bis zum 31.12.2022 von Bungie Rewards beantragt werden)."
+    }
+  },
+  "2172413746": {
+    "displayProperties": {
+      "tip": "Nicht verfügbar, verdient durch Abschluss des \"Tempoklinge\"-Triumphes."
+    },
+    "sourceString": "Absolviere den \"Gläserne Kammer\"-Raid und alle Raid-Herausforderungen innerhalb der ersten 24 Stunden."
+  },
+  "2300465938": {
+    "displayProperties": {
+      "tip": "Sehr seltener Drop durch Abschluss der finalen Begegnung (Atheon)."
+    }
+  },
+  "634586904": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Templer) und vierten (Torwächter) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3463901839": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), dritten (Templer) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "724059973": {
+    "displayProperties": {
+      "tip": "Droppt von der vierten (Torwächter) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3515970092": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), zweiten (Orakel) und dritten (Templer) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2948791533": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), zweiten (Orakel) and vierten (Torwächter) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2347222640": {
+    "displayProperties": {
+      "tip": "Droppt von der zweiten (Orakel) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3231668945": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss der dritten (Templer) Begegnungs-Herausforderung (Aus dem Weg) auf Meister-Schwierigkeit.\nAnschließend auch erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "3593833250": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss der finalen (Atheon) Begegnungs-Herausforderung (Ensemble-Refrain) auf Meister-Schwierigkeit.\nAnschließend auch erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "3395832948": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss der vierten (Torwächter) Begegnungs-Herausforderung (Fremde in der Zeit) auf Meister-Schwierigkeit.\nAnschließend auch erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "1798635285": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss der ersten (Konfluxe) Begegnungs-Herausforderung (Wart's ab...) auf Meister-Schwierigkeit.\nAnschließend auch erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "2573048236": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss des \"Gläserner Maestro\" Triumphes.\nAnschließend exklusiv erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "1986202265": {
+    "displayProperties": {
+      "tip": "Verdient durch Abschluss der zweiten (Orakel) Begegnungs-Herausforderung (Das einzige Orakel für dich) auf Meister-Schwierigkeit.\nAnschließend auch erhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung, nur auf dem Meister-Schwierigkeitsgrad."
+    }
+  },
+  "3516045044": {
+    "displayProperties": {
+      "tip": "Droppt von der vierten (Torwächter) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3279460087": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), zweiten (Orakel) und dritten (Templer) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1098118569": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Templer) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2088710573": {
+    "displayProperties": {
+      "tip": "Droppt von der zweiten (Orakel) und vierten (Torwächter) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3821537750": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "930771313": {
+    "displayProperties": {
+      "tip": "Droppt von der vierten (Torwächter) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1748402214": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), zweiten (Orakel) und dritten (Templer) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "597202930": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Templer) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1865461412": {
+    "displayProperties": {
+      "tip": "Droppt von der zweiten (Orakel) und vierten (Torwächter) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3631920453": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "983347941": {
+    "displayProperties": {
+      "tip": "Droppt von der vierten (Torwächter) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1123371330": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe), zweiten (Orakel) und dritten (Templer) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1476565614": {
+    "displayProperties": {
+      "tip": "Droppt von der dritten (Templer) und finalen (Atheon) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "3233980800": {
+    "displayProperties": {
+      "tip": "Droppt von der zweiten (Orakel) und vierten (Torwächter) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "2778391833": {
+    "displayProperties": {
+      "tip": "Droppt von der ersten (Konfluxe) Begegnung.\nDroppt auch von den geheimen Truhen, falls bereits erhalten.\nErhältlich beim Eroberungsbeute-Händler nach der finalen Begegnung."
+    }
+  },
+  "1995412175": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "1995412174": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3837479520": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3837479521": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "3837479522": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhenm welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2070411865": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2070411864": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2070411867": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2923491623": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2923491622": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  },
+  "2923491621": {
+    "displayProperties": {
+      "tip": "Drop von den geheimen Truhen, welche sich zwischen den Raid-Begegnungen befinden."
+    }
+  }
+}

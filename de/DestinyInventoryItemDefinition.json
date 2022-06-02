@@ -4,36 +4,42 @@
       "name": "Klassifiziert",
       "description": "Halte es sauber."
     },
-    "itemTypeDisplayName": "Unzureichende Freigabe"
+    "itemTypeDisplayName": "Unzureichende Freigabe",
+    "redacted": true
   },
-  "3243866699": {
+  "11612903": {
     "displayProperties": {
-      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+      "tip": "Die Dauer wird bei Granaten-Kills zurückgesetzt und dauert 10 Sekunden:\n•  1x: +10% Schaden, +10 Handhabung\n•  2x: +21% Schaden, +20 Handhabung\n•  3x: +33% Schaden, +30 Handhabung"
     }
   },
-  "3243866698": {
+  "47981717": {
     "displayProperties": {
-      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+      "tip": "Gilt für den ersten Schuss erst nach 3,1 Sekunden nach Nicht-schuss.\n•  +20 Zielhilfe\n•  +20 Reichweite\n•  +5% Schaden falloff distance (excludes Shotguns)\n•  -10% Zielhilfe-Kegel Wachstum"
     }
   },
-  "3243866697": {
+  "124408337": {
     "displayProperties": {
-      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+      "tip": "Reguläre Feinde spawnen einen mittelgroßen Stasis-Kristall. Jeder Feind eines höheren Rangs als gering spawnt einen großen Kristall."
     }
   },
-  "3243866696": {
+  "201365942": {
     "displayProperties": {
-      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+      "tip": "Verringert die Anspannzeit für 3 Sekunden zu 440 ms."
     }
   },
-  "3243866703": {
+  "205890336": {
     "displayProperties": {
-      "description": "Eines von fünf Artefakten, die für den Katalysator von Weltlinie Null erforderlich sind."
+      "tip": "Erhöhtes Nachladetempo unter ~150 HP. Wirkung steigt linear mit abnehmender Gesundheit bis zu 100 Nachladetempo mit 0.9-fachem Multiplikator für die Dauer."
     }
   },
-  "1858002338": {
+  "247725512": {
     "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Hüters"
+      "tip": "Stackt bis zu 5x und hält 2 Sekunden an.\n•  1x: +5 Nachladetempo, +5 Stabilität\n•  2x: +27 Nachladetempo, 10 Stabilität\n•  3x: +32 Nachladetempo, 15 Stabilität\n•  4x: +40 Nachladetempo, +20 Stabilität\n•  5x: +54 Nachladetempo, +23 Stabilität"
+    }
+  },
+  "280464955": {
+    "displayProperties": {
+      "tip": "In der Hocke, gewährt:\n•  +30 Handhabung\n•  +20 Stabilität\n•  -40 Zielhilfe-Kegel Größe\n•  -17% Zielhilfe-Kegel Wachstum\n•  -80 Rückstoß-gierung (Horizontal Recoil)"
     }
   },
   "304443327": {
@@ -44,19 +50,553 @@
       "tierTypeName": "Gewöhnlich"
     }
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
+  "438098033": {
+    "displayProperties": {
+      "tip": "Wird aktiviert, wenn die Waffe innerhalb von 3 Sekunden nach einem Kill mit einer anderen Waffe gezogen wird. Gewährt +20% Schaden and +15 Handhabung für 7 Sekunden."
+    }
+  },
+  "460017080": {
+    "displayProperties": {
+      "tip": "Kopfschüsse, nachdem mindestens ein Körperschuss getroffen wurde, erhalten +8% erhöhten Präzisionsschaden. Die vierte Kugel aus einem \"Aggressive Salve\"-Gehäuse (Impulsgewehre) erhält diese Schadenserhöhung nicht."
+    }
+  },
+  "588594999": {
+    "displayProperties": {
+      "tip": "+3% Bewegungsgeschwindigkeit und +10 Zielhilfe beim Anvisieren"
+    }
+  },
+  "666440382": {
+    "displayProperties": {
+      "tip": "Erhöht die Perk-Dauer auf 4,5 Sekunden."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters beträchtlich."
+    }
+  },
+  "699525795": {
+    "displayProperties": {
+      "tip": "Handhabung und Präzision steigen unter ~150 HP. Der Effekt nimmt linear zu, wenn die Gesundheit abnimmt."
+    }
+  },
+  "706527188": {
+    "displayProperties": {
+      "tip": "Gewährt +100 Handhabung zum Ziehen/Verstauen für 1 Sekunde, oder bis anvisiert wird."
+    }
+  },
+  "908147344": {
+    "displayProperties": {
+      "tip": "Verhindert Ping auf dem Radar nach dem Schießen in der Hocke. Erhöht die Pfeilhaltezeit um +25%"
+    }
+  },
+  "951095735": {
+    "displayProperties": {
+      "tip": "+13% Geschwindigkeit, +10 Nachladetempo mit 0,8x Multiplikator."
+    }
+  },
+  "957782887": {
+    "displayProperties": {
+      "tip": "+33% schnelleres Zielen als +100 Handhabung. Kann mit Targeting-Mods, 'Gefahr erkannt, Gefahr gebannt' und Geistermetall-Kettenpanzer (Der Schatten des Drachens) kombiniert werden."
+    }
+  },
+  "960810156": {
+    "displayProperties": {
+      "tip": "Aktiv, wenn sich mindestens 3 Feinde innerhalb von ~15 Metern befinden. Hält ~4 Sekunden an."
+    }
+  },
+  "972757866": {
+    "displayProperties": {
+      "tip": "Fügt bei Aktivierung +45 Handhabung hinzu, und gewährt eine +5% schnellere Wechselgeschwindigkeit. Setzt sich zurück, wenn die Waffe gehalten oder verstaut wird."
+    }
+  },
+  "984527513": {
+    "displayProperties": {
+      "tip": "7.8% mehr Schaden für hochrangige Gegner. Dazu gehören Champions."
+    }
+  },
+  "1015611457": {
+    "displayProperties": {
+      "tip": "Scharfschützen-Ausweichen und Geistermetall-Kettenpanzer (Der Schatten des Drachens) können dieses Perk auch aktivieren. Hält 5 Sekunden an.\n•  Präzision: +33% Schaden\n•  Normal: +30% Schaden"
+    }
+  },
+  "1168162263": {
+    "displayProperties": {
+      "tip": "\n•  +63 Nachladetempo mit einem 0.9x Multiplikator für 6 Sekunden"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthetikstränge die mit dem Weber in Synthetikgewebe umgewandelt werden können."
+    }
+  },
+  "1195158366": {
+    "displayProperties": {
+      "tip": "Gewährt bei Präzisionskills +10 Reichweite pro Stack und maximal 3 Stacks. Entfernt bei Nicht-Präzisions-Kill einen Stack und gewährt Zielhilfe-Kegel-Wachstum und +30 Stabilität. Hält 7 Sekunden an und wird beim Kill zurückgesetzt."
+    }
+  },
+  "1264398905": {
+    "displayProperties": {
+      "tip": "Während du das letzte lebende Mitglied deines Einsatztrupps bist:\n•  +100 Handhabung\n•  +100 Nachladetempo\n•  +100  Zielhilfe\n•  Massiv verringertes Zucken\n•  Erhöhte Genauigkeit\n•  Stärkere Zielhervorhebung durch Zielfernrohr\n•  Aktiviert Radar beim Zielen"
+    }
+  },
+  "1354429876": {
+    "displayProperties": {
+      "tip": "4 Präzisionstreffer innerhalb von 2,5 Sekunden fügen dem Magazin 2 Schüsse hinzu."
+    }
+  },
+  "1359896290": {
+    "displayProperties": {
+      "tip": "Erhöht die Genauigkeit nach anhaltendem Feuer für 0,6 Sekunden erheblich, wodurch die Auswirkungen von Bloom fast aufgehoben werden.\n•  +9 Stabilität über Zeit.\nDie Genauigkeit in der Luft ist immer noch schlecht, es sei denn, man verwendet Ikarus-Griff."
+    }
+  },
+  "1427256713": {
+    "displayProperties": {
+      "tip": "\n•  +25% Schaden"
+    }
+  },
+  "1471333428": {
+    "displayProperties": {
+      "tip": "Erhöht den Schadensbonus des Perks auf 40% (Schwerter erhöhen sich auf 35%). Hält 1,5 Sekunden an."
+    }
+  },
+  "1513326571": {
+    "displayProperties": {
+      "tip": "10% mehr Schaden gegen alle Besessenen-Feinde, einschließlich Riven und Techeuns (Sedia, Kalli und Shuro-Chi)."
+    }
+  },
+  "1523832109": {
+    "displayProperties": {
+      "tip": "Alle 4 Sekunden ohne Schießen werden 10% des Magazins nachgeladen. Maximal etwas mehr als doppelte Magazingröße."
+    }
+  },
+  "1528281896": {
+    "displayProperties": {
+      "tip": "\n•  +63 Nachladetempo mit einem 0.9x Multiplikator für 6 Sekunden"
+    }
+  },
+  "1546637391": {
+    "displayProperties": {
+      "tip": "15% Schadenserhöhung gegen Minibosse, Champions, Fahrzeuge und Bosse. Gegen Hüter in Super: +40–50% für Primärwaffen und +10–20% für Spezialwaffen."
+    }
+  },
+  "1556840489": {
+    "displayProperties": {
+      "tip": "Gewährt das Äquivalent von 1 Spezialmunition."
+    }
+  },
+  "1561002382": {
+    "displayProperties": {
+      "tip": "Gegner werden bei Beschuss stärker zucken.Erlaubt Primärwaffen, höherrangige Feinde zu beeinflussen, und betäubt beständig niederrangige Feinde. Variiert zwischen den Waffenarchetypen, von +6–11% verursachtem Zucken."
+    }
+  },
+  "1570042021": {
+    "displayProperties": {
+      "tip": "Hält 5,5 Sekunden an.\n• 1x:  +15% Genauigkeit, +15 Stabilität, +~20 Rückstoßrichtung\n• 2x:  +30% Genauigkeit, +30 Stabilität, +~40 Rückstoßrichtung"
+    }
+  },
+  "1600092898": {
+    "displayProperties": {
+      "tip": "Das Wechseln auf diese Waffe gewährt für 4 Sekunden Folgendes:\n•  Multipliziert die Ladezeit mit 0.8x\n•  -20% Schaden\n•  +100 Handhabung"
+    }
+  },
+  "1631667848": {
+    "displayProperties": {
+      "tip": "Primärwaffen werden nachgefüllt (erzeugt Munition aus dem Nichts). Spezial- und Powerwaffen werden zurückgesetzt (Nachladen ohne Animation, löst keine Nachlade-Perks aus)."
+    }
+  },
+  "1645158859": {
+    "displayProperties": {
+      "tip": "Wird aktiviert, sobald das Magazin unter 50% fällt. Gewährt +25-50% erhöhte Genauigkeit und bis zu +20 Stabilität."
+    }
+  },
+  "1683379515": {
+    "displayProperties": {
+      "tip": "Bei Elementar-/Barriere- oder Hüter-Schildbruch: Wendet einen Debuff an, der 5,5 Sekunden lang 50% erhöhten Kinetikschaden gewährt. Kann mit anderen Debuffs kombiniert werden, da es sich um einen Waffenbonus handelt."
+    }
+  },
+  "1685431615": {
+    "displayProperties": {
+      "tip": "+30% Schadenserhöhung für 1.5 Sekunden."
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters enorm."
+    }
+  },
+  "1754714824": {
+    "displayProperties": {
+      "tip": "+20% mehr Schaden und 100 ms schnellere Ladezeit beim Rutschen nach 1,5 Sekunden Sprint. Der Buff kann mitten im Burst ablaufen, wenn nicht sofort mit dem Aufladen begonnen wird."
+    }
+  },
+  "1774574192": {
+    "displayProperties": {
+      "tip": "Funktioniert nicht mit der Exotischen Fähigkeit des Warlock-Helms \"Braue der Wahrheit\"."
+    }
+  },
+  "1799762209": {
+    "displayProperties": {
+      "tip": "Aktiv, wenn sich mindestens 3 Feinde innerhalb von ~15 Metern befinden. Hält für 1.5 Sekunden an.\n•  -100 ms Ladezeit/Anspannzeit"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Erhöht den Schmelztiegel-Rang deines Hüters. Es könnte zusätzlich dazu führen, dass Lord Shaxx sich freut."
+    }
+  },
+  "1820235745": {
+    "displayProperties": {
+      "tip": "Lädt 10-17% des Magazins pro Kill nach."
+    }
+  },
+  "1837151577": {
+    "displayProperties": {
+      "tip": "Explosionsradius um 50% erhöht. Erhöht den Schaden vom Epizentrum der Explosion um bis zu 50%."
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters."
+    }
+  },
+  "1866048759": {
+    "displayProperties": {
+      "tip": "Beim Hüftfeuer:\n•  +1.2x Zielunterstützungsabfall\n•  +15 Zielhilfe\n•  +2.7 Grad-Präzisions-Winkelschwelle (außer für Scharfschützengewehre)\n•  +~30 mehr Genauigkeit\n•  +~30 Stabilität"
+    }
+  },
+  "1890422124": {
+    "displayProperties": {
+      "tip": "Gewährt +25 Stabilität und +10% erhöhte Genauigkeit für 0,6 Sekunden. Setzt sich sofort zurück, nachdem nicht geschossen wurde. Für Controller: die Waffe feuert sofort, sobald der Trigger betätigt wird."
+    }
+  },
+  "1954620775": {
+    "displayProperties": {
+      "tip": "Teilt 55% des Schadens in explosiven Schaden mit +30% Schaden und ohne Schadensabfall auf. Explodiert nach 0,6 Sekunden.\n•  PvE: +12 % Erhöhung auf Präzisionsschaden und +16 % auf Nicht-Präzisionsschaden.\n•  PvP: Der Gesamtschaden bleibt nahezu identisch."
+    }
+  },
+  "1968497646": {
+    "displayProperties": {
+      "tip": "5% mehr Schaden gegen gegnerische Schilde. Kugeln können bis zu 1 Feind durchdringen."
+    }
+  },
+  "2010801679": {
+    "displayProperties": {
+      "tip": "Erhöht die Magazinkapazität um 10% pro Kill, bis zu einem Maximum von 50%."
+    }
+  },
+  "2039302152": {
+    "displayProperties": {
+      "tip": "Hält 3 Sekunden an. Lädt 15% des Magazins und gewährt +~20 Stabilität & +~25 Handhabung."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters."
+    }
+  },
+  "2213355989": {
+    "displayProperties": {
+      "tip": "Schadensanstieg, wenn das Magazin zu 50% oder weniger voll ist.\n•  PvE: +12.1-25.6% Schaden.\n•  PvP: +3-6% Schaden."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters erheblich."
+    }
+  },
+  "2284787283": {
+    "displayProperties": {
+      "tip": "Befüllt das Magazin zufällig zwischen +10% und +50% beim Nachladen. Rundet das Magazin immer auf."
+    }
+  },
+  "2387244414": {
+    "displayProperties": {
+      "tip": "Entfernt die Fadenkreuz-Bewegungen und das Wackeln der Waffe bei wiederholten Treffern. Kein Bonus auf Stabilität. Bemerkbar vor allem auf Controllern, da ihr Fadenkreuz beim Feuern springt, ähnlich wie Maschinengewehre auf Mäusen."
+    }
+  },
+  "2396489472": {
+    "displayProperties": {
+      "tip": "Kills erzeugen eine Elementarexplosion. Nicht von Libellen-Spezifikation betroffen."
+    }
+  },
+  "2450788523": {
+    "displayProperties": {
+      "tip": "Dauert 6 Sekunden, zusätzliche Kills fügen 6 Sekunden hinzu, begrenzt auf 8 Sekunden.\n•  +20 Reichweite\n•  +50 Mobility\n•  +~40 Handhabung\n•  +30% Bewegungsgeschwindigkeit beim Zielen\n•  1.05x Distanzschaden-Multiplikator"
+    }
+  },
+  "2458213969": {
+    "displayProperties": {
+      "tip": "Töten und Nachladen unterbricht den aktuellen Buff-Timer und setzt ihn zurück. Stacks werden beim Nachladen zurückgesetzt. Hält 5 Sekunden an.\n•  1x: +17% Schaden\n•  2x: +33% Schaden\n•  3x: +50% Schaden"
+    }
+  },
+  "2551157718": {
+    "displayProperties": {
+      "tip": "Wird 1,5 Sekunden nach Zielen ohne Feuern aktiviert. \n•  Scout-Gewehr: +66% Schaden\n•  Linear-Fusion: +33% Schaden\n•  Scharfschützengewehr (Aggressiv): +37% Schaden\n•  Scharfschützengewehr (Adaptiv & Schnellfeuer): +31% Schaden"
+    }
+  },
+  "2621346526": {
+    "displayProperties": {
+      "tip": "Innerhalb von 15 Metern eines Verbündeten erhältst du +30 Handhabung und einen Nachladetempo-Bonus. Hält 1.5 Sekunden an."
+    }
+  },
+  "2866798147": {
+    "displayProperties": {
+      "tip": "Nach 1 Sekunde Zielen ohne Feuern wird das Zucken unter Beschuss um 35% verringert. Stackt multiplikativ mit \"Ruhiges Zielen\"-Mods"
+    }
+  },
+  "2869569095": {
+    "displayProperties": {
+      "tip": "\n•  +45 Nachladetempo mit 0.8x Multiplikator und 0.8x Animationsdauer des Ziehens/Verstauens.\n•  Die Erhöhung der Inventargröße ist die Erhöhung der Reserven."
+    }
+  },
+  "2946784966": {
+    "displayProperties": {
+      "tip": "Wird durch das Nachladen innerhalb von 6 Sekunden nach einem Kill aktiviert.\n•  +20 Zielhilfe\n•  +20% Genauigkeit"
+    }
+  },
+  "3016987351": {
+    "displayProperties": {
+      "tip": "Der Angriff muss innerhalb von ~0,5 Sekunden nach dem Blocken abgewehrt werden. 50% Schadenserhöhung für 2 Sekunden."
+    }
+  },
+  "3038247973": {
+    "displayProperties": {
+      "tip": "Teilt 50% des Schadens in explosiven Schaden mit 30% Schadenserhöhung ohne Distanz-Schadensabfall auf.\n•  PvE: 11% Erhöhung auf Präzisions-Schaden und 15% zu Nicht-Präzisions-Schaden.\n•  PvP: Der Gesamtschaden bleibt nahezu identisch."
+    }
+  },
+  "3047969693": {
+    "displayProperties": {
+      "tip": "Nachladen innerhalb von 6 Sekunden nach einem Präzisionskill gewährt 600 Schuss pro Minute für 7 Sekunden, verringert aber den Schaden gegenüber Gegnern um -20%."
+    }
+  },
+  "3096702027": {
+    "displayProperties": {
+      "tip": "Setzt das Magazin bei einem Elementar- oder Barriere-Champion-Schildbruch zurück. Energiewaffen erzeugen 1 Munition pro Treffer gegen passende Elementarschilde."
+    }
+  },
+  "3108830275": {
+    "displayProperties": {
+      "tip": "Startet die Gesundheitsregeneration und gewährt ~80 HP nach Erhalt von 3 Punkten. Reguläre Feinde gewähren 1 Punkt, Hüter gewähren 2, Elite/Mini-Bosse/Bosse gewähren 3. Kills müssen innerhalb von ~8 Sekunden voneinander sein."
+    }
+  },
+  "3161816588": {
+    "displayProperties": {
+      "tip": "Dauert ~3 Sekunden mit einer Abklingzeit von 0,3 Sekunden. Füllt 15% des Magazins und verleiht +20 Reichweite und +~50 Stabilität."
+    }
+  },
+  "3194351027": {
+    "displayProperties": {
+      "tip": "\n•  +15% Schaden bei Raketenwerfern"
+    }
+  },
+  "3201496230": {
+    "displayProperties": {
+      "tip": "Gewährt bei einem Treffer eines regulären Gegners einen Stack."
+    }
+  },
+  "3275789089": {
+    "displayProperties": {
+      "tip": "Explosion verwirrt Feinde innerhalb von 7 Metern für 5 Sekunden."
+    }
+  },
+  "3300816228": {
+    "displayProperties": {
+      "tip": "Lädt verstaute Waffen aus Reserven nach 3 Sekunden nach."
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters erheblich."
+    }
+  },
+  "3350417888": {
+    "displayProperties": {
+      "tip": "Setzt verstaute Waffen nach dem Nachladen bis zu 6 Sekunden nach einem Kill zurück."
+    }
+  },
+  "3365897133": {
+    "displayProperties": {
+      "tip": "Teilt 55% des Schadens in explosiven Schaden mit +30% Schadenserhöhung ohne Distanz-Schadensabfall auf. Explodiert nach 0.6 Sekunden.\n•  PvE: 12% Erhöhung auf Präzisions-Schaden und 16% zu Nicht-Präzisions-Schaden.\n•  PvP: Der Gesamtschaden bleibt nahezu identisch."
+    }
+  },
+  "3400784728": {
+    "displayProperties": {
+      "tip": "Das Aktivierungsfenster beträgt 2,5 Sekunden."
+    }
+  },
+  "3418782618": {
+    "displayProperties": {
+      "tip": "Füllt das Magazin um 50-60 % für Primärwaffen oder 30-40 % für Spezialwaffen auf"
+    }
+  },
+  "3425386926": {
+    "displayProperties": {
+      "tip": "Dauert 3,5 Sekunden.\n•  1x: +10% Schaden\n•  2x: +21% Schaden\n•  3x: +33% Schaden"
+    }
+  },
+  "3436462433": {
+    "displayProperties": {
+      "tip": "Fähigkeiten mit mehrfacher Ladung tragen zu den Anforderungen bei (bsp. 2 Granaten und ein Nahkampf zählen als maximaler Überschuss).\n•  1x: +5 Nachladetempo, +10 Handhabung, +5 Stabilität\n•  2x: +22 Nachladetempo, +25 Handhabung, +15 Stabilität\n•  3x: +50 Nachladetempo, +50 Handhabung, +25 Stabilität"
+    }
+  },
+  "3511092054": {
+    "displayProperties": {
+      "tip": "[Stasis] erhöht die Ziel-Bewegungsgeschwindigkeit um +5%."
+    }
+  },
+  "3513791699": {
+    "displayProperties": {
+      "tip": "20% Chance, bei einem Fehlschuss 1 Schuss ins Magazin zurückzugeben."
+    }
+  },
+  "3523296417": {
+    "displayProperties": {
+      "tip": "Kills mit Primär- und Powerwaffen gewähren 10% Granatenenergie und Kills mit Spezialwaffen gewähren 20% Granatenenergie. 3 Sekunden Abklingzeit für den Granatennutzungs-Nachladeeffekt."
+    }
+  },
+  "3551326236": {
+    "displayProperties": {
+      "tip": "Dauert 3,5 Sekunden.\n•  1x: +10% Schaden\n•  2x: +21% Schaden\n•  3x: +33% Schaden"
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Wächters erheblich."
+    }
+  },
+  "3592538738": {
+    "displayProperties": {
+      "tip": "Gewährt +7,5 % Fähigkeitsenergie, die gleichmäßig auf alle ungeladenen Fähigkeiten verteilt wird."
+    }
+  },
+  "3643424744": {
+    "displayProperties": {
+      "tip": "Füllt das Magazin auf die zweifache Kapazität auf."
+    }
+  },
+  "3673922083": {
+    "displayProperties": {
+      "tip": "Dauert 6 Sekunden:\n•  +25% Schaden (+20% für Schrottflinten und Bögen)\n•  -20% Feuerrate/Ladezeit"
+    }
+  },
+  "3700496672": {
+    "displayProperties": {
+      "tip": "Aktiviert Perks zum Aufsammeln von Munition."
+    }
+  },
+  "3824105627": {
+    "displayProperties": {
+      "tip": "Präzisionskills gewähren +45 Nachladetempo für 6 Sekunden. Gleicher Radius wie Libellen-Spezifikation, verursacht aber +25 % mehr Schaden. Funktioniert nicht mit Libellen-Spezifikation."
+    }
+  },
+  "3913600130": {
+    "displayProperties": {
+      "tip": "Dauert 3 Sekunden.\n•  1x: +6% Schaden\n•  2x: +12% Schaden\n•  3x: +18% Schaden\n•  4x: +24% Schaden\n•  5x: +30% Schaden"
+    }
+  },
+  "3927722942": {
+    "displayProperties": {
+      "tip": "Raketen explodieren 3 Sekunden nach Einschlag und verursachen +20% mehr Explosionsschaden.\n•  +25 Explosionsradius"
+    }
+  },
+  "4049631843": {
+    "displayProperties": {
+      "tip": "+35% Schaden nach dem Treffen von drei verschiedenen Zielen innerhalb von 3 Sekunden."
+    }
+  },
+  "4071163871": {
+    "displayProperties": {
+      "tip": "\n•  Innerhalb von 15 Metern um 1 Feind: +~15 Stabilität, +15 Nachladetempo, +25% Handhabungs-Animationsgeschwindigkeit.\n•  Innerhalb von 15 Metern um 2+ Feind: +~40 Stabilität, +55 Nachladetempo, and +43% Handhabungs-Animationsgeschwindigkeit."
+    }
+  },
+  "4082225868": {
+    "displayProperties": {
+      "tip": "Dauert 4.5 Sekunden.\n•  1x: +6.6% Schaden\n•  2x: +13.2% Schaden\n•  3x: +20% Schaden\n•  4x: +26.6% Schaden\n•  5x: +33.3% Schaden"
+    }
+  },
+  "4091000557": {
+    "displayProperties": {
+      "tip": "7.8% Schadenserhöhung für reguläre Gegner."
+    }
+  },
+  "4104185692": {
+    "displayProperties": {
+      "tip": "12 Sekunden im Kampf zu sein gewährt +15% Schadenserhöhung, +~50 Handhabung, and +50 Nachladetempo. Bleibt während des Kampfes aktiviert. \"Während des Kampfes\" bedeutet das Austeilen oder Erhalten von Schaden innerhalb von 5 Sekunden."
+    }
+  },
+  "4252909580": {
+    "displayProperties": {
+      "tip": "Während du das letzte lebende Mitglied deines Einsatztrupps bist, aktualisieren Kills das Magazin vollständig.\n•  +30 Magazine"
+    }
+  },
+  "4267945040": {
+    "displayProperties": {
+      "tip": "Erhöht die Feuerrate nur bei Schrotflinten um +10%."
+    }
+  },
   "23239861010": {
     "displayProperties": {
-      "description": "Kein Meisterwerk derzeit selektiert.",
-      "name": "Leerer Meisterwerk Sockel"
+      "description": "Derzeit kein Meisterwerk ausgewählt.",
+      "name": "Leerer Meisterwerk-Sockel"
     },
-    "itemTypeDisplayName": "Waffen Mod",
+    "itemTypeDisplayName": "Waffen-Mod",
     "inventory": {
+      "bucketTypeHash": 2422292810,
+      "recoveryBucketTypeHash": 0,
+      "tierTypeHash": 3340296461,
       "tierTypeName": "Gewöhnlich"
-    }
+    },
+    "itemCategoryHashes": [
+      59,
+      945330047,
+      610365472
+    ],
+    "hash": 23239861010
   },
   "73143230001": {
     "displayProperties": {
       "name": "Spitzenausrüstung (Schwach)"
     }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird und zum Anpassen von intrinsischen Verbindungen benötigt wird.\n\nWird hauptsächlich durch das Zerlegen legendärer Waffen erhalten, kann aber auch für das Abschließen von Aktivitäten belohnt werden."
+    }
+  },
+  "163842160": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird, erforderlich, um Schaden- und Projektil-Perks anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
+    },
+    "itemTypeDisplayName": "Material"
+  },
+  "163842161": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um grundlegende Perks für Waffeneigenschaften anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
+    },
+    "itemTypeDisplayName": "Material"
+  },
+  "163842162": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um Fähigkeitsmerkmale anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
+    },
+    "itemTypeDisplayName": "Material"
+  },
+  "163842163": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um Munitions- und Nachladeperks anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
+    },
+    "itemTypeDisplayName": "Material"
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "Material, das bei der Waffenformung verwendet wird.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
+    },
+    "itemTypeDisplayName": "Material"
   }
 }

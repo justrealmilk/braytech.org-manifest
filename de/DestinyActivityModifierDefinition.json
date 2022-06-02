@@ -1,7 +1,7 @@
 {
   "3847906370": {
     "displayProperties": {
-      "name": "Lustgarten",
+      "name": "Lustgärten",
       "description": "Rieche die Rosen, Hüter... Füttere meine hungrigen Haustiere... oder werde fett von ihrem Fleisch!"
     }
   },
@@ -13,7 +13,7 @@
   },
   "1431486395": {
     "displayProperties": {
-      "name": "Der Circus",
+      "name": "Der Zirkus",
       "description": "Demonstriere deine Hartnäckigkeit für das Spiel und beweise deinen Wert, Schatten."
     }
   },
@@ -21,6 +21,48 @@
     "displayProperties": {
       "name": "Der Thronraum",
       "description": "KOMM- I will dir gratulieren, persönlich..."
+    }
+  },
+  "25589576690": {
+    "displayProperties": {
+      "name": "Solar Schilde",
+      "description": "Diese Aktivität hat Solar Schilde"
+    }
+  },
+  "32153845200": {
+    "displayProperties": {
+      "name": "Arkus-Schilde",
+      "description": "Diese Aktivität hat Arkus-Schilde"
+    }
+  },
+  "33620748140": {
+    "displayProperties": {
+      "name": "Leere-Schilde",
+      "description": "Diese Aktivität hat Leere-Schilde"
+    }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "Solar- und Arkus-Schilde",
+      "description": "Diese Aktivität hat Solar- und Arkus-Schilde"
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "Solar- und Leere-Schilde",
+      "description": "Diese Aktivität hat Solar- und Leere-Schilde"
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "Arkus- and Leere-Schilde",
+      "description": "Diese Aktivität hat Arkus- und Leere-Schilde"
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "Solar-, Arkus-, und Leere-Schilde",
+      "description": "Diese Aktivität hat Solar-, Arkus- und Leere-Schilde"
     }
   }
 }
