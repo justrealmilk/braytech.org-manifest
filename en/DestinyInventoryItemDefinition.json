@@ -82,6 +82,12 @@
       "item_type.experience"
     ]
   },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Increased \"Heartshadow\" drop rate",
+      "description": "Increases the drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
@@ -190,12 +196,6 @@
     "displayProperties": {
       "name": "Pinnacle Gear (Weak)",
       "hasIcon": false
-    }
-  },
-  "1950177353": {
-    "displayProperties": {
-      "name": "Increased \"Heartshadow\" drop rate",
-      "description": "Increases the drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
     }
   }
 }

@@ -77,9 +77,9 @@
   "691393048": {
     "displayProperties": {
       "description": "大幅にガーディアンの経験値を増やせる"
-   },
-   "traitIds": [
-    "item_type.experience"
+    },
+    "traitIds": [
+      "item_type.experience"
     ]
   },
   "1190250163": {
@@ -97,12 +97,12 @@
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-   "1711513650": {
+  "1711513650": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増やせる。"
-  },
-  "traitIds": [
-    "item_type.experience"
+    },
+    "traitIds": [
+      "item_type.experience"
     ]
   },
   "1808687944": {
@@ -113,27 +113,27 @@
   "1858002338": {
     "displayProperties": {
       "description": "ガーディアンの経験値を増やせる"
-  },
-  "traitIds": [
-    "item_type.experience"
-  ]
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
   },
   "2174060729": {
     "displayProperties": {
       "description": "ガーディアンの経験値を増加させる。"
-  },
-  "traitIds": [
-    "item_type.experience"
+    },
+    "traitIds": [
+      "item_type.experience"
     ]
   },
   "2250176030": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させる。"
-  },
-  "traitIds": [
-    "item_type.experience"
+    },
+    "traitIds": [
+      "item_type.experience"
     ]
-   },
+  },
   "2497395625": {
     "displayProperties": {
       "description": "武器の成形に使用される材料で、固有プラグの調整に必要とする。\n\n 主にレジェンダリー武器の解体で入手できるが、アクティビティをクリア報酬でも得ることがある。"
@@ -157,10 +157,10 @@
   "3348653032": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させる。"
-  },
-  "traitIds": [
-    "item_type.experience"
-   ]
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
   },
   "3381471334": {
     "traitIds": [
@@ -179,10 +179,10 @@
   "3582080006": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させる。"
- },
- "traitIds": [
-  "item_type.experience"
-]
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
   },
   "23239861010": {
     "displayProperties": {

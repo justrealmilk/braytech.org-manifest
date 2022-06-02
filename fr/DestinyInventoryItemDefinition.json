@@ -7,19 +7,24 @@
     "itemTypeDisplayName": "Dégagement insuffisant",
     "redacted": true
   },
-  "11612903": {
+  "163842160": {
     "displayProperties": {
-      "tip": "La durée s'actualise lors des tués à la grenade et dure 10 secondes :\n•  1x: +10% Dommage, +10 Maniement\n•  2x: +21% Dommage, +20 Maniement\n•  3x: +33% Dommage, +30 Maniement"
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les dégâts et les avantages des projectiles.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   },
-  "47981717": {
+  "163842161": {
     "displayProperties": {
-      "tip": "S'applique au premier coup seulement après 3,1 secondes après ne pas avoir tirer\n•  +20 Assistance à la visée\n•  +20 Portée\n•  +5% de dégâts de distance d'atténuation (excluant les fusils à pompe)\n•  -10% Agrandissement du cône de précision"
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les avantages de base des caractéristiques de l'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   },
-  "124408337": {
+  "163842162": {
     "displayProperties": {
-      "tip": "Les ennemis de rang mineurs génèrent un cristal de stase de taille moyenne. Tout ennemi de rang supérieur à mineur génère un cristal de grande taille."
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les traits de capacité.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
+    }
+  },
+  "163842163": {
+    "displayProperties": {
+      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les munitions et changer les avantages d'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   },
   "176055472": {
@@ -27,34 +32,14 @@
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-  "201365942": {
-    "displayProperties": {
-      "tip": "Diminue le temps d'étirement à 440 ms pendant 3 secondes."
-    }
-  },
-  "205890336": {
-    "displayProperties": {
-      "tip": "Une fois en dessous d'environ 150 HP, augmentation de la vitesse de rechargement. L'effet augmente linéairement à mesure que la santé diminue jusqu'à 100 avec un multiplicateur de durée de 0,9."
-    }
-  },
   "247000308": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-  "247725512": {
-    "displayProperties": {
-      "tip": "S'ajoute jusqu'à 5x et dure 2 secondes.\n•  1x: +5 Vitesse de rechargement, +5 Stabilité\n•  2x: +27 Vitesse de rechargement, 10 Stabilité\n•  3x: +32 Vitesse de rechargement, 15 Stabilité\n•  4x: +40 Vitesse de rechargement, +20 Stabilité\n•  5x: +54 Vitesse de rechargement, +23 Stabilité"
-    }
-  },
   "256080248": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "280464955": {
-    "displayProperties": {
-      "tip": "En position accroupi, accorde:\n•  +30 Maniement\n•  +20 Stabilité\n•  -40 taille du cône de précision\n•  -17% agrandissement du cône de précision\n•  -80 Lacet de recul (Recul horizontal)"
     }
   },
   "304443327": {
@@ -70,79 +55,9 @@
       "description": "Augmente votre rang d'Infamie de votre Gardien. Ne le dites pas à l'Avant-Garde."
     }
   },
-  "438098033": {
-    "displayProperties": {
-      "tip": "S'active lorsque l'arme est prête dans les 3 secondes suivant l'élimination avec une arme différente. Accorde +20% d'augmentation de dégâts and +15 en Maniement pendant 7 secondes."
-    }
-  },
-  "460017080": {
-    "displayProperties": {
-      "tip": "Les tirs à la tête après avoir touché au moins un tir au corps reçoivent +8% de dégats de précision supplémentaires. La quatrième balle dans le cadre du buff 'Aggressive Burst' (fusils à impulsion) ne reçoit pas de dégâts accrus."
-    }
-  },
-  "588594999": {
-    "displayProperties": {
-      "tip": "+3% vitesse de déplacement et +10 Assistance à la visée lors de la visée vers le bas."
-    }
-  },
-  "666440382": {
-    "displayProperties": {
-      "tip": "Augmente la durée de l'avantage (perk) à 4,5 secondes."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
-    }
-  },
-  "699525795": {
-    "displayProperties": {
-      "tip": "Une fois en dessous de ~150 HP, la maniabilité et la précision augmentent. L'effet augmente linéairement à mesure que la santé diminue."
-    }
-  },
-  "706527188": {
-    "displayProperties": {
-      "tip": "Accorde +100 Maniement Prêt/Rangé pendant 1 seconde, ou pendant la visée vers le bas."
-    }
-  },
-  "908147344": {
-    "displayProperties": {
-      "tip": "Empêche le ping sur le radar après avoir tiré en étant accroupi. Augmente le temps de maintien de la flèche de +25%."
-    }
-  },
-  "951095735": {
-    "displayProperties": {
-      "tip": "+13% Vélocité, +10 Vitesse de rechargement avec un multiplicateur de 0.8."
-    }
-  },
-  "957782887": {
-    "displayProperties": {
-      "tip": "+33% de visée vers le bas plus rapide contre +100 de Maniement. Se cumule avec les mods de ciblage, le détecteur de menaces et la perk 'Maille de fantômétal' (Ombre du Dragon)."
-    }
-  },
-  "960810156": {
-    "displayProperties": {
-      "tip": "Actif lorsqu'au moins 3 ennemis se trouvent à environ 15 mètres. Dure environ 4 secondes."
-    }
-  },
-  "972757866": {
-    "displayProperties": {
-      "tip": "Lorsqu'il est actif, ajoute +45 en Maniement et accorde une vitesse de changement d'arme +5% plus rapide. Recharge complètement l'arme lorsqu'elle est tenue ou rangée."
-    }
-  },
-  "984527513": {
-    "displayProperties": {
-      "tip": "7.8% d'augmentation de dégâts contre les ennemis de rang majeur. Cela inclut les champions."
-    }
-  },
-  "1015611457": {
-    "displayProperties": {
-      "tip": "'Esquive du Sniper' et 'Maille de fantômétal' (Ombre du Dragon) peuvent également déclencher cette perk. Dure 5 secondes.\n•  Précision: +33% de dégâts\n•  Non-précision: +30% de dégâts"
-    }
-  },
-  "1168162263": {
-    "displayProperties": {
-      "tip": "\n•  +63 Vitesse de rechargement avec un multiplicateur de 0.9 pendant 6 secondes"
     }
   },
   "1190250163": {
@@ -150,74 +65,9 @@
       "description": "Matériel Synthécorde qui peut être converti en Synthéfibre en utilisant le métier à tisser."
     }
   },
-  "1195158366": {
-    "displayProperties": {
-      "tip": "Sur les éliminations de précision, accorde +10 Portée par charge et atteint un maximum de 3 charges. En cas d'élimination imprécise, supprime une charge et confère un aggrandissement du cône de précision et une stabilité de +30. Dure 7 secondes et est actualisé lors d'une élimination."
-    }
-  },
-  "1264398905": {
-    "displayProperties": {
-      "tip": "Lorsque vous êtes le dernier Gardien en vie de votre équipe:\n•  +100 Maniement\n•  +100 Rechargement\n•  +100  Assistance à la visée\n•  Baisse fortement le recul\n•  Précision augmentée\n•  Cible plus importante mise en évidence grâce à la lunette de visée\n•  Active le radar lors d'une visée vers le bas"
-    }
-  },
-  "1354429876": {
-    "displayProperties": {
-      "tip": "4 balles de précision en 2,5 secondes ajoute 2 balles au chargeur."
-    }
-  },
-  "1359896290": {
-    "displayProperties": {
-      "tip": "Augmente considérablement la précision après un tir soutenu pendant 0,6 seconde, annulant presque les effets négatifs de 'Bloom'.\n•  Ajoute 9 Stabilité sur la durée.\nLa précision en l'air est toujours mauvaise à moins d'être utilisée avec Poignée d'Icare."
-    }
-  },
   "1387420892": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "1427256713": {
-    "displayProperties": {
-      "tip": "\n•  +25% de dégâts"
-    }
-  },
-  "1471333428": {
-    "displayProperties": {
-      "tip": "Augmente le bonus de dégâts à 40% (Les épées sont augmentées à 35%). Dure 1,5 seconde."
-    }
-  },
-  "1513326571": {
-    "displayProperties": {
-      "tip": "10% d'augmentation de dégâts contre tous les ennemis corrompus, incluant Riven et les Téchiennes (Sedia, Kalli, & Shuro-Chi)."
-    }
-  },
-  "1523832109": {
-    "displayProperties": {
-      "tip": "Après ne pas avoir tirer pendant 4 secondes, recharge 10% du chargeur. Au maximum du double de la taille du chargeur."
-    }
-  },
-  "1528281896": {
-    "displayProperties": {
-      "tip": "\n•  +63 Vitesse de rechargement avec un multiplicateur de 0,9 pendant 6 secondes"
-    }
-  },
-  "1546637391": {
-    "displayProperties": {
-      "tip": "15% d'augmentation de dégâts contre les miniboss, les champions, les véhicules et les boss. Contre les Gardiens en super, +40-50% pour les armes principales et +10-20% pour les armes spéciales."
-    }
-  },
-  "1556840489": {
-    "displayProperties": {
-      "tip": "Accorde l'équivalent d'un ramassage de munitions spéciales."
-    }
-  },
-  "1561002382": {
-    "displayProperties": {
-      "tip": "Renverse plus fortement les combattants. Permet aux armes principales d'affecter les ennemis de rang supérieur et étourdit systématiquement les ennemis de rang mineur. Varie selon les archétypes d'armes, de +6 à 11% de renversement infligé."
-    }
-  },
-  "1570042021": {
-    "displayProperties": {
-      "tip": "Dure 5,5 secondes.\n• 1x:  +15% Précision, +15 Stabilité, +~20 Perte de recul\n• 2x:  +30% Précision, +30 Stabilité, +~40 Perte de recul"
     }
   },
   "1572351682": {
@@ -225,49 +75,9 @@
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-  "1600092898": {
-    "displayProperties": {
-      "tip": "Changer vers cette arme accorde ce qui suit pendant 4 secondes:\n•  Multiplies le temps de charge par 0,8\n•  +20% réduction de dégâts\n•  +100 Maniement"
-    }
-  },
-  "1631667848": {
-    "displayProperties": {
-      "tip": "Les armes principales sont rechargées (génére des munitions à partir de rien). Les armes spéciales et puissantes sont rafraîchies (rechargées sans animation, ne se déclenche pas lors des avantages de rechargement)."
-    }
-  },
-  "1645158859": {
-    "displayProperties": {
-      "tip": "S'active une fois que le chargeur tombe en dessous de 50%. Accorde +25-50% d'augmentation de précision et augmente jusqu'à +20 de stabilité."
-    }
-  },
-  "1683379515": {
-    "displayProperties": {
-      "tip": "En cas de bris de bouclier élémentaire/barrière ou de bouclier de gardien: Applique un affaiblissement (debuff) qui octroie 50% d'augmentation de dégâts cinétiques pendant 5,5 secondes. Se cumule avec d'autres affaiblissements (debuffs) en raison du fait qu'il s'agit d'un avantage d'arme."
-    }
-  },
-  "1685431615": {
-    "displayProperties": {
-      "tip": "+30% d'augmentation des dégâts pendant 1,5 seconde."
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "Augmente énormément l'expérience de votre gardien."
-    }
-  },
-  "1754714824": {
-    "displayProperties": {
-      "tip": "+20% de dégâts en plus et 100 ms de temps de charge plus rapide lors d'une glissade après un sprint de 1,5 seconde. Le buff peut expirer à mi-rafale si vous ne commencez pas immédiatement à charger."
-    }
-  },
-  "1774574192": {
-    "displayProperties": {
-      "tip": "Ne fonctionne pas avec le trait Exotique sur le casque arcaniste, Sourcil de Vérité."
-    }
-  },
-  "1799762209": {
-    "displayProperties": {
-      "tip": "Actif lorsqu'au moins 3 ennemis se trouvent à environ 15 mètres. Dure 1,5 seconde.\n• -100 ms de temps de charge/de temps d'étirement"
     }
   },
   "1808687944": {
@@ -275,49 +85,9 @@
       "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
     }
   },
-  "1820235745": {
-    "displayProperties": {
-      "tip": "Recharge 10-17% du chargeur par élimination."
-    }
-  },
-  "1837151577": {
-    "displayProperties": {
-      "tip": "Rayon d'explosion augmenté de 50%. Augmentation des dégâts jusqu'à 50 % à partir de l'épicentre de l'explosion."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Augmente l'expérience de votre gardien."
-    }
-  },
-  "1866048759": {
-    "displayProperties": {
-      "tip": "Lors d'un tir dans le corps:\n•  +1.2x chute d'assistance à la visée \n•  +15 Assistance à la visée\n•  +2.7 d'angle du degré de précision (excepté pour les fusils de précisions)\n•  +~30 précision supplémentaire\n•  +~30 Stabilité"
-    }
-  },
-  "1890422124": {
-    "displayProperties": {
-      "tip": "Confère +25 Stabilité et +10% d'augmentation de précision pendant 0,6 seconde. Se rafraîchit immédiatement après l'arrêt du tir. Pour la manette, l'arme se déclenche dès que la première pression est appliquée."
-    }
-  },
-  "1954620775": {
-    "displayProperties": {
-      "tip": "Divise 55% des dommages en dégâts explosifs avec +30% de dégâts et pas de chute. Explose après 0,6 seconde.\n•  PvE: +12% augmentation des dégâts de précision and +16% pour les dégâts de imprécis.\n•  PvP: total de dégâts reste à peut près le même."
-    }
-  },
-  "1968497646": {
-    "displayProperties": {
-      "tip": "Augmentation de 5% des dégâts contre les boucliers des combattants. Les balles peuvent pénétrer jusqu'à 1 ennemi supplémentaire."
-    }
-  },
-  "2010801679": {
-    "displayProperties": {
-      "tip": "Augmente la capacité du chargeur de 10 % par élimination jusqu'à un maximum de 50 %."
-    }
-  },
-  "2039302152": {
-    "displayProperties": {
-      "tip": "Dure 3 secondes. Rafraîchit de 15% le chargeur et octroie +~20 de Stabilité & +~25 de Maniement."
     }
   },
   "2174060729": {
@@ -325,49 +95,14 @@
       "description": "Augmente l'expérience de votre gardien."
     }
   },
-  "2213355989": {
-    "displayProperties": {
-      "tip": "Augmentation graduelle de dégâts lorsque le magasin est à moins de 50%.\n•  PvE: +12.1-25.6% de dégâts.\n•  PvP: +3-6% de dégâts."
-    }
-  },
   "2250176030": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
-  "2284787283": {
+  "2497395625": {
     "displayProperties": {
-      "tip": "Augmente aléatoirement le chargeur entre +10% et +50% au rechargement. Arrondit toujours le chargeur au supérieur."
-    }
-  },
-  "2387244414": {
-    "displayProperties": {
-      "tip": "Supprime le rebond du réticule et le tremblement de l'arme lors de coups répétés. Pas de boost de stabilité. Remarquable principalement sur les manettes, car leur réticule rebondit en feu, semblable aux mitrailleuses sur les souris."
-    }
-  },
-  "2396489472": {
-    "displayProperties": {
-      "tip": "Les éliminations créent une explosion élémentaire. N'est pas affecté par le mod Libellule Spec."
-    }
-  },
-  "2450788523": {
-    "displayProperties": {
-      "tip": "Dure 6 secondes, les éliminations supplémentaires ajoutent 6 secondes, plafonne à 8 secondes.\n•  +20 Portée\n•  +50 Mobilité\n•  +~40 Maniement\n•  +30% agmentation de la vitesse de visée vers le bas\n•  1.05x multiplicateur de dégêts pour la distance de chute"
-    }
-  },
-  "2458213969": {
-    "displayProperties": {
-      "tip": "Tuer et recharger interrompra et réinitialisera le temps du buff actuel. Les charges sont toujours réinitialisées lors du rechargement. Dure 5 secondes.\n•  1x: +17% de dégâts\n•  2x: +33% de dégâts\n•  3x: +50% de dégâts"
-    }
-  },
-  "2551157718": {
-    "displayProperties": {
-      "tip": "S'active 1,5 seconde après avoir visé et ne pas avoir tiré. \n•  Fusil d'éclaireur: +66% de dégâts\n•  Fusion Linéaire: +33% de dégâts\n•  Fusil de précision (Aggressif): +37% de dégâts\n•  Fusil de précision (Adaptif & Tir rapide): +31% de dégâts"
-    }
-  },
-  "2621346526": {
-    "displayProperties": {
-      "tip": "À moins de 15 mètres d'un allié, gagne +30 Maniement et un bonus de vitesse de rechargement. Dure 1,5 seconde."
+      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
     }
   },
   "2679019194": {
@@ -380,99 +115,9 @@
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
-  "2726471870": {
-    "displayProperties": {
-      "tip": "Les éliminations à l'arme principale et les éliminations à l'arme lourde confèrent +1% d'énergie de super. Les éliminations aux armes spéciales confèrent +1,5% (+1% en PvP) d'énergie de super."
-    }
-  },
-  "2779035018": {
-    "displayProperties": {
-      "tip": "Dure 3,5 secondes. Accorde un bonus de vitesse de rechargement fixe et un multiplicateur par charge:\n•  1x: +10 Vitesse de rechargement/0x\n•  2x: +45 Vitesse de rechargement/0,9x\n•  3x: +55 Vitesse de rechargement/0,88x\n•  4x: +75 Vitesse de rechargement/0,85x\n•  5x: +100 Vitesse de rechargement/0,8x"
-    }
-  },
-  "2788909693": {
-    "displayProperties": {
-      "tip": "7,8% d'augmentation des dégâts aux combattants de rangs Boss/Ultra et aux véhicules."
-    }
-  },
-  "2846385770": {
-    "displayProperties": {
-      "tip": "\n•  +10% Zoom lors de la visée vers le bas\n•  +5% Vélocité lors de la visée vers le bas"
-    }
-  },
-  "2848615171": {
-    "displayProperties": {
-      "tip": "Crée une explosion élémentaire basée sur le type d'élément de dégâts de l'arme, possède un rayon de 3 mètres et n'est pas affecté par les avantages de l'arme."
-    }
-  },
   "2850782006": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "2866798147": {
-    "displayProperties": {
-      "tip": "Après avoir viser vers le bas pendant 1 seconde sans tirer, le tressaillement est réduit de 35%. S'accumule de manière multiplicative avec des mods imperturbables."
-    }
-  },
-  "2869569095": {
-    "displayProperties": {
-      "tip": "\n•  +45 Vitesse de rechargement avec un multiplicateur de 0,8 et 0,8x de durée d'animation 'arme prête/rangée'.\n•  L'augmentation de la taille de l'inventaire correspond à l'augmentation des réserves."
-    }
-  },
-  "2946784966": {
-    "displayProperties": {
-      "tip": "S'active après avoir rechargé pendant 6 secondes après une élimination.\n•  +20 Assistance à la visée\n•  +20% précision"
-    }
-  },
-  "3016987351": {
-    "displayProperties": {
-      "tip": "L'attaque doit être parée dans un délai d'environ 0,5 seconde après le début du blocage. 50% d'augmentation de dégâts pendant 2 seconds."
-    }
-  },
-  "3038247973": {
-    "displayProperties": {
-      "tip": "Divise 50 % des dégâts en dégâts explosifs avec 30 % de dégâts en plus et aucune chute de visée.\n•  PvE: 11% d'augmentation des dommages de précision et 15% des dommages imprécis.\n•  PvP: le total des dégâts reste presque le même."
-    }
-  },
-  "3047969693": {
-    "displayProperties": {
-      "tip": "Recharger dans les 6 secondes suivant une élimination avec précision augmente votre cadence de tir à 600 coups par minute pendant 7 secondes. Réduit les dégâts de 20% contre les combattants. Peut être rafraîchi."
-    }
-  },
-  "3096702027": {
-    "displayProperties": {
-      "tip": "Rafraîchit le chargeur en cas de rupture de bouclier élémentaire ou de boulcier de champion. Les armes à énergie génèrent 1 munition par coup contre les boucliers élémentaires correspondants."
-    }
-  },
-  "3108830275": {
-    "displayProperties": {
-      "tip": "Démarre la régénération de santé et accorde ~80 HP après avoir obtenu 3 points. Ennemis coriaces donne 1 point, les gardiens en donnent 2, Elites/Mini-Boss/Boss en donnent 3. Les éliminations doivent être à environ 8s les unes des autres."
-    }
-  },
-  "3161816588": {
-    "displayProperties": {
-      "tip": "Dure ~3 secondes avec un temps de recharge de 0,3 seconde. Rafraîchit 15% du chargeur et accorde +20 Portée et +~50 Stabilité."
-    }
-  },
-  "3194351027": {
-    "displayProperties": {
-      "tip": "\n•  +15% de dégâts aux lance-roquettes"
-    }
-  },
-  "3201496230": {
-    "displayProperties": {
-      "tip": "En cas de coup d'un ennemi de rang mineur de niveau inférieur, confère une charge."
-    }
-  },
-  "3275789089": {
-    "displayProperties": {
-      "tip": "L'explosion désoriente les ennemis à moins de 7 mètres pendant 5 secondes."
-    }
-  },
-  "3300816228": {
-    "displayProperties": {
-      "tip": "Recharge les armes rangées depuis les réserves après 3 secondes."
     }
   },
   "3348653032": {
@@ -480,129 +125,14 @@
       "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
-  "3350417888": {
+  "3491404510": {
     "displayProperties": {
-      "tip": "Rafraîchit les armes rangées après un rechargement jusqu'à 6 secondes après une élimination."
-    }
-  },
-  "3365897133": {
-    "displayProperties": {
-      "tip": "Divise 55 % des dégâts en dégâts explosifs avec +30 % de dommages et aucune chute de visée. Explose après 0,6 seconde.\n•  PvE: +12% augmentation de dégâts de précision et +16% de dégâts imprécis.\n•  PvP: le total de dégâts reste presque le même."
-    }
-  },
-  "3400784728": {
-    "displayProperties": {
-      "tip": "La fenêtre d'activation est de 2,5 secondes."
-    }
-  },
-  "3418782618": {
-    "displayProperties": {
-      "tip": "Recharge le chargeur de 50 à 60 % pour les armes principales ou de 30 à 40 % pour les armes spéciales"
-    }
-  },
-  "3425386926": {
-    "displayProperties": {
-      "tip": "Dure 3,5 secondes.\n•  1x: +10% de dégâts\n•  2x: +21% de dégâts\n•  3x: +33% de dégâts"
-    }
-  },
-  "3436462433": {
-    "displayProperties": {
-      "tip": "Les capacités multi-charges contribuent aux prérequis (ex. 2 grenades et une mêlée compteront comme un surplus d'avantage maximum).\n•  1x: +5 Vitesse de rechargement, +10 Maniement, +5 Stabilité\n•  2x: +22 Vitesse de rechargement, +25 Maniement, +15 Stabilité\n•  3x: +50 Vitesse de rechargement, +50 Maniement, +25 Stabilité"
-    }
-  },
-  "3511092054": {
-    "displayProperties": {
-      "tip": "[Stase] augmente la vitesse de la visée vers le bas de +5%."
-    }
-  },
-  "3513791699": {
-    "displayProperties": {
-      "tip": "20 % de chances en cas de raté de renvoyer 1 balle au chargeur."
-    }
-  },
-  "3523296417": {
-    "displayProperties": {
-      "tip": "Les éliminations d'armes principales et énergétiques confèrent 10% d'énergie à la grenade et les éliminations d'armes spéciales confèrent 20% d'énergie à la grenade. 3 secondes de temps de recharge sur l'effet grenade-utilisation-rechargement."
-    }
-  },
-  "3551326236": {
-    "displayProperties": {
-      "tip": "Dure 3,5 secondes.\n•  1x: +10% de dégâts\n•  2x: +21% de dégâts\n•  3x: +33% de dégâts"
+      "description": "Matériau utilisé dans la fabrication d'armes.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   },
   "3582080006": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
-    }
-  },
-  "3592538738": {
-    "displayProperties": {
-      "tip": "Accorde +7,5 % d'énergie de capacité répartie également entre toutes les capacités non chargées."
-    }
-  },
-  "3643424744": {
-    "displayProperties": {
-      "tip": "Recharge le chargeur jusqu'à 2 fois sa capacité."
-    }
-  },
-  "3673922083": {
-    "displayProperties": {
-      "tip": "Dure 6 secondes. Accorde généralement +25% de dégâts (+20% pour les fusils à pompe et les arcs) et -20% de cadence de tir ou de temps de charge plus lent. Varie selon l'archétype."
-    }
-  },
-  "3700496672": {
-    "displayProperties": {
-      "tip": "Déclenche les avantages de ramassage de munitions."
-    }
-  },
-  "3824105627": {
-    "displayProperties": {
-      "tip": "Les éliminations de précision confèrent +45 Vitesse de rechargement pendant 6 secondes. Même rayon que la spec Libellule, mais inflige +25% de dégâts supplémentaires. Ne fonctionne pas avec la spec Libellule."
-    }
-  },
-  "3913600130": {
-    "displayProperties": {
-      "tip": "Dure 3 secondes.\n•  1x: 6% de dégâts\n•  2x: 12% de dégâts\n•  3x: 18% de dégâts\n•  4x: 24% de dégâts\n•  5x: 30% de dégâts"
-    }
-  },
-  "3927722942": {
-    "displayProperties": {
-      "tip": "Les roquettes explosent 3 secondes après l'impact et infligent +20 % de détonation supplémentaires.\n•  +25 rayon de l'explosion"
-    }
-  },
-  "4049631843": {
-    "displayProperties": {
-      "tip": "+35% de dégâts après avoir touché trois cibles distinctes à moins de 3 secondes d'intervalle"
-    }
-  },
-  "4071163871": {
-    "displayProperties": {
-      "tip": "\n•  À moins de 15 mètres d'un ennemi : +~15 Stabilité, +15 Vitesse de rechargement, +25% de vitesse d'animation du Maniement plus rapide.\n•  À moins de 15 m de 2+ ennemis : +~40 Stabilité, +55 Vitesse de rechargement et +43% plus rapide d'animation du Maniement."
-    }
-  },
-  "4082225868": {
-    "displayProperties": {
-      "tip": "Dure 4,5 secondes.\n•  1x: +6.6% de dégâts\n•  2x: +13.2% de dégâts\n•  3x: +20% de dégâts\n•  4x: +26.6% de dégâts\n•  5x: +33.3% de dégâts"
-    }
-  },
-  "4091000557": {
-    "displayProperties": {
-      "tip": "7.8% d'augmentation des dégâts aux combattants de rang mineur."
-    }
-  },
-  "4104185692": {
-    "displayProperties": {
-      "tip": "Être au combat pendant 12 secondes confère +15% d'augmentation des dégâts, +~50 Maniement et +50 Vitesse de rechargement. Dure jusqu'à ne plus être en combat. Être en combat, c'est avoir échangé ou reçu des dégâts dans les 5 secondes."
-    }
-  },
-  "4252909580": {
-    "displayProperties": {
-      "tip": "Lorsque vous êtes le dernier gardien en vie de votre équipe, les éliminations rafraîchissent complètement le chargeur.\n•  +30 Chargeur"
-    }
-  },
-  "4267945040": {
-    "displayProperties": {
-      "tip": "Augmente la cadence de tir de +10% sur les fusils à pompe uniquement."
     }
   },
   "23239861010": {
@@ -664,36 +194,6 @@
     "displayProperties": {
       "name": "Equipement de prestige (Faible)",
       "hasIcon": false
-    }
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
-    }
-  },
-  "163842160": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les dégâts et les avantages des projectiles.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les avantages de base des caractéristiques de l'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les traits de capacité.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les munitions et changer les avantages d'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "3491404510": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
     }
   }
 }
