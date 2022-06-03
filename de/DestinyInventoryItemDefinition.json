@@ -7,30 +7,6 @@
     "itemTypeDisplayName": "Unzureichende Freigabe",
     "redacted": true
   },
-  "163842160": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird, erforderlich, um Schaden- und Projektil-Perks anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um grundlegende Perks für Waffeneigenschaften anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um Fähigkeitsmerkmale anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird – erforderlich, um Munitions- und Nachladeperks anzupassen.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
-    },
-    "itemTypeDisplayName": "Material"
-  },
   "304443327": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Clans"
@@ -67,6 +43,12 @@
   "1858002338": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters."
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Erhöhte \"Herzschatten\"-Droprate",
+      "description": "Erhöht die Droprate des exotischen \"Herzschatten\"-Schwertes im \"Dualität\"-Dungeon."
     }
   },
   "2174060729": {

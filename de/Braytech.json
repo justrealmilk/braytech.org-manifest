@@ -203,6 +203,12 @@
       "description": "Zeige die Sammlung an Vermächtnis-Triumphen und -Siegeln"
     }
   },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Kurzzeitige Triumphe",
+      "description": "Nicht alle Triumphe existieren für immer – beeil dich oder sei für immer in der Zeit verloren."
+    }
+  },
   "sub-triumphs-seasonal-challenges": {
     "displayProperties": {
       "name": "Saisonale Herausforderungen",
@@ -323,10 +329,22 @@
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
     }
   },
+  "sub-weeklies-this-week": {
+    "displayProperties": {
+      "name": "Diese Woche",
+      "description": "Diese Woche in Destiny"
+    }
+  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Herausforderungen",
       "description": "Alle Aktivitäts-Herausforderungen"
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotationen",
+      "description": "Schau in die Bahnen verschiedenster Aktivitäten"
     }
   },
   "sub-inspect-equipment": {
