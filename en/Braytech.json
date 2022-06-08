@@ -96,6 +96,12 @@
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
+  "accurate-gear-power-average": {
+    "displayProperties": {
+      "name": "Gear Power",
+      "description": "The average Power level of your currently equipped armaments.\nFor an accurate value, your inventory is assessed. If your inventory is not public, you'll need to authenticate with Bungie.net."
+    }
+  },
   "commonality": {
     "displayProperties": {
       "name": "Commonality",
