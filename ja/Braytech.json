@@ -96,6 +96,12 @@
     },
     "itemTypeDisplayName": "Braytech支援者"
   },
+  "accurate-gear-power-average": {
+    "displayProperties": {
+      "name": "装備パワー",
+      "description": "現在装備しているアーマーの平均パワーレベルです。正確な値は、メニュー画面内で評価されます。所持品リストの公開を設定していない場合は、Bungie.netで認証する必要があります。"
+    }
+  },
   "commonality": {
     "displayProperties": {
       "name": "共通性",
