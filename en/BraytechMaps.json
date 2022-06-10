@@ -78,6 +78,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
   },
   "6": {
@@ -273,6 +276,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
   },
   "14": {
@@ -318,6 +324,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
   },
   "16": {
