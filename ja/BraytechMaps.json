@@ -180,40 +180,7 @@
   "10": {
     "displayProperties": {
       "name": "研がれ刃の砦",
-      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
-      "icon": "ascendant-challenge"
-    },
-    "typeHash": 2,
-    "destinationHash": 1416096592,
-    "bubbleHash": 27792021738,
-    "related": {
-      "records": [
-        {
-          "recordHash": 3136361071
-        }
-      ],
-      "checklists": [
-        {
-          "checklistId": 2609997025,
-          "checklistItems": [
-            1084474578,
-            1084474579,
-            1118029876,
-            1118029877,
-            1118029882
-          ]
-        },
-        {
-          "checklistId": 1297424116,
-          "checklistItems": [
-            1387596457
-          ]
-        }
-      ]
-    },
-    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-1.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vV6oWIgSsgU"
+      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ "
     }
   },
   "11": {
