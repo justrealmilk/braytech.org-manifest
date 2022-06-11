@@ -1,27 +1,17 @@
 {
-  "2032534090": {
-    "activityLightLevel": 750,
-    "activityTypeHash": 608898761,
-    "activityModeHashes": [608898761],
-    "directActivityModeHash": 608898761
-  },
-  "4148187374": {
-    "activityModeHashes": [608898761],
-    "directActivityModeHash": 608898761
-  },
-  "1077850348": {
-    "activityModeHashes": [608898761],
-    "directActivityModeHash": 608898761,    
-    "pgcrImage": "/img/destiny_content/pgcr/dungeon_prophecy.jpg"
-  },
   "82913930": {
     "displayProperties": {
       "description": "オービットで、ひどく壮絶な何かが計画されている"
     }
   },
-  "1738383283": {
-    "originalDisplayProperties": {
-      "name": "エキゾチック クエスト: ヘラルド"
+  "2393304349": {
+    "displayProperties": {
+      "name": "アイアンバナー: リフト"
+    }
+  },
+  "2965669871": {
+    "displayProperties": {
+      "name": "フリーランス: アイアンバナー: リフト"
     }
   }
 }
