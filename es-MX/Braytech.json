@@ -89,6 +89,12 @@
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
+  "accurate-gear-power-average": {
+    "displayProperties": {
+      "name": "Potencia del equipamiento",
+      "description": "El nivel de potencia medio de tu equipamiento actual.\nPara obtener un valor exacto, se evalúa tu inventario. Si tu inventario no es público, tendrás que autenticarte con Bungie.net."
+    }
+  },
   "commonality": {
     "displayProperties": {
       "name": "Rareza",
