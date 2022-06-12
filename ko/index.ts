@@ -12,18 +12,20 @@ import DestinyInventoryItemDefinition from '@Data/manifest/ko/DestinyInventoryIt
 import DestinySeasonDefinition from '@Data/manifest/ko/DestinySeasonDefinition.json';
 
 const ko = {
-  Braytech,
-  BraytechMaps,
-  BraytechMapsTypes,
-  DestinyActivityDefinition,
-  DestinyActivityModeDefinition,
-  DestinyActivityModifierDefinition,
-  DestinyDestinationDefinition,
-  DestinyEnemyRaceDefinition,
-  DestinyHistoricalStatsDefinition,
-  DestinyInventoryBucketDefinition,
-  DestinyInventoryItemDefinition,
-  DestinySeasonDefinition,
+  definitions: {
+    Braytech,
+    BraytechMaps,
+    BraytechMapsTypes,
+    DestinyActivityDefinition,
+    DestinyActivityModeDefinition,
+    DestinyActivityModifierDefinition,
+    DestinyDestinationDefinition,
+    DestinyEnemyRaceDefinition,
+    DestinyHistoricalStatsDefinition,
+    DestinyInventoryBucketDefinition,
+    DestinyInventoryItemDefinition,
+    DestinySeasonDefinition,
+  },
 };
 
 export default ko;

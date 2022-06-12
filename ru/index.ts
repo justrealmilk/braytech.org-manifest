@@ -14,20 +14,22 @@ import DestinyRecordDefinition from '@Data/manifest/ru/DestinyRecordDefinition.j
 import DestinySeasonDefinition from '@Data/manifest/ru/DestinySeasonDefinition.json';
 
 const ru = {
-  Braytech,
-  BraytechMaps,
-  BraytechMapsTypes,
-  DestinyActivityDefinition,
-  DestinyActivityModeDefinition,
-  DestinyActivityModifierDefinition,
-  DestinyCollectibleDefinition,
-  DestinyDestinationDefinition,
-  DestinyEnemyRaceDefinition,
-  DestinyHistoricalStatsDefinition,
-  DestinyInventoryBucketDefinition,
-  DestinyInventoryItemDefinition,
-  DestinyRecordDefinition,
-  DestinySeasonDefinition,
+  definitions: {
+    Braytech,
+    BraytechMaps,
+    BraytechMapsTypes,
+    DestinyActivityDefinition,
+    DestinyActivityModeDefinition,
+    DestinyActivityModifierDefinition,
+    DestinyCollectibleDefinition,
+    DestinyDestinationDefinition,
+    DestinyEnemyRaceDefinition,
+    DestinyHistoricalStatsDefinition,
+    DestinyInventoryBucketDefinition,
+    DestinyInventoryItemDefinition,
+    DestinyRecordDefinition,
+    DestinySeasonDefinition,
+  },
 };
 
 export default ru;

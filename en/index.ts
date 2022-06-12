@@ -20,28 +20,37 @@ import DestinySeasonDefinition from '@Data/manifest/en/DestinySeasonDefinition.j
 import DestinySocketCategoryDefinition from '@Data/manifest/en/DestinySocketCategoryDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en/DestinyTraitDefinition.json';
 
+import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/en/DestinyInventoryItemDefinitionColloquial.json';
+
 const en = {
-  Braytech,
-  BraytechMaps,
-  BraytechMapsTypes,
-  DestinyActivityDefinition,
-  DestinyActivityModeDefinition,
-  DestinyActivityModifierDefinition,
-  DestinyCollectibleDefinition,
-  DestinyDamageTypeDefinition,
-  DestinyDestinationDefinition,
-  DestinyEnemyRaceDefinition,
-  DestinyHistoricalStatsDefinition,
-  DestinyInventoryBucketDefinition,
-  DestinyInventoryItemDefinition,
-  DestinyMilestoneDefinition,
-  DestinyObjectiveDefinition,
-  DestinyPhaseDefinition,
-  DestinyPresentationNodeDefinition,
-  DestinyRecordDefinition,
-  DestinySeasonDefinition,
-  DestinySocketCategoryDefinition,
-  DestinyTraitDefinition,
+  definitions: {
+    Braytech,
+    BraytechMaps,
+    BraytechMapsTypes,
+    DestinyActivityDefinition,
+    DestinyActivityModeDefinition,
+    DestinyActivityModifierDefinition,
+    DestinyCollectibleDefinition,
+    DestinyDamageTypeDefinition,
+    DestinyDestinationDefinition,
+    DestinyEnemyRaceDefinition,
+    DestinyHistoricalStatsDefinition,
+    DestinyInventoryBucketDefinition,
+    DestinyInventoryItemDefinition,
+    DestinyMilestoneDefinition,
+    DestinyObjectiveDefinition,
+    DestinyPhaseDefinition,
+    DestinyPresentationNodeDefinition,
+    DestinyRecordDefinition,
+    DestinySeasonDefinition,
+    DestinySocketCategoryDefinition,
+    DestinyTraitDefinition,
+  },
+  optional: {
+    colloquialDefinitions: {
+      DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
+    },
+  },
 };
 
 export default en;
