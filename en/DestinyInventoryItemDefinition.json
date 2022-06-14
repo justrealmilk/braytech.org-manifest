@@ -29,9 +29,7 @@
     "inventory": {
       "tierTypeName": "Common"
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "372496383": {
     "displayProperties": {
@@ -42,9 +40,7 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "1190250163": {
     "displayProperties": {
@@ -65,9 +61,7 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience enormously."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "1808687944": {
     "displayProperties": {
@@ -78,9 +72,7 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "1950177353": {
     "displayProperties": {
@@ -92,17 +84,13 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "2250176030": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "2497395625": {
     "displayProperties": {
@@ -128,14 +116,10 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "3381471334": {
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "3491404510": {
     "displayProperties": {
@@ -150,9 +134,7 @@
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly."
     },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    "traitIds": ["item_type.experience"]
   },
   "23239861010": {
     "displayProperties": {
@@ -179,11 +161,7 @@
       "plugAvailability": 0
     },
     "perks": [],
-    "itemCategoryHashes": [
-      59,
-      945330047,
-      610365472
-    ],
+    "itemCategoryHashes": [59, 945330047, 610365472],
     "itemType": 19,
     "itemSubType": 0,
     "classType": 3,
@@ -197,5 +175,9 @@
       "name": "Pinnacle Gear (Weak)",
       "hasIcon": false
     }
+  },
+  "3487253372": {
+    "breakerType": 1,
+    "breakerTypeHash": 485622768
   }
 }
