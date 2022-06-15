@@ -66,12 +66,12 @@
       "description": "During the Consecrated Mind encounter, all players must refresh their Enlightened buff at approximately the same time. However, the team may be split up at different tethers."
     }
   },
-  "1250327262": {
+  "217815700": {
     "displayProperties": {
       "description": "Shuro Chi chase encounter: Guardians must not take damage from Shuro Chi's Arc Blast."
     }
   },
-  "1568895666": {
+  "1741733430": {
     "displayProperties": {
       "description": "Vault encounter: knights must be killed in the rooms they spawn in."
     }
@@ -106,7 +106,7 @@
       "description": "During the Templar encounter, prevent the Templar from teleporting at all costs."
     }
   },
-  "2836954349": {
+  "2834033523": {
     "displayProperties": {
       "description": "Kalli encounter: Cleanse all nine plates, kill all nine Knights, and kill all Ogres before damaging Kalli."
     }
@@ -131,12 +131,12 @@
       "description": "During the Caretaker encounter, only one symbol energy charge may be carried at a time per Guardian."
     }
   },
-  "3871581136": {
+  "3632655552": {
     "displayProperties": {
       "description": "Morgeth encounter: don't kill smol ogres, only kill big boi."
     }
   },
-  "4007940282": {
+  "1498263100": {
     "displayProperties": {
       "description": "Riven encounter: Guardians must not shoot the same eye twice."
     }
