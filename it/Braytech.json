@@ -96,6 +96,12 @@
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
+  "accurate-gear-power-average": {
+    "displayProperties": {
+      "name": "Potere equipaggiamento",
+      "description": "Il livello di Potere medio del tuo equipaggiamento attuale.\nTutto il tuo inventario verrà valutato per ottenere un valore accurato. Nel caso il tuo inventario non sia pubblico, dovrai autenticarti con Bungie.net."
+    }
+  },
   "commonality": {
     "displayProperties": {
       "name": "Rarità",
