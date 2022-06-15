@@ -1,0 +1,112 @@
+{
+  "191124900": {
+    "displayProperties": {
+      "description": "🦘 [REDACTED]"
+    }
+  },
+  "201968501": {
+    "displayProperties": {
+      "description": "不使用氣閘室清除複製BUFF"
+    }
+  },
+  "274420331": {
+    "displayProperties": {
+      "description": "🦘 During the Oracles encounter, no Guardian may shoot the same oracle. Rotate positions."
+    }
+  },
+  "584466411": {
+    "displayProperties": {
+      "description": "完成神聖心靈遭遇戰而沒有在BOSS Harpy面前殺死任何壹只獨眼巨人. 而在其他區域中的獨眼巨人, 可在最後沖刺的時候被殺死."
+    }
+  },
+  "787678752": {
+    "displayProperties": {
+      "description": "During the Consecrated Mind encounter, all players must refresh their Enlightened buff at approximately the same time. However, the team may be split up at different tethers."
+    }
+  },
+  "1250327262": {
+    "displayProperties": {
+      "description": "秋露·知追逐關: 守護者們不能受到秋露·知的電能爆發的傷害."
+    }
+  },
+  "1568895666": {
+    "displayProperties": {
+      "description": "保險庫關: 騎士必須在刷新的房間內被擊殺."
+    }
+  },
+  "1572570117": {
+    "displayProperties": {
+      "description": "🦘 During the Atheon encounter, each Guardian may only destroy one Oracle per set. As such, the Aegis wielder will need to partake."
+    }
+  },
+  "2098788044": {
+    "displayProperties": {
+      "description": "🦘 During the Dominion encounter, the primary crux may only be destroyed once per glyphs phase."
+    }
+  },
+  "2255984700": {
+    "displayProperties": {
+      "description": "🦘 Throughout the Exhibition encounter, each Guardian may only defeat one Disciple's Hourglass. Choose one to skip."
+    }
+  },
+  "2626004713": {
+    "displayProperties": {
+      "description": "擊殺成聖心智階段每次都必須存入 10 個熒光  "
+    }
+  },
+  "2672226122": {
+    "displayProperties": {
+      "description": "🦘 For the duration of the Acquisition encounter, each wave of [Stagger] Unstoppable Champions must be defeated within 5 seconds of one another or not at all."
+    }
+  },
+  "2814846409": {
+    "displayProperties": {
+      "description": "🦘 During the Templar encounter, prevent the Templar from teleporting at all costs."
+    }
+  },
+  "2836954349": {
+    "displayProperties": {
+      "description": "卡麗關: 凈化全部九個臺子, 擊殺所有九個騎士, 並且在輸出卡麗之前擊殺所有巨魔."
+    }
+  },
+  "3135466059": {
+    "displayProperties": {
+      "description": "🦘 During the confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux."
+    }
+  },
+  "3212721586": {
+    "displayProperties": {
+      "description": "🦘 During the Gatekeeper encounter, destroy the Praetorian Minotaur and Wyvern simultaneously."
+    }
+  },
+  "3361897360": {
+    "displayProperties": {
+      "description": "🦘 [REDACTED]"
+    }
+  },
+  "3425521520": {
+    "displayProperties": {
+      "description": "🦘 During the Caretaker encounter, only one symbol energy charge may be carried at a time per Guardian."
+    }
+  },
+  "3871581136": {
+    "displayProperties": {
+      "description": "摩格斯關: 不要擊殺小巨魔, 只殺大格格."
+    }
+  },
+  "4007940282": {
+    "displayProperties": {
+      "description": "瑞文關: 守護者們不能射擊同壹只眼兩次."
+    }
+  },
+  "4023623132": {
+    "displayProperties": {
+      "description": "🦘 [REDACTED]"
+    }
+  },
+  "4073197101": {
+    "displayProperties": {
+      "description": "During the Sanctified Mind encounter, bank 30 motes at each Vex relay. At each relay, all 30 motes must be deposited within 10 seconds of one another."
+    }
+  }
+}

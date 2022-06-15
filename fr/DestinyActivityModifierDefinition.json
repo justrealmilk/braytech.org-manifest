@@ -1,28 +1,4 @@
 {
-  "3847906370": {
-    "displayProperties": {
-      "name": "Les Jardins des Délices",
-      "description": "Sentez les roses, Gardien ... Nourrissez mes animaux affamés ... Ou engrossez vous de leur chair!"
-    }
-  },
-  "2188993306": {
-    "displayProperties": {
-      "name": "Les bassins royaux",
-      "description": "Baignez-vous avec mes fidèles dans les bains! Imprégnez-vous des rayons excitants de ces étoiles binaires!"
-    }
-  },
-  "1431486395": {
-    "displayProperties": {
-      "name": "Le cirque",
-      "description": "Démontrez votre ténacité pour le jeu et prouvez votre valeur, Ombre."
-    }
-  },
-  "4231923662": {
-    "displayProperties": {
-      "name": "Le trône",
-      "description": "VENEZ - Je vais vous féliciter personnellement ..."
-    }
-  },
   "25589576690": {
     "displayProperties": {
       "name": "Boucliers solaires",
@@ -63,6 +39,116 @@
     "displayProperties": {
       "name": "Boucliers solaires, cryo et abyssaux",
       "description": "Cette activité contient des boucliers solaires, cryo et abyssaux"
+    }
+  },
+  "191124900": {
+    "displayProperties": {
+      "description": "Taniks : Poser les quatres bombes nucléaires en une seule phase."
+    }
+  },
+  "201968501": {
+    "displayProperties": {
+      "description": "La Descente : Chaque joueur doit prendre un rôle (Opérateur, Scanneur, et Suppresseur) au moins une fois."
+    }
+  },
+  "274420331": {
+    "displayProperties": {
+      "description": "Lors de la rencontre avec les Oracles, aucun Gardien ne peut tirer sur le même oracle. Faites pivoter les positions."
+    }
+  },
+  "584466411": {
+    "displayProperties": {
+      "description": "Terminez l'étape de l'Esprit Consacré sans tuer aucun cyclope qui apparaît en présence du boss Harpie. Les cyclopes qui apparaissent dans d'autres zones et pendant le sprint final peuvent être tués."
+    }
+  },
+  "787678752": {
+    "displayProperties": {
+      "description": "Au cours de l'étape de l'invocation de l'Esprit Consacré, tous les joueurs doivent actualiser leur buff Illumination à peu près en même temps. Cependant, l'équipe peut être divisée à différentes attaches."
+    }
+  },
+  "1250327262": {
+    "displayProperties": {
+      "description": "Shuro Chi : Les Gardiens ne doivent pas prendre de dégâts de l'explosion cryo-électrique de la Sorcière."
+    }
+  },
+  "1568895666": {
+    "displayProperties": {
+      "description": "Caveau : Les Chevaliers doivent être tués dans les salles où ils apparaissent."
+    }
+  },
+  "1572570117": {
+    "displayProperties": {
+      "description": "Lors de la rencontre avec Atheon, chaque Gardien ne peut détruire qu'un seul Oracle par ensemble. En tant que tel, le porteur de bouclier d'Aegis devra participer."
+    }
+  },
+  "2098788044": {
+    "displayProperties": {
+      "description": "🦘 During the Dominion encounter, the primary crux may only be destroyed once per glyphs phase."
+    }
+  },
+  "2255984700": {
+    "displayProperties": {
+      "description": "🦘 Throughout the Exhibition encounter, each Guardian may only defeat one Disciple's Hourglass. Choose one to skip."
+    }
+  },
+  "2626004713": {
+    "displayProperties": {
+      "description": "Doit toujours déposer 10 motes à tout moment pendant l'étape de l'Esprit Consacré."
+    }
+  },
+  "2672226122": {
+    "displayProperties": {
+      "description": "🦘 For the duration of the Acquisition encounter, each wave of [Stagger] Unstoppable Champions must be defeated within 5 seconds of one another or not at all."
+    }
+  },
+  "2814846409": {
+    "displayProperties": {
+      "description": "Pendant la rencontre avec le Templier, empêchez le Templier de se téléporter à tout prix."
+    }
+  },
+  "2836954349": {
+    "displayProperties": {
+      "description": "Rencontre de Kalli : Nettoyez toutes les plaques, tuer tous les Chevaliers et tuer tous les Ogres avant la phase de DPS."
+    }
+  },
+  "3135466059": {
+    "displayProperties": {
+      "description": "Pendant la rencontre avec les conflux, détruisez les Wyvernes uniquement pendant qu'elles se sacrifient contre un conflux."
+    }
+  },
+  "3212721586": {
+    "displayProperties": {
+      "description": "Lors de la rencontre avec le gardien des clés, détruisez simultanément le minotaure prétorien et la wyverne."
+    }
+  },
+  "3361897360": {
+    "displayProperties": {
+      "description": "Atraks-1 : Ne jamais envoyer une âme d'Atraks-1 dans un sas"
+    }
+  },
+  "3425521520": {
+    "displayProperties": {
+      "description": "🦘 During the Caretaker encounter, only one symbol energy charge may be carried at a time per Guardian."
+    }
+  },
+  "3871581136": {
+    "displayProperties": {
+      "description": "Morgeth : Ne tuer aucun ogre omis le boss."
+    }
+  },
+  "4007940282": {
+    "displayProperties": {
+      "description": "Riven : Les Gardiens ne peuvent tirer sur le même œil deux fois."
+    }
+  },
+  "4023623132": {
+    "displayProperties": {
+      "description": "Sécurité de la Crypte : Terminer la rencontre avec tous les membres de l'escouade devenant un Opérateur au moins une fois et tirer au moins deux panneaux du rez-de-chaussée."
+    }
+  },
+  "4073197101": {
+    "displayProperties": {
+      "description": "Pendant le raid de l'Esprit Sanctifié, accumulez 30 particules à chaque relais Vex. À chaque relais, les 30 particules doivent être déposées dans les 10 secondes les unes des autres."
     }
   }
 }

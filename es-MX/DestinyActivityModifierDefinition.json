@@ -1,28 +1,4 @@
 {
-  "3847906370": {
-    "displayProperties": {
-      "name": "Jardines de Placer",
-      "description": "Huele las rosas, Guardián... Alimenta a mis hambrientas mascotas... ¡O engorda con su carne!"
-    }
-  },
-  "2188993306": {
-    "displayProperties": {
-      "name": "Estanques Reales",
-      "description": "¡Báñate con mis lealistas en sus estanques! ¡Disfruta los rayos estimulantes que emiten estas estrellas binarias!"
-    }
-  },
-  "1431486395": {
-    "displayProperties": {
-      "name": "El agón",
-      "description": "Demuestra tu tenacidad para el juego, y prueba tu valía, Sombra."
-    }
-  },
-  "4231923662": {
-    "displayProperties": {
-      "name": "El Trono",
-      "description": "VEN, debo felicitarte... en persona."
-    }
-  },
   "25589576690": {
     "displayProperties": {
       "name": "Escudos solares",
@@ -39,6 +15,116 @@
     "displayProperties": {
       "name": "Escudos de vacío",
       "description": "Esta actividad tiene escudos de vacío"
+    }
+  },
+  "191124900": {
+    "displayProperties": {
+      "description": "Durante el encuentro final, antes de cada fase de daño, rompe los cuatro propulsores de Taniks."
+    }
+  },
+  "201968501": {
+    "displayProperties": {
+      "description": "Durante el encuentro del Descenso, todos los Guardianes deben equipar cada aumento una vez. Esperad a que se desactive el aumento antes de proceder al intercambio. Jugad en parejas, imitando la ronda del líder."
+    }
+  },
+  "274420331": {
+    "displayProperties": {
+      "description": "Durante el encuentro de los Oráculos, ningún Guardián puede volver a disparar a un mismo oráculo. Rotad posiciones."
+    }
+  },
+  "584466411": {
+    "displayProperties": {
+      "description": "Completa el encuentro de la Mente consagrada sin matar a los cíclopes que aparezcan en presencia de la arpía jefe. Los cíclopes que aparezcan en otras zonas, y durante el esprint final, se pueden matar."
+    }
+  },
+  "787678752": {
+    "displayProperties": {
+      "description": "Durante el encuentro de la Mente consagrada, todos los jugadores deben refrescar su bufo de Iluminado aproximadamente al mismo tiempo. Sin embargo, el equipo puede estar dividido en diferentes sogas."
+    }
+  },
+  "1250327262": {
+    "displayProperties": {
+      "description": "Encuentro de Shuro Chi: los Guardianes no deben recibir daño de la ráfaga de arco de Shuro Chi."
+    }
+  },
+  "1568895666": {
+    "displayProperties": {
+      "description": "Encuentro del Depósito: los caballeros deben ser asesinados en las habitaciones en las que aparecen."
+    }
+  },
+  "1572570117": {
+    "displayProperties": {
+      "description": "Durante el encuentro de Atheon, cada Guardián debe destruir un solo oráculo por turno. Por lo tanto, el portador de la Égida tendrá que intervenir."
+    }
+  },
+  "2098788044": {
+    "displayProperties": {
+      "description": "Durante el encuentro en Dominio, el obelisco principal solo puede ser destruido una vez por fase de glifos."
+    }
+  },
+  "2255984700": {
+    "displayProperties": {
+      "description": "Durante el encuentro en Exhibición, cada Guardián solo puede derrotar a un Reloj de arena del discípulo. Elige uno para saltárselo."
+    }
+  },
+  "2626004713": {
+    "displayProperties": {
+      "description": "Debes depositar 10 motas cada vez durante el encuentro de la Mente consagrada."
+    }
+  },
+  "2672226122": {
+    "displayProperties": {
+      "description": "Durante el encuentro en Adquisición, cada oleada de campeones [Stagger] Imparables debe ser derrotada en un intervalo de 5 segundos o no ser derrotada."
+    }
+  },
+  "2814846409": {
+    "displayProperties": {
+      "description": "Durante el encuentro del Templario, evita a toda costa que el Templario se teletransporte."
+    }
+  },
+  "2836954349": {
+    "displayProperties": {
+      "description": "Encuentro de Kalli: limpia las nueve placas, mata a los nueve Caballeros y mata a todos los Ogros antes de dañar a Kalli."
+    }
+  },
+  "3135466059": {
+    "displayProperties": {
+      "description": "Durante el encuentro de las Confluencias, destruye a los guivernos únicamente mientras se están sacrificando en una confluencia."
+    }
+  },
+  "3212721586": {
+    "displayProperties": {
+      "description": "Durante el encuentro de los Custodios, destruye el minotauro pretoriano y el guiverno simultáneamente."
+    }
+  },
+  "3361897360": {
+    "displayProperties": {
+      "description": "No uses esclusas de aire para lanzar al espacio las réplicas de Atraks-1."
+    }
+  },
+  "3425521520": {
+    "displayProperties": {
+      "description": "Durante el encuentro con el Cuidador, solo se puede llevar una carga de símbolo a la vez por Guardián."
+    }
+  },
+  "3871581136": {
+    "displayProperties": {
+      "description": "Encuentro de Morgeth: no mates a los ogros pequeños, solo al grande"
+    }
+  },
+  "4007940282": {
+    "displayProperties": {
+      "description": "Encuentro de Riven: los Guardianes no deben disparar al mismo ojo dos veces."
+    }
+  },
+  "4023623132": {
+    "displayProperties": {
+      "description": "Desactiva la seguridad de la cripta mientras pasas el aumento del operador a todos los miembros de la escuadra. Cada Operador debe activar dos paneles cada uno a lo largo de tres fases de daño."
+    }
+  },
+  "4073197101": {
+    "displayProperties": {
+      "description": "Durante el encuentro de la Mente santificada, deposita 30 motas en ambos transmisores Vex. En cada transmisor, las 30 motas deben ser depositadas dentro de un plazo de 10 segundos."
     }
   }
 }
