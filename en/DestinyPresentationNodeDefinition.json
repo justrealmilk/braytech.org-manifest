@@ -73,5 +73,47 @@
       "craftables": []
     },
     "redacted": false
+  },
+  "1000000004": {
+    "hash": 1000000004,
+    "displayProperties": {
+      "name": "All Triumphs"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000005": {
+    "hash": 1000000005,
+    "displayProperties": {
+      "name": "All Challenges"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000006": {
+    "hash": 1000000006,
+    "displayProperties": {
+      "name": "All Patterns"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
   }
 }
