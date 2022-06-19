@@ -204,6 +204,12 @@
       "description": "This activity was finished in the contest mode window: triumph under extraordinary circumstance and pressure"
     }
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "Delete Loadout",
+      "description": "Delete this loadout. This action is permanent."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
