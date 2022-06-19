@@ -324,6 +324,12 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "Loadouts",
+      "description": "Preconfigure your equipment, strap it up, and name it"
+    }
+  },
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carnage",
