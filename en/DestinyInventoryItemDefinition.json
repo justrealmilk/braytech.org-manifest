@@ -7,6 +7,14 @@
     "itemTypeDisplayName": "Insufficient Clearance",
     "redacted": true
   },
+  "1": {
+    "displayProperties": {
+      "name": "Unknown",
+      "description": "The item you're looking for does not exist."
+    },
+    "itemTypeDisplayName": "Missing Item",
+    "displaySource": "I hate to say it, but it looks like the system you're searching for doesn't exist.\nThat's impossible. Perhaps the archives are incomplete.\nThe archives are comprehensive and totally secure, my young Jedi. One thing you may be absolutely sure of - if an item does not appear in our records, it does not exist!"
+  },
   "176055472": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
