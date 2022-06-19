@@ -204,6 +204,12 @@
       "description": "Questa attività è stata completata durante il periodo della modalità contesa: trionfa sotto pressione e in circostanze straordinarie"
     }
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "Elimina loadout",
+      "description": "Elimina questo loadout. Questa azione è permanente."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
@@ -316,6 +322,12 @@
     "displayProperties": {
       "name": "Mercanti",
       "description": "Spia i tuoi deleganti di attività e compagni di scambi preferiti"
+    }
+  },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "Loadout",
+      "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnagli un nome"
     }
   },
   "sub-activity-carnage": {

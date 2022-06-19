@@ -6,6 +6,14 @@
     },
     "itemTypeDisplayName": "Informazioni insufficienti"
   },
+  "1": {
+    "displayProperties": {
+      "name": "Sconosciuto",
+      "description": "L'oggetto che stai cercando non esiste."
+    },
+    "itemTypeDisplayName": "Oggetto mancante",
+    "displaySource": "Mi dispiace dirlo, ma sembra che il sistema che stai cercando non esista.\nÈ impossibile. Forse gli archivi sono incompleti.\nMa gli archivi sono completi e totalmente sicuri, mio giovane Jedi. Se c'è una cosa di cui potresti essere assolutamente sicuro, è proprio questa: se un oggetto non compare nei nostri archivi, allora non esiste!"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo clan"
