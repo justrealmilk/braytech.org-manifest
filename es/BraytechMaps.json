@@ -153,7 +153,7 @@
       "description": "A través del muro de ladrillo."
     }
   },
-   "109": {
+  "109": {
     "displayProperties": {
       "description": "Congelado en un bloque de hielo. Encuentra a un _Capitán caído_ cerca de los elevadores del _Camino Renacimiento de Riis_ llamado _Ferkis, Borrasca de la Salvación_—él soltará lo que necesitas."
     }
@@ -257,11 +257,6 @@
   "301": {
     "displayProperties": {
       "description": "Colocado en medio de la pared del _Bosque Infinito_."
-    }
-  },
-  "305": {
-    "displayProperties": {
-      "description": "Sobre las estanterías."
     }
   },
   "596": {

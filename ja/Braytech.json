@@ -338,12 +338,6 @@
       "description": "最も危険な状況下での勝利、最大の敵に対するファイアチームでの初勝利レポート。"
     }
   },
-  "sub-weeklies-cycles": {
-    "displayProperties": {
-      "name": "今週のDestiny2",
-      "description": "今週のアクティビティ"
-    }
-  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
