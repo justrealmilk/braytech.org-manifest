@@ -329,6 +329,12 @@
       "description": "Tous les défis de l'activité"
     }
   },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Cycles",
+      "description": "Activités et cycles clés"
+    }
+  },
   "sub-inspect-equipment": {
     "displayProperties": {
       "name": "Emplacements",
