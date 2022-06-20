@@ -4,5 +4,20 @@
       "name": "Trionfi transitori",
       "description": "Non tutti i trionfi sono immortali. Alcuni sono disponibili solo per un tempo limitato. Questo è un elenco di trionfi che non saranno più disponibili a partire dall'inizio della prossima stagione ed è mantenuta manualmente dallo sviluppatore."
     }
+  },
+  "1000000004": {
+    "displayProperties": {
+      "name": "Tutti i trionfi"
+    }
+  },
+  "1000000005": {
+    "displayProperties": {
+      "name": "Tutte le sfide"
+    }
+  },
+  "1000000006": {
+    "displayProperties": {
+      "name": "Tutti i modelli"
+    }
   }
 }
