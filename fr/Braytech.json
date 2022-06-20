@@ -323,16 +323,16 @@
       "description": "Triomphes dans les conditions les plus périlleuses, compte-rendu des premières victoires de vos escouades contre nos plus grands adversaires"
     }
   },
-  "sub-weeklies-cycles": {
-    "displayProperties": {
-      "name": "Cycles",
-      "description": "Activités et cycles clés"
-    }
-  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Défis",
       "description": "Tous les défis de l'activité"
+    }
+  },
+  "sub-weeklies-rotations": {
+    "displayProperties": {
+      "name": "Cycles",
+      "description": "Activités et cycles clés"
     }
   },
   "sub-inspect-equipment": {

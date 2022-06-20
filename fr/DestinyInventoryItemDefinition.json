@@ -4,43 +4,7 @@
       "name": "Classifié",
       "description": "Garde le propre."
     },
-    "itemTypeDisplayName": "Dégagement insuffisant",
-    "redacted": true
-  },
-  "163842160": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les dégâts et les avantages des projectiles.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842161": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les avantages de base des caractéristiques de l'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842162": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les traits de capacité.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "163842163": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes, nécessaire pour ajuster les munitions et changer les avantages d'arme.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
-  },
-  "176055472": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "247000308": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "256080248": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
+    "itemTypeDisplayName": "Dégagement insuffisant"
   },
   "304443327": {
     "displayProperties": {
@@ -63,16 +27,6 @@
   "1190250163": {
     "displayProperties": {
       "description": "Matériel Synthécorde qui peut être converti en Synthéfibre en utilisant le métier à tisser."
-    }
-  },
-  "1387420892": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "1572351682": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
     }
   },
   "1711513650": {
@@ -105,21 +59,6 @@
       "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
     }
   },
-  "2679019194": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "2686128774": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
-  "2850782006": {
-    "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
@@ -141,59 +80,13 @@
       "name": "Emplacement de pièce maîtresse vide"
     },
     "itemTypeDisplayName": "Mod de marchand",
-    "tooltipStyle": "vendor_action",
     "inventory": {
-      "maxStackSize": 1000,
-      "bucketTypeHash": 2422292810,
-      "recoveryBucketTypeHash": 0,
-      "tierTypeHash": 3340296461,
-      "isInstanceItem": false,
-      "nonTransferrableOriginal": false,
-      "tierTypeName": "Commun",
-      "tierType": 2,
-      "expirationTooltip": "",
-      "expiredInActivityMessage": "",
-      "expiredInOrbitMessage": "",
-      "suppressExpirationWhenObjectivesComplete": true
-    },
-    "plug": {
-      "insertionRules": [],
-      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
-      "plugCategoryHash": 3945646995,
-      "onActionRecreateSelf": false,
-      "actionRewardSiteHash": 0,
-      "actionRewardItemOverrideHash": 0,
-      "insertionMaterialRequirementHash": 0,
-      "previewItemOverrideHash": 0,
-      "enabledMaterialRequirementHash": 0,
-      "enabledRules": [],
-      "uiPlugLabel": "",
-      "plugStyle": 0,
-      "plugAvailability": 0,
-      "alternateUiPlugLabel": "",
-      "alternatePlugStyle": 0,
-      "isDummyPlug": false
-    },
-    "perks": [],
-    "itemCategoryHashes": [
-      59,
-      945330047,
-      610365472
-    ],
-    "specialItemType": 0,
-    "itemType": 19,
-    "itemSubType": 0,
-    "classType": 3,
-    "breakerType": 0,
-    "equippable": false,
-    "defaultDamageType": 0,
-    "hash": 23239861010,
-    "redacted": false
+      "tierTypeName": "Commun"
+    }
   },
   "73143230001": {
     "displayProperties": {
-      "name": "Equipement de prestige (Faible)",
-      "hasIcon": false
+      "name": "Equipement de prestige (Faible)"
     }
   }
 }

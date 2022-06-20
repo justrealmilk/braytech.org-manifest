@@ -95,42 +95,6 @@
       "description": "ELO 점수는 서드파티 웹사이트인 _Destiny Tracker_ 에서 제공됩니다. _Destiny Tracker_ 는 _시련의 장_ 및 _갬빗_ 활동에 참여하는 모든 데스티니 플레이어에 대한 Elo 점수를 제공합니다."
     }
   },
-  "braytech_purple_rune": {
-    "displayProperties": {
-      "description": "보라색 룬. 보라색 룬에 해당하는 항목: 기쁨의 룬, 짐승의 룬, 환희의 룬.",
-      "name": "보라색 룬"
-    }
-  },
-  "braytech_red_rune": {
-    "displayProperties": {
-      "description": "빨간색 룬. 빨간색 룬에 해당하는 항목: 교활의 룬, 대식가의 룬, 야망의 룬.",
-      "name": "빨간색 룬"
-    }
-  },
-  "braytech_green_rune": {
-    "displayProperties": {
-      "description": "초록색 룬. 초록색 룬에 해당하는 항목: 전쟁의 룬, 욕망의 룬, 자존심의 룬.",
-      "name": "초록색 룬"
-    }
-  },
-  "braytech_blue_rune": {
-    "displayProperties": {
-      "description": "파란색 룬. 파란색 룬에 해당하는 항목: 쾌락의 룬, 과음의 룬, 부의 룬.",
-      "name": "파란색 룬"
-    }
-  },
-  "braytech_no_rune": {
-    "displayProperties": {
-      "description": "이 슬롯에 룬을 장착하세요",
-      "name": "빈 슬롯"
-    }
-  },
-  "braytech_remove_rune": {
-    "displayProperties": {
-      "description": "이 슬롯에서 룬을 제거합니다",
-      "name": "빈 슬롯"
-    }
-  },
   "latent-memories": {
     "displayProperties": {
       "name": "잠재 기억",
