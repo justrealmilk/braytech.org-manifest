@@ -19,6 +19,8 @@ import DestinyRecordDefinition from '@Data/manifest/it/DestinyRecordDefinition.j
 import DestinySeasonDefinition from '@Data/manifest/it/DestinySeasonDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/it/DestinyTraitDefinition.json';
 
+import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/it/DestinyInventoryItemDefinitionColloquial.json';
+
 const it = {
   definitions: {
     Braytech,
@@ -41,6 +43,11 @@ const it = {
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinyTraitDefinition,
+  },
+  optional: {
+    colloquialDefinitions: {
+      DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
+    },
   },
 };
 
