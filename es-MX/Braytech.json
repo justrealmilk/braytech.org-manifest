@@ -197,6 +197,12 @@
       "description": "Esta actividad se completó dentro del plazo durante el modo competición: un triunfo en circunstancias extraordinarias y bajo presión."
     }
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "Borrar equipación",
+      "description": "Elimina esta equipación. Esta acción es permanente."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triunfos y Sellos activos",
@@ -309,6 +315,12 @@
     "displayProperties": {
       "name": "Comerciantes",
       "description": "Espía a tus delegantes de tareas y socios comerciales favoritos."
+    }
+  },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "Equipaciones",
+      "description": "Preconfigura tu equipamiento, fíjalo y ponle un nombre."
     }
   },
   "sub-activity-carnage": {
