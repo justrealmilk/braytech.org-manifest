@@ -158,6 +158,11 @@
       "description": "Congelato in un blocco di ghiaccio. Trova un _capitano caduto_ nei pressi degli ascensori dell'_Accesso a Neo-Riis_ chiamato _Ferkis, Fragore della Salvezza_—ti lascierà ciò di cui hai bisogno."
     }
   },
+  "127": {
+    "displayProperties": {
+      "description": "Sotto il ghiaccio."
+    }
+  },
   "182": {
     "displayProperties": {
       "description": "Dopo aver completato il settore perduto, procedi verso l'uscita e troverai il soggetto sulla via."
@@ -211,6 +216,21 @@
   "227": {
     "displayProperties": {
       "description": "Nelle _Gallerie della Desperazione_, su una sporgenza di scogliera adiacente alla fossa di gas verde."
+    }
+  },
+  "258": {
+    "displayProperties": {
+      "description": "Accessibile tramite l'offensiva _Sorgente_."
+    }
+  },
+  "259": {
+    "displayProperties": {
+      "description": "Richiede _Vista profonda_ per essere rivelata."
+    }
+  },
+  "260": {
+    "displayProperties": {
+      "description": "Accessibile tramite le attività _Altare della Riflessione_."
     }
   },
   "278": {
@@ -318,6 +338,288 @@
   "2000000108": {
     "displayProperties": {
       "name": "Pulizia strade"
+    }
+  },
+  "2000000163": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000164": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000165": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000168": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000169": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000170": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000176": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000177": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000180": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000181": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000186": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000187": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000188": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000189": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000190": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000191": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000192": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000193": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000195": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000196": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000197": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000198": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000199": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000200": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000201": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000202": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000203": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000204": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000231": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000232": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000233": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000234": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000235": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000236": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000237": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000238": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000239": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000240": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000241": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000242": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000243": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000244": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000245": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000246": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000247": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000248": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
+    }
+  },
+  "2000000249": {
+    "displayProperties": {
+      "name": "Casuale",
+      "description": "Questo faro può trasmettere vari obiettivi."
     }
   },
   "2000000251": {
