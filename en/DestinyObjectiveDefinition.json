@@ -20,9 +20,6 @@
   "1734176373": {
     "progressDescription": "Gambit matches completed"
   },
-  "1283234589": {
-    "progressDescription": "\"Pit of Heresy\" dungeon completed"
-  },
   "3243082817": {
     "progressDescription": "\"Grasp of Avarice\" dungeon completed"
   },
@@ -39,10 +36,10 @@
     "progressDescription": "\"Vow of the Disciple\" raid completed"
   },
   "1948254616": {
-    "progressDescription": "Dares of Eternity activities completed"
+    "progressDescription": "\"Dares of Eternity\" activities completed"
   },
   "1205559531": {
-    "progressDescription": "Dares of Eternity completed with a score of {var:3648290880} or higher"
+    "progressDescription": "\"Dares of Eternity\" completed with a score of {var:3648290880} or higher"
   },
   "4140117227": {
     "progressDescription": "Vanguard bounties completed"
@@ -72,7 +69,7 @@
     "progressDescription": "Defeat powerful combatants in the \"Vox Obscura\" quest"
   },
   "2395957698": {
-    "progressDescription": "Wellspring completed on \"Master\" difficulty"
+    "progressDescription": "\"Wellspring\" completed on master difficulty"
   },
   "355099864": {
     "progressDescription": "Weekly Campaign mission completed"
@@ -97,5 +94,29 @@
   },
   "950967025": {
     "progressDescription": "Sever: Nightmare defeated"
+  },
+  "897950155": {
+    "progressDescription": "\"Last Wish\" rotator raid completed"
+  },
+  "2398860795": {
+    "progressDescription": "\"Garden of Salvation\" rotator raid completed"
+  },
+  "3180884403": {
+    "progressDescription": "\"Vault of Glass\" rotator raid completed"
+  },
+  "3826130187": {
+    "progressDescription": "\"Deep Stone Crypt\" rotator raid completed"
+  },
+  "2039792527": {
+    "progressDescription": "\"Prophecy\" rotator dungeon completed"
+  },
+  "1283234589": {
+    "progressDescription": "\"Pit of Heresy\" rotator dungeon completed"
+  },
+  "1288508599": {
+    "progressDescription": "\"Grasp of Avarice\" rotator dungeon completed"
+  },
+  "3838169295": {
+    "progressDescription": "\"Shattered Throne\" rotator dungeon completed"
   }
 }
