@@ -2347,19 +2347,31 @@
   },
   "464": {
     "checklistHash": 2700275579,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "465": {
     "checklistHash": 633083132,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "466": {
     "checklistHash": 1105312397,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "467": {
     "checklistHash": 2326920926,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "468": {
     "checklistHash": 1067696998,
@@ -2427,11 +2439,17 @@
   },
   "476": {
     "checklistHash": 3986286066,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "477": {
     "checklistHash": 216809093,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "478": {
     "checklistHash": 3162697940,
@@ -2442,20 +2460,30 @@
           "x": 69,
           "y": 70
         }
-      }
+      },
+      "untracked": true
     }
   },
   "479": {
     "checklistHash": 2357751383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "480": {
     "checklistHash": 2576690974,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "481": {
     "checklistHash": 1109476065,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "482": {
     "checklistHash": 1007922574,
@@ -2466,7 +2494,8 @@
           "x": 50,
           "y": 67
         }
-      }
+      },
+      "untracked": true
     }
   },
   "483": {
@@ -2478,7 +2507,8 @@
           "x": 50,
           "y": 65
         }
-      }
+      },
+      "untracked": true
     }
   },
   "484": {
@@ -2490,7 +2520,8 @@
           "x": 50,
           "y": 54
         }
-      }
+      },
+      "untracked": true
     }
   },
   "485": {
