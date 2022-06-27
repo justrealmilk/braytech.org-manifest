@@ -107,40 +107,34 @@
       "description": "El valor en puntos de este triunfo."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Valor en puntos",
       "description": "El valor de los puntos restantes de este triunfo (suma de los pasos restantes)."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Pasos del triunfo",
       "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntuación variados."
     }
   },
-  "legacy_triumph_score": {
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "Puntuación de triunfos de legado",
       "description": "Puntuación total de triunfos de legado completados."
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Puntuación global de triunfos",
       "description": "Una combinación de la puntuación de todos los triunfos completados, activos y de legado."
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "Puntuación de triunfos activos",
       "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en triunfos de legado."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Enlazado al personaje",
-      "description": "Estos elementos están vinculados a un personaje. Esto significa que cada personaje los descubre individualmente."
     }
   },
   "coverage": {
@@ -149,19 +143,19 @@
       "description": "La cobertura de esta traducción se representa en forma de porcentaje."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Reinicios totales",
       "description": "Los reinicios de todas las temporadas. Se cuenta a partir de la Temporada 4."
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "Bonificación de Potencia del artefacto",
       "description": "Ganar EXP otorga bonificaciones de Potencia y desbloquea potentes modificadores en tu artefacto de temporada."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Elo de Destiny Tracker",
       "description": "Clasificación Elo actual del jugador.\n\nLas puntuaciones Elo de una página web externa, _Destiny Tracker_. _Destiny Tracker_ proporciona puntuaciones Elo para todos los jugadores de Destiny que participan en las actividades de _Crisol_ y _Gambito_."

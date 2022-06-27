@@ -114,40 +114,34 @@
       "description": "Il valore in punti di questo trionfo."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Valore punteggio",
       "description": "Il punteggio rimanente di questo trionfo (somma delle fasi rimanenti)."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Fasi trionfi",
       "description": "Alcuni trionfi hanno fasi. Differenti fasi hanno vari requisiti e punteggi."
     }
   },
-  "legacy_triumph_score": {
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "Punteggio trionfale strorico",
       "description": "Punteggio totale di tutti i tionfi storici completati."
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Punteggio trionfale totale",
       "description": "Punteggio totale di tutti i tionfi attivi e storici completati."
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "Punteggio trionfale attivo",
       "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Legato al personaggio",
-      "description": "Questi oggetti sono legati al personaggio. Ciò significa che ogni personaggio li scoprirà unicamente."
     }
   },
   "coverage": {
@@ -156,19 +150,19 @@
       "description": "La copertura in percentuale di questa traduzione."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Reset totali",
       "description": "I reset di tutte le stagioni. Dalla Stagione 4 in poi."
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "Potere bonus artefatto",
       "description": "Guadagnare PE garantisce bonus di potere e sblocca potenti modifiche nel tuo artefatto stagionale."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "Valutazione Elo attuale del giocatore.\n\nElo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."

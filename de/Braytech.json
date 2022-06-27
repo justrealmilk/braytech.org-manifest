@@ -101,40 +101,34 @@
       "description": "Triumphpunkte des Eintrags."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Triumphpunkte",
       "description": "Verbleibende Triumphpunkte des Eintrages (Summe der verbleibenden Abschnitte)."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Triumph-Abschnitt",
       "description": "Einige Einträge haben Abschnitte. Unterschiedliche Intervalle haben unterschiedliche Voraussetzungen und Triumphpunkte."
     }
   },
-  "legacy_triumph_score": {
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "Vermächtnis-Triumphpunkte",
       "description": "Gesamtpunktzahl deiner Vermächtnis-Triumphe."
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Gesamte Triumphpunkte",
       "description": "Eine Kombination aus allen aktiven und allen Vermächtnis-Triumphpunkten."
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "Aktive Triumphpunkte",
       "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Charaktergebunden",
-      "description": "Diese Gegenstände sind charaktergebunden. Dies bedeutet, dass jeder Charakter sie auf eigene Weise entdecken muss."
     }
   },
   "coverage": {
@@ -143,19 +137,19 @@
       "description": "Die Abdeckung dieser Übersetzung wird in Prozent dargestellt."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Gesamte Rücksetzungen",
       "description": "Rücksetzungen aus allen Saisons, beginnend ab Saison 4."
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "Artefakt-Powerbonus",
       "description": "Das Verdienen von XP gewährt Power-Boni und schaltet mächtige Mods für das saisonale Artefakt frei."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Destiny Tracker-Elo",
       "description": "Elo-Bewertung einer Drittanbieter-Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo für alle Destiny-Spieler, die _Schmelztiegel_ und _Gambit_ spielen."

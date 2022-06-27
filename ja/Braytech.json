@@ -110,40 +110,34 @@
       "description": "このレコードのスコア値です"
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "スコア値",
       "description": "このレコードの残りスコア値（残り合計）"
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "レコード進捗",
       "description": "レコードによっては、必要条件やスコア値が変わる区切りがあります。"
     }
   },
-  "legacy_triumph_score": {
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "過去の勝利の道のりスコア",
       "description": "過去の勝利の道のりで達成したスコア"
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "勝利の道のりの合計スコア",
       "description": "過去とアクティブな勝利の道のりの合計スコア"
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "アクティブな勝利の道のりスコア",
       "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "キャラクター制限",
-      "description": "これらのアイテムは、キャラクター縛りがあります。つまり、各キャラクターが独自に発見する必要があります。"
     }
   },
   "coverage": {
@@ -152,19 +146,19 @@
       "description": "この翻訳範囲はパーセンテージで表示されます"
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "合計リセット回数",
       "description": "全シーズンのリセット回数。第4シーズン以降から追跡"
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "アーティファクトパワーボーナス",
       "description": "XPを獲得するとパワーボーナスが付与され、シーズンごとのアーティファクトで強力なmodがアンロックされます。"
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "プレイヤーの現在のイロレーティングです。 \n\n サードパーティのウェブサイト、_Destiny Tracker_  は、_クルーシブル_と_ギャンビット_のアクティビティに参加するすべてのDestinyプレイヤーのイロレーティングを提供します。"

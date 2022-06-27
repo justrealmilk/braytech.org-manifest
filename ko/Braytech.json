@@ -59,22 +59,16 @@
       "description": "이 업적이 주는 점수 값 입니다."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "업적 점수",
       "description": "이번 단계에 얻을 수 있는 업적 점수 값 / (전체 업적 점수 값) 입니다."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "업적 단계",
       "description": "어떤 업적들은 단계가 있습니다. 단계마다 요구사항과 업적 점수 값이 다릅니다."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "캐릭터 귀속",
-      "description": "이 항목인은 캐릭터와 연결되어 있습니다. 이는 캐릭터에 따라 다르게 해당 항목을 찾게 됩니다."
     }
   },
   "coverage": {
@@ -83,13 +77,13 @@
       "description": "이 번역의 적용 범위는 백분율로 표시됩니다."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "전체 초기화",
       "description": "모든 시즌동안 초기화한 총 횟수입니다. 4시즌부터 추적합니다."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "데스티니 트래커 Elo",
       "description": "ELO 점수는 서드파티 웹사이트인 _Destiny Tracker_ 에서 제공됩니다. _Destiny Tracker_ 는 _시련의 장_ 및 _갬빗_ 활동에 참여하는 모든 데스티니 플레이어에 대한 Elo 점수를 제공합니다."

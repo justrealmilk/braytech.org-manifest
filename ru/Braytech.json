@@ -73,22 +73,16 @@
       "description": "Выполнение триумфа принесет данное количество очков."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Очки триумфа",
       "description": "Выполнение оставшихся этапов триумфа принесет данное количество очков."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Этапы триумфов",
       "description": "Некоторые триумфы имеют этапы. Каждый последующий этап имеет увеличенные требования и награду."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Привязано к персонажу",
-      "description": "Эти предметы привязаны к персонажу. Это означает, что для каждого персонажа они уникальны."
     }
   },
   "coverage": {
@@ -97,13 +91,13 @@
       "description": "Процент перевода на данный язык."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Всего обнулений",
       "description": "Все сезонные обнуления. Отслеживаются начиная с 4 сезона."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "Текущий эло рейтинг игрока.\n\nЭло рейтинг с стороннего веб сайта _Destiny Tracker_. _Destiny Tracker_ начисляет Elo рейтинг всем игрокам Destiny, которые играли в _Горнило_ и _Гамбит_."

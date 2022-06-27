@@ -101,40 +101,34 @@
       "description": "Valeur de score de cet enregistrement."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Valeur du score",
       "description": "Valeur de score restante de cet enregistrement (somme des intervalles restants)."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Intervalles de l'enregistrement",
       "description": "Certains enregistrements ont des intervalles. Différents intervalles ont des exigences et des valeurs de score variées."
     }
   },
-  "legacy_triumph_score": {
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "Score de Triomphe du passé",
       "description": "Score total de tous les triomphes du passé terminés."
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Score de Triomphe total",
       "description": "Une combinaison de tous les scores Triomphe actifs et du passé terminés."
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "Score de Triomphe actif",
       "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Personnage lié",
-      "description": "Ces éléments sont liés aux personnages. Cela signifie que chaque personnage les découvre de manière unique."
     }
   },
   "coverage": {
@@ -143,19 +137,19 @@
       "description": "La couverture de cette traduction représentée en pourcentage."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Total des réinitialisations",
       "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "Bonus de Puissance d'artefact",
       "description": "Gagner de l'XP confère des bonus de puissance d'artefact et débloque de puissants mods sur votre artefact saisonnier."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Traqueur Elo de Destiny",
       "description": "Ratio Elo du joueur courant .\n\nÉvaluations Elo d'un site Web tiers, _Destiny Tracker_. _Destiny Tracker_ fournit des évaluations Elo pour tous les joueurs de Destiny qui participent aux activités _Crucible_ et _Gambit_."

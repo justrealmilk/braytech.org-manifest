@@ -114,40 +114,46 @@
       "description": "This record's score value."
     }
   },
-  "interval_score": {
+  "interval-score": {
     "displayProperties": {
       "name": "Score value",
       "description": "This record's remaining score value (sum of remaining intervals)."
     }
   },
-  "record_intervals": {
+  "record-intervals": {
     "displayProperties": {
       "name": "Record intervals",
       "description": "Some records have intervals. Different intervals have varied requirements and score values."
     }
   },
-  "legacy_triumph_score": {
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "Add Bookmark",
+      "description": "Bookmark this record for later viewing.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "Remove Bookmark",
+      "description": "Remove this bookmark.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+    }
+  },
+  "legacy-triumph-score": {
     "displayProperties": {
       "name": "Legacy Triumph Score",
       "description": "Total score of all completed legacy Triumphs."
     }
   },
-  "lifetime_triumph_score": {
+  "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Lifetime Triumph Score",
       "description": "A combination of all completed active and legacy Triumph scores."
     }
   },
-  "active_triumph_score": {
+  "active-triumph-score": {
     "displayProperties": {
       "name": "Active Triumph Score",
       "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
-    }
-  },
-  "character_bound": {
-    "displayProperties": {
-      "name": "Character bound",
-      "description": "These items are character-bound. This means that each character discovers them uniquely."
     }
   },
   "coverage": {
@@ -156,19 +162,19 @@
       "description": "This translation's coverage represented by percentage."
     }
   },
-  "total_resets": {
+  "total-resets": {
     "displayProperties": {
       "name": "Total resets",
       "description": "All seasons' resets. Tracks from Season 4 onward."
     }
   },
-  "artifact_power_bonus": {
+  "artifact-power-bonus": {
     "displayProperties": {
       "name": "Artifact Power Bonus",
       "description": "Earning XP grants Power bonuses and unlocks powerful mods on your seasonal artifact."
     }
   },
-  "destiny_tracker_elo": {
+  "destiny-tracker-elo": {
     "displayProperties": {
       "name": "Destiny Tracker Elo",
       "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
