@@ -126,6 +126,18 @@
       "description": "Some records have intervals. Different intervals have varied requirements and score values."
     }
   },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "Track Record",
+      "description": "Add this record to \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "Untrack Record",
+      "description": "Remove this record from \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+    }
+  },
   "add-record-bookmark": {
     "displayProperties": {
       "name": "Add Bookmark",
