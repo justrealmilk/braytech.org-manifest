@@ -401,5 +401,23 @@
       "name": "Lore",
       "description": "Read this item's story"
     }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "name": "Common",
+      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "name": "Advanced",
+      "description": "Performance, debugging, and storage management. No one has fun here."
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "name": "Push Notifications",
+      "description": "Control how Braytech reaches you when you're not using it."
+    }
   }
 }
