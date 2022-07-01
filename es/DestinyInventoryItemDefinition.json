@@ -14,6 +14,12 @@
     "itemTypeDisplayName": "Objeto perdido",
     "displaySource": "Odio decirlo, pero parece que el sistema que buscas no existe.\nEso es imposible. Tal vez los archivos estén incompletos.\nLos archivos son exhaustivos y totalmente seguros, mi joven jedi. Puedes estar absolutamente seguro de una cosa: si un objeto no aparece en nuestros registros, ¡no existe!"
   },
+  "73143230": {
+    "displayProperties": {
+      "description": "Un engrama con marcadores complejos.\nContiene un arma o pieza de armadura legendaria hito aleatoria."
+    },
+    "itemTypeDisplayName": "Engrama"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta la experiencia de tu clan"

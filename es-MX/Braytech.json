@@ -119,6 +119,30 @@
       "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntuación variados."
     }
   },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "Seguir triunfo",
+      "description": "Añade este triunfo a \"Triunfos seguidos\".\nSi lo activas, esta acción se sincroniza con tu perfil de Braytech y se verá reflejada dondequiera que utilices la aplicación."
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "Dejar de seguir triunfo",
+      "description": "Elimina este triunfo de \"Triunfos seguidos\".\nSi lo activas, esta acción se sincroniza con tu perfil de Braytech y se verá reflejada dondequiera que utilices la aplicación."
+    }
+  },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "Añadir a favoritos",
+      "description": "Añade este triunfo a favoritos para verlo más tarde.\nSi lo activas, esta acción se sincroniza con tu perfil de Braytech y se verá reflejada dondequiera que utilices la aplicación."
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "Quitar de favoritos",
+      "description": "Elimina este favorito.\nSi lo activas, esta acción se sincroniza con tu perfil de Braytech y se verá reflejada dondequiera que utilices la aplicación."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Puntuación de triunfos de legado",
@@ -369,6 +393,24 @@
     "displayProperties": {
       "name": "Historia",
       "description": "Lee la historia de este objeto."
+    }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "name": "Común",
+      "description": "El perfil de Destiny, la sincronización de los ajustes, el idioma, la visibilidad de los elementos, el tema y mucho más: estos ajustes determinan la forma en que disfrutas Braytech."
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "name": "Avanzado",
+      "description": "Rendimiento, depuración y gestión del almacenamiento. Aquí nadie se divierte."
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "name": "Notificaciones push",
+      "description": "Controla cómo Braytech te envía datos cuando no lo estás usando."
     }
   }
 }
