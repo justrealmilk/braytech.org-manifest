@@ -228,6 +228,12 @@
       "description": "Delete this loadout. This action is permanent."
     }
   },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "Push Notifications",
+      "description": "Push notifications can reach you when you're not using Braytech and ensure you don't miss whatever it is that you're chasing."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
