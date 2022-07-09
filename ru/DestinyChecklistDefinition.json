@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Фрагментов призраков получено"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Игрушечные пингвины"
+    },
+    "entry": {
+      "prefix": "Пингвин",
+      "name": "Игрушечный пингвин"
+    },
+    "progressDescription": "Игрушечных пингвинов собрано"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Запечатанные стазисом сундуки"
+    },
+    "entry": {
+      "prefix": "Артефакт",
+      "name": "Запечатанный стазисом сундук"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "Хранилища СГК"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Хранилище СГК"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Кости Ахамкары"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Кость Ахамкары"
+    },
+    "progressDescription": "Костей найдено"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Сундуки региона"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Сундук региона"
+    },
+    "progressDescription": "Сундуков открыто"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Энтропические осколки"
+    },
+    "entry": {
+      "prefix": "Осколок",
+      "name": "Энтропический осколок"
+    },
+    "progressDescription": "Осколков собрано"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Кролики"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Кролик"
+    },
+    "progressDescription": "Накормленных кроликов"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Мертвые экзо"
+    },
+    "entry": {
+      "prefix": "Экзо",
+      "name": "Мертвый экзо"
+    },
+    "progressDescription": "Аудио журналов прослушано"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Оскверненные яйца"
+    },
+    "entry": {
+      "prefix": "Яйцо",
+      "name": "Оскверненное яйцо"
+    },
+    "progressDescription": "Яиц сломано"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Кошачьи статуи"
+    },
+    "entry": {
+      "prefix": "Кошачий друг",
+      "name": "Кошачья статуя"
+    },
+    "progressDescription": "Довольных кошачьих друзей"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Расколы Тьмы"
+    },
+    "entry": {
+      "prefix": "Раскол",
+      "name": "Раскол Тьмы"
+    },
+    "progressDescription": "Закрыто расколов Тьмы"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Затерянные сектора"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Затерянный сектор"
+    },
+    "progressDescription": "Исследовано"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Мотыльки Сияющего Улья"
+    },
+    "entry": {
+      "prefix": "Мотылёк",
+      "name": "Мотылёк Сияющего Улья"
+    },
+    "progressDescription": "Собрано мотыльков"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Некротических шифров собрано"
+  }
+}

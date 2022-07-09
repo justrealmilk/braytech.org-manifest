@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Fragments de spectre récupérés"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Pingouins Souvenirs"
+    },
+    "entry": {
+      "prefix": "Souvenirs",
+      "name": "Pingouin Souvenir"
+    },
+    "progressDescription": "Souvenirs récupérés"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Coffres scellés par la stase"
+    },
+    "entry": {
+      "prefix": "Artéfact",
+      "name": "Coffre scellé par la stase"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "Recueils de la CP"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Recueil de la CP"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Os d'Ahamkara"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Os d'Ahamkara"
+    },
+    "progressDescription": "Os trouvés"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Coffres de région"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Coffre de région"
+    },
+    "progressDescription": "Coffres ouverts"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Éclats entropiques"
+    },
+    "entry": {
+      "prefix": "Éclats",
+      "name": "Éclat entropique"
+    },
+    "progressDescription": "Ordre Restoré"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Lapins de Jade"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Lapin de Jade"
+    },
+    "progressDescription": "Lapins avec gâteaux de riz"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Exos morts"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Exo mort"
+    },
+    "progressDescription": "Journaux audio des sujets entendus"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Œufs corrompus"
+    },
+    "entry": {
+      "prefix": "Œuf",
+      "name": "Œuf corrompu"
+    },
+    "progressDescription": "Œufs détruits"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Statuettes félines"
+    },
+    "entry": {
+      "prefix": "Ami félin",
+      "name": "Statuette féline"
+    },
+    "progressDescription": "Amis félins satisfaits"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Failles des ténèbres"
+    },
+    "entry": {
+      "prefix": "Faille",
+      "name": "Faille des ténèbres"
+    },
+    "progressDescription": "Faille scellée"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Secteurs oubliés"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Secteur oublié"
+    },
+    "progressDescription": "Découverts"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Mites lumineuses"
+    },
+    "entry": {
+      "prefix": "Mite",
+      "name": "Mite lumineuse"
+    },
+    "progressDescription": "Mites collectées"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Codes nécrotiques trouvés"
+  }
+}

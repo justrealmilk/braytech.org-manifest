@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Ghost fragments recovered"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Penguin Souvenirs"
+    },
+    "entry": {
+      "prefix": "Souvenir",
+      "name": "Penguin Souvenir"
+    },
+    "progressDescription": "Souvenirs collected"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Stasis-Sealed Chests"
+    },
+    "entry": {
+      "prefix": "Artifact",
+      "name": "Stasis-Sealed Chest"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "DSC Repositories"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "DSC Repository"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Ahamkara Bones"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Ahamkara Bone"
+    },
+    "progressDescription": "Bones found"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Region Chests"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Region Chest"
+    },
+    "progressDescription": "Chests opened"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Entropic Shards"
+    },
+    "entry": {
+      "prefix": "Shard",
+      "name": "Entropic Shard"
+    },
+    "progressDescription": "Order restored"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Jade Rabbits"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Jade Rabbit"
+    },
+    "progressDescription": "Rabbits with rice cake"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Dead Exos"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Dead Exo"
+    },
+    "progressDescription": "Subjects' audio logs heard"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Corrupted Eggs"
+    },
+    "entry": {
+      "prefix": "Egg",
+      "name": "Corrupted Egg"
+    },
+    "progressDescription": "Eggs destroyed"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Cat Statues"
+    },
+    "entry": {
+      "prefix": "Feline friend",
+      "name": "Cat Statue"
+    },
+    "progressDescription": "Feline friends satisfied"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Darkness Rifts"
+    },
+    "entry": {
+      "prefix": "Rift",
+      "name": "Darkness Rift"
+    },
+    "progressDescription": "Rifts sealed"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Lost Sectors"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Lost Sector"
+    },
+    "progressDescription": "Discovered"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Lucent Moths"
+    },
+    "entry": {
+      "prefix": "Moth",
+      "name": "Lucent Moth"
+    },
+    "progressDescription": "Moths collected"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Necrotic cyphers collected"
+  }
+}

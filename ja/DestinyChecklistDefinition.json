@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "回復したゴーストの破片"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "ペンギンのオモチャ"
+    },
+    "entry": {
+      "prefix": "ペンギンのオモチャ",
+      "name": "ペンギンのオモチャ"
+    },
+    "progressDescription": "集めたペンギン"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "ステイシスで封じられたクレート"
+    },
+    "entry": {
+      "prefix": "アーティファクト",
+      "name": "ステイシスで封じられたクレート"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "DSC宝庫"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "DSC宝庫"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "アハンカーラの骨"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "アハンカーラの骨"
+    },
+    "progressDescription": "発見した骨"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "地域のクレート"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "地域のクレート"
+    },
+    "progressDescription": "発見済のクレート"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "エントロピーの破片"
+    },
+    "entry": {
+      "prefix": "破片",
+      "name": "エントロピーの破片"
+    },
+    "progressDescription": "回復された秩序"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "玉兎"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "玉兎"
+    },
+    "progressDescription": "ライスケーキを持つ兎"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "エクソの死体"
+    },
+    "entry": {
+      "prefix": "エクソ",
+      "name": "エクソの死体"
+    },
+    "progressDescription": "被験者の音声ログ数"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "汚染された卵"
+    },
+    "entry": {
+      "prefix": "卵",
+      "name": "汚染された卵"
+    },
+    "progressDescription": "破壊された卵"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "猫の置物"
+    },
+    "entry": {
+      "prefix": "猫のともだち",
+      "name": "猫の置物"
+    },
+    "progressDescription": "満足した猫のともだち"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "暗黒の亀裂"
+    },
+    "entry": {
+      "prefix": "亀裂",
+      "name": "暗黒の亀裂"
+    },
+    "progressDescription": "封鎖した亀裂"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "失われたセクター"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "失われたセクター"
+    },
+    "progressDescription": "発見済み"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "ルーセントモス"
+    },
+    "entry": {
+      "prefix": "モス",
+      "name": "ルーセントモス"
+    },
+    "progressDescription": "収集したルーセントモス"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "収集されたネクロ暗号"
+  }
+}

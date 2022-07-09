@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "고스트 파편 회수"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "펭귄 장난감"
+    },
+    "entry": {
+      "prefix": "펭귄",
+      "name": "펭귄 장난감"
+    },
+    "progressDescription": "수집한 펭귄"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "시공으로 봉인된 상자"
+    },
+    "entry": {
+      "prefix": "유물",
+      "name": "시공으로 봉인된 상자"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "DSC 저장고"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "DSC 저장고"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "아함카라의 뼈"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "아함카라의 뼈"
+    },
+    "progressDescription": "발견한 뼈"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "지역 상자"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "지역 상자"
+    },
+    "progressDescription": "연 상자"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "엔트로피 조각"
+    },
+    "entry": {
+      "prefix": "조각",
+      "name": "엔트로피 조각"
+    },
+    "progressDescription": "회복한 질서"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "토끼"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "달토끼"
+    },
+    "progressDescription": "떡 먹은 토끼"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "죽은 엑소"
+    },
+    "entry": {
+      "prefix": "엑소",
+      "name": "죽은 엑소"
+    },
+    "progressDescription": "청취한 엑소 녹음 기록"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "부패한 알"
+    },
+    "entry": {
+      "prefix": "부패한 알",
+      "name": "부패한 알"
+    },
+    "progressDescription": "파괴한 알"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "고양이 석상"
+    },
+    "entry": {
+      "prefix": "고양이 친구",
+      "name": "고양이 석상"
+    },
+    "progressDescription": "만족시킨 고양이 친구"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "어둠 균열"
+    },
+    "entry": {
+      "prefix": "균열",
+      "name": "어둠 균열"
+    },
+    "progressDescription": "닫은 균열"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "잊혀진 구역"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "잊혀진 구역"
+    },
+    "progressDescription": "발견함"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "빛의 나방"
+    },
+    "entry": {
+      "prefix": "나방",
+      "name": "빛의 나방"
+    },
+    "progressDescription": "수집한 나방"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "수집한 괴사성 암호"
+  }
+}

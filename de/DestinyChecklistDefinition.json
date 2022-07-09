@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Tote Geister gefunden"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Pinguin-Souvenire"
+    },
+    "entry": {
+      "prefix": "Souvenir",
+      "name": "Pinguin-Souvenir"
+    },
+    "progressDescription": "Souvenire gesammelt"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Stasis-versiegelte Truhen"
+    },
+    "entry": {
+      "prefix": "Artefakt",
+      "name": "Stasis-versiegelte Truhe"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "DSC-Repositories"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "DSC-Repository"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Ahamkara-Knochen"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Ahamkara-Knochen"
+    },
+    "progressDescription": "Knochen gefunden"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Regions-Truhen"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Regions-Truhe"
+    },
+    "progressDescription": "Truhen geöffnet"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Entropische Bruchstücke"
+    },
+    "entry": {
+      "prefix": "Bruchstück",
+      "name": "Entropisches Bruchstück"
+    },
+    "progressDescription": "Reihenfolge wiederhergestellt"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Jadehasen"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Jadehase"
+    },
+    "progressDescription": "Hasen mit Reiskuchen"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Tote Exos"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Toter Exo"
+    },
+    "progressDescription": "Audiodateien angehört"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Korrumpierte Eier"
+    },
+    "entry": {
+      "prefix": "Ei",
+      "name": "Korrumpiertes Ei"
+    },
+    "progressDescription": "Eier zerstört"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Katzenstatuen"
+    },
+    "entry": {
+      "prefix": "Katzenstatue",
+      "name": "Katzenstatue"
+    },
+    "progressDescription": "Katzenstatuen entdeckt"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Dunkelheits Rifts"
+    },
+    "entry": {
+      "prefix": "Rift",
+      "name": "Dunkelheits Rift"
+    },
+    "progressDescription": "Rifts versiegelt"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Verlorene Sektoren"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Verlorener Sektor"
+    },
+    "progressDescription": "Entdeckt"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Leuchtende Motten"
+    },
+    "entry": {
+      "prefix": "Motte",
+      "name": "Leuchtende Motte"
+    },
+    "progressDescription": "Gesammelte Motten"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Nekrotische Chiffren gesammelt"
+  }
+}

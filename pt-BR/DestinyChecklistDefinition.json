@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Fragmentos de fantasma resgatado"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Pinguins de brinquedo"
+    },
+    "entry": {
+      "prefix": "Pinguim",
+      "name": "Pinguim de brinquedo"
+    },
+    "progressDescription": "Pinguins coletados"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Baús selados por estase"
+    },
+    "entry": {
+      "prefix": "Artefato",
+      "name": "Baú selado por estase"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "Repositórios CPP"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Repositório CPP"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Ossos de Ahamkara"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Osso de Ahamkara"
+    },
+    "progressDescription": "Ossos encontrados"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Baús Regionais"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Baú Regional"
+    },
+    "progressDescription": "Baús abertos"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Fragmentos Entrópicos"
+    },
+    "entry": {
+      "prefix": "Fragmento",
+      "name": "Fragmento Entrópico"
+    },
+    "progressDescription": "Ordem restaurada"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Coelhos de Jade"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Coelho de Jade"
+    },
+    "progressDescription": "Coelhos com bolo de arroz"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Exos Mortos"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Exo Morto"
+    },
+    "progressDescription": "Registros de áudio escutados"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Ovos Corrompidos"
+    },
+    "entry": {
+      "prefix": "Ovo",
+      "name": "Ovo Corrompido"
+    },
+    "progressDescription": "Ovos destruídos"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Estátuas de Gato"
+    },
+    "entry": {
+      "prefix": "Amigos felinos",
+      "name": "Estátua de Gato"
+    },
+    "progressDescription": "Amigos felinos satisfeitos"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Fissuras da Treva"
+    },
+    "entry": {
+      "prefix": "Fissura",
+      "name": "Fissura da Treva"
+    },
+    "progressDescription": "Fissuras Seladas"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Setores Perdidos"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Setor Perdido"
+    },
+    "progressDescription": "Descoberto"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Mariposas Luzentes"
+    },
+    "entry": {
+      "prefix": "Mariposa",
+      "name": "Mariposa Luzente"
+    },
+    "progressDescription": "Mariposas coletadas"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Cifras necróticas coletadas"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Frammenti di spettro recuperati"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Pinguini souvenir"
+    },
+    "entry": {
+      "prefix": "Souvenir",
+      "name": "Pinguino souvenir"
+    },
+    "progressDescription": "Souvenir collezionati"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Forzieri sigillati dalla stasi"
+    },
+    "entry": {
+      "prefix": "Artefatto",
+      "name": "Forziere sigillato dalla stasi"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "Archivi dati CPF"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Archivio dati CPF"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Ossa di Ahamkara"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Ossa di Ahamkara"
+    },
+    "progressDescription": "Ossa trovate"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Forzieri della regione"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Forziere della regione"
+    },
+    "progressDescription": "Forzieri aperti"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Frammenti entropici"
+    },
+    "entry": {
+      "prefix": "Frammento",
+      "name": "Frammento entropico"
+    },
+    "progressDescription": "Ordine ripristinato"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Conigli di giada"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Coniglio di giada"
+    },
+    "progressDescription": "Conigli con galletta di riso"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Exo morti"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Exo morto"
+    },
+    "progressDescription": "Registrazioni dei soggetti ascoltate"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Uova corrotte"
+    },
+    "entry": {
+      "prefix": "Uovo",
+      "name": "Uovo corrotto"
+    },
+    "progressDescription": "Uova distrutte"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Statue di gatto"
+    },
+    "entry": {
+      "prefix": "Amico felino",
+      "name": "Statua di gatto"
+    },
+    "progressDescription": "Amici felini soddisfatti"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Fonti di Oscurità"
+    },
+    "entry": {
+      "prefix": "Fonte",
+      "name": "Fonte di Oscurità"
+    },
+    "progressDescription": "Fonti chiuse"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Settori perduti"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Settore perduto"
+    },
+    "progressDescription": "Scoperti"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Falene lucenti"
+    },
+    "entry": {
+      "prefix": "Falena",
+      "name": "Falena lucente"
+    },
+    "progressDescription": "Falene collezionate"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Cifrari necrotici ottenuti"
+  }
+}

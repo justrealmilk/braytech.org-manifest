@@ -1,0 +1,146 @@
+{
+  "363696145": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Fragmentos de espectro recuperados"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "Pingüinos de recuerdo"
+    },
+    "entry": {
+      "prefix": "Recuerdo",
+      "name": "Pingüino de recuerdo"
+    },
+    "progressDescription": "Recuerdos recogidos"
+  },
+  "1000001000": {
+    "displayProperties": {
+      "name": "Cofres sellados con estasis"
+    },
+    "entry": {
+      "prefix": "Artefacto",
+      "name": "Cofre sellado con estasis"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "Repositorios de CPP"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Repositorio de CPP"
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Huesos de Ahamkara"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Hueso de Ahamkara"
+    },
+    "progressDescription": "Huesos encontrados"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Cofres de región"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Cofre de región"
+    },
+    "progressDescription": "Cofres abiertos"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Fragmentos entrópicos"
+    },
+    "entry": {
+      "prefix": "Fragmento",
+      "name": "Fragmento entrópico"
+    },
+    "progressDescription": "Orden restablecido"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Conejos de jade"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Conejo de jade"
+    },
+    "progressDescription": "Conejos con dulces de arroz"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Exos muertos"
+    },
+    "entry": {
+      "prefix": "Exo",
+      "name": "Exo muerto"
+    },
+    "progressDescription": "Registros de audio de sujetos escuchados"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Huevos corruptos"
+    },
+    "entry": {
+      "prefix": "Huevo",
+      "name": "Huevo corrupto"
+    },
+    "progressDescription": "Huevos destruidos"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Estatuas de gato"
+    },
+    "entry": {
+      "prefix": "Amigo felino",
+      "name": "Estatua de gato"
+    },
+    "progressDescription": "Amigos felinos satisfechos"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Grietas de la Oscuridad"
+    },
+    "entry": {
+      "prefix": "Grieta",
+      "name": "Grieta de la Oscuridad"
+    },
+    "progressDescription": "Grietas cerradas"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Sectores perdidos"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "Sector perdido"
+    },
+    "progressDescription": "Descubiertos"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Polillas lúcidas"
+    },
+    "entry": {
+      "prefix": "Polilla",
+      "name": "Polilla lúcida"
+    },
+    "progressDescription": "Polillas recogidas"
+  },
+  "4108857026": {
+    "entry": {
+      "prefix": "",
+      "name": ""
+    },
+    "progressDescription": "Cifrados necróticos recogidos"
+  }
+}
