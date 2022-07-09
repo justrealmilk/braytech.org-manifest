@@ -4,6 +4,7 @@ import BraytechMapsTypes from '@Data/manifest/ko/BraytechMapsTypes.json';
 import DestinyActivityDefinition from '@Data/manifest/ko/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/ko/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ko/DestinyActivityModifierDefinition.json';
+import DestinyChecklistDefinition from '@Data/manifest/es/DestinyChecklistDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/ko/DestinyDestinationDefinition.json';
 import DestinyEnemyRaceDefinition from '@Data/manifest/ko/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ko/DestinyHistoricalStatsDefinition.json';
@@ -19,6 +20,7 @@ const ko = {
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
+    DestinyChecklistDefinition,
     DestinyDestinationDefinition,
     DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,

@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "Lore Book: Luna's Lost"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Ghost Fragment"
     },
     "progressDescription": "Ghost fragments recovered"
   },
@@ -137,9 +140,12 @@
     "progressDescription": "Moths collected"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "Lore Book: Inquisition of the Damned"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Necrotic Cypher"
     },
     "progressDescription": "Necrotic cyphers collected"
   }
