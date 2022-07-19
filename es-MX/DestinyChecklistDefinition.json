@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "Libro de historia: Fragmento de espectro"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Fragmento de espectro"
     },
     "progressDescription": "Fragmentos de espectro recuperados"
   },
@@ -124,7 +127,7 @@
       "prefix": "",
       "name": "Sector perdido"
     },
-    "progressDescription": "Descubiertos"
+    "progressDescription": "Descubierto"
   },
   "3373333905": {
     "displayProperties": {
@@ -137,9 +140,12 @@
     "progressDescription": "Polillas recolectadas"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "Libro de historia: Inquisición de los malditos"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Cifrado necrótico"
     },
     "progressDescription": "Cifrados necróticos reunidos"
   }
