@@ -282,6 +282,12 @@
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
+  "sub-triumphs-event-card": {
+    "displayProperties": {
+      "name": "Active Event Card",
+      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
+    }
+  },
   "sub-clan-about": {
     "displayProperties": {
       "name": "Clan",
