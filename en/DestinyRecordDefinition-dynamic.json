@@ -53,6 +53,12 @@
       "hasIcon": true
     }
   },
+  "317521250": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0282-09F8.png",
+      "hasIcon": true
+    }
+  },
   "373671280": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/d8fc70e24fd1ddae0546c21ff1cf86d4.jpg",
@@ -83,6 +89,12 @@
       "hasIcon": true
     }
   },
+  "540377256": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-107A.png",
+      "hasIcon": true
+    }
+  },
   "571025162": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/d35a7daa6cb2ce297d130588a7b45368.jpg",
@@ -107,9 +119,21 @@
       "hasIcon": true
     }
   },
+  "758645239": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0F61.png",
+      "hasIcon": true
+    }
+  },
   "836516980": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ce5d5c56ffc83fe92b367ec2d4dc1a2a.jpg",
+      "hasIcon": true
+    }
+  },
+  "966207508": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027B-018F.png",
       "hasIcon": true
     }
   },
@@ -125,6 +149,12 @@
       "hasIcon": true
     }
   },
+  "1087927672": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/02ef-00001064.png",
+      "hasIcon": true
+    }
+  },
   "1107018752": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/021e6564a148be166ebd04a38979a025.jpg",
@@ -134,6 +164,12 @@
   "1107121513": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/bc462cdde2fa00c808ff4f15802cb3b4.jpg",
+      "hasIcon": true
+    }
+  },
+  "1109459264": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027D-0573.png",
       "hasIcon": true
     }
   },
@@ -149,15 +185,45 @@
       "hasIcon": true
     }
   },
+  "1185680627": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-0B4E.png",
+      "hasIcon": true
+    }
+  },
+  "1228693527": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0687_04.png",
+      "hasIcon": true
+    }
+  },
   "1233471745": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/90e33e5fbf32b4445cb095d17ab00fb7.jpg",
       "hasIcon": true
     }
   },
+  "1284946259": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0687_02.png",
+      "hasIcon": true
+    }
+  },
+  "1343839969": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0F15.png",
+      "hasIcon": true
+    }
+  },
   "1345348453": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/9a698cbe617a95339c6f885764e68ebc.jpg",
+      "hasIcon": true
+    }
+  },
+  "1384029371": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0F33.png",
       "hasIcon": true
     }
   },
@@ -173,6 +239,12 @@
       "hasIcon": true
     }
   },
+  "1438167672": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-106B_01.png",
+      "hasIcon": true
+    }
+  },
   "1514331782": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/c7c44d140ec56dfdc5a1159947aa1aab.jpg",
@@ -182,6 +254,24 @@
   "1547246830": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/06c339b02b1a3b0b5c1322751b177557.jpg",
+      "hasIcon": true
+    }
+  },
+  "1556658903": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0F06.png",
+      "hasIcon": true
+    }
+  },
+  "1561715947": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-1089.png",
+      "hasIcon": true
+    }
+  },
+  "1564001702": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B9D.png",
       "hasIcon": true
     }
   },
@@ -197,6 +287,12 @@
       "hasIcon": true
     }
   },
+  "1710217127": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B8E.png",
+      "hasIcon": true
+    }
+  },
   "1833569807": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/7301e9d948c8f56dd9f972eea2a7ccd2.jpg",
@@ -209,9 +305,39 @@
       "hasIcon": true
     }
   },
+  "1866578144": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027B-1DA3.png",
+      "hasIcon": true
+    }
+  },
   "1940645774": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/e22cf7677ed8903cfb1bbaec8dc0d81a.jpg",
+      "hasIcon": true
+    }
+  },
+  "1971228746": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B56.png",
+      "hasIcon": true
+    }
+  },
+  "2056461735": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027B-01A8.png",
+      "hasIcon": true
+    }
+  },
+  "2072890963": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
+      "hasIcon": true
+    }
+  },
+  "2126548397": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
       "hasIcon": true
     }
   },
@@ -221,9 +347,21 @@
       "hasIcon": true
     }
   },
+  "2226626398": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
+      "hasIcon": true
+    }
+  },
   "2254190310": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/bad350071ec8c83c32c3795df872a9dc.jpg",
+      "hasIcon": true
+    }
+  },
+  "2284880502": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
       "hasIcon": true
     }
   },
@@ -245,9 +383,39 @@
       "hasIcon": true
     }
   },
+  "2472740040": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0282-19DA.png",
+      "hasIcon": true
+    }
+  },
+  "2482004751": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-106B.png",
+      "hasIcon": true
+    }
+  },
+  "2489106733": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B9C.png",
+      "hasIcon": true
+    }
+  },
+  "2499679097": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-1971.png",
+      "hasIcon": true
+    }
+  },
   "2524364954": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/1d3733c665f01b4adea1c5f65558ddde.jpg",
+      "hasIcon": true
+    }
+  },
+  "2584970263": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027B-1D3B.png",
       "hasIcon": true
     }
   },
@@ -275,9 +443,21 @@
       "hasIcon": true
     }
   },
+  "2796658869": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0687_00.png",
+      "hasIcon": true
+    }
+  },
   "2856496392": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/0b614758c3d49e7f84776b0c0ce0413d.jpg",
+      "hasIcon": true
+    }
+  },
+  "2909250963": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027B-1DC8.png",
       "hasIcon": true
     }
   },
@@ -287,15 +467,57 @@
       "hasIcon": true
     }
   },
+  "2980266417": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
+      "hasIcon": true
+    }
+  },
+  "2991743002": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-106B_02.png",
+      "hasIcon": true
+    }
+  },
   "3022631571": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/ab6869c879dfe8c2df3802ecde21b3a6.jpg",
       "hasIcon": true
     }
   },
+  "3056675381": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0687_03.png",
+      "hasIcon": true
+    }
+  },
   "3068761227": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/65acc14a463a14875980a54d6d244a99.jpg",
+      "hasIcon": true
+    }
+  },
+  "3097916612": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B9F.png",
+      "hasIcon": true
+    }
+  },
+  "3169895614": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027D-0584.png",
+      "hasIcon": true
+    }
+  },
+  "3214425110": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0F24.png",
+      "hasIcon": true
+    }
+  },
+  "3298130972": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
       "hasIcon": true
     }
   },
@@ -308,6 +530,12 @@
   "3371896300": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/814b087177b19c7f187f22280e845b1e.jpg",
+      "hasIcon": true
+    }
+  },
+  "3464275895": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
       "hasIcon": true
     }
   },
@@ -338,6 +566,12 @@
   "3574136388": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/0a5552b4600022e8e84805751c825726.jpg",
+      "hasIcon": true
+    }
+  },
+  "3588818798": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0687_01.png",
       "hasIcon": true
     }
   },
@@ -377,6 +611,12 @@
       "hasIcon": true
     }
   },
+  "3766199186": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0281-0EF7.png",
+      "hasIcon": true
+    }
+  },
   "3784038415": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/8070b4aa8ef05ed33005d0ea314c575f.jpg",
@@ -395,6 +635,12 @@
       "hasIcon": true
     }
   },
+  "3947410852": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B9E.png",
+      "hasIcon": true
+    }
+  },
   "3968841949": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/4392251920264f64bfed200ea894adb4.jpg",
@@ -407,9 +653,21 @@
       "hasIcon": true
     }
   },
+  "4141971983": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0311_0678_00.png",
+      "hasIcon": true
+    }
+  },
   "4147054663": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/492d92346c4325dada5455281ea00053.jpg",
+      "hasIcon": true
+    }
+  },
+  "4167244320": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
       "hasIcon": true
     }
   },
