@@ -269,6 +269,12 @@
       "description": "Los rastreadores estadísticos se pueden aplicar a tu emblema en la pantalla de detalles. Los rastreadores equipados aparecerán en tu placa de indentificación cuando sea visible."
     }
   },
+  "sub-triumphs-event-card": {
+    "displayProperties": {
+      "name": "Tarjeta de evento activa",
+      "description": "Completa los desafíos por tiempo limitado de la tarjeta de evento para ganar varias recompensas y progresar hacia la compleción del sello del evento."
+    }
+  },
   "sub-clan-about": {
     "displayProperties": {
       "name": "Clan",
