@@ -20,9 +20,6 @@
   "1734176373": {
     "progressDescription": "Partite di Azzardo completate"
   },
-  "1283234589": {
-    "progressDescription": "Segreta \"Fossa dell'Eresia\" completata"
-  },
   "3243082817": {
     "progressDescription": "Segreta \"Morsa della Cupidigia\" completata"
   },
@@ -42,7 +39,7 @@
     "progressDescription": "Attività \"Sfide dell'Eternità\" completate"
   },
   "1205559531": {
-    "progressDescription": "Sfide dell'Eternità con punteggio superiore a {var:3648290880} completato"
+    "progressDescription": "Attività \"Sfide dell'Eternità\" con punteggio superiore a {var:3648290880} completata"
   },
   "4140117227": {
     "progressDescription": "Taglie dell'Avanguardia completate"
@@ -97,6 +94,30 @@
   },
   "950967025": {
     "progressDescription": "Recisione: incubo sconfitto"
+  },
+  "897950155": {
+    "progressDescription": "Incursione in rotazione \"Ultimo Desiderio\" completata"
+  },
+  "2398860795": {
+    "progressDescription": "Incursione in rotazione \"Giardino della Salvezza\" completata"
+  },
+  "3180884403": {
+    "progressDescription": "Incursione in rotazione \"Volta di Vetro\" completata"
+  },
+  "3826130187": {
+    "progressDescription": "Incursione in rotazione \"Cripta di Pietrafonda\" completata"
+  },
+  "2039792527": {
+    "progressDescription": "Segreta in rotazione \"Profezia\" completata"
+  },
+  "1283234589": {
+    "progressDescription": "Segreta in rotazione \"Fossa dell'Eresia\" completata"
+  },
+  "1288508599": {
+    "progressDescription": "Segreta in rotazione \"Morsa della Cupidigia\" completata"
+  },
+  "3838169295": {
+    "progressDescription": "\"Shattered Throne\" rotator dungeon completed"
   },
   "36795045": {
     "progressDescription": " Arco"
