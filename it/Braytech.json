@@ -122,8 +122,20 @@
   },
   "record-intervals": {
     "displayProperties": {
-      "name": "Fasi trionfi",
+      "name": "Fasi trionfo",
       "description": "Alcuni trionfi hanno fasi. Differenti fasi hanno vari requisiti e punteggi."
+    }
+  },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "Segui trionfo",
+      "description": "Aggiungi questo trionfo a \"Trionfi seguiti\"\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "Non seguire trionfo",
+      "description": "Rimuovi questo trionfo da \"Trionfi seguiti\"\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
     }
   },
   "legacy-triumph-score": {
@@ -204,6 +216,12 @@
       "description": "Elimina questo loadout. Questa azione è permanente."
     }
   },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "Notifiche push",
+      "description": "Le notifiche push possono raggiungerti quando non stai usando Braytech e ti permettono di non perdere quello che cerchi."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
@@ -250,6 +268,12 @@
     "displayProperties": {
       "name": "Contatori statistiche",
       "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
+    }
+  },
+  "sub-triumphs-event-card": {
+    "displayProperties": {
+      "name": "Carta evento attiva",
+      "description": "Completa le sfide a tempo limitato della carta evento per guadagnare varie ricompense e progredire nel completamento del sigillo dell'evento."
     }
   },
   "sub-clan-about": {
@@ -376,6 +400,24 @@
     "displayProperties": {
       "name": "Storie",
       "description": "Leggi la storia di questo oggetto"
+    }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "name": "Comuni",
+      "description": "Profilo di Destiny, sincronizzazione delle impostazioni, lingua, visibilità degli oggetti, tema e altro ancora—queste impostazioni influenzano il modo in cui ti fruisci di Braytech."
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "name": "Avanzate",
+      "description": "Prestazioni, debug e gestione dello spazio di archiviazione. Qui non ci si diverte."
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "name": "Notifiche push",
+      "description": "Controlla come Braytech ti raggiunge quando non lo stai usando."
     }
   }
 }

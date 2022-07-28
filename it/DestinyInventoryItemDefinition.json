@@ -14,6 +14,12 @@
     "itemTypeDisplayName": "Oggetto mancante",
     "displaySource": "Mi dispiace dirlo, ma sembra che il sistema che stai cercando non esista.\nÈ impossibile. Forse gli archivi sono incompleti.\nMa gli archivi sono completi e totalmente sicuri, mio giovane Jedi. Se c'è una cosa di cui potresti essere assolutamente sicuro, è proprio questa: se un oggetto non compare nei nostri archivi, allora non esiste!"
   },
+  "73143230": {
+    "displayProperties": {
+      "description": "Un engramma con simboli complessi.\nContiene un'arma o un pezzo di armatura di punta leggendari."
+    },
+    "itemTypeDisplayName": "Engramma"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo clan"
