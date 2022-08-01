@@ -105,7 +105,21 @@
   "1000000006": {
     "hash": 1000000006,
     "displayProperties": {
-      "name": "All Patterns"
+      "name": "All Weapon Types"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000007": {
+    "hash": 1000000007,
+    "displayProperties": {
+      "name": "All Exotic Catalysts"
     },
     "children": {
       "presentationNodes": [],
