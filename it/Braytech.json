@@ -138,6 +138,18 @@
       "description": "Rimuovi questo trionfo da \"Trionfi seguiti\"\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
     }
   },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "Aggiungi segnalibro",
+      "description": "Aggiungi un segnalibro su questa pagina per una lettura successiva.\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "Rimuovi segnalibro",
+      "description": "Rimuovi questo segnalibro.\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Punteggio trionfale strorico",
