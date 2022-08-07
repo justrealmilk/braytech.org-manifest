@@ -82,5 +82,53 @@
       "name": "Athéon, Déchirure Temporelle",
       "description": "Le principal esprit responsable de la mise en place des propres calculs des Vex."
     }
+  },
+  "580855089": {
+    "displayProperties": {
+      "name": "Acquisition",
+      "description": "Remplissez les conditions et percez le voile."
+    }
+  },
+  "1942966197": {
+    "displayProperties": {
+      "name": "Collection",
+      "description": "Soumettez et détruisez l'abomination."
+    }
+  },
+  "196663595": {
+    "displayProperties": {
+      "name": "Exposition",
+      "description": "Réorientez votre perspective."
+    }
+  },
+  "3840791265": {
+    "displayProperties": {
+      "name": "Territoire",
+      "description": "Rencontrez le destructeur, Rhulk."
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Éviter l'Esprit Consacré",
+      "description": "Évitez les charges de surcharge voltaïque et poursuivez l'Esprit consacré."
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "Invoquer l'Esprit Consacré",
+      "description": "Contourner les déchirures Vex et forcer l'Esprit consacré à se cacher."
+    }
+  },
+  "2003": {
+    "displayProperties": {
+      "name": "Éliminer l'Esprit Consacré",
+      "description": "Une fois pour toutes, éliminez l'Esprit consacré."
+    }
+  },
+  "2004": {
+    "displayProperties": {
+      "name": "L'Esprit Sanctifié",
+      "description": "Esprit de l'Axe Vex, l'Esprit Sanctifié exerce un contrôle sur de nombreux Vex. Battez-le pour empêcher de nouvelles incursions de la division Sol à l'extérieur du Jardin Noir."
+    }
   }
 }

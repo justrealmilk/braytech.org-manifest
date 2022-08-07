@@ -6,6 +6,20 @@
     },
     "itemTypeDisplayName": "Dégagement insuffisant"
   },
+  "1": {
+    "displayProperties": {
+      "name": "Inconnu",
+      "description": "L'objet que vous recherchez n'existe pas"
+    },
+    "itemTypeDisplayName": "Objet manquant",
+    "displaySource": "Je déteste dire cela, mais il semble que le système que vous recherchez n'existe pas.\nC'est impossible. Les archives sont peut-être incomplètes.\nLes archives sont complètes et totalement sécurisées, mon jeune Jedi. Une chose dont vous pouvez être absolument sûr - si un article n'apparaît pas dans nos archives, c'est qu'il n'existe pas !"
+  },
+  "73143230": {
+    "displayProperties": {
+      "description": "Un engramme avec des marqueurs complexes.\nContient une arme ou une pièce d'armure Prestige aléatoire."
+    },
+    "itemTypeDisplayName": "Engramme"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Augmente l'expérience de votre clan"
@@ -44,6 +58,12 @@
       "description": "Augmente l'expérience de votre gardien."
     }
   },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Augmente le taux de d'obtention de \"Cardiombre\"",
+      "description": "Augmente le taux de d'obtention de l'épée exotique \"Cardiombre\" du donjon \"Dualité\"."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Augmente l'expérience de votre gardien."
@@ -67,7 +87,8 @@
   "3491404510": {
     "displayProperties": {
       "description": "Matériau utilisé dans la fabrication d'armes.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    }
+    },
+    "itemTypeDisplayName": "Matériau"
   },
   "3582080006": {
     "displayProperties": {

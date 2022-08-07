@@ -69,25 +69,38 @@
     },
     "itemTypeDisplayName": "Développeur de Braytech"
   },
+    "flair-tokai": {
+      "displayProperties": {
+        "name": "Tokai",
+        "description": ""
+      },
+      "itemTypeDisplayName": "Concierge de Braytech"
+  },
   "flair-patron-veteran": {
     "displayProperties": {
       "name": "Sous-programme",
       "description": "Ce gardien est un phare de lumière qui, par ses actions, a prouvé qu'il valorisait la bravoure et le service avant tout autre chose."
     },
-    "itemTypeDisplayName": "Récompense de mécène"
+    "itemTypeDisplayName": "Supporter de Braytech"
   },
   "flair-patron": {
     "displayProperties": {
       "name": "Chercheur",
       "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
     },
-    "itemTypeDisplayName": "Récompense de mécène"
+    "itemTypeDisplayName": "Supporter de Braytech"
   },
   "flair-patron-intern": {
     "displayProperties": {
       "name": "Interne"
     },
-    "itemTypeDisplayName": "Récompense de mécène"
+    "itemTypeDisplayName": "Supporter de Braytech"
+  },
+  "accurate-gear-power-average": {
+      "displayProperties": {
+        "name": "Puissance de l'équipement",
+        "description": "Le niveau de puissance moyen de vos équipements actuellement équipés.\nPour une valeur précise, votre inventaire est évalué. Si votre inventaire n'est pas public, vous devrez vous authentifier auprès de Bungie.net."
+      }
   },
   "commonality": {
     "displayProperties": {
@@ -109,8 +122,32 @@
   },
   "record-intervals": {
     "displayProperties": {
-      "name": "Intervalles de l'enregistrement",
+      "name": "Intervalles de triomphe",
       "description": "Certains enregistrements ont des intervalles. Différents intervalles ont des exigences et des valeurs de score variées."
+    }
+  },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "Tracer un triomphe",
+      "description": "Ajoutez ce triomphe à \"Triomphes suivis\"\nSi activé, cette action se synchronise avec votre profil Braytech et sera répercutée partout où vous utilisez l'application."
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "Dé-tracer un triomphe",
+      "description": "Supprimer ce triomphe de \"Triomphes suivis\"\nSi activé, cette action se synchronise avec votre profil Braytech et sera répercutée partout où vous utilisez l'application."
+    }
+  },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "Ajouter Signet",
+      "description": "Marquez cet enregistrement pour une consultation ultérieure.\nSi elle est activée, cette action se synchronise avec votre profil Braytech et sera reflétée partout où vous utilisez l'application."
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "Retirer Signet",
+      "description": "Supprimez ce signet.\nSi elle est activée, cette action se synchronise avec votre profil Braytech et sera répercutée partout où vous utilisez l'application."
     }
   },
   "legacy-triumph-score": {
@@ -185,6 +222,18 @@
       "description": "Cette activité s'est terminée dans le temps du mode concours. Un triopmhe dans des circonstances et une pression extraordinaires"
     }
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "Supprimer Configuration",
+      "description": "Supprimer cette configuration. Cette action est permanente."
+    }
+  },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "Notifications 'Push'",
+      "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triomphes et Sceaux actifs",
@@ -195,6 +244,12 @@
     "displayProperties": {
       "name": "Triomphes et Sceaux du passé",
       "description": "Voir une collection de triomphes et de sceaux passés"
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Triomphes éphémères",
+      "description": "Tous les triomphes ne sont pas éternels - complétez ces enregistrements à la hâte ou ils seront perdus à jamais dans le temps."
     }
   },
   "sub-triumphs-seasonal-challenges": {
@@ -225,6 +280,12 @@
     "displayProperties": {
       "name": "Traqueurs de statistiques",
       "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles"
+    }
+  },
+  "sub-triumphs-event-card": {
+    "displayProperties": {
+      "name": "Carte d'évènement actif",
+      "description": "Relevez des défis de carte d'événement à durée limitée pour gagner diverses récompenses et progresser vers l'achèvement du sceau de l'événement."
     }
   },
   "sub-clan-about": {
@@ -293,6 +354,12 @@
       "description": "Espionnez vos délégués de tâches et partenaires commerciaux préférés"
     }
   },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "Configurations",
+      "description": "Préconfigurez votre équipement, assemblez-le et nommez-le"
+    }
+  },
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carnage",
@@ -317,6 +384,12 @@
       "description": "Triomphes dans les conditions les plus périlleuses, compte-rendu des premières victoires de vos escouades contre nos plus grands adversaires"
     }
   },
+  "sub-weeklies-this-week": {
+    "displayProperties": {
+      "name": "Cette semaine",
+      "description": "Cette semaine dans Destiny"
+    }
+  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "Défis",
@@ -339,6 +412,24 @@
     "displayProperties": {
       "name": "Histoire",
       "description": "Lire l'histoire de cet objet"
+    }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "name": "Commun",
+      "description": "Profil Destiny, Synchronisation des paramètres, langue, visibilité des objets, thème, and plus encore de paramètres affectant la façon dont vous pourrez profiter de  Braytech."
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "name": "Advanced",
+      "description": "Performance, debugging, and storage management. No one has fun here."
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "name": "Push Notifications",
+      "description": "Control how Braytech reaches you when you're not using it."
     }
   }
 }

@@ -23,11 +23,23 @@
   "3243082817": {
     "progressDescription": "\"Étreinte de l'Avarice\" donjon terminé"
   },
+  "4073017996": {
+    "progressDescription": "Donjon \"Dualité\" terminé"
+  },
   "1501017628": {
     "progressDescription": "Raid \"Crypte de la Pierre\" terminé"
   },
   "3214312537": {
     "progressDescription": "Raid \"Caveau de Verre\" terminé"
+  },
+  "2249306957": {
+    "progressDescription": "Raid \"Serment du Disciple\" terminé"
+  },
+  "1948254616": {
+    "progressDescription": "Activités \"Légendes d'Éternité\" terminées"
+  },
+  "1205559531": {
+    "progressDescription": "\"Légendes d'Éternité\" terminé avec un score de {var:3648290880} ou plus haut"
   },
   "4140117227": {
     "progressDescription": "Contrats de l'Avant-Garde terminés"
@@ -70,5 +82,41 @@
   },
   "1184525507": {
     "progressDescription": "Parlez à Fynch"
+  },
+  "1035558339": {
+    "progressDescription": "Confinement de Cauchemar: Liaisons effectuées"
+  },
+  "2382717137": {
+    "progressDescription": "Confinement de Cauchemar: Liaisons effectuées"
+  },
+  "3307142175": {
+    "progressDescription": "Confinement de Cauchemar: Liaisons effectuées"
+  },
+  "950967025": {
+    "progressDescription": "Sever: Cauchemar vaincu"
+  },
+  "897950155": {
+    "progressDescription": "Rotation du raid \"Dernier Voeu\" terminé"
+  },
+  "2398860795": {
+    "progressDescription": "Rotation du raid \"Jardin du Salut\" terminé"
+  },
+  "3180884403": {
+    "progressDescription": "Rotation du raid \"Caveau de Verre\" terminé"
+  },
+  "3826130187": {
+    "progressDescription": "Rotation du raid \"Crypte de la Pierre\" terminé"
+  },
+  "2039792527": {
+    "progressDescription": "Rotation du donjon \"Prophécie\" terminé"
+  },
+  "1283234589": {
+    "progressDescription": "Rotation du donjon \"Fosse de l'Hérésie\" terminé"
+  },
+  "1288508599": {
+    "progressDescription": "Rotation du donjon \"Étreinte de l'Avarice\" terminé"
+  },
+  "3838169295": {
+    "progressDescription": "Rotation du donjon \"Trône Brisé\" terminé"
   }
 }

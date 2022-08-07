@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "Livre d'Histoire: Égarés de Luna"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Fragment de Spectre"
     },
     "progressDescription": "Fragments de spectre récupérés"
   },
@@ -137,9 +140,12 @@
     "progressDescription": "Mites collectées"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "Livre d'Histoire: Inquisition des Damnés"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Code Nécrotique"
     },
     "progressDescription": "Codes nécrotiques trouvés"
   }
