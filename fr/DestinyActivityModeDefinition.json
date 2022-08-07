@@ -9,6 +9,13 @@
     "displayProperties": {
       "name": "Raids",
       "description": "Formez une équipe de six tueurs de dieu et bravez les étranges et puissants royaumes de nos ennemis."
+      
+    }
+  },
+  "9924991580": {
+    "displayProperties": {
+      "name": "Offensive Vex",
+      "description": "Formez une escouade de six joueurs et repoussez l'assaut de nos ennemis."
     }
   },
   "103143560": {
@@ -65,6 +72,11 @@
     "displayProperties": {
       "name":"Domination et impulsion",
       "description": "Combattez pour le Courage en capturant des zones et en battant vos adversaires. Toutes les armes sont plus meurtrières, les capacités ne se reconstituent qu'en faisant des frags et le radar est désactivé."
+    }
+  },
+  "3484731833": {
+    "displayProperties": {
+      "description": "Remportez la victoire en contrôlant les zones, en gagnant des points pour votre équipe au fil du temps."
     }
   },
   "4078439804": {
