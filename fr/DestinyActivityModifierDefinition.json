@@ -83,12 +83,12 @@
   },
   "2098788044": {
     "displayProperties": {
-      "description": "🦘 During the Dominion encounter, the primary crux may only be destroyed once per glyphs phase."
+      "description": "Lors de la rencontre en Territoire (Rhulk), l'interférence ne peut être détruit qu'une seule fois par phase de glyphes."
     }
   },
   "2255984700": {
     "displayProperties": {
-      "description": "🦘 Throughout the Exhibition encounter, each Guardian may only defeat one Disciple's Hourglass. Choose one to skip."
+      "description": "Tout au long de la rencontre de Exposition, chaque gardien ne peut vaincre qu'un seul chevalier (Sablier de disciple). Choisissez-en un à ignorer."
     }
   },
   "2626004713": {
@@ -98,7 +98,7 @@
   },
   "2672226122": {
     "displayProperties": {
-      "description": "🦘 For the duration of the Acquisition encounter, each wave of [Stagger] Unstoppable Champions must be defeated within 5 seconds of one another or not at all."
+      "description": "Pendant la durée de la rencontre d'Acquisition, chaque vague de de Champions imparables doit être vaincue en moins de 5 secondes d'intervalle entre chaque élimination de champion."
     }
   },
   "2814846409": {
@@ -128,7 +128,7 @@
   },
   "3425521520": {
     "displayProperties": {
-      "description": "🦘 During the Caretaker encounter, only one symbol energy charge may be carried at a time per Guardian."
+      "description": "Lors de la rencontre avec le Protecteur, une seule offrande peut être transportée à la fois par gardien."
     }
   },
   "3632655552": {
