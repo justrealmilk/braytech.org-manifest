@@ -221,6 +221,12 @@
       "description": "Elimina esta equipación. Esta acción es permanente."
     }
   },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "Notificaciones push",
+      "description": "Las notificaciones push pueden llegarte cuando no estás usando Braytech y te aseguran que no te pierdas nada de aquello que buscas."
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Triunfos y Sellos activos",
