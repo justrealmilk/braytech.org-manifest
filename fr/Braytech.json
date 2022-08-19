@@ -422,14 +422,14 @@
   },
   "sub-settings-advanced": {
     "displayProperties": {
-      "name": "Advanced",
-      "description": "Performance, debugging, and storage management. No one has fun here."
+      "name": "Avancé",
+      "description": "Gestion des performances, du débogage et du stockage. Personne ne s'amuse ici."
     }
   },
   "sub-settings-push-notifications": {
     "displayProperties": {
-      "name": "Push Notifications",
-      "description": "Control how Braytech reaches you when you're not using it."
+      "name": "Notifications 'Push'",
+      "description": "Contrôlez comment Braytech vous notifie lorsque vous ne l'utilisez pas."
     }
   }
 }
