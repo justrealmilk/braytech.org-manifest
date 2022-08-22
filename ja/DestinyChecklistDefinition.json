@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "伝承: 月での喪失"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "ゴーストの破片"
     },
     "progressDescription": "回復したゴーストの破片"
   },
@@ -137,9 +140,12 @@
     "progressDescription": "収集したルーセントモス"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "伝承: 忌まわしき者の尋問"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "ネクロ暗号"
     },
     "progressDescription": "収集されたネクロ暗号"
   }
