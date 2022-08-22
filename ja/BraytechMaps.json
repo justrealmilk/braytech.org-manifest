@@ -78,6 +78,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
   },
   "6": {
@@ -181,6 +184,38 @@
     "displayProperties": {
       "name": "研がれ刃の砦",
       "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ "
+    },
+    "typeHash": 2,
+    "destinationHash": 1416096592,
+    "bubbleHash": 27792021738,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3136361071
+        }
+      ],
+      "checklists": [
+        {
+          "checklistId": 2609997025,
+          "checklistItems": [
+            1084474578,
+            1084474579,
+            1118029876,
+            1118029877,
+            1118029882
+          ]
+        },
+        {
+          "checklistId": 1297424116,
+          "checklistItems": [
+            1387596457
+          ]
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-1.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=vV6oWIgSsgU"
     }
   },
   "11": {
@@ -240,6 +275,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
   },
   "14": {
@@ -285,6 +323,9 @@
     "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
+    "map": {
+      "in": "lost-sector"
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
   },
   "16": {
@@ -2305,19 +2346,31 @@
   },
   "464": {
     "checklistHash": 2700275579,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "465": {
     "checklistHash": 633083132,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "466": {
     "checklistHash": 1105312397,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "467": {
     "checklistHash": 2326920926,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "468": {
     "checklistHash": 1067696998,
@@ -2385,11 +2438,17 @@
   },
   "476": {
     "checklistHash": 3986286066,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "477": {
     "checklistHash": 216809093,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "478": {
     "checklistHash": 3162697940,
@@ -2400,20 +2459,30 @@
           "x": 69,
           "y": 70
         }
-      }
+      },
+      "untracked": true
     }
   },
   "479": {
     "checklistHash": 2357751383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "480": {
     "checklistHash": 2576690974,
-    "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "481": {
     "checklistHash": 1109476065,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg",
+    "extended": {
+      "untracked": true
+    }
   },
   "482": {
     "checklistHash": 1007922574,
@@ -2424,7 +2493,8 @@
           "x": 50,
           "y": 67
         }
-      }
+      },
+      "untracked": true
     }
   },
   "483": {
@@ -2436,7 +2506,8 @@
           "x": 50,
           "y": 65
         }
-      }
+      },
+      "untracked": true
     }
   },
   "484": {
@@ -2448,7 +2519,8 @@
           "x": 50,
           "y": 54
         }
-      }
+      },
+      "untracked": true
     }
   },
   "485": {

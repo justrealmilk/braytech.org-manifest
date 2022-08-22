@@ -70,6 +70,10 @@
     "itemTypeDisplayName": "Braytech開発者"
   },
   "flair-tokai": {
+    "displayProperties": {
+      "name": "Tokai",
+      "description": ""
+    },
     "itemTypeDisplayName": "Braytech相談役"
   },
   "flair-patron-veteran": {
@@ -120,6 +124,30 @@
     "displayProperties": {
       "name": "レコード進捗",
       "description": "レコードによっては、必要条件やスコア値が変わる区切りがあります。"
+    }
+  },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "レコード追跡",
+      "description": "\"レコード追跡\"\nを有効にすると、Braytechのプロファイルと同期し、アプリ間で連動できます。"
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "追跡をやめる",
+      "description": "\"レコード追跡\"\nを停止させて、Braytechのプロファイルをアプリ間で連動させないようにします。"
+    }
+  },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "ブックマーク追加",
+      "description": "この追跡をブックマークして後で見ることができます。\n Braytechのプロファイルで同期させてアプリ間で連動されます。"
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "ブックマーク削除",
+      "description": "ブックマークを削除します。\n Braytechのプロファイルで同期させてアプリ間で連動されたものも削除されます。"
     }
   },
   "legacy-triumph-score": {
@@ -194,6 +222,18 @@
       "description": "このアクティビティは、コンテストモードで終了しました：非常に厳しいプレッシャーの中での勝利"
     }
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "ロードアウトを削除する",
+      "description": "このロードアウトを削除します。一度削除したら元に戻せません。"
+    }
+  },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "プッシュ通知",
+      "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "アクティブな勝利の道のりと印",
@@ -240,6 +280,12 @@
     "displayProperties": {
       "name": "ステータストラッカー",
       "description": "ステータストラッカーは、エンブレムのインスペクトビューから適用することができます。適用されたトラッカーは、いつでもネームプレートに表示されます。"
+    }
+  },
+  "sub-triumphs-event-card": {
+    "displayProperties": {
+      "name": "開催中のイベントカード",
+      "description": "期間限定のイベントカードに挑戦して、様々な報酬を獲得し、イベント限定の印を入手しましょう。"
     }
   },
   "sub-clan-about": {
@@ -308,6 +354,12 @@
       "description": "お気に入りのバウンティ依頼者と取引先を偵察します"
     }
   },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "ロードアウト",
+      "description": "事前に目的特化した装備グループを作って、名前を付けましょう。"
+    }
+  },
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carnage",
@@ -332,6 +384,12 @@
       "description": "最も危険な状況下での勝利、最大の敵に対するファイアチームでの初勝利レポート。"
     }
   },
+  "sub-weeklies-this-week": {
+    "displayProperties": {
+      "name": "今週のDestiny",
+      "description": "今週のDestinyで開催されるイベント"
+    }
+  },
   "sub-weeklies-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
@@ -354,6 +412,24 @@
     "displayProperties": {
       "name": "伝承",
       "description": "このアイテムに書かれた物語を読む"
+    }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "name": "Common",
+      "description": "プロファイル、同期設定、言語、アイテムの表示、テーマなど、Braytech全般の設定です。"
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "name": "Advanced",
+      "description": "パフォーマンス設定、デバッグ、ストレージ設定など上級者向けの設定項目です。"
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "name": "プッシュ通知",
+      "description": "Braytechを使用していなくても、通知を受信するか設定します"
     }
   }
 }
