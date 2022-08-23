@@ -43,7 +43,7 @@
   },
   "263158944": {
     "displayProperties": {
-      "icon": "/common/destiny2_content/icons/d0bc7a1431e503a948a7f22231197925.jpg",
+      "icon": "/common/destiny2_content/icons/e52215994fc192c2eb88dfa2a415d291.jpg",
       "hasIcon": true
     }
   },
@@ -79,7 +79,7 @@
   },
   "494981303": {
     "displayProperties": {
-      "icon": "/common/destiny2_content/icons/6bf0aad944dd9265ee5df2f14c7f9da3.jpg",
+      "icon": "/common/destiny2_content/icons/e345f822fe5cb657bfdc05df78611bba.jpg",
       "hasIcon": true
     }
   },
@@ -175,7 +175,7 @@
   },
   "1163649614": {
     "displayProperties": {
-      "icon": "/common/destiny2_content/icons/55f9b3e464e34471669eae0ddf3ee32a.jpg",
+      "icon": "/common/destiny2_content/icons/99c98af523a93f7834f2757395169e74.jpg",
       "hasIcon": true
     }
   },
@@ -283,7 +283,7 @@
   },
   "1629497825": {
     "displayProperties": {
-      "icon": "/common/destiny2_content/icons/f69d471dedae15bfb4a42fe82b66c14e.jpg",
+      "icon": "/common/destiny2_content/icons/b1af4c7452901649712fd979096ce388.jpg",
       "hasIcon": true
     }
   },
@@ -413,6 +413,12 @@
       "hasIcon": true
     }
   },
+  "2571854597": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ddfe8daa6f2093efae32bd6f70ef36c5.jpg",
+      "hasIcon": true
+    }
+  },
   "2584970263": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/badges/027B-1D3B.png",
@@ -481,7 +487,7 @@
   },
   "3022631571": {
     "displayProperties": {
-      "icon": "/common/destiny2_content/icons/ab6869c879dfe8c2df3802ecde21b3a6.jpg",
+      "icon": "/common/destiny2_content/icons/f933fd8379602181f0405728e262433e.jpg",
       "hasIcon": true
     }
   },
@@ -518,6 +524,12 @@
   "3298130972": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/badges/027C-1962.png",
+      "hasIcon": true
+    }
+  },
+  "3318895306": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/0e220e001b7fbdbc8ef1f30b634e5521.jpg",
       "hasIcon": true
     }
   },
@@ -668,6 +680,12 @@
   "4167244320": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
+      "hasIcon": true
+    }
+  },
+  "4176879201": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0173-0B9F_7.png",
       "hasIcon": true
     }
   },
