@@ -1,4 +1,17 @@
 {
+  "0": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "originalDisplayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "Insufficient Clearance",
+    "redacted": true
+  },
   "2032534090": {
     "activityLightLevel": 750,
     "activityTypeHash": 608898761,
