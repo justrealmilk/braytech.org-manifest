@@ -694,5 +694,11 @@
       "icon": "/common/destiny2_content/icons/2539a0478ce440192272f16529dcc37d.jpg",
       "hasIcon": true
     }
+  },
+  "undefined": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/badges/0275-1D08.png",
+      "hasIcon": true
+    }
   }
 }
