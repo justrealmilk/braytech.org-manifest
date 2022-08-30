@@ -19,7 +19,7 @@
     "displayProperties": {
       "description": "複雑なマーカーを持つエングラム。\n 最高峰のジェンダリー武器や防具がランダムで1つ入っています。"
     },
-    "itemTypeDisplayName": "Engram"
+    "itemTypeDisplayName": "エングラム"
   },
   "304443327": {
     "displayProperties": {
@@ -186,6 +186,15 @@
     "itemType": 16
   },
   "2240888816": {
+    "itemType": 16
+  },
+  "3168997075": {
+    "itemType": 16
+  },
+  "2932390016": {
+    "itemType": 16
+  },
+  "2328211300": {
     "itemType": 16
   }
 }

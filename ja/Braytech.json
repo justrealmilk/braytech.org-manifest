@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
+  "platform-epic": {
+    "displayProperties": {
+      "name": "Epic",
+      "description": "プロフィールが関連付けられているプラットフォーム"
+    },
+    "itemTypeDisplayName": "Platform"
+  },
   "flair-warmind": {
     "displayProperties": {
       "name": "総合開発責任者",
