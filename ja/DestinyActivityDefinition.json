@@ -1,4 +1,32 @@
 {
+  "0": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "機密事項",
+      "description": "他言無用"
+    },
+    "originalDisplayProperties": {
+      "name": "機密事項",
+      "description": "他言無用"
+    },
+    "itemTypeDisplayName": "閲覧権限無し",
+    "modifiers": [],
+    "redacted": true
+  },
+  "2032534090": {
+    "activityLightLevel": 750,
+    "activityTypeHash": 608898761,
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "4148187374": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
+  "1077850348": {
+    "activityModeHashes": [608898761],
+    "directActivityModeHash": 608898761
+  },
   "82913930": {
     "displayProperties": {
       "description": "オービットで、ひどく壮絶な何かが計画されている"
@@ -13,5 +41,11 @@
     "displayProperties": {
       "name": "フリーランス: アイアンバナー: リフト"
     }
+  },
+  "55186263": {
+    "pgcrImage": "/img/destiny_content/pgcr/skydock_iv.jpg"
+  },
+  "55186256": {
+    "pgcrImage": "/img/destiny_content/pgcr/skydock_iv.jpg"
   }
 }
