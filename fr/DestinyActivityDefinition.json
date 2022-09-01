@@ -1,4 +1,18 @@
 {
+  "0": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "Classifié",
+      "description": "Garder cela propre."
+    },
+    "originalDisplayProperties": {
+      "name": "Classifié",
+      "description": "Garder cela propre."
+    },
+    "itemTypeDisplayName": "Authorisation insuffisante",
+    "modifiers": [],
+    "redacted": true
+  },
   "82913930": {
     "displayProperties": {
       "description": "En orbite, planifiant quelque chose de terriblement héroïque."

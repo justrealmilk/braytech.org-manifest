@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Plate-forme"
   },
+  "platform-epic": {
+    "displayProperties": {
+      "name": "Epic",
+      "description": "La plateforme à laquelle appartient ce profil."
+    },
+    "itemTypeDisplayName": "Plate-forme"
+  },
   "flair-warmind": {
     "displayProperties": {
       "name": "Surveillant général",
