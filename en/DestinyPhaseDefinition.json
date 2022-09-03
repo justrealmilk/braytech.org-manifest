@@ -130,5 +130,35 @@
       "name": "The Sanctified Mind",
       "description": "A Vex Axis Mind, the Sanctified Mind amasses control over many Vex. Defeat it to prevent further incursions by the Sol Divisive outside of the Black Garden."
     }
+  },
+  "1406613360": {
+    "displayProperties": {
+      "name": "Basilica",
+      "description": "Influence hive ritual magic by controlling annihilator totems."
+    }
+  },
+  "2115142089": {
+    "displayProperties": {
+      "name": "Warpriest",
+      "description": "Defeat Oryx's Warpriest before he destroys you."
+    }
+  },
+  "3738629258": {
+    "displayProperties": {
+      "name": "Golgoroth",
+      "description": "Subdue the abomination."
+    }
+  },
+  "2951654489": {
+    "displayProperties": {
+      "name": "The Daughters",
+      "description": "Interrupt the the sisters' concentration."
+    }
+  },
+  "1089000747": {
+    "displayProperties": {
+      "name": "Oryx",
+      "description": "Dethrone the king."
+    }
   }
 }
