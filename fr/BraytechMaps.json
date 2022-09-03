@@ -228,6 +228,11 @@
       "description": "Nécessite _Souvenance_ pour être révélé."
     }
   },
+  "260": {
+    "displayProperties": {
+      "description": "Accessible via les activités _Autels du Reflet_."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "La Cour de la reine",
