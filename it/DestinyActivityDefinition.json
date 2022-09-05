@@ -1,4 +1,15 @@
 {
+  "0": {
+    "displayProperties": {
+      "name": "Censurato",
+      "description": "Stai pulito."
+    },
+    "originalDisplayProperties": {
+      "name": "Censurato",
+      "description": "Stai pulito."
+    },
+    "itemTypeDisplayName": "Autorizzazione insufficiente"
+  },
   "82913930": {
     "displayProperties": {
       "description": "In orbita, pianificando qualcosa di terribilmente eroico."

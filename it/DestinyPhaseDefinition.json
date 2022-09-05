@@ -130,5 +130,35 @@
       "name": "La Mente Santificata",
       "description": "Una Mente dell'axis Vex, la Mente Santificata accumula controllo su molti Vex. Sconfiggilo per prevenire ulteriori incursioni della Divisione Sol al di fuori del Giardino Nero."
     }
+  },
+  "1406613360": {
+    "displayProperties": {
+      "name": "Basilica",
+      "description": "Influenza la magia rituale dell'alveare controllando i totem annientatori."
+    }
+  },
+  "2115142089": {
+    "displayProperties": {
+      "name": "Sacerdote di Guerra",
+      "description": "Sconfiggi il Sacerdote di Guerra di Oryx prima che lui distrugga voi."
+    }
+  },
+  "3738629258": {
+    "displayProperties": {
+      "name": "Golgoroth",
+      "description": "Sottometti l'abominio."
+    }
+  },
+  "2951654489": {
+    "displayProperties": {
+      "name": "Le Figlie",
+      "description": "Interrompi la concentrazione delle sorelle."
+    }
+  },
+  "1089000747": {
+    "displayProperties": {
+      "name": "Oryx",
+      "description": "Spodesta il re."
+    }
   }
 }
