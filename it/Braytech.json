@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Piattaforma"
   },
+  "platform-epic": {
+    "displayProperties": {
+      "name": "Epic",
+      "description": "La piattaforma d'appartenenza di questo profilo."
+    },
+    "itemTypeDisplayName": "Piattaforma"
+  },
   "flair-warmind": {
     "displayProperties": {
       "name": "Sovrintendente",
