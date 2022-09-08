@@ -35,6 +35,9 @@
   "2249306957": {
     "progressDescription": "\"Vow of the Disciple\" raid completed"
   },
+  "1986658407": {
+    "progressDescription": "\"King's Fall\" raid completed"
+  },
   "1948254616": {
     "progressDescription": "\"Dares of Eternity\" activities completed"
   },
@@ -83,18 +86,6 @@
   "1184525507": {
     "progressDescription": "Speak with Fynch"
   },
-  "1035558339": {
-    "progressDescription": "Nightmare Containment: Bindings performed"
-  },
-  "2382717137": {
-    "progressDescription": "Nightmare Containment: Bindings performed"
-  },
-  "3307142175": {
-    "progressDescription": "Nightmare Containment: Bindings performed"
-  },
-  "950967025": {
-    "progressDescription": "Sever: Nightmare defeated"
-  },
   "897950155": {
     "progressDescription": "\"Last Wish\" rotator raid completed"
   },
@@ -118,5 +109,14 @@
   },
   "3838169295": {
     "progressDescription": "\"Shattered Throne\" rotator dungeon completed"
+  },
+  "1964325296": {
+    "progressDescription": "\"Ketchcrash\" activities completed"
+  },
+  "2909948981": {
+    "progressDescription": "\"Ketchcrash\" completed on master difficulty"
+  },
+  "3935332150": {
+    "progressDescription": "Treasure acquired during \"Expedition\" activities"
   }
 }
