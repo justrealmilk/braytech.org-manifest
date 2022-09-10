@@ -23,6 +23,9 @@
   "3243082817": {
     "progressDescription": "Mazmorra \"Garras de la avaricia\" completada"
   },
+  "4073017996": {
+    "progressDescription": "Mazmorra \"Dualidad\" completada"
+  },
   "1501017628": {
     "progressDescription": "Incursión \"Cripta de la piedra profunda\" completada"
   },
@@ -31,6 +34,9 @@
   },
   "2249306957": {
     "progressDescription": "Incursión \"Voto del Discípulo\" completada"
+  },
+  "1986658407": {
+    "progressDescription": "Incursión \"La Caída del Rey\" completada"
   },
   "1948254616": {
     "progressDescription": "Actividades de \"Retos de la Eternidad\" completadas"
@@ -80,17 +86,38 @@
   "1184525507": {
     "progressDescription": "Habla con Fynch"
   },
-  "1035558339": {
-    "progressDescription": "Contención de Pesadillas: vinculaciones realizadas"
+  "897950155": {
+    "progressDescription": "Incursión rotativa \"Último deseo\" completada"
   },
-  "2382717137": {
-    "progressDescription": "Contención de Pesadillas: vinculaciones realizadas"
+  "2398860795": {
+    "progressDescription": "Incursión rotativa \"Jardín de la Salvación\" completada"
   },
-  "3307142175": {
-    "progressDescription": "Contención de Pesadillas: vinculaciones realizadas"
+  "3180884403": {
+    "progressDescription": "Incursión rotativa \"Cámara de cristal\" completada"
   },
-  "950967025": {
-    "progressDescription": "Separación: pesadilla derrotada"
+  "3826130187": {
+    "progressDescription": "Incursión rotativa \"Cripta de la Piedra Profunda\" completada"
+  },
+  "2039792527": {
+    "progressDescription": "Mazmorra rotativa \"Profecía\" completada"
+  },
+  "1283234589": {
+    "progressDescription": "Mazmorra rotativa \"Foso de la herejía\" completada"
+  },
+  "1288508599": {
+    "progressDescription": "Mazmorra rotativa \"Garras de la avaricia\" completada"
+  },
+  "3838169295": {
+    "progressDescription": "Mazmorra rotativa \"El trono destrozado\" completada"
+  },
+  "1964325296": {
+    "progressDescription": "Actividades de \"Colisión de Queches\" completadas"
+  },
+  "2909948981": {
+    "progressDescription": "Actividad \"Colisión de Queches\" completada en dificultad maestro"
+  },
+  "3935332150": {
+    "progressDescription": "Tesoros adquiridos durante la actividad \"Expedición\""
   },
   "36795045": {
     "progressDescription": " Arco"
@@ -168,6 +195,57 @@
     "progressDescription": "[Tiro a la cabeza] Arco"
   },
   "4129673527": {
+    "progressDescription": " Arco"
+  },
+  "204755902": {
+    "progressDescription": " Arco"
+  },
+  "365221598": {
+    "progressDescription": " Arco"
+  },
+  "1272199270": {
+    "progressDescription": " Arco"
+  },
+  "1937694075": {
+    "progressDescription": " Arco"
+  },
+  "2000398275": {
+    "progressDescription": " Arco"
+  },
+  "2285406418": {
+    "progressDescription": " Arco"
+  },
+  "3293127925": {
+    "progressDescription": " Arco"
+  },
+  "4063317392": {
+    "progressDescription": " Arco"
+  },
+  "4209915572": {
+    "progressDescription": " Arco"
+  },
+  "625886847": {
+    "progressDescription": "Golpes finales con  o [Guja]"
+  },
+  "791594362": {
+    "progressDescription": " Arco"
+  },
+  "1168577725": {
+    "progressDescription": " Arco"
+  },
+  "1304296579": {
+    "progressDescription": "Puntos obtenidos con [Fusil de explorador] o "
+  },
+  "2191093536": {
+    "progressDescription": " Arco"
+  },
+  "2249461311": {
+    "progressDescription": " Arco"
+  },
+  "3497888318": {
+    "progressDescription": " Arco"
+  },
+  "2651396457": {
     "progressDescription": " Arco"
   }
 }

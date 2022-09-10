@@ -130,5 +130,35 @@
       "name": "La Mente Santificada",
       "description": "La Mente Santificada, una Mente del Eje vex, ejerce control sobre muchos vex. Derrótalo para evitar más incursiones del Divisivo Sol fuera del Jardín Negro."
     }
+  },
+  "1406613360": {
+    "displayProperties": {
+      "name": "Basílica",
+      "description": "Interfiere en la magia ritual de la colmena al controlar los tótems aniquiladores."
+    }
+  },
+  "2115142089": {
+    "displayProperties": {
+      "name": "Sacerdote de Guerra",
+      "description": "Derrota al Sacerdote de Guerra de Oryx antes de que te destruya."
+    }
+  },
+  "3738629258": {
+    "displayProperties": {
+      "name": "Golgoroth",
+      "description": "Somete a la abominación."
+    }
+  },
+  "2951654489": {
+    "displayProperties": {
+      "name": "Las hijas",
+      "description": "Interrumpe la concentración de las hermanas."
+    }
+  },
+  "1089000747": {
+    "displayProperties": {
+      "name": "Oryx",
+      "description": "Destrona al rey."
+    }
   }
 }

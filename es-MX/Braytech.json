@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Plataforma"
   },
+  "platform-epic": {
+    "displayProperties": {
+      "name": "Epic",
+      "description": "La plataforma a la que pertenece este perfil."
+    },
+    "itemTypeDisplayName": "Plataforma"
+  },
   "flair-warmind": {
     "displayProperties": {
       "name": "Superintendente",
