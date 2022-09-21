@@ -150,5 +150,30 @@
     "displayProperties": {
       "description": "During the Sanctified Mind encounter, bank 30 motes at each Vex relay. At each relay, all 30 motes must be deposited within 10 seconds of one another."
     }
+  },
+  "3577304467": {
+    "displayProperties": {
+      "description": "Guardians may not hold the same aura in sequence."
+    }
+  },
+  "2159250954": {
+    "displayProperties": {
+      
+    }
+  },
+  "2890753840": {
+    "displayProperties": {
+      
+    }
+  },
+  "2936050162": {
+    "displayProperties": {
+      
+    }
+  },
+  "4152669757": {
+    "displayProperties": {
+      
+    }
   }
 }
