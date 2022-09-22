@@ -126,5 +126,30 @@
     "displayProperties": {
       "description": "Durante el encuentro de la Mente santificada, deposita 30 motas en ambos transmisores Vex. En cada transmisor, las 30 motas deben ser depositadas dentro de un plazo de 10 segundos."
     }
+  },
+  "3577304467": {
+    "displayProperties": {
+      "description": "Los Guardianes no pueden tener dos veces la misma \"marca\" consecutivamente."
+    }
+  },
+  "2159250954": {
+    "displayProperties": {
+
+    }
+  },
+  "2890753840": {
+    "displayProperties": {
+
+    }
+  },
+  "2936050162": {
+    "displayProperties": {
+
+    }
+  },
+  "4152669757": {
+    "displayProperties": {
+
+    }
   }
 }
