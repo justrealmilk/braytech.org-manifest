@@ -102,6 +102,51 @@
     },
     "redacted": false
   },
+  "1000000051": {
+    "hash": 1000000051,
+    "displayProperties": {
+      "name": "Crucible"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "crucible|mayhem|trials|iron banner|defeat guardians"
+  },
+  "1000000052": {
+    "hash": 1000000052,
+    "displayProperties": {
+      "name": "Nightfall"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "nightfall|strike|vanguard"
+  },
+  "1000000053": {
+    "hash": 1000000053,
+    "displayProperties": {
+      "name": "Gambit"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "gambit"
+  },
   "1000000006": {
     "hash": 1000000006,
     "displayProperties": {
