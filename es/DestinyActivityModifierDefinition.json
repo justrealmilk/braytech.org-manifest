@@ -74,7 +74,7 @@
   },
   "2672226122": {
     "displayProperties": {
-      "description": "Durante el encuentro en Adquisición, cada oleada de campeones [Stagger] Imparables debe ser derrotada en un intervalo de 5 segundos o no ser derrotada."
+      "description": "Durante el encuentro en Adquisición, cada oleada de campeones  Imparables debe ser derrotada en un intervalo de 5 segundos o no ser derrotada."
     }
   },
   "2814846409": {
@@ -139,17 +139,17 @@
   },
   "2890753840": {
     "displayProperties": {
-
+      "description": "Si un Guardián tiene la mirada de Golgoroth, debe estar sobre el \"Estanque de Luz reclamada\" cuando otro Guardián la obtenga."
     }
   },
   "2936050162": {
     "displayProperties": {
-
+      "description": "A menos que estén \"Entre dimensiones\", los Guardianes no pueden activar la misma placa por fase."
     }
   },
   "4152669757": {
     "displayProperties": {
-
+      "description": "Los Guardianes no pueden matar al mismo caballero comedor de Luz o al mismo ogro comeluz."
     }
   }
 }
