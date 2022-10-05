@@ -158,22 +158,22 @@
   },
   "2159250954": {
     "displayProperties": {
-      "description": "Guardians may not hold the claiming \"Brand\" for longer than 5 seconds."      
+      "description": "Guardians may not hold the claiming \"Brand\" for longer than 5 seconds."
     }
   },
   "2890753840": {
     "displayProperties": {
-      
+      "description": "If a Guardian holds Golgoroth's gaze, they must be standing in a \"Pool of Reclaimed Light\" when another Guardian acquires it."
     }
   },
   "2936050162": {
     "displayProperties": {
-      
+      "description": "Unless \"Torn Between Dimensions\", Guardians may not activate the same plate per phase."
     }
   },
   "4152669757": {
     "displayProperties": {
-      
+      "description": "Guardians can not kill the same Light-Eater Knight or Light-Eater Ogre."
     }
   }
 }
