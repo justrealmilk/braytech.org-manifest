@@ -150,5 +150,30 @@
     "displayProperties": {
       "description": "Pendant le raid de l'Esprit Sanctifié, accumulez 30 particules à chaque relais Vex. À chaque relais, les 30 particules doivent être déposées dans les 10 secondes les unes des autres."
     }
+  },
+  "3577304467": {
+    "displayProperties": {
+      "description": "Les Gardiens ne peuvent pas détenir plus d'une même \"Marque du voleur\" par séquence.\n(Comprenez qu'un gardien ne doit jamais prendre la marque du voleur d'un même côté d'affilée. Il doit alterner entre la marque se trouvant à gauche puis celle à droite)"
+    }
+  },
+  "2159250954": {
+    "displayProperties": {
+      "description": "Les gardiens ne peuvent pas tenir la \"Marque du voleur\" revendiquée plus de 5 secondes."
+    }
+  },
+  "2890753840": {
+    "displayProperties": {
+      "description": "Si un Gardien détient le regard de Golgoroth, il doit se tenir dans une \"flaque de Lumière retrouvée\" lorsqu'un autre Gardien l'acquiert."
+    }
+  },
+  "2936050162": {
+    "displayProperties": {
+      "description": "À moins qu'ils ne soient \"Tiraillé entre les dimensions\", les Gardiens ne peuvent pas activer la même plaque par phase."
+    }
+  },
+  "4152669757": {
+    "displayProperties": {
+      "description": "Les gardiens ne peuvent pas tuer le même chevalier mangeur de lumière ou ogre mangeur de lumière."
+    }
   }
 }

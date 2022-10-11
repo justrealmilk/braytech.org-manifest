@@ -130,5 +130,35 @@
       "name": "L'Esprit Sanctifié",
       "description": "Esprit de l'Axe Vex, l'Esprit Sanctifié exerce un contrôle sur de nombreux Vex. Battez-le pour empêcher de nouvelles incursions de la division Sol à l'extérieur du Jardin Noir."
     }
+  },
+  "1406613360": {
+    "displayProperties": {
+      "name": "La Basilique",
+      "description": "Influencez la magie rituelle de la ruche en contrôlant les totems annihilateurs."
+    }
+  },
+  "2115142089": {
+    "displayProperties": {
+      "name": "Le Prêtre de Guerre",
+      "description": "Battez le Prêtre de Guerre d'Oryx avant qu'il ne vous détruise."
+    }
+  },
+  "3738629258": {
+    "displayProperties": {
+      "name": "Golgoroth",
+      "description": "Soumettez l'abomination."
+    }
+  },
+  "2951654489": {
+    "displayProperties": {
+      "name": "Les Filles d'Oryx",
+      "description": "Interrompez la concentration des sœurs."
+    }
+  },
+  "1089000747": {
+    "displayProperties": {
+      "name": "Oryx",
+      "description": "Détrôner le roi."
+    }
   }
 }
