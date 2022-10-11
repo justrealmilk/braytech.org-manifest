@@ -153,27 +153,27 @@
   },
   "3577304467": {
     "displayProperties": {
-      "description": "I Guardiani non devono tenere lo stesso \"segno\" in sequenza."
+      "description": "I Guardiani non devono avere lo stesso \"Segno\" in sequenza."
     }
   },
   "2159250954": {
     "displayProperties": {
-
+      "description": "I Guardiani non devono avere il \"Segno del neofita\" per più di 5 secondi."
     }
   },
   "2890753840": {
     "displayProperties": {
-
+      "description" : "Il Guardiano che ha lo sguardo di Golgoroth deve essere in una \"Pozza di Luce rivendicata\" quando un altro Guardiano lo ottiene."
     }
   },
   "2936050162": {
     "displayProperties": {
-
+      "description": "I Guardiani non devono attivare la stessa piastra in una fase, a meno che non si sia \"Interdimensionale\"."
     }
   },
   "4152669757": {
     "displayProperties": {
-
+      "description": "I Guardiani non devono sconfiggere lo stesso Cavaliere Mangialuce od Orco Mangialuce."
     }
   }
 }
