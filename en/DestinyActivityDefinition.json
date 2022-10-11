@@ -13,13 +13,13 @@
     "redacted": true
   },
   "1": {
-    "hash": 0,
+    "hash": 1,
     "displayProperties": {
-      "name": "—",
+      "name": "",
       "description": "No activity data."
     },
     "originalDisplayProperties": {
-      "name": "—",
+      "name": "",
       "description": "No activity data."
     },
     "modifiers": []
