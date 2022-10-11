@@ -9,9 +9,20 @@
       "name": "Classified",
       "description": "Keep it clean."
     },
-    "itemTypeDisplayName": "Insufficient Clearance",
     "modifiers": [],
     "redacted": true
+  },
+  "1": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "—",
+      "description": "No activity data."
+    },
+    "originalDisplayProperties": {
+      "name": "—",
+      "description": "No activity data."
+    },
+    "modifiers": []
   },
   "2032534090": {
     "activityLightLevel": 750,
