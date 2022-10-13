@@ -7,8 +7,19 @@
     "originalDisplayProperties": {
       "name": "Classifié",
       "description": "Garder cela propre."
+    }
+  },
+  "1": {
+    "hash": 1,
+    "displayProperties": {
+      "name": "",
+      "description": "Aucune donnée d'activité."
     },
-    "itemTypeDisplayName": "Authorisation insuffisante"
+    "originalDisplayProperties": {
+      "name": "",
+      "description": "Aucune donnée d'activité."
+    },
+    "modifiers": []
   },
   "82913930": {
     "displayProperties": {
