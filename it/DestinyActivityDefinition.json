@@ -7,8 +7,17 @@
     "originalDisplayProperties": {
       "name": "Censurato",
       "description": "Stai pulito."
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "",
+      "description": "Nessun dato."
     },
-    "itemTypeDisplayName": "Autorizzazione insufficiente"
+    "originalDisplayProperties": {
+      "name": "",
+      "description": "Nessun dato."
+    }
   },
   "82913930": {
     "displayProperties": {
