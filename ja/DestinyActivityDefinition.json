@@ -9,9 +9,20 @@
       "name": "機密事項",
       "description": "他言無用"
     },
-    "itemTypeDisplayName": "閲覧権限無し",
     "modifiers": [],
     "redacted": true
+  },
+  "1": {
+    "hash": 1,
+    "displayProperties": {
+      "name": "",
+      "description": "アクティビティデータ無し"
+    },
+    "originalDisplayProperties": {
+      "name": "",
+      "description": "アクティビティデータ無し"
+    },
+    "modifiers": []
   },
   "2032534090": {
     "activityLightLevel": 750,
