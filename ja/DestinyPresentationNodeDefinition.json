@@ -102,6 +102,51 @@
 },
 "redacted": false
 },
+"1000000051": {
+  "hash": 1000000051,
+  "displayProperties": {
+    "name": "クルーシブル"
+  },
+  "children": {
+    "presentationNodes": [],
+    "collectibles": [],
+    "records": [],
+    "metrics": [],
+    "craftables": []
+  },
+  "redacted": false,
+  "substring": "クルーシブル|カオス|オシリスの挑戦|アイアンバナー|で相手を倒す"
+},
+"1000000052": {
+  "hash": 1000000052,
+  "displayProperties": {
+    "name": "ストライク"
+  },
+  "children": {
+    "presentationNodes": [],
+    "collectibles": [],
+    "records": [],
+    "metrics": [],
+    "craftables": []
+  },
+  "redacted": false,
+  "substring": "ナイトフォール|ストライク|バンガード"
+},
+"1000000053": {
+  "hash": 1000000053,
+  "displayProperties": {
+    "name": "ギャンビット"
+  },
+  "children": {
+    "presentationNodes": [],
+    "collectibles": [],
+    "records": [],
+    "metrics": [],
+    "craftables": []
+  },
+  "redacted": false,
+  "substring": "ギャンビット"
+},
 "1000000006": {
 "hash": 1000000006,
 "displayProperties": {
