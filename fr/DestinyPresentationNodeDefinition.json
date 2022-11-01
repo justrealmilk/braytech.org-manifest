@@ -1,0 +1,178 @@
+{
+  "1000000001": {
+    "hash": 1000000001,
+    "displayProperties": {
+      "name": "Triomphes éphémères",
+      "description": "Tous les triomphes ne sont pas éternels. Certains ne sont disponibles que pour une durée limitée. Il s'agit d'une liste de triomphes définie par les développeurs qui deviendront indisponibles la saison prochaine."
+    },
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000002
+        }
+      ],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000002": {
+    "hash": 1000000002,
+    "displayProperties": {},
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000003
+        }
+      ],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000003": {
+    "hash": 1000000003,
+    "displayProperties": {
+      "name": "Season of Plunder (don't translate/translated dynamically)",
+      "presentationNodeHash": 1073993173
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [
+        {
+          "recordHash": 743129403
+        },
+        {
+          "recordHash": 262973521
+        },
+        {
+          "recordHash": 128585854
+        },
+        {
+          "recordHash": 3166966835
+        },
+        {
+          "recordHash": 2338926187
+        },
+        {
+          "recordHash": 1899278019
+        },
+        {
+          "recordHash": 161131735
+        },
+        {
+          "recordHash": 2058692502
+        }
+      ],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000004": {
+    "hash": 1000000004,
+    "displayProperties": {
+      "name": "Tous les triomphes"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000005": {
+    "hash": 1000000005,
+    "displayProperties": {
+      "name": "Tous les défis"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000051": {
+    "hash": 1000000051,
+    "displayProperties": {
+      "name": "Épreuve"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "crucible|mayhem|trials|iron banner|defeat guardians"
+  },
+  "1000000052": {
+    "hash": 1000000052,
+    "displayProperties": {
+      "name": "Assauts"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "nightfall|strike|vanguard"
+  },
+  "1000000053": {
+    "hash": 1000000053,
+    "displayProperties": {
+      "name": "Gambit"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false,
+    "substring": "gambit"
+  },
+  "1000000006": {
+    "hash": 1000000006,
+    "displayProperties": {
+      "name": "Tous les types d'armes"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  },
+  "1000000007": {
+    "hash": 1000000007,
+    "displayProperties": {
+      "name": "Tous les catalyseurs éxotiques"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
+  }
+}
