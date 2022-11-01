@@ -18,17 +18,20 @@
   "1000000051": {
     "displayProperties": {
       "name": "Crogiolo"
-    }
+    },
+    "substring": "crogiolo|pandemonio|prove|stendardo di ferro|sconfiggi guardiani"
   },
   "1000000052": {
     "displayProperties": {
       "name": "Assalti"
-    }
+    },
+    "substring": "cala la notte|assalto|avanguardia"
   },
   "1000000053": {
     "displayProperties": {
       "name": "Azzardo"
-    }
+    },
+    "substring": "azzardo"
   },
   "1000000006": {
     "displayProperties": {
