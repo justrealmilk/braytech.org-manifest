@@ -1,12 +1,37 @@
 {
+  "0": {
+    "displayProperties": {
+      "name": "Clasificado",
+      "description": "Mantenlo limpio."
+    },
+    "originalDisplayProperties": {
+      "name": "Clasificado",
+      "description": "Mantenlo limpio."
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "",
+      "description": "No hay datos de la actividad."
+    },
+    "originalDisplayProperties": {
+      "name": "",
+      "description": "No hay datos de la actividad."
+    }
+  },
   "82913930": {
     "displayProperties": {
       "description": "En órbita, planeando algo terriblemente heroico."
     }
   },
-  "1738383283": {
-    "originalDisplayProperties": {
-      "name": "Aventura excepcional: Heraldo"
+  "2393304349": {
+    "displayProperties": {
+      "name": "Estandarte de hierro: Grieta"
+    }
+  },
+  "2965669871": {
+    "displayProperties": {
+      "name": "Por libre: Estandarte de hierro: Grieta"
     }
   }
 }

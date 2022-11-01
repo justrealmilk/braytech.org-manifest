@@ -18,17 +18,20 @@
   "1000000051": {
     "displayProperties": {
       "name": "Crisol"
-    }
+    },
+    "substring": "crisol|caos|pruebas|estandarte de hierro|derrota guardianes"
   },
   "1000000052": {
     "displayProperties": {
       "name": "Asaltos"
-    }
+    },
+    "substring": "ocaso|asalto|vanguardia"
   },
   "1000000053": {
     "displayProperties": {
       "name": "Gambito"
-    }
+    },
+    "substring": "gambito"
   },
   "1000000006": {
     "displayProperties": {
