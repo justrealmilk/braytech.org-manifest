@@ -11,17 +11,17 @@
   },
   "2001": {
     "displayProperties": {
-      "name": "Tir au jugé (Hip)"
+      "name": "Hip"
     }
   },
   "2002": {
     "displayProperties": {
-      "name": "Tir visé (ADS)"
+      "name": "ADS"
     }
   },
   "3000": {
     "displayProperties": {
-      "name": "Vitesse de rechargement"
+      "name": "Rechargement"
     }
   }
 }

@@ -16,6 +16,7 @@ import DestinyObjectiveDefinition from '@Data/manifest/fr/DestinyObjectiveDefini
 import DestinyPhaseDefinition from '@Data/manifest/fr/DestinyPhaseDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/fr/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/fr/DestinySeasonDefinition.json';
+import DestinyStatDefinition from '@Data/manifest/fr/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/fr/DestinyTraitDefinition.json';
 
 const fr = {
@@ -38,6 +39,7 @@ const fr = {
     DestinyPhaseDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
+    DestinyStatDefinition,
     DestinyTraitDefinition,
   },
 };
