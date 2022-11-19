@@ -1,0 +1,27 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "Total"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "Atténuation des dégâts"
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Tir au jugé (Hip)"
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "Tir visé (ADS)"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "Vitesse de rechargement"
+    }
+  }
+}
