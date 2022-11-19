@@ -1,0 +1,27 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "Total"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "Damage Falloff"
+    }
+  },
+  "2001": {
+    "displayProperties": {
+      "name": "Hip"
+    }
+  },
+  "2002": {
+    "displayProperties": {
+      "name": "ADS"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "Reload Speed"
+    }
+  }
+}
