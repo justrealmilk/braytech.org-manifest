@@ -9,19 +9,9 @@
       "name": "Atténuation des dégâts"
     }
   },
-  "2001": {
-    "displayProperties": {
-      "name": "Hip"
-    }
-  },
-  "2002": {
-    "displayProperties": {
-      "name": "ADS"
-    }
-  },
   "3000": {
     "displayProperties": {
-      "name": "Rechargement"
+      "name": "Reload Time"
     }
   }
 }
