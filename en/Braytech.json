@@ -1,25 +1,4 @@
 {
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primary",
-      "description": "This weapon has infinite reserves."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Special",
-      "description": "This weapon uses special ammo."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Heavy",
-      "description": "This weapon uses heavy ammo."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
   "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
@@ -102,6 +81,41 @@
       "name": "Intern"
     },
     "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Primary",
+      "description": "This weapon has infinite reserves."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Special",
+      "description": "This weapon uses special ammo."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "Heavy",
+      "description": "This weapon uses heavy ammo."
+    },
+    "itemTypeDisplayName": "Ammo"
+  },
+  "stat-damage-falloff": {
+    "displayProperties": {
+      "name": "Damage Falloff",
+      "description": "Approximate distances where damage falloff begins for hipfire and ADS (aim down sights)."
+    },
+    "itemTypeDisplayName": "Stat"
+  },
+  "stat-reload-time": {
+    "displayProperties": {
+      "name": "Reload Time",
+      "description": "The time it takes for this weapon to complete a full reload and fire. This value is based only on the reload speed stat and is unaffected by perks."
+    },
+    "itemTypeDisplayName": "Stat"
   },
   "accurate-gear-power-average": {
     "displayProperties": {
