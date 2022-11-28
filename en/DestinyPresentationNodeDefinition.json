@@ -1,4 +1,19 @@
 {
+  "1731162900": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
+    }
+  },
+  "638914517": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
+    }
+  },
+  "3686962409": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
+    }
+  },
   "1000000001": {
     "hash": 1000000001,
     "displayProperties": {
