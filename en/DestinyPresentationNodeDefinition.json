@@ -38,9 +38,7 @@
     "displayProperties": {},
     "children": {
       "presentationNodes": [
-        {
-          "presentationNodeHash": 1000000003
-        }
+        
       ],
       "collectibles": [],
       "records": [],
@@ -52,37 +50,14 @@
   "1000000003": {
     "hash": 1000000003,
     "displayProperties": {
-      "name": "Season of Plunder (don't translate/translated dynamically)",
-      "presentationNodeHash": 1073993173
+      "name": "Season of the Seraph (don't translate/translated dynamically)",
+      "presentationNodeHash": 0
     },
     "children": {
       "presentationNodes": [],
       "collectibles": [],
       "records": [
-        {
-          "recordHash": 743129403
-        },
-        {
-          "recordHash": 262973521
-        },
-        {
-          "recordHash": 128585854
-        },
-        {
-          "recordHash": 3166966835
-        },
-        {
-          "recordHash": 2338926187
-        },
-        {
-          "recordHash": 1899278019
-        },
-        {
-          "recordHash": 161131735
-        },
-        {
-          "recordHash": 2058692502
-        }
+        
       ],
       "metrics": [],
       "craftables": []
