@@ -37,28 +37,9 @@
     "hash": 1000000002,
     "displayProperties": {},
     "children": {
-      "presentationNodes": [
-        
-      ],
-      "collectibles": [],
-      "records": [],
-      "metrics": [],
-      "craftables": []
-    },
-    "redacted": false
-  },
-  "1000000003": {
-    "hash": 1000000003,
-    "displayProperties": {
-      "name": "Season of the Seraph (don't translate/translated dynamically)",
-      "presentationNodeHash": 0
-    },
-    "children": {
       "presentationNodes": [],
       "collectibles": [],
-      "records": [
-        
-      ],
+      "records": [],
       "metrics": [],
       "craftables": []
     },
