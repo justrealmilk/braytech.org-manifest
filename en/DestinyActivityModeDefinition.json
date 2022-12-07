@@ -107,5 +107,10 @@
     "displayProperties": {
       "description": "Compete in a fireteam-required event version of Elimination. Earn as many wins on a ticket as you can. Three losses and you're out."
     }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Achieve victory by defeating opponents and preventing revives. Revive a defeated teammate to steal back the point your opponents scored. Win the most rounds or face off in an elimination showdown."
+    }
   }
 }
