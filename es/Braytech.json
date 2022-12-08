@@ -333,12 +333,6 @@
       "description": "Compara las _estadísticas históricas_ de varias actividades entre todos los miembros del clan."
     }
   },
-  "sub-clan-timetable": {
-    "displayProperties": {
-      "name": "Calendario",
-      "description": "Plasma los eventos del clan por escrito y hazlo oficial."
-    }
-  },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relaciones",

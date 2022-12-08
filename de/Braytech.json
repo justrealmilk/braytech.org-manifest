@@ -257,12 +257,6 @@
       "description": "Vergleiche _Historische Statistiken_ für mehrere Aktivitäten über Clan-Mitglieder hinweg."
     }
   },
-  "sub-clan-timetable": {
-    "displayProperties": {
-      "name": "Stundenplan",
-      "description": "Schreib Clan-Events auf (digitales) Papier und mach sie offiziell"
-    }
-  },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Beziehungen",

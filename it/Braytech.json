@@ -319,12 +319,6 @@
       "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan"
     }
   },
-  "sub-clan-timetable": {
-    "displayProperties": {
-      "name": "Programmazione",
-      "description": "Metti per iscritto gli eventi del clan e rendili ufficiali"
-    }
-  },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relazioni",
