@@ -108,5 +108,10 @@
     "displayProperties": {
       "description": "Participez à une version spéciale d'Elimination requérant une équipe complète. Gagnez autant de victoires que possible avec un ticket. Trois défaites et vous êtes éliminés."
     }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Remportez la victoire en battant vos adversaires et en empêchant les réanimations. Réanimez un coéquipier vaincu pour récupérer le point marqué par vos adversaires. Gagnez le plus de manches ou affrontez-vous dans une confrontation éliminatoire."
+    }
   }
 }
