@@ -333,12 +333,6 @@
       "description": "Compare _Historical Stats_ for several activity modes across all clan members"
     }
   },
-  "sub-clan-timetable": {
-    "displayProperties": {
-      "name": "Timetable",
-      "description": "Put clan events down on paper and make it official"
-    }
-  },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "Relationships",

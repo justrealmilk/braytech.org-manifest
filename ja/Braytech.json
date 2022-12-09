@@ -319,12 +319,6 @@
       "description": "いくつかのアクティビティでの _歴史的統計データ_ をクランメンバー内で比較します"
     }
   },
-  "sub-clan-timetable": {
-    "displayProperties": {
-      "name": "タイムテーブル",
-      "description": "クラン内のイベントを書き出してメンバー内で共有できます"
-    }
-  },
   "sub-clan-relationships": {
     "displayProperties": {
       "name": "信頼関係",
