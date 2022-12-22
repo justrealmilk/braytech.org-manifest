@@ -1,25 +1,4 @@
 {
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "キネティック",
-      "description": "この武器には弾数制限がありません。"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "エネルギー",
-      "description": "この武器は特殊弾を使用します"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "ヘビー",
-      "description": "この武器はヘビー弾を使用します"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
   "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
@@ -102,6 +81,41 @@
       "name": "インターン"
     },
     "itemTypeDisplayName": "Braytech支援者"
+  },
+    "ammo-type-primary": {
+      "displayProperties": {
+        "name": "キネティック",
+        "description": "この武器には弾数制限がありません。"
+      },
+      "itemTypeDisplayName": "弾薬"
+    },
+    "ammo-type-special": {
+      "displayProperties": {
+        "name": "エネルギー",
+        "description": "この武器は特殊弾を使用します"
+      },
+      "itemTypeDisplayName": "弾薬"
+    },
+    "ammo-type-heavy": {
+      "displayProperties": {
+        "name": "ヘビー",
+        "description": "この武器はヘビー弾を使用します"
+      },
+      "itemTypeDisplayName": "弾薬"
+    },
+    "stat-damage-falloff": {
+      "displayProperties": {
+        "name": "ダメージ減衰",
+        "description": "腰撃ちまたはADSにおいてダメージが減衰しはじめるおおよその距離を示します。"
+      },
+      "itemTypeDisplayName": "Stat"
+    },
+    "stat-reload-time": {
+      "displayProperties": {
+        "name": "リロード時間",
+        "description": "全弾リロードが完了し、撃てるようになるまでに掛かる時間を指します。この値は武器のリロード速度に基いており、パークの影響は考慮されていません。"
+      },
+      "itemTypeDisplayName": "Stat"
   },
   "accurate-gear-power-average": {
     "displayProperties": {
@@ -221,6 +235,18 @@
     "displayProperties": {
       "name": "プロフィール更新失敗",
       "description": "プロフィールデータが _更新に失敗_ しました。これは、バックグラウンドの更新が非アクティブのために一時停止しているか、サービスがBungieのサーバーに通信できなかったことを意味します。 \n\n Bungie.netのサービスが許す限り、BrayTechを継続して使用することでこの問題は解決されます。"
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "古いプロファイル",
+      "description": "非アクティブのため、バックグラウンド更新が一時停止されました。"
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "古いプロファイル",
+      "description": "Bungie.netは何らかの理由で古い情報を出力しています。\n\nBungie.netのサービスが許す限り、Braytechを継続的に使用することで最新の情報に更新され、この問題は解決すると思われます。"
     }
   },
   "activity-contest-mode": {

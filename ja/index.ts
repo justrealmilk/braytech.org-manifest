@@ -19,7 +19,10 @@ import DestinyPresentationNodeDefinition from '@Data/manifest/ja/DestinyPresenta
 import DestinyRecordDefinition from '@Data/manifest/ja/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/ja/DestinySeasonDefinition.json';
 import DestinySocketCategoryDefinition from '@Data/manifest/ja/DestinySocketCategoryDefinition.json';
+import DestinyStatDefinition from '@Data/manifest/ja/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/ja/DestinyTraitDefinition.json';
+
+import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/ja/DestinyInventoryItemDefinitionColloquial.json';
 
 const ja = {
   definitions: {
@@ -44,7 +47,13 @@ const ja = {
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinySocketCategoryDefinition,
+    DestinyStatDefinition,
     DestinyTraitDefinition,
+  },
+  optional: {
+    colloquialDefinitions: {
+      DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
+    },
   },
 };
 

@@ -1,0 +1,17 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "合計"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "ダメージ減衰"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "リロード時間"
+    }
+  }
+}
