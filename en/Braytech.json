@@ -234,7 +234,19 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Stale Profile",
-      "description": "Your profile data is _stale_. This means that background refresh is paused due to inactivity or the service failed to reach Bungie's servers for the moment.\n\nContinued use of Braytech will resolve this issue, Bungie.net services permitting."
+      "description": "Braytech was unable to reach Bungie.net.\n\nContinued use of Braytech will resolve this issue, Bungie.net service permitting."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "Stale Profile",
+      "description": "Background refresh was paused due to inactivity."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "Stale Profile",
+      "description": "Bungie.net returned old information.\n\nContinued use of Braytech will resolve this issue, Bungie.net service permitting."
     }
   },
   "activity-contest-mode": {

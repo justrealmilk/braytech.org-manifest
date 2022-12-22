@@ -26,6 +26,9 @@
   "4073017996": {
     "progressDescription": "\"Duality\" dungeon completed"
   },
+  "424208044": {
+    "progressDescription": "\"Spire of the Watcher\" dungeon completed"
+  },
   "1501017628": {
     "progressDescription": "\"Deep Stone Crypt\" raid completed"
   },
@@ -74,11 +77,11 @@
   "2274279157": {
     "progressDescription": "Interact with the Crown of Sorrow"
   },
-  "1282177854": {
-    "progressDescription": "Star Chart bounties completed"
+  "777097966": {
+    "progressDescription": "Clovis frame bounties completed"
   },
-  "110476073": {
-    "progressDescription": "Interact with the Star Chart"
+  "889231961": {
+    "progressDescription": "Speak with the Clovis frame"
   },
   "3270653927": {
     "progressDescription": "Defeat powerful combatants in the \"Vox Obscura\" quest"
@@ -136,5 +139,23 @@
   },
   "3935332150": {
     "progressDescription": "Treasure acquired during \"Expedition\" activities"
+  },
+  "2581410975": {
+    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
+  },
+  "1979753199": {
+    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
+  },
+  "2300038599": {
+    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
+  },
+  "2144936281": {
+    "progressDescription": "\"Heist Battlegrounds\" completed on legend difficulty"
+  },
+  "3675131393": {
+    "progressDescription": "\"Operation: Seraph's Shield\" completed"
+  },
+  "2667467981": {
+    "progressDescription": "\"Operation: Seraph's Shield\" completed on legend difficulty"
   }
 }
