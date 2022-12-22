@@ -26,6 +26,9 @@
   "4073017996": {
     "progressDescription": "Donjon \"Dualité\" terminé"
   },
+  "424208044": {
+    "progressDescription": "Donjon \"Flèche de la Vigie\" terminé"
+  },
   "1501017628": {
     "progressDescription": "Raid \"Crypte de la Pierre\" terminé"
   },
@@ -74,11 +77,11 @@
   "2274279157": {
     "progressDescription": "Intéragir avec la Couronne du Malheur"
   },
-  "1282177854": {
-    "progressDescription": "Contrats de la Carte Stellaire terminés"
+  "777097966": {
+    "progressDescription": "Contrats de Cadre exo terminées"
   },
-  "110476073": {
-    "progressDescription": "Intéragir avec la Carte Stellaire"
+  "889231961": {
+    "progressDescription": "Parler avec le Cadre exo"
   },
   "3270653927": {
     "progressDescription": "Battez de puissants combattants dans la quête \"Vox Obscura\""
@@ -148,5 +151,23 @@
   },
   "3935332150": {
     "progressDescription": "Trésor récupéré durant les activités \"Expédition\""
+  },
+  "2581410975": {
+    "progressDescription": "Coffres de séraphins ouverts durant les activités de \"Champs de Bataille Braquage\""
+  },
+  "1979753199": {
+    "progressDescription": "Coffres de séraphins ouverts durant les activités de  \"Champs de Bataille Braquage\""
+  },
+  "2300038599": {
+    "progressDescription": "Coffres de séraphins ouverts durant les activités de  \"Champs de Bataille Braquage\""
+  },
+  "2144936281": {
+    "progressDescription": "\"Champs de Bataille Braquage\" terminée en difficulté Légende"
+  },
+  "3675131393": {
+    "progressDescription": "\"Opération: Bouclier de Séraphin\" terminée"
+  },
+  "2667467981": {
+    "progressDescription": "\"Opération: Bouclier de Séraphin\" terminée en difficulté Légende"
   }
 }
