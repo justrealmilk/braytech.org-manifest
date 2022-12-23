@@ -4,7 +4,8 @@
       "name": "機密事項",
       "description": "他言無用"
     },
-    "itemTypeDisplayName": "閲覧権限無し"
+    "itemTypeDisplayName": "閲覧権限無し",
+    "redacted": true
   },
   "1": {
     "displayProperties": {
@@ -26,7 +27,8 @@
     },
     "inventory": {
       "tierTypeName": "Common"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "372496383": {
     "displayProperties": {
@@ -36,17 +38,29 @@
   "691393048": {
     "displayProperties": {
       "description": "大幅にガーディアンの経験値を増やせる"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "1190250163": {
     "displayProperties": {
       "description": "シンセコード素材は織機を使ってシンセウィーブに変換することができる"
     }
   },
+  "1387420892": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "1572351682": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
   "1711513650": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増やせます。"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "1808687944": {
     "displayProperties": {
@@ -56,7 +70,8 @@
   "1858002338": {
     "displayProperties": {
       "description": "ガーディアンの経験値を増やせます。"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "1950177353": {
     "displayProperties": {
@@ -64,46 +79,128 @@
       "description": "迷宮 \"デュアリティ \" でエキゾチックソード \"ハートシャドウ\" のドロップ率が増加します。"
     }
   },
+  "3224646387": {
+    "displayProperties": {
+      "name": " \"必要の階層\" のドロップ率増加",
+      "description": "迷宮 \"監視者のスパイア \" でエキゾチック弓 \"必要の階層\" のドロップ率が増加します。"
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "ガーディアンの経験値を増加させる。"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "2250176030": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させる。"
-    }
+    },
+    "traitIds": ["item_type.experience"]
   },
   "2497395625": {
     "displayProperties": {
       "description": "武器の成形に使用される材料で、固有プラグの調整に必要とする。\n\n 主にレジェンダリー武器の解体で入手できるが、アクティビティをクリア報酬でも得ることがある。"
     }
   },
+  "2679019194": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2686128774": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2850782006": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
   "3348653032": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させます。"
-    }
+    },
+    "traitIds": ["item_type.experience"]
+  },
+  "3381471334": {
+    "traitIds": ["item_type.experience"]
   },
   "3491404510": {
     "displayProperties": {
       "description": "武器の成形に使用される素材。\n\nレジェンダリー武器のディープサイトの共振の目標を達成することで入手可能。"
     },
-    "itemTypeDisplayName": "Material"
+    "itemTypeDisplayName": "Material",
+    "inventory": {
+      "maxStackSize": 10000
+    }
   },
   "3582080006": {
     "displayProperties": {
       "description": "ガーディアンの経験値を大幅に増加させる。"
-    }
-  },
+    },
+    "traitIds": ["item_type.experience"]
+    },
   "23239861010": {
     "displayProperties": {
-      "description": "現在マスターワーク済を装備していない",
-      "name": "マスターワークのソケットが空だ"
-    }
+      "description": "現在マスターワーク済を装備していません",
+      "name": "マスターワークのソケットが空です",
+      "iconLocal": "/static/images/extracts/ui/items/no-mod.png",
+      "hasIcon": true
+    },
+    "itemTypeDisplayName": "Weapon Mod",
+    "tooltipStyle": "vendor_action",
+    "inventory": {
+      "maxStackSize": 1000,
+      "bucketTypeHash": 2422292810,
+      "tierTypeHash": 3340296461,
+      "tierTypeName": "Common",
+      "tierType": 2
+    },
+    "plug": {
+      "insertionRules": [],
+      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
+      "plugCategoryHash": 3945646995,
+      "uiPlugLabel": "",
+      "plugStyle": 0,
+      "plugAvailability": 0
+    },
+    "perks": [],
+    "itemCategoryHashes": [59, 945330047, 610365472],
+    "itemType": 19,
+    "itemSubType": 0,
+    "classType": 3,
+    "breakerType": 0,
+    "equippable": false,
+    "hash": 23239861010,
+    "redacted": false
   },
   "73143230001": {
     "displayProperties": {
-      "name": "最高峰の装備 (弱)"
+      "name": "最高峰の装備 (弱)",
+      "hasIcon": false
     }
+  },
+  "3487253372": {
+    "breakerType": 1,
+    "breakerTypeHash": 485622768
+  },
+  "3941205951": {
+    "itemType": 16
+  },
+  "2550323932": {
+    "itemType": 16
+  },
+  "2240888816": {
+    "itemType": 16
+  },
+  "3168997075": {
+    "itemType": 16
+  },
+  "2932390016": {
+    "itemType": 16
+  },
+  "2328211300": {
+    "itemType": 16
   }
 }
