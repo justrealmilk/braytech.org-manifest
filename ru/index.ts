@@ -7,7 +7,6 @@ import DestinyActivityModifierDefinition from '@Data/manifest/ru/DestinyActivity
 import DestinyChecklistDefinition from '@Data/manifest/ru/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/ru/DestinyCollectibleDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/ru/DestinyDestinationDefinition.json';
-import DestinyEnemyRaceDefinition from '@Data/manifest/ru/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ru/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/ru/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/ru/DestinyInventoryItemDefinition.json';
@@ -25,7 +24,6 @@ const ru = {
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDestinationDefinition,
-    DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,

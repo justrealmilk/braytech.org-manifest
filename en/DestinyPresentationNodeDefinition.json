@@ -158,5 +158,84 @@
       "craftables": []
     },
     "redacted": false
+  },
+  "2381001021": {
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000008
+        }
+      ]
+    }
+  },
+  "1000000008": {
+    "hash": 1000000008,
+    "displayProperties": {
+      "name": "Redeemable",
+      "description": "These emblems can be collecting by redeeming them with a code for free at https://www.bungie.net/redeem"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+            "collectibleHash": 908813207
+        },
+        {
+            "collectibleHash": 4137754755
+        },
+        {
+            "collectibleHash": 4137754752
+        },
+        {
+            "collectibleHash": 4137754753
+        },
+        {
+            "collectibleHash": 3215337910
+        },
+        {
+            "collectibleHash": 3232115498
+        },
+        {
+            "collectibleHash": 3332781245
+        },
+        {
+            "collectibleHash": 3282448382
+        },
+        {
+            "collectibleHash": 3299225966
+        },
+        {
+            "collectibleHash": 3399891680
+        },
+        {
+            "collectibleHash": 3399891683
+        },
+        {
+            "collectibleHash": 3399891682
+        },
+        {
+            "collectibleHash": 3399891685
+        },
+        {
+            "collectibleHash": 1939502752
+        },
+        {
+            "collectibleHash": 1939502753
+        },
+        {
+            "collectibleHash": 1973057929
+        },
+        {
+            "collectibleHash": 2006613205
+        },
+        {
+            "collectibleHash": 2056946089
+        }
+    ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "redacted": false
   }
 }

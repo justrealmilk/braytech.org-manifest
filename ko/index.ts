@@ -6,7 +6,6 @@ import DestinyActivityModeDefinition from '@Data/manifest/ko/DestinyActivityMode
 import DestinyActivityModifierDefinition from '@Data/manifest/ko/DestinyActivityModifierDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/ko/DestinyChecklistDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/ko/DestinyDestinationDefinition.json';
-import DestinyEnemyRaceDefinition from '@Data/manifest/ko/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ko/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/ko/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/ko/DestinyInventoryItemDefinition.json';
@@ -23,7 +22,6 @@ const ko = {
     DestinyActivityModifierDefinition,
     DestinyChecklistDefinition,
     DestinyDestinationDefinition,
-    DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,

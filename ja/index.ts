@@ -8,7 +8,6 @@ import DestinyChecklistDefinition from '@Data/manifest/ja/DestinyChecklistDefini
 import DestinyCollectibleDefinition from '@Data/manifest/ja/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/ja/DestinyDamageTypeDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/ja/DestinyDestinationDefinition.json';
-import DestinyEnemyRaceDefinition from '@Data/manifest/ja/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ja/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/ja/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/ja/DestinyInventoryItemDefinition.json';
@@ -22,8 +21,6 @@ import DestinySocketCategoryDefinition from '@Data/manifest/ja/DestinySocketCate
 import DestinyStatDefinition from '@Data/manifest/ja/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/ja/DestinyTraitDefinition.json';
 
-import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/ja/DestinyInventoryItemDefinitionColloquial.json';
-
 const ja = {
   definitions: {
     Braytech,
@@ -36,7 +33,6 @@ const ja = {
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
-    DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
@@ -49,11 +45,6 @@ const ja = {
     DestinySocketCategoryDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
-  },
-  optional: {
-    colloquialDefinitions: {
-      DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
-    },
   },
 };
 

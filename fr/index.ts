@@ -8,7 +8,6 @@ import DestinyChecklistDefinition from '@Data/manifest/fr/DestinyChecklistDefini
 import DestinyCollectibleDefinition from '@Data/manifest/fr/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/fr/DestinyDamageTypeDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/fr/DestinyDestinationDefinition.json';
-import DestinyEnemyRaceDefinition from '@Data/manifest/fr/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/fr/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/fr/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/fr/DestinyInventoryItemDefinition.json';
@@ -31,7 +30,6 @@ const fr = {
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
-    DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,

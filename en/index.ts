@@ -8,7 +8,6 @@ import DestinyChecklistDefinition from '@Data/manifest/en/DestinyChecklistDefini
 import DestinyCollectibleDefinition from '@Data/manifest/en/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/en/DestinyDamageTypeDefinition.json';
 import DestinyDestinationDefinition from '@Data/manifest/en/DestinyDestinationDefinition.json';
-import DestinyEnemyRaceDefinition from '@Data/manifest/en/DestinyEnemyRaceDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/en/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/en/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/en/DestinyInventoryItemDefinition.json';
@@ -19,6 +18,7 @@ import DestinyPresentationNodeDefinition from '@Data/manifest/en/DestinyPresenta
 import DestinyRecordDefinition from '@Data/manifest/en/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/en/DestinySeasonDefinition.json';
 import DestinySocketCategoryDefinition from '@Data/manifest/en/DestinySocketCategoryDefinition.json';
+import DestinySourceDefinition from '@Data/manifest/en/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/en/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en/DestinyTraitDefinition.json';
 
@@ -36,7 +36,6 @@ const en = {
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
-    DestinyEnemyRaceDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
@@ -47,6 +46,7 @@ const en = {
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinySocketCategoryDefinition,
+    DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
   },
