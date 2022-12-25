@@ -202,5 +202,57 @@
   },
   "2328211300": {
     "itemType": 16
+  },
+  "10493725": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CDF.png"
+  },
+  "1078226393": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CEB.png"
+  },
+  "1078226394": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1D08.png"
+  },
+  "1078226395": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CF3.png"
+  },
+  "1141716960": {
+    "secondaryOverlay": "/static/images/extracts/emblems/9f83f555a9e4a9df89a6e705459283b6.png"
+  },
+  "3735294182": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07DF.png"
+  },
+  "3735294183": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06F5.png"
+  },
+  "3735294185": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07B2.png",
+    "secondarySpecial": "/static/images/extracts/emblems/0331-07B5.png"
+  },
+  "3752071765": {
+    "secondaryOverlay": "/static/images/extracts/emblems/f1cad8b2478d676a9cbbbb9aa83df8ef.png"
+  },
+  "3986958426": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06D2.png"
+  },
+  "3986958430": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06A4.png"
+  },
+  "3986958431": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07A3.png"
+  },
+  "866034301": {
+    "secondarySpecial": "/static/images/extracts/emblems/0276-1D6A.png"
+  },
+  "3903070392": {
+    "secondarySpecial": "/static/images/extracts/emblems/0331-0711.jpg"
+  },
+  "3936625542": {
+    "secondarySpecial": "/static/images/extracts/emblems/02EF-0197.png"
+  },
+  "3961503936": {
+    "secondarySpecial": "/static/images/extracts/emblems/0281-00001809.png"
+  },
+  "3970180842": {
+    "secondarySpecial": "/static/images/extracts/emblems/0311-03DD.jpg"
   }
 }
