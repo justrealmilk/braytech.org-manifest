@@ -234,7 +234,19 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Perfil obsoleto",
-      "description": "Tus datos de perfil están _obsoletos_. Esto significa que la actualización en segundo plano se detuvo debido a inactividad o a que el servicio no llegó a los servidores de Bungie por el momento.\n\nEl uso continuado de Braytech resolverá este problema, si los servicios de Bungie.net lo permiten."
+      "description": "Braytech no pudo comunicarse con Bungie.net.\n\nEl uso continuado de Braytech resolverá este problema, si el servicio de Bungie.net lo permite."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "Perfil obsoleto",
+      "description": "La actualización en segundo plano se detuvo por inactividad."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "Perfil obsoleto",
+      "description": "Bungie.net devolvió información antigua.\n\nEl uso continuado de Braytech resolverá este problema, si el servicio de Bungie.net lo permite."
     }
   },
   "activity-contest-mode": {
