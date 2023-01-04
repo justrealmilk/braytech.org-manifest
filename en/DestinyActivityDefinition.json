@@ -53,10 +53,24 @@
       "name": "Freelance: Iron Banner: Rift"
     }
   },
-  "55186263": {
-    "pgcrImage": "/img/destiny_content/pgcr/skydock_iv.jpg"
+  "1214397515": {
+    "displayProperties": {
+      "name": "Iron Banner: Eruption"
+    }
   },
-  "55186256": {
-    "pgcrImage": "/img/destiny_content/pgcr/skydock_iv.jpg"
+  "3700942889": {
+    "displayProperties": {
+      "name": "Freelance: Iron Banner: Eruption"
+    }
+  },
+  "2888503916": {
+    "displayProperties": {
+      "name": "Iron Banner: Fortress"
+    }
+  },
+  "1698629738": {
+    "displayProperties": {
+      "name": "Freelance: Iron Banner: Fortress"
+    }
   }
 }
