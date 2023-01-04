@@ -52,6 +52,17 @@
       "description": "Did you throw enough grenades?"
     }
   },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Competitive",
+      "description": "Matches in this playlist affect your Competitive Division placement. Wins will lead to Promotions, increasing your Division placement. Losses will lead to Relegations, lowering your Division placement."
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Achieve victory by collecting the Spark and igniting the opponent's Rift."
+    }
+  },
   "1848252830": {
     "displayProperties": {
       "description": "Hunt hostiles in active warzones. Reckon with greater powers. Be notorious."
