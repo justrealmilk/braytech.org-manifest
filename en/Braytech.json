@@ -189,10 +189,10 @@
       "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
     }
   },
-  "coverage": {
+  "activity-weapon-popular": {
     "displayProperties": {
-      "name": "Coverage",
-      "description": "This translation's coverage represented by percentage."
+      "name": "Oh, to be popular",
+      "description": "This wepaon is _so_ hot right now."
     }
   },
   "total-resets": {
