@@ -192,7 +192,7 @@
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Oh, to be popular",
-      "description": "_This weapon is so hot right now._\n\nSum of final blows by combatants using this weapon.\n\nOutliers are determined with the formula: `Q3 + IQR * 2`"
+      "description": "_This weapon is so hot right now._\n\nSum of final blows by combatants using this weapon.\n\nOutliers are determined with the formula: \n`Sum of weapon final blows >= Q3 + IQR`"
     }
   },
   "total-resets": {
