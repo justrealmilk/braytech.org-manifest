@@ -9,6 +9,7 @@ import DestinyDestinationDefinition from '@Data/manifest/ko/DestinyDestinationDe
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ko/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/ko/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/ko/DestinyInventoryItemDefinition.json';
+import DestinyObjectiveDefinition from '@Data/manifest/ko/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/ko/DestinyPhaseDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/ko/DestinySeasonDefinition.json';
 
@@ -25,6 +26,7 @@ const ko = {
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
     DestinySeasonDefinition,
   },
