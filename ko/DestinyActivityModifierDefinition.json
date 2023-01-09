@@ -1,4 +1,46 @@
 {
+  "25589576690": {
+    "displayProperties": {
+      "name": "태양 방어막",
+      "description": "태양 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "32153845200": {
+    "displayProperties": {
+      "name": "전기 방어막",
+      "description": "전기 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "33620748140": {
+    "displayProperties": {
+      "name": "공허 방어막",
+      "description": "공허 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "태양 및 전기 방어막",
+      "description": "태양 및 전기 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "태양 및 공허 방어막",
+      "description": "태양 및 공허 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "전기 및 공허 방어막",
+      "description": "전기 및 공허 방어막을 두른 적을 상대합니다."
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "태양, 전기, 공허 방어막",
+      "description": "태양, 전기, 공허 방어막을 두른 적을 상대합니다."
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "괴인 타닉스 전투: 처치할 때, 원자핵 4개를 동시에 사출한 후 처치해야 합니다."
