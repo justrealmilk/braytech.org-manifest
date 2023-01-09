@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "지식: 달의 실종자"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "고스트 파편"
     },
     "progressDescription": "고스트 파편 회수"
   },
@@ -137,9 +140,12 @@
     "progressDescription": "수집한 나방"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "지식: 저주받은 자의 심문"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "괴사성 암호"
     },
     "progressDescription": "수집한 괴사성 암호"
   }
