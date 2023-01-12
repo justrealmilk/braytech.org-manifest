@@ -41,46 +41,40 @@
     },
     "itemTypeDisplayName": "Platform"
   },
-  "flair-warmind": {
-    "displayProperties": {
-      "name": "Superintendent",
-      "description": "Tom Chapman, creator and engineer of Braytech."
-    },
-    "itemTypeDisplayName": "Artificial Intelligence"
-  },
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": ""
+      "description": "_Creator of Braytech._"
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
-  "flair-tokai": {
+  "flair-patron-submind": {
     "displayProperties": {
-      "name": "Tokai",
-      "description": ""
+      "name": "Submind",
+      "description": "_A fragment of the Warmind._\nAn invaluable Patreon subscriber."
     },
-    "itemTypeDisplayName": "Braytech Concierge"
+    "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-patron-veteran": {
+  "flair-patron-researcher": {
     "displayProperties": {
-      "name": "Subroutine",
-      "description": "This Guardian is a beacon of light who, through their actions, have proven themselves to value bravery and service above all else."
+      "name": "Researcher",
+      "description": "_One of few surviving researchers who've escaped the treachery of Clovis Bray._\nAn invaluable Patreon subscriber."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
   "flair-patron": {
     "displayProperties": {
-      "name": "Researcher",
-      "description": "A technical fellow at Clovis Bray, this Guardian seeks to improve Braytech."
+      "name": "Patron",
+      "description": "An invaluable Patreon subscriber."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-patron-intern": {
+  "flair-cryptarch": {
     "displayProperties": {
-      "name": "Intern"
+      "name": "Cryptarch",
+      "description": "_A generous translator of Braytech._"
     },
-    "itemTypeDisplayName": "Braytech Supporter"
+    "itemTypeDisplayName": "Braytech Translator"
   },
   "ammo-type-primary": {
     "displayProperties": {
