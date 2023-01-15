@@ -261,6 +261,11 @@
       "description": "Push notifications can reach you when you're not using Braytech and ensure you don't miss whatever it is that you're chasing."
     }
   },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_This map charts the steps on the path to the top._"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
