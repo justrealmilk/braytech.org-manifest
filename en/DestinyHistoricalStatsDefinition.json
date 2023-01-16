@@ -21,10 +21,12 @@
     "unitType": 7
   },
   "precisionKills": {
-    "statName": "Precision"
+    "statName": "Precision",
+    "statNameAbbr": "P"
   },
   "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuracy"
+    "statName": "Accuracy",
+    "statNameAbbr": "A"
   },
   "score": {
     "statNameAbbr": "S"
