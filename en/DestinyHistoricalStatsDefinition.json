@@ -1,4 +1,106 @@
 {
+  "opponentsDefeated": {
+    "statName": "Kills + Assists",
+    "statNameAbbr": "KA"
+  },
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "killsDeathsRatio": {
+    "statName": "K/D",
+    "statNameAbbr": "KD"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Average K/D"
+  },
+  "winRate": {
+    "statName": "Win Rate",
+    "unitType": 7
+  },
+  "precisionKills": {
+    "statName": "Precision"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Accuracy"
+  },
+  "score": {
+    "statNameAbbr": "S"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Current Competitive Rating",
+    "statNameAlt": "Current Rating",
+    "statDescription": "Player's current Competitive Division rating."
+  },
+  "currentEloRating": {
+    "statName": "Current Elo Rating",
+    "statNameAlt": "Current Elo",
+    "statDescription": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Crests Secured"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Crests Recovered"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kills Secured"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Allied Kills Secured"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "ML"
+  },
+  "highValueKills": {
+    "statName": "High Value Kills"
+  },
+  "invasionKills": {
+    "statName": "Kills as Invader",
+    "statNameAbbr": "IK"
+  },
+  "invasionDeaths": {
+    "statName": "Deaths as Invader"
+  },
+  "invaderKills": {
+    "statName": "Invaders Killed"
+  },
+  "invaderDeaths": {
+    "statName": "Deaths to Invaders"
+  },
+  "primevalDamage": {
+    "statName": "Primeval Damage",
+    "statNameAbbr": "D"
+  },
+  "primevalKills": {
+    "statName": "Primeval Kills"
+  },
+  "motesDenied": {
+    "statName": "Motes Denied"
+  },
+  "invasions": {
+    "statName": "Invasions"
+  },
+  "blockerKills": {
+    "statName": "Blocker Kills"
+  },
+  "smallBlockersSent": {
+    "statName": "Small Blockers Sent"
+  },
+  "mediumBlockersSent": {
+    "statName": "Medium Blockers Sent"
+  },
+  "largeBlockersSent": {
+    "statName": "Large Blockers Sent"
+  },
   "medals_pvecomp_medal_void_blade_multikill": {
     "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007772.png"
   },
@@ -112,82 +214,6 @@
   },
   "medals_pvecomp_medal_invasion_shutdown": {
     "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007805.png"
-  },
-  "killsDeathsRatio": {
-    "statName": "K/D"
-  },
-  "winRate": {
-    "statName": "Win Rate",
-    "unitType": 7
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
-  },
-  "supremacySecureRate": {
-    "statName": "Secure Rate"
-  },
-  "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
-  },
-  "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
-  },
-  "highValueKills": {
-    "statName": "High Value Kills"
-  },
-  "invasionKills": {
-    "statName": "Kills as Invader"
-  },
-  "invasionDeaths": {
-    "statName": "Deaths as Invader"
-  },
-  "invaderKills": {
-    "statName": "Invaders Killed"
-  },
-  "invaderDeaths": {
-    "statName": "Deaths to Invaders"
-  },
-  "primevalDamage": {
-    "statName": "Primeval Damage"
-  },
-  "primevalKills": {
-    "statName": "Primeval Kills"
-  },
-  "motesDenied": {
-    "statName": "Motes Denied"
-  },
-  "invasions": {
-    "statName": "Invasions"
-  },
-  "blockerKills": {
-    "statName": "Blocker Kills"
-  },
-  "smallBlockersSent": {
-    "statName": "Small Blockers Sent"
-  },
-  "mediumBlockersSent": {
-    "statName": "Medium Blockers Sent"
-  },
-  "largeBlockersSent": {
-    "statName": "Large Blockers Sent"
-  },
-  "precisionKills": {
-    "statName": "Precision"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuracy"
-  },
-  "elo": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "Kills + Assists"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Average K/D"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."

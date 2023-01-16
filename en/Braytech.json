@@ -201,12 +201,6 @@
       "description": "Earning XP grants Power bonuses and unlocks powerful mods on your seasonal artifact."
     }
   },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
-    }
-  },
   "latent-memories": {
     "displayProperties": {
       "name": "Latent Memories",

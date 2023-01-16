@@ -65,7 +65,7 @@
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Genauigkeit"
   },
-  "elo": {
+  "currentEloRating": {
     "statName": "Elo"
   },
   "opponentsDefeated": {

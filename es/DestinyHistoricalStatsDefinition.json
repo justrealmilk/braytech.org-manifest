@@ -65,7 +65,7 @@
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Puntería"
   },
-  "elo": {
+  "currentEloRating": {
     "statName": "Elo"
   },
   "opponentsDefeated": {
