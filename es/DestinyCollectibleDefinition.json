@@ -1,7 +1,760 @@
 {
   "1469913804": {
     "displayProperties": {
-      "tip": "Obtenido al derrotar a Morgeth, el guardián de la espira."
+      "tip": "Se obtiene a veces al completar el tercer encuentro (Morgeth, el guardian de la espira)."
+    }
+  },
+  "3360537485": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces al completar cualquier encuentro."
+    }
+  },
+  "3163873693": {
+    "displayProperties": {
+      "tip": "Se obtiene al abrir el cofre de la Llave Brillante, que se encuentra entre el tercer (Morgeth, el guardian de la espira) y cuarto (Depósito) encuentro si se introduce el \"Segundo Deseo\"."
+    }
+  },
+  "3617101589": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar la incursión por primera vez."
+    }
+  },
+  "1246578675": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de cualquier encuentro."
+    }
+  },
+  "1246578674": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar todos los desafíos de la incursión."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "tip": "Se obtiene al intruducir el \"Tercer Deseo\" en el \"Muro de los Deseos\"."
+    },
+    "sourceString": "Fuente: incursión Último Deseo."
+  },
+  "1171206947": {
+    "displayProperties": {
+      "tip": "Actualmente no disponible."
+    },
+    "sourceString": "Fuente: Completa la incursión \"Último Deseo\" en las primeras 24 horas tras su lanzamiento."
+  },
+  "199171385": {
+    "displayProperties": {
+      "tip": "Se obtiene rara vez al abrir cofres con la Llave Etérea tras el encuentro final."
+    }
+  },
+  "1279318107": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "4274523514": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2589931342": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "256984752": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "301231525": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3471068543": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3849455378": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1534387872": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "637236": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "4058916407": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2760144873": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2826590445": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1230173206": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "28595": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "552469184": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1908141240": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3536103390": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "915053447": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2340335439": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2976357604": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "934024124": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "4240106002": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1927215059": {
+    "displayProperties": {
+      "tip": "Se obtiene en cualquier encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1616812058": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de los cofres secretos que hay entre los encuentros de la incursión."
+    }
+  },
+  "1244899887": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de los cofres secretos que hay entre los encuentros de la incursión."
+    }
+  },
+  "2061705522": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de los cofres secretos que hay entre los encuentros de la incursión."
+    }
+  },
+  "426204227": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de los cofres secretos que hay entre los encuentros de la incursión."
+    }
+  },
+  "3424534823": {
+    "displayProperties": {
+      "tip": "Se obtiene a veces de los cofres secretos que hay entre los encuentros de la incursión."
+    }
+  },
+  "737130625": {
+    "sourceString": "Fuente: No se puede obtener."
+  },
+  "73480071": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar contratos de la Reina."
+    }
+  },
+  "304436264": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar todos los desafíos de la incursión."
+    }
+  },
+  "304436265": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Perfección inherente\"](https://bray.tech/triumphs/node/1473265108/2178633627/615240848)."
+    }
+  },
+  "3938759710": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar la incursión por primera vez."
+    }
+  },
+  "3938759711": {
+    "displayProperties": {
+      "tip": "Actualmente no disponible."
+    },
+    "sourceString": "Fuente: Completa la incursión \"Jardín de la Salvación\" en las primeras 24 horas tras su lanzamiento."
+  },
+  "1988948484": {
+    "sourceString": "Fuente: Se obtiene al completar la aventura excepcional \"Fragmentación divina\"."
+  },
+  "1844459180": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el primer encuentro (Evitar)."
+    }
+  },
+  "3995207026": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el primer encuentro (Evitar)."
+    }
+  },
+  "2948134329": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el segundo encuentro (Invocar)."
+    }
+  },
+  "4228109048": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el segundo encuentro (Invocar)."
+    }
+  },
+  "1999017690": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el tercer encuentro (Mente Consagrada)."
+    }
+  },
+  "773381624": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el tercer encuentro (Mente Consagrada)."
+    }
+  },
+  "1141170786": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada)."
+    }
+  },
+  "204539712": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "95569771": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el segundo encuentro (Invocar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2783756445": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el tercer encuentro (Mente Consagrada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1740561233": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el primer encuentro (Evitar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "29206418": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3635099391": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "4276241044": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el segundo encuentro (Invocar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2100683596": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el tercer encuentro (Mente Consagrada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "166135138": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el primer encuentro (Evitar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3093771363": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "1399922251": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "831181528": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el segundo encuentro (Invocar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3854372384": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el tercer encuentro (Mente Consagrada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "3851783670": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el primer encuentro (Evitar).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "2282824303": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el encuentro final (Mente Santificada).\nSe obtiene de cofres secretos si se ha conseguido previamente."
+    }
+  },
+  "911081605": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "1435246899": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2081488768": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2276007528": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "160781275": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "1395260669": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2076751138": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "3796544862": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "3574313939": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Tocar fondo\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    },
+    "sourceString": "Fuente: Incursión \"Cripta de la Piedra Profunda\"."
+  },
+  "392272160": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Ni un rasguño\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    },
+    "sourceString": "Fuente: Incursión \"Cripta de la Piedra Profunda\"."
+  },
+  "2571679418": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Vigilante de la cripta\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2571679419": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Ley del más fuerte\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2273453973": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Cripta de la Piedra Profunda\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384)."
+    }
+  },
+  "2273453972": {
+    "displayProperties": {
+      "tip": "Actualmente no disponible, se obtiene al completar el triunfo \"Recién salido de la Cripta\"."
+    },
+    "sourceString": "Completa la incursión \"Cripta de la Piedra Profunda\" en las primeras 24 horas tras su lanzamiento."
+  },
+  "753200559": {
+    "displayProperties": {
+      "tip": "Se obtiene rara vez al completar el encuentro final (Taniks)."
+    }
+  },
+  "2170524258": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer encuentro (Seguridad).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1095326468": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1901414106": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo encuentro (Atraks-1).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2423099022": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer encuentro (Descenso).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2291988568": {
+    "displayProperties": {
+      "tip": "Se obtiene en el encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3767726769": {
+    "displayProperties": {
+      "tip": "Se obtiene en el encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3798857473": {
+    "displayProperties": {
+      "tip": "Se obtiene en el encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "285064438": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "4052971298": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Descenso) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1481114068": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2782379061": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2485720530": {
+    "displayProperties": {
+      "tip": "Se obtiene en el encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2790550781": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3540189675": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Descenso) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3255058899": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "816770468": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3293236622": {
+    "displayProperties": {
+      "tip": "Se obtiene en el encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2341487969": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "454243247": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Descenso) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2425656839": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y encuentro final (Taniks).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3219239120": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Seguridad), segundo (Atraks-1) y tercer (Descenso) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2802279446": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2040177352": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "811728933": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "1755084153": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "958866288": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Master Glasser\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3568861785": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Pearl of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3568861784": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Flawless Vault of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "2172413747": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo [\"Vault of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870)."
+    }
+  },
+  "3332781237": {
+    "displayProperties": {
+      "tip": "Earned by carrying 10 Guardians to their first \"Vault of Glass\" completion (must be claimed from Bungie Rewards by 31/12/2022)."
+    }
+  },
+  "2172413746": {
+    "displayProperties": {
+      "tip": "Actualmente no disponible, se obtiene al completar el triunfo \"Velocidad punta\"."
+    },
+    "sourceString": "Completa la incursión \"Cámara de Cristal\" en las primeras 24 horas tras su lanzamiento."
+  },
+  "2300465938": {
+    "displayProperties": {
+      "tip": "Se obtiene rara vez al completar el encuentro final (Atheon)."
+    }
+  },
+  "634586904": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Templario) and cuarto (Custodios) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3463901839": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), tercer (Templario) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "724059973": {
+    "displayProperties": {
+      "tip": "Se obtiene en el cuarto (Custodios) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3515970092": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), segundo (Oráculos) y tercer (Templario) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2948791533": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), segundo (Oráculos) and cuarto (Custodios) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2347222640": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo (Oráculos) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3231668945": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el desafío (Fuera de su camino) del tercer encuentro (Templario) en dificultad maestro.\nPosteriormente también disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "3593833250": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el desafío (Estrofa de la orquesta) del encuentro final (Atheon) en dificultad maestro.\nPosteriormente también disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "3395832948": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el desafío (Desconocidos en el tiempo) del cuarto encuentro (Custodios) en dificultad maestro.\nPosteriormente también disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "1798635285": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el desafío (Espera...) del primer encuentro (Confluencias) en dificultad maestro.\nPosteriormente también disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "2573048236": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el triunfo \"Cristalero virtuoso\".\nPosteriormente solamente disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "1986202265": {
+    "displayProperties": {
+      "tip": "Se obtiene al completar el desafío (Tu único oráculo) del segundo encuentro (Oráculos) en dificultad maestro.\nPosteriormente también disponible en el comerciante de Botín de Conquista tras el encuentro final solo en dificultad maestro."
+    }
+  },
+  "3516045044": {
+    "displayProperties": {
+      "tip": "Se obtiene en el cuarto (Custodios) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3279460087": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), segundo (Oráculos) y tercer (Templario) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1098118569": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Templario) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2088710573": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo (Oráculos) and cuarto (Custodios) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3821537750": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias) encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "930771313": {
+    "displayProperties": {
+      "tip": "Se obtiene en el cuarto (Custodios) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1748402214": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), segundo (Oráculos) y tercer (Templario) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "597202930": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Templario) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1865461412": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo (Oráculos) y cuarto (Custodios) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3631920453": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias) encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "983347941": {
+    "displayProperties": {
+      "tip": "Se obtiene en el cuarto (Custodios) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1123371330": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias), segundo (Oráculos) y tercer (Templario) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1476565614": {
+    "displayProperties": {
+      "tip": "Se obtiene en el tercer (Templario) y encuentro final (Atheon).\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "3233980800": {
+    "displayProperties": {
+      "tip": "Se obtiene en el segundo (Oráculos) y cuarto (Custodios) encuentros.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "2778391833": {
+    "displayProperties": {
+      "tip": "Se obtiene en el primer (Confluencias) encuentro.\nSe obtiene de cofres secretos si se ha conseguido previamente.\nAvailable at the Spoils of Conquest Vendor after the encuentro final."
+    }
+  },
+  "1995412175": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "1995412174": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "3837479520": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "3837479521": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "3837479522": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2070411865": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2070411864": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2070411867": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2923491623": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2923491622": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
+    }
+  },
+  "2923491621": {
+    "displayProperties": {
+      "tip": "Se obtiene de los cofres secretos que se encuentran entre los encuentros de la incursión."
     }
   }
 }

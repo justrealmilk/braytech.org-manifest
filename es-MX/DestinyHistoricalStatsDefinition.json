@@ -1,9 +1,44 @@
 {
+  "opponentsDefeated": {
+    "statName": "Bajas + asistencias",
+    "statNameAbbr": "BA"
+  },
+  "kills": {
+    "statNameAbbr": "B"
+  },
+  "deaths": {
+    "statNameAbbr": "M"
+  },
   "killsDeathsRatio": {
-    "statName": "B/M"
+    "statName": "B/M",
+    "statNameAbbr": "BM"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Promedio de B/M"
   },
   "winRate": {
     "statName": "Índice de victorias"
+  },
+  "precisionKills": {
+    "statName": "Precisión",
+    "statNameAbbr": "Pr"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Puntería",
+    "statNameAbbr": "Pu"
+  },
+  "score": {
+    "statNameAbbr": "Pts."
+  },
+  "currentCompetitiveRating": {
+    "statName": "Clasificación competitiva actual",
+    "statNameAlt": "Clasificación actual",
+    "statDescription": "Clasificación actual del jugador en la División Competitiva."
+  },
+  "currentEloRating": {
+    "statName": "Puntuación Elo actual",
+    "statNameAlt": "Elo actual",
+    "statDescription": "Puntuación Elo actual del jugador.\n\nPuntuaciones Elo de un sitio web de terceros, _Destiny Tracker_. _Destiny Tracker_ proporciona clasificaciones Elo para todos los jugadores de Destiny que participan en actividades de _Crisol_ y _Gambito_."
   },
   "supremacyCrestsSecured": {
     "statName": "Insignias aseguradas"
@@ -20,11 +55,18 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Bajas de aliados aseguradas"
   },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "MP"
+  },
   "highValueKills": {
     "statName": "Bajas de blanco prioritario"
   },
   "invasionKills": {
-    "statName": "Bajas como invasor"
+    "statName": "Bajas como invasor",
+    "statNameAbbr": "BI"
   },
   "invasionDeaths": {
     "statName": "Muertes como invasor"
@@ -36,7 +78,8 @@
     "statName": "Muertes por invasor"
   },
   "primevalDamage": {
-    "statName": "Daño al Primordial"
+    "statName": "Daño al Primordial",
+    "statNameAbbr": "D"
   },
   "primevalKills": {
     "statName": "Bajas de Primordiales"
@@ -58,21 +101,6 @@
   },
   "largeBlockersSent": {
     "statName": "Bloqueadores grandes enviados"
-  },
-  "precisionKills": {
-    "statName": "Precisión"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Puntería"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "Bajas + asistencias"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Promedio de B/M"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Como equipo, elimina a todos los guardianes rivales al menos una vez, durante la Cacería."

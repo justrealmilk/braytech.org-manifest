@@ -42,5 +42,11 @@
     "displayProperties": {
       "name": "Todos los catalizadores"
     }
+  },
+  "1000000008": {
+    "displayProperties": {
+      "name": "Canjeable",
+      "description": "Estos emblemas pueden coleccionarse canjeándose gratuitamente mediante un código en https://www.bungie.net/redeem"
+    }
   }
 }

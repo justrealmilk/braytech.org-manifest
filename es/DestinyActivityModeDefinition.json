@@ -52,6 +52,23 @@
       "description": "¿Habéis lanzado suficientes granadas?"
     }
   },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Competitivo",
+      "description": "Las partidas de esta lista afectan a tu posición en la división competitiva. Las victorias darán lugar a ascensos, lo que aumentará tu posición en la división. Las derrotas provocarán descensos, lo que reducirá tu posición en la división."
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Estandarte de Hierro: Fortaleza",
+      "description": ""
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Consigue la victoria recogiendo la Chispa y encendiendo la Grieta del oponente."
+    }
+  },
   "1848252830": {
     "displayProperties": {
       "description": "Caza enemigos en zonas de guerra activas. Cuenta con poderes mayores. Sé notorio."
