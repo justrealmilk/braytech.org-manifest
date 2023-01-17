@@ -41,46 +41,40 @@
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "flair-warmind": {
-    "displayProperties": {
-      "name": "Superintendente",
-      "description": "Tom Chapman, creador e ingeniero de Braytech."
-    },
-    "itemTypeDisplayName": "Inteligencia artificial"
-  },
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": ""
+      "description": "_Creador of Braytech._"
     },
     "itemTypeDisplayName": "Desarrollador de Braytech"
   },
-  "flair-tokai": {
+  "flair-patron-submind": {
     "displayProperties": {
-      "name": "Tokai",
-      "description": ""
+      "name": "Submente",
+      "description": "_Un fragmento del Estratega._\nUn inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Conserje de Braytech"
   },
-  "flair-patron-veteran": {
+  "flair-patron-researcher": {
     "displayProperties": {
-      "name": "Subrutina",
-      "description": "Este Guardián es un faro de luz que, con sus acciones, demostró que valora la valentía y el servicio por encima de todo."
+      "name": "Investigador/a",
+      "description": "_Uno de los pocos investigadores supervivientes que han escapado a la traición de Clovis Bray._\nUn inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
   "flair-patron": {
     "displayProperties": {
-      "name": "Investigador",
-      "description": "Este Guardián, un técnico colega de Clovis Bray, busca mejorar Braytech."
+      "name": "Mecenas",
+      "description": "Un inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
-  "flair-patron-intern": {
+  "flair-cryptarch": {
     "displayProperties": {
-      "name": "Becario"
+      "name": "Criptarca",
+      "description": "_Un generoso traductor de Braytech._"
     },
-    "itemTypeDisplayName": "Patrocinador de Braytech"
+    "itemTypeDisplayName": "Traductor de Braytech"
   },
   "ammo-type-primary": {
     "displayProperties": {
@@ -189,10 +183,10 @@
       "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en triunfos de legado."
     }
   },
-  "coverage": {
+  "activity-weapon-popular": {
     "displayProperties": {
-      "name": "Cobertura",
-      "description": "La cobertura de esta traducción se representa en forma de porcentaje."
+      "name": "Golpes finales",
+      "description": "_Esta arma es muy popular ahora._\n\nSuma de golpes finales por combatientes que usan esta arma.\n\nLos valores atípicos se determinan con la fórmula: \n`Suma de golpes finales del arma >= Q3 + IQR`"
     }
   },
   "total-resets": {
@@ -205,12 +199,6 @@
     "displayProperties": {
       "name": "Bonificación de Potencia del artefacto",
       "description": "Ganar EXP otorga bonificaciones de Potencia y desbloquea potentes modificadores en tu artefacto de temporada."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Elo de Destiny Tracker",
-      "description": "Clasificación Elo actual del jugador.\n\nLas puntuaciones Elo de una página web externa, _Destiny Tracker_. _Destiny Tracker_ proporciona puntuaciones Elo para todos los jugadores de Destiny que participan en las actividades de _Crisol_ y _Gambito_."
     }
   },
   "latent-memories": {
@@ -265,6 +253,11 @@
     "displayProperties": {
       "name": "Notificaciones push",
       "description": "Las notificaciones push pueden llegarte cuando no estás usando Braytech y te aseguran que no te pierdas nada de aquello que buscas."
+    }
+  },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_Este mapa traza los pasos para llegar a la cima._"
     }
   },
   "sub-triumphs-active": {
