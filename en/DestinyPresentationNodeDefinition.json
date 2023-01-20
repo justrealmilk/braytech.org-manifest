@@ -50,7 +50,6 @@
   },
   "1000000002": {
     "hash": 1000000002,
-    "displayProperties": {},
     "children": {
       "presentationNodes": [
         {
@@ -71,6 +70,9 @@
       "metrics": [],
       "craftables": []
     },
+    "excluded": [
+      925324934
+    ],
     "redacted": false
   },
   "1000000004": {
