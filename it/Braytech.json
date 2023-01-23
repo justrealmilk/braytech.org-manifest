@@ -1,25 +1,4 @@
 {
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primarie",
-      "description": "Questa arma ha riserve infinite."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Speciali",
-      "description": "Questa arma usa munizioni speciali."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Pesanti",
-      "description": "Questa arma usa munizioni pesanti."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
   "platform-xbox": {
     "displayProperties": {
       "name": "Xbox",
@@ -62,46 +41,75 @@
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "flair-warmind": {
-    "displayProperties": {
-      "name": "Sovrintendente",
-      "description": "Tom Chapman, creatore e ingeniere di Braytech."
-    },
-    "itemTypeDisplayName": "Intelligenza Artificiale"
-  },
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": ""
+      "description": "_Creatore di Braytech._"
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
   },
-  "flair-tokai": {
+  "flair-patron-submind": {
     "displayProperties": {
-      "name": "Tokai",
-      "description": ""
+      "name": "Sottomente",
+      "description": "_Un frammmento della Mente Bellica._\nUn inestimabile abbonato Patreon."
     },
-    "itemTypeDisplayName": "Portinaio di Braytech"
+    "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron-veteran": {
+  "flair-patron-researcher": {
     "displayProperties": {
-      "name": "Subroutine",
-      "description": "Questo guardiano è un faro di luce che, attraverso le sue azioni, ha dimostrato di valorizzare il coraggio e il servizio sopra ogni altra cosa."
+      "name": "Ricercatore",
+      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
   "flair-patron": {
     "displayProperties": {
-      "name": "Ricercatore",
-      "description": "Un compagno tecnico di Clovis Bray, questo Guardiano cerca di migliorare Braytech."
+      "name": "Patron",
+      "description": "Un inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron-intern": {
+  "flair-cryptarch": {
     "displayProperties": {
-      "name": "Stagista"
+      "name": "Criptarca",
+      "description": "_Un generoso traduttore di Braytech._"
     },
-    "itemTypeDisplayName": "Sostenitore di Braytech"
+    "itemTypeDisplayName": "Traduttore di Braytech"
+  },
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Primarie",
+      "description": "Questa arma ha riserve infinite."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Speciali",
+      "description": "Questa arma usa munizioni speciali."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "Pesanti",
+      "description": "Questa arma usa munizioni pesanti."
+    },
+    "itemTypeDisplayName": "Munizioni"
+  },
+  "stat-damage-falloff": {
+    "displayProperties": {
+      "name": "Diminuzione del danno",
+      "description": "Distanza approssimativa dove inizia la diminuzione del danno per il fuoco senza mira e ADS (con mira)."
+    },
+    "itemTypeDisplayName": "Statistica"
+  },
+  "stat-reload-time": {
+    "displayProperties": {
+      "name": "Tempo di ricarica",
+      "description": "Il tempo impiegato da quest'arma per completare una ricarica completa e sparare. Questo valore si basa solo sulla statistica della velocità di ricarica e non è influenzato da peculiarità."
+    },
+    "itemTypeDisplayName": "Statistica"
   },
   "accurate-gear-power-average": {
     "displayProperties": {
@@ -130,7 +138,7 @@
   "record-intervals": {
     "displayProperties": {
       "name": "Fasi trionfo",
-      "description": "Alcuni trionfi hanno fasi. Differenti fasi hanno vari requisiti e punteggi."
+      "description": "Alcuni trionfi hanno fasi. Diverse fasi possono avere differenti requisiti e punteggi."
     }
   },
   "add-record-track": {
@@ -177,8 +185,8 @@
   },
   "coverage": {
     "displayProperties": {
-      "name": "Copertura",
-      "description": "La copertura in percentuale di questa traduzione."
+      "name": "Colpi di grazia",
+      "description": "_Quest'arma sta dominando ora._\n\nSomma dei colpi di grazia dei giocatori che usano quest'arma.\n\nI valori anomali vengono determinati con la seguente formula: \n`Somma dei colpi di grazia dell'arma >= Q3 + IQR`"
     }
   },
   "total-resets": {
@@ -191,12 +199,6 @@
     "displayProperties": {
       "name": "Potere bonus artefatto",
       "description": "Guadagnare PE garantisce bonus di potere e sblocca potenti modifiche nel tuo artefatto stagionale."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "Valutazione Elo attuale del giocatore.\n\nElo provenienti da un sito di terze parti, _Destiny Tracker_. _Destiny Tracker_ assegna Elo a tutti i giocatori di Destiny che hanno partecipato nelle attività di _Crogiolo_ e _Azzardo_."
     }
   },
   "latent-memories": {
@@ -220,7 +222,19 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "I dati del profilo sono obsoleti. Ciò significa che l'aggiornamento in background è fermo a causa di inattività, oppure il servizio non è momentaneamente riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
+      "description": "Braytech non è riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "Dati obsoleti",
+      "description": "L'aggiornamento in background è fermo a causa di inattività."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "Dati obsoleti",
+      "description": "Bungie.net ha risposto con dati del profilo obsoleti.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
     }
   },
   "activity-contest-mode": {
@@ -239,6 +253,11 @@
     "displayProperties": {
       "name": "Notifiche push",
       "description": "Le notifiche push possono raggiungerti quando non stai usando Braytech e ti permettono di non perdere quello che cerchi."
+    }
+  },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
     }
   },
   "sub-triumphs-active": {

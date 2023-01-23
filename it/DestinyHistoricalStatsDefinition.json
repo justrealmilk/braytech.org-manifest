@@ -1,9 +1,44 @@
 {
+  "opponentsDefeated": {
+    "statName": "Uccisioni + Assist",
+    "statNameAbbr": "UA"
+  },
+  "kills": {
+    "statNameAbbr": "U"
+  },
+  "deaths": {
+    "statNameAbbr": "M"
+  },
   "killsDeathsRatio": {
-    "statName": "U/M"
+    "statName": "U/M",
+    "statNameAbbr": "UM"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "U/M medio"
   },
   "winRate": {
     "statName": "Vittorie %"
+  },
+  "precisionKills": {
+    "statName": "Precisione",
+    "statNameAbbr": "P"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Precisione %",
+    "statNameAbbr": "P%"
+  },
+  "score": {
+    "statNameAbbr": "Punt."
+  },
+  "currentCompetitiveRating": {
+    "statName": "Valutazione competitiva attuale",
+    "statNameAlt": "Valutazione attuale",
+    "statDescription": "Valutazione della divisione competitiva attuale del giocatore."
+  },
+  "currentEloRating": {
+    "statName": "Valutazione Elo attuale",
+    "statNameAlt": "Elo attuale",
+    "statDescription": "Valutazione Elo attuale del giocatore.\n\nLe valutazioni provengono da un sito web di terze parti, _Destiny Tracker_. _Destiny Tracker_ fornisce valutazioni Elo per tutti i giocatori di Destiny che partecipano alle attività del _Crogiolo_ e di _Azzardo_."
   },
   "supremacyCrestsSecured": {
     "statName": "Sigilli raccolti"
@@ -20,11 +55,18 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Uccisioni alleate confermate"
   },
+  "motesDeposited": {
+    "statNameAbbr": "PD"
+  },
+  "motesLost": {
+    "statNameAbbr": "PP"
+  },
   "highValueKills": {
     "statName": "Uccisioni Alto Valore"
   },
   "invasionKills": {
-    "statName": "Uccisioni come invasore"
+    "statName": "Uccisioni come invasore",
+    "statNameAbbr": "UI"
   },
   "invasionDeaths": {
     "statName": "Morti come invasore"
@@ -36,7 +78,8 @@
     "statName": "Morti da invasori"
   },
   "primevalDamage": {
-    "statName": "Danno Primordiale"
+    "statName": "Danno Primordiale",
+    "statNameAbbr": "D"
   },
   "primevalKills": {
     "statName": "Uccisioni Primordiale"
@@ -58,21 +101,6 @@
   },
   "largeBlockersSent": {
     "statName": "Assedianti grandi inviati"
-  },
-  "precisionKills": {
-    "statName": "Precisione"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Precisione %"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "Uccisioni + Assist"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "U/M medio"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Come squadra, sconfiggete tutti gli avversari almeno una volta durante una caccia."

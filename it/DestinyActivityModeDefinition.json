@@ -52,6 +52,23 @@
       "description": "Hai lanciato abbastanza granate?"
     }
   },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Competitiva",
+      "description": "Le partite in questa playlist influiscono sul posizionamento nella divisione competitiva. Le vittorie porteranno a promozioni, aumentando il tuo grado nella divisione. Mentre le sconfitte porteranno a retrocessioni, abbassando il tuo grado nella divisione."
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Stendardo di Ferro: Fortrezza",
+      "description": ""
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Ottieni la vittoria raccogliendo la Scintilla e accendendo la Frattura degli avversari."
+    }
+  },
   "1848252830": {
     "displayProperties": {
       "description": "Dai la caccia agli nemici nelle zone di guerra attive. Fai i conti con poteri maggiori. Sii famigerato."
@@ -106,6 +123,11 @@
   "1673724806": {
     "displayProperties": {
       "description": "Competi in una versione evento di Eliminazione che richiede una squadra. Guadagna più vittore possibili su un biglietto. Tre sconfitte e sei fuori."
+    }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Ottieni la vittoria sconfiggendo gli avversari e prevenendo le rianimazioni. Rianima un compagno di squadra sconfitto per recuperare il punto segnato dai tuoi avversari. Vinci il maggior numero di round o preparati ad affrontare una prova di forza ad eliminazione."
     }
   }
 }

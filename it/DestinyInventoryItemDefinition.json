@@ -64,6 +64,12 @@
       "description": "Aumenta la probabilità di trovare la spada esotica \"Cuordombra\" dalla segreta \"Dualità\"."
     }
   },
+  "3224646387": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Gerarchia di Necessità\" aumentata",
+      "description": "Aumenta la probabilità di trovare l'arco esotico \"Gerarchia di Necessità\" dalla segreta \"Pinnacolo dell'Osservatrice\"."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo Guardiano."
@@ -76,7 +82,8 @@
   },
   "2497395625": {
     "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."}
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."
+    }
   },
   "3348653032": {
     "displayProperties": {
