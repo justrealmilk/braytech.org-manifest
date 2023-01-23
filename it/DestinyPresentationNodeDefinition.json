@@ -19,7 +19,7 @@
     "displayProperties": {
       "name": "Crogiolo"
     },
-    "substring": "crogiolo|pandemonio|prove|stendardo di ferro|sconfiggi guardiani"
+    "substring": "crogiolo|pandemonio|frattura|prove|stendardo di ferro|sconfiggi guardiani"
   },
   "1000000052": {
     "displayProperties": {
@@ -42,5 +42,10 @@
     "displayProperties": {
       "name": "Tutti i catalizzatori esotici"
     }
-  }
+  },
+  "1000000008": {
+    "displayProperties": {
+      "name": "Riscattabili",
+      "description": "Questi emblemi possono essere riscattati gratuitamente con un codice su https://www.bungie.net/redeem"
+    }
 }

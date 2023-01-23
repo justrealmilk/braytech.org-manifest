@@ -1,0 +1,17 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "Totale"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "Diminuzione dei danni"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "Tempo di ricarica"
+    }
+  }
+}
