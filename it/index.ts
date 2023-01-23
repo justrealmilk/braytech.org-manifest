@@ -4,6 +4,7 @@ import BraytechMapsTypes from '@Data/manifest/it/BraytechMapsTypes.json';
 import DestinyActivityDefinition from '@Data/manifest/it/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/it/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/it/DestinyActivityModifierDefinition.json';
+import DestinyActivityTypeDefinition from '@Data/manifest/it/DestinyActivityTypeDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/it/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/it/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/it/DestinyDamageTypeDefinition.json';
@@ -31,6 +32,7 @@ const it = {
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
+    DestinyActivityTypeDefinition,
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
