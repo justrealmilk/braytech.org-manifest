@@ -31,6 +31,15 @@
   "score": {
     "statNameAbbr": "S"
   },
+  "strikeDifficulty": {
+    "statName": "Difficulty"
+  },
+  "activitiesEntered": {
+    "statName": "Entered"
+  },
+  "activitiesCleared": {
+    "statName": "Cleared"
+  },
   "currentCompetitiveRating": {
     "statName": "Current Competitive Rating",
     "statNameAlt": "Current Rating",
