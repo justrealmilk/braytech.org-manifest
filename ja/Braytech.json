@@ -405,9 +405,9 @@
       "description": "アクティビティをグラフにしたもの（統計に強い方向け)"
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "レジェンド",
+      "name": "Raids",
       "description": "最も危険な状況下での勝利、最大の敵に対するファイアチームでの初勝利レポート。"
     }
   },

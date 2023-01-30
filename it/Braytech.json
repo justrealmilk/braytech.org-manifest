@@ -398,9 +398,9 @@
       "description": "Attività tracciate su grafici, per coloro inclini alle statistiche"
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "Leggende",
+      "name": "Raids",
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
     }
   },

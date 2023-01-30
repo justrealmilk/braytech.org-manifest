@@ -398,9 +398,9 @@
       "description": "Activities plotted against graphs, for the statistically inclined"
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "Legends",
+      "name": "Raids",
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },

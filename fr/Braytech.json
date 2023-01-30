@@ -405,9 +405,9 @@
       "description": "Activités tracées avec des graphiques de points, pour les statistiques"
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "Légendes",
+      "name": "Raids",
       "description": "Triomphes dans les conditions les plus périlleuses, compte-rendu des premières victoires de vos escouades contre nos plus grands adversaires"
     }
   },

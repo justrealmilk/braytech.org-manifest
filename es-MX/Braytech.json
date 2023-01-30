@@ -398,9 +398,9 @@
       "description": "Actividades representadas en gráficos, para los interesados en la estadística."
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "Leyendas",
+      "name": "Raids",
       "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
     }
   },

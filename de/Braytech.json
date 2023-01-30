@@ -311,9 +311,9 @@
       "description": "Aktivitäten auf Graphen dargestellt, für Statistikfreunde."
     }
   },
-  "sub-activity-legends": {
+  "sub-activity-raids": {
     "displayProperties": {
-      "name": "Legenden",
+      "name": "Raids",
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
     }
   },
