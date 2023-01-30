@@ -183,7 +183,7 @@
       "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
     }
   },
-  "coverage": {
+  "activity-weapon-popular": {
     "displayProperties": {
       "name": "Colpi di grazia",
       "description": "_Quest'arma sta dominando ora._\n\nSomma dei colpi di grazia dei giocatori che usano quest'arma.\n\nI valori anomali vengono determinati con la seguente formula: \n`Somma dei colpi di grazia dell'arma >= Q3 + IQR`"
@@ -402,6 +402,12 @@
     "displayProperties": {
       "name": "Leggende",
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
+    }
+  },
+  "sub-activity-nightfalls": {
+    "displayProperties": {
+      "name": "Cala la Notte",
+      "description": "Operazioni critiche che sfidano i Guardiani persino veterani a neutralizzare rapidamente e completamente alcune delle più grandi minacce per la Città"
     }
   },
   "sub-weeklies-this-week": {
