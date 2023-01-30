@@ -9,6 +9,9 @@
   "deaths": {
     "statNameAbbr": "M"
   },
+  "flawless": {
+    "statName": "Impeccabile"
+  },
   "killsDeathsRatio": {
     "statName": "U/M",
     "statNameAbbr": "UM"
@@ -29,6 +32,22 @@
   },
   "score": {
     "statNameAbbr": "Punt."
+  },
+  "strikeDifficulty": {
+    "statName": "Difficoltà"
+  },
+  "activitiesEntered": {
+    "statName": "Iniziate"
+  },
+  "activitiesCleared": {
+    "statName": "Completate",
+    "statDescription": "Totale delle attività completate con successo. Si spera, Guardiano, che questo valore sia superiore alla metà del numero di attività iniziate!"
+  },
+  "secondsPlayed": {
+    "statDescription": "Tempo totale dedicato ad eradicare le minacce della Città. Il tempo extra non è mai abbastanza."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Miglior tempo"
   },
   "currentCompetitiveRating": {
     "statName": "Valutazione competitiva attuale",

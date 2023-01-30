@@ -404,6 +404,12 @@
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
     }
   },
+  "sub-activity-nightfalls": {
+    "displayProperties": {
+      "name": "Cala la Notte",
+      "description": "Operazioni critiche che sfidano i Guardiani persino veterani a neutralizzare rapidamente e completamente alcune delle più grandi minacce per la Città"
+    }
+  },
   "sub-weeklies-this-week": {
     "displayProperties": {
       "name": "Questa settimana",
