@@ -191,6 +191,12 @@
       "hasIcon": true
     }
   },
+  "1144463862": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/383bb659a1489d8ed5800e2793de0be8.jpg",
+      "hasIcon": true
+    }
+  },
   "1163649614": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/99c98af523a93f7834f2757395169e74.jpg",
@@ -266,6 +272,12 @@
   "1438167672": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/badges/027A-106B_01.png",
+      "hasIcon": true
+    }
+  },
+  "1439993428": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/3bf81dd785826e06f190ab1f7d9b27a0.jpg",
       "hasIcon": true
     }
   },

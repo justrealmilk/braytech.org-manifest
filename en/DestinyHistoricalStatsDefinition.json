@@ -9,6 +9,9 @@
   "deaths": {
     "statNameAbbr": "D"
   },
+  "flawless": {
+    "statName": "Flawless"
+  },
   "killsDeathsRatio": {
     "statName": "K/D",
     "statNameAbbr": "KD"
@@ -30,6 +33,22 @@
   },
   "score": {
     "statNameAbbr": "S"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficulty"
+  },
+  "activitiesEntered": {
+    "statName": "Entered"
+  },
+  "activitiesCleared": {
+    "statName": "Cleared",
+    "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of actvities entered!"
+  },
+  "secondsPlayed": {
+    "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Fastest"
   },
   "currentCompetitiveRating": {
     "statName": "Current Competitive Rating",
