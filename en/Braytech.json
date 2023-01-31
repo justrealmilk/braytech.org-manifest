@@ -398,16 +398,10 @@
       "description": "Activities plotted against graphs, for the statistically inclined"
     }
   },
-  "sub-activity-raids": {
+  "sub-activity-series": {
     "displayProperties": {
-      "name": "Raids",
+      "name": "Series",
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
-    }
-  },
-  "sub-activity-nightfalls": {
-    "displayProperties": {
-      "name": "Nightfalls",
-      "description": "Critical operations challenge even veteran Guardians to quickly and completely neutralize some of the greatest threats to the City"
     }
   },
   "sub-weeklies-this-week": {
