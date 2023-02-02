@@ -1,0 +1,42 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Playlist"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Normal"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Prestige"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Adept"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Hero"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Legend"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Master"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Grandmaster"
+    }
+  }
+}
