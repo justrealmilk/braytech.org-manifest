@@ -9,6 +9,9 @@
   "deaths": {
     "statNameAbbr": "M"
   },
+  "flawless": {
+    "statName": "Impecables"
+  },
   "killsDeathsRatio": {
     "statName": "B/M",
     "statNameAbbr": "BM"
@@ -29,6 +32,22 @@
   },
   "score": {
     "statNameAbbr": "Pts."
+  },
+  "strikeDifficulty": {
+    "statName": "Dificultad"
+  },
+  "activitiesEntered": {
+    "statName": "Iniciadas"
+  },
+  "activitiesCleared": {
+    "statName": "Completadas",
+    "statDescription": "Total de actividades completadas con éxito. Esperemos, Guardián, que este valor sea superior a la mitad de las actividades realizadas."
+  },
+  "secondsPlayed": {
+    "statDescription": "Tiempo total dedicado a eliminar amenazas para la Ciudad. Nunca se dedica demasiado poco tiempo."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Más rápida"
   },
   "currentCompetitiveRating": {
     "statName": "Clasificación competitiva actual",
