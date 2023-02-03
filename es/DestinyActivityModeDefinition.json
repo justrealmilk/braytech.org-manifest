@@ -20,7 +20,7 @@
   "103143560": {
     "displayProperties": {
       "name": "Sectores perdidos",
-      "description": "Hay muchos lugares ocultos en nuestros mundos. ¿Los has encontrado todos?"
+      "description": "Los exploradores avanzados han marcado sectores de interés estratégico ante ti.\n\nInspecciónalos en busca de amenazas y equipo raro."
     }
   },
   "4110605575": {
@@ -32,7 +32,7 @@
   "547513715": {
     "displayProperties": {
       "name": "Ocaso: el suplicio",
-      "description": "Amanda Holiday no podrá teletransportarte si algo sale mal esta vez..."
+      "description": "La Vanguardia autoriza los asaltos de Ocaso para acabar con las mayores amenazas a las que se enfrenta la Ciudad.\n\nRevisa el rendimiento del Guardián y prepárate para la próxima amenaza."
     }
   },
   "748895195": {
@@ -97,7 +97,7 @@
   },
   "1826469369": {
     "displayProperties": {
-      "description": "Captura zonas para aumentar los puntos por cada oponente derrotado. Captura las tres para bloquear las zonas y cazar a tus oponentes."
+      "description": "_Tu leyenda, forjada en hierro. No se me ocurre mejor premio para un Portador de la Luz._"
     }
   },
   "1264443021": {

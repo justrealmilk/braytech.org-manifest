@@ -1,0 +1,42 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Lista de juego"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Normal"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Prestigio"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Experto"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Héroe"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Leyenda"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Maestro"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Gran maestro"
+    }
+  }
+}
