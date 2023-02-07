@@ -183,12 +183,6 @@
       "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
     }
   },
-  "activity-weapon-popular": {
-    "displayProperties": {
-      "name": "Final Blows",
-      "description": "_This weapon is so hot right now._\n\nSum of final blows by combatants using this weapon.\n\nOutliers are determined with the formula: \n`Sum of weapon final blows >= Q3 + IQR`"
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Total resets",
@@ -241,6 +235,18 @@
     "displayProperties": {
       "name": "Amongst the First",
       "description": "This activity was finished in the contest mode window: triumph under extraordinary circumstance and pressure"
+    }
+  },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "Deathless",
+      "description": "This activity was started from its beginning and finished flawlessly, with no deaths.\n\nTo be eligible, **raids** must be completed after the launch of Witch Queen, **strikes** are specific to each player, and *lost sectors* must be started and finished by a single player."
+    }
+  },
+  "activity-weapon-popular": {
+    "displayProperties": {
+      "name": "Final Blows",
+      "description": "_This weapon is so hot right now._\n\nSum of final blows by combatants using this weapon.\n\nOutliers are determined with the formula: \n`Sum of weapon final blows >= Q3 + IQR`"
     }
   },
   "character-loadouts-delete": {
