@@ -1,0 +1,42 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Playlist"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Normale"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Prestigio"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Adepto"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Eroe"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Leggenda"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Maestro"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Gran maestro"
+    }
+  }
+}
