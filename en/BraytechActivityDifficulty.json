@@ -1,40 +1,45 @@
 {
   "0": {
     "displayProperties": {
-      "name": "Playlist"
+      "name": "Director"
     }
   },
   "1": {
     "displayProperties": {
-      "name": "Normal"
+      "name": "Playlist"
     }
   },
   "2": {
     "displayProperties": {
-      "name": "Prestige"
+      "name": "Normal"
     }
   },
   "3": {
     "displayProperties": {
-      "name": "Adept"
+      "name": "Prestige"
     }
   },
   "4": {
     "displayProperties": {
-      "name": "Hero"
+      "name": "Adept"
     }
   },
   "5": {
     "displayProperties": {
-      "name": "Legend"
+      "name": "Hero"
     }
   },
   "6": {
     "displayProperties": {
-      "name": "Master"
+      "name": "Legend"
     }
   },
   "7": {
+    "displayProperties": {
+      "name": "Master"
+    }
+  },
+  "8": {
     "displayProperties": {
       "name": "Grandmaster"
     }
