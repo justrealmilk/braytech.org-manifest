@@ -183,12 +183,6 @@
       "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
     }
   },
-  "activity-weapon-popular": {
-    "displayProperties": {
-      "name": "Colpi di grazia",
-      "description": "_Quest'arma sta dominando ora._\n\nSomma dei colpi di grazia dei giocatori che usano quest'arma.\n\nI valori anomali vengono determinati con la seguente formula: \n`Somma dei colpi di grazia dell'arma >= Q3 + IQR`"
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Reset totali",
@@ -241,6 +235,18 @@
     "displayProperties": {
       "name": "Tra i primi",
       "description": "Questa attività è stata completata durante il periodo della modalità contesa: trionfa sotto pressione e in circostanze straordinarie"
+    }
+  },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "Senza morti",
+      "description": "Questa attività è stata avviata dall'inizio e terminata in modo impeccabile, senza morti.\n\nPer essere idonee, le **incursioni** devono essere completate dopo il lancio de La Regina dei Sussurri, gli **assalti** sono specifici per ogni giocatore e i **settori perduti** devono essere avviati e terminati da un singolo giocatore."
+    }
+  },
+  "activity-weapon-popular": {
+    "displayProperties": {
+      "name": "Colpi di grazia",
+      "description": "_Quest'arma sta dominando ora._\n\nSomma dei colpi di grazia dei giocatori che usano quest'arma.\n\nI valori anomali vengono determinati con la seguente formula: \n`Somma dei colpi di grazia dell'arma >= Q3 + IQR`"
     }
   },
   "character-loadouts-delete": {
