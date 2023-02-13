@@ -123,6 +123,12 @@
       "description": "Percentage of players who are indexed by Voluspa who've acquired or redeemed this entry."
     }
   },
+  "expiration": {
+    "displayProperties": {
+      "name": "Expiration",
+      "description": "This record has expiration information attached."
+    }
+  },
   "score": {
     "displayProperties": {
       "name": "Score value",
