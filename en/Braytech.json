@@ -222,19 +222,25 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Stale Profile",
-      "description": "Braytech was unable to reach Bungie.net.\n\nContinued use of Braytech will resolve this issue, Bungie.net service permitting."
+      "description": "An attempt to update your profile data with Bungie.net failed. Braytech was unable to reach Bungie.net.\n\nContinued use of Braytech may resolve this issue, Bungie.net service availability permitting."
     }
   },
   "profile-stale-inactive": {
     "displayProperties": {
       "name": "Stale Profile",
-      "description": "Background refresh was paused due to inactivity."
+      "description": "Background refresh is paused due to inactivity. Interact with Braytech to reactivate the service."
     }
   },
   "profile-stale-minted": {
     "displayProperties": {
       "name": "Stale Profile",
-      "description": "Bungie.net returned old information.\n\nContinued use of Braytech will resolve this issue, Bungie.net service permitting."
+      "description": "Bungie.net returned old information.\n\nContinued use of Braytech may resolve this issue, Bungie.net service availability permitting."
+    }
+  },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "Stale Profile",
+      "description": "Bungie.net is temporarily unavailable due to maintenance.\n\nContinued use of Braytech may resolve this issue, Bungie.net service availability permitting."
     }
   },
   "activity-contest-mode": {
