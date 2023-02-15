@@ -222,19 +222,25 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "Braytech non è riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
+      "description": "Un tentativo di aggiornare i dati del tuo profilo con Bungie.net è fallito. Braytech non è riuscito a raggiungere i server di Bungie.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
     }
   },
   "profile-stale-inactive": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "L'aggiornamento in background è fermo a causa di inattività."
+      "description": "L'aggiornamento in background è fermo a causa di inattività. Interagisci con Braytech per riattivare il servizio."
     }
   },
   "profile-stale-minted": {
     "displayProperties": {
       "name": "Dati obsoleti",
-      "description": "Bungie.net ha risposto con dati del profilo obsoleti.\n\nL'uso continuativo di Braytech risolverà questo problema, servizi Bungie.net permettendo."
+      "description": "Bungie.net ha risposto con dati del profilo obsoleti.\n\nL'uso continuativo di Braytech potrebbe risolvere questo problema, servizi Bungie.net permettendo."
+    }
+  },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "Dati obsoleti",
+      "description": "Bungie.net è temporaneamente non disponibile per manutenzione.\n\nL'uso continuativo di Braytech potrebbe risolvere questo problema, servizi Bungie.net permettendo."
     }
   },
   "activity-contest-mode": {
