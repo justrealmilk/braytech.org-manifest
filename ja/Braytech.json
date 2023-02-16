@@ -71,7 +71,7 @@
   },
   "flair-cryptarch": {
     "displayProperties": {
-      "name": "クリプトアーキ"
+      "name": "クリプトアーキ",
       "description": "_Braytechの寛大な翻訳者._"
     },
     "itemTypeDisplayName": "Braytech翻訳者"

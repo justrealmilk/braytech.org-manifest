@@ -85,7 +85,7 @@
     "statName": "高価値のキル"
   },
   "invasionKills": {
-    "statName": "侵入者でのキル数"
+    "statName": "侵入者でのキル数",
     "statNameAbbr": "IK"
   },
   "invasionDeaths": {
