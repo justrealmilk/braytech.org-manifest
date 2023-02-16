@@ -183,7 +183,8 @@
   "10": {
     "displayProperties": {
       "name": "研がれ刃の砦",
-      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ "
+      "description": "ハイブウィザードを倒し、レリックを拾いナイトを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ ",
+      "icon": "ascendant-challenge"
     },
     "typeHash": 2,
     "destinationHash": 1416096592,

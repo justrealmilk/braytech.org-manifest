@@ -1,0 +1,47 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "ガイド"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "プレイリスト"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "ノーマル"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Prestige"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "熟練"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "英雄"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "伝説"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "達人"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "玄人"
+    }
+  }
+}
