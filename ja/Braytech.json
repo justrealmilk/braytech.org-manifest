@@ -41,46 +41,40 @@
     },
     "itemTypeDisplayName": "Platform"
   },
-  "flair-warmind": {
-    "displayProperties": {
-      "name": "総合開発責任者",
-      "description": "トム・チャップマン、Braytech開発兼制作責任者"
-    },
-    "itemTypeDisplayName": "人工知能"
-  },
   "flair-developer": {
     "displayProperties": {
       "name": "トム・チャップマン",
-      "description": ""
+      "description": "Braytech開発者"
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
-  "flair-tokai": {
+  "flair-patron-submind": {
     "displayProperties": {
-      "name": "Tokai",
-      "description": ""
+      "name": "サブマインド",
+      "description": "_ウォーマインドのかけら_\n 重要なPatreonサブスクライバー"
     },
-    "itemTypeDisplayName": "Braytech相談役"
+    "itemTypeDisplayName": "Braytechサポーター"
   },
-  "flair-patron-veteran": {
+  "flair-patron-researcher": {
     "displayProperties": {
-      "name": "サブルーチン",
-      "description": "行動を通して、その勇気と慈愛を何よりも変え難きものと証明した、光の道標となるガーディアン達"
+      "name": "リサーチャー",
+      "description": "_クロビス・ブレイの欺瞞から抜け出した数少ない研究者たち_\n 重要なPatreonサブスクライバー"
     },
-    "itemTypeDisplayName": "Braytech支援者"
+    "itemTypeDisplayName": "Braytechサポーター"
   },
   "flair-patron": {
     "displayProperties": {
-      "name": "研究者",
-      "description": "クロビス・ブレイに寄与する特別研究員として、Braytechの機能向上を目指すガーディアン達。"
+      "name": "出資者",
+      "description": "重要なPatreonサブスクライバー"
     },
     "itemTypeDisplayName": "Braytech支援者"
   },
-  "flair-patron-intern": {
+  "flair-cryptarch": {
     "displayProperties": {
-      "name": "インターン"
+      "name": "クリプトアーキ"
+      "description": "_Braytechの寛大な翻訳者._"
     },
-    "itemTypeDisplayName": "Braytech支援者"
+    "itemTypeDisplayName": "Braytech翻訳者"
   },
     "ammo-type-primary": {
       "displayProperties": {
@@ -127,6 +121,12 @@
     "displayProperties": {
       "name": "共通性",
       "description": "Voluspaのデータに登録されているプレイヤーのうち、取得または達成した人の割合です。"
+    }
+  },
+  "expiration": {
+    "displayProperties": {
+      "name": "有効期限",
+      "description": "この記録は有効期限に関しての情報があります"
     }
   },
   "score": {
@@ -189,12 +189,6 @@
       "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
     }
   },
-  "coverage": {
-    "displayProperties": {
-      "name": "到達範囲",
-      "description": "この翻訳範囲はパーセンテージで表示されます"
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "合計リセット回数",
@@ -207,12 +201,6 @@
       "description": "XPを獲得するとパワーボーナスが付与され、シーズンごとのアーティファクトで強力なmodがアンロックされます。"
     }
   },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "プレイヤーの現在のイロレーティングです。 \n\n サードパーティのウェブサイト、_Destiny Tracker_  は、_クルーシブル_と_ギャンビット_のアクティビティに参加するすべてのDestinyプレイヤーのイロレーティングを提供します。"
-    }
-  },
   "latent-memories": {
     "displayProperties": {
       "name": "潜在的な記憶",
@@ -221,7 +209,7 @@
   },
   "enable-dim-sync": {
     "displayProperties": {
-      "name": "DIM Sync が必要",
+      "name": "DIM Syncが必要",
       "description": "この機能は _DIM Sync_ が必要です。 \n\n _設定_ でサービスを有効にしてください。"
     }
   },
@@ -249,10 +237,28 @@
       "description": "Bungie.netは何らかの理由で古い情報を出力しています。\n\nBungie.netのサービスが許す限り、Braytechを継続的に使用することで最新の情報に更新され、この問題は解決すると思われます。"
     }
   },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "古いプロファイル",
+      "description": "Bungie.neがメンテナンスのため、一時的に利用できません。\n\nBungie.netのサービスが許す限り、Braytechを継続的に使用していると問題が解決する可能性があります。"
+    }
+  },
   "activity-contest-mode": {
     "displayProperties": {
       "name": "初回",
       "description": "このアクティビティは、コンテストモードで終了しました：非常に厳しいプレッシャーの中での勝利"
+    }
+  },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "不死",
+      "description": "このアクティビティでは最後まで誰もダウンせずに完璧に完遂させました。\n\n**レイド** では、漆黒の女王のシーズン以降に完了したもの、 **ストライク** は各プレイヤーの固有のもの、そして**失われたセクター** はソロプレイで達成したときに限り対象になります。"
+    }
+  },
+  "activity-weapon-popular": {
+    "displayProperties": {
+      "name": "ファイナルブロー",
+      "description": "_この武器は現在非常に使われています。_\n\nこの武器でのキルが非常に多いです。\n\n概算は次のように計算されています: \n`合計キル数 >= Q3 + IQR`"
     }
   },
   "character-loadouts-delete": {
@@ -265,6 +271,11 @@
     "displayProperties": {
       "name": "プッシュ通知",
       "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
+    }
+  },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_このチャートは、頂上までの道のりを描いたものです。_"
     }
   },
   "sub-triumphs-active": {

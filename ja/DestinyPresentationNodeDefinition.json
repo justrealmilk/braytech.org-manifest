@@ -4,12 +4,27 @@
       "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
     }
   },
+  "127506319": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
+    }
+  },
   "638914517": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
     }
   },
+  "3289524180": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
+    }
+  },
   "3686962409": {
+    "displayProperties": {
+      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
+    }
+  },
+  "1464475380": {
     "displayProperties": {
       "iconLocal": "/static/images/extracts/ui/overrides/power.png"
     }
@@ -35,7 +50,6 @@
   },
   "1000000002": {
     "hash": 1000000002,
-    "displayProperties": {},
     "children": {
       "presentationNodes": [
         {
@@ -56,6 +70,9 @@
   "metrics": [],
   "craftables": []
 },
+"excluded": [
+  925324934
+],
 "redacted": false
 },
 "1000000004": {
@@ -158,5 +175,87 @@
   "craftables": []
 },
 "redacted": false
+},
+"2381001021": {
+  "children": {
+    "presentationNodes": [
+      {
+        "presentationNodeHash": 1000000008
+      }
+    ]
+  }
+},
+"1000000008": {
+  "hash": 1000000008,
+  "displayProperties": {
+    "name": "入手可能",
+    "description": "これらのエンブレムはhttps://www.bungie.net/redeemにて、無料ダウンロードコードを入力すると入手できます"
+  },
+  "children": {
+    "presentationNodes": [],
+    "collectibles": [
+      {
+          "collectibleHash": 908813207
+      },
+      {
+          "collectibleHash": 4137754755
+      },
+      {
+          "collectibleHash": 4137754752
+      },
+      {
+          "collectibleHash": 4137754753
+      },
+      {
+          "collectibleHash": 3215337910
+      },
+      {
+          "collectibleHash": 3232115498
+      },
+      {
+          "collectibleHash": 3332781245
+      },
+      {
+          "collectibleHash": 3282448382
+      },
+      {
+          "collectibleHash": 3299225966
+      },
+      {
+          "collectibleHash": 3399891680
+      },
+      {
+          "collectibleHash": 3399891683
+      },
+      {
+          "collectibleHash": 3399891682
+      },
+      {
+          "collectibleHash": 3399891685
+      },
+      {
+          "collectibleHash": 1939502752
+      },
+      {
+          "collectibleHash": 1939502753
+      },
+      {
+          "collectibleHash": 1973057929
+      },
+      {
+          "collectibleHash": 2006613205
+      },
+      {
+          "collectibleHash": 2056946089
+      },
+      {
+          "collectibleHash": 2040168511
+      }
+  ],
+    "records": [],
+    "metrics": [],
+    "craftables": []
+  },
+  "redacted": false
   }
 }
