@@ -1,0 +1,280 @@
+{
+  "0": {
+    "displayProperties": {
+      "description": "Keep it cwean.",
+      "name": "Cwassified"
+    },
+    "itemTypeDisplayName": "Insufficient Cweawance",
+    "redacted": true
+  },
+  "1": {
+    "displayProperties": {
+      "description": "Da item uu'we wooking fow does not exist.",
+      "name": "Unknown"
+    },
+    "displaySource": "I hate to say it, but it wooks wike da system uu'we seawching fow doesn't exist.\nThat's impossibwe. Pewhaps da awchives awe incompwete.\nDa awchives awe compwehensive and totawwy secuwe, my uung Jedi. One thing uu may be absowutewy suwe of - if an item does not appeaw in ouw wecowds, it does not exist! OwO",
+    "itemTypeDisplayName": "Missing Item"
+  },
+  "10493725": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CDF.png"
+  },
+  "1078226393": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CEB.png"
+  },
+  "1078226394": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1D08.png"
+  },
+  "1078226395": {
+    "secondaryOverlay": "/static/images/extracts/emblems/027F-1CF3.png"
+  },
+  "1141716960": {
+    "secondaryOverlay": "/static/images/extracts/emblems/9f83f555a9e4a9df89a6e705459283b6.png"
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthcowd matewiaw which can be convewted to Synthweave using da Woom."
+    }
+  },
+  "1387420892": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "1572351682": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience enowmouswy."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's Vawow wank. Awso, it may cause Wowd Shaxx to become excited."
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "1950177353": {
+    "displayProperties": {
+      "description": "Incweases da dwop wate of da \"Heawtshadow\" exotic swowd fwom da \"Duawity\" dungeon.",
+      "name": "Incweased \"Heawtshadow\" dwop wate"
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "2240888816": {
+    "itemType": 16
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience gweatwy."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "23239861010": {
+    "breakerType": 0,
+    "classType": 3,
+    "displayProperties": {
+      "description": "No mastewwowk cuwwentwy sewected.",
+      "hasIcon": true,
+      "iconLocal": "/static/images/extracts/ui/items/no-mod.png",
+      "name": "Empty Mastewwowk Socket"
+    },
+    "equippable": false,
+    "hash": 23239861010,
+    "inventory": {
+      "bucketTypeHash": 2422292810,
+      "maxStackSize": 1000,
+      "tierType": 2,
+      "tierTypeHash": 3340296461,
+      "tierTypeName": "Common"
+    },
+    "itemCategoryHashes": [
+      59,
+      945330047,
+      610365472
+    ],
+    "itemSubType": 0,
+    "itemType": 19,
+    "itemTypeDisplayName": "Weapon Mod",
+    "perks": [],
+    "plug": {
+      "insertionRules": [],
+      "plugAvailability": 0,
+      "plugCategoryHash": 3945646995,
+      "plugCategoryIdentifier": "v400.weapon.masterwork_empty",
+      "plugStyle": 0,
+      "uiPlugLabel": ""
+    },
+    "redacted": false,
+    "tooltipStyle": "vendor_action"
+  },
+  "2328211300": {
+    "itemType": 16
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "Matewiaw used in weapon shaping, wequiwed to adjust intwinsic pwugs.\n\nPwimawiwy obtained by dismantwing Wegendawy weapons, but can awso be wewawded fow compweting activities."
+    }
+  },
+  "2550323932": {
+    "itemType": 16
+  },
+  "2679019194": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2686128774": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2850782006": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png"
+    }
+  },
+  "2932390016": {
+    "itemType": 16
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Incweases uuw cwan's expewience"
+    },
+    "inventory": {
+      "tierTypeName": "Common"
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "3168997075": {
+    "itemType": 16
+  },
+  "3224646387": {
+    "displayProperties": {
+      "description": "Incweases da dwop wate of da \"Hiewawchy of Needs\" exotic bow fwom da \"Spiwe of da Watchew\" dungeon.",
+      "name": "Incweased \"Hiewawchy of Needs\" dwop wate"
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience substantiawwy."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "3381471334": {
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "3487253372": {
+    "breakerType": 1,
+    "breakerTypeHash": 485622768
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "Matewiaw used in weapon shaping.\n\nCan be obtained by compweting Deepsight Wesonance objectives on Wegendawy weapons."
+    },
+    "inventory": {
+      "maxStackSize": 10000
+    },
+    "itemTypeDisplayName": "Matewiaw"
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience gweatwy."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's Infamy wank. Don't teww da Vanguawd."
+    }
+  },
+  "3735294182": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07DF.png"
+  },
+  "3735294183": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06F5.png"
+  },
+  "3735294185": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07B2.png",
+    "secondarySpecial": "/static/images/extracts/emblems/0331-07B5.png"
+  },
+  "3752071765": {
+    "secondaryOverlay": "/static/images/extracts/emblems/f1cad8b2478d676a9cbbbb9aa83df8ef.png"
+  },
+  "3903070392": {
+    "secondarySpecial": "/static/images/extracts/emblems/0331-0711.jpg"
+  },
+  "3936625542": {
+    "secondarySpecial": "/static/images/extracts/emblems/02EF-0197.png"
+  },
+  "3941205951": {
+    "itemType": 16
+  },
+  "3961503936": {
+    "secondarySpecial": "/static/images/extracts/emblems/0281-00001809.png"
+  },
+  "3970180842": {
+    "secondarySpecial": "/static/images/extracts/emblems/0311-03DD.jpg"
+  },
+  "3986958426": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06D2.png"
+  },
+  "3986958430": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-06A4.png"
+  },
+  "3986958431": {
+    "secondaryOverlay": "/static/images/extracts/emblems/0331-07A3.png"
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience substantiawwy."
+    },
+    "traitIds": [
+      "item_type.experience"
+    ]
+  },
+  "73143230": {
+    "displayProperties": {
+      "description": "An engwam with compwex mawkews.\nContains a wandom Pinnacwe Wegendawy weapon ow awmow piece."
+    },
+    "itemTypeDisplayName": "Engwam"
+  },
+  "73143230001": {
+    "displayProperties": {
+      "hasIcon": false,
+      "name": "Pinnacwe Geaw (Weak)"
+    }
+  },
+  "866034301": {
+    "secondarySpecial": "/static/images/extracts/emblems/0276-1D6A.png"
+  }
+}
