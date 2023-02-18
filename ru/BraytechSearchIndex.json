@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Клан",
+      "description": "Сведения о клане, общая статистика всех участников и управление кланом"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Коллекция",
+      "description": "Предметы, полученные Стражем за всё время"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Триумфы",
+      "description": "Достижения, которых достиг ваш Страж на протяжении всех приключений"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Карта",
+      "description": "Интерактивные карты с местами, представляющими интерес"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Еженедельное",
+      "description": "Руководство для Стражей по еженедельным активностям с подсказками по триумфам и испытаниям"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Персонаж",
+      "description": "Проверьте снаряжение и инвентарь вашего Стража"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Поручения",
+      "description": "Отслеживайте свои занятия, включающие задания и контракты"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Активности",
+      "description": "Изучите ваши последние задания в подробностях"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Настройки",
+      "description": "Аккаунт, тема, локальные данные, настройки отображения, язык, инструменты для разработчиков и решение проблем"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Сравнить",
+      "description": "Найдите своё самое быстрое завершение сумрачных налетов и охоты на кошмаров"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Архивы",
+      "description": "Полезные инструменты, руководства и другое"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "ЧАВО",
+      "description": "Некоторые из часто задаваемых вопросов Тому"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Участники проекта",
+      "description": "Стражи, благодаря которым проект существует"
+    }
+  }
+}

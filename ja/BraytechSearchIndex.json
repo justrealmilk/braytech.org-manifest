@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "クラン",
+      "description": "クランのステータス、クランメンバーの名簿、メンバーのアクティビティ一覧、および管理モード"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "コレクション",
+      "description": "ガーディアンが生涯かけて取得したアイテム"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "勝利の道のり",
+      "description": "ガーディアンの勝利の道のりの記録"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "マップ",
+      "description": "収集物のチェックや注目したい目的地が確認できるインタラクティブな地図"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "ウィークリー",
+      "description": "ガーディアンたちへの、強化と勝利のためのヒントとなるウィークリーの必須ガイド"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "キャラクター",
+      "description": "ガーディアンの装備や所持品を見直しましょう"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "クエスト",
+      "description": "クエストやバウンティの追跡"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "アクティビティ",
+      "description": "戦いの詳細レポートとフィルタリング"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "設定",
+      "description": "アカウント、テーマ、ローカルデータ、アイテムの可視・不可視、言語設定、開発者モード、トラブルシューティング"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "勝利の比較",
+      "description": "仲間のガーディアンへ、その自慢の証拠を突き付けろ"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "アーカイブ",
+      "description": "インタラクティブなツール、マニュアル、記録、その他のコンテンツ"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Tom（Braytech開発者）お気に入りのよくある質問"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "クレジット",
+      "description": "不可能を実現させてきたガーディアンたちについて"
+    }
+  }
+}

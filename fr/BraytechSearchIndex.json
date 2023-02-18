@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "À propos de votre clan, de ses membres, des statistiques globales et du mode d'administration"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Collections",
+      "description": "Articles que votre Gardien a obtenu au cours du temps"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triomphes",
+      "description": "Triomphes accomplis par votre gardien pendant ses aventures"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Cartes",
+      "description": "Cartes interactives répertoriant les listes de contrôle et autres destinations notables"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Hebdomadaires",
+      "description": "Un guide pour gardien des rituels hebdomadaires avec des conseils pour les prestiges et les triomphes"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Personnage",
+      "description": "Inspecter l'équipement de votre Gardien"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Quêtes",
+      "description": "Suivre vos poursuites, y compris vos quêtes et vos contrats"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Activité",
+      "description": "Explorer et filtrer vos rapports de fin de partie en détail"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Paramètres",
+      "description": "Compte, thème, données locales, visibilité des objets, langue et outils de débogage"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Comparer",
+      "description": "Retrouver vos meilleures performances durant les Nuits Noires et les Chasses au Cauchemar"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archives",
+      "description": "Outils intéractifs, manuels, légendes, et autre contenu préservé par les Cryptarques pour les générations futures"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Certaines des questions les plus fréquemment posées à Tom."
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Crédits",
+      "description": "Ces Gardiens qui ont rendu possible cette aventure"
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "About your clan, its roster, summative historical stats for all members, and admin mode"
+    },
+    "to": "/clan"
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Collections",
+      "description": "Items your Guardian has acquired over their lifetime"
+    },
+    "to": "/collections",
+    "keywords": [
+      "exotics",
+      "badges"
+    ]
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triumphs",
+      "description": "Records your Guardian has achieved through their trials"
+    },
+    "to": "/triumphs",
+    "keywords": [
+      "catalysts",
+      "almost complete",
+      "expiring",
+      "seals",
+      "trackers"
+    ]
+  },
+  "triumphs-seasonal-challenges": {
+    "hash": "triumphs-seasonal-challenges",
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    },
+    "to": "/triumphs/seasonal-challenges",
+    "keywords": [
+      "seasonal challenges"
+    ]
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Maps",
+      "description": "Interactive maps charting checklists and other notable destinations"
+    },
+    "to": "/maps",
+    "keywords": [
+      "eggs",
+      "ahamkara bones",
+      "region chests",
+      "lost sectors"
+    ]
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Weeklies",
+      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph"
+    },
+    "to": "/weeklies",
+    "keywords": [
+      "nightfall",
+      "lost sector",
+      "modules"
+    ]
+  },
+  "weeklies-challenges": {
+    "hash": "weeklies-challenges",
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    },
+    "to": "/weeklies/challenges",
+    "keywords": [
+      "weeklies",
+      "challenges",
+      "milestones",
+      "bonuses"
+    ]
+  },
+  "weeklies-rotations": {
+    "hash": "weeklies-rotations",
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    },
+    "to": "/weeklies/rotations",
+    "keywords": [
+      "nightfalls",
+      "lost sectors",
+      "rotations",
+      "calendar",
+      "raids",
+      "wellspring",
+      "altars of sorrow"
+    ]
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Character",
+      "description": "Review your Guardian's equipment and inventory"
+    },
+    "to": "/character",
+    "keywords": [
+      "inventory",
+      "items",
+      "equipment",
+      "stats"
+    ]
+  },
+  "character-postmaster": {
+    "hash": "character-postmaster",
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    },
+    "to": "/character/bucket/postmaster",
+    "keywords": [
+      "postmaster"
+    ]
+  },
+  "character-vault": {
+    "hash": "character-vault",
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    },
+    "to": "/character/vault",
+    "keywords": [
+      "vault"
+    ]
+  },
+  "character-vendors": {
+    "hash": "character-vendors",
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    },
+    "to": "/character/vendors",
+    "keywords": [
+      "vendors",
+      "bright dust calendar",
+      "eververse calendar"
+    ]
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Quests",
+      "description": "Track your pursuits, including quests and bounties"
+    },
+    "to": "/quests/all"
+  },
+  "quests-bounties": {
+    "hash": "quests-bounties",
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    },
+    "to": "/quests",
+    "keywords": [
+      "bounty"
+    ]
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Activity",
+      "description": "Explore and filter your Post Game Carnage Reports in detail"
+    },
+    "to": "/activity",
+    "keywords": [
+      "reports",
+      "pgcr",
+      "raids",
+      "lost sectors",
+      "nightfalls",
+      "strikes",
+      "crucible",
+      "trials",
+      "competitive",
+      "matches",
+      "reputation",
+      "ranks"
+    ]
+  },
+  "activity-bookmarks": {
+    "hash": "activity-bookmarks",
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    },
+    "to": "/activity/bookmarks",
+    "keywords": [
+      "reports",
+      "pgcr",
+      "raids",
+      "lost sectors",
+      "nightfalls",
+      "strikes",
+      "crucible",
+      "trials",
+      "competitive",
+      "matches"
+    ]
+  },
+  "activity-series": {
+    "hash": "activity-series",
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    },
+    "to": "/activity/series",
+    "keywords": [
+      "reports",
+      "pgcr",
+      "stats",
+      "raids",
+      "lost sectors",
+      "nightfalls",
+      "strikes",
+      "fireteams",
+      "day 1s",
+      "contest mode",
+      "completions",
+      "flawlesses",
+      "matches"
+    ]
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Settings",
+      "description": "Account, theme, local data, item visibility, language, developer, troubleshooting"
+    },
+    "to": "/settings"
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Compare",
+      "description": "Go head to head with fellow Guardians for vanity"
+    },
+    "to": "/compare"
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archives",
+      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations"
+    },
+    "to": "/archives"
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "Frequently Asked Questions",
+      "description": "The frequently asked and easy to answer"
+    },
+    "to": "/addendums/faq",
+    "keywords": [
+      "faq",
+      "help",
+      "shortcuts"
+    ]
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Credits",
+      "description": "About the Guardians who make it possible"
+    },
+    "to": "/addendums"
+  }
+}

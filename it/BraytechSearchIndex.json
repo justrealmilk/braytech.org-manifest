@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Informazioni sul tuo clan, statistiche storiche dei membri e modalità amministratore"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Collezioni",
+      "description": "Oggetti ottenuti dal tuo Guardiano nel tempo"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Trionfi",
+      "description": "Trionfi ottenuti dal tuo Guardiano tra varie sfide"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Mappe",
+      "description": "Mappe interattive con collezionabili e altre destinazioni importanti"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Settimanali",
+      "description": "Una guida per Guardiani ai rituali settimanali per prestigio e trionfo"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Personaggio",
+      "description": "Controlla l'equipaggiamento e l'inventario del tuo Guardiano"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Imprese",
+      "description": "Traccia i tuoi incarichi tra cui imprese e taglie"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Attività",
+      "description": "Esplora e filtra i tuoi Riepiloghi della Carneficina Post-Partita nel dettaglio"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Impostazioni",
+      "description": "Account, tema, dati locali, visibilità, lingua, sviluppatore e risoluzione problemi"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Confronta",
+      "description": "Scontrati testa a testa con altri Guardani per vanto"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archivi",
+      "description": "Strumenti interattivi, manuali, leggende e altro contenuto preservato dai Criptarchi per le generazioni future"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Risposte alle domande frequenti preferite di Tom"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Crediti",
+      "description": "A proposito dei Guardiani che rendono possibile tutto ciò"
+    }
+  }
+}

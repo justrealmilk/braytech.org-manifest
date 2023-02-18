@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "公會",
+      "description": "關於你的公會，公會成員名單，所有成員的匯總歷史統計信息以及管理員模式"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "收藏品",
+      "description": "你的守護者一生中曾獲得的物品"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "成就",
+      "description": "你的守護者在挑戰中曽完成的成就記錄"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "地圖",
+      "description": "交互式地圖清單和其他重要目標"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "周报",
+      "description": "守護者的每周成就與挑戰指南"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "角色",
+      "description": "查看守護者的裝備和庫存."
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "任務",
+      "description": "追蹤你的任務，包括任務及賞金單"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "🦘 Activity",
+      "description": "瀏覽和篩選你的詳細游戲擊殺報告"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "設定",
+      "description": "賬戶，主題，本地數據，項目可見性，語言，開發人員，故障排除"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "對比",
+      "description": "尋找你最快的日暮任務：磨難和夢魘狩獵"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "歸檔",
+      "description": "交互式工具，手冊，傳奇報告，和其他保留内容"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "常見問題",
+      "description": "Tom 最喜歡的壹些常見問題"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "致謝",
+      "description": "關於這些成爲可能的守護者們"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clã",
+      "description": "Seu clã, elenco, estatísticas históricas de todos os membros somadas e modo administrador"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Coleções",
+      "description": "Itens que seu Guardião obteve durante sua vida"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triunfos",
+      "description": "Triunfos que seu Guardião conquistou através de seus desafios"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Mapas",
+      "description": "Mapa interativo mostrando checklists e outros destinos notáveis"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Semanais",
+      "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Personagem",
+      "description": "Inspecione o equipamento e inventário do seu Guardião"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Jornadas",
+      "description": "Siga suas atividades, incluindo jornadas e contratos"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Atividade",
+      "description": "Explore e filtre seus Relatórios Pós Jogo em detalhes"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Configurações",
+      "description": "Conta, tema, informações locais, visibilidade de itens, idioma e dados salvos"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Comparar",
+      "description": "Enfrente outros Guardiões por vaidade"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Depósito",
+      "description": "Ferramentas interativas, manuais, lendas, e outros conteúdos preservados"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Algumas das perguntas mais feitas ao Tom"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Créditos",
+      "description": "Sobre os Guardiões que fazem isso possível"
+    }
+  }
+}

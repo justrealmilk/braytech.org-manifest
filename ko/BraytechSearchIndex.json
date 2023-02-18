@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "클랜",
+      "description": "당신의 클랜과 그 명단, 모든 클랜원들의 지난 통계 요약 및 관리자 모드"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "수집품",
+      "description": "당신의 수호자가 지금까지 획득한 아이템"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "업적",
+      "description": "수호자가 도전을 통해 달성한 업적"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "지도",
+      "description": "체크리스트와 주요 목적지를 요약한 상호작용 맵"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "주간",
+      "description": "수호자의 업적과 보상을 위한 의례적인 주간 가이드입니다."
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "캐릭터",
+      "description": "수호자의 장비와 인벤토리를 확인합니다."
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "퀘스트",
+      "description": "당신의 퀘스트와 현상금을 추적하고 수행하세요."
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "활동",
+      "description": "전투 기록을 자세히 확인하고 검색하세요."
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "설정",
+      "description": "계정, 테마, 로컬 정보, 아이템 노출여부, 언어, 개발자 및 문제 해결"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "비교",
+      "description": "동료 수호자와 맞대결하고 허영심에 빠져보세요."
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "보관소",
+      "description": "상호작용형 도구, 매뉴얼, 범례 및 기타 콘텐트 보존"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "자주 묻는 질문",
+      "description": "Tom이 선정한 몇몇 자주 묻는 질문들"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "크레딧",
+      "description": "이 모든걸 가능하게 해준 수호자들에 대하여"
+    }
+  }
+}

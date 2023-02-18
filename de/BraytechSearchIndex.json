@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Informationen zu deinem Clan, seiner Besatzung, historische Statistiken für alle Mitglieder und einem Admin Modus"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Sammlungen",
+      "description": "Gegenstände, die dein Hüter im Laufe seines Lebens erworben hat"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triumphe",
+      "description": "Triumphe, die dein Hüter durch seine Prüfungen erzielt hat"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Karten",
+      "description": "Interaktive Karten mit Checklisten und anderen wichtigen Zielen"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Wöchentliches",
+      "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Charakter",
+      "description": "Inspiziere die Ausrüstung und das Inventar deines Hüters"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Quests",
+      "description": "Tracke deine Aufgaben, inklusive Quest und Beutezüge."
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Aktivitäten",
+      "description": "Bestaune und filtere deine 'Schmelztiegel-Berichte' im Detail"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Einstellungen",
+      "description": "Konto, Design, lokale Daten, Sichtbarkeit von Gegenständen, Sprache, Entwickler, Fehlerbehebung"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Vergleichen",
+      "description": "Finde und vergleiche deine schnellsten Abschlüsse für Dämmerungsstrikes und Albtraumjagden mit anderen Hütern"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archiv",
+      "description": "Interaktive Tools, Handbücher, Legenden und weiteren Inhalten"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Toms Favoriten der häufig gestellten Fragen"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Danksagung",
+      "description": "Über die Hüter, die es möglich machen"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Sobre tu clan, lista de jugadores, estadísticas históricas totales de todos los miembros y modo de administración"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Colecciones",
+      "description": "Objetos que tu Guardián adquirió a lo largo de su vida"
+    }
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triunfos",
+      "description": "Logros alcanzados por tu Guardián en sus desafíos"
+    }
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Mapas",
+      "description": "Mapas cartográficos interactivos con listas y otros destinos destacados"
+    }
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Semanales",
+      "description": "Guía del Guardián sobre rituales semanales con consejos para ganar prestigio y triunfar"
+    }
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Personaje",
+      "description": "Revisa el equipamiento y el inventario de tu Guardián"
+    }
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Aventuras",
+      "description": "Sigue tus actividades, entre ellas aventuras y contratos"
+    }
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Actividad",
+      "description": "Explora y filtra tus Informes de Combate en detalle"
+    }
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Ajustes",
+      "description": "Cuenta, tema, datos locales, visibilidad de elementos, idioma, desarrollador, resolución de problemas"
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Comparar",
+      "description": "Descubre tus compleciones más rápidas en Ocasos y Cacería de Pesadillas"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archivos",
+      "description": "Herramientas interactivas, manuales, leyendas y otros contenidos conservados"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Algunas de las Preguntas Frecuentes favoritas de Tom"
+    }
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Créditos",
+      "description": "Sobre los Guardianes que lo hacen posible"
+    }
+  }
+}
