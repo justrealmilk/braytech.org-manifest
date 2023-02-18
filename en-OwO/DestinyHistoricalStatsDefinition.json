@@ -1,0 +1,356 @@
+{
+  "Medals_pvecomp_medal_thermal_sword_healing_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007695.png"
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Wand da finaw bwow on an opponent who just defeated an awwy."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "In a singwe wife, defeat thwee opponents attempting to captuwe awwied captuwe zones."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Wecaptuwe a zone within 15 seconds of it being captuwed by uuw opponents."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Defeat two ow mowe opponents with Zone Advantage within 10 seconds of captuwing a zone."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Captuwe a zone with uuw entiwe team pwesent."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Compwete an Iwon Bannew match with da most combined Advantage and Hunt kiwws."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Defeat five opponents whiwe howding Zone Advantage befowe da opposing team wecaptuwes a zone."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "In a singwe wife, pawticipate in captuwing aww thwee zones weading to da Hunt."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Suwvive uuw opponents' Hunt without being defeated."
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "As a team, defeat aww opposing *wuns away* Guawdians at weast once duwing da Hunt."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Suwvive a Hunt in which no membew of uuw team is defeated—then stawt da next Hunt."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "In a singwe Iwon Bannew match, wand at weast one finaw bwow with each cwass of weapon (Kinetic, Enewgy, Powew) and abiwity (mewee, gwenade, Supew)."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Wand da finaw bwow on an opponent who haz wecentwy damaged an awwy."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Wand da fiwst finaw bwow of da match."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Win an Iwon Bannew match with a wawge mawgin of victowy."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Win an Iwon Bannew match aftew having twaiwed by a significant mawgin."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Deaw da most totaw damage to opponents in a singwe Iwon Bannew match."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Win an Iwon Bannew match in which uuw team nevew twaiwed."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Win an Iwon Bannew match *sweats* in ovewtime."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Compwete an Iwon Bannew match in which uu defeat at weast seven opponents and awe nevew defeated by an opponent."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Wapidwy defeat 2 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Wapidwy defeat 3 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Wapidwy defeat 4 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Wapidwy defeat 5 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Wapidwy defeat 6 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "*sweats* Wapidwy defeat 7 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Wand finaw bwows on da entiwe enemy team befowe any of them wespawn."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Wand da finaw bwow on da Guawdian who wast defeated uu."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "In a singwe wife, defeat 3 opposing Guawdians whiwe assisting ow assisted by uuw teammates."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Defeat 3 opponents in a singwe wife aftew having been defeated two consecutive times."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "In a singwe wife, defeat 50 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "In a singwe *wuns away* wife, defeat 20 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "In a singwe wife, defeat 10 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Wand finaw bwows on seven opponents without taking any damage fwom any souwce."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Shut down an opponent's stweak."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Shut down an opponent's stweak of 20 ow mowe."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "In a singwe wife, defeat 5 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "As a team, defeat 7 opposing Guawdians without any membew of uuw team being defeated."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Stop an opponent's Supew with uuw Supew."
+  },
+  "activitiesCleared": {
+    "statDescription": "Totaw activities cweawed successfuwwy. Hopefuwwy, Guawdian, this vawue is gweatew than hawf of activities entewed! OwO",
+    "statName": "Cweawed"
+  },
+  "activitiesEntered": {
+    "statName": "Entewed"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Avewage K/D"
+  },
+  "blockerKills": {
+    "statName": "Bwockew Kiwws"
+  },
+  "currentCompetitiveRating": {
+    "statDescription": "Pwayew's cuwwent Competitive Division wating.",
+    "statName": "Cuwwent Competitive Wating",
+    "statNameAlt": "Current Rating"
+  },
+  "currentEloRating": {
+    "statDescription": "Pwayew's cuwwent Ewo wating.\n\nEwo watings fwom a thiwd-pawty web site, _Destiny Twackew_. _Destiny Twackew_ pwovides Ewo watings fow aww Destiny pwayews who pawticipate in _Cwucibwe_ and _Gambit_ activities.",
+    "statName": "Cuwwent Ewo Wating",
+    "statNameAlt": "Current Elo"
+  },
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Fastest"
+  },
+  "flawless": {
+    "statName": "Fwawwess"
+  },
+  "highValueKills": {
+    "statName": "High Vawue Kiwws"
+  },
+  "invaderDeaths": {
+    "statName": "Deaths to Invadews"
+  },
+  "invaderKills": {
+    "statName": "Invadews Kiwwed"
+  },
+  "invasionDeaths": {
+    "statName": "Deaths *wuns away* as Invadew"
+  },
+  "invasionKills": {
+    "statName": "Kiwws as Invadew",
+    "statNameAbbr": "IK"
+  },
+  "invasions": {
+    "statName": "Invasions"
+  },
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "killsDeathsRatio": {
+    "statName": "K/D",
+    "statNameAbbr": "KD"
+  },
+  "largeBlockersSent": {
+    "statName": "Wawge Bwockews Sent"
+  },
+  "medals_pvecomp_medal_arc_beam_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007766.png"
+  },
+  "medals_pvecomp_medal_arc_lightning_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007758.png"
+  },
+  "medals_pvecomp_medal_arc_staff_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007689.png"
+  },
+  "medals_pvecomp_medal_bank_kill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007726.png"
+  },
+  "medals_pvecomp_medal_big_game_hunter": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007760.png"
+  },
+  "medals_pvecomp_medal_block_party": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007774.png"
+  },
+  "medals_pvecomp_medal_blockbuster": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007691.png"
+  },
+  "medals_pvecomp_medal_denied": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007671.png"
+  },
+  "medals_pvecomp_medal_everyone_invaded": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007833.png"
+  },
+  "medals_pvecomp_medal_fast_fill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007804.png"
+  },
+  "medals_pvecomp_medal_first_to_block": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007764.png"
+  },
+  "medals_pvecomp_medal_fist_of_havoc_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007706.png"
+  },
+  "medals_pvecomp_medal_golden_gun_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007693.png"
+  },
+  "medals_pvecomp_medal_half_banked": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007783.png"
+  },
+  "medals_pvecomp_medal_invader_kill_four": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007660.png"
+  },
+  "medals_pvecomp_medal_invasion_shutdown": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007805.png"
+  },
+  "medals_pvecomp_medal_kill_after_invasion": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007818.png"
+  },
+  "medals_pvecomp_medal_killmonger": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007770.png"
+  },
+  "medals_pvecomp_medal_locksmith": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007798.png"
+  },
+  "medals_pvecomp_medal_massacre": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007809.png"
+  },
+  "medals_pvecomp_medal_meteor_strike_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007788.png"
+  },
+  "medals_pvecomp_medal_never_say_die": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007683.png"
+  },
+  "medals_pvecomp_medal_no_escape": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007777.png"
+  },
+  "medals_pvecomp_medal_nova_bomb_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007782.png"
+  },
+  "medals_pvecomp_medal_nova_pulse_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007794.png"
+  },
+  "medals_pvecomp_medal_overkillmonger": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007654.png"
+  },
+  "medals_pvecomp_medal_revenge": {
+    "iconLocal": "/static/images/extracts/medals/gambit/0560-00002176.png"
+  },
+  "medals_pvecomp_medal_revenge_same_invasion": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007769.png"
+  },
+  "medals_pvecomp_medal_tags_denied_15": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007662.png"
+  },
+  "medals_pvecomp_medal_thermal_hammer_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007789.png"
+  },
+  "medals_pvecomp_medal_thermal_knives_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007753.png"
+  },
+  "medals_pvecomp_medal_thermal_maul_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007756.png"
+  },
+  "medals_pvecomp_medal_thermal_sword_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007812.png"
+  },
+  "medals_pvecomp_medal_thrillmonger": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007652.png"
+  },
+  "medals_pvecomp_medal_void_blade_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007772.png"
+  },
+  "medals_pvecomp_medal_void_bow_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007792.png"
+  },
+  "medals_pvecomp_medal_void_shield_multikill": {
+    "iconLocal": "/static/images/extracts/medals/gambit/01a3-00007800.png"
+  },
+  "mediumBlockersSent": {
+    "statName": "Medium Bwockews Sent"
+  },
+  "motesDenied": {
+    "statName": "Motes Denied"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "ML"
+  },
+  "opponentsDefeated": {
+    "statName": "Kiwws + Assists",
+    "statNameAbbr": "KA"
+  },
+  "precisionKills": {
+    "statName": "Pwecision",
+    "statNameAbbr": "P"
+  },
+  "primevalDamage": {
+    "statName": "Pwimevaw Damage",
+    "statNameAbbr": "D"
+  },
+  "primevalKills": {
+    "statName": "Pwimevaw Kiwws"
+  },
+  "score": {
+    "statNameAbbr": "S"
+  },
+  "secondsPlayed": {
+    "statDescription": "Totaw time devoted to ewiminating thweats to da City. Thewe's no such thing as too wittwe time gifted."
+  },
+  "smallBlockersSent": {
+    "statName": "Smaww Bwockews Sent"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficuwty"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Awwied Kiwws Secuwed"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Cwests Wecovewed"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Cwests Secuwed"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kiwws Secuwed"
+  },
+  "supremacySecureRate": {
+    "statName": "Secuwe Wate"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Accuwacy",
+    "statNameAbbr": "A"
+  },
+  "winRate": {
+    "statName": "Win Wate",
+    "unitType": 7
+  }
+}

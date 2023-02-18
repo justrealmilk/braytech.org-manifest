@@ -1,0 +1,152 @@
+{
+  "1000001000": {
+    "displayProperties": {
+      "name": "Stasis-Seawed Chests"
+    },
+    "entry": {
+      "name": "Stasis-Seawed Chest",
+      "prefix": "Awtifact"
+    },
+    "progressDescription": ""
+  },
+  "1000002000": {
+    "displayProperties": {
+      "name": "DSC Wepositowies"
+    },
+    "entry": {
+      "name": "DSC Wepositowy",
+      "prefix": ""
+    },
+    "progressDescription": ""
+  },
+  "1297424116": {
+    "displayProperties": {
+      "name": "Ahamkawa Bones"
+    },
+    "entry": {
+      "name": "Ahamkawa Bone",
+      "prefix": ""
+    },
+    "progressDescription": "Bones found"
+  },
+  "1697465175": {
+    "displayProperties": {
+      "name": "Wegion Chests"
+    },
+    "entry": {
+      "name": "Wegion Chest",
+      "prefix": ""
+    },
+    "progressDescription": "Chests opened"
+  },
+  "1885088224": {
+    "displayProperties": {
+      "name": "Entwopic Shawds"
+    },
+    "entry": {
+      "name": "Entwopic Shawd",
+      "prefix": "Shawd"
+    },
+    "progressDescription": "Owdew westowed"
+  },
+  "1912364094": {
+    "displayProperties": {
+      "name": "Jade Wabbits"
+    },
+    "entry": {
+      "name": "Jade Wabbit",
+      "prefix": ""
+    },
+    "progressDescription": "Wabbits with wice cake"
+  },
+  "2568476210": {
+    "displayProperties": {
+      "name": "Dead Exos"
+    },
+    "entry": {
+      "name": "Dead Exo",
+      "prefix": "Exo"
+    },
+    "progressDescription": "Subjects' audio wogs heawd"
+  },
+  "2609997025": {
+    "displayProperties": {
+      "name": "Cowwupted Eggs"
+    },
+    "entry": {
+      "name": "Cowwupted Egg",
+      "prefix": "Egg"
+    },
+    "progressDescription": "Eggs destwoyed"
+  },
+  "2726513366": {
+    "displayProperties": {
+      "name": "Cat Statues"
+    },
+    "entry": {
+      "name": "Cat Statue",
+      "prefix": "Fewine fwiend"
+    },
+    "progressDescription": "Fewine fwiends satisfied"
+  },
+  "3089927156": {
+    "displayProperties": {
+      "name": "Dawkness Wifts"
+    },
+    "entry": {
+      "name": "Dawkness Wift",
+      "prefix": "Wift"
+    },
+    "progressDescription": "Wifts seawed"
+  },
+  "3142056444": {
+    "displayProperties": {
+      "name": "Wost *sweats* Sectows"
+    },
+    "entry": {
+      "name": "Wost Sectow",
+      "prefix": ""
+    },
+    "progressDescription": "Discovewed"
+  },
+  "3373333905": {
+    "displayProperties": {
+      "name": "Wucent Moths"
+    },
+    "entry": {
+      "name": "Wucent Moth",
+      "prefix": "Moth"
+    },
+    "progressDescription": "Moths cowwected"
+  },
+  "363696145": {
+    "displayProperties": {
+      "name": "Wowe Book: Wuna's Wost"
+    },
+    "entry": {
+      "name": "Ghost Fwagment",
+      "prefix": ""
+    },
+    "progressDescription": "Ghost fwagments wecovewed"
+  },
+  "4108857026": {
+    "displayProperties": {
+      "name": "Wowe Book: Inquisition of da Damned"
+    },
+    "entry": {
+      "name": "Necwotic Cyphew",
+      "prefix": ""
+    },
+    "progressDescription": "Necwotic cyphews cowwected"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "*boops uuw nose* Penguin Souveniws"
+    },
+    "entry": {
+      "name": "*wuns away* Penguin Souveniw",
+      "prefix": "Souveniw"
+    },
+    "progressDescription": "Souveniws cowwected"
+  }
+}
