@@ -41,26 +41,17 @@
       "name": "Twack Wecowd"
     }
   },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "description": "This weapon uses heavy ammo.",
-      "name": "Heavy"
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
   "ammo-type-primary": {
     "displayProperties": {
       "description": "This weapon haz infinite wesewves.",
       "name": "Pwimawy"
-    },
-    "itemTypeDisplayName": "Ammo"
+    }
   },
   "ammo-type-special": {
     "displayProperties": {
       "description": "This weapon uses speciaw ammo.",
       "name": "Speciaw"
-    },
-    "itemTypeDisplayName": "Ammo"
+    }
   },
   "artifact-power-bonus": {
     "displayProperties": {
@@ -82,8 +73,7 @@
   },
   "configure-push-notifications": {
     "displayProperties": {
-      "description": "Push notifications can weach uu when uu'we not using Bwaytech and (・`ω´・) ensuwe uu don't miss whatevew it is that uu'we chazing.",
-      "name": "Push Notifications"
+      "description": "Push notifications can weach uu when uu'we not using Bwaytech and (・`ω´・) ensuwe uu don't miss whatevew it is that uu'we chazing."
     }
   },
   "enable-dim-sync": {
@@ -107,8 +97,7 @@
   },
   "flair-developer": {
     "displayProperties": {
-      "description": "_Cweatow of Bwaytech._",
-      "name": "Tom Chapman"
+      "description": "_Cweatow of Bwaytech._"
     },
     "itemTypeDisplayName": "Bwaytech Devewopew"
   },
@@ -128,8 +117,7 @@
   },
   "flair-patron-submind": {
     "displayProperties": {
-      "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew.",
-      "name": "Submind"
+      "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew."
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
@@ -166,8 +154,7 @@
   },
   "platform-epic": {
     "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs.",
-      "name": "Epic"
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
     },
     "itemTypeDisplayName": "Pwatfowm"
   },
@@ -180,22 +167,19 @@
   },
   "platform-stadia": {
     "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs.",
-      "name": "Stadia"
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
     },
     "itemTypeDisplayName": "Pwatfowm"
   },
   "platform-steam": {
     "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs.",
-      "name": "Steam"
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
     },
     "itemTypeDisplayName": "Pwatfowm"
   },
   "platform-xbox": {
     "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs.",
-      "name": "Xbox"
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
     },
     "itemTypeDisplayName": "Pwatfowm"
   },
@@ -256,15 +240,13 @@
     "displayProperties": {
       "description": "Appwoximate distances whewe damage fawwoff begins fow hipfiwe and ADS (aim down sights).",
       "name": "Damage Fawwoff"
-    },
-    "itemTypeDisplayName": "Stat"
+    }
   },
   "stat-reload-time": {
     "displayProperties": {
       "description": "Da time it takes fow this weapon to compwete a fuww wewoad *boops uuw nose* and fiwe. This vawue is based onwy on da wewoad speed stat and is unaffected by pewks.",
       "name": "Wewoad Time"
-    },
-    "itemTypeDisplayName": "Stat"
+    }
   },
   "sub-activity-bookmarks": {
     "displayProperties": {
@@ -298,8 +280,7 @@
   },
   "sub-character-equipment": {
     "displayProperties": {
-      "description": "Evawuate uuw Guawdian's battwe weadiness",
-      "name": "Equipment"
+      "description": "Evawuate uuw Guawdian's battwe weadiness"
     }
   },
   "sub-character-loadouts": {
@@ -358,8 +339,7 @@
   },
   "sub-inspect-equipment": {
     "displayProperties": {
-      "description": "Aww item attwibutes; stats, pewks, and mods",
-      "name": "Sockets"
+      "description": "Aww item attwibutes; stats, pewks, and mods"
     }
   },
   "sub-inspect-lore": {
@@ -370,20 +350,17 @@
   },
   "sub-settings-advanced": {
     "displayProperties": {
-      "description": "Pewfowmance, debugging, and stowage management. No one haz fun hewe.",
-      "name": "Advanced"
+      "description": "Pewfowmance, debugging, and stowage management. No one haz fun hewe."
     }
   },
   "sub-settings-common": {
     "displayProperties": {
-      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech.",
-      "name": "Common"
+      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech."
     }
   },
   "sub-settings-push-notifications": {
     "displayProperties": {
-      "description": "Contwow how Bwaytech weaches uu when uu'we not using it.",
-      "name": "Push Notifications"
+      "description": "Contwow how Bwaytech weaches uu when uu'we not using it."
     }
   },
   "sub-triumphs-active": {
@@ -450,12 +427,6 @@
     "displayProperties": {
       "description": "Scwy da owbits of vawious activities",
       "name": "Wotations"
-    }
-  },
-  "sub-weeklies-this-week": {
-    "displayProperties": {
-      "description": "This week in Destiny",
-      "name": "This Week"
     }
   },
   "tooltip-error": {
