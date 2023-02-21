@@ -2,6 +2,7 @@ import Braytech from '@Data/manifest/en-OwO/Braytech.json';
 import BraytechActivityDifficulty from '@Data/manifest/en-OwO/BraytechActivityDifficulty.json';
 import BraytechMaps from '@Data/manifest/en-OwO/BraytechMaps.json';
 import BraytechMapsTypes from '@Data/manifest/en-OwO/BraytechMapsTypes.json';
+import BraytechSearchIndex from '@Data/manifest/en-OwO/BraytechSearchIndex.json';
 import DestinyActivityDefinition from '@Data/manifest/en-OwO/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/en-OwO/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/en-OwO/DestinyActivityModifierDefinition.json';
@@ -32,6 +33,7 @@ const enOwO = {
     BraytechActivityDifficulty,
     BraytechMaps,
     BraytechMapsTypes,
+    BraytechSearchIndex,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,

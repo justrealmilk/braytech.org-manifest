@@ -6,38 +6,31 @@
     "entry": {
       "name": "Stasis-Seawed Chest",
       "prefix": "Awtifact"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC Wepositowies"
     },
     "entry": {
-      "name": "DSC Wepositowy",
-      "prefix": ""
-    },
-    "progressDescription": ""
+      "name": "DSC Wepositowy"
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Ahamkawa Bones"
     },
     "entry": {
-      "name": "Ahamkawa Bone",
-      "prefix": ""
-    },
-    "progressDescription": "Bones found"
+      "name": "Ahamkawa Bone"
+    }
   },
   "1697465175": {
     "displayProperties": {
       "name": "Wegion Chests"
     },
     "entry": {
-      "name": "Wegion Chest",
-      "prefix": ""
-    },
-    "progressDescription": "Chests opened"
+      "name": "Wegion Chest"
+    }
   },
   "1885088224": {
     "displayProperties": {
@@ -54,19 +47,11 @@
       "name": "Jade Wabbits"
     },
     "entry": {
-      "name": "Jade Wabbit",
-      "prefix": ""
+      "name": "Jade Wabbit"
     },
     "progressDescription": "Wabbits with wice cake"
   },
   "2568476210": {
-    "displayProperties": {
-      "name": "Dead Exos"
-    },
-    "entry": {
-      "name": "Dead Exo",
-      "prefix": "Exo"
-    },
     "progressDescription": "Subjects' audio wogs heawd"
   },
   "2609997025": {
@@ -74,17 +59,12 @@
       "name": "Cowwupted Eggs"
     },
     "entry": {
-      "name": "Cowwupted Egg",
-      "prefix": "Egg"
+      "name": "Cowwupted Egg"
     },
     "progressDescription": "Eggs destwoyed"
   },
   "2726513366": {
-    "displayProperties": {
-      "name": "Cat Statues"
-    },
     "entry": {
-      "name": "Cat Statue",
       "prefix": "Fewine fwiend"
     },
     "progressDescription": "Fewine fwiends satisfied"
@@ -104,8 +84,7 @@
       "name": "Wost *sweats* Sectows"
     },
     "entry": {
-      "name": "Wost Sectow",
-      "prefix": ""
+      "name": "Wost Sectow"
     },
     "progressDescription": "Discovewed"
   },
@@ -114,8 +93,7 @@
       "name": "Wucent Moths"
     },
     "entry": {
-      "name": "Wucent Moth",
-      "prefix": "Moth"
+      "name": "Wucent Moth"
     },
     "progressDescription": "Moths cowwected"
   },
@@ -124,8 +102,7 @@
       "name": "Wowe Book: Wuna's Wost"
     },
     "entry": {
-      "name": "Ghost Fwagment",
-      "prefix": ""
+      "name": "Ghost Fwagment"
     },
     "progressDescription": "Ghost fwagments wecovewed"
   },
@@ -134,8 +111,7 @@
       "name": "Wowe Book: Inquisition of da Damned"
     },
     "entry": {
-      "name": "Necwotic Cyphew",
-      "prefix": ""
+      "name": "Necwotic Cyphew"
     },
     "progressDescription": "Necwotic cyphews cowwected"
   },
