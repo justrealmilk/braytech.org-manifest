@@ -252,7 +252,7 @@
   "activity-flawless": {
     "displayProperties": {
       "name": "Deathless",
-      "description": "This activity was started from its beginning and finished flawlessly, with no deaths.\n\nTo be eligible, **raids** must be completed after the launch of Witch Queen, **strikes** are specific to each player, and **lost sectors** must be started and finished by a single player."
+      "description": "This activity was started from its beginning and finished flawlessly, with no deaths.\n\nTo be eligible, **raids** must be completed after the launch of Witch Queen, **dungeons** and **lost sectors** must be started and finished by a single player, and **strikes** are specific to each player."
     }
   },
   "activity-weapon-popular": {
