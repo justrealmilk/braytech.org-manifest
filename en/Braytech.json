@@ -401,25 +401,25 @@
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carnage",
-      "description": "All of the selected Guardian's recent activities"
+      "description": "All of the selected Guardian's recent activities."
     }
   },
   "sub-activity-bookmarks": {
     "displayProperties": {
       "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
+      "description": "A record of your victories, satisfaction, and dismay.\n\nHere lies all activities which you've added to your bookmarks. Stand tall, Guardian, and bask in your glory."
     }
   },
   "sub-activity-graphs": {
     "displayProperties": {
       "name": "Graphs",
-      "description": "Activities plotted against graphs, for the statistically inclined"
+      "description": "Activities plotted against graphs, for the statistically inclined."
     }
   },
   "sub-activity-series": {
     "displayProperties": {
       "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
     }
   },
   "sub-weeklies-this-week": {
