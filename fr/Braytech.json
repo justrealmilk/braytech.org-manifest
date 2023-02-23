@@ -41,17 +41,9 @@
     },
     "itemTypeDisplayName": "Plate-forme"
   },
-  "flair-warmind": {
-    "displayProperties": {
-      "name": "Surveillant général",
-      "description": "Tom Chapman, créateur et ingénieur de Braytech."
-    },
-    "itemTypeDisplayName": "Intelligence artificielle"
-  },
   "flair-developer": {
     "displayProperties": {
-      "name": "Tom Chapman",
-      "description": ""
+      "name": "Tom Chapman"
     },
     "itemTypeDisplayName": "Développeur de Braytech"
   },
