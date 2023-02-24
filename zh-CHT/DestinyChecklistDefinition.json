@@ -108,13 +108,13 @@
   },
   "3089927156": {
     "displayProperties": {
-      "name": "🦘 Darkness Rifts"
+      "name": "黯黑力量印痕"
     },
     "entry": {
-      "prefix": "🦘 Rift",
-      "name": "🦘 Darkness Rift"
+      "prefix": "印痕",
+      "name": "黯黑力量印痕"
     },
-    "progressDescription": "🦘 Rifts sealed"
+    "progressDescription": "已关闭的印痕"
   },
   "3142056444": {
     "displayProperties": {
@@ -128,13 +128,13 @@
   },
   "3373333905": {
     "displayProperties": {
-      "name": "🦘 Lucent Moths"
+      "name": "明晰飛蛾"
     },
     "entry": {
-      "prefix": "🦘 Moth",
-      "name": "🦘 Lucent Moth"
+      "prefix": "飛蛾",
+      "name": "明晰飛蛾"
     },
-    "progressDescription": "🦘 Moths collected"
+    "progressDescription": "已收集飛蛾"
   },
   "4108857026": {
     "entry": {
