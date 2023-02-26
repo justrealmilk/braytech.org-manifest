@@ -1,4 +1,34 @@
 { 
+  "2086100423": {
+    "displayProperties": {
+      "name": "Impeccabile (Stagione 10)"
+    }
+  },
+  "1376640684": {
+    "displayProperties": {
+      "name": "Conquistatore (Stagione 10)"
+    }
+  },
+  "3251218484": {
+    "displayProperties": {
+      "name": "Impeccabile (Stagione 11)"
+    }
+  },
+  "3212358005": {
+    "displayProperties": {
+      "name": "Conquistatore (Stagione 11)"
+    }
+  },
+  "1276693937": {
+    "displayProperties": {
+      "name": "Impeccabile (Stagione 12)"
+    }
+  },
+  "581214566": {
+    "displayProperties": {
+      "name": "Conquistatore (Stagione 12)"
+    }
+  },
   "1000000001": {
     "displayProperties": {
       "name": "Trionfi transitori",
@@ -31,7 +61,7 @@
     "displayProperties": {
       "name": "Azzardo"
     },
-    "substring": "azzardo"
+    "substring": "azzardo|invadendo|particelle"
   },
   "1000000006": {
     "displayProperties": {
