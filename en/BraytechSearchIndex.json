@@ -244,6 +244,14 @@
     },
     "to": "/settings"
   },
+  "legend": {
+    "hash": "legend",
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Life and death are liar's tools. Weave your own lie. Display this summary proudly before your friends and foes."
+    },
+    "to": "/legend"
+  },
   "compare": {
     "hash": "compare",
     "displayProperties": {
