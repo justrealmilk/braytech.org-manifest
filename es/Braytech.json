@@ -123,6 +123,12 @@
       "description": "Una representación del número de jugadores que han adquirido o canjeado este triunfo."
     }
   },
+  "expiration": {
+    "displayProperties": {
+      "name": "Caducidad",
+      "description": "Este triunfo lleva información de caducidad adjunta."
+    }
+  },
   "score": {
     "displayProperties": {
       "name": "Valor en puntos",
@@ -183,6 +189,12 @@
       "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en antiguos."
     }
   },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "Sin muertes",
+      "description": "Esta actividad se ha iniciado desde el principio y terminada de forma impecable, sin muertes.\n\nPara ser consideradas, las **incursiones** deben haber sido completadas después del lanzamiento de La Reina Bruja, las **mazmorras** y los **sectores perdidos** deben ser empezados y terminados por un solo jugador, y los **asaltos** son específicos de cada jugador."
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Golpes finales",
@@ -222,19 +234,25 @@
   "profile-stale": {
     "displayProperties": {
       "name": "Perfil obsoleto",
-      "description": "Braytech no ha podido comunicarse con Bungie.net.\n\nEl uso continuado de Braytech resolverá este problema, si el servicio de Bungie.net lo permite."
+      "description": "Ha fallado el intento de actualizar los datos de tu perfil con Bungie.net. Braytech no ha podido comunicarse con Bungie.net.\n\nEl uso continuado de Braytech podría resolver este problema, si la disponiblidad del servicio de Bungie.net lo permite."
     }
   },
   "profile-stale-inactive": {
     "displayProperties": {
       "name": "Perfil obsoleto",
-      "description": "La actualización en segundo plano se ha detenido por inactividad."
+      "description": "La actualización en segundo plano se ha detenido por inactividad. Interactúa con Braytech para reactivar el servicio."
     }
   },
   "profile-stale-minted": {
     "displayProperties": {
       "name": "Perfil obsoleto",
-      "description": "Bungie.net ha devuelto información antigua.\n\nEl uso continuado de Braytech resolverá este problema, si el servicio de Bungie.net lo permite."
+      "description": "Bungie.net ha devuelto información antigua.\n\nEl uso continuado de Braytech resolverá este problema, si la disponibilidad del servicio de Bungie.net lo permite."
+    }
+  },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "Perfil obsoleto",
+      "description": "Bungie.net no está disponible temporalmente debido a tareas de mantenimiento.\n\nEl uso continuado de Braytech podría resolver este problema, si la disponibilidad del servicio de Bungie.net lo permite."
     }
   },
   "activity-contest-mode": {
@@ -389,7 +407,7 @@
   "sub-activity-bookmarks": {
     "displayProperties": {
       "name": "Favoritos",
-      "description": "Actividades que has marcado como favoritas."
+      "description": "Un registro de tus victorias, satisfacciones y disgustos.\n\nAquí están todas las actividades que has añadido a tus favoritos. Mantente erguido, Guardián, y disfruta de tu gloria."
     }
   },
   "sub-activity-graphs": {
