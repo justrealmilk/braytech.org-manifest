@@ -2,7 +2,7 @@ import Braytech from '@Data/manifest/es-MX/Braytech.json';
 import BraytechActivityDifficulty from '@Data/manifest/es-MX/BraytechActivityDifficulty.json';
 import BraytechMaps from '@Data/manifest/es-MX/BraytechMaps.json';
 import BraytechMapsTypes from '@Data/manifest/es-MX/BraytechMapsTypes.json';
-import BraytechSearchIndex from '@Data/manifest/en-MX/BraytechSearchIndex.json';
+import BraytechSearchIndex from '@Data/manifest/es-MX/BraytechSearchIndex.json';
 import DestinyActivityDefinition from '@Data/manifest/es-MX/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/es-MX/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/es-MX/DestinyActivityModifierDefinition.json';
