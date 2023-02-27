@@ -141,6 +141,12 @@
       "description": "Il punteggio rimanente di questo trionfo (somma delle fasi rimanenti)."
     }
   },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Valore punteggio",
+      "description": "Il valore calcolato in punti di questo nodo."
+    }
+  },
   "record-intervals": {
     "displayProperties": {
       "name": "Fasi trionfo",
