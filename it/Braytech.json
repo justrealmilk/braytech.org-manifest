@@ -252,7 +252,7 @@
   "activity-flawless": {
     "displayProperties": {
       "name": "Senza morti",
-      "description": "Questa attività è stata avviata dall'inizio e terminata in modo impeccabile, senza morti.\n\nPer essere idonee, le **incursioni** devono essere completate dopo il lancio de La Regina dei Sussurri, gli **assalti** sono specifici per ogni giocatore e i **settori perduti** devono essere avviati e terminati da un singolo giocatore."
+      "description": "Questa attività è stata avviata dall'inizio e terminata in modo impeccabile, senza morti.\n\nPer essere idonee, le **incursioni** devono essere completate dopo il lancio de La Regina dei Sussurri, i **settori perduti** e le **segrete** devono essere avviati e terminati da un singolo giocatore e gli **assalti** sono specifici per ogni giocatore."
     }
   },
   "activity-weapon-popular": {
@@ -401,25 +401,25 @@
   "sub-activity-carnage": {
     "displayProperties": {
       "name": "Carneficina",
-      "description": "Tutte le attività recenti del Guardiano selezionato"
+      "description": "Tutte le attività recenti del Guardiano selezionato."
     }
   },
   "sub-activity-bookmarks": {
     "displayProperties": {
       "name": "Preferiti",
-      "description": "Attività che hai aggiunto ai preferiti"
+      "description": "Un registro delle tue vittorie, soddisfazioni e sgomenti.\n\nQui si trovano tutte le attività che hai aggiunto ai tuoi segnalibri. Ergiti, Guardiano, e crogiolati nella tua gloria."
     }
   },
   "sub-activity-graphs": {
     "displayProperties": {
       "name": "Grafici",
-      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche"
+      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche."
     }
   },
   "sub-activity-series": {
     "displayProperties": {
       "name": "Incursioni",
-      "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
+      "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari."
     }
   },
   "sub-weeklies-this-week": {
