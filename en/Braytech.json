@@ -131,14 +131,20 @@
   },
   "score": {
     "displayProperties": {
-      "name": "Score value",
+      "name": "Score Value",
       "description": "This record's score value."
     }
   },
   "interval-score": {
     "displayProperties": {
-      "name": "Score value",
+      "name": "Score Value",
       "description": "This record's remaining score value (sum of remaining intervals)."
+    }
+  },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Score Value",
+      "description": "This node's calculated score value."
     }
   },
   "record-intervals": {
