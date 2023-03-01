@@ -55,6 +55,9 @@
   "220342896": {
     "collectibleHash": 3738310360
   },
+  "245212391": {
+    "presentationNodeHash": 1420354007
+  },
   "250211794": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/f58dd4876df554c24b3d0d665cadea84.jpg",
@@ -96,12 +99,17 @@
   "311360599": {
     "collectibleHash": 2040522335
   },
+  "316784974": {
+    "presentationNodeHash": 2881240068
+  },
   "317521250": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0282-09F8.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 450166688
+  },
+  "347706638": {
+    "presentationNodeHash": 701100740
+  },
+  "368112774": {
+    "presentationNodeHash": 1074030956
   },
   "373671280": {
     "displayProperties": {
@@ -121,6 +129,9 @@
   },
   "417302779": {
     "collectibleHash": 217750584
+  },
+  "421362243": {
+    "presentationNodeHash": 3459575786
   },
   "422252754": {
     "collectibleHash": 532221690
@@ -157,10 +168,6 @@
     "collectibleHash": 2300465938
   },
   "540377256": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-107A.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2960810718
   },
   "571025162": {
@@ -176,6 +183,9 @@
       "hasIcon": true
     },
     "collectibleHash": 2500286745
+  },
+  "618920486": {
+    "presentationNodeHash": 2759158924
   },
   "622035212": {
     "collectibleHash": 4265244308
@@ -219,10 +229,6 @@
     "collectibleHash": 3539163966
   },
   "758645239": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0F61.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1106177979
   },
   "773758208": {
@@ -255,8 +261,17 @@
     },
     "collectibleHash": 1660030046
   },
+  "865247070": {
+    "presentationNodeHash": 1235050036
+  },
   "876397380": {
     "collectibleHash": 1496296460
+  },
+  "877604853": {
+    "presentationNodeHash": 4257248973
+  },
+  "898828161": {
+    "presentationNodeHash": 2503214417
   },
   "924334687": {
     "collectibleHash": 1901414106
@@ -271,17 +286,9 @@
     "collectibleHash": 2845466341
   },
   "966207508": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027B-018F.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1194128730
   },
   "969142496": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/13cba2fba8a3e3bbc05d3e7605069cd4.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 475207334
   },
   "989023188": {
@@ -305,17 +312,9 @@
     "collectibleHash": 564802913
   },
   "1087927672": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/02ef-00001064.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008462
   },
   "1089543274": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/12dcab8ca6809f3a875f24b4dc5a0437.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2592822840
   },
   "1107018752": {
@@ -333,11 +332,10 @@
     "collectibleHash": 653763964
   },
   "1109459264": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027D-0573.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1210906310
+  },
+  "1115719215": {
+    "presentationNodeHash": 564984975
   },
   "1163649614": {
     "displayProperties": {
@@ -360,11 +358,10 @@
     "collectibleHash": 1642951316
   },
   "1185680627": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-0B4E.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 955166375
+  },
+  "1202782985": {
+    "presentationNodeHash": 3642989833
   },
   "1226048594": {
     "displayProperties": {
@@ -374,10 +371,6 @@
     "collectibleHash": 396432035
   },
   "1228693527": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0687_04.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2594486939
   },
   "1233471745": {
@@ -387,21 +380,16 @@
     },
     "collectibleHash": 24541428
   },
+  "1236276112": {
+    "presentationNodeHash": 3016040694
+  },
   "1254331510": {
     "collectibleHash": 803517854
   },
   "1284946259": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0687_02.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1210906311
   },
   "1343839969": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0F15.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2107507397
   },
   "1345348453": {
@@ -415,10 +403,6 @@
     "collectibleHash": 3337984262
   },
   "1384029371": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0F33.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1486062207
   },
   "1385469960": {
@@ -442,10 +426,6 @@
     "collectibleHash": 1642951318
   },
   "1438167672": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-106B_01.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 361765966
   },
   "1439993428": {
@@ -460,6 +440,9 @@
   },
   "1446423643": {
     "collectibleHash": 4203391139
+  },
+  "1464034190": {
+    "presentationNodeHash": 2268797508
   },
   "1506999309": {
     "collectibleHash": 2946320117
@@ -488,24 +471,12 @@
     "collectibleHash": 199171386
   },
   "1556658903": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0F06.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3665267419
   },
   "1561715947": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-1089.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008463
   },
   "1564001702": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B9D.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2161171268
   },
   "1586771061": {
@@ -532,11 +503,16 @@
     "collectibleHash": 3232935853
   },
   "1710217127": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B8E.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008459
+  },
+  "1719022679": {
+    "presentationNodeHash": 3509969063
+  },
+  "1722592950": {
+    "presentationNodeHash": 1270675700
+  },
+  "1770289470": {
+    "presentationNodeHash": 3333531796
   },
   "1778902326": {
     "collectibleHash": 319990542
@@ -556,10 +532,6 @@
     "collectibleHash": 4027219968
   },
   "1866578144": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027B-1DA3.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 955166374
   },
   "1940645774": {
@@ -576,27 +548,18 @@
     "collectibleHash": 527295602
   },
   "1971228746": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B56.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2886738008
   },
   "2056461735": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027B-01A8.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 717225803
+  },
+  "2064233732": {
+    "presentationNodeHash": 1809003442
   },
   "2069837521": {
     "collectibleHash": 2833512393
   },
   "2072890963": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2086100423
   },
   "2107474614": {
@@ -606,20 +569,12 @@
     "collectibleHash": 252116654
   },
   "2126152885": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/f550b42f56b88eb6cd392d7b11cc74c9.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3896035657
   },
   "2126241222": {
     "collectibleHash": 3281588926
   },
   "2126548397": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1276693937
   },
   "2135780490": {
@@ -635,11 +590,10 @@
   "2177815995": {
     "collectibleHash": 2285399843
   },
+  "2215592685": {
+    "presentationNodeHash": 2904806741
+  },
   "2226626398": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1376640684
   },
   "2254190310": {
@@ -653,20 +607,12 @@
     "collectibleHash": 2237685612
   },
   "2284880502": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3251218484
   },
   "2292557505": {
     "collectibleHash": 3460699273
   },
   "2302993504": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/d652fcd309f97d810bb95df123120159.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 4183969062
   },
   "2324218515": {
@@ -681,6 +627,9 @@
   },
   "2330294643": {
     "collectibleHash": 2091352795
+  },
+  "2365608381": {
+    "presentationNodeHash": 3241617029
   },
   "2383994221": {
     "displayProperties": {
@@ -697,31 +646,18 @@
     "collectibleHash": 199171390
   },
   "2472740040": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0282-19DA.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2978379966
   },
   "2482004751": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-106B.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 79180995
   },
+  "2483052213": {
+    "presentationNodeHash": 3267852685
+  },
   "2489106733": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B9C.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3061040177
   },
   "2499679097": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-1971.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008461
   },
   "2511032639": {
@@ -751,10 +687,6 @@
     "collectibleHash": 3249389111
   },
   "2584970263": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027B-1D3B.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 379405979
   },
   "2618920720": {
@@ -781,6 +713,9 @@
     },
     "collectibleHash": 2107308931
   },
+  "2735464977": {
+    "presentationNodeHash": 1419883649
+  },
   "2742412203": {
     "collectibleHash": 217750584
   },
@@ -798,12 +733,14 @@
     },
     "collectibleHash": 564802924
   },
+  "2794533131": {
+    "presentationNodeHash": 223465203
+  },
   "2796658869": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0687_00.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008457
+  },
+  "2811515800": {
+    "presentationNodeHash": 1154828558
   },
   "2839479882": {
     "collectibleHash": 3519199874
@@ -819,10 +756,6 @@
     "collectibleHash": 4133398550
   },
   "2909250963": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027B-1DC8.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1827854727
   },
   "2940589008": {
@@ -832,18 +765,13 @@
     },
     "collectibleHash": 1657028068
   },
+  "2961809412": {
+    "presentationNodeHash": 2388540594
+  },
   "2980266417": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3212358005
   },
   "2991743002": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-106B_02.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008456
   },
   "3022631571": {
@@ -854,10 +782,6 @@
     "collectibleHash": 77226437
   },
   "3056675381": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0687_03.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3598951881
   },
   "3068761227": {
@@ -877,17 +801,9 @@
     "collectibleHash": 1880041323
   },
   "3097916612": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B9F.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 854126634
   },
   "3169895614": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027D-0584.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008460
   },
   "3171877617": {
@@ -896,22 +812,20 @@
   "3172595571": {
     "collectibleHash": 3115127081
   },
+  "3173572770": {
+    "presentationNodeHash": 3487512928
+  },
   "3214425110": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0F24.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 560097044
   },
   "3249408038": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/5fc6477c6e7f302b27819a276c13d72a.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1210906308
   },
   "3255215894": {
     "collectibleHash": 286393886
+  },
+  "3257285148": {
+    "presentationNodeHash": 2078340986
   },
   "3257403871": {
     "collectibleHash": 332827543
@@ -920,10 +834,6 @@
     "collectibleHash": 328283190
   },
   "3298130972": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027C-1962.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1733555826
   },
   "3318895306": {
@@ -932,6 +842,9 @@
       "hasIcon": true
     },
     "collectibleHash": 1977134032
+  },
+  "3342944780": {
+    "presentationNodeHash": 1086048586
   },
   "3343946430": {
     "collectibleHash": 510409574
@@ -956,14 +869,13 @@
     },
     "collectibleHash": 199171391
   },
+  "3392092673": {
+    "presentationNodeHash": 1331476689
+  },
   "3393054854": {
     "collectibleHash": 1721326558
   },
   "3464275895": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3776992251
   },
   "3468043157": {
@@ -1005,10 +917,6 @@
     "collectibleHash": 2980339032
   },
   "3588818798": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0687_01.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2185719388
   },
   "3589295049": {
@@ -1069,10 +977,6 @@
     "collectibleHash": 1657028066
   },
   "3766199186": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0281-0EF7.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3680676656
   },
   "3770251030": {
@@ -1120,21 +1024,16 @@
   "3868889639": {
     "collectibleHash": 2500976255
   },
+  "3906538939": {
+    "presentationNodeHash": 4186496383
+  },
   "3907981638": {
     "collectibleHash": 1458222686
   },
   "3910736783": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0275-1D08.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 2613142083
   },
   "3947410852": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B9E.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008458
   },
   "3968841949": {
@@ -1158,10 +1057,6 @@
     "collectibleHash": 564802925
   },
   "4141971983": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0311_0678_00.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 3734352323
   },
   "4147054663": {
@@ -1172,20 +1067,12 @@
     "collectibleHash": 1657028069
   },
   "4167244320": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/027A-05E6.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 581214566
   },
   "4170453731": {
     "collectibleHash": 1095326468
   },
   "4176879201": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/0173-0B9F_7.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008453
   },
   "4178028503": {
@@ -1195,14 +1082,13 @@
     },
     "collectibleHash": 1657028078
   },
+  "4202360152": {
+    "presentationNodeHash": 2399267278
+  },
   "4205772441": {
     "collectibleHash": 4106136257
   },
   "4250626982": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/badges/9f7d55915116c304dc43c4b3445bcd5e.png",
-      "hasIcon": true
-    },
     "presentationNodeHash": 1321008452
   }
 }
