@@ -375,7 +375,7 @@
       "name": "Active Event Cawd"
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "description": "Pattewns enabwe da shaping of weapons. Catawysts expand da powew of uuw Exotic weapons. Find them and finish theiw objectives to unwock uuw awsenaw's fuww potentiaw",
       "name": "Pattewns \u0026 Catawysts"
@@ -387,19 +387,19 @@
       "name": "Wegacy Twiumphs and Seaws"
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "description": "Wowe tewws bwoadew stowies fwom da Destiny univewse. Unwock and wead wowe pages by compweting Twiumphs",
       "name": "Wowe"
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "description": "Medaws awe eawned thwough feats of gamepway expewtise. See da wist of medaws and how many of each uu've eawned",
       "name": "Medaws"
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "description": "Stat twackews can be appwied to uuw embwem fwom its inspect view. Appwied twackews wiww appeaw on uuw namepwate whenevew visibwe",
       "name": "Stat Twackews"

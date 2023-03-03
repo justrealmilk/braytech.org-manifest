@@ -308,25 +308,25 @@
       "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "name": "Medaglie",
       "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "name": "Catalizzatori esotici",
       "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale"
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "name": "Leggende",
       "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "name": "Contatori statistiche",
       "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"

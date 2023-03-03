@@ -283,25 +283,25 @@
       "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "name": "Médailles",
       "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées"
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "name": "Patrons & Catalyseurs",
       "description": "Les patrons permettent de façonner les armes. Les catalyseurs augmentent la puissance de vos armes exotiques. Trouvez-les et terminez leurs objectifs pour libérer tout le potentiel de votre arsenal"
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "name": "Légendes",
       "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes"
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "name": "Traqueurs de statistiques",
       "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles"

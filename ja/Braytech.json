@@ -302,25 +302,25 @@
       "description": "期間限定の課題をクリアして、シーズンランクやブライトダストなどの報酬を手に入れましょう"
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "name": "メダル",
       "description": "メダルは、ゲーム内での特定条件をクリアすると獲得できます。メダルの一覧と獲得枚数を見てみましょう。"
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "name": "パターンと媒体",
       "description": "パターンとは武器の成形を可能にするアイテムです。触媒はエキゾチック武器のパワーを拡張するアイテムです。触媒を見つけ、その目的を達成することで、潜在能力を最大限に引き出すことができます。"
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "name": "伝承",
       "description": "Destinyの世界にて、ゲーム中には語られてないストーリーが描かれています。勝利の道のりを達成するごとに、伝承のページがアンロックされ、読むことができます。"
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "name": "ステータストラッカー",
       "description": "ステータストラッカーは、エンブレムのインスペクトビューから適用することができます。適用されたトラッカーは、いつでもネームプレートに表示されます。"

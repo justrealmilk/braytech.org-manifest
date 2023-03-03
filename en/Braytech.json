@@ -284,6 +284,36 @@
       "description": "_This map charts the steps on the path to the top._"
     }
   },
+  "sub-collections-root": {
+    "displayProperties": {
+      "name": "Collections",
+      "description": "Items your Guardian has acquired over their lifetime"
+    }
+  },
+  "sub-collections-medals": {
+    "displayProperties": {
+      "name": "Medals",
+      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
+    }
+  },
+  "sub-collections-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Patterns & Catalysts",
+      "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
+    }
+  },
+  "sub-collections-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
+    }
+  },
+  "sub-collections-metrics": {
+    "displayProperties": {
+      "name": "Stat Trackers",
+      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
+    }
+  },
   "sub-triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
@@ -306,30 +336,6 @@
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
-  "sub-triumphs-medals": {
-    "displayProperties": {
-      "name": "Medals",
-      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
-    }
-  },
-  "sub-triumphs-exotic-catalysts": {
-    "displayProperties": {
-      "name": "Patterns & Catalysts",
-      "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
-    }
-  },
-  "sub-triumphs-lore": {
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
-    }
-  },
-  "sub-triumphs-metrics": {
-    "displayProperties": {
-      "name": "Stat Trackers",
-      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
   "sub-triumphs-event-card": {

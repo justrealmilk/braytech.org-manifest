@@ -209,25 +209,25 @@
       "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "name": "Medaillen",
       "description": "Medaillen werden durch das Zeigen von Spielexpertise gesammelt. Sieh dir die Liste von Medaillen an, und wie viele von ihnen du verdient hast"
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "name": "Baupläne und Katalysatoren",
       "description": "Baupläne erlauben das Formen von Waffen. Katalysatoren erweitern die Stärke deiner Exotischen Waffen. Finde sie und erfülle ihre Voraussetzungen, um das Potenzial deines Arsenals voll auszunutzen."
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "name": "Lore",
       "description": "Lore erzählt die Geschichte des Destiny-Universums. Schalte Lore zum Lesen frei, indem du Triumphe erfüllst"
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "name": "Stat-Tracker",
       "description": "Stat-Tracker können in der Details-Ansicht deinem Abzeichen hinzugefügt werden. Hinzugefügte Tracker sind auf deiner Namensplakette sichtbar"

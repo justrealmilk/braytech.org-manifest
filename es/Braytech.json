@@ -302,25 +302,25 @@
       "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
     }
   },
-  "sub-triumphs-medals": {
+  "sub-collections-medals": {
     "displayProperties": {
       "name": "Medallas",
       "description": "Las medallas se obtienen mediante hazañas en el juego. Consulta la lista de medallas y cuántas has obtenido."
     }
   },
-  "sub-triumphs-exotic-catalysts": {
+  "sub-collections-exotic-catalysts": {
     "displayProperties": {
       "name": "Patrones y catalizadores",
       "description": "Los patrones permiten la formación de armas. Los catalizadores excepcionales amplían el poder de tus armas excepcionales. Ecuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
     }
   },
-  "sub-triumphs-lore": {
+  "sub-collections-lore": {
     "displayProperties": {
       "name": "Historia",
       "description": "La historia contiene más información sobre el universo de Destiny. Completa triunfos para desbloquear y leer las páginas de historia."
     }
   },
-  "sub-triumphs-metrics": {
+  "sub-collections-metrics": {
     "displayProperties": {
       "name": "Analizadores estadísticos",
       "description": "Los analizadores estadísticos se pueden aplicar a tu emblema en la pantalla de detalles. Los analizadores equipados aparecerán en tu placa de indentificación cuando sea visible."
