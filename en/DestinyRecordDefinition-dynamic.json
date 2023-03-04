@@ -108,6 +108,9 @@
   "347706638": {
     "presentationNodeHash": 701100740
   },
+  "351867733": {
+    "presentationNodeHash": 2388540594
+  },
   "368112774": {
     "presentationNodeHash": 1074030956
   },
@@ -126,6 +129,9 @@
   },
   "403175710": {
     "collectibleHash": 1100865290
+  },
+  "414594905": {
+    "presentationNodeHash": 564984975
   },
   "417302779": {
     "collectibleHash": 217750584
@@ -273,6 +279,9 @@
   "898828161": {
     "presentationNodeHash": 2503214417
   },
+  "905181048": {
+    "presentationNodeHash": 2268797508
+  },
   "924334687": {
     "collectibleHash": 1901414106
   },
@@ -294,6 +303,9 @@
   "989023188": {
     "collectibleHash": 2923059994
   },
+  "1006785931": {
+    "presentationNodeHash": 3016040694
+  },
   "1057921323": {
     "collectibleHash": 1241167395
   },
@@ -310,6 +322,9 @@
       "hasIcon": true
     },
     "collectibleHash": 564802913
+  },
+  "1087859470": {
+    "presentationNodeHash": 4257248973
   },
   "1087927672": {
     "presentationNodeHash": 1321008462
@@ -511,6 +526,9 @@
   "1722592950": {
     "presentationNodeHash": 1270675700
   },
+  "1729647218": {
+    "presentationNodeHash": 1809003442
+  },
   "1770289470": {
     "presentationNodeHash": 3333531796
   },
@@ -533,6 +551,12 @@
   },
   "1866578144": {
     "presentationNodeHash": 955166374
+  },
+  "1869129580": {
+    "presentationNodeHash": 2881240068
+  },
+  "1900478309": {
+    "presentationNodeHash": 2759158924
   },
   "1940645774": {
     "displayProperties": {
@@ -561,6 +585,9 @@
   },
   "2072890963": {
     "presentationNodeHash": 2086100423
+  },
+  "2105786548": {
+    "presentationNodeHash": 3487512928
   },
   "2107474614": {
     "collectibleHash": 3257565710
@@ -606,6 +633,9 @@
   "2258742229": {
     "collectibleHash": 2237685612
   },
+  "2259051223": {
+    "presentationNodeHash": 2904806741
+  },
   "2284880502": {
     "presentationNodeHash": 3251218484
   },
@@ -644,6 +674,12 @@
       "hasIcon": true
     },
     "collectibleHash": 199171390
+  },
+  "2400233569": {
+    "presentationNodeHash": 1074030956
+  },
+  "2416350118": {
+    "presentationNodeHash": 3642989833
   },
   "2472740040": {
     "presentationNodeHash": 2978379966
@@ -696,6 +732,9 @@
     },
     "collectibleHash": 3709294547
   },
+  "2625282296": {
+    "presentationNodeHash": 3267852685
+  },
   "2627701916": {
     "collectibleHash": 217750584
   },
@@ -713,6 +752,9 @@
     },
     "collectibleHash": 2107308931
   },
+  "2731537482": {
+    "presentationNodeHash": 2399267278
+  },
   "2735464977": {
     "presentationNodeHash": 1419883649
   },
@@ -726,12 +768,18 @@
     },
     "collectibleHash": 1250332035
   },
+  "2756328801": {
+    "presentationNodeHash": 1086048586
+  },
   "2761319400": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/597a6c330d36a31c5d79b9d99c7a00a4.jpg",
       "hasIcon": true
     },
     "collectibleHash": 564802924
+  },
+  "2782679117": {
+    "presentationNodeHash": 1154828558
   },
   "2794533131": {
     "presentationNodeHash": 223465203
@@ -765,6 +813,9 @@
     },
     "collectibleHash": 1657028068
   },
+  "2949079885": {
+    "presentationNodeHash": 2078340986
+  },
   "2961809412": {
     "presentationNodeHash": 2388540594
   },
@@ -781,8 +832,14 @@
     },
     "collectibleHash": 77226437
   },
+  "3047702042": {
+    "presentationNodeHash": 3509969063
+  },
   "3056675381": {
     "presentationNodeHash": 3598951881
+  },
+  "3060996147": {
+    "presentationNodeHash": 1331476689
   },
   "3068761227": {
     "displayProperties": {
@@ -843,6 +900,9 @@
     },
     "collectibleHash": 1977134032
   },
+  "3334547211": {
+    "presentationNodeHash": 564984975
+  },
   "3342944780": {
     "presentationNodeHash": 1086048586
   },
@@ -884,6 +944,9 @@
       "hasIcon": true
     },
     "collectibleHash": 199171387
+  },
+  "3504856768": {
+    "presentationNodeHash": 1235050036
   },
   "3518287681": {
     "displayProperties": {
@@ -1021,6 +1084,9 @@
   "3863516258": {
     "collectibleHash": 1554180090
   },
+  "3866024089": {
+    "presentationNodeHash": 223465203
+  },
   "3868889639": {
     "collectibleHash": 2500976255
   },
@@ -1045,6 +1111,9 @@
   },
   "4013775975": {
     "collectibleHash": 3545735621
+  },
+  "4065625952": {
+    "presentationNodeHash": 2503214417
   },
   "4070327399": {
     "collectibleHash": 566277055
@@ -1090,5 +1159,8 @@
   },
   "4250626982": {
     "presentationNodeHash": 1321008452
+  },
+  "4268824781": {
+    "presentationNodeHash": 3509969063
   }
 }
