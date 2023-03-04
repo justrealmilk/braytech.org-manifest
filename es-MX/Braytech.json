@@ -141,6 +141,12 @@
       "description": "El valor de los puntos restantes de este triunfo (suma de los pasos restantes)."
     }
   },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Valor en puntos",
+      "description": "Valor en puntos calculado de este nodo."
+    }
+  },
   "record-intervals": {
     "displayProperties": {
       "name": "Pasos del triunfo",
@@ -300,6 +306,12 @@
     "displayProperties": {
       "name": "Triunfos transitorios",
       "description": "No todos los triunfos son para siempre: completa estos triunfos con premura o se perderán en el tiempo para siempre."
+    }
+  },
+  "sub-collections-root": {
+    "displayProperties": {
+      "name": "Colecciones",
+      "description": "Objetos que tu Guardián adquirió a lo largo de su vida."
     }
   },
   "sub-collections-medals": {
