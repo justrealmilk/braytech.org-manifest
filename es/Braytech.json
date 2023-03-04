@@ -141,6 +141,12 @@
       "description": "El valor de los puntos restantes de este triunfo (suma de los pasos restantes)."
     }
   },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Valor en puntos",
+      "description": "Valor en puntos calculado de este nodo."
+    }
+  },
   "record-intervals": {
     "displayProperties": {
       "name": "Pasos del triunfo",
@@ -300,6 +306,12 @@
     "displayProperties": {
       "name": "Desafíos de temporada",
       "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
+    }
+  },
+  "sub-collections-root": {
+    "displayProperties": {
+      "name": "Colecciones",
+      "description": "Objetos que tu Guardián ha adquirido a lo largo de su vida."
     }
   },
   "sub-collections-medals": {
