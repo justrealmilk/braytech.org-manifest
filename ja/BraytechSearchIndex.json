@@ -1,31 +1,25 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "クラン",
       "description": "クランのステータス、クランメンバーの名簿、メンバーのアクティビティ一覧、および管理モード"
-    },
-    "to": "/clan"
+    }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "コレクション",
       "description": "ガーディアンが生涯かけて取得したアイテム"
     },
-    "to": "/collections",
     "keywords": [
       "エキゾチック",
       "バッジ"
     ]
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "勝利の道のり",
       "description": "ガーディアンの勝利の道のりの記録"
     },
-    "to": "/triumphs",
     "keywords": [
       "媒体",
       "もうすぐ完成",
@@ -35,23 +29,19 @@
     ]
   },
   "triumphs-seasonal-challenges": {
-    "hash": "triumphs-seasonal-challenges",
     "displayProperties": {
       "name": "シーズンの挑戦",
       "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬が手に入れましょう"
     },
-    "to": "/triumphs/seasonal-challenges",
     "keywords": [
       "シーズンの挑戦"
     ]
   },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "マップ",
       "description": "収集物のチェックや注目したい目的地が確認できるインタラクティブな地図"
     },
-    "to": "/maps",
     "keywords": [
       "卵",
       "アハンカーラの骨",
@@ -60,12 +50,10 @@
     ]
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "ウィークリー",
       "description": "ガーディアンたちへの、強化と勝利のためのヒントとなるウィークリーの必須ガイド"
     },
-    "to": "/weeklies",
     "keywords": [
       "ナイトフォール",
       "失われたセクター",
@@ -73,12 +61,10 @@
     ]
   },
   "weeklies-challenges": {
-    "hash": "weeklies-challenges",
     "displayProperties": {
       "name": "チャレンジ",
       "description": "すべてのアクティビティの挑戦"
     },
-    "to": "/weeklies/challenges",
     "keywords": [
       "ウィークリー",
       "挑戦",
@@ -87,12 +73,10 @@
     ]
   },
   "weeklies-rotations": {
-    "hash": "weeklies-rotations",
     "displayProperties": {
       "name": "ローテーション",
       "description": "さまざまなアクティビティの予定をスキャンする"
     },
-    "to": "/weeklies/rotations",
     "keywords": [
       "ナイトフォール",
       "失われたセクター",
@@ -104,12 +88,10 @@
     ]
   },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "キャラクター",
       "description": "ガーディアンの装備や所持品を見直しましょう"
     },
-    "to": "/character",
     "keywords": [
       "所持品",
       "アイテム",
@@ -118,34 +100,28 @@
     ]
   },
   "character-postmaster": {
-    "hash": "character-postmaster",
     "displayProperties": {
       "name": "ポストマスター",
       "description": "ポストマスターは、配達物やメッセージ、落し物などを丁寧に管理します。"
     },
-    "to": "/character/bucket/postmaster",
     "keywords": [
       "ポストマスター"
     ]
   },
   "character-vault": {
-    "hash": "character-vault",
     "displayProperties": {
       "name": "保管庫",
       "description": "所持品やアイテムの殆どを安全に収納できます。すべてのキャラクターから共通してアクセスできます。"
     },
-    "to": "/character/vault",
     "keywords": [
       "保管庫"
     ]
   },
   "character-vendors": {
-    "hash": "character-vendors",
     "displayProperties": {
       "name": "ベンダー",
       "description": "お気に入りのバウンティ依頼者や取引先を偵察します"
     },
-    "to": "/character/vendors",
     "keywords": [
       "ベンダー",
       "ブライトダストカレンダー",
@@ -153,31 +129,25 @@
     ]
   },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "クエスト",
       "description": "クエストやバウンティの追跡"
-    },
-    "to": "/quests/all"
+    }
   },
   "quests-bounties": {
-    "hash": "quests-bounties",
     "displayProperties": {
       "name": "バウンティ",
       "description": "ガーディアンが引き受けたバウンティすべて"
     },
-    "to": "/quests",
     "keywords": [
       "bounty"
     ]
   },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "アクティビティ",
       "description": "戦いの詳細レポートとフィルタリング"
     },
-    "to": "/activity",
     "keywords": [
       "レポート",
       "pgcr",
@@ -194,12 +164,10 @@
     ]
   },
   "activity-bookmarks": {
-    "hash": "activity-bookmarks",
     "displayProperties": {
       "name": "ブックマーク",
       "description": "ブックマークしたアクティビティ"
     },
-    "to": "/activity/bookmarks",
     "keywords": [
       "レポート",
       "pgcr",
@@ -214,12 +182,10 @@
     ]
   },
   "activity-series": {
-    "hash": "activity-series",
     "displayProperties": {
       "name": "シリーズ",
       "description": "最も危険な状況下での勝利、最強の敵との戦いに挑んだファイアチームの初勝利報告"
     },
-    "to": "/activity/series",
     "keywords": [
       "レポート",
       "pgcr",
@@ -237,44 +203,32 @@
     ]
   },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "設定",
       "description": "アカウント、テーマ、ローカルデータ、アイテムの可視・不可視、言語設定、開発者モード、トラブルシューティング"
-    },
-    "to": "/settings"
+    }
   },
   "legend": {
-    "hash": "legend",
     "displayProperties": {
-      "name": "Legend",
       "description": "生と死は嘘つきの道具でしかない。お前自身も嘘を紡ぐ。この軌跡を、自身の友やライバルに堂々と見せつけると良い。"
-    },
-    "to": "/legend"
+    }
   },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "勝利の比較",
       "description": "仲間のガーディアンへ、その自慢の証拠を突き付けろ"
-    },
-    "to": "/compare"
+    }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "アーカイブ",
       "description": "インタラクティブなツール、マニュアル、記録、その他のコンテンツ"
-    },
-    "to": "/archives"
+    }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
-      "name": "FAQ",
       "description": "Tom（Braytech開発者）お気に入りのよくある質問"
     },
-    "to": "/addendums/faq",
     "keywords": [
       "FAQ",
       "ヘルプ",
@@ -282,11 +236,9 @@
     ]
   },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "クレジット",
       "description": "不可能を実現させてきたガーディアンたちについて"
-    },
-    "to": "/addendums"
+    }
   }
 }
