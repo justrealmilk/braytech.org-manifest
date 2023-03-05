@@ -29,6 +29,36 @@
       "iconLocal": "/static/images/extracts/ui/overrides/power.png"
     }
   },
+  "2086100423": {
+    "displayProperties": {
+      "name": "天下無双 (シーズン10)"
+    }
+  },
+  "1376640684": {
+    "displayProperties": {
+      "name": "征服者 (シーズン10)"
+    }
+  },
+  "3251218484": {
+    "displayProperties": {
+      "name": "天下無双 (シーズン11)"
+    }
+  },
+  "3212358005": {
+    "displayProperties": {
+      "name": "征服者 (シーズン11)"
+    }
+  },
+  "1276693937": {
+    "displayProperties": {
+      "name": "天下無双 (シーズン12)"
+    }
+  },
+  "581214566": {
+    "displayProperties": {
+      "name": "征服者 (シーズン12)"
+    }
+  },
   "1000000001": {
     "hash": 1000000001,
     "displayProperties": {
@@ -51,28 +81,13 @@
   "1000000002": {
     "hash": 1000000002,
     "children": {
-      "presentationNodes": [
-        {
-          "presentationNodeHash": 741267279
-    },
-        {
-          "presentationNodeHash": 239187336
-        },
-        {
-          "presentationNodeHash": 1073993173
-        },
-        {
-          "presentationNodeHash": 1440901814
-        } 
-  ],
+      "presentationNodes": [],
   "collectibles": [],
   "records": [],
   "metrics": [],
   "craftables": []
 },
-"excluded": [
-  925324934
-],
+"excluded": [],
 "redacted": false
 },
 "1000000004": {
@@ -146,7 +161,7 @@
     "craftables": []
   },
   "redacted": false,
-  "substring": "ギャンビット"
+  "substring": "ギャンビット|侵入|かけら"
 },
 "1000000006": {
 "hash": 1000000006,
@@ -250,6 +265,21 @@
       },
       {
           "collectibleHash": 2040168511
+        },
+        {
+            "collectibleHash": 1822059431
+        },
+        {
+            "collectibleHash": 1822059430
+        },
+        {
+            "collectibleHash": 1822059429
+        },
+        {
+            "collectibleHash": 1822059428
+        },
+        {
+            "collectibleHash": 2056946094
       }
   ],
     "records": [],
