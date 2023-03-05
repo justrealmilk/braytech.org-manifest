@@ -39,12 +39,12 @@
       "name": "Epic",
       "description": "プロフィールが関連付けられているプラットフォーム"
     },
-    "itemTypeDisplayName": "Platform"
+    "itemTypeDisplayName": "プラットフォーム"
   },
   "flair-developer": {
     "displayProperties": {
       "name": "トム・チャップマン",
-      "description": "Braytech開発者"
+      "description": "_Braytech開発者_"
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
@@ -102,14 +102,14 @@
         "name": "ダメージ減衰",
         "description": "腰撃ちまたはADSにおいてダメージが減衰しはじめるおおよその距離を示します。"
       },
-      "itemTypeDisplayName": "Stat"
+      "itemTypeDisplayName": "ステータス"
     },
     "stat-reload-time": {
       "displayProperties": {
         "name": "リロード時間",
         "description": "全弾リロードが完了し、撃てるようになるまでに掛かる時間を指します。この値は武器のリロード速度に基いており、パークの影響は考慮されていません。"
       },
-      "itemTypeDisplayName": "Stat"
+      "itemTypeDisplayName": "ステータス"
   },
   "accurate-gear-power-average": {
     "displayProperties": {
@@ -139,6 +139,12 @@
     "displayProperties": {
       "name": "スコア値",
       "description": "このレコードの残りスコア値（残り合計）"
+          }
+  },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "スコア値",
+      "description": "このノードのスコア算出値"
     }
   },
   "record-intervals": {
@@ -324,6 +330,12 @@
     "displayProperties": {
       "name": "ステータストラッカー",
       "description": "ステータストラッカーは、エンブレムのインスペクトビューから適用することができます。適用されたトラッカーは、いつでもネームプレートに表示されます。"
+    }
+  },
+  "sub-triumphs-seasonal-challenges": {
+    "displayProperties": {
+      "name": "シーズンのチャレンジ",
+      "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
     }
   },
   "sub-triumphs-event-card": {
