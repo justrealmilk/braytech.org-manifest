@@ -1,34 +1,4 @@
-{ 
-  "1731162900": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
-    }
-  },
-  "127506319": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
-    }
-  },
-  "638914517": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
-    }
-  },
-  "3289524180": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
-    }
-  },
-  "3686962409": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
-    }
-  },
-  "1464475380": {
-    "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
-    }
-  },
+{
   "2086100423": {
     "displayProperties": {
       "name": "天下無双 (シーズン10)"
@@ -60,232 +30,53 @@
     }
   },
   "1000000001": {
-    "hash": 1000000001,
     "displayProperties": {
       "name": "一時的な勝利の道のり",
       "description": "すべての挑戦は永遠にできるものではありません。一部は時間制限があります。これらのレコードは、ブレイテックにて抽出したリストで来シーズンからは挑戦できなくなります"
+    }
+  },
+  "1000000004": {
+    "displayProperties": {
+      "name": "すべての道のり"
+    }
+  },
+  "1000000005": {
+    "displayProperties": {
+      "name": "すべての挑戦"
+    }
+  },
+  "1000000051": {
+    "displayProperties": {
+      "name": "クルーシブル"
     },
-    "children": {
-      "presentationNodes": [
-        {
-          "presentationNodeHash": 1000000002
-        }
-      ],
-      "collectibles": [],
-      "records": [],
-      "metrics": [],
-      "craftables": []
+    "substring": "クルーシブル|カオス|オシリスの挑戦|アイアンバナー|で相手を倒す"
+  },
+  "1000000052": {
+    "displayProperties": {
+      "name": "ストライク"
     },
-    "redacted": false
+    "substring": "ナイトフォール|ストライク|バンガード"
   },
-  "1000000002": {
-    "hash": 1000000002,
-    "children": {
-      "presentationNodes": [],
-  "collectibles": [],
-  "records": [],
-  "metrics": [],
-  "craftables": []
-},
-"excluded": [],
-"redacted": false
-},
-"1000000004": {
-"hash": 1000000004,
-"displayProperties": {
-  "name": "すべての道のり"
-},
-"children": {
-  "presentationNodes": [],
-  "collectibles": [],
-  "records": [],
-  "metrics": [],
-  "craftables": []
-},
-"redacted": false
-},
-"1000000005": {
-"hash": 1000000005,
-"displayProperties": {
-  "name": "すべての挑戦"
-},
-"children": {
-  "presentationNodes": [],
-  "collectibles": [],
-  "records": [],
-  "metrics": [],
-  "craftables": []
-},
-"redacted": false
-},
-"1000000051": {
-  "hash": 1000000051,
-  "displayProperties": {
-    "name": "クルーシブル"
+  "1000000053": {
+    "displayProperties": {
+      "name": "ギャンビット"
+    },
+    "substring": "ギャンビット|侵入|かけら"
   },
-  "children": {
-    "presentationNodes": [],
-    "collectibles": [],
-    "records": [],
-    "metrics": [],
-    "craftables": []
+  "1000000006": {
+    "displayProperties": {
+      "name": "すべてのパターン"
+    }
   },
-  "redacted": false,
-  "substring": "クルーシブル|カオス|オシリスの挑戦|アイアンバナー|で相手を倒す"
-},
-"1000000052": {
-  "hash": 1000000052,
-  "displayProperties": {
-    "name": "ストライク"
+  "1000000007": {
+    "displayProperties": {
+      "name": "すべての媒体"
+    }
   },
-  "children": {
-    "presentationNodes": [],
-    "collectibles": [],
-    "records": [],
-    "metrics": [],
-    "craftables": []
-  },
-  "redacted": false,
-  "substring": "ナイトフォール|ストライク|バンガード"
-},
-"1000000053": {
-  "hash": 1000000053,
-  "displayProperties": {
-    "name": "ギャンビット"
-  },
-  "children": {
-    "presentationNodes": [],
-    "collectibles": [],
-    "records": [],
-    "metrics": [],
-    "craftables": []
-  },
-  "redacted": false,
-  "substring": "ギャンビット|侵入|かけら"
-},
-"1000000006": {
-"hash": 1000000006,
-"displayProperties": {
-  "name": "すべてのパターン"
-},
-"children": {
-  "presentationNodes": [],
-  "collectibles": [],
-  "records": [],
-  "metrics": [],
-  "craftables": []
-},
-"redacted": false
-},
-"1000000007": {
-"hash": 1000000007,
-"displayProperties": {
-  "name": "すべての媒体"
-},
-"children": {
-  "presentationNodes": [],
-  "collectibles": [],
-  "records": [],
-  "metrics": [],
-  "craftables": []
-},
-"redacted": false
-},
-"2381001021": {
-  "children": {
-    "presentationNodes": [
-      {
-        "presentationNodeHash": 1000000008
-      }
-    ]
-  }
-},
-"1000000008": {
-  "hash": 1000000008,
-  "displayProperties": {
-    "name": "入手可能",
-    "description": "これらのエンブレムはhttps://www.bungie.net/redeemにて、無料ダウンロードコードを入力すると入手できます"
-  },
-  "children": {
-    "presentationNodes": [],
-    "collectibles": [
-      {
-          "collectibleHash": 908813207
-      },
-      {
-          "collectibleHash": 4137754755
-      },
-      {
-          "collectibleHash": 4137754752
-      },
-      {
-          "collectibleHash": 4137754753
-      },
-      {
-          "collectibleHash": 3215337910
-      },
-      {
-          "collectibleHash": 3232115498
-      },
-      {
-          "collectibleHash": 3332781245
-      },
-      {
-          "collectibleHash": 3282448382
-      },
-      {
-          "collectibleHash": 3299225966
-      },
-      {
-          "collectibleHash": 3399891680
-      },
-      {
-          "collectibleHash": 3399891683
-      },
-      {
-          "collectibleHash": 3399891682
-      },
-      {
-          "collectibleHash": 3399891685
-      },
-      {
-          "collectibleHash": 1939502752
-      },
-      {
-          "collectibleHash": 1939502753
-      },
-      {
-          "collectibleHash": 1973057929
-      },
-      {
-          "collectibleHash": 2006613205
-      },
-      {
-          "collectibleHash": 2056946089
-      },
-      {
-          "collectibleHash": 2040168511
-        },
-        {
-            "collectibleHash": 1822059431
-        },
-        {
-            "collectibleHash": 1822059430
-        },
-        {
-            "collectibleHash": 1822059429
-        },
-        {
-            "collectibleHash": 1822059428
-        },
-        {
-            "collectibleHash": 2056946094
-      }
-  ],
-    "records": [],
-    "metrics": [],
-    "craftables": []
-  },
-  "redacted": false
+  "1000000008": {
+    "displayProperties": {
+      "name": "入手可能",
+      "description": "これらのエンブレムはhttps://www.bungie.net/redeemにて、無料ダウンロードコードを入力すると入手できます"
+    }
   }
 }

@@ -1,32 +1,32 @@
 {
   "1731162900": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
+      "icon": "/static/images/extracts/ui/overrides/kinetic.png"
     }
   },
   "127506319": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/kinetic.png"
+      "icon": "/static/images/extracts/ui/overrides/kinetic.png"
     }
   },
   "638914517": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
+      "icon": "/static/images/extracts/ui/overrides/energy.png"
     }
   },
   "3289524180": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/energy.png"
+      "icon": "/static/images/extracts/ui/overrides/energy.png"
     }
   },
   "3686962409": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
+      "icon": "/static/images/extracts/ui/overrides/power.png"
     }
   },
   "1464475380": {
     "displayProperties": {
-      "iconLocal": "/static/images/extracts/ui/overrides/power.png"
+      "icon": "/static/images/extracts/ui/overrides/power.png"
     }
   },
   "2086100423": {
@@ -210,82 +210,137 @@
       "presentationNodes": [],
       "collectibles": [
         {
-            "collectibleHash": 908813207
+          "collectibleHash": 908813207
         },
         {
-            "collectibleHash": 4137754755
+          "collectibleHash": 4137754755
         },
         {
-            "collectibleHash": 4137754752
+          "collectibleHash": 4137754752
         },
         {
-            "collectibleHash": 4137754753
+          "collectibleHash": 4137754753
         },
         {
-            "collectibleHash": 3215337910
+          "collectibleHash": 3215337910
         },
         {
-            "collectibleHash": 3232115498
+          "collectibleHash": 3232115498
         },
         {
-            "collectibleHash": 3332781245
+          "collectibleHash": 3332781245
         },
         {
-            "collectibleHash": 3282448382
+          "collectibleHash": 3282448382
         },
         {
-            "collectibleHash": 3299225966
+          "collectibleHash": 3299225966
         },
         {
-            "collectibleHash": 3399891680
+          "collectibleHash": 3399891680
         },
         {
-            "collectibleHash": 3399891683
+          "collectibleHash": 3399891683
         },
         {
-            "collectibleHash": 3399891682
+          "collectibleHash": 3399891682
         },
         {
-            "collectibleHash": 3399891685
+          "collectibleHash": 3399891685
         },
         {
-            "collectibleHash": 1939502752
+          "collectibleHash": 1939502752
         },
         {
-            "collectibleHash": 1939502753
+          "collectibleHash": 1939502753
         },
         {
-            "collectibleHash": 1973057929
+          "collectibleHash": 1973057929
         },
         {
-            "collectibleHash": 2006613205
+          "collectibleHash": 2006613205
         },
         {
-            "collectibleHash": 2056946089
+          "collectibleHash": 2056946089
         },
         {
-            "collectibleHash": 2040168511
+          "collectibleHash": 2040168511
         },
         {
-            "collectibleHash": 1822059431
+          "collectibleHash": 1822059431
         },
         {
-            "collectibleHash": 1822059430
+          "collectibleHash": 1822059430
         },
         {
-            "collectibleHash": 1822059429
+          "collectibleHash": 1822059429
         },
         {
-            "collectibleHash": 1822059428
+          "collectibleHash": 1822059428
         },
         {
-            "collectibleHash": 2056946094
+          "collectibleHash": 2056946094
         }
-    ],
+      ],
       "records": [],
       "metrics": [],
       "craftables": []
     },
     "redacted": false
+  },
+  "2485764221": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0823.jpg"
+    }
+  },
+  "2329774788": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0825.jpg"
+    }
+  },
+  "2334031483": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0827.jpg"
+    }
+  },
+  "464627906": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0829.jpg"
+    }
+  },
+  "3111288225": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082B.jpg"
+    }
+  },
+  "4242023272": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082D.jpg"
+    }
+  },
+  "861774511": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082F.jpg"
+    }
+  },
+  "724209558": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0831.jpg"
+    }
+  },
+  "1194500405": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0833.jpg"
+    }
+  },
+  "184846131": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0835.jpg"
+    }
+  },
+  "562783996": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0837.jpg"
+    }
   }
 }
