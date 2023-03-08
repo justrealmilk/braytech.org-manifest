@@ -51,17 +51,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474576,
-            1084474577,
-            1084474591
-          ]
+          "checklistItems": [1084474576, 1084474577, 1084474591]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596463
-          ]
+          "checklistItems": [1387596463]
         }
       ]
     },
@@ -102,19 +96,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1034141726,
-            1067696996,
-            1067696997,
-            1067696998,
-            1084474590
-          ]
+          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596460
-          ]
+          "checklistItems": [1387596460]
         }
       ]
     },
@@ -152,19 +138,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696992,
-            1067696993,
-            1067696999,
-            1067697005,
-            1084474583
-          ]
+          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818879
-          ]
+          "checklistItems": [1370818879]
         }
       ]
     }
@@ -198,19 +176,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474578,
-            1084474579,
-            1118029876,
-            1118029877,
-            1118029882
-          ]
+          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596457
-          ]
+          "checklistItems": [1387596457]
         }
       ]
     },
@@ -248,17 +218,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474580,
-            1084474581,
-            1084474582
-          ]
+          "checklistItems": [1084474580, 1084474581, 1084474582]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818878
-          ]
+          "checklistItems": [1370818878]
         }
       ]
     },
@@ -300,17 +264,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696994,
-            1067696995,
-            1067697004
-          ]
+          "checklistItems": [1067696994, 1067696995, 1067697004]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818866
-          ]
+          "checklistItems": [1370818866]
         }
       ]
     }
@@ -4439,6 +4397,7 @@
       "name": "Alluring Curtain Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
     },
+    "itemTypeDisplayName": "Lucent Executioner",
     "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 3056690829,
@@ -4461,6 +4420,7 @@
       "name": "Queen's Bailey Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
     },
+    "itemTypeDisplayName": "Lucent Executioner",
     "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 409878074,
@@ -4483,6 +4443,7 @@
       "name": "Witch's Echo Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
     },
+    "itemTypeDisplayName": "Lucent Executioner",
     "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 3375528975,
@@ -4499,5 +4460,29 @@
         }
       ]
     }
+  },
+  "2000000254": {
+    "displayProperties": {
+      "name": "Nightmare of Zydron, Gate Lord"
+    },
+    "typeHash": 3,
+    "destinationHash": 677774031,
+    "bubbleHash": 417490937
+  },
+  "2000000255": {
+    "displayProperties": {
+      "name": "Nightmare of Phogoth, the Untamed"
+    },
+    "typeHash": 3,
+    "destinationHash": 677774031,
+    "bubbleHash": 417490937
+  },
+  "2000000256": {
+    "displayProperties": {
+      "name": "Nightmare of Taniks, the Scarred"
+    },
+    "typeHash": 3,
+    "destinationHash": 677774031,
+    "bubbleHash": 417490937
   }
 }
