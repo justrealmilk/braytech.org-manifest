@@ -19,7 +19,7 @@
   },
   "activity-flawless": {
     "displayProperties": {
-      "description": "This activity was stawted fwom its beginning and finished fwawwesswy, with no deaths.\n\nTo be ewigibwe, **waids** must be compweted aftew da waunch of Witch Queen, **stwikes** awe specific to each pwayew, and **wost sectows** must be stawted and finished by a singwe pwayew.",
+      "description": "This activity was stawted fwom its beginning and finished fwawwesswy, with no deaths.\n\nTo be ewigibwe, **waids** must be compweted aftew da waunch of Witch Queen, **dungeons** and **wost sectows** must be stawted and finished by a singwe (・`ω´・) pwayew, *wuns away* and **stwikes** awe specific to each pwayew.",
       "name": "Deathwess"
     }
   },
@@ -124,7 +124,7 @@
   "interval-score": {
     "displayProperties": {
       "description": "This wecowd's wemaining scowe vawue (sum of wemaining intewvaws).",
-      "name": "Scowe vawue"
+      "name": "Scowe Vawue"
     }
   },
   "latent-memories": {
@@ -183,6 +183,12 @@
     },
     "itemTypeDisplayName": "Pwatfowm"
   },
+  "presentation-node-score": {
+    "displayProperties": {
+      "description": "This node's cawcuwated scowe vawue.",
+      "name": "Scowe Vawue"
+    }
+  },
   "profile-stale": {
     "displayProperties": {
       "description": "An attempt to update uuw pwofiwe data with Bungie.net faiwed. Bwaytech was unabwe to weach Bungie.net.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting.",
@@ -233,7 +239,7 @@
   "score": {
     "displayProperties": {
       "description": "This wecowd's scowe vawue.",
-      "name": "Scowe vawue"
+      "name": "Scowe Vawue"
     }
   },
   "stat-damage-falloff": {
@@ -250,25 +256,25 @@
   },
   "sub-activity-bookmarks": {
     "displayProperties": {
-      "description": "Activities uu've bookmawked",
+      "description": "A wecowd of uuw victowies, satisfaction, and dismay.\n\nHewe wies aww *wuns away* activities which uu've added to uuw bookmawks. Stand taww, Guawdian, and bask in uuw gwowy.",
       "name": "Bookmawks"
     }
   },
   "sub-activity-carnage": {
     "displayProperties": {
-      "description": "Aww of da sewected Guawdian's wecent activities",
+      "description": "Aww of da sewected Guawdian's wecent activities.",
       "name": "Cawnage"
     }
   },
   "sub-activity-graphs": {
     "displayProperties": {
-      "description": "Activities pwotted against gwaphs, fow da statisticawwy incwined",
+      "description": "Activities pwotted against gwaphs, fow da statisticawwy incwined.",
       "name": "Gwaphs"
     }
   },
   "sub-activity-series": {
     "displayProperties": {
-      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies",
+      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies.",
       "name": "Sewies"
     }
   },
@@ -337,6 +343,36 @@
       "name": "Histowicaw Stats"
     }
   },
+  "sub-collections-exotic-catalysts": {
+    "displayProperties": {
+      "description": "Pattewns enabwe da shaping of weapons. Catawysts expand da powew of uuw Exotic weapons. Find them and finish theiw objectives to unwock uuw awsenaw's fuww potentiaw",
+      "name": "Pattewns \u0026 Catawysts"
+    }
+  },
+  "sub-collections-lore": {
+    "displayProperties": {
+      "description": "Wowe tewws bwoadew stowies fwom da Destiny univewse. Unwock and wead wowe pages by compweting Twiumphs",
+      "name": "Wowe"
+    }
+  },
+  "sub-collections-medals": {
+    "displayProperties": {
+      "description": "Medaws awe eawned thwough feats of gamepway expewtise. See da wist of medaws and how many of each uu've eawned",
+      "name": "Medaws"
+    }
+  },
+  "sub-collections-metrics": {
+    "displayProperties": {
+      "description": "Stat twackews can be appwied to uuw embwem fwom its inspect view. Appwied twackews wiww appeaw on uuw namepwate whenevew visibwe",
+      "name": "Stat Twackews"
+    }
+  },
+  "sub-collections-root": {
+    "displayProperties": {
+      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime",
+      "name": "Cowwections"
+    }
+  },
   "sub-inspect-equipment": {
     "displayProperties": {
       "description": "Aww item attwibutes; stats, pewks, and mods"
@@ -375,34 +411,10 @@
       "name": "Active Event Cawd"
     }
   },
-  "sub-collections-exotic-catalysts": {
-    "displayProperties": {
-      "description": "Pattewns enabwe da shaping of weapons. Catawysts expand da powew of uuw Exotic weapons. Find them and finish theiw objectives to unwock uuw awsenaw's fuww potentiaw",
-      "name": "Pattewns \u0026 Catawysts"
-    }
-  },
   "sub-triumphs-legacy": {
     "displayProperties": {
       "description": "View a cowwection of wegacy Twiumphs and Seaws",
       "name": "Wegacy Twiumphs and Seaws"
-    }
-  },
-  "sub-collections-lore": {
-    "displayProperties": {
-      "description": "Wowe tewws bwoadew stowies fwom da Destiny univewse. Unwock and wead wowe pages by compweting Twiumphs",
-      "name": "Wowe"
-    }
-  },
-  "sub-collections-medals": {
-    "displayProperties": {
-      "description": "Medaws awe eawned thwough feats of gamepway expewtise. See da wist of medaws and how many of each uu've eawned",
-      "name": "Medaws"
-    }
-  },
-  "sub-collections-metrics": {
-    "displayProperties": {
-      "description": "Stat twackews can be appwied to uuw embwem fwom its inspect view. Appwied twackews wiww appeaw on uuw namepwate whenevew visibwe",
-      "name": "Stat Twackews"
     }
   },
   "sub-triumphs-seasonal-challenges": {

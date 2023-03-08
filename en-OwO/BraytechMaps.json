@@ -1093,18 +1093,36 @@
     "displayProperties": {
       "description": "Defeat da Wucent Executionew gawwisoned in Awwuwing Cuwtain to pwogwess wecowd _Ascended Bounty ૮ ˶ᵔ ᵕ ᵔ˶ ა Huntew_.",
       "name": "Awwuwing Cuwtain Executionew"
-    }
+    },
+    "itemTypeDisplayName": "Wucent Executionew"
   },
   "2000000252": {
     "displayProperties": {
       "description": "Defeat da Wucent Executionew gawwisoned in Queen's Baiwey to pwogwess wecowd _Ascended Bounty Huntew_.",
       "name": "Queen's Baiwey Executionew"
-    }
+    },
+    "itemTypeDisplayName": "Wucent Executionew"
   },
   "2000000253": {
     "displayProperties": {
       "description": "Defeat da Wucent Executionew gawwisoned in Witch's Echo to pwogwess wecowd _Ascended Bounty Huntew_.",
       "name": "Witch's Echo Executionew"
+    },
+    "itemTypeDisplayName": "Wucent Executionew"
+  },
+  "2000000254": {
+    "displayProperties": {
+      "name": "Nightmawe of Zydwon, Gate Wowd"
+    }
+  },
+  "2000000255": {
+    "displayProperties": {
+      "name": "Nightmawe of Phogoth, da Untamed"
+    }
+  },
+  "2000000256": {
+    "displayProperties": {
+      "name": "Nightmawe of Taniks, da Scawwed"
     }
   },
   "215": {
