@@ -269,8 +269,8 @@
   },
   "character-loadouts-delete": {
     "displayProperties": {
-      "name": "Elimina loadout",
-      "description": "Elimina questo loadout. Questa azione è permanente."
+      "name": "Elimina dotazione",
+      "description": "Elimina questa dotazione. Questa azione è permanente."
     }
   },
   "configure-push-notifications": {
@@ -282,6 +282,36 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
+    }
+  },
+  "sub-collections-root": {
+    "displayProperties": {
+      "name": "Collezioni",
+      "description": "Oggetti ottenuti dal tuo Guardiano nel tempo"
+    }
+  },
+  "sub-collections-medals": {
+    "displayProperties": {
+      "name": "Medaglie",
+      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
+    }
+  },
+  "sub-collections-exotic-catalysts": {
+    "displayProperties": {
+      "name": "Modelli e catalizzatori",
+      "description": "I modelli permettono la creazione di armi. I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale"
+    }
+  },
+  "sub-collections-lore": {
+    "displayProperties": {
+      "name": "Leggende",
+      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
+    }
+  },
+  "sub-collections-metrics": {
+    "displayProperties": {
+      "name": "Contatori statistiche",
+      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
     }
   },
   "sub-triumphs-active": {
@@ -306,30 +336,6 @@
     "displayProperties": {
       "name": "Sfide stagionali",
       "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
-    }
-  },
-  "sub-collections-medals": {
-    "displayProperties": {
-      "name": "Medaglie",
-      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
-    }
-  },
-  "sub-collections-exotic-catalysts": {
-    "displayProperties": {
-      "name": "Catalizzatori esotici",
-      "description": "I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale"
-    }
-  },
-  "sub-collections-lore": {
-    "displayProperties": {
-      "name": "Leggende",
-      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
-    }
-  },
-  "sub-collections-metrics": {
-    "displayProperties": {
-      "name": "Contatori statistiche",
-      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
     }
   },
   "sub-triumphs-event-card": {
@@ -400,7 +406,7 @@
   },
   "sub-character-loadouts": {
     "displayProperties": {
-      "name": "Loadout",
+      "name": "Dotazioni",
       "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnagli un nome"
     }
   },
@@ -424,7 +430,7 @@
   },
   "sub-activity-series": {
     "displayProperties": {
-      "name": "Incursioni",
+      "name": "Serie",
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari."
     }
   },

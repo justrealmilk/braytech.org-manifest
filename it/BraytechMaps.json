@@ -626,18 +626,36 @@
     "displayProperties": {
       "name": "Carnefice della Tenda Seducente",
       "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
-    }
+    },
+    "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000252": {
     "displayProperties": {
       "name": "Carnefice delle Mura della Regina",
       "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
-    }
+    },
+    "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000253": {
     "displayProperties": {
       "name": "Carnefice dell'Eco della Regina",
       "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+    },
+    "itemTypeDisplayName": "Carnefice lucente"
+  },
+  "2000000254": {
+    "displayProperties": {
+      "name": "Incubo Zydron, Guardiaporta"
+    }
+  },
+  "2000000255": {
+    "displayProperties": {
+      "name": "Incubo di Phogoth, l'Indomito"
+    }
+  },
+  "2000000256": {
+    "displayProperties": {
+      "name": "Incubo di Taniks, lo Sfregiato"
     }
   }
 }
