@@ -2,6 +2,7 @@ import Braytech from '@Data/manifest/it/Braytech.json';
 import BraytechActivityDifficulty from '@Data/manifest/it/BraytechActivityDifficulty.json';
 import BraytechMaps from '@Data/manifest/it/BraytechMaps.json';
 import BraytechMapsTypes from '@Data/manifest/it/BraytechMapsTypes.json';
+import BraytechSearchIndex from '@Data/manifest/it/BraytechSearchIndex.json';
 import DestinyActivityDefinition from '@Data/manifest/it/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/it/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/it/DestinyActivityModifierDefinition.json';
@@ -23,14 +24,13 @@ import DestinySourceDefinition from '@Data/manifest/it/DestinySourceDefinition.j
 import DestinyStatDefinition from '@Data/manifest/it/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/it/DestinyTraitDefinition.json';
 
-import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/it/DestinyInventoryItemDefinitionColloquial.json';
-
 const it = {
   definitions: {
     Braytech,
     BraytechActivityDifficulty,
     BraytechMaps,
     BraytechMapsTypes,
+    BraytechSearchIndex,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
@@ -51,11 +51,6 @@ const it = {
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
-  },
-  optional: {
-    colloquialDefinitions: {
-      DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
-    },
   },
 };
 

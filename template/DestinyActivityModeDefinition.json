@@ -1,0 +1,133 @@
+{
+  "608898761": {
+    "displayProperties": {
+      "name": "Dungeons",
+      "description": "Venture into the darkest depths of enemy-controlled zones. Keep your light close."
+    }
+  },
+  "20434039890": {
+    "displayProperties": {
+      "name": "Raids",
+      "description": "Form a fireteam of six god-killers and brave the strange and powerful realms of our enemies."
+    }
+  },
+  "9924991580": {
+    "displayProperties": {
+      "name": "Offensives",
+      "description": "Form a fireteam of six and stave off the onslaught of our enemies."
+    }
+  },
+  "103143560": {
+    "displayProperties": {
+      "name": "Lost Sectors",
+      "description": "Advanced scouts have marked sectors of strategic interest ahead of you.\n\nInspect them for threats and rare gear."
+    }
+  },
+  "4110605575": {
+    "displayProperties": {
+      "name": "Vanguard Strikes",
+      "description": "Doing the Vanguard's dirty work and keeping the frontier under control."
+    }
+  },
+  "547513715": {
+    "displayProperties": {
+      "name": "Nightfall: The Ordeal",
+      "description": "The Vanguard authorizes Nightfall strikes to take down the greatest threats faced by the City.\n\nReview Guardian performance and prepare for the next threat."
+    }
+  },
+  "748895195": {
+    "displayProperties": {
+      "name": "All Activities",
+      "description": "Post game carnage reports for all activity modes: the culmination of all of your efforts."
+    }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "Took out Ghaul, woke up the Traveler, and now half of what I hear in the streets is how much you and your clan are making a difference... And that's why I started this whole clan thing in the first place–people are still waiting for the Vanguard to lead the way, but it's time for a change! And Guardians like you are making it happen... No pressure."
+    }
+  },
+  "11647605040": {
+    "displayProperties": {
+      "name": "All Crucible",
+      "description": "Did you throw enough grenades?"
+    }
+  },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Competitive",
+      "description": "Matches in this playlist affect your Competitive Division placement. Wins will lead to Promotions, increasing your Division placement. Losses will lead to Relegations, lowering your Division placement."
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Iron Banner: Fortress",
+      "description": ""
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Achieve victory by collecting the Spark and igniting the opponent's Rift."
+    }
+  },
+  "1848252830": {
+    "displayProperties": {
+      "description": "Hunt hostiles in active warzones. Reckon with greater powers. Be notorious."
+    }
+  },
+  "1585787840": {
+    "displayProperties": {
+      "description": "Fight for Valor by defeating opponents."
+    }
+  },
+  "3199098480": {
+    "displayProperties": {
+      "description": "Fight for Valor by capturing zones and defeating opponents."
+    }
+  },
+  "31990984800": {
+    "displayProperties": {
+      "name": "Momentum Control",
+      "description": "Fight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled."
+    }
+  },
+  "3484731833": {
+    "displayProperties": {
+      "description": "Achieve victory by controlling zones, earning points for your team over time."
+    }
+  },
+  "4078439804": {
+    "displayProperties": {
+      "description": "Fight for Valor by eliminating all opponents in this round-based mode. Don't forget to revive your fellow Guardians."
+    }
+  },
+  "1826469369": {
+    "displayProperties": {
+      "description": "_Your legend, forged in iron. I can think of no better prize for a Lightbearer._"
+    }
+  },
+  "1264443021": {
+    "displayProperties": {
+      "description": "Faster Supers, abilities, and Heavy ammo spawns—withstand and engage in a whirlwind of chaos."
+    }
+  },
+  "157639802": {
+    "displayProperties": {
+      "description": "Fight for Valor by defeating opponents. No teams. No allegiance. A free-for-all where the leader had better watch their back."
+    }
+  },
+  "2239249083": {
+    "displayProperties": {
+      "description": "Fight for Glory by depleting your opponents' shared life pool, then eliminating them."
+    }
+  },
+  "1673724806": {
+    "displayProperties": {
+      "description": "Compete in a fireteam-required event version of Elimination. Earn as many wins on a ticket as you can. Three losses and you're out."
+    }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Achieve victory by defeating opponents and preventing revives. Revive a defeated teammate to steal back the point your opponents scored. Win the most rounds or face off in an elimination showdown."
+    }
+  }
+}
