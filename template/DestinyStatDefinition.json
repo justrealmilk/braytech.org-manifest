@@ -1,0 +1,17 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "Total"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "Damage Falloff"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "Reload Time"
+    }
+  }
+}

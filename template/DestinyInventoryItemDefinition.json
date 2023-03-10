@@ -1,0 +1,119 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "Insufficient Clearance"
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Unknown",
+      "description": "The item you're looking for does not exist."
+    },
+    "itemTypeDisplayName": "Missing Item",
+    "displaySource": "I hate to say it, but it looks like the system you're searching for doesn't exist.\nThat's impossible. Perhaps the archives are incomplete.\nThe archives are comprehensive and totally secure, my young Jedi. One thing you may be absolutely sure of - if an item does not appear in our records, it does not exist!"
+  },
+  "73143230": {
+    "displayProperties": {
+      "description": "An engram with complex markers.\nContains a random Pinnacle Legendary weapon or armor piece."
+    },
+    "itemTypeDisplayName": "Engram"
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Increases your clan's experience"
+    },
+    "inventory": {
+      "tierTypeName": "Common"
+    }
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthcord material which can be converted to Synthweave using the Loom."
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience enormously."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Increased \"Heartshadow\" drop rate",
+      "description": "Increases the drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
+    }
+  },
+  "3224646387": {
+    "displayProperties": {
+      "name": "Increased \"Hierarchy of Needs\" drop rate",
+      "description": "Increases the drop rate of the \"Hierarchy of Needs\" exotic bow from the \"Spire of the Watcher\" dungeon."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "Material used in weapon shaping, required to adjust intrinsic plugs.\n\nPrimarily obtained by dismantling Legendary weapons, but can also be rewarded for completing activities."
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "Material used in weapon shaping.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
+    },
+    "itemTypeDisplayName": "Material"
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "name": "Empty Masterwork Socket",
+      "description": "No masterwork currently selected."
+    },
+    "itemTypeDisplayName": "Weapon Mod",
+    "inventory": {
+      "tierTypeName": "Common"
+    }
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "Pinnacle Gear (Weak)"
+    }
+  }
+}
