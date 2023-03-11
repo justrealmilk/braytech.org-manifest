@@ -1,17 +1,17 @@
 {
-  "2312894169": {
-    "progressDescription": "Asaltos de la Vanguardia completados"
+  "537457947": {
+    "progressDescription": "Actividades de las \"Operaciones de Vanguardia\" completadas"
   },
-  "2443315975": {
-    "progressDescription": "Asaltos de Ocaso: el suplicio completados"
-  },
-  "2498962144": {
-    "progressDescription": "Ocaso: el suplicio completado con una puntuación de 100 000 o superior"
+  "1612424695": {
+    "progressDescription": "Puntuación de Ocaso acumulada"
   },
   "3118376466": {
     "progressDescription": "Partidas en listas de juego del Crisol completadas"
   },
   "4276867787": {
+    "progressDescription": "Partidas en la lista \"Competitivo\" completadas"
+  },
+  "1458618853": {
     "progressDescription": "Partidas en la lista \"Competitivo\" completadas"
   },
   "2794225827": {
@@ -29,23 +29,14 @@
   "424208044": {
     "progressDescription": "Mazmorra \"Espira de la vigía\" completada"
   },
-  "1501017628": {
-    "progressDescription": "Incursión \"Cripta de la piedra profunda\" completada"
-  },
-  "3214312537": {
-    "progressDescription": "Incursión \"Cámara de cristal\" completada"
-  },
-  "2249306957": {
-    "progressDescription": "Incursión \"Juramento del Discípulo\" completada"
-  },
-  "1986658407": {
-    "progressDescription": "Incursión \"Caída del Rey\" completada"
-  },
   "1948254616": {
     "progressDescription": "Actividades de \"Retos de la Eternidad\" completadas"
   },
   "1205559531": {
     "progressDescription": "\"Retos de la Eternidad\" completado con una puntuación de {var:3648290880} o superior"
+  },
+  "1356373064": {
+    "progressDescription": "Actividad \"//nodo.anulación.ÁVALON//\" completada"
   },
   "4140117227": {
     "progressDescription": "Contratos de la Vanguardia completados"
@@ -71,41 +62,8 @@
   "4026431786": {
     "progressDescription": "Habla con Lord Shaxx"
   },
-  "4205702842": {
-    "progressDescription": "Contratos de la Corona de Dolor completadas"
-  },
-  "2274279157": {
-    "progressDescription": "Interactúa con la Corona de Dolor"
-  },
-  "777097966": {
-    "progressDescription": "Contratos del androide exo completados"
-  },
-  "889231961": {
-    "progressDescription": "Interactúa con el androide exo"
-  },
-  "3270653927": {
-    "progressDescription": "Derrota combatientes poderosos en la aventura \"Vox Obscura\""
-  },
-  "454779873": {
-    "progressDescription": "Revisita recuerdos a través del \"Altar de Reflexión\""
-  },
-  "3626845679": {
-    "progressDescription": "Actividades de \"El Manantial\" completadas"
-  },
-  "2395957698": {
-    "progressDescription": "\"El Manantial\" completado en dificultad maestro"
-  },
-  "355099864": {
-    "progressDescription": "Misión de campaña semanal completada"
-  },
   "291160875": {
     "progressDescription": "Misión de campaña semanal completada con una puntuación de 100 000 o superior"
-  },
-  "1876328522": {
-    "progressDescription": "Gana reputación con Fynch"
-  },
-  "1184525507": {
-    "progressDescription": "Habla con Fynch"
   },
   "897950155": {
     "progressDescription": "Incursión rotativa \"Último deseo\" completada"
@@ -134,33 +92,6 @@
   "3039545165": {
     "progressDescription": "Mazmorra rotativa \"Dualidad\" completada"
   },
-  "1964325296": {
-    "progressDescription": "Actividades de \"Choque de queches\" completadas"
-  },
-  "2909948981": {
-    "progressDescription": "Actividad \"Choque de queches\" completada en dificultad maestro"
-  },
-  "3935332150": {
-    "progressDescription": "Tesoros adquiridos durante la actividad \"Expedición\""
-  },
-  "2581410975": {
-    "progressDescription": "Cofres serafines abiertos durante actividades \"Campos de batalla de Atraco\""
-  },
-  "1979753199": {
-    "progressDescription": "Cofres serafines abiertos durante actividades \"Campos de batalla de Atraco\""
-  },
-  "2300038599": {
-    "progressDescription": "Cofres serafines abiertos durante actividades \"Campos de batalla de Atraco\""
-  },
-  "2144936281": {
-    "progressDescription": "\"Campos de batalla de Atraco\" completados en dificultad leyenda"
-  },
-  "3675131393": {
-    "progressDescription": "\"Operación: Escudo de serafín\" completada"
-  },
-  "2667467981": {
-    "progressDescription": "\"Operación: Escudo de serafín\" completada en dificultad leyenda"
-  },
   "2258905201": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Estasis] Estasis o [Vacío] Vacío"
   },
@@ -172,6 +103,15 @@
   },
   "1878970132": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Estasis] Estasis o [Vacío] Vacío"
+  },
+  "1166527222": {
+    "progressDescription": "Actividades de \"Campos de Batalla de la Resistencia\""
+  },
+  "3431014262": {
+    "progressDescription": "Actividades de \"Campos de Batalla de la Resistencia\""
+  },
+  "1687723774": {
+    "progressDescription": "Actividades de \"Campos de Batalla de la Resistencia\""
   },
   "36795045": {
     "progressDescription": " Arco"

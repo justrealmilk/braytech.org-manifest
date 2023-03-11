@@ -810,19 +810,37 @@
   "2000000251": {
     "displayProperties": {
       "name": "Verdugo de Cortina Atrayente",
-      "description": "Derrota al verdugo lúcido acuartelado en Cortina Atrayente para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al verdugo lúcido acuartelado en Cortina Atrayente para avanzar en el triunfo _Cazarrecompensas ascendido_.",
+      "itemTypeDisplayName": "Verdugo lúcido"
     }
   },
   "2000000252": {
     "displayProperties": {
       "name": "Verdugo de Mota de la Reina",
-      "description": "Derrota al verdugo lúcido acuartelado en Mota de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al verdugo lúcido acuartelado en Mota de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_.",
+      "itemTypeDisplayName": "Verdugo lúcido"
     }
   },
   "2000000253": {
     "displayProperties": {
       "name": "Verdugo de Eco de la Bruja",
-      "description": "Derrota al verdugo lúcido acuartelado en Eco de la Bruja para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al verdugo lúcido acuartelado en Eco de la Bruja para avanzar en el triunfo _Cazarrecompensas ascendido_.",
+      "itemTypeDisplayName": "Verdugo lúcido"
+    }
+  },
+  "2000000254": {
+    "displayProperties": {
+      "name": "Pesadilla de Zydron, el celador"
+    }
+  },
+  "2000000255": {
+    "displayProperties": {
+      "name": "Pesadilla de Phogoth, el Indómito"
+    }
+  },
+  "2000000256": {
+    "displayProperties": {
+      "name": "Pesadilla de Taniks, el Marcado"
     }
   }
 }
