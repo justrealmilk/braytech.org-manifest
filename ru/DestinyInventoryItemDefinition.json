@@ -26,8 +26,8 @@
   },
   "23239861010": {
     "displayProperties": {
-      "description": "Абсолют не выбран.",
-      "name": "Пустой слот Абсолюта"
+      "name": "Пустой слот Абсолюта",
+      "description": "Абсолют не выбран."
     },
     "itemTypeDisplayName": "Модификатор оружия",
     "inventory": {

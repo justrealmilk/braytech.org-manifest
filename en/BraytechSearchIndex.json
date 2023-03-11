@@ -16,7 +16,11 @@
     "to": "/collections",
     "keywords": [
       "exotics",
-      "badges"
+      "badges",
+      "trackers",
+      "emblem",
+      "catalysts",
+      "lore"
     ]
   },
   "triumphs": {
@@ -27,22 +31,10 @@
     },
     "to": "/triumphs",
     "keywords": [
-      "catalysts",
       "almost complete",
+      "track",
       "expiring",
-      "seals",
-      "trackers"
-    ]
-  },
-  "triumphs-seasonal-challenges": {
-    "hash": "triumphs-seasonal-challenges",
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    },
-    "to": "/triumphs/seasonal-challenges",
-    "keywords": [
-      "seasonal challenges"
+      "seals"
     ]
   },
   "maps": {
@@ -86,6 +78,17 @@
       "bonuses"
     ]
   },
+  "weeklies-seasonal-challenges": {
+    "hash": "weeklies-seasonal-challenges",
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    },
+    "to": "/weeklies/seasonal-challenges",
+    "keywords": [
+      "seasonal challenges"
+    ]
+  },
   "weeklies-rotations": {
     "hash": "weeklies-rotations",
     "displayProperties": {
@@ -100,7 +103,8 @@
       "calendar",
       "raids",
       "wellspring",
-      "altars of sorrow"
+      "altars of sorrow",
+      "ascendant challenge"
     ]
   },
   "character": {

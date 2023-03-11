@@ -1,17 +1,17 @@
 {
-  "2312894169": {
-    "progressDescription": "Vanguard Strikes completed"
+  "537457947": {
+    "progressDescription": "\"Vanguard Ops\" activities completed"
   },
-  "2443315975": {
-    "progressDescription": "Nightfall: The Ordeal strikes completed"
-  },
-  "2498962144": {
-    "progressDescription": "Nightfall: The Ordeal strike completed with a score of 100,000 or higher"
+  "1612424695": {
+    "progressDescription": "Nightfall score accrued"
   },
   "3118376466": {
     "progressDescription": "Crucible matches completed"
   },
   "4276867787": {
+    "progressDescription": "\"Competitive\" playlist matches completed"
+  },
+  "1458618853": {
     "progressDescription": "\"Competitive\" playlist matches completed"
   },
   "2794225827": {
@@ -29,23 +29,14 @@
   "424208044": {
     "progressDescription": "\"Spire of the Watcher\" dungeon completed"
   },
-  "1501017628": {
-    "progressDescription": "\"Deep Stone Crypt\" raid completed"
-  },
-  "3214312537": {
-    "progressDescription": "\"Vault of Glass\" raid completed"
-  },
-  "2249306957": {
-    "progressDescription": "\"Vow of the Disciple\" raid completed"
-  },
-  "1986658407": {
-    "progressDescription": "\"King's Fall\" raid completed"
-  },
   "1948254616": {
     "progressDescription": "\"Dares of Eternity\" activities completed"
   },
   "1205559531": {
     "progressDescription": "\"Dares of Eternity\" completed with a score of {var:3648290880} or higher"
+  },
+  "1356373064": {
+    "progressDescription": "\"//node.ovrd.AVALON//\" activity completed"
   },
   "4140117227": {
     "progressDescription": "Vanguard bounties completed"
@@ -71,41 +62,8 @@
   "4026431786": {
     "progressDescription": "Speak with Lord Shaxx"
   },
-  "4205702842": {
-    "progressDescription": "Crown of Sorrow bounties completed"
-  },
-  "2274279157": {
-    "progressDescription": "Interact with the Crown of Sorrow"
-  },
-  "777097966": {
-    "progressDescription": "Clovis frame bounties completed"
-  },
-  "889231961": {
-    "progressDescription": "Speak with the Clovis frame"
-  },
-  "3270653927": {
-    "progressDescription": "Defeat powerful combatants in the \"Vox Obscura\" quest"
-  },
-  "454779873": {
-    "progressDescription": "Revisit memories through the \"Altar of Reflection\""
-  },
-  "3626845679": {
-    "progressDescription": "\"Wellspring\" activities completed"
-  },
-  "2395957698": {
-    "progressDescription": "\"Wellspring\" completed on master difficulty"
-  },
-  "355099864": {
-    "progressDescription": "Weekly Campaign mission completed"
-  },
-  "291160875": {
+  "3564470639": {
     "progressDescription": "Weekly Campaign mission completed with a score of 100,000 or higher"
-  },
-  "1876328522": {
-    "progressDescription": "Gain reputation with Fynch"
-  },
-  "1184525507": {
-    "progressDescription": "Speak with Fynch"
   },
   "897950155": {
     "progressDescription": "\"Last Wish\" rotator raid completed"
@@ -134,33 +92,6 @@
   "3039545165": {
     "progressDescription": "\"Duality\" rotator dungeon completed"
   },
-  "1964325296": {
-    "progressDescription": "\"Ketchcrash\" activities completed"
-  },
-  "2909948981": {
-    "progressDescription": "\"Ketchcrash\" completed on master difficulty"
-  },
-  "3935332150": {
-    "progressDescription": "Treasure acquired during \"Expedition\" activities"
-  },
-  "2581410975": {
-    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
-  },
-  "1979753199": {
-    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
-  },
-  "2300038599": {
-    "progressDescription": "Seraph Chests opened during \"Heist Battlegrounds\" activities"
-  },
-  "2144936281": {
-    "progressDescription": "\"Heist Battlegrounds\" completed on legend difficulty"
-  },
-  "3675131393": {
-    "progressDescription": "\"Operation: Seraph's Shield\" completed"
-  },
-  "2667467981": {
-    "progressDescription": "\"Operation: Seraph's Shield\" completed on legend difficulty"
-  },
   "2258905201": {
     "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
   },
@@ -172,5 +103,14 @@
   },
   "1878970132": {
     "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
+  },
+  "1166527222": {
+    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  },
+  "3431014262": {
+    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  },
+  "1687723774": {
+    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
   }
 }

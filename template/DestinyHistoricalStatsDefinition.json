@@ -1,0 +1,241 @@
+{
+  "opponentsDefeated": {
+    "statName": "Kills + Assists",
+    "statNameAbbr": "KA"
+  },
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "flawless": {
+    "statName": "Flawless"
+  },
+  "killsDeathsRatio": {
+    "statName": "K/D",
+    "statNameAbbr": "KD"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Average K/D"
+  },
+  "winRate": {
+    "statName": "Win Rate"
+  },
+  "precisionKills": {
+    "statName": "Precision",
+    "statNameAbbr": "P"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Accuracy",
+    "statNameAbbr": "A"
+  },
+  "score": {
+    "statNameAbbr": "S"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficulty"
+  },
+  "activitiesEntered": {
+    "statName": "Entered"
+  },
+  "activitiesCleared": {
+    "statName": "Cleared",
+    "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of activities entered!"
+  },
+  "secondsPlayed": {
+    "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Fastest"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Current Competitive Rating",
+    "statNameAlt": "Current Rating",
+    "statDescription": "Player's current Competitive Division rating."
+  },
+  "currentEloRating": {
+    "statName": "Current Elo Rating",
+    "statNameAlt": "Current Elo",
+    "statDescription": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Crests Secured"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Crests Recovered"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kills Secured"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Allied Kills Secured"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "ML"
+  },
+  "highValueKills": {
+    "statName": "High Value Kills"
+  },
+  "invasionKills": {
+    "statName": "Kills as Invader",
+    "statNameAbbr": "IK"
+  },
+  "invasionDeaths": {
+    "statName": "Deaths as Invader"
+  },
+  "invaderKills": {
+    "statName": "Invaders Killed"
+  },
+  "invaderDeaths": {
+    "statName": "Deaths to Invaders"
+  },
+  "primevalDamage": {
+    "statName": "Primeval Damage",
+    "statNameAbbr": "D"
+  },
+  "primevalKills": {
+    "statName": "Primeval Kills"
+  },
+  "motesDenied": {
+    "statName": "Motes Denied"
+  },
+  "invasions": {
+    "statName": "Invasions"
+  },
+  "blockerKills": {
+    "statName": "Blocker Kills"
+  },
+  "smallBlockersSent": {
+    "statName": "Small Blockers Sent"
+  },
+  "mediumBlockersSent": {
+    "statName": "Medium Blockers Sent"
+  },
+  "largeBlockersSent": {
+    "statName": "Large Blockers Sent"
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Survive a Hunt in which no member of your team is defeated—then start the next Hunt."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Complete an Iron Banner match with the most combined Advantage and Hunt kills."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Defeat five opponents while holding Zone Advantage before the opposing team recaptures a zone."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "In a single life, participate in capturing all three zones leading to the Hunt."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Survive your opponents' Hunt without being defeated."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "In a single life, defeat three opponents attempting to capture allied capture zones."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Recapture a zone within 15 seconds of it being captured by your opponents."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Defeat two or more opponents with Zone Advantage within 10 seconds of capturing a zone."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Capture a zone with your entire team present."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Land final blows on the entire enemy team before any of them respawn."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "Rapidly defeat 7 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Rapidly defeat 6 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Rapidly defeat 5 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Rapidly defeat 4 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Rapidly defeat 3 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Rapidly defeat 2 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Land the final blow on the Guardian who last defeated you."
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Land the final blow on an opponent who just defeated an ally."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Land the final blow on an opponent who has recently damaged an ally."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "In a single life, defeat 50 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "In a single life, defeat 20 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Land final blows on seven opponents without taking any damage from any source."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Shut down an opponent's streak of 20 or more."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "In a single life, defeat 10 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "As a team, defeat 7 opposing Guardians without any member of your team being defeated."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "In a single life, defeat 5 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Defeat 3 opponents in a single life after having been defeated two consecutive times."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Shut down an opponent's streak."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Complete an Iron Banner match in which you defeat at least seven opponents and are never defeated by an opponent."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Win an Iron Banner match with a large margin of victory."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Deal the most total damage to opponents in a single Iron Banner match."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Win an Iron Banner match in which your team never trailed."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Win an Iron Banner match in overtime."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "In a single Iron Banner match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (melee, grenade, Super)."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Land the first final blow of the match."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Stop an opponent's Super with your Super."
+  }
+}

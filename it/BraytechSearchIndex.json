@@ -1,48 +1,37 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "Clan",
       "description": "Informazioni sul tuo clan, statistiche storiche dei membri e modalità amministratore"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "Collezioni",
       "description": "Oggetti ottenuti dal tuo Guardiano nel tempo"
     },
     "keywords": [
       "esotiche",
-      "distintivi"
+      "distintivi",
+      "metriche",
+      "emblemi",
+      "catalizzatori",
+      "leggende"
     ]
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "Trionfi",
       "description": "Trionfi ottenuti dal tuo Guardiano tra varie sfide"
     },
     "keywords": [
-      "catalizzatori",
       "quasi completati",
+      "segui",
       "in scadenza",
-      "sigilli",
-      "seguiti"
-    ]
-  },
-  "triumphs-seasonal-challenges": {
-    "hash": "triumphs-seasonal-challenges",
-    "displayProperties": {
-      "name": "Sfide stagionali",
-      "description": "Completa le sfide a tempo limitato per il grado stagionale, polvere luminosa e altre ricompense"
-    },
-    "keywords": [
-      "sfide stagionali"
+      "sigilli"
     ]
   },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "Mappe",
       "description": "Mappe interattive con collezionabili e altre destinazioni importanti"
@@ -55,7 +44,6 @@
     ]
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "Settimanali",
       "description": "Una guida per Guardiani ai rituali settimanali per prestigio e trionfo"
@@ -67,7 +55,6 @@
     ]
   },
   "weeklies-challenges": {
-    "hash": "weeklies-challenges",
     "displayProperties": {
       "name": "Sfide",
       "description": "Tutte le sfide delle attività"
@@ -79,8 +66,16 @@
       "bonus"
     ]
   },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Sfide stagionali",
+      "description": "Completa le sfide a tempo limitato per il grado stagionale, polvere luminosa e altre ricompense"
+    },
+    "keywords": [
+      "sfide stagionali"
+    ]
+  },
   "weeklies-rotations": {
-    "hash": "weeklies-rotations",
     "displayProperties": {
       "name": "Rotazioni",
       "description": "Prevedi le rotazioni di varie attività"
@@ -92,11 +87,11 @@
       "calendario",
       "incursioni",
       "sorgente",
-      "altari del tormento"
+      "altari del tormento",
+      "sfida ascendente"
     ]
   },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "Personaggio",
       "description": "Controlla l'equipaggiamento e l'inventario del tuo Guardiano"
@@ -109,7 +104,6 @@
     ]
   },
   "character-postmaster": {
-    "hash": "character-postmaster",
     "displayProperties": {
       "name": "Amministratrice",
       "description": "I telai da amministratore supervisionano diligentemente consegne, messsaggi e oggetti smarriti"
@@ -119,7 +113,6 @@
     ]
   },
   "character-vault": {
-    "hash": "character-vault",
     "displayProperties": {
       "name": "Deposito",
       "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi"
@@ -129,7 +122,6 @@
     ]
   },
   "character-vendors": {
-    "hash": "character-vendors",
     "displayProperties": {
       "name": "Mercanti",
       "description": "Spia i tuoi deleganti di attività e compagni di scambi preferiti"
@@ -141,14 +133,12 @@
     ]
   },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "Imprese",
       "description": "Traccia i tuoi incarichi tra cui imprese e taglie"
     }
   },
   "quests-bounties": {
-    "hash": "quests-bounties",
     "displayProperties": {
       "name": "Taglie",
       "description": "Tutte le taglie del Guardiano selezionato"
@@ -158,7 +148,6 @@
     ]
   },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "Attività",
       "description": "Esplora e filtra i tuoi Riepiloghi della Carneficina Post-Partita nel dettaglio"
@@ -179,7 +168,6 @@
     ]
   },
   "activity-bookmarks": {
-    "hash": "activity-bookmarks",
     "displayProperties": {
       "name": "Preferiti",
       "description": "Attività che hai aggiunto ai tuoi preferiti"
@@ -198,7 +186,6 @@
     ]
   },
   "activity-series": {
-    "hash": "activity-series",
     "displayProperties": {
       "name": "Serie",
       "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari"
@@ -206,6 +193,7 @@
     "keywords": [
       "riepiloghi",
       "pgcr",
+      "stats",
       "incursioni",
       "settori perduti",
       "cala la notte",
@@ -213,42 +201,36 @@
       "squadre",
       "giorno 1",
       "modalità contesa",
-      "completati",
-      "completate",
+      "completat",
       "impeccabile",
       "partite"
     ]
   },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "Impostazioni",
       "description": "Account, tema, dati locali, visibilità, lingua, sviluppatore e risoluzione problemi"
     }
   },
   "legend": {
-    "hash": "legend",
     "displayProperties": {
-      "name": "Leggende",
+      "name": "Leggenda",
       "description": "La vita e la morte sono gli strumenti dei bugiardi. Tessi la tua propria bugia. Mostra questo riepilogo con orgoglio davanti ai tuoi amici e nemici."
     }
   },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "Confronta",
       "description": "Scontrati testa a testa con altri Guardani per vanto"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "Archivi",
       "description": "Strumenti interattivi, manuali, leggende e altro contenuto preservato dai Criptarchi per le generazioni future"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
       "name": "FAQ",
       "description": "Risposte alle domande frequenti preferite di Tom"
@@ -260,7 +242,6 @@
     ]
   },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "Crediti",
       "description": "A proposito dei Guardiani che rendono possibile tutto ciò"

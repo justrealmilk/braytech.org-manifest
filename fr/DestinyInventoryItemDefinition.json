@@ -103,8 +103,8 @@
   },
   "23239861010": {
     "displayProperties": {
-      "description": "Aucune pièce maîtresse actuellement sélectionné.",
-      "name": "Emplacement de pièce maîtresse vide"
+      "name": "Emplacement de pièce maîtresse vide",
+      "description": "Aucune pièce maîtresse actuellement sélectionné."
     },
     "itemTypeDisplayName": "Mod de marchand",
     "inventory": {
