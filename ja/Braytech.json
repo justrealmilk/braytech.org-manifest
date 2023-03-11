@@ -302,7 +302,7 @@
       "description": "すべての道のりは永遠に挑戦できるものではありません。これらのレコードは、急いで達成しないと永遠に取得できるチャンスはありません。"
     }
   },
-  "sub-triumphs-seasonal-challenges": {
+  "sub-weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンの挑戦",
       "description": "期間限定の課題をクリアして、シーズンランクやブライトダストなどの報酬を手に入れましょう"
@@ -332,7 +332,7 @@
       "description": "ステータストラッカーは、エンブレムのインスペクトビューから適用することができます。適用されたトラッカーは、いつでもネームプレートに表示されます。"
     }
   },
-  "sub-triumphs-seasonal-challenges": {
+  "sub-weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンのチャレンジ",
       "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
