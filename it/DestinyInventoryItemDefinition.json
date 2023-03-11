@@ -103,8 +103,8 @@
   },
   "23239861010": {
     "displayProperties": {
-      "description": "Nessuna prodigio attualmente selezionato.",
-      "name": "Alloggiamento prodigio vuoto"
+      "name": "Alloggiamento prodigio vuoto",
+      "description": "Nessuna prodigio attualmente selezionato."
     },
     "itemTypeDisplayName": "Modifica arma",
     "inventory": {

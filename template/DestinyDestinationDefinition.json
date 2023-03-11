@@ -1,148 +1,180 @@
 {
   "697502628": {
-    "bubbles": [ {
-      "hash": 6975026281,
-      "displayProperties": {
-        "name": "The Farm"
+    "bubbles": [
+      {
+        "hash": 6975026281,
+        "displayProperties": {
+          "name": "The Farm"
+        }
+      },
+      {
+        "hash": 6975026282,
+        "displayProperties": {
+          "name": "Echion Battledeck"
+        }
       }
-    }, {
-      "hash": 6975026282,
-      "displayProperties": {
-        "name": "Echion Battledeck"
-      }
-    } ]
+    ]
   },
   "3607432451": {
-    "bubbles": [ {
-      "hash": 36074324511,
-      "displayProperties": {
-        "name": "The Inverted Spire"
+    "bubbles": [
+      {
+        "hash": 36074324511,
+        "displayProperties": {
+          "name": "The Inverted Spire"
+        }
+      },
+      {
+        "hash": 36074324512,
+        "displayProperties": {
+          "name": "Virgo Conduit"
+        }
+      },
+      {
+        "hash": 36074324513,
+        "displayProperties": {
+          "name": "Well of Dust"
+        }
+      },
+      {
+        "hash": 36074324514,
+        "displayProperties": {
+          "name": "The Fissure"
+        }
+      },
+      {
+        "hash": 36074324515,
+        "displayProperties": {
+          "name": "Well of Stars"
+        }
       }
-    }, {
-      "hash": 36074324512,
-      "displayProperties": {
-        "name": "Virgo Conduit"
-      }
-    }, {
-      "hash": 36074324513,
-      "displayProperties": {
-        "name": "Well of Dust"
-      }
-    }, {
-      "hash": 36074324514,
-      "displayProperties": {
-        "name": "The Fissure"
-      }
-    }, {
-      "hash": 36074324515,
-      "displayProperties": {
-        "name": "Well of Stars"
-      }
-    } ]
+    ]
   },
   "3821439926": {
-    "bubbles": [ {
-      "hash": 1519764506,
-      "displayProperties": {
-        "name": "High Plains"
+    "bubbles": [
+      {
+        "hash": 1519764506,
+        "displayProperties": {
+          "name": "High Plains"
+        }
+      },
+      {
+        "hash": 3598542751,
+        "displayProperties": {
+          "name": "Sjursrest"
+        }
       }
-    }, {
-      "hash": 3598542751,
-      "displayProperties": {
-        "name": "Sjursrest"
-      }
-    } ]
+    ]
   },
   "1416096592": {
-    "bubbles": [ {
-      "hash": 27792021731,
-      "displayProperties": {
-        "name": "The Confluence"
+    "bubbles": [
+      {
+        "hash": 27792021731,
+        "displayProperties": {
+          "name": "The Confluence"
+        }
+      },
+      {
+        "hash": 27792021732,
+        "displayProperties": {
+          "name": "Ouroborea"
+        }
+      },
+      {
+        "hash": 27792021733,
+        "displayProperties": {
+          "name": "Forfeit Shrine"
+        }
+      },
+      {
+        "hash": 27792021734,
+        "displayProperties": {
+          "name": "Shattered Ruins"
+        }
+      },
+      {
+        "hash": 27792021735,
+        "displayProperties": {
+          "name": "Keep of Honed Edges"
+        }
+      },
+      {
+        "hash": 27792021736,
+        "displayProperties": {
+          "name": "Agonarch Abyss"
+        }
+      },
+      {
+        "hash": 27792021737,
+        "displayProperties": {
+          "name": "Cimmerian Garrison"
+        }
+      },
+      {
+        "hash": 27792021738,
+        "displayProperties": {
+          "name": "Ascendant Plane"
+        }
+      },
+      {
+        "hash": 27792021739,
+        "displayProperties": {
+          "name": "Queen's Court"
+        }
+      },
+      {
+        "hash": 27792021740,
+        "displayProperties": {
+          "name": "The Adytum"
+        }
       }
-    }, {
-      "hash": 27792021732,
-      "displayProperties": {
-        "name": "Ouroborea"
-      }
-    }, {
-      "hash": 27792021733,
-      "displayProperties": {
-        "name": "Forfeit Shrine"
-      }
-    }, {
-      "hash": 27792021734,
-      "displayProperties": {
-        "name": "Shattered Ruins"
-      }
-    }, {
-      "hash": 27792021735,
-      "displayProperties": {
-        "name": "Keep of Honed Edges"
-      }
-    }, {
-      "hash": 27792021736,
-      "displayProperties": {
-        "name": "Agonarch Abyss"
-      }
-    }, {
-      "hash": 27792021737,
-      "displayProperties": {
-        "name": "Cimmerian Garrison"
-      }
-    }, {
-      "hash": 27792021738,
-      "displayProperties": {
-        "name": "Ascendant Plane"
-      }
-    }, {
-      "hash": 27792021739,
-      "displayProperties": {
-        "name": "Queen's Court"
-      }
-    }, {
-      "hash": 27792021740,
-      "displayProperties": {
-        "name": "The Adytum"
-      }
-    } ]
+    ]
   },
   "677774031": {
-    "bubbles": [ {
-      "hash": 2904442601,
-      "displayProperties": {
-        "name": "Necropolis"
+    "bubbles": [
+      {
+        "hash": 2904442601,
+        "displayProperties": {
+          "name": "Necropolis"
+        }
+      },
+      {
+        "hash": 2904442602,
+        "displayProperties": {
+          "name": "Tunnels of Despair"
+        }
+      },
+      {
+        "hash": 2904442603,
+        "displayProperties": {
+          "name": "Chamber of Suffering"
+        }
+      },
+      {
+        "hash": 2904442604,
+        "displayProperties": {
+          "name": "The Harrow"
+        }
       }
-    }, {
-      "hash": 2904442602,
-      "displayProperties": {
-        "name": "Tunnels of Despair"
-      }
-    }, {
-      "hash": 2904442603,
-      "displayProperties": {
-        "name": "Chamber of Suffering"
-      }
-    }, {
-      "hash": 2904442604,
-      "displayProperties": {
-        "name": "The Harrow"
-      }
-    } ]
+    ]
   },
   "1729879943": {
-    "bubbles": [ {
-      "hash": 29123498281,
-      "displayProperties": {
-        "name": "Riis-Reborn"
+    "bubbles": [
+      {
+        "hash": 29123498281,
+        "displayProperties": {
+          "name": "Riis-Reborn"
+        }
       }
-    } ]
+    ]
   },
   "3990611421": {
-    "bubbles": [ {
-      "hash": 14321453961,
-      "displayProperties": {
-        "name": "Terrestrial Complex"
+    "bubbles": [
+      {
+        "hash": 14321453961,
+        "displayProperties": {
+          "name": "Terrestrial Complex"
+        }
       }
-    } ]
+    ]
   }
 }

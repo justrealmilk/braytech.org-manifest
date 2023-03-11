@@ -1,8 +1,11 @@
 {
   "363696145": {
+    "displayProperties": {
+      "name": "Leggende: Perduti sulla Luna"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Frammento di spettro"
     },
     "progressDescription": "Frammenti di spettro recuperati"
   },
@@ -137,9 +140,12 @@
     "progressDescription": "Falene collezionate"
   },
   "4108857026": {
+    "displayProperties": {
+      "name": "Leggende: L'inquisizione dei dannati"
+    },
     "entry": {
       "prefix": "",
-      "name": ""
+      "name": "Cifrario necrotico"
     },
     "progressDescription": "Cifrari necrotici ottenuti"
   }
