@@ -1,44 +1,48 @@
 {
   "1": {
+    "hash": 1,
+    "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence West",
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
     "screenshot": "/static/images/screenshots/portals/portal_1.jpg"
   },
   "2": {
+    "hash": 2,
+    "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence East",
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
     "screenshot": "/static/images/screenshots/portals/portal_2.jpg"
   },
   "3": {
+    "hash": 3,
+    "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence South",
       "description": "A portal to _The Confluence_, powered by paracasual energies.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/portals/portal_3.jpg"
   },
   "4": {
+    "hash": 4,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Ouroborea",
       "description": "Destroy all blights then return to the foyer to shatter the previously-immune Void crystals.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-1.jpg",
@@ -64,12 +68,13 @@
     }
   },
   "5": {
+    "hash": 5,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Ouroborea",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
     "map": {
@@ -78,12 +83,13 @@
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
   },
   "6": {
+    "hash": 6,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Forfeit Shrine",
       "description": "Subdue the major blight by depositing all three charges beneath. Eliminate the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-1.jpg",
@@ -109,23 +115,25 @@
     }
   },
   "7": {
+    "hash": 7,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Forfeit Shrine",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-2.jpg"
   },
   "8": {
+    "hash": 8,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Shattered Ruins",
       "description": "Climb the ruins and eliminate the Taken Phalanx.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-1.jpg",
@@ -148,23 +156,25 @@
     }
   },
   "9": {
+    "hash": 9,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Shattered Ruins",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-2.jpg"
   },
   "10": {
+    "hash": 10,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Keep of Honed Edges",
       "description": "Eliminate the Hive Wizards, raise a sword, and defeat the Hive Knights.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "related": {
@@ -190,23 +200,25 @@
     }
   },
   "11": {
+    "hash": 11,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Keep of Honed Edges",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-2.jpg"
   },
   "12": {
+    "hash": 12,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Agonarch Abyss",
       "description": "Reach the bottom and eliminate the Taken Wizards.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "related": {
@@ -232,12 +244,13 @@
     }
   },
   "13": {
+    "hash": 13,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Agonarch Abyss",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
     "map": {
@@ -246,12 +259,13 @@
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
   },
   "14": {
+    "hash": 14,
+    "nodeType": 2,
     "displayProperties": {
       "name": "Cimmerian Garrison",
       "description": "This challenge culminates in a fight between the Guardian, a Hive Knight, and three Hive Shriekers, on a spacious platform with various cover from enemy fire.\n\n_Accept this challenge, walk between worlds, and undo what has been done._",
       "icon": "ascendant-challenge"
     },
-    "typeHash": 2,
     "destinationHash": 1416096592,
     "bubbleHash": 27792021738,
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-1.jpg",
@@ -274,12 +288,13 @@
     }
   },
   "15": {
+    "hash": 15,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Cimmerian Garrison",
       "description": "A portal to the _Ascendant Plane_.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
     "map": {
@@ -288,11 +303,12 @@
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
   },
   "16": {
+    "hash": 16,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Xortal, Sworn of Crota",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 417490937,
     "activityLightLevel": 980,
@@ -312,11 +328,12 @@
     "screenshot": "/static/images/screenshots/enemies/sorrows-harbor_patrol-boss_nightmareXortal.jpg"
   },
   "17": {
+    "hash": 17,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Horkis, Fear of Mithrax",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 4025450777,
     "activityLightLevel": 980,
@@ -336,11 +353,12 @@
     "screenshot": "/static/images/screenshots/enemies/anchor-of-light_patrol-boss_nightmareHorkis.jpg"
   },
   "18": {
+    "hash": 18,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Jaxx, Claw of Xivu Arath",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 4195493657,
     "activityLightLevel": 980,
@@ -360,11 +378,12 @@
     "screenshot": "/static/images/screenshots/enemies/hellmouth_patrol-boss_nightmareJaxx.jpg"
   },
   "19": {
+    "hash": 19,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Fallen Council",
       "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 3326367698,
     "activityLightLevel": 980,
@@ -384,101 +403,180 @@
     "screenshot": "/static/images/screenshots/enemies/archers-line_patrol-boss_nightmareFallenCouncil.jpg"
   },
   "20": {
+    "hash": 20,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3156467474,
     "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts_region-chests_10.jpg"
   },
   "21": {
+    "hash": 21,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2473593253,
     "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts_region-chests_11.jpg"
   },
   "22": {
+    "hash": 22,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 505173108,
     "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts-505173108.jpg"
   },
   "23": {
+    "hash": 23,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3557288846,
     "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3557288846.jpg"
   },
   "24": {
+    "hash": 24,
     "displayProperties": {
+      "name": "",
       "description": "Up on the cliff, overlooking Winding Cove, near where Xûr sometimes appears."
     },
     "checklistHash": 3658842337,
     "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3658842337.jpg"
   },
   "25": {
+    "hash": 25,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1116639056,
     "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-1116639056.jpg"
   },
   "26": {
+    "hash": 26,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 72017611,
     "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-72017611.jpg"
   },
   "27": {
+    "hash": 27,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3212130160,
     "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-3212130160.jpg"
   },
   "28": {
+    "hash": 28,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 97796737,
     "screenshot": "/static/images/screenshots/checklists/region-chests/firebase-hades-97796737.jpg"
   },
   "29": {
+    "hash": 29,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 113362963,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-113362963.jpg"
   },
   "30": {
+    "hash": 30,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2355206132,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-2355206132.jpg"
   },
   "31": {
+    "hash": 31,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 28658981,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-28658981.jpg"
   },
   "32": {
+    "hash": 32,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2482079866,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-2482079866.jpg"
   },
   "33": {
+    "hash": 33,
     "displayProperties": {
+      "name": "",
       "description": "Left of the lost sector's entrance, poorly lit, behind some crates."
     },
     "checklistHash": 576743835,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-576743835.jpg"
   },
   "34": {
+    "hash": 34,
     "displayProperties": {
+      "name": "",
       "description": "Up in the very top left corner, on the rocks."
     },
     "checklistHash": 3307732497,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-3307732497.jpg"
   },
   "35": {
+    "hash": 35,
     "displayProperties": {
+      "name": "",
       "description": "Behind the fast travel landing zone."
     },
     "checklistHash": 823939877,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-823939877.jpg"
   },
   "36": {
+    "hash": 36,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 908643859,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-908643859.jpg"
   },
   "37": {
+    "hash": 37,
     "displayProperties": {
+      "name": "",
       "description": "In the rear of the damaged structure, on the third floor, in a room on the right."
     },
     "checklistHash": 1085712440,
     "screenshot": "/static/images/screenshots/checklists/region-chests/trostland-1085712440.jpg"
   },
   "38": {
+    "hash": 38,
     "displayProperties": {
+      "name": "",
       "description": "Through the waterfall."
     },
     "checklistHash": 589814471,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-589814471.jpg"
   },
   "39": {
+    "hash": 39,
     "displayProperties": {
+      "name": "",
       "description": "Inside the causeway's ceiling."
     },
     "checklistHash": 2503906440,
@@ -493,141 +591,308 @@
     }
   },
   "40": {
+    "hash": 40,
     "displayProperties": {
+      "name": "",
       "description": "Through the rubbled brick wall."
     },
     "checklistHash": 3609559330,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-sludge-3609559330.jpg"
   },
   "41": {
+    "hash": 41,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1956319555,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-1956319555.jpg"
   },
   "42": {
+    "hash": 42,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1375559682,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-1375559682.jpg"
   },
   "43": {
+    "hash": 43,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 387879790,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-387879790.jpg"
   },
   "44": {
+    "hash": 44,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 92809392,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-92809392.jpg"
   },
   "45": {
+    "hash": 45,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1281044779,
     "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-1281044779.jpg"
   },
   "46": {
+    "hash": 46,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2662231509,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-2662231509.jpg"
   },
   "47": {
+    "hash": 47,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1881681731,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-1881681731.jpg"
   },
   "48": {
+    "hash": 48,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1704777267,
     "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-1704777267.jpg"
   },
   "49": {
+    "hash": 49,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2779832084,
     "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-2779832084.jpg"
   },
   "50": {
+    "hash": 50,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4128910789,
     "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-4128910789.jpg"
   },
   "51": {
+    "hash": 51,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2414643433,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-2414643433.jpg"
   },
   "52": {
+    "hash": 52,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4048519991,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-4048519991.jpg"
   },
   "53": {
+    "hash": 53,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 517025716,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glade-of-echoes-517025716.jpg"
   },
   "54": {
+    "hash": 54,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3947020272,
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3947020272.jpg"
   },
   "55": {
+    "hash": 55,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3812883599,
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3812883599.jpg"
   },
   "56": {
+    "hash": 56,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 731133614,
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-731133614.jpg"
   },
   "57": {
+    "hash": 57,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3147488613,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3147488613.jpg"
   },
   "58": {
+    "hash": 58,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3364328658,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3364328658.jpg"
   },
   "59": {
+    "hash": 59,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2448388435,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-2448388435.jpg"
   },
   "60": {
+    "hash": 60,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2499619401,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-2499619401.jpg"
   },
   "61": {
+    "hash": 61,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 340933878,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-340933878.jpg"
   },
   "62": {
+    "hash": 62,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 74989591,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-74989591.jpg"
   },
   "63": {
+    "hash": 63,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 204962005,
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-204962005.jpg"
   },
   "64": {
+    "hash": 64,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3138619650,
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3138619650.jpg"
   },
   "65": {
+    "hash": 65,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3719379523,
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3719379523.jpg"
   },
   "66": {
+    "hash": 66,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2777193860,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/whispered-falls-2777193860.jpg"
   },
   "67": {
+    "hash": 67,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3240560483,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-drain-3240560483.jpg"
   },
   "68": {
+    "hash": 68,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3402131234,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/scavengers-den-3402131234.jpg"
   },
   "69": {
+    "hash": 69,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 815928620,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-weep-815928620.jpg"
   },
   "70": {
+    "hash": 70,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4091723403,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-pit-4091723403.jpg"
   },
   "71": {
+    "hash": 71,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2554253964,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/pathfinders-crash-2554253964.jpg"
   },
   "72": {
+    "hash": 72,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3850160541,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/excavation-site-xii-3850160541.jpg"
   },
   "73": {
+    "hash": 73,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1850051473,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/flooded-chasm-1850051473-3854937584.jpg",
     "extended": {
@@ -644,102 +909,227 @@
     }
   },
   "74": {
+    "hash": 74,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1505712119,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/skydock-iv-1505712119.jpg"
   },
   "75": {
+    "hash": 75,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 245987256,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-quarry-245987256.jpg"
   },
   "76": {
+    "hash": 76,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 526088259,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/atrium-526088259.jpg"
   },
   "77": {
+    "hash": 77,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2954440164,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/terminus-east-2954440164.jpg"
   },
   "78": {
+    "hash": 78,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1306638037,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/widows-walk-1306638037.jpg"
   },
   "79": {
+    "hash": 79,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 874424041,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/cavern-of-souls-874424041.jpg"
   },
   "80": {
+    "hash": 80,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3010602390,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/hallowed-grove-3010602390.jpg"
   },
   "81": {
+    "hash": 81,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2508300599,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/shaft-13-2508300599.jpg"
   },
   "82": {
+    "hash": 82,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1719798656,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/methane-flush-1719798656.jpg"
   },
   "83": {
+    "hash": 83,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3267113018,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/ds-quarters-2-3267113018.jpg"
   },
   "84": {
+    "hash": 84,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3359286509,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/cargo-bay-3-3359286509.jpg"
   },
   "85": {
+    "hash": 85,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2485656913,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-rift-2485656913.jpg"
   },
   "86": {
+    "hash": 86,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2248063191,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-conflux-2248063191.jpg"
   },
   "87": {
+    "hash": 87,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2069372641,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-orrery-2069372641.jpg"
   },
   "88": {
+    "hash": 88,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2806770339,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-carrion-pit-2806770339.jpg"
   },
   "89": {
+    "hash": 89,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3107552723,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/pariahs-refuge-3107552723.jpg"
   },
   "90": {
+    "hash": 90,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3205937151,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/core-terminus-3205937151.jpg"
   },
   "91": {
+    "hash": 91,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2025886454,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/maadim-subterrane-2025886454.jpg"
   },
   "92": {
+    "hash": 92,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 486022069,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphelions-rest-486022069.jpg"
   },
   "93": {
+    "hash": 93,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 97924869,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/chamber-of-starlight-97924869.jpg"
   },
   "94": {
+    "hash": 94,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1949102307,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-logistics-1949102307.jpg"
   },
   "95": {
+    "hash": 95,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4102839450,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-revelation-4102839450.jpg"
   },
   "96": {
+    "hash": 96,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3978091702,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-crew-quarters-3978091702.jpg"
   },
   "97": {
+    "hash": 97,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2955806106,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/k1-communion-2955806106.jpg"
   },
   "98": {
+    "hash": 98,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1629596387,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/cadmus-ridge-1629596387.jpg",
     "extended": {
@@ -747,6 +1137,11 @@
     }
   },
   "99": {
+    "hash": 99,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 271815222,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/well-of-infinitude-271815222.jpg",
     "extended": {
@@ -754,6 +1149,11 @@
     }
   },
   "100": {
+    "hash": 100,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/asterion-abyss-2677830030.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -767,6 +1167,11 @@
     "checklistHash": 2677830030
   },
   "101": {
+    "hash": 101,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/concealed-void-523132396.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -780,6 +1185,11 @@
     "checklistHash": 523132396
   },
   "102": {
+    "hash": 102,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/cadmus-ridge-2927552589.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws"
@@ -787,6 +1197,11 @@
     "checklistHash": 2927552589
   },
   "103": {
+    "hash": 103,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/eventide-ruins-3482887819.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -800,6 +1215,11 @@
     "checklistHash": 3482887819
   },
   "104": {
+    "hash": 104,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/bunker-e15-2679813844.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -813,6 +1233,11 @@
     "checklistHash": 2679813844
   },
   "105": {
+    "hash": 105,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/riis-reborn-approach-3527611025.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -826,6 +1251,11 @@
     "checklistHash": 3527611025
   },
   "106": {
+    "hash": 106,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/kells-rising-951414128.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -839,6 +1269,11 @@
     "checklistHash": 951414128
   },
   "107": {
+    "hash": 107,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/technocrats-iron-1217064983.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -852,6 +1287,11 @@
     "checklistHash": 1217064983
   },
   "108": {
+    "hash": 108,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/creation-1146417010.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=ZNZfbgoCgz4",
@@ -865,16 +1305,23 @@
     "checklistHash": 1146417010
   },
   "109": {
-    "checklistHash": 3880966469,
-    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
+    "hash": 109,
     "displayProperties": {
+      "name": "",
       "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
     },
+    "checklistHash": 3880966469,
+    "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
     }
   },
   "110": {
+    "hash": 110,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1287812596,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/asterion-abyss-1287812596.jpg",
     "extended": {
@@ -882,6 +1329,11 @@
     }
   },
   "111": {
+    "hash": 111,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2578791723,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/cadmus-ridge-2578791723.jpg",
     "extended": {
@@ -889,6 +1341,11 @@
     }
   },
   "112": {
+    "hash": 112,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1291596818,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/well-of-infinitude-1291596818.jpg",
     "extended": {
@@ -902,6 +1359,11 @@
     }
   },
   "113": {
+    "hash": 113,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2717332017,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/bray-exoscience-2717332017.jpg",
     "extended": {
@@ -909,6 +1371,11 @@
     }
   },
   "114": {
+    "hash": 114,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3854379920,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/concealed-void-3854379920.jpg",
     "extended": {
@@ -916,6 +1383,11 @@
     }
   },
   "115": {
+    "hash": 115,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4176343351,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/bunker-e15-4176343351.jpg",
     "extended": {
@@ -929,6 +1401,11 @@
     }
   },
   "116": {
+    "hash": 116,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2039102766,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/perdition-2039102766.jpg",
     "extended": {
@@ -936,6 +1413,11 @@
     }
   },
   "117": {
+    "hash": 117,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3497190125,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/eventide-ruins-3497190125.jpg",
     "extended": {
@@ -943,6 +1425,11 @@
     }
   },
   "118": {
+    "hash": 118,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3239366412,
     "screenshot": "/static/images/screenshots/checklists/dead-exos/creation-3239366412.jpg",
     "extended": {
@@ -956,53 +1443,110 @@
     }
   },
   "119": {
+    "hash": 119,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1390564489,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/perdition-1390564489.jpg"
   },
   "120": {
+    "hash": 120,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4185289787,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/exodus-garden-2a-4185289787.jpg"
   },
   "121": {
+    "hash": 121,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2980991787,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/veles-labyrinth-2980991787.jpg"
   },
   "122": {
+    "hash": 122,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 373734578,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/concealed-void-373734578.jpg"
   },
   "123": {
+    "hash": 123,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3162269612,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/bunker-e15-3162269612.jpg"
   },
   "124": {
+    "hash": 124,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2391303040,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-2391303040.jpg"
   },
   "125": {
+    "hash": 125,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4263661791,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-4263661791.jpg"
   },
   "126": {
+    "hash": 126,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4169219646,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-divide-4169219646.jpg"
   },
   "127": {
-    "checklistHash": 3888342093,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg",
+    "hash": 127,
     "displayProperties": {
+      "name": "",
       "description": "Under the ice."
-    }
+    },
+    "checklistHash": 3888342093,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg"
   },
   "128": {
+    "hash": 128,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 201955226,
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-201955226.jpg"
   },
   "129": {
+    "hash": 129,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 763777083,
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-763777083.jpg"
   },
   "130": {
+    "hash": 130,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2131720755,
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-2131720755.jpg",
     "extended": {
@@ -1015,6 +1559,11 @@
     }
   },
   "131": {
+    "hash": 131,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3206775572,
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-3206775572.jpg",
     "extended": {
@@ -1027,6 +1576,11 @@
     }
   },
   "132": {
+    "hash": 132,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 260886981,
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-260886981.jpg",
     "extended": {
@@ -1039,78 +1593,173 @@
     }
   },
   "133": {
+    "hash": 133,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1636954546,
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-1636954546.jpg"
   },
   "134": {
+    "hash": 134,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 995760197,
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-995760197.jpg"
   },
   "135": {
+    "hash": 135,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3941648788,
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-3941648788.jpg"
   },
   "136": {
+    "hash": 136,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3017060296,
     "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-3017060296.jpg"
   },
   "137": {
+    "hash": 137,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1845401863,
     "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-1845401863.jpg"
   },
   "138": {
+    "hash": 138,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2242541542,
     "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-2242541542.jpg"
   },
   "139": {
+    "hash": 139,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2584781838,
     "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-2584781838.jpg"
   },
   "140": {
+    "hash": 140,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2686335329,
     "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-2686335329.jpg"
   },
   "141": {
+    "hash": 141,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 144132048,
     "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-144132048.jpg"
   },
   "142": {
+    "hash": 142,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2791553137,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2791553137.jpg"
   },
   "143": {
+    "hash": 143,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2537351390,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2537351390.jpg"
   },
   "144": {
+    "hash": 144,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2631896703,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2631896703.jpg"
   },
   "145": {
+    "hash": 145,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2899711728,
     "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-2899711728.jpg"
   },
   "146": {
+    "hash": 146,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2765575055,
     "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-2765575055.jpg"
   },
   "147": {
+    "hash": 147,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3978792366,
     "screenshot": "/static/images/screenshots/checklists/region-chests/forgotten-shore-3978792366.jpg"
   },
   "148": {
+    "hash": 148,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3420140384,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/bray-exoscience-3420140384.jpg"
   },
   "149": {
+    "hash": 149,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3890313479,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/asterion-abyss-3890313479.jpg"
   },
   "150": {
+    "hash": 150,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 290570570,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/riis-reborn-approach-290570570.jpg"
   },
   "151": {
+    "hash": 151,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3254863625,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/nexus-3254863625.jpg",
     "extended": {
@@ -1118,6 +1767,11 @@
     }
   },
   "152": {
+    "hash": 152,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1313979588,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/kells-rising-1313979588.jpg",
     "extended": {
@@ -1130,6 +1784,11 @@
     }
   },
   "153": {
+    "hash": 153,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1610085355,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eternity-1610085355.jpg",
     "extended": {
@@ -1137,151 +1796,317 @@
     }
   },
   "154": {
+    "hash": 154,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002001,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002001.jpg"
   },
   "155": {
+    "hash": 155,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002002,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002002.jpg"
   },
   "156": {
+    "hash": 156,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002003,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002003.jpg"
   },
   "157": {
+    "hash": 157,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002004,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002004.jpg"
   },
   "158": {
+    "hash": 158,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002005,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002005.jpg"
   },
   "159": {
+    "hash": 159,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002006,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002006.jpg"
   },
   "160": {
+    "hash": 160,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002007,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002007.jpg"
   },
   "161": {
+    "hash": 161,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002008,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002008.jpg"
   },
   "162": {
+    "hash": 162,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002009,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002009.jpg"
   },
   "163": {
+    "hash": 163,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002010,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002010.jpg"
   },
   "164": {
+    "hash": 164,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002011,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002011.jpg"
   },
   "165": {
+    "hash": 165,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002012,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002012.jpg"
   },
   "166": {
+    "hash": 166,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002013,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002013.jpg"
   },
   "167": {
+    "hash": 167,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002014,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002014.jpg"
   },
   "168": {
+    "hash": 168,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002015,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002015.jpg"
   },
   "169": {
+    "hash": 169,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002016,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002016.jpg"
   },
   "170": {
+    "hash": 170,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002017,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002017.jpg"
   },
   "171": {
+    "hash": 171,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002018,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002018.jpg"
   },
   "172": {
+    "hash": 172,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002019,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002019.jpg"
   },
   "173": {
+    "hash": 173,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002020,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002020.jpg"
   },
   "174": {
+    "hash": 174,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002021,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002021.jpg"
   },
   "175": {
+    "hash": 175,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002022,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002022.jpg"
   },
   "176": {
+    "hash": 176,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002023,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002023.jpg"
   },
   "177": {
+    "hash": 177,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1000002024,
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002024.jpg"
   },
   "178": {
+    "hash": 178,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4062796495,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg"
   },
   "179": {
+    "hash": 179,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 269847098,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/hellmouth-269847098.jpg"
   },
   "180": {
+    "hash": 180,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 957600697,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg"
   },
   "181": {
+    "hash": 181,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2293092716,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg"
   },
   "182": {
+    "hash": 182,
     "displayProperties": {
+      "name": "",
       "description": "After completing the sector, proceed to the exit and find the subject on the way out."
     },
     "checklistHash": 2779900411,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg"
   },
   "183": {
+    "hash": 183,
     "displayProperties": {
+      "name": "",
       "description": "Requires a Firewall Data Fragment. Acquire prerequisite through Eris Morn."
     },
     "checklistHash": 3728157446,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg"
   },
   "184": {
+    "hash": 184,
     "displayProperties": {
+      "name": "",
       "description": "Entering the _Circle of Bones_ via The _Gatehouse_, turn right and proceed to follow the loop around the _Hellmouth_. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
     },
     "checklistHash": 3977481189,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
   },
   "185": {
+    "hash": 185,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1568227000,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
   },
   "186": {
+    "hash": 186,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2115406343,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg"
   },
   "187": {
+    "hash": 187,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4180769175,
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-4180769175.jpg"
   },
   "188": {
+    "hash": 188,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1476218840,
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-1476218840.jpg",
     "extended": {
@@ -1294,10 +2119,20 @@
     }
   },
   "189": {
+    "hash": 189,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2310431689,
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-2310431689.jpg"
   },
   "190": {
+    "hash": 190,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 36550832,
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-36550832.jpg",
     "extended": {
@@ -1310,6 +2145,11 @@
     }
   },
   "191": {
+    "hash": 191,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3879405391,
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-3879405391.jpg",
     "extended": {
@@ -1322,6 +2162,11 @@
     }
   },
   "192": {
+    "hash": 192,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 331621230,
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-331621230.jpg",
     "extended": {
@@ -1334,6 +2179,11 @@
     }
   },
   "193": {
+    "hash": 193,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2506158573,
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2506158573.jpg",
     "extended": {
@@ -1346,10 +2196,20 @@
     }
   },
   "194": {
+    "hash": 194,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2413985082,
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2413985082.jpg"
   },
   "195": {
+    "hash": 195,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 826419291,
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-826419291.jpg",
     "extended": {
@@ -1362,18 +2222,38 @@
     }
   },
   "196": {
+    "hash": 196,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 37242594,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/metamorphosis-37242594.jpg"
   },
   "197": {
+    "hash": 197,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2946946913,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/sepulcher-2946946913.jpg"
   },
   "198": {
+    "hash": 198,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3423978360,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/extraction-3423978360.jpg"
   },
   "199": {
+    "hash": 199,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2904405255,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/quagmire-2904405255.jpg",
     "extended": {
@@ -1381,42 +2261,92 @@
     }
   },
   "200": {
+    "hash": 200,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4212118078,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.i-of-tattered-blood-and-broken-bone-4212118078.jpg"
   },
   "201": {
+    "hash": 201,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590407,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.ii-of-tattered-blood-and-broken-bone-4251590407.jpg"
   },
   "202": {
+    "hash": 202,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590404,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iii-of-tattered-blood-and-broken-bone-4251590404.jpg"
   },
   "203": {
+    "hash": 203,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590405,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iv-of-tattered-blood-and-broken-bone-4251590405.jpg"
   },
   "204": {
+    "hash": 204,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590402,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ii-an-audience-with-slaughter-4251590402.jpg"
   },
   "205": {
+    "hash": 205,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590403,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iii-ritualistic-circle-pit-4251590403.jpg"
   },
   "206": {
+    "hash": 206,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590400,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iv-blood-sport-4251590400.jpg"
   },
   "207": {
+    "hash": 207,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590401,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/v-a-sinister-plot-4251590401.jpg"
   },
   "208": {
+    "hash": 208,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590414,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vi-blood-sport-4251590414.jpg"
   },
   "209": {
+    "hash": 209,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4251590415,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vii-the-severed-and-the-unmade-4251590415.jpg",
     "extended": {
@@ -1429,61 +2359,101 @@
     }
   },
   "210": {
+    "hash": 210,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4111390773,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii-a-sacrifice-of-self-4111390773.jpg"
   },
   "211": {
+    "hash": 211,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4111390772,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.i-the-unmaking-4111390772.jpg"
   },
   "212": {
+    "hash": 212,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4111390775,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.ii-the-unmaking-4111390775.jpg"
   },
   "213": {
+    "hash": 213,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4111390774,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/x-faith-in-bone-4111390774.jpg"
   },
   "214": {
+    "hash": 214,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4111390769,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi-the-anti-logic-4111390769.jpg"
   },
   "215": {
+    "hash": 215,
     "displayProperties": {
+      "name": "",
       "description": "Enter the dungeon and head to the tower farthest right. Retain some altitude if possible. On the farthest side of the farthest tower, below its foot, is a cypher."
     },
     "recordHash": 4111390768,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg"
   },
   "216": {
+    "hash": 216,
     "displayProperties": {
+      "name": "",
       "description": "Complete the _Necropolis_ encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
     },
     "recordHash": 4111390771,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg"
   },
   "217": {
+    "hash": 217,
     "displayProperties": {
+      "name": "",
       "description": "Complete the _Chamber of Suffering_ encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
     },
     "recordHash": 4111390770,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg"
   },
   "218": {
+    "hash": 218,
     "displayProperties": {
+      "name": "",
       "description": "Drop down into the _Tunnels of Despair_ and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
     },
     "recordHash": 4111390781,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg"
   },
   "219": {
+    "hash": 219,
     "displayProperties": {
+      "name": "",
       "description": "In the middlest crouch-way tunnel, closest to the green gas pit where you find the solar orb. Entering the tunnel from the green gas pit side, it will quickly widen into a small room. Stop, turn 180°, and look upwards."
     },
     "recordHash": 4111390780,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi.x-apocrypha-4111390780.jpg"
   },
   "220": {
+    "hash": 220,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 3390078235,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-gunnvors-ghost-3390078235.jpg",
     "related": {
@@ -1495,6 +2465,11 @@
     }
   },
   "221": {
+    "hash": 221,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949218,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-sai-motas-ghost-4292949218.jpg",
     "related": {
@@ -1506,6 +2481,11 @@
     }
   },
   "222": {
+    "hash": 222,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949217,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-gimble-4s-ghost-4292949217.jpg",
     "related": {
@@ -1517,7 +2497,9 @@
     }
   },
   "223": {
+    "hash": 223,
     "displayProperties": {
+      "name": "",
       "description": "Enter _The Gatehouse_ via _Hellmouth_ and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
     },
     "recordHash": 4292949216,
@@ -1531,6 +2513,11 @@
     }
   },
   "224": {
+    "hash": 224,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949223,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-tolands-ghost-4292949223.jpg",
     "related": {
@@ -1542,7 +2529,9 @@
     }
   },
   "225": {
+    "hash": 225,
     "displayProperties": {
+      "name": "",
       "description": "At the side on the hidden side of the pictured module."
     },
     "recordHash": 4292949222,
@@ -1556,6 +2545,11 @@
     }
   },
   "226": {
+    "hash": 226,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949221,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-lonesome-ghost-4292949221.jpg",
     "related": {
@@ -1567,7 +2561,9 @@
     }
   },
   "227": {
+    "hash": 227,
     "displayProperties": {
+      "name": "",
       "description": "In the _Tunnels of Despair_, on a cliff ledge adjacent to the green gas pit."
     },
     "recordHash": 4292949220,
@@ -1581,6 +2577,11 @@
     }
   },
   "228": {
+    "hash": 228,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949227,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-eriana-3s-ghost-4292949227.jpg",
     "related": {
@@ -1592,6 +2593,11 @@
     }
   },
   "229": {
+    "hash": 229,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "recordHash": 4292949226,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-vell-tarlowes-ghost-4292949226.jpg",
     "related": {
@@ -1603,71 +2609,141 @@
     }
   },
   "230": {
+    "hash": 230,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1735426333,
     "bubbleHash": 1461622515,
     "screenshot": "/static/images/screenshots/vendors/vendors_ana-bray-2.jpg"
   },
   "231": {
+    "hash": 231,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 2398407866,
     "bubbleHash": 2822410613,
     "screenshot": "/static/images/screenshots/vendors/vendors_brother-vance-2.jpg"
   },
   "232": {
+    "hash": 232,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 396892126,
     "bubbleHash": 3091570009,
     "screenshot": "/static/images/screenshots/vendors/vendors_devrim-kay-2.jpg"
   },
   "233": {
+    "hash": 233,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1576276905,
     "bubbleHash": 4205285323,
     "screenshot": "/static/images/screenshots/vendors/vendors_failsafe-2.jpg"
   },
   "234": {
+    "hash": 234,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1062861569,
     "bubbleHash": 4035573696,
     "screenshot": "/static/images/screenshots/vendors/vendors_sloane-2.jpg"
   },
   "235": {
+    "hash": 235,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1616085565,
     "bubbleHash": 240420607,
     "screenshot": "/static/images/screenshots/vendors/vendors_eris-morn-2.jpg"
   },
   "236": {
+    "hash": 236,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 3411552308,
     "bubbleHash": 240420607,
     "screenshot": "/static/images/screenshots/vendors/vendors_lectern-of-enchantment-2.jpg"
   },
   "237": {
+    "hash": 237,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 3982706173,
     "bubbleHash": 577912749,
     "screenshot": "/static/images/screenshots/vendors/vendors_asher-mir-2.jpg"
   },
   "238": {
+    "hash": 238,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 863940356,
     "bubbleHash": 824533556,
     "screenshot": "/static/images/screenshots/vendors/vendors_spider-2.jpg"
   },
   "239": {
+    "hash": 239,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 4254652401,
     "bubbleHash": 1439553579,
     "screenshot": "/static/images/screenshots/vendors/vendors_stranger-2.jpg"
   },
   "240": {
+    "hash": 240,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 2531198101,
     "bubbleHash": 2724165023,
     "screenshot": "/static/images/screenshots/vendors/vendors_variks-2.jpg"
   },
   "241": {
+    "hash": 241,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1816541247,
     "bubbleHash": 1788937179,
     "screenshot": "/static/images/screenshots/vendors/vendors_shaw-han-2.jpg"
   },
   "242": {
+    "hash": 242,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 3611983588,
     "bubbleHash": 824533556,
     "screenshot": "/static/images/screenshots/vendors/vendors_crow-2.jpg"
   },
   "243": {
+    "hash": 243,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3599629642,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/apothecary-3599629642.jpg",
     "extended": {
@@ -1675,6 +2751,11 @@
     }
   },
   "244": {
+    "hash": 244,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2268955401,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/temple-of-the-cunning-2268955401.jpg",
     "extended": {
@@ -1682,6 +2763,11 @@
     }
   },
   "245": {
+    "hash": 245,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 333170652,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/alluring-curtain-333170652.jpg",
     "extended": {
@@ -1689,26 +2775,56 @@
     }
   },
   "246": {
+    "hash": 246,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2525596425,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/quagmire-2525596425.jpg"
   },
   "247": {
+    "hash": 247,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2914357734,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/florescent-canal-2914357734.jpg"
   },
   "248": {
+    "hash": 248,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2976471567,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/miasma-2976471567.jpg"
   },
   "249": {
+    "hash": 249,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 668304140,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/extraction-668304140.jpg"
   },
   "250": {
+    "hash": 250,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 926127853,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/sepulcher-926127853.jpg"
   },
   "251": {
+    "hash": 251,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1521382762,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/metamorphosis-1521382762.jpg",
     "extended": {
@@ -1716,14 +2832,29 @@
     }
   },
   "252": {
+    "hash": 252,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3538365411,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/altar-of-reflection-3538365411.jpg"
   },
   "253": {
+    "hash": 253,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1283317648,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/queens-bailey-1283317648.jpg"
   },
   "254": {
+    "hash": 254,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 146269745,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/temple-of-the-cunning-146269745.jpg",
     "extended": {
@@ -1737,6 +2868,11 @@
     }
   },
   "255": {
+    "hash": 255,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1279404415,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/court-of-thorns-1279404415.jpg",
     "extended": {
@@ -1744,6 +2880,11 @@
     }
   },
   "256": {
+    "hash": 256,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 643688163,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/miasma-643688163.jpg",
     "extended": {
@@ -1756,6 +2897,11 @@
     }
   },
   "257": {
+    "hash": 257,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3580874294,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/temple-of-the-wrathful-3580874294.jpg",
     "extended": {
@@ -1768,7 +2914,9 @@
     }
   },
   "258": {
+    "hash": 258,
     "displayProperties": {
+      "name": "",
       "description": "Accessible via the _Wellspring_ offensive."
     },
     "checklistHash": 2895058245,
@@ -1784,7 +2932,9 @@
     }
   },
   "259": {
+    "hash": 259,
     "displayProperties": {
+      "name": "",
       "description": "Requires _Deepsight_ to reveal."
     },
     "checklistHash": 1903309704,
@@ -1800,7 +2950,9 @@
     }
   },
   "260": {
+    "hash": 260,
     "displayProperties": {
+      "name": "",
       "description": "Accessible via the _Altar of Reflection_ activities."
     },
     "checklistHash": 703052847,
@@ -1810,6 +2962,11 @@
     }
   },
   "261": {
+    "hash": 261,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3466568729,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/florescent-canal-3466568729.jpg",
     "extended": {
@@ -1817,75 +2974,116 @@
     }
   },
   "278": {
+    "hash": 278,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Queen's Court",
       "description": "A portal to _Queen's Court_, Mara Sov's throne world.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
     "screenshot": "/static/images/screenshots/portals/portal_278.jpg"
   },
   "279": {
-    "checklistHash": 1387596458,
-    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
+    "hash": 279,
     "displayProperties": {
+      "name": "",
       "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
     },
+    "checklistHash": 1387596458,
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
     }
   },
   "287": {
+    "hash": 287,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 89704164,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sirens-watch-89704164.jpg"
   },
   "288": {
-    "checklistHash": 463653643,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-463653643.jpg",
+    "hash": 288,
     "displayProperties": {
+      "name": "",
       "description": "Push past the lost sector entry junction and continue along the gangway."
-    }
+    },
+    "checklistHash": 463653643,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rig-463653643.jpg"
   },
   "289": {
+    "hash": 289,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4157158378,
     "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-4157158378.jpg"
   },
   "290": {
+    "hash": 290,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2270250077,
     "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-2270250077.jpg"
   },
   "291": {
+    "hash": 291,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1250639948,
     "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-1250639948.jpg"
   },
   "292": {
-    "checklistHash": 2495538001,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-2495538001.jpg",
+    "hash": 292,
     "displayProperties": {
+      "name": "",
       "description": "Cliff-side, beneath the path which leads to a lost sector."
-    }
+    },
+    "checklistHash": 2495538001,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-2495538001.jpg"
   },
   "293": {
-    "checklistHash": 3644688446,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3644688446.jpg",
+    "hash": 293,
     "displayProperties": {
+      "name": "",
       "description": "On the catwalk."
-    }
+    },
+    "checklistHash": 3644688446,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3644688446.jpg"
   },
   "294": {
+    "hash": 294,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3739130591,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3739130591.jpg"
   },
   "301": {
-    "checklistHash": 2809244994,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg",
+    "hash": 301,
     "displayProperties": {
+      "name": "",
       "description": "Perched upon the midwall of the _Infinite Forest_."
-    }
+    },
+    "checklistHash": 2809244994,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg"
   },
   "302": {
+    "hash": 302,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4084570599,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
     "extended": {
@@ -1894,46 +3092,86 @@
     }
   },
   "303": {
+    "hash": 303,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1353530822,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-1353530822.jpg"
   },
   "306": {
+    "hash": 306,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818871,
     "extended": {
       "video": "https://www.youtube.com/watch?v=YpKny_Yrav8"
     }
   },
   "307": {
+    "hash": 307,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818868,
     "extended": {
       "video": "https://www.youtube.com/watch?v=Dk_fnc9GkDA"
     }
   },
   "308": {
+    "hash": 308,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818869,
     "extended": {
       "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
     }
   },
   "309": {
+    "hash": 309,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818866,
     "extended": {
       "video": "https://www.youtube.com/watch?v=mpU4GjM43OY"
     }
   },
   "310": {
+    "hash": 310,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818867,
     "extended": {
       "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
     }
   },
   "311": {
+    "hash": 311,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818864,
     "extended": {
       "video": "https://www.youtube.com/watch?v=X1_poqtAoNk"
     }
   },
   "312": {
+    "hash": 312,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818865,
     "extended": {
       "video": "https://www.youtube.com/watch?v=-3KkqGbjNko"
@@ -1941,36 +3179,66 @@
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/spine-of-keres-1370818865.jpg"
   },
   "313": {
+    "hash": 313,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818878,
     "extended": {
       "video": "https://www.youtube.com/watch?v=SZ8aUXk89Kg"
     }
   },
   "314": {
+    "hash": 314,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1370818879,
     "extended": {
       "video": "https://www.youtube.com/watch?v=TzwxeqO0dpU"
     }
   },
   "315": {
+    "hash": 315,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596457,
     "extended": {
       "video": "https://www.youtube.com/watch?v=h-aNQy6mTME"
     }
   },
   "316": {
+    "hash": 316,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596456,
     "extended": {
       "video": "https://www.youtube.com/watch?v=5VEcwGEo6mI"
     }
   },
   "317": {
+    "hash": 317,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596459,
     "extended": {
       "video": "https://www.youtube.com/watch?v=VzAFKmZ-EEc"
     }
   },
   "318": {
+    "hash": 318,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596461,
     "extended": {
       "video": "https://www.youtube.com/watch?v=EwLi345-9uY",
@@ -1984,174 +3252,319 @@
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/spine-of-keres-1387596461.jpg"
   },
   "319": {
+    "hash": 319,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596460,
     "extended": {
       "video": "https://youtu.be/f8BtT6lW9nw"
     }
   },
   "320": {
+    "hash": 320,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1387596463,
     "extended": {
       "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8"
     }
   },
   "321": {
+    "hash": 321,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252171,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=50"
     }
   },
   "322": {
+    "hash": 322,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252168,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY"
     }
   },
   "323": {
+    "hash": 323,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252169,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=144"
     }
   },
   "324": {
+    "hash": 324,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252174,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=64"
     }
   },
   "325": {
+    "hash": 325,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252175,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=80"
     }
   },
   "326": {
+    "hash": 326,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252172,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=116"
     }
   },
   "327": {
+    "hash": 327,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252173,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=160"
     }
   },
   "328": {
+    "hash": 328,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252162,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=203"
     }
   },
   "329": {
+    "hash": 329,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1101252163,
     "extended": {
       "video": "https://youtu.be/eihqad70SuY?t=183"
     }
   },
   "330": {
+    "hash": 330,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029885,
     "extended": {
       "video": "https://youtu.be/81XxH2E-RsE?t=9"
     }
   },
   "331": {
+    "hash": 331,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029884,
     "extended": {
       "video": "https://youtu.be/81XxH2E-RsE?t=32"
     }
   },
   "332": {
+    "hash": 332,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029887,
     "extended": {
       "video": "https://youtu.be/81XxH2E-RsE?t=54"
     }
   },
   "333": {
+    "hash": 333,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029886,
     "extended": {
       "video": "https://youtu.be/81XxH2E-RsE?t=87"
     }
   },
   "334": {
+    "hash": 334,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029881,
     "extended": {
       "video": "https://youtu.be/81XxH2E-RsE?t=130"
     }
   },
   "335": {
+    "hash": 335,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696994,
     "extended": {
       "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=49"
     }
   },
   "336": {
+    "hash": 336,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696995,
     "extended": {
       "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=176"
     }
   },
   "337": {
+    "hash": 337,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067697005,
     "extended": {
       "video": "https://youtu.be/W8g0lsmYttk?t=62"
     }
   },
   "338": {
+    "hash": 338,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474583,
     "extended": {
       "video": "https://www.youtube.com/watch?v=W8g0lsmYttk"
     }
   },
   "339": {
+    "hash": 339,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474582,
     "extended": {
       "video": "https://youtu.be/7kLnq__sKPA?t=1m4s"
     }
   },
   "340": {
+    "hash": 340,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474581,
     "extended": {
       "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&feature=youtu.be&t=2m34s"
     }
   },
   "341": {
+    "hash": 341,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474580,
     "extended": {
       "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&t=43"
     }
   },
   "342": {
+    "hash": 342,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474579,
     "extended": {
       "video": "https://youtu.be/UDaLEilK9Xk"
     }
   },
   "343": {
+    "hash": 343,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474578,
     "extended": {
       "video": "https://youtu.be/UDaLEilK9Xk?t=2m33s"
     }
   },
   "344": {
+    "hash": 344,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474577,
     "extended": {
       "video": "https://youtu.be/vrMWYYy0FGI"
     }
   },
   "345": {
+    "hash": 345,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474576,
     "extended": {
       "video": "https://youtu.be/8rK9zkO2Bw0"
     }
   },
   "346": {
+    "hash": 346,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1084474591,
     "extended": {
       "video": "https://youtu.be/HIKuJ8CtnS4"
     }
   },
   "347": {
+    "hash": 347,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 56362725,
     "extended": {
       "video": "https://youtu.be/fhKIfCiFPt8"
@@ -2159,6 +3572,11 @@
     "screenshot": "/static/images/screenshots/checklists/feline-friends/harbingers-seclude-56362725.jpg"
   },
   "348": {
+    "hash": 348,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3629051903,
     "extended": {
       "video": "https://youtu.be/NtCxIwocxik"
@@ -2166,112 +3584,229 @@
     "screenshot": "/static/images/screenshots/checklists/feline-friends/divalian-mists-3629051903.jpg"
   },
   "390": {
+    "hash": 390,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2754290383,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg",
     "extended": {}
   },
   "391": {
+    "hash": 391,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4069164097,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg",
     "extended": {}
   },
   "392": {
+    "hash": 392,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3577247371,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg",
     "extended": {}
   },
   "393": {
+    "hash": 393,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2313471548,
     "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg",
     "extended": {}
   },
   "394": {
+    "hash": 394,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2693527578,
     "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg",
     "extended": {}
   },
   "395": {
+    "hash": 395,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2890414560,
     "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg",
     "extended": {}
   },
   "396": {
+    "hash": 396,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2317648357,
     "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg",
     "extended": {}
   },
   "397": {
+    "hash": 397,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3860391092,
     "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg",
     "extended": {}
   },
   "398": {
+    "hash": 398,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3096918071,
     "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg",
     "extended": {}
   },
   "399": {
+    "hash": 399,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4137615299,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg",
     "extended": {}
   },
   "400": {
+    "hash": 400,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2270999908,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg",
     "extended": {}
   },
   "401": {
+    "hash": 401,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3883378312,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg",
     "extended": {}
   },
   "430": {
+    "hash": 430,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1427733666
   },
   "434": {
+    "hash": 434,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2925348591,
     "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-2925348591.jpg"
   },
   "435": {
+    "hash": 435,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3059588176,
     "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-3059588176.jpg"
   },
   "436": {
+    "hash": 436,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 131897336,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-131897336.jpg"
   },
   "437": {
+    "hash": 437,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1295226450,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-1295226450.jpg"
   },
   "438": {
-    "checklistHash": 379286227,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-379286227.jpg",
+    "hash": 438,
     "displayProperties": {
+      "name": "",
       "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
-    }
+    },
+    "checklistHash": 379286227,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-379286227.jpg"
   },
   "439": {
+    "hash": 439,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3128564200,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-3128564200.jpg"
   },
   "443": {
+    "hash": 443,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1965760095,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-1965760095.jpg"
   },
   "444": {
+    "hash": 444,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 93401344,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-93401344.jpg"
   },
   "445": {
+    "hash": 445,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 722167505,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-tangle-722167505.jpg"
   },
   "446": {
+    "hash": 446,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 925785517,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/ancients-haunt-925785517.jpg"
   },
   "456": {
+    "hash": 456,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4143709398,
     "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-4143709398.jpg",
     "extended": {
@@ -2284,10 +3819,20 @@
     }
   },
   "457": {
+    "hash": 457,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2049004329,
     "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-2049004329.jpg"
   },
   "458": {
+    "hash": 458,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1780053523,
     "screenshot": "/static/images/screenshots/checklists/region-chests/watchers-grave-1780053523.jpg",
     "extended": {
@@ -2300,10 +3845,20 @@
     }
   },
   "463": {
+    "hash": 463,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3360907267,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/bay-of-drowned-wishes-3360907267.jpg"
   },
   "464": {
+    "hash": 464,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2700275579,
     "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2700275579.jpg",
     "extended": {
@@ -2311,6 +3866,11 @@
     }
   },
   "465": {
+    "hash": 465,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 633083132,
     "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-633083132.jpg",
     "extended": {
@@ -2318,6 +3878,11 @@
     }
   },
   "466": {
+    "hash": 466,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1105312397,
     "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-1105312397.jpg",
     "extended": {
@@ -2325,6 +3890,11 @@
     }
   },
   "467": {
+    "hash": 467,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2326920926,
     "screenshot": "/static/images/screenshots/checklists/region-chests/divalian-mists-2326920926.jpg",
     "extended": {
@@ -2332,14 +3902,29 @@
     }
   },
   "468": {
+    "hash": 468,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696998,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/divalian-mists-1067696998.jpg"
   },
   "469": {
+    "hash": 469,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696992,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696992.jpg"
   },
   "470": {
+    "hash": 470,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696993,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696993.jpg",
     "extended": {
@@ -2352,10 +3937,20 @@
     }
   },
   "471": {
+    "hash": 471,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2253687296,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/spine-of-keres-2253687296.jpg"
   },
   "472": {
+    "hash": 472,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1159650715,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/spine-of-keres-1159650715.jpg",
     "extended": {
@@ -2368,6 +3963,11 @@
     }
   },
   "473": {
+    "hash": 473,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696996,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/gardens-of-esila-1067696996.jpg",
     "extended": {
@@ -2380,6 +3980,11 @@
     }
   },
   "474": {
+    "hash": 474,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696997,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/gardens-of-esila-1067696997.jpg",
     "extended": {
@@ -2392,10 +3997,20 @@
     }
   },
   "475": {
+    "hash": 475,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2420371297,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/gardens-of-esila-2420371297.jpg"
   },
   "476": {
+    "hash": 476,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3986286066,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg",
     "extended": {
@@ -2403,6 +4018,11 @@
     }
   },
   "477": {
+    "hash": 477,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 216809093,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-216809093.jpg",
     "extended": {
@@ -2410,6 +4030,11 @@
     }
   },
   "478": {
+    "hash": 478,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3162697940,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3162697940.jpg",
     "extended": {
@@ -2423,6 +4048,11 @@
     }
   },
   "479": {
+    "hash": 479,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2357751383,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-2357751383.jpg",
     "extended": {
@@ -2430,6 +4060,11 @@
     }
   },
   "480": {
+    "hash": 480,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2576690974,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/the-strand-2576690974.jpg",
     "extended": {
@@ -2437,6 +4072,11 @@
     }
   },
   "481": {
+    "hash": 481,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1109476065,
     "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1109476065.jpg",
     "extended": {
@@ -2444,6 +4084,11 @@
     }
   },
   "482": {
+    "hash": 482,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1007922574,
     "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-1007922574.jpg",
     "extended": {
@@ -2457,6 +4102,11 @@
     }
   },
   "483": {
+    "hash": 483,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2728000495,
     "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-2728000495.jpg",
     "extended": {
@@ -2470,6 +4120,11 @@
     }
   },
   "484": {
+    "hash": 484,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2013384876,
     "screenshot": "/static/images/screenshots/checklists/region-chests/rheasilvia-2013384876.jpg",
     "extended": {
@@ -2483,6 +4138,11 @@
     }
   },
   "485": {
+    "hash": 485,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029882,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029882.jpg",
     "extended": {
@@ -2495,10 +4155,20 @@
     }
   },
   "486": {
+    "hash": 486,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029877,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029877.jpg"
   },
   "487": {
+    "hash": 487,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1118029876,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/harbingers-seclude-1118029876.jpg",
     "extended": {
@@ -2511,6 +4181,11 @@
     }
   },
   "488": {
+    "hash": 488,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2853314242,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/rheasilvia-2853314242.jpg",
     "extended": {
@@ -2523,74 +4198,164 @@
     }
   },
   "489": {
+    "hash": 489,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4262976548,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/harbingers-seclude-4262976548.jpg"
   },
   "490": {
+    "hash": 490,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3255812950,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/rheasilvia-3255812950.jpg"
   },
   "491": {
+    "hash": 491,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 765357505,
     "screenshot": "/static/images/screenshots/vendors/vendors_saint-14-2.jpg"
   },
   "492": {
+    "hash": 492,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 847545115,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-847545115.jpg"
   },
   "493": {
+    "hash": 493,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3817650588,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-3817650588.jpg"
   },
   "494": {
+    "hash": 494,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3311088557,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-3311088557.jpg"
   },
   "495": {
+    "hash": 495,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1640978814,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-1640978814.jpg"
   },
   "496": {
+    "hash": 496,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 858668439,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-858668439.jpg"
   },
   "497": {
+    "hash": 497,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2449085400,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-2449085400.jpg"
   },
   "498": {
+    "hash": 498,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3283298249,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-3283298249.jpg"
   },
   "499": {
+    "hash": 499,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3612414514,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-3612414514.jpg"
   },
   "500": {
+    "hash": 500,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1997430677,
     "screenshot": "/static/images/screenshots/checklists/region-chests/high-plains-1997430677.jpg"
   },
   "501": {
+    "hash": 501,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 4232901662,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/kingship-dock-4232901662.jpg"
   },
   "502": {
+    "hash": 502,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1616620401,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-empty-tank-1616620401.jpg"
   },
   "503": {
+    "hash": 503,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1134123378,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/trappers-cave-1134123378.jpg"
   },
   "504": {
+    "hash": 504,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 341637691,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cobble-341637691.jpg"
   },
   "505": {
+    "hash": 505,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3694727100,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cobble-3694727100.jpg"
   },
   "506": {
+    "hash": 506,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3649605808,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3649605808.jpg",
     "extended": {
@@ -2603,6 +4368,11 @@
     }
   },
   "507": {
+    "hash": 507,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3197493071,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3197493071.jpg",
     "extended": {
@@ -2615,22 +4385,47 @@
     }
   },
   "508": {
+    "hash": 508,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3944676206,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3944676206.jpg"
   },
   "509": {
+    "hash": 509,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 3778887197,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3778887197.jpg"
   },
   "510": {
+    "hash": 510,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1678213457,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-1678213457.jpg"
   },
   "511": {
+    "hash": 511,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2827363902,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-2827363902.jpg"
   },
   "512": {
+    "hash": 512,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2921806047,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-2921806047.jpg",
     "extended": {
@@ -2643,18 +4438,38 @@
     }
   },
   "513": {
+    "hash": 513,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1875856732,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-1875856732.jpg"
   },
   "514": {
+    "hash": 514,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 592877507,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/shipyard-awo-43-592877507.jpg"
   },
   "515": {
+    "hash": 515,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 2693451640,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/wolfship-turbine-2693451640.jpg"
   },
   "595": {
+    "hash": 595,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "checklistHash": 1067696999,
     "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/spine-of-keres-1067696999.jpg",
     "extended": {
@@ -2667,21 +4482,24 @@
     }
   },
   "596": {
+    "hash": 596,
+    "nodeType": 1,
     "displayProperties": {
       "name": "Salt Mines Cliffs",
       "description": "A portal to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
       "icon": "portal"
     },
-    "typeHash": 1,
     "destinationHash": 697502628,
     "bubbleHash": 3600472775,
     "screenshot": "/static/images/screenshots/portals/portal_596.jpg"
   },
   "597": {
-    "checklistHash": 1000001001,
+    "hash": 597,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001001,
     "related": {
       "quests": [
         {
@@ -2696,10 +4514,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/bray-exoscience-1000001001.jpg"
   },
   "598": {
-    "checklistHash": 1000001002,
+    "hash": 598,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001002,
     "related": {
       "quests": [
         {
@@ -2714,10 +4534,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/bray-exoscience-1000001002.jpg"
   },
   "599": {
-    "checklistHash": 1000001003,
+    "hash": 599,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001003,
     "related": {
       "quests": [
         {
@@ -2732,10 +4554,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/eternity-1000001003.jpg"
   },
   "600": {
-    "checklistHash": 1000001004,
+    "hash": 600,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001004,
     "related": {
       "quests": [
         {
@@ -2753,10 +4577,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/perdition-1000001004.jpg"
   },
   "601": {
-    "checklistHash": 1000001005,
+    "hash": 601,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001005,
     "related": {
       "quests": [
         {
@@ -2771,10 +4597,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/riis-reborn-approach-1000001005.jpg"
   },
   "602": {
-    "checklistHash": 1000001006,
+    "hash": 602,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001006,
     "related": {
       "quests": [
         {
@@ -2789,10 +4617,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/riis-reborn-approach-1000001006.jpg"
   },
   "603": {
-    "checklistHash": 1000001007,
+    "hash": 603,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001007,
     "related": {
       "quests": [
         {
@@ -2807,10 +4637,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/technocrats-iron-1000001007.jpg"
   },
   "604": {
-    "checklistHash": 1000001008,
+    "hash": 604,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001008,
     "related": {
       "quests": [
         {
@@ -2825,10 +4657,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/nexus-1000001008.jpg"
   },
   "605": {
-    "checklistHash": 1000001009,
+    "hash": 605,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001009,
     "related": {
       "quests": [
         {
@@ -2843,10 +4677,12 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001009.jpg"
   },
   "606": {
-    "checklistHash": 1000001010,
+    "hash": 606,
     "displayProperties": {
+      "name": "",
       "description": "Requires  attunement"
     },
+    "checklistHash": 1000001010,
     "related": {
       "quests": [
         {
@@ -2861,738 +4697,940 @@
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001010.jpg"
   },
   "2000000000": {
+    "hash": 2000000000,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Assassination",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000001": {
+    "hash": 2000000001,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Salvage",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000002": {
+    "hash": 2000000002,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Pilgrimage",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000003": {
+    "hash": 2000000003,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Active Duty",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000004": {
+    "hash": 2000000004,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Active Duty",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000005": {
+    "hash": 2000000005,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Salvage",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000006": {
+    "hash": 2000000006,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Assassination",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000007": {
+    "hash": 2000000007,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Pilgrimage",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000008": {
+    "hash": 2000000008,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Assassination",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000009": {
+    "hash": 2000000009,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Active Duty",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000010": {
+    "hash": 2000000010,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Salvage",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000011": {
+    "hash": 2000000011,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Pilgrimage",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000012": {
+    "hash": 2000000012,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Find Toland",
       "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000013": {
+    "hash": 2000000013,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Defeat Combatants",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000014": {
+    "hash": 2000000014,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Hunt the Nightmare of Volniks, Deathkeeper",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000015": {
+    "hash": 2000000015,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Collect Supplies",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000016": {
+    "hash": 2000000016,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Hunt the Nightmare of Talgoth, Soul Smasher",
       "description": "Go to the Gatehouse and take out the Nightmare of Talgoth, Soul Smasher.",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000017": {
+    "hash": 2000000017,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Find Toland",
       "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000018": {
+    "hash": 2000000018,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Collect Supplies",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000019": {
+    "hash": 2000000019,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Hunt the Nightmare of Lambiks-4",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000020": {
+    "hash": 2000000020,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Find Toland",
       "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000021": {
+    "hash": 2000000021,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Collect Supplies",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000022": {
+    "hash": 2000000022,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Defeat Combatants",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000023": {
+    "hash": 2000000023,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Hunt the Nightmare of Val Sinu, Hellbringer",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000024": {
+    "hash": 2000000024,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Find Toland",
       "description": "Seek out Toland to hear his ruminations about the Moon.",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000025": {
+    "hash": 2000000025,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Combat Mission",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000026": {
+    "hash": 2000000026,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000027": {
+    "hash": 2000000027,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000028": {
+    "hash": 2000000028,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Assassination Mission",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000029": {
+    "hash": 2000000029,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Analysis Mission",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000030": {
+    "hash": 2000000030,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000031": {
+    "hash": 2000000031,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000032": {
+    "hash": 2000000032,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000033": {
+    "hash": 2000000033,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000034": {
+    "hash": 2000000034,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Assassination Mission",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000035": {
+    "hash": 2000000035,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Combat Mission",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000036": {
+    "hash": 2000000036,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Analysis Mission",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000037": {
+    "hash": 2000000037,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000038": {
+    "hash": 2000000038,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000039": {
+    "hash": 2000000039,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Assassination Mission",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000040": {
+    "hash": 2000000040,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000041": {
+    "hash": 2000000041,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Combat Mission",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000042": {
+    "hash": 2000000042,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Analysis Mission",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000043": {
+    "hash": 2000000043,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000044": {
+    "hash": 2000000044,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000045": {
+    "hash": 2000000045,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000046": {
+    "hash": 2000000046,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000047": {
+    "hash": 2000000047,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Combat Mission",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000048": {
+    "hash": 2000000048,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Assassination Mission",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000049": {
+    "hash": 2000000049,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Salvage Mission",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000050": {
+    "hash": 2000000050,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Analysis Mission",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000051": {
+    "hash": 2000000051,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000052": {
+    "hash": 2000000052,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Survey mission",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000053": {
+    "hash": 2000000053,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Nothing is Crystal Clear",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000054": {
+    "hash": 2000000054,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Out of Order",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000055": {
+    "hash": 2000000055,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Pools Party",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000056": {
+    "hash": 2000000056,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Thermal Decomposition",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000057": {
+    "hash": 2000000057,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Bathtime",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000058": {
+    "hash": 2000000058,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Cistern Vandals",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000059": {
+    "hash": 2000000059,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Half Empty",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000060": {
+    "hash": 2000000060,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Taking Shelter",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000061": {
+    "hash": 2000000061,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Brave New World",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000062": {
+    "hash": 2000000062,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Binary and Digital",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000063": {
+    "hash": 2000000063,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Having a Ball",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000064": {
+    "hash": 2000000064,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Acoustic Shadow",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000065": {
+    "hash": 2000000065,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Mind Control",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000066": {
+    "hash": 2000000066,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Unilateral Disarmament",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000067": {
+    "hash": 2000000067,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Entanglement",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000068": {
+    "hash": 2000000068,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Tangled Up in Red",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000069": {
+    "hash": 2000000069,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Sifting Through the Tangle",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000070": {
+    "hash": 2000000070,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Spelunking",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000071": {
+    "hash": 2000000071,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Brave to the Grave",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000072": {
+    "hash": 2000000072,
+    "nodeType": 4,
     "displayProperties": {
       "name": "What is This Place?",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000073": {
+    "hash": 2000000073,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Long Way Down",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000074": {
+    "hash": 2000000074,
+    "nodeType": 4,
     "displayProperties": {
       "name": "States of Matter",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000075": {
+    "hash": 2000000075,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Putting Them in Their Graves",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000076": {
+    "hash": 2000000076,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Radiolarian to the Grave",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000077": {
+    "hash": 2000000077,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Not Like This",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000078": {
+    "hash": 2000000078,
+    "nodeType": 4,
     "displayProperties": {
       "name": "The Shapes of Things",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000079": {
+    "hash": 2000000079,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Crimson Canopy",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000080": {
+    "hash": 2000000080,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Watch Your Step",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000081": {
+    "hash": 2000000081,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Artifact Hunting",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000082": {
+    "hash": 2000000082,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Searching High and Low",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000083": {
+    "hash": 2000000083,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Untangling the Situation",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000084": {
+    "hash": 2000000084,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Don't Pass the Torch",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000085": {
+    "hash": 2000000085,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Below Vex",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000086": {
+    "hash": 2000000086,
+    "nodeType": 4,
     "displayProperties": {
       "name": "An Empty Feeling",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000087": {
+    "hash": 2000000087,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Hallows, What's This?",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000088": {
+    "hash": 2000000088,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Pods in the Hallows",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000089": {
+    "hash": 2000000089,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Seeing is Believing",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000090": {
+    "hash": 2000000090,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Watch What Happens",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000091": {
+    "hash": 2000000091,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Ceiling and Ground",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000092": {
+    "hash": 2000000092,
+    "nodeType": 4,
     "displayProperties": {
       "name": "The Point of No Return",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000093": {
+    "hash": 2000000093,
+    "nodeType": 4,
     "displayProperties": {
       "name": "No Survivors",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000094": {
+    "hash": 2000000094,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Fallen, Out of the Sky",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000095": {
+    "hash": 2000000095,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Drained from the Dregs",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000096": {
+    "hash": 2000000096,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Secure Your Mask before Helping Others",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000097": {
+    "hash": 2000000097,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Through the Wreckage",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000098": {
+    "hash": 2000000098,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Soundproofing",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000099": {
+    "hash": 2000000099,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Echoes of What Remains",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000100": {
+    "hash": 2000000100,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Conversion One",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000101": {
+    "hash": 2000000101,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Should the Pool Be Glowing?",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000102": {
+    "hash": 2000000102,
+    "nodeType": 4,
     "displayProperties": {
       "name": "The Crash Site",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000103": {
+    "hash": 2000000103,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Chronicler of History",
       "description": "Retrieve a three-dimensional scan of a pre-collapse sculpture in Maevic Square.",
       "icon": "patrol-analysis"
     },
-    "typeHash": 4,
     "extended": {
       "screenshot": {
         "highlight": {
@@ -3604,20 +5642,22 @@
     "screenshot": "/static/images/screenshots/auxiliary/patrols/2000000103.jpg"
   },
   "2000000104": {
+    "hash": 2000000104,
+    "nodeType": 4,
     "displayProperties": {
       "name": "The Scavenge Beast",
       "description": "Fallen scavenging crews continue to present a problem in Maevic Square. Eliminate their leader to solve the problem.",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000105": {
+    "hash": 2000000105,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Mining Operations",
       "description": "Descend into the mines and search for any still-functioning Golden Age technology.",
       "icon": "patrol-analysis"
     },
-    "typeHash": 4,
     "extended": {
       "screenshot": {
         "highlight": {
@@ -3629,776 +5669,932 @@
     "screenshot": "/static/images/screenshots/auxiliary/patrols/2000000105.jpg"
   },
   "2000000106": {
+    "hash": 2000000106,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Those Don't Belong to You",
       "description": "Defeat Fallen in Trostland and collect the Forgotten Journals they drop.",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000107": {
+    "hash": 2000000107,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Urban Flight",
       "description": "The Fallen are more familiar with terrain in the Outskits than humanity is. Shift that balance.",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000108": {
+    "hash": 2000000108,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Cleaning Up the Streets",
       "description": "Eliminate Dregs in Trostland and recover their Drained Ether Tanks.",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000109": {
+    "hash": 2000000109,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Deep, Dark, and Down",
       "description": "A Fallen Servitor is stripping the cavern walls for minerals. Put a stop to it.",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000110": {
+    "hash": 2000000110,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Not in My Backyard",
       "description": "Defeat enemies in the streets and buildings of this ruined town.",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000111": {
+    "hash": 2000000111,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Back in Town",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000112": {
+    "hash": 2000000112,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Fallen Literacy Rates",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000113": {
+    "hash": 2000000113,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Camping Trip",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000114": {
+    "hash": 2000000114,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Vandal Tanks",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000115": {
+    "hash": 2000000115,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Beachcombing",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000116": {
+    "hash": 2000000116,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Suburban Violence",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000117": {
+    "hash": 2000000117,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Bottle Recycling",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000118": {
+    "hash": 2000000118,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Land Ho",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000119": {
+    "hash": 2000000119,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Other People's Stuff",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000120": {
+    "hash": 2000000120,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Invisible Pollution",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000121": {
+    "hash": 2000000121,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Unsafe for Swimming",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000122": {
+    "hash": 2000000122,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Return to Basics",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000123": {
+    "hash": 2000000123,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Cleaning Up the Beach",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000124": {
+    "hash": 2000000124,
+    "nodeType": 4,
     "displayProperties": {
       "name": "The Hills Have You",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000125": {
+    "hash": 2000000125,
+    "nodeType": 4,
     "displayProperties": {
       "name": "A Shard Act to Follow",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000126": {
+    "hash": 2000000126,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Getting Away from It All",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000127": {
+    "hash": 2000000127,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Brain Oxygenation",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000128": {
+    "hash": 2000000128,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Firebase Fireworks",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000129": {
+    "hash": 2000000129,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Beneath the Surfaces",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000130": {
+    "hash": 2000000130,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Slamfire",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000131": {
+    "hash": 2000000131,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Supply Run",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000132": {
+    "hash": 2000000132,
+    "nodeType": 4,
     "displayProperties": {
       "name": "On the Land As on the Sea",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000133": {
+    "hash": 2000000133,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Sunken Supplies",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000134": {
+    "hash": 2000000134,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Living Under a Rock",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000135": {
+    "hash": 2000000135,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Fire Down Below",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000136": {
+    "hash": 2000000136,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Work Smarter and Harder",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000137": {
+    "hash": 2000000137,
+    "nodeType": 4,
     "displayProperties": {
       "name": "What's in the Box",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000138": {
+    "hash": 2000000138,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Security en Garde",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000139": {
+    "hash": 2000000139,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Paved with Good Intentions",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000140": {
+    "hash": 2000000140,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Claustrophobia",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000141": {
+    "hash": 2000000141,
+    "nodeType": 4,
     "displayProperties": {
       "name": "De-Supplying the Legion",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000142": {
+    "hash": 2000000142,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Underground Fighting",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000143": {
+    "hash": 2000000143,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Something More Refined",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000144": {
+    "hash": 2000000144,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Wetwork",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000145": {
+    "hash": 2000000145,
+    "nodeType": 4,
     "displayProperties": {
       "name": "River Transport",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000146": {
+    "hash": 2000000146,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Only You Can Prevent",
+      "description": "",
       "icon": "patrol-assassination"
-    },
-    "typeHash": 4
+    }
   },
   "2000000147": {
+    "hash": 2000000147,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Everybody in the Pools",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000148": {
+    "hash": 2000000148,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Treehugger",
+      "description": "",
       "icon": "patrol-analysis"
-    },
-    "typeHash": 4
+    }
   },
   "2000000149": {
+    "hash": 2000000149,
+    "nodeType": 4,
     "displayProperties": {
       "name": "This Is For Your Own Goods",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000150": {
+    "hash": 2000000150,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Coasting",
+      "description": "",
       "icon": "patrol-survey"
-    },
-    "typeHash": 4
+    }
   },
   "2000000151": {
+    "hash": 2000000151,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Industrial Warfare",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000152": {
+    "hash": 2000000152,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Environmental Storytelling",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000153": {
+    "hash": 2000000153,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Psion Their Own Supply",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000154": {
+    "hash": 2000000154,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Defeat Combatants",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000155": {
+    "hash": 2000000155,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Defeat Combatants",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000156": {
+    "hash": 2000000156,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Defeat Combatants",
+      "description": "",
       "icon": "patrol-combat"
-    },
-    "typeHash": 4
+    }
   },
   "2000000157": {
+    "hash": 2000000157,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Collect Supplies",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000163": {
+    "hash": 2000000163,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000164": {
+    "hash": 2000000164,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000165": {
+    "hash": 2000000165,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000168": {
+    "hash": 2000000168,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000169": {
+    "hash": 2000000169,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000170": {
+    "hash": 2000000170,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000176": {
+    "hash": 2000000176,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000177": {
+    "hash": 2000000177,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000180": {
+    "hash": 2000000180,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000181": {
+    "hash": 2000000181,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000186": {
+    "hash": 2000000186,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000187": {
+    "hash": 2000000187,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000188": {
+    "hash": 2000000188,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000189": {
+    "hash": 2000000189,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000190": {
+    "hash": 2000000190,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000191": {
+    "hash": 2000000191,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000192": {
+    "hash": 2000000192,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000193": {
+    "hash": 2000000193,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000195": {
+    "hash": 2000000195,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000196": {
+    "hash": 2000000196,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000197": {
+    "hash": 2000000197,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000198": {
+    "hash": 2000000198,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000199": {
+    "hash": 2000000199,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000200": {
+    "hash": 2000000200,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000201": {
+    "hash": 2000000201,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000202": {
+    "hash": 2000000202,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000203": {
+    "hash": 2000000203,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000204": {
+    "hash": 2000000204,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000215": {
+    "hash": 2000000215,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Salvage",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000230": {
+    "hash": 2000000230,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Field Assignment: Salvage",
+      "description": "",
       "icon": "patrol-salvage"
-    },
-    "typeHash": 4
+    }
   },
   "2000000231": {
+    "hash": 2000000231,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000232": {
+    "hash": 2000000232,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000233": {
+    "hash": 2000000233,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000234": {
+    "hash": 2000000234,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000235": {
+    "hash": 2000000235,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000236": {
+    "hash": 2000000236,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000237": {
+    "hash": 2000000237,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000238": {
+    "hash": 2000000238,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000239": {
+    "hash": 2000000239,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000240": {
+    "hash": 2000000240,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000241": {
+    "hash": 2000000241,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000242": {
+    "hash": 2000000242,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000243": {
+    "hash": 2000000243,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000244": {
+    "hash": 2000000244,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000245": {
+    "hash": 2000000245,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000246": {
+    "hash": 2000000246,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000247": {
+    "hash": 2000000247,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000248": {
+    "hash": 2000000248,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000249": {
+    "hash": 2000000249,
+    "nodeType": 4,
     "displayProperties": {
       "name": "Random",
       "description": "This beacon can relay various objectives.",
       "icon": "patrol-random"
-    },
-    "typeHash": 4
+    }
   },
   "2000000250": {
+    "hash": 2000000250,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 2384113223,
     "bubbleHash": 3056690829,
     "screenshot": "/static/images/screenshots/vendors/vendors_fynch-1.jpg"
   },
   "2000000251": {
+    "hash": 2000000251,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Alluring Curtain Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
     },
     "itemTypeDisplayName": "Lucent Executioner",
-    "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 3056690829,
     "related": {
@@ -4416,12 +6612,13 @@
     }
   },
   "2000000252": {
+    "hash": 2000000252,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Queen's Bailey Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
     },
     "itemTypeDisplayName": "Lucent Executioner",
-    "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 409878074,
     "related": {
@@ -4439,12 +6636,13 @@
     }
   },
   "2000000253": {
+    "hash": 2000000253,
+    "nodeType": 3,
     "displayProperties": {
       "name": "Witch's Echo Executioner",
       "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
     },
     "itemTypeDisplayName": "Lucent Executioner",
-    "typeHash": 3,
     "destinationHash": 2244580325,
     "bubbleHash": 3375528975,
     "related": {
@@ -4462,37 +6660,61 @@
     }
   },
   "2000000254": {
+    "hash": 2000000254,
+    "nodeType": 3,
     "displayProperties": {
-      "name": "Nightmare of Zydron, Gate Lord"
+      "name": "Nightmare of Zydron, Gate Lord",
+      "description": ""
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 417490937
   },
   "2000000255": {
+    "hash": 2000000255,
+    "nodeType": 3,
     "displayProperties": {
-      "name": "Nightmare of Phogoth, the Untamed"
+      "name": "Nightmare of Phogoth, the Untamed",
+      "description": ""
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 417490937
   },
   "2000000256": {
+    "hash": 2000000256,
+    "nodeType": 3,
     "displayProperties": {
-      "name": "Nightmare of Taniks, the Scarred"
+      "name": "Nightmare of Taniks, the Scarred",
+      "description": ""
     },
-    "typeHash": 3,
     "destinationHash": 677774031,
     "bubbleHash": 417490937
   },
   "2000000257": {
+    "hash": 2000000257,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1021220385,
     "bubbleHash": 50825255,
     "screenshot": "/static/images/screenshots/vendors/vendors_nimbus-2.jpg"
   },
   "2000000258": {
+    "hash": 2000000258,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
     "vendorHash": 1664326810,
     "bubbleHash": 50825255,
     "screenshot": "/static/images/screenshots/vendors/vendors_quinn-laghari-2.jpg"
+  },
+  "2000000259": {
+    "hash": 2000000259,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Altars of Sorrow",
+      "description": ""
+    }
   }
 }
