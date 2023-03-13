@@ -1,7 +1,7 @@
-import Braytech from '@Data/manifest/ja/Braytech.json';
-import BraytechActivityDifficulty from '@Data/manifest/ja/BraytechActivityDifficulty.json';
-import BraytechMaps from '@Data/manifest/ja/BraytechMaps.json';
-import BraytechMapsTypes from '@Data/manifest/ja/BraytechMapsTypes.json';
+import BraytechCommonDefinition from '@Data/manifest/ja/BraytechCommonDefinition.json';
+import BraytechActivityDifficultyDefinition from '@Data/manifest/ja/BraytechActivityDifficultyDefinition.json';
+import BraytechMapsDefinition from '@Data/manifest/ja/BraytechMapsDefinition.json';
+import BraytechMapsTypesDefinition from '@Data/manifest/ja/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/ja/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/ja/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ja/DestinyActivityModifierDefinition.json';
@@ -25,10 +25,10 @@ import DestinyTraitDefinition from '@Data/manifest/ja/DestinyTraitDefinition.jso
 
 const ja = {
   definitions: {
-    Braytech,
-    BraytechActivityDifficulty,
-    BraytechMaps,
-    BraytechMapsTypes,
+    BraytechCommonDefinition,
+    BraytechActivityDifficultyDefinition,
+    BraytechMapsDefinition,
+    BraytechMapsTypesDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
