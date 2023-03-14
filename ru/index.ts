@@ -1,6 +1,6 @@
-import Braytech from '@Data/manifest/ru/Braytech.json';
-import BraytechMaps from '@Data/manifest/ru/BraytechMaps.json';
-import BraytechMapsTypes from '@Data/manifest/ru/BraytechMapsTypes.json';
+import BraytechCommonDefinition from '@Data/manifest/ru/BraytechCommonDefinition.json';
+import BraytechMapsDefinition from '@Data/manifest/ru/BraytechMapsDefinition.json';
+import BraytechMapsTypesDefinition from '@Data/manifest/ru/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/ru/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/ru/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ru/DestinyActivityModifierDefinition.json';
@@ -15,9 +15,9 @@ import DestinySeasonDefinition from '@Data/manifest/ru/DestinySeasonDefinition.j
 
 const ru = {
   definitions: {
-    Braytech,
-    BraytechMaps,
-    BraytechMapsTypes,
+    BraytechCommonDefinition,
+    BraytechMapsDefinition,
+    BraytechMapsTypesDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,

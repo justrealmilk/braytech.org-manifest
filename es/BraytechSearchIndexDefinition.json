@@ -1,0 +1,273 @@
+{
+  "clan": {
+    "hash": "clan",
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Sobre tu clan, lista de jugadores, estadísticas históricas totales de todos los miembros y modo de administración"
+    }
+  },
+  "collections": {
+    "hash": "collections",
+    "displayProperties": {
+      "name": "Colecciones",
+      "description": "Objetos que tu Guardián ha adquirido a lo largo de su vida"
+    },
+    "keywords": [
+      "excepcionales",
+      "insignias",
+      "analizadores",
+      "emblema",
+      "catalizadores",
+      "historia"
+    ]
+  },
+  "triumphs": {
+    "hash": "triumphs",
+    "displayProperties": {
+      "name": "Triunfos",
+      "description": "Logros alcanzados por tu Guardián en sus desafíos"
+    },
+    "keywords": [
+      "casi completado",
+      "seguido",
+      "caduca",
+      "sellos"
+    ]
+  },
+  "maps": {
+    "hash": "maps",
+    "displayProperties": {
+      "name": "Mapas",
+      "description": "Mapas cartográficos interactivos con listas y otros destinos destacados"
+    },
+    "keywords": [
+      "huevos",
+      "huesos de ahamkara",
+      "cofres de región",
+      "sectores perdidos"
+    ]
+  },
+  "weeklies": {
+    "hash": "weeklies",
+    "displayProperties": {
+      "name": "Semanales",
+      "description": "Guía del Guardián sobre rituales semanales con consejos para ganar prestigio y triunfar"
+    },
+    "keywords": [
+      "ocaso",
+      "sector perdido",
+      "módulos"
+    ]
+  },
+  "weeklies-challenges": {
+    "hash": "weeklies-challenges",
+    "displayProperties": {
+      "name": "Desafíos",
+      "description": "Todos los desafíos de actividades"
+    },
+    "keywords": [
+      "semanales",
+      "desafíos",
+      "objetivos",
+      "bonificaciones"
+    ]
+  },
+  "weeklies-seasonal-challenges": {
+    "hash": "weeklies-seasonal-challenges",
+    "displayProperties": {
+      "name": "Desafíos de temporada",
+      "description": "Completa desafíos de tiempo limitado para conseguir nivel de temporada, polvo luminoso y otras recompensas."
+    },
+    "keywords": [
+      "desafíos de temporada"
+    ]
+  },
+  "weeklies-rotations": {
+    "hash": "weeklies-rotations",
+    "displayProperties": {
+      "name": "Rotaciones",
+      "description": "Explora las órbitas de varias actividades."
+    },
+    "keywords": [
+      "ocasos",
+      "sectores perdidos",
+      "rotaciones",
+      "calendario",
+      "incursiones",
+      "manantial",
+      "altares del dolor",
+      "desafío ascendente"
+    ]
+  },
+  "character": {
+    "hash": "character",
+    "displayProperties": {
+      "name": "Personaje",
+      "description": "Revisa el equipamiento y el inventario de tu Guardián"
+    },
+    "keywords": [
+      "inventario",
+      "objetos",
+      "equipamiento",
+      "estadísticas"
+    ]
+  },
+  "character-postmaster": {
+    "hash": "character-postmaster",
+    "displayProperties": {
+      "name": "Administración",
+      "description": "Los androides de Administración supervisan diligentemente las entregas, los mensajes y los objetos perdidos."
+    },
+    "keywords": [
+      "administración"
+    ]
+  },
+  "character-vault": {
+    "hash": "character-vault",
+    "displayProperties": {
+      "name": "Depósito",
+      "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes."
+    },
+    "keywords": [
+      "depósito"
+    ]
+  },
+  "character-vendors": {
+    "hash": "character-vendors",
+    "displayProperties": {
+      "name": "Comerciantes",
+      "description": "Espía a tus proveedores de tareas y socios comerciales favoritos."
+    },
+    "keywords": [
+      "comerciantes",
+      "calendario de polvo luminoso",
+      "calendario de Eververso"
+    ]
+  },
+  "quests": {
+    "hash": "quests",
+    "displayProperties": {
+      "name": "Aventuras",
+      "description": "Sigue tus actividades, entre ellas aventuras y contratos"
+    }
+  },
+  "quests-bounties": {
+    "hash": "quests-bounties",
+    "displayProperties": {
+      "name": "Contratos",
+      "description": "Todos los contratos del Guardián seleccionado."
+    },
+    "keywords": [
+      "contrato"
+    ]
+  },
+  "activity": {
+    "hash": "activity",
+    "displayProperties": {
+      "name": "Actividad",
+      "description": "Explora y filtra tus Informes de Combate en detalle"
+    },
+    "keywords": [
+      "informes",
+      "pgcr",
+      "incursiones",
+      "sectores perdidos",
+      "ocasos",
+      "asaltos",
+      "crisol",
+      "pruebas",
+      "competitivo",
+      "partidas",
+      "reputación",
+      "niveles"
+    ]
+  },
+  "activity-bookmarks": {
+    "hash": "activity-bookmarks",
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Actividades que has marcado como favoritas."
+    },
+    "keywords": [
+      "informes",
+      "pgcr",
+      "incursiones",
+      "sectores perdidos",
+      "ocasos",
+      "asaltos",
+      "crisol",
+      "pruebas",
+      "competitivo",
+      "partidas"
+    ]
+  },
+  "activity-series": {
+    "hash": "activity-series",
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
+    },
+    "keywords": [
+      "informes",
+      "pgcr",
+      "estadísticas",
+      "incursiones",
+      "sectores perdidos",
+      "ocasos",
+      "asaltos",
+      "escuadras",
+      "día 1",
+      "modo competición",
+      "compleciones",
+      "impecables",
+      "partidas"
+    ]
+  },
+  "settings": {
+    "hash": "settings",
+    "displayProperties": {
+      "name": "Ajustes",
+      "description": "Cuenta, tema, datos locales, visibilidad de elementos, idioma, desarrollador, resolución de problemas"
+    }
+  },
+  "legend": {
+    "hash": "legend",
+    "displayProperties": {
+      "name": "Leyenda",
+      "description": "La vida y la muerte son las armas de los mentirosos. Teje tu propia mentira. Muestra este resumen con orgullo ante sus amigos y enemigos."
+    }
+  },
+  "compare": {
+    "hash": "compare",
+    "displayProperties": {
+      "name": "Comparar",
+      "description": "Descubre tus compleciones más rápidas en Ocasos y Caza de Pesadillas"
+    }
+  },
+  "archives": {
+    "hash": "archives",
+    "displayProperties": {
+      "name": "Archivos",
+      "description": "Herramientas interactivas, manuales, leyendas y otros contenidos conservados"
+    }
+  },
+  "faq": {
+    "hash": "faq",
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Las preguntas más frecuentes y fáciles de responder."
+    },
+    "keywords": [
+      "faq",
+      "ayuda",
+      "atajos"
+    ]
+  },
+  "credits": {
+    "hash": "credits",
+    "displayProperties": {
+      "name": "Créditos",
+      "description": "Sobre los Guardianes que lo hacen posible"
+    }
+  }
+}

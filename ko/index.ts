@@ -1,6 +1,6 @@
-import Braytech from '@Data/manifest/ko/Braytech.json';
-import BraytechMaps from '@Data/manifest/ko/BraytechMaps.json';
-import BraytechMapsTypes from '@Data/manifest/ko/BraytechMapsTypes.json';
+import BraytechCommonDefinition from '@Data/manifest/ko/BraytechCommonDefinition.json';
+import BraytechMapsDefinition from '@Data/manifest/ko/BraytechMapsDefinition.json';
+import BraytechMapsTypesDefinition from '@Data/manifest/ko/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/ko/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/ko/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ko/DestinyActivityModifierDefinition.json';
@@ -15,9 +15,9 @@ import DestinySeasonDefinition from '@Data/manifest/ko/DestinySeasonDefinition.j
 
 const ko = {
   definitions: {
-    Braytech,
-    BraytechMaps,
-    BraytechMapsTypes,
+    BraytechCommonDefinition,
+    BraytechMapsDefinition,
+    BraytechMapsTypesDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
