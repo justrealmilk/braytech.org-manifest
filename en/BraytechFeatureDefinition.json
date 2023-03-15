@@ -61,6 +61,20 @@
       "guardian rank"
     ]
   },
+  "checklists": {
+    "hash": "checklists",
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
+    },
+    "to": "/checklists",
+    "keywords": [
+      "eggs",
+      "ahamkara bones",
+      "region chests",
+      "lost sectors"
+    ]
+  },
   "maps": {
     "hash": "maps",
     "displayProperties": {
