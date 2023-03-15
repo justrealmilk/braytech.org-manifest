@@ -31,6 +31,38 @@
       "sigilli"
     ]
   },
+  "journey": {
+    "displayProperties": {
+      "name": "Viaggio",
+      "description": "Da Nuove Luci a Campioni: naviga nel viaggio del tuo Guardiano"
+    },
+    "keywords": [
+      "viaggio",
+      "gradi dei guardiani"
+    ]
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "encomi",
+      "description": "Festeggia i successi della tua squadra e assegna loro dei pegni di gratitudine"
+    },
+    "keywords": [
+      "encomi",
+      "gradi dei guardiani"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Collezionabili",
+      "description": "Scansioni e lista dei collezionabili sparsi per il sistema Sol"
+    },
+    "keywords": [
+      "uova",
+      "ossa di ahamkara",
+      "forzieri della regione",
+      "settori perduti"
+    ]
+  },
   "maps": {
     "displayProperties": {
       "name": "Mappe",
@@ -240,6 +272,12 @@
       "aiuto",
       "scorciatoie"
     ]
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Rispettando gli spazi personali"
+    }
   },
   "credits": {
     "displayProperties": {

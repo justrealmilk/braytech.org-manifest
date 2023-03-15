@@ -789,43 +789,134 @@
       "description": "Esta baliza puede transmitir varios objetivos."
     }
   },
-  "2000000232": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000233": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000234": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000235": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000236": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000237": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000238": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000239": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000240": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000241": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000242": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000243": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000244": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000245": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000246": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000247": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000248": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
-  "2000000249": { "displayProperties": { "name": "Aleatorio", "description": "Esta baliza puede transmitir varios objetivos." }},
+  "2000000232": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000233": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000234": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000235": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000236": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000237": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000238": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000239": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000240": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000241": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000242": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000243": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000244": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000245": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000246": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000247": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000248": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
+  "2000000249": {
+    "displayProperties": {
+      "name": "Aleatorio",
+      "description": "Esta baliza puede transmitir varios objetivos."
+    }
+  },
   "2000000251": {
     "displayProperties": {
       "name": "Ejecutor de Cortina seductora",
-      "description": "Derrota al ejecutor luminoso acuartelado en Cortina seductora para avanzar en el triunfo _Cazarrecompensas ascendido_.",
-      "itemTypeDisplayName": "Ejecutor luminoso"}
+      "description": "Derrota al ejecutor luminoso acuartelado en Cortina seductora para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    },
+    "itemTypeDisplayName": "Ejecutor luminoso"
   },
   "2000000252": {
     "displayProperties": {
       "name": "Ejecutor de Recinto de la Reina",
-      "description": "Derrota al ejecutor luminoso acuartelado en Recinto de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_.",
-      "itemTypeDisplayName": "Ejecutor luminoso"
-    }
+      "description": "Derrota al ejecutor luminoso acuartelado en Recinto de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    },
+    "itemTypeDisplayName": "Ejecutor luminoso"
   },
   "2000000253": {
     "displayProperties": {
       "name": "Ejecutor de Eco de la bruja",
-      "description": "Derrota al ejecutor luminoso acuartelado en Eco de la bruja para avanzar en el triunfo _Cazarrecompensas ascendido_.",
-      "itemTypeDisplayName": "Ejecutor luminoso"
-    }
+      "description": "Derrota al ejecutor luminoso acuartelado en Eco de la bruja para avanzar en el triunfo _Cazarrecompensas ascendido_."
+    },
+    "itemTypeDisplayName": "Ejecutor luminoso"
   },
   "2000000254": {
     "displayProperties": {
@@ -840,6 +931,11 @@
   "2000000256": {
     "displayProperties": {
       "name": "Pesadilla de Taniks, el Marcado"
+    }
+  },
+  "2000000259": {
+    "displayProperties": {
+      "name": "Altares del Dolor"
     }
   }
 }
