@@ -37,6 +37,44 @@
       "seals"
     ]
   },
+  "journey": {
+    "hash": "journey",
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    },
+    "to": "/journey",
+    "keywords": [
+      "journey",
+      "guardian rank"
+    ]
+  },
+  "commendations": {
+    "hash": "commendations",
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    },
+    "to": "/commendations",
+    "keywords": [
+      "commendations",
+      "guardian rank"
+    ]
+  },
+  "checklists": {
+    "hash": "checklists",
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
+    },
+    "to": "/checklists",
+    "keywords": [
+      "eggs",
+      "ahamkara bones",
+      "region chests",
+      "lost sectors"
+    ]
+  },
   "maps": {
     "hash": "maps",
     "displayProperties": {
@@ -284,6 +322,14 @@
       "help",
       "shortcuts"
     ]
+  },
+  "privacy": {
+    "hash": "privacy",
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    },
+    "to": "/addendums/privacy"
   },
   "credits": {
     "hash": "credits",
