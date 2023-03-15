@@ -309,6 +309,14 @@
       "shortcuts"
     ]
   },
+  "privacy": {
+    "hash": "privacy",
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    },
+    "to": "/addendums/privacy"
+  },
   "credits": {
     "hash": "credits",
     "displayProperties": {
