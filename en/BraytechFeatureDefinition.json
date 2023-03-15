@@ -43,15 +43,23 @@
       "name": "Journey",
       "description": "Navigate your Guardian's journey from New Light to Paragon"
     },
-    "to": "/journey"
+    "to": "/journey",
+    "keywords": [
+      "journey",
+      "guardian rank"
+    ]
   },
   "commendations": {
     "hash": "commendations",
     "displayProperties": {
       "name": "Commendations",
-      "description": "Life and death are liar's tools. Weave your own lie. Display this summary proudly before your friends and foes."
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfullness"
     },
-    "to": "/commendations"
+    "to": "/commendations",
+    "keywords": [
+      "commendations",
+      "guardian rank"
+    ]
   },
   "maps": {
     "hash": "maps",
