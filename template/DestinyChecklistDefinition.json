@@ -139,5 +139,20 @@
       "name": "Necrotic Cypher"
     },
     "progressDescription": "Necrotic cyphers collected"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Action Figures"
+    },
+    "entry": {
+      "name": "Action Figure"
+    },
+    "progressDescription": "Toys collected"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Apogee Repeater"
+    },
+    "progressDescription": "Repeaters dismantled"
   }
 }
