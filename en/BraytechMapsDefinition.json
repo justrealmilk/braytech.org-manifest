@@ -3015,6 +3015,36 @@
       "video": "https://twitter.com/Ansonikage/status/1506393515181453328"
     }
   },
+  "262": {
+    "hash": "262",
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1343989713,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-1343989713.jpg"
+  },
+  "263": {
+    "hash": "263",
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2587582303,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2587582303.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=CGvULjntin0&t=27s"
+    }
+  },
+  "264": {
+    "hash": 264,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2493140158,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2493140158.jpg"
+  },
   "278": {
     "hash": 278,
     "nodeType": 1,
@@ -3632,8 +3662,7 @@
       "description": ""
     },
     "checklistHash": 2754290383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg"
   },
   "391": {
     "hash": 391,
@@ -3642,8 +3671,7 @@
       "description": ""
     },
     "checklistHash": 4069164097,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg"
   },
   "392": {
     "hash": 392,
@@ -3652,8 +3680,7 @@
       "description": ""
     },
     "checklistHash": 3577247371,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg"
   },
   "393": {
     "hash": 393,
@@ -3662,8 +3689,7 @@
       "description": ""
     },
     "checklistHash": 2313471548,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg"
   },
   "394": {
     "hash": 394,
@@ -3672,8 +3698,7 @@
       "description": ""
     },
     "checklistHash": 2693527578,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg"
   },
   "395": {
     "hash": 395,
@@ -3682,8 +3707,7 @@
       "description": ""
     },
     "checklistHash": 2890414560,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg"
   },
   "396": {
     "hash": 396,
@@ -3692,8 +3716,7 @@
       "description": ""
     },
     "checklistHash": 2317648357,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg"
   },
   "397": {
     "hash": 397,
@@ -3702,8 +3725,7 @@
       "description": ""
     },
     "checklistHash": 3860391092,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg"
   },
   "398": {
     "hash": 398,
@@ -3712,8 +3734,7 @@
       "description": ""
     },
     "checklistHash": 3096918071,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg"
   },
   "399": {
     "hash": 399,
@@ -3722,8 +3743,7 @@
       "description": ""
     },
     "checklistHash": 4137615299,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg"
   },
   "400": {
     "hash": 400,
@@ -3732,8 +3752,7 @@
       "description": ""
     },
     "checklistHash": 2270999908,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg"
   },
   "401": {
     "hash": 401,
@@ -3742,8 +3761,7 @@
       "description": ""
     },
     "checklistHash": 3883378312,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg"
   },
   "430": {
     "hash": 430,
