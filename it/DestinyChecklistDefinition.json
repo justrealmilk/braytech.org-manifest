@@ -139,5 +139,20 @@
       "name": "Cifrario necrotico"
     },
     "progressDescription": "Cifrari necrotici ottenuti"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Statuette uniche"
+    },
+    "entry": {
+      "name": "Statuetta unica"
+    },
+    "progressDescription": "Giocattoli collezionati"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Ripetitore apogeo"
+    },
+    "progressDescription": "Ripetitori neutralizzati"
   }
 }
