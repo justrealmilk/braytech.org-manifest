@@ -23,6 +23,9 @@
   "304443327": {
     "displayProperties": {
       "description": "クラン経験値を増やす"
+    },
+    "inventory": {
+      "tierTypeName": "Common"
     }
   },
   "372496383": {
@@ -90,7 +93,8 @@
   "3491404510": {
     "displayProperties": {
       "description": "武器の成形に使用される素材。\n\nレジェンダリー武器のディープサイトの共振の目標を達成することで入手可能。"
-    }
+    },
+    "itemTypeDisplayName": "Material"
   },
   "3582080006": {
     "displayProperties": {
@@ -101,6 +105,10 @@
     "displayProperties": {
       "name": "マスターワークのソケットが空です",
       "description": "現在マスターワーク済を装備していません"
+    },
+    "itemTypeDisplayName": "武器Mod",
+    "inventory": {
+      "tierTypeName": "Common"
     }
   },
   "73143230001": {
