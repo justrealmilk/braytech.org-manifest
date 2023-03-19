@@ -3,17 +3,5 @@
     "displayProperties": {
       "tip": "ストライク「空虚な番人」プレイ中に、パイクを使って敵を倒す。"
     }
-  },
-  "1219237947": {
-    "intervalInfo": {
-      "intervalRewards": []
-    },
-    "rewardItems": [
-      {
-        "itemHash": 232928045,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      }
-    ]
   }
 }

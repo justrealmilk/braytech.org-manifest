@@ -5,14 +5,14 @@
   "2443315975": {
     "progressDescription": "ナイトフォールストライクを完了する"
   },
-  "2498962144": {
-    "progressDescription": "ナイトフォールストライクを100,000点以上でクリアする"
-  },
   "3118376466": {
     "progressDescription": "いずれかのクルーシブルのプレイリストで対戦を完了する"
   },
   "4276867787": {
     "progressDescription": "サバイバルでラウンド勝利する"
+  },
+  "1458618853": {
+    "progressDescription": "\"クルーシブル\"プレイリストを完了する"
   },
   "2794225827": {
     "progressDescription": "オシリスの試練でラウンド勝利する"
@@ -29,23 +29,14 @@
   "424208044": {
     "progressDescription": "迷宮 \"監視者のスパイア\" をクリアする"
   },
-  "1501017628": {
-    "progressDescription": "レイド \"ディープストーン・クリプト\" をクリアする"
-  },
-  "3214312537": {
-    "progressDescription": "レイド \"ガラスの間\" をクリアする"
-  },
-  "2249306957": {
-    "progressDescription": "レイド \"門弟の誓い\" をクリアする"
-  },
-  "1986658407": {
-    "progressDescription": "レイド \"邪神、滅びる\" をクリアする"
-  },
   "1948254616": {
     "progressDescription": "永遠の挑戦をクリアする"
   },
   "1205559531": {
     "progressDescription": "永遠の挑戦を {var:3648290880} 点以上でクリアする"
+  },
+  "1356373064": {
+    "progressDescription": "アクティビティ \"//node.ovrd.AVALON//\"を完了する"
   },
   "4140117227": {
     "progressDescription": "ヴァンガードのバウンティを完了する"
@@ -71,41 +62,8 @@
   "4026431786": {
     "progressDescription": "シャックス卿に話しかける"
   },
-  "4205702842": {
-    "progressDescription": "悲哀の冠のバウンティを完了する"
-  },
-  "2274279157": {
-    "progressDescription": "悲哀の冠に訪問する"
-  },
-  "777097966": {
-    "progressDescription": "クロビスのフレームのバウンティを完了する"
-  },
-  "889231961": {
-    "progressDescription": "クロビスのフレームに話しかける"
-  },
-  "3270653927": {
-    "progressDescription": "クエスト \"ヴォクス・オブスキュラ\" で強力な敵を倒す"
-  },
-  "454779873": {
-    "progressDescription": "\"幻影の祭壇\"で再び記憶にアクセスする"
-  },
-  "3626845679": {
-    "progressDescription": "アクティビティ \"源泉\" を完了する"
-  },
-  "2395957698": {
-    "progressDescription": "源泉を難易度 \"達人\" でクリアする"
-  },
-  "355099864": {
-    "progressDescription": "週間ストーリーミッションを完了する"
-  },
   "3564470639": {
     "progressDescription": "週間ストーリーミッションを100,000点以上で完了する"
-  },
-  "1876328522": {
-    "progressDescription": "フィンチの評価を上げる"
-  },
-  "1184525507": {
-    "progressDescription": "フィンチに話しかける"
   },
   "897950155": {
     "progressDescription": "レイド\"最後の望み\" 周回完了"
@@ -133,33 +91,6 @@
   },
   "3039545165": {
     "progressDescription": "迷宮\"デュアリティ\" 周回完了"
-  },
-  "1964325296": {
-    "progressDescription": "アクティビティ \"ケッチクラッシュ\" をクリアする"
-  },
-  "2909948981": {
-    "progressDescription": "\"ケッチクラッシュ(達人)\" をクリアする"
-  },
-  "3935332150": {
-    "progressDescription": " \"遠征\" で財宝を獲得する"
-  },
-    "2581410975": {
-      "progressDescription": "\"強奪の戦場\" で熾天使クレートのロックを解除する"
-    },
-    "1979753199": {
-      "progressDescription": "\"強奪の戦場\" で熾天使クレートのロックを解除する"
-    },
-    "2300038599": {
-      "progressDescription": "\"強奪の戦場\" で熾天使クレートのロックを解除する"
-    },
-    "2144936281": {
-      "progressDescription": "\"強奪の戦場:伝説\"を完了する"
-    },
-    "3675131393": {
-      "progressDescription": "\"熾天使の盾作戦\" を完了する"
-    },
-    "2667467981": {
-      "progressDescription": "\"熾天使の盾作戦\" を難易度:伝説で完了する"      
     },
     "2258905201": {
       "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
@@ -172,5 +103,14 @@
     },
     "1878970132": {
       "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする" 
+    },
+    "1166527222": {
+      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+    },
+    "3431014262": {
+      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+    },
+    "1687723774": {
+      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
   }
 }
