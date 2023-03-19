@@ -32,7 +32,7 @@
   "1000000001": {
     "displayProperties": {
       "name": "一時的な勝利の道のり",
-      "description": "すべての挑戦は永遠にできるものではありません。一部は時間制限があります。これらのレコードは、ブレイテックにて抽出したリストで来シーズンからは挑戦できなくなります"
+      "description": "すべての挑戦は永遠ではありません。一部は時間制限があります。これらは、Bray.techにて抽出したリストで来シーズンからは挑戦できなくなります"
     }
   },
   "1000000004": {
@@ -78,5 +78,38 @@
       "name": "入手可能",
       "description": "これらのエンブレムはhttps://www.bungie.net/redeemにて、無料ダウンロードコードを入力すると入手できます"
     }
+  },
+  "2485764221": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "2329774788": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "2334031483": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "464627906": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "3111288225": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "4242023272": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "861774511": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "724209558": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "1194500405": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "184846131": {
+    "itemTypeDisplayName": "ガーディアンランク"
+  },
+  "562783996": {
+    "itemTypeDisplayName": "ガーディアンランク"
   }
 }

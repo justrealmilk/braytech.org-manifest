@@ -12,7 +12,11 @@
     },
     "keywords": [
       "エキゾチック",
-      "バッジ"
+      "バッジ",
+      "トラッカー",
+      "エンブレム",
+      "媒体",
+      "伝承"
     ]
   },
   "triumphs": {
@@ -21,20 +25,42 @@
       "description": "ガーディアンの勝利の道のりの記録"
     },
     "keywords": [
-      "媒体",
       "もうすぐ完成",
+      "追跡",
       "期限切れ",
-      "印",
-      "トラッカー"
+      "印"
     ]
   },
-  "triumphs-seasonal-challenges": {
+  "journey": {
     "displayProperties": {
-      "name": "シーズンの挑戦",
-      "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬が手に入れましょう"
+      "name": "旅路",
+      "description": "ガーディアンの旅路を新たな光から権威までを案内"
     },
     "keywords": [
-      "シーズンの挑戦"
+      "旅路",
+      "ガーディアンランク"
+    ]
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "称賛",
+      "description": "ファイヤーチームの成功を祝い、仲間に心遣いを示す記念品を贈ろう"
+    },
+    "keywords": [
+      "称賛",
+      "ガーディアンランク"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "チェックリスト",
+      "description": "太陽系にまたがるゴーストスキャンとアイテムのチェックリスト"
+    },
+    "keywords": [
+      "卵",
+      "アハンカーラの骨",
+      "地域クレート",
+      "失われたセクター"
     ]
   },
   "maps": {
@@ -72,6 +98,15 @@
       "ボーナス"
     ]
   },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "シーズンの挑戦",
+      "description": "シーズンランクやブライトダストなどの報酬がもらえる期間限定チャレンジをクリアしよう"
+    },
+    "keywords": [
+      "シーズンの挑戦"
+    ]
+  },
   "weeklies-rotations": {
     "displayProperties": {
       "name": "ローテーション",
@@ -84,7 +119,8 @@
       "カレンダー",
       "レイド",
       "源泉",
-      "悲哀の祭壇"
+      "悲哀の祭壇",
+      "アセンダントの挑戦"
     ]
   },
   "character": {
@@ -140,7 +176,7 @@
       "description": "ガーディアンが引き受けたバウンティすべて"
     },
     "keywords": [
-      "bounty"
+      "バウンティ"
     ]
   },
   "activity": {
@@ -198,19 +234,20 @@
       "初日",
       "コンテストモード",
       "達成",
-      "無敗",
+      "天下無双",
       "試合"
     ]
   },
   "settings": {
     "displayProperties": {
       "name": "設定",
-      "description": "アカウント、テーマ、ローカルデータ、アイテムの可視・不可視、言語設定、開発者モード、トラブルシューティング"
+      "description": "アカウント、テーマ、ローカルデータ、アイテム表示、言語設定、開発者モード、トラブルシューティング"
     }
   },
   "legend": {
     "displayProperties": {
-      "description": "生と死は嘘つきの道具でしかない。お前自身も嘘を紡ぐ。この軌跡を、自身の友やライバルに堂々と見せつけると良い。"
+      "name": "伝説",
+      "description": "生と死は嘘つきの道具に過ぎない。お前自身も嘘を紡ぎ、その軌跡を友やライバルに堂々と見せつけると良い。"
     }
   },
   "compare": {
@@ -222,11 +259,12 @@
   "archives": {
     "displayProperties": {
       "name": "アーカイブ",
-      "description": "インタラクティブなツール、マニュアル、記録、その他のコンテンツ"
+      "description": "クリプトアーキテクトが後世に残すためのインタラクティブなツール、マニュアル、記録、その他のコンテンツ"
     }
   },
   "faq": {
     "displayProperties": {
+      "name": "よくある質問",
       "description": "Tom（Braytech開発者）お気に入りのよくある質問"
     },
     "keywords": [
@@ -234,6 +272,12 @@
       "ヘルプ",
       "ショートカット"
     ]
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "プライバシー",
+      "description": "個人のプライバシーを尊重するために"
+    }
   },
   "credits": {
     "displayProperties": {
