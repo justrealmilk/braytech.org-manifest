@@ -10,7 +10,7 @@
     "statNameAbbr": "D"
   },
   "flawless": {
-    "statName": "不死"
+    "statName": "天下無双"
   },
   "killsDeathsRatio": {
     "statName": "K/D",
@@ -20,8 +20,7 @@
     "statName": "平均 K/D"
   },
   "winRate": {
-    "statName": "勝率",
-    "unitType": 7
+    "statName": "勝率"
   },
   "precisionKills": {
     "statName": "精密キル",
@@ -189,10 +188,10 @@
     "statDescription": "死なずにガーディアンを20人倒す。"
   },
   "Medals_pvp_medal_ib_streak_no_damage": {
-    "statDescription": "1回も倒されずに敵を最低7人倒してアイアンバナーの対戦を完了する。"
+    "statDescription": "一度もダメージを受けずに最低7人倒してファイナルブローを決める"
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statDescription": "いかなるダメージも受けずに7人の敵にトドメを刺せ。"
+    "statDescription": "20人以上倒している相手を止める"
   },
   "Medals_pvp_medal_ib_streak_med": {
     "statDescription": "死なずに敵を10人倒す。"
@@ -231,10 +230,10 @@
     "statDescription": "延長戦でアイアンバナーの対戦に勝利する。"
   },
   "Medals_pvp_medal_ib_cycle": {
-    "statDescription": "1回のアイアンバナーの対戦で、少なくとも1回はそれぞれの武器タイプ(キネティック、エネルギー、パワー)およびスキル(近接、グレネード 、スーパースキル)でトドメを刺す"
+    "statDescription": "1回のアイアンバナーの対戦で、少なくとも1回はそれぞれの武器タイプ(キネティック、エネルギー、パワー)およびスキル(近接、グレネード 、スーパースキル)でファイナルブローを決める"
   },
   "Medals_pvp_medal_ib_first_strike": {
-    "statDescription": "対戦で誰よりも先にトドメを刺す。"
+    "statDescription": "試合で最初にファイナルブローを決める"
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "スーパースキルを使ってスーパースキルを使っている敵を止める。"
