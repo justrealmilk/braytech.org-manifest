@@ -3482,6 +3482,112 @@
     "checklistHash": 3739130591,
     "screenshot": "/static/images/screenshots/checklists/region-chests/glacial-drift-3739130591.jpg"
   },
+  "295": {
+    "hash": 295,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor-xur"
+    },
+    "vendorHash": 2190858386,
+    "destinationHash": 697502628,
+    "bubbleHash": 3854937584,
+    "map": {
+      "points": [
+        {
+          "x": -518,
+          "y": -334
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-1-2.jpg"
+  },
+  "296": {
+    "hash": 296,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor-xur"
+    },
+    "vendorHash": 2190858386,
+    "destinationHash": 1455639803,
+    "bubbleHash": 4035573696,
+    "map": {
+      "points": [
+        {
+          "x": 163,
+          "y": 79
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-2-2.jpg"
+  },
+  "297": {
+    "hash": 297,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor-xur"
+    },
+    "vendorHash": 2190858386,
+    "destinationHash": 3607432451,
+    "bubbleHash": 3254430284,
+    "map": {
+      "points": [
+        {
+          "x": 659,
+          "y": 530
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-3-2.jpg"
+  },
+  "298": {
+    "hash": 298,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor-xur"
+    },
+    "vendorHash": 2190858386,
+    "destinationHash": 763066127,
+    "bubbleHash": 1161967626,
+    "map": {
+      "points": [
+        {
+          "x": 325,
+          "y": 250
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-4-2.jpg"
+  },
+  "299": {
+    "hash": 299,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor-xur"
+    },
+    "vendorHash": 2190858386,
+    "destinationHash": 1737926756,
+    "bubbleHash": 2192450996,
+    "activityHash": 3737830648,
+    "map": {
+      "points": [
+        {
+          "x": 580,
+          "y": 418
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
+  },
   "301": {
     "hash": 301,
     "displayProperties": {
