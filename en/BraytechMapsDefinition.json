@@ -3130,7 +3130,7 @@
       "description": ""
     },
     "checklistHash": 1351660365,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/límíng-harbor-1351660365.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1351660365.jpg"
   },
   "266": {
     "hash": 266,
@@ -3139,7 +3139,7 @@
       "description": ""
     },
     "checklistHash": 1960240794,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/límíng-harbor-1960240794.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1960240794.jpg"
   },
   "267": {
     "hash": 267,
@@ -3148,7 +3148,25 @@
       "description": ""
     },
     "checklistHash": 2522062651,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/límíng-harbor-2522062651.jpg"
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-2522062651.jpg"
+  },
+  "268": {
+    "hash": 268,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1578181908,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/hydroponics-delta-1578181908.jpg"
+  },
+  "269": {
+    "hash": 269,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 868910976,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/thrilladrome-868910976.jpg"
   },
   "275": {
     "hash": 275,
