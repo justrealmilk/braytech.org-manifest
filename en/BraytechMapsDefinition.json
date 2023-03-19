@@ -3150,8 +3150,8 @@
     "checklistHash": 2522062651,
     "screenshot": "/static/images/screenshots/checklists/region-chests/límíng-harbor-2522062651.jpg"
   },
-  "277": {
-    "hash": 277,
+  "275": {
+    "hash": 275,
     "nodeType": 10,
     "displayProperties": {
       "name": "",
@@ -3165,38 +3165,53 @@
       "points": [
         {
           "x": 503,
-          "y": -310,
-          "bubbleHash": 3522109173
-        },
-        {
-          "x": -430,
-          "y": -138,
-          "bubbleHash": 706937272
-        },
-        {
-          "x": 68,
-          "y": 259,
-          "bubbleHash": 2762866308
+          "y": -310
         }
       ]
     },
-    "screenshot": "/static/images/screenshots/vendors/vendors_petra-1-2.jpg",
-    "extended": {
-      "screenshots": [
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-1-2.jpg"
+  },
+  "276": {
+    "hash": 276,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor"
+    },
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272,
+    "vendorHash": 1841717884,
+    "map": {
+      "points": [
         {
-          "bubbleHash": 3522109173,
-          "screenshot": "/static/images/screenshots/vendors/vendors_petra-1-2.jpg"
-        },
-        {
-          "bubbleHash": 706937272,
-          "screenshot": "/static/images/screenshots/vendors/vendors_petra-2-2.jpg"
-        },
-        {
-          "bubbleHash": 2762866308,
-          "screenshot": "/static/images/screenshots/vendors/vendors_petra-3-2.jpg"
+          "x": -430,
+          "y": -138
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-2-2.jpg"
+  },
+  "277": {
+    "hash": 277,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor"
+    },
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308,
+    "vendorHash": 1841717884,
+    "map": {
+      "points": [
+        {
+          "x": 68,
+          "y": 259
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-3-2.jpg"
   },
   "278": {
     "hash": 278,
