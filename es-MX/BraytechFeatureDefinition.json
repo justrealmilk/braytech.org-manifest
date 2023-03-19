@@ -31,6 +31,38 @@
       "sellos"
     ]
   },
+  "journey": {
+    "displayProperties": {
+      "name": "Trayectoria",
+      "description": "Recorre la trayectoria de tu Guardián de Nueva Luz a Parangón"
+    },
+    "keywords": [
+      "trayectoria",
+      "rango de guardián"
+    ]
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Menciones",
+      "description": "Celebra los éxitos de su escuadra y prémiales con muestras de tu consideración"
+    },
+    "keywords": [
+      "menciones",
+      "rango de guardián"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Listas de coleccionables",
+      "description": "Escaneos del Espectro y listas de coleccionables que abarcan todo el sistema solar"
+    },
+    "keywords": [
+      "huevos",
+      "huesos ahamkara",
+      "cofres de región",
+      "sectores perdidos"
+    ]
+  },
   "maps": {
     "displayProperties": {
       "name": "Mapas",
@@ -233,7 +265,7 @@
   "faq": {
     "displayProperties": {
       "name": "FAQ",
-      "description": "Algunas de las Preguntas Frecuentes favoritas de Tom"
+      "description": "Las preguntas más frecuentes y fáciles de responder."
     },
     "keywords": [
       "faq",
