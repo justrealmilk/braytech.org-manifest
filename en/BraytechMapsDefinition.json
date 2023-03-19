@@ -7114,7 +7114,7 @@
               "y": -1090
             },
             {
-              "target": "target",
+              "type": "target",
               "x": 645,
               "y": -1090
             }
@@ -7338,7 +7338,7 @@
               "y": 290
             },
             {
-              "target": "target",
+              "type": "target",
               "x": 981,
               "y": 290
             }
@@ -7578,7 +7578,7 @@
               "y": 612
             },
             {
-              "target": "target",
+              "type": "target",
               "x": -254,
               "y": 612
             }
