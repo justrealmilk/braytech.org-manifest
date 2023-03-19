@@ -4,7 +4,6 @@
       "name": "Leggende: Perduti sulla Luna"
     },
     "entry": {
-      "prefix": "",
       "name": "Frammento di spettro"
     },
     "progressDescription": "Frammenti di spettro recuperati"
@@ -26,25 +25,21 @@
     "entry": {
       "prefix": "Artefatto",
       "name": "Forziere sigillato dalla stasi"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "Archivi dati CPF"
     },
     "entry": {
-      "prefix": "",
       "name": "Archivio dati CPF"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Ossa di Ahamkara"
     },
     "entry": {
-      "prefix": "",
       "name": "Ossa di Ahamkara"
     },
     "progressDescription": "Ossa trovate"
@@ -54,7 +49,6 @@
       "name": "Forzieri della regione"
     },
     "entry": {
-      "prefix": "",
       "name": "Forziere della regione"
     },
     "progressDescription": "Forzieri aperti"
@@ -74,7 +68,6 @@
       "name": "Conigli di giada"
     },
     "entry": {
-      "prefix": "",
       "name": "Coniglio di giada"
     },
     "progressDescription": "Conigli con galletta di riso"
@@ -124,7 +117,6 @@
       "name": "Settori perduti"
     },
     "entry": {
-      "prefix": "",
       "name": "Settore perduto"
     },
     "progressDescription": "Scoperti"
@@ -144,9 +136,23 @@
       "name": "Leggende: L'inquisizione dei dannati"
     },
     "entry": {
-      "prefix": "",
       "name": "Cifrario necrotico"
     },
     "progressDescription": "Cifrari necrotici ottenuti"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Statuette uniche"
+    },
+    "entry": {
+      "name": "Statuetta unica"
+    },
+    "progressDescription": "Giocattoli collezionati"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Ripetitore apogeo"
+    },
+    "progressDescription": "Ripetitori neutralizzati"
   }
 }

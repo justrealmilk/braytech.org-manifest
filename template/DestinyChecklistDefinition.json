@@ -4,7 +4,6 @@
       "name": "Lore Book: Luna's Lost"
     },
     "entry": {
-      "prefix": "",
       "name": "Ghost Fragment"
     },
     "progressDescription": "Ghost fragments recovered"
@@ -26,25 +25,21 @@
     "entry": {
       "prefix": "Artifact",
       "name": "Stasis-Sealed Chest"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC Repositories"
     },
     "entry": {
-      "prefix": "",
       "name": "DSC Repository"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Ahamkara Bones"
     },
     "entry": {
-      "prefix": "",
       "name": "Ahamkara Bone"
     },
     "progressDescription": "Bones found"
@@ -54,7 +49,6 @@
       "name": "Region Chests"
     },
     "entry": {
-      "prefix": "",
       "name": "Region Chest"
     },
     "progressDescription": "Chests opened"
@@ -74,7 +68,6 @@
       "name": "Jade Rabbits"
     },
     "entry": {
-      "prefix": "",
       "name": "Jade Rabbit"
     },
     "progressDescription": "Rabbits with rice cake"
@@ -124,7 +117,6 @@
       "name": "Lost Sectors"
     },
     "entry": {
-      "prefix": "",
       "name": "Lost Sector"
     },
     "progressDescription": "Discovered"
@@ -144,9 +136,23 @@
       "name": "Lore Book: Inquisition of the Damned"
     },
     "entry": {
-      "prefix": "",
       "name": "Necrotic Cypher"
     },
     "progressDescription": "Necrotic cyphers collected"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Action Figures"
+    },
+    "entry": {
+      "name": "Action Figure"
+    },
+    "progressDescription": "Toys collected"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Apogee Repeater"
+    },
+    "progressDescription": "Repeaters dismantled"
   }
 }

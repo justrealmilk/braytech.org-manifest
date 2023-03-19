@@ -4,7 +4,6 @@
       "name": "伝承: 月での喪失"
     },
     "entry": {
-      "prefix": "",
       "name": "ゴーストの破片"
     },
     "progressDescription": "回復したゴーストの破片"
@@ -26,25 +25,21 @@
     "entry": {
       "prefix": "アーティファクト",
       "name": "ステイシスで封じられたクレート"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC宝庫"
     },
     "entry": {
-      "prefix": "",
       "name": "DSC宝庫"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "アハンカーラの骨"
     },
     "entry": {
-      "prefix": "",
       "name": "アハンカーラの骨"
     },
     "progressDescription": "発見した骨"
@@ -54,7 +49,6 @@
       "name": "地域のクレート"
     },
     "entry": {
-      "prefix": "",
       "name": "地域のクレート"
     },
     "progressDescription": "発見済のクレート"
@@ -74,7 +68,6 @@
       "name": "玉兎"
     },
     "entry": {
-      "prefix": "",
       "name": "玉兎"
     },
     "progressDescription": "ライスケーキを持つ兎"
@@ -124,7 +117,6 @@
       "name": "失われたセクター"
     },
     "entry": {
-      "prefix": "",
       "name": "失われたセクター"
     },
     "progressDescription": "発見済み"
@@ -144,7 +136,6 @@
       "name": "伝承: 忌まわしき者の尋問"
     },
     "entry": {
-      "prefix": "",
       "name": "ネクロ暗号"
     },
     "progressDescription": "収集されたネクロ暗号"

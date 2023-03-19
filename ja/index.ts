@@ -1,3 +1,4 @@
+import BraytechActivityDefinition from '@Data/manifest/ja/BraytechActivityDefinition.json';
 import BraytechCommonDefinition from '@Data/manifest/ja/BraytechCommonDefinition.json';
 import BraytechActivityDifficultyDefinition from '@Data/manifest/ja/BraytechActivityDifficultyDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/ja/BraytechMapsDefinition.json';
@@ -19,12 +20,12 @@ import DestinyPhaseDefinition from '@Data/manifest/ja/DestinyPhaseDefinition.jso
 import DestinyPresentationNodeDefinition from '@Data/manifest/ja/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/ja/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/ja/DestinySeasonDefinition.json';
-import DestinySocketCategoryDefinition from '@Data/manifest/ja/DestinySocketCategoryDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/ja/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/ja/DestinyTraitDefinition.json';
 
 const ja = {
   definitions: {
+    BraytechActivityDefinition,
     BraytechCommonDefinition,
     BraytechActivityDifficultyDefinition,
     BraytechMapsDefinition,
@@ -46,7 +47,6 @@ const ja = {
     DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
-    DestinySocketCategoryDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
   },

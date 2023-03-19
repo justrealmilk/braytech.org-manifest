@@ -31,6 +31,38 @@
       "seals"
     ]
   },
+  "journey": {
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    },
+    "keywords": [
+      "journey",
+      "guardian rank"
+    ]
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    },
+    "keywords": [
+      "commendations",
+      "guardian rank"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
+    },
+    "keywords": [
+      "eggs",
+      "ahamkara bones",
+      "region chests",
+      "lost sectors"
+    ]
+  },
   "maps": {
     "displayProperties": {
       "name": "Maps",
@@ -240,6 +272,12 @@
       "help",
       "shortcuts"
     ]
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    }
   },
   "credits": {
     "displayProperties": {

@@ -55,11 +55,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474576, 1084474577, 1084474591]
+          "checklistItems": [
+            1084474576,
+            1084474577,
+            1084474591
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596463]
+          "checklistItems": [
+            1387596463
+          ]
         }
       ]
     },
@@ -78,6 +84,12 @@
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
     "map": {
+      "points": [
+        {
+          "x": 390,
+          "y": -37
+        }
+      ],
       "in": "lost-sector"
     },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_ouroborea-2.jpg"
@@ -102,11 +114,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
+          "checklistItems": [
+            1034141726,
+            1067696996,
+            1067696997,
+            1067696998,
+            1084474590
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596460]
+          "checklistItems": [
+            1387596460
+          ]
         }
       ]
     },
@@ -124,6 +144,14 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
+    "map": {
+      "points": [
+        {
+          "x": 57,
+          "y": -789
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_forfeit-shrine-2.jpg"
   },
   "8": {
@@ -146,11 +174,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
+          "checklistItems": [
+            1067696992,
+            1067696993,
+            1067696999,
+            1067697005,
+            1084474583
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818879]
+          "checklistItems": [
+            1370818879
+          ]
         }
       ]
     }
@@ -165,6 +201,14 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
+    "map": {
+      "points": [
+        {
+          "x": -817,
+          "y": 406
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_shattered-ruins-2.jpg"
   },
   "10": {
@@ -186,11 +230,19 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
+          "checklistItems": [
+            1084474578,
+            1084474579,
+            1118029876,
+            1118029877,
+            1118029882
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1387596457]
+          "checklistItems": [
+            1387596457
+          ]
         }
       ]
     },
@@ -209,6 +261,14 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
+    "map": {
+      "points": [
+        {
+          "x": 683,
+          "y": 1017
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_keep-of-honed-edges-2.jpg"
   },
   "12": {
@@ -230,11 +290,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1084474580, 1084474581, 1084474582]
+          "checklistItems": [
+            1084474580,
+            1084474581,
+            1084474582
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818878]
+          "checklistItems": [
+            1370818878
+          ]
         }
       ]
     },
@@ -254,6 +320,12 @@
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
     "map": {
+      "points": [
+        {
+          "x": -636,
+          "y": -274
+        }
+      ],
       "in": "lost-sector"
     },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_agonarch-abyss-2.jpg"
@@ -278,11 +350,17 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [1067696994, 1067696995, 1067697004]
+          "checklistItems": [
+            1067696994,
+            1067696995,
+            1067697004
+          ]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [1370818866]
+          "checklistItems": [
+            1370818866
+          ]
         }
       ]
     }
@@ -298,6 +376,12 @@
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
     "map": {
+      "points": [
+        {
+          "x": -164,
+          "y": -12
+        }
+      ],
       "in": "lost-sector"
     },
     "screenshot": "/static/images/screenshots/ascendant-challenges/ascendant-challenge_cimmerian-garrison-2.jpg"
@@ -307,11 +391,20 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Xortal, Sworn of Crota",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937,
     "activityLightLevel": 980,
+    "map": {
+      "points": [
+        {
+          "x": 430,
+          "y": 347
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -332,11 +425,20 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Horkis, Fear of Mithrax",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "icon": "patrol-boss-dusk"
     },
     "destinationHash": 677774031,
     "bubbleHash": 4025450777,
     "activityLightLevel": 980,
+    "map": {
+      "points": [
+        {
+          "x": 2,
+          "y": -429
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -357,11 +459,20 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Jaxx, Claw of Xivu Arath",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
     "bubbleHash": 4195493657,
     "activityLightLevel": 980,
+    "map": {
+      "points": [
+        {
+          "x": -192,
+          "y": -116
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -382,11 +493,20 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Fallen Council",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_."
+      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "icon": "patrol-boss-dusk"
     },
     "destinationHash": 677774031,
     "bubbleHash": 3326367698,
     "activityLightLevel": 980,
+    "map": {
+      "points": [
+        {
+          "x": -647,
+          "y": -539
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -2973,6 +3093,224 @@
       "video": "https://twitter.com/Ansonikage/status/1506393515181453328"
     }
   },
+  "262": {
+    "hash": "262",
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1343989713,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-1343989713.jpg"
+  },
+  "263": {
+    "hash": "263",
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2587582303,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2587582303.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=CGvULjntin0&t=27s"
+    }
+  },
+  "264": {
+    "hash": 264,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2493140158,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2493140158.jpg"
+  },
+  "265": {
+    "hash": 265,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1351660365,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1351660365.jpg"
+  },
+  "266": {
+    "hash": 266,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1960240794,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1960240794.jpg"
+  },
+  "267": {
+    "hash": 267,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2522062651,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-2522062651.jpg"
+  },
+  "268": {
+    "hash": 268,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1578181908,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/hydroponics-delta-1578181908.jpg"
+  },
+  "269": {
+    "hash": 269,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 868910976,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/thrilladrome-868910976.jpg"
+  },
+  "270": {
+    "hash": 270,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 771428611,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-771428611.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "271": {
+    "hash": 271,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4254313516,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-4254313516.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "272": {
+    "hash": 272,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 387967114,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-387967114.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "273": {
+    "hash": 273,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4196121769,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-4196121769.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "274": {
+    "hash": 274,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1637614024,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-1637614024.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "275": {
+    "hash": 275,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor"
+    },
+    "destinationHash": 1416096592,
+    "bubbleHash": 3522109173,
+    "vendorHash": 1841717884,
+    "map": {
+      "points": [
+        {
+          "x": 503,
+          "y": -310
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-1-2.jpg"
+  },
+  "276": {
+    "hash": 276,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor"
+    },
+    "destinationHash": 1416096592,
+    "bubbleHash": 706937272,
+    "vendorHash": 1841717884,
+    "map": {
+      "points": [
+        {
+          "x": -430,
+          "y": -138
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-2-2.jpg"
+  },
+  "277": {
+    "hash": 277,
+    "nodeType": 10,
+    "displayProperties": {
+      "name": "",
+      "description": "",
+      "icon": "vendor"
+    },
+    "destinationHash": 1416096592,
+    "bubbleHash": 2762866308,
+    "vendorHash": 1841717884,
+    "map": {
+      "points": [
+        {
+          "x": 68,
+          "y": 259
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_petra-3-2.jpg"
+  },
   "278": {
     "hash": 278,
     "nodeType": 1,
@@ -2983,6 +3321,14 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
+    "map": {
+      "points": [
+        {
+          "x": -682,
+          "y": 80
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/portals/portal_278.jpg"
   },
   "279": {
@@ -2995,6 +3341,73 @@
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
+    }
+  },
+  "280": {
+    "hash": 280,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2267616815,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-2267616815.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "281": {
+    "hash": 281,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3269514502,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-3269514502.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "282": {
+    "hash": 282,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 239447509,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/zephyr-concourse-239447509.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "283": {
+    "hash": 283,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1968232284,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/zephyr-concourse-1968232284.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=vqXwSIPSWG4&t=137s"
     }
   },
   "287": {
@@ -3590,8 +4003,7 @@
       "description": ""
     },
     "checklistHash": 2754290383,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_1.jpg"
   },
   "391": {
     "hash": 391,
@@ -3600,8 +4012,7 @@
       "description": ""
     },
     "checklistHash": 4069164097,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_2.jpg"
   },
   "392": {
     "hash": 392,
@@ -3610,8 +4021,7 @@
       "description": ""
     },
     "checklistHash": 3577247371,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-rupture_region-chests_3.jpg"
   },
   "393": {
     "hash": 393,
@@ -3620,8 +4030,7 @@
       "description": ""
     },
     "checklistHash": 2313471548,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_4.jpg"
   },
   "394": {
     "hash": 394,
@@ -3630,8 +4039,7 @@
       "description": ""
     },
     "checklistHash": 2693527578,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_5.jpg"
   },
   "395": {
     "hash": 395,
@@ -3640,8 +4048,7 @@
       "description": ""
     },
     "checklistHash": 2890414560,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/lost-oasis_region-chests_6.jpg"
   },
   "396": {
     "hash": 396,
@@ -3650,8 +4057,7 @@
       "description": ""
     },
     "checklistHash": 2317648357,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_7.jpg"
   },
   "397": {
     "hash": 397,
@@ -3660,8 +4066,7 @@
       "description": ""
     },
     "checklistHash": 3860391092,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_8.jpg"
   },
   "398": {
     "hash": 398,
@@ -3670,8 +4075,7 @@
       "description": ""
     },
     "checklistHash": 3096918071,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/region-chests/giants-scar_region-chests_9.jpg"
   },
   "399": {
     "hash": 399,
@@ -3680,8 +4084,7 @@
       "description": ""
     },
     "checklistHash": 4137615299,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/aphix-conduit-4137615299.jpg"
   },
   "400": {
     "hash": 400,
@@ -3690,8 +4093,7 @@
       "description": ""
     },
     "checklistHash": 2270999908,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/sanctum-of-bones-2270999908.jpg"
   },
   "401": {
     "hash": 401,
@@ -3700,8 +4102,7 @@
       "description": ""
     },
     "checklistHash": 3883378312,
-    "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg",
-    "extended": {}
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/grove-of-ulan-tan-3883378312.jpg"
   },
   "430": {
     "hash": 430,
@@ -6592,11 +6993,315 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Alluring Curtain Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_."
+      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_.",
+      "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",
     "destinationHash": 2244580325,
     "bubbleHash": 3056690829,
+    "map": {
+      "points": [
+        {
+          "x": 63,
+          "y": -373
+        }
+      ],
+      "crumbs": [
+        {
+          "points": [
+            {
+              "x": 74,
+              "y": -380
+            },
+            {
+              "x": 76,
+              "y": -388
+            },
+            {
+              "x": 74,
+              "y": -397
+            },
+            {
+              "x": 67,
+              "y": -407
+            },
+            {
+              "x": 59,
+              "y": -415
+            },
+            {
+              "x": 47,
+              "y": -432
+            },
+            {
+              "x": 46,
+              "y": -441
+            },
+            {
+              "x": 46,
+              "y": -448
+            },
+            {
+              "x": 49,
+              "y": -455
+            },
+            {
+              "x": 57,
+              "y": -463
+            },
+            {
+              "x": 76,
+              "y": -475
+            },
+            {
+              "x": 204,
+              "y": -545
+            },
+            {
+              "x": 207,
+              "y": -552
+            },
+            {
+              "x": 206,
+              "y": -559
+            },
+            {
+              "x": 205,
+              "y": -566
+            },
+            {
+              "x": 204,
+              "y": -573
+            },
+            {
+              "x": 204,
+              "y": -583
+            },
+            {
+              "x": 205,
+              "y": -593
+            },
+            {
+              "x": 206,
+              "y": -608
+            },
+            {
+              "x": 212,
+              "y": -622
+            },
+            {
+              "x": 218,
+              "y": -637
+            },
+            {
+              "x": 225,
+              "y": -649
+            },
+            {
+              "x": 246,
+              "y": -664
+            },
+            {
+              "x": 278,
+              "y": -677
+            },
+            {
+              "x": 292,
+              "y": -686
+            },
+            {
+              "x": 310,
+              "y": -710
+            },
+            {
+              "x": 327,
+              "y": -715
+            },
+            {
+              "x": 336,
+              "y": -706
+            },
+            {
+              "x": 350,
+              "y": -695
+            },
+            {
+              "x": 375,
+              "y": -686
+            },
+            {
+              "x": 392,
+              "y": -679
+            },
+            {
+              "x": 407,
+              "y": -666
+            },
+            {
+              "x": 409,
+              "y": -651
+            },
+            {
+              "x": 421,
+              "y": -645
+            },
+            {
+              "x": 436,
+              "y": -639
+            },
+            {
+              "x": 461,
+              "y": -639
+            },
+            {
+              "x": 499,
+              "y": -640
+            },
+            {
+              "x": 533,
+              "y": -637
+            },
+            {
+              "x": 553,
+              "y": -636
+            },
+            {
+              "x": 571,
+              "y": -648
+            },
+            {
+              "x": 573,
+              "y": -665
+            },
+            {
+              "x": 569,
+              "y": -680
+            },
+            {
+              "x": 563,
+              "y": -692
+            },
+            {
+              "x": 559,
+              "y": -710
+            },
+            {
+              "x": 560,
+              "y": -730
+            },
+            {
+              "x": 565,
+              "y": -749
+            },
+            {
+              "x": 568,
+              "y": -780
+            },
+            {
+              "x": 559,
+              "y": -799
+            },
+            {
+              "x": 559,
+              "y": -817
+            },
+            {
+              "x": 563,
+              "y": -838
+            },
+            {
+              "x": 578,
+              "y": -851
+            },
+            {
+              "x": 590,
+              "y": -867
+            },
+            {
+              "x": 595,
+              "y": -884
+            },
+            {
+              "x": 591,
+              "y": -903
+            },
+            {
+              "x": 571,
+              "y": -919
+            },
+            {
+              "x": 569,
+              "y": -929
+            },
+            {
+              "x": 572,
+              "y": -936
+            },
+            {
+              "x": 586,
+              "y": -951
+            },
+            {
+              "x": 595,
+              "y": -963
+            },
+            {
+              "x": 602,
+              "y": -978
+            },
+            {
+              "x": 602,
+              "y": -997
+            },
+            {
+              "x": 596,
+              "y": -1004
+            },
+            {
+              "x": 599,
+              "y": -1011
+            },
+            {
+              "x": 603,
+              "y": -1018
+            },
+            {
+              "x": 609,
+              "y": -1027
+            },
+            {
+              "x": 612,
+              "y": -1042
+            },
+            {
+              "x": 615,
+              "y": -1054
+            },
+            {
+              "x": 619,
+              "y": -1064
+            },
+            {
+              "x": 626,
+              "y": -1074
+            },
+            {
+              "x": 636,
+              "y": -1082
+            },
+            {
+              "x": 645,
+              "y": -1090
+            },
+            {
+              "type": "target",
+              "x": 645,
+              "y": -1090
+            }
+          ]
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -6616,11 +7321,211 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Queen's Bailey Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_."
+      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_.",
+      "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",
     "destinationHash": 2244580325,
     "bubbleHash": 409878074,
+    "map": {
+      "points": [
+        {
+          "x": 693,
+          "y": -83
+        }
+      ],
+      "crumbs": [
+        {
+          "points": [
+            {
+              "x": 692,
+              "y": -62
+            },
+            {
+              "x": 688,
+              "y": -49
+            },
+            {
+              "x": 694,
+              "y": -35
+            },
+            {
+              "x": 708,
+              "y": -29
+            },
+            {
+              "x": 726,
+              "y": -23
+            },
+            {
+              "x": 746,
+              "y": -15
+            },
+            {
+              "x": 759,
+              "y": -4
+            },
+            {
+              "x": 763,
+              "y": 8
+            },
+            {
+              "x": 768,
+              "y": 19
+            },
+            {
+              "x": 776,
+              "y": 49
+            },
+            {
+              "x": 781,
+              "y": 60
+            },
+            {
+              "x": 785,
+              "y": 74
+            },
+            {
+              "x": 788,
+              "y": 91
+            },
+            {
+              "x": 783,
+              "y": 102
+            },
+            {
+              "x": 771,
+              "y": 105
+            },
+            {
+              "x": 762,
+              "y": 110
+            },
+            {
+              "x": 760,
+              "y": 125
+            },
+            {
+              "x": 759,
+              "y": 139
+            },
+            {
+              "x": 762,
+              "y": 155
+            },
+            {
+              "x": 760,
+              "y": 168
+            },
+            {
+              "x": 759,
+              "y": 184
+            },
+            {
+              "x": 759,
+              "y": 199
+            },
+            {
+              "x": 758,
+              "y": 214
+            },
+            {
+              "x": 756,
+              "y": 227
+            },
+            {
+              "x": 757,
+              "y": 241
+            },
+            {
+              "x": 759,
+              "y": 250
+            },
+            {
+              "x": 762,
+              "y": 260
+            },
+            {
+              "x": 769,
+              "y": 271
+            },
+            {
+              "x": 779,
+              "y": 271
+            },
+            {
+              "x": 790,
+              "y": 272
+            },
+            {
+              "x": 805,
+              "y": 271
+            },
+            {
+              "x": 819,
+              "y": 270
+            },
+            {
+              "x": 835,
+              "y": 273
+            },
+            {
+              "x": 849,
+              "y": 271
+            },
+            {
+              "x": 863,
+              "y": 272
+            },
+            {
+              "x": 877,
+              "y": 275
+            },
+            {
+              "x": 886,
+              "y": 268
+            },
+            {
+              "x": 894,
+              "y": 270
+            },
+            {
+              "x": 895,
+              "y": 277
+            },
+            {
+              "x": 906,
+              "y": 284
+            },
+            {
+              "x": 920,
+              "y": 287
+            },
+            {
+              "x": 933,
+              "y": 289
+            },
+            {
+              "x": 948,
+              "y": 289
+            },
+            {
+              "x": 966,
+              "y": 289
+            },
+            {
+              "x": 981,
+              "y": 290
+            },
+            {
+              "type": "target",
+              "x": 981,
+              "y": 290
+            }
+          ]
+        }
+      ]
+    },
     "related": {
       "records": [
         {
@@ -6640,11 +7545,227 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Witch's Echo Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_."
+      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_.",
+      "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",
     "destinationHash": 2244580325,
     "bubbleHash": 3375528975,
+    "map": {
+      "points": [
+        {
+          "x": 92,
+          "y": 223
+        }
+      ],
+      "crumbs": [
+        {
+          "points": [
+            {
+              "x": 92,
+              "y": 243
+            },
+            {
+              "x": 81,
+              "y": 246
+            },
+            {
+              "x": 74,
+              "y": 246
+            },
+            {
+              "x": 65,
+              "y": 247
+            },
+            {
+              "x": 55,
+              "y": 247
+            },
+            {
+              "x": 45,
+              "y": 248
+            },
+            {
+              "x": 34,
+              "y": 252
+            },
+            {
+              "x": 24,
+              "y": 257
+            },
+            {
+              "x": 15,
+              "y": 258
+            },
+            {
+              "x": 6,
+              "y": 259
+            },
+            {
+              "x": -1,
+              "y": 263
+            },
+            {
+              "x": -4,
+              "y": 271
+            },
+            {
+              "x": 0,
+              "y": 275
+            },
+            {
+              "x": 4,
+              "y": 283
+            },
+            {
+              "x": 5,
+              "y": 290
+            },
+            {
+              "x": 5,
+              "y": 301
+            },
+            {
+              "x": 2,
+              "y": 307
+            },
+            {
+              "x": -4,
+              "y": 309
+            },
+            {
+              "x": -11,
+              "y": 310
+            },
+            {
+              "x": -18,
+              "y": 306
+            },
+            {
+              "x": -25,
+              "y": 302
+            },
+            {
+              "x": -28,
+              "y": 294
+            },
+            {
+              "x": -31,
+              "y": 287
+            },
+            {
+              "x": -36,
+              "y": 280
+            },
+            {
+              "x": -37,
+              "y": 272
+            },
+            {
+              "x": -39,
+              "y": 263
+            },
+            {
+              "x": -38,
+              "y": 257
+            },
+            {
+              "x": -40,
+              "y": 248
+            },
+            {
+              "x": -45,
+              "y": 242
+            },
+            {
+              "x": -53,
+              "y": 240
+            },
+            {
+              "x": -62,
+              "y": 243
+            },
+            {
+              "x": -70,
+              "y": 252
+            },
+            {
+              "x": -77,
+              "y": 260
+            },
+            {
+              "x": -100,
+              "y": 280
+            },
+            {
+              "x": -115,
+              "y": 294
+            },
+            {
+              "x": -151,
+              "y": 337
+            },
+            {
+              "x": -168,
+              "y": 347
+            },
+            {
+              "x": -199,
+              "y": 357
+            },
+            {
+              "x": -244,
+              "y": 369
+            },
+            {
+              "x": -267,
+              "y": 381
+            },
+            {
+              "x": -277,
+              "y": 395
+            },
+            {
+              "x": -277,
+              "y": 414
+            },
+            {
+              "x": -274,
+              "y": 429
+            },
+            {
+              "x": -255,
+              "y": 509
+            },
+            {
+              "x": -254,
+              "y": 532
+            },
+            {
+              "x": -254,
+              "y": 557
+            },
+            {
+              "x": -257,
+              "y": 574
+            },
+            {
+              "x": -258,
+              "y": 594
+            },
+            {
+              "x": -254,
+              "y": 612
+            },
+            {
+              "type": "target",
+              "x": -254,
+              "y": 612
+            }
+          ]
+        }
+      ]
+    },
     "related": {
       "records": [
         {
