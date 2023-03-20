@@ -4223,8 +4223,76 @@
     },
     "extended": {
       "video": "https://www.youtube.com/watch?v=8Ce1Xh9udrQ",
-      "tip": "Stand at the tip of each defense cannon and destroy the resonant acnhors to reveal a secret at the cannon farthest from your point of ingress."
+      "tip": "Stand at the tip of each defense cannon and destroy the resonant anchors to reveal a secret at the cannon farthest from your point of ingress."
     }
+  },
+  "350": {
+    "hash": 350,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3904017033,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=vqXwSIPSWG4",
+      "tip": "Ignite the fires."
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/mayas-retreat-3904017033.jpg"
+  },
+  "351": {
+    "hash": 351,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1884537451,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3876820785
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/mayas-retreat-1884537451.jpg"
+  },
+  "352": {
+    "hash": 352,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3040709428,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3876820785
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/mayas-retreat-3040709428.jpg"
+  },
+  "353": {
+    "hash": 353,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4094809845,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3876820785
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/mayas-retreat-4094809845.jpg"
   },
   "390": {
     "hash": 390,
