@@ -1,4 +1,5 @@
 import BraytechCommonDefinition from '@Data/manifest/de/BraytechCommonDefinition.json';
+import BraytechFeatureDefinition from '@Data/manifest/de/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/de/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/de/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/de/DestinyActivityDefinition.json';
@@ -20,6 +21,7 @@ import DestinyTraitDefinition from '@Data/manifest/de/DestinyTraitDefinition.jso
 const de = {
   definitions: {
     BraytechCommonDefinition,
+    BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
     DestinyActivityDefinition,

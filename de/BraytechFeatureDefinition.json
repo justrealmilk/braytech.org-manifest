@@ -1,93 +1,164 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "Clan",
       "description": "Informationen zu deinem Clan, seiner Besatzung, historische Statistiken für alle Mitglieder und einem Admin Modus"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "Sammlungen",
       "description": "Gegenstände, die dein Hüter im Laufe seines Lebens erworben hat"
     }
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "Triumphe",
       "description": "Triumphe, die dein Hüter durch seine Prüfungen erzielt hat"
     }
   },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "Karten",
       "description": "Interaktive Karten mit Checklisten und anderen wichtigen Zielen"
     }
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "Wöchentliches",
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "Charakter",
       "description": "Inspiziere die Ausrüstung und das Inventar deines Hüters"
     }
   },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "Quests",
       "description": "Tracke deine Aufgaben, inklusive Quest und Beutezüge."
     }
   },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "Aktivitäten",
       "description": "Bestaune und filtere deine 'Schmelztiegel-Berichte' im Detail"
     }
   },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "Einstellungen",
       "description": "Konto, Design, lokale Daten, Sichtbarkeit von Gegenständen, Sprache, Entwickler, Fehlerbehebung"
     }
   },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "Vergleichen",
       "description": "Finde und vergleiche deine schnellsten Abschlüsse für Dämmerungsstrikes und Albtraumjagden mit anderen Hütern"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "Archiv",
       "description": "Interaktive Tools, Handbücher, Legenden und weiteren Inhalten"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
       "name": "FAQ",
       "description": "Toms Favoriten der häufig gestellten Fragen"
     }
   },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "Danksagung",
       "description": "Über die Hüter, die es möglich machen"
+    }
+  },
+  "journey": {
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    }
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken"
+    }
+  },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    }
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    }
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    }
+  },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    }
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    }
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
+  "legend": {
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Life and death are liar's tools. Weave your own lie."
+    }
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
     }
   }
 }

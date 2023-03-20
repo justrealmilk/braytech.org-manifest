@@ -1,93 +1,164 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
-      "name": "🦘 Clan",
-      "description": "🦘 About your clan, its roster, summative historical stats for all members, and admin mode"
+      "name": "Clan",
+      "description": "About your clan, its roster, summative historical stats for all members, and admin mode"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
-      "name": "🦘 Collections",
-      "description": "🦘 Items your Guardian has acquired over their lifetime"
+      "name": "Collections",
+      "description": "Items your Guardian has acquired over their lifetime"
     }
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
-      "name": "🦘 Triumphs",
-      "description": "🦘 Records your Guardian has achieved through their trials"
+      "name": "Triumphs",
+      "description": "Records your Guardian has achieved through their trials"
     }
   },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
-      "name": "🦘 Maps",
-      "description": "🦘 Interactive maps charting checklists and other notable destinations"
+      "name": "Maps",
+      "description": "Interactive maps charting checklists and other notable destinations"
     }
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
-      "name": "🦘 Weeklies",
-      "description": "🦘 A Guardian's guide to weekly rituals with tips for prestige and triumph"
+      "name": "Weeklies",
+      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph"
     }
   },
   "character": {
-    "hash": "character",
     "displayProperties": {
-      "name": "🦘 Character",
-      "description": "🦘 Review your Guardian's equipment and inventory"
+      "name": "Character",
+      "description": "Review your Guardian's equipment and inventory"
     }
   },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
-      "name": "🦘 Quests",
-      "description": "🦘 Track your pursuits, including quests and bounties"
+      "name": "Quests",
+      "description": "Track your pursuits, including quests and bounties"
     }
   },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
-      "name": "🦘 Activity",
-      "description": "🦘 Explore and filter your Post Game Carnage Reports in detail"
+      "name": "Activity",
+      "description": "Explore and filter your Post Game Carnage Reports in detail"
     }
   },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
-      "name": "🦘 Settings",
-      "description": "🦘 Account, theme, local data, item visibility, language, developer, troubleshooting"
+      "name": "Settings",
+      "description": "Account, theme, local data, item visibility, language, developer, troubleshooting"
     }
   },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
-      "name": "🦘 Compare",
-      "description": "🦘 Go head to head with fellow Guardians for vanity"
+      "name": "Compare",
+      "description": "Go head to head with fellow Guardians for vanity"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
-      "name": "🦘 Archives",
-      "description": "🦘 Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations"
+      "name": "Archives",
+      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
-      "name": "🦘 Frequently Asked Questions",
-      "description": "🦘 The frequently asked and easy to answer"
+      "name": "Frequently Asked Questions",
+      "description": "The frequently asked and easy to answer"
     }
   },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
-      "name": "🦘 Credits",
-      "description": "🦘 About the Guardians who make it possible"
+      "name": "Credits",
+      "description": "About the Guardians who make it possible"
+    }
+  },
+  "journey": {
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    }
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
+    }
+  },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    }
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    }
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    }
+  },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    }
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    }
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
+  "legend": {
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Life and death are liar's tools. Weave your own lie."
+    }
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
     }
   }
 }
