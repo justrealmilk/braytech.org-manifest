@@ -1,93 +1,164 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "Clan",
       "description": "À propos de votre clan, de ses membres, des statistiques globales et du mode d'administration"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "Collections",
       "description": "Articles que votre Gardien a obtenu au cours du temps"
     }
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "Triomphes",
       "description": "Triomphes accomplis par votre gardien pendant ses aventures"
     }
   },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "Cartes",
       "description": "Cartes interactives répertoriant les listes de contrôle et autres destinations notables"
     }
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "Hebdomadaires",
       "description": "Un guide pour gardien des rituels hebdomadaires avec des conseils pour les prestiges et les triomphes"
     }
   },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "Personnage",
       "description": "Inspecter l'équipement de votre Gardien"
     }
   },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "Quêtes",
       "description": "Suivre vos poursuites, y compris vos quêtes et vos contrats"
     }
   },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "Activité",
       "description": "Explorer et filtrer vos rapports de fin de partie en détail"
     }
   },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "Paramètres",
       "description": "Compte, thème, données locales, visibilité des objets, langue et outils de débogage"
     }
   },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "Comparer",
       "description": "Retrouver vos meilleures performances durant les Nuits Noires et les Chasses au Cauchemar"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "Archives",
       "description": "Outils intéractifs, manuels, légendes, et autre contenu préservé par les Cryptarques pour les générations futures"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
       "name": "FAQ",
       "description": "Certaines des questions les plus fréquemment posées à Tom."
     }
   },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "Crédits",
       "description": "Ces Gardiens qui ont rendu possible cette aventure"
+    }
+  },
+  "journey": {
+    "displayProperties": {
+      "name": "Parcours",
+      "description": "Découvrez le parcours de votre Gardien, de Nouvelle Lumière à Paragon."
+    }
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Scans de Spectre et listes d'objets à récupérer dans le système solaire"
+    }
+  },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    }
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    }
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    }
+  },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    }
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    }
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
+  "legend": {
+    "displayProperties": {
+      "name": "Légende",
+      "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge."
+    }
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
     }
   }
 }

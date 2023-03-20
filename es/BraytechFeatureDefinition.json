@@ -278,5 +278,11 @@
       "name": "Créditos",
       "description": "Sobre los Guardianes que lo hacen posible"
     }
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    }
   }
 }
