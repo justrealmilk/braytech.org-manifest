@@ -4993,7 +4993,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Salt Mines Cliffs",
-      "description": "A portal to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
+      "description": "A transmat platform connected to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
       "icon": "portal"
     },
     "destinationHash": 697502628,
