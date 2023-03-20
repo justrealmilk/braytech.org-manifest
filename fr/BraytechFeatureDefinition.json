@@ -9,72 +9,280 @@
     "displayProperties": {
       "name": "Collections",
       "description": "Articles que votre Gardien a obtenu au cours du temps"
-    }
+    },
+    "keywords": [
+      "exotiques",
+      "badges",
+      "traqueurs",
+      "emblèmes",
+      "catalyseurs",
+      "légendes"
+    ]
   },
   "triumphs": {
     "displayProperties": {
       "name": "Triomphes",
       "description": "Triomphes accomplis par votre gardien pendant ses aventures"
-    }
+    },
+    "keywords": [
+      "presque complété",
+      "suivi",
+      "expiré",
+      "sceaux"
+    ]
+  },
+  "journey": {
+    "displayProperties": {
+      "name": "Parcours",
+      "description": "Naviguez à travers le parcours de votre Gardien, de Nouvelle Lumière à Parangon"
+    },
+    "keywords": [
+      "parcours",
+      "rang de gardien"
+    ]
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Éloges",
+      "description": "Célébrez les succès de votre escouade et rendez-leur les gages de votre gentillesse"
+    },
+    "keywords": [
+      "éloges",
+      "rang de gardien"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Listes de contrôle",
+      "description": "Scans de Spectre et listes de contrôle des éléments à récupérer dans le système solaire"
+    },
+    "keywords": [
+      "œufs",
+      "os d'ahamkara",
+      "coffres de région",
+      "secteurs oubliés"
+    ]
   },
   "maps": {
     "displayProperties": {
       "name": "Cartes",
-      "description": "Cartes interactives répertoriant les listes de contrôle et autres destinations notables"
-    }
+      "description": "Cartes interactives indiquant les listes de contrôle et d'autres destinations notables"
+    },
+    "keywords": [
+      "œufs",
+      "os d'ahamkara",
+      "coffres de région",
+      "secteurs oubliés"
+    ]
   },
   "weeklies": {
     "displayProperties": {
       "name": "Hebdomadaires",
-      "description": "Un guide pour gardien des rituels hebdomadaires avec des conseils pour les prestiges et les triomphes"
-    }
+      "description": "Le guide des rituels hebdomadaires du Gardien, avec des conseils pour le prestige et le triomphe"
+    },
+    "keywords": [
+      "nuit noire",
+      "secteur oublié",
+      "modules"
+    ]
+  },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Défis",
+      "description": "Tous les défis d'activité"
+    },
+    "keywords": [
+      "hebdomadaires",
+      "défis",
+      "jalons",
+      "bonus"
+    ]
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Défis saisonniers",
+      "description": "Relevez des défis à durée limitée pour obtenir des rangs de saison, de la poussière brillante et d'autres récompenses"
+    },
+    "keywords": [
+      "défis saisonniers"
+    ]
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Rechercher les rotations de diverses activités"
+    },
+    "keywords": [
+      "nuits noires",
+      "secteurs oubliés",
+      "rotations",
+      "calendrier",
+      "raids",
+      "source",
+      "autels du malheur",
+      "défi ascendant"
+    ]
   },
   "character": {
     "displayProperties": {
       "name": "Personnage",
-      "description": "Inspecter l'équipement de votre Gardien"
-    }
+      "description": "Examen de l'équipement et de l'inventaire de votre Gardien"
+    },
+    "keywords": [
+      "inventaire",
+      "objets",
+      "équipement",
+      "statistiques"
+    ]
+  },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Commis des Postes",
+      "description": "Les cadres du commis des postes surveillent consciencieusement les livraisons, les messages et les objets perdus"
+    },
+    "keywords": [
+      "commis des postes"
+    ]
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Coffre",
+      "description": "Stockage sécurisé pour les objets généraux. Accessible à tous vos personnages"
+    },
+    "keywords": [
+      "coffre"
+    ]
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendeurs",
+      "description": "Espionner vos délégataires de tâches et vos partenaires commerciaux préférés"
+    },
+    "keywords": [
+      "vendeurs",
+      "calendrier poussière brillante",
+      "calendrier everversum"
+    ]
   },
   "quests": {
     "displayProperties": {
       "name": "Quêtes",
-      "description": "Suivre vos poursuites, y compris vos quêtes et vos contrats"
+      "description": "Suivez vos poursuites, y compris les quêtes et les récompenses"
     }
+  },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Contrats",
+      "description": "Toutes les contrats du Gardien sélectionné"
+    },
+    "keywords": [
+      "contrat"
+    ]
   },
   "activity": {
     "displayProperties": {
       "name": "Activité",
-      "description": "Explorer et filtrer vos rapports de fin de partie en détail"
-    }
+      "description": "Explorez et filtrez vos Rapports de Carnage Post-Match en détail"
+    },
+    "keywords": [
+      "rapports",
+      "rcpm",
+      "raids",
+      "secteurs oubliés",
+      "nuits noires",
+      "assauts",
+      "épreuve",
+      "jugement",
+      "compétitif",
+      "matchs",
+      "réputation",
+      "rangs"
+    ]
+  },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Signets",
+      "description": "Activités que vous avez mises en favoris"
+    },
+    "keywords": [
+      "rapports",
+      "rcpm",
+      "raids",
+      "secteurs oubliés",
+      "nuits noires",
+      "assauts",
+      "épreuve",
+      "jugement",
+      "compétitif",
+      "matchs"
+    ]
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Série",
+      "description": "Triomphe dans les conditions les plus périlleuses, reportages sur les premières victoires de vos escouades contre nos plus grands adversaires"
+    },
+    "keywords": [
+      "rapports",
+      "rcpm",
+      "statistiques",
+      "raids",
+      "secteurs oubliés",
+      "nuits noires",
+      "assauts",
+      "escouades",
+      "day one",
+      "mode tournoi",
+      "achèvements",
+      "sans fautes",
+      "matchs"
+    ]
   },
   "settings": {
     "displayProperties": {
       "name": "Paramètres",
-      "description": "Compte, thème, données locales, visibilité des objets, langue et outils de débogage"
+      "description": "Compte, thème, données locales, visibilité des éléments, langue, mode développeur, dépannage"
+    }
+  },
+  "legend": {
+    "displayProperties": {
+      "name": "Légende",
+      "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge. Affichez fièrement ce résumé devant vos amis et vos ennemis."
     }
   },
   "compare": {
     "displayProperties": {
-      "name": "Comparer",
-      "description": "Retrouver vos meilleures performances durant les Nuits Noires et les Chasses au Cauchemar"
+      "name": "Comparaison",
+      "description": "Affrontez d'autres gardiens pour obtenir de la vanité."
     }
   },
   "archives": {
     "displayProperties": {
       "name": "Archives",
-      "description": "Outils intéractifs, manuels, légendes, et autre contenu préservé par les Cryptarques pour les générations futures"
+      "description": "Outils interactifs, manuels, légendes et autres contenus, préservés par les Cryptarques pour les générations futures."
     }
   },
   "faq": {
     "displayProperties": {
-      "name": "FAQ",
-      "description": "Certaines des questions les plus fréquemment posées à Tom."
+      "name": "Questions fréquentes",
+      "description": "Les questions les plus fréquemment posées et auxquelles il est facile de répondre"
+    },
+    "keywords": [
+      "faq",
+      "aide",
+      "raccourcis"
+    ]
+  },
+  "privacy": {
+    "displayProperties": {
+      "name": "Vie privée",
+      "description": "Respecter les limites personnelles"
     }
   },
   "credits": {
     "displayProperties": {
       "name": "Crédits",
-      "description": "Ces Gardiens qui ont rendu possible cette aventure"
+      "description": "À propos des gardiens qui ont rendu cela possible"
     }
   },
   "journey": {
