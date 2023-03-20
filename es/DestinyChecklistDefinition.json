@@ -139,5 +139,20 @@
       "name": "Cifrado necrótico"
     },
     "progressDescription": "Cifrados necróticos recogidos"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Figuras de acción"
+    },
+    "entry": {
+      "name": "Figura de acción"
+    },
+    "progressDescription": "Juguetes recolectados"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Repetidores de apogeo"
+    },
+    "progressDescription": "Repetidores neutralizados"
   }
 }

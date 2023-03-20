@@ -1,4 +1,5 @@
 import BraytechCommonDefinition from '@Data/manifest/es-MX/BraytechCommonDefinition.json';
+import BraytechActivityDefinition from '@Data/manifest/es-MX/BraytechActivityDefinition.json';
 import BraytechActivityDifficultyDefinition from '@Data/manifest/es-MX/BraytechActivityDifficultyDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/es-MX/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/es-MX/BraytechMapsTypesDefinition.json';
@@ -26,6 +27,7 @@ import DestinyTraitDefinition from '@Data/manifest/es-MX/DestinyTraitDefinition.
 const esMX = {
   definitions: {
     BraytechCommonDefinition,
+    BraytechActivityDefinition,
     BraytechActivityDifficultyDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
