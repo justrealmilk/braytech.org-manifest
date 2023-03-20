@@ -3410,6 +3410,62 @@
       "video": "https://www.youtube.com/watch?v=vqXwSIPSWG4&t=137s"
     }
   },
+  "284": {
+    "hash": 284,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4287738336,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/irkalla-complex-4287738336.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1861655214
+        }
+      ]
+    }
+  },
+  "285": {
+    "hash": 285,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1526868679,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/irkalla-complex-1526868679.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1861655214
+        }
+      ]
+    },
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 65,
+          "y": 65
+        }
+      }
+    }
+  },
+  "286": {
+    "hash": 286,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1483261694,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/irkalla-complex-1483261694.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1861655214
+        }
+      ]
+    }
+  },
   "287": {
     "hash": 287,
     "displayProperties": {
@@ -3588,6 +3644,22 @@
     },
     "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
   },
+  "300": {
+    "hash": 300,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3652767709,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/esi-terminal-3652767709.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3059570163
+        }
+      ]
+    }
+  },
   "301": {
     "hash": 301,
     "displayProperties": {
@@ -3607,7 +3679,7 @@
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "instructions": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
+      "tip": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
     }
   },
   "303": {
@@ -3618,6 +3690,38 @@
     },
     "checklistHash": 1353530822,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-1353530822.jpg"
+  },
+  "304": {
+    "hash": 304,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2724068250,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/esi-terminal-2724068250.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3059570163
+        }
+      ]
+    }
+  },
+  "305": {
+    "hash": 305,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3834311763,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/esi-terminal-3834311763.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3059570163
+        }
+      ]
+    }
   },
   "306": {
     "hash": 306,
@@ -4101,6 +4205,26 @@
       "video": "https://youtu.be/NtCxIwocxik"
     },
     "screenshot": "/static/images/screenshots/checklists/feline-friends/divalian-mists-3629051903.jpg"
+  },
+  "349": {
+    "hash": 349,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 235152581,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/irkalla-complex-235152581.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=8Ce1Xh9udrQ",
+      "tip": "Stand at the tip of each defense cannon and destroy the resonant acnhors to reveal a secret at the cannon farthest from your point of ingress."
+    }
   },
   "390": {
     "hash": 390,
@@ -5202,6 +5326,30 @@
       "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     },
     "screenshot": "/static/images/screenshots/checklists/stasis-sealed-chests/well-of-infinitude-1000001010.jpg"
+  },
+  "607": {
+    "hash": 607,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Esi Terminal–Irkalla Complex",
+      "description": "A resonance-powered rift to _Irkalla Complex_.",
+      "icon": "portal"
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 2725633440,
+    "screenshot": "/static/images/screenshots/portals/portal_607.jpg"
+  },
+  "608": {
+    "hash": 608,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Irkalla Complex–Esi Terminal",
+      "description": "A resonance-powered rift to _Esi Terminal_.",
+      "icon": "portal"
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 4146409015,
+    "screenshot": "/static/images/screenshots/portals/portal_608.jpg"
   },
   "2000000000": {
     "hash": 2000000000,
