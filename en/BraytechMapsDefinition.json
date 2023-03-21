@@ -4480,6 +4480,13 @@
       "description": ""
     },
     "checklistHash": 244499591,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/ahimsa-park-244499591.jpg"
   },
   "366": {
@@ -4489,6 +4496,13 @@
       "description": ""
     },
     "checklistHash": 1963132996,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
     "extended": {
       "video": "https://www.youtube.com/watch?v=c-OMhjphWaY"
     },
