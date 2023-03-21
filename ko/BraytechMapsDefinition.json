@@ -21,9 +21,6 @@
     "displayProperties": {
       "name": "우로보레아",
       "description": "모든 어둠그림자를 파괴하면 중앙의 면역 공허 수정을 부술 수 있습니다.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을  되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=dogfPHV9dZI"
     }
   },
   "5": {
@@ -36,9 +33,6 @@
     "displayProperties": {
       "name": "몰수된 제단",
       "description": "바깥쪽의 3개의 전기 구체를 중앙에 채운 후 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=rM-ymyPe7j4"
     }
   },
   "7": {
@@ -51,9 +45,6 @@
     "displayProperties": {
       "name": "조각난 폐허",
       "description": "폐허를 올라 굴복자 무리를 제거하세요.\n\\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=3YOkwILrN5M"
     }
   },
   "9": {
@@ -66,9 +57,6 @@
     "displayProperties": {
       "name": "연마된 칼날의 아성",
       "description": "군체 마법사를 제거하고, 검을 들어올리고, 군체 기사를 무찌르세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=4gvHUGJ5M1A"
     }
   },
   "11": {
@@ -81,25 +69,18 @@
     "displayProperties": {
       "name": "심판의 심연",
       "description": "바닥까지 내려가서 굴복자 마법사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=lGle_vxlkdM"
     }
   },
   "13": {
     "displayProperties": {
       "name": "심판의 심연",
-      "description": "_승천 차원_과 연결된 포탈입니다.",
-      "icon": "portal"
+      "description": "_승천 차원_과 연결된 포탈입니다."
     }
   },
   "14": {
     "displayProperties": {
       "name": "키메르 수비대",
       "description": "군체 기사와 세 개의 군체 비명자, 수호자의 탄막이 쏟아지는 승강장을 지나 제단에서 군체 기사를 제거하세요.\n\n_도전에 응하고, 세계 사이를 걸어다니며, 지금까지 끝낸 일을 되돌리세요._"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=-y2XsHv09dw"
     }
   },
   "15": {
@@ -168,112 +149,9 @@
       "description": "뚫린 돌 외벽 안쪽에 있음."
     }
   },
-  "98": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=AEqy3qL-a58"
-    }
-  },
-  "99": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=F_5HfIoe7yk"
-    }
-  },
-  "100": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "101": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "102": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "103": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "104": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "105": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "106": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "107": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
-  "108": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9MzJPMOkNBY"
-    }
-  },
   "109": {
     "displayProperties": {
       "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
-    }
-  },
-  "110": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "111": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "112": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "113": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "114": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "115": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "116": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "117": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
-    }
-  },
-  "118": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Ll4MmyDfY-Y"
     }
   },
   "127": {
@@ -345,9 +223,6 @@
   "279": {
     "displayProperties": {
       "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=s9T3rIb3HYo"
     }
   },
   "288": {
@@ -370,263 +245,6 @@
       "description": "Perched upon the midwall of the _Infinite Forest_."
     }
   },
-  "302": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "instructions": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
-    }
-  },
-  "306": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=YpKny_Yrav8"
-    }
-  },
-  "307": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Dk_fnc9GkDA"
-    }
-  },
-  "308": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
-    }
-  },
-  "309": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=mpU4GjM43OY"
-    }
-  },
-  "310": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
-    }
-  },
-  "311": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=X1_poqtAoNk"
-    }
-  },
-  "312": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=-3KkqGbjNko"
-    }
-  },
-  "313": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=SZ8aUXk89Kg"
-    }
-  },
-  "314": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=TzwxeqO0dpU"
-    }
-  },
-  "315": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=h-aNQy6mTME"
-    }
-  },
-  "316": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=5VEcwGEo6mI"
-    }
-  },
-  "317": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=VzAFKmZ-EEc"
-    }
-  },
-  "318": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=EwLi345-9uY"
-    }
-  },
-  "319": {
-    "extended": {
-      "video": "https://youtu.be/f8BtT6lW9nw"
-    }
-  },
-  "320": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8"
-    }
-  },
-  "321": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=50"
-    }
-  },
-  "322": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY"
-    }
-  },
-  "323": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=144"
-    }
-  },
-  "324": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=64"
-    }
-  },
-  "325": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=80"
-    }
-  },
-  "326": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=116"
-    }
-  },
-  "327": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=160"
-    }
-  },
-  "328": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=203"
-    }
-  },
-  "329": {
-    "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=183"
-    }
-  },
-  "330": {
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=9"
-    }
-  },
-  "331": {
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=32"
-    }
-  },
-  "332": {
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=54"
-    }
-  },
-  "333": {
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=87"
-    }
-  },
-  "334": {
-    "extended": {
-      "video": "https://youtu.be/81XxH2E-RsE?t=130"
-    }
-  },
-  "335": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=49"
-    }
-  },
-  "336": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vBriG5vH1SE&t=176"
-    }
-  },
-  "337": {
-    "extended": {
-      "video": "https://youtu.be/W8g0lsmYttk?t=62"
-    }
-  },
-  "338": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=W8g0lsmYttk"
-    }
-  },
-  "339": {
-    "extended": {
-      "video": "https://youtu.be/7kLnq__sKPA?t=1m4s"
-    }
-  },
-  "340": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&feature=youtu.be&t=2m34s"
-    }
-  },
-  "341": {
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=7kLnq__sKPA&t=43"
-    }
-  },
-  "342": {
-    "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk"
-    }
-  },
-  "343": {
-    "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk?t=2m33s"
-    }
-  },
-  "344": {
-    "extended": {
-      "video": "https://youtu.be/vrMWYYy0FGI"
-    }
-  },
-  "345": {
-    "extended": {
-      "video": "https://youtu.be/8rK9zkO2Bw0"
-    }
-  },
-  "346": {
-    "extended": {
-      "video": "https://youtu.be/HIKuJ8CtnS4"
-    }
-  },
-  "347": {
-    "extended": {
-      "video": "https://youtu.be/fhKIfCiFPt8"
-    }
-  },
-  "348": {
-    "extended": {
-      "video": "https://youtu.be/NtCxIwocxik"
-    }
-  },
-  "390": {
-    "extended": {}
-  },
-  "391": {
-    "extended": {}
-  },
-  "392": {
-    "extended": {}
-  },
-  "393": {
-    "extended": {}
-  },
-  "394": {
-    "extended": {}
-  },
-  "395": {
-    "extended": {}
-  },
-  "396": {
-    "extended": {}
-  },
-  "397": {
-    "extended": {}
-  },
-  "398": {
-    "extended": {}
-  },
-  "399": {
-    "extended": {}
-  },
-  "400": {
-    "extended": {}
-  },
-  "401": {
-    "extended": {}
-  },
   "438": {
     "displayProperties": {
       "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
@@ -641,81 +259,51 @@
   "597": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=PmSVWiaWShQ"
     }
   },
   "598": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
     }
   },
   "599": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=HBBSxTeAmH4"
     }
   },
   "600": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=bIOnQecP9hk"
     }
   },
   "601": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
     }
   },
   "602": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
     }
   },
   "603": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=9my1--wURcw"
     }
   },
   "604": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     }
   },
   "605": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     }
   },
   "606": {
     "displayProperties": {
       "description": " 조율 필요"
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=NbLr3ndl1Ps"
     }
   }
 }

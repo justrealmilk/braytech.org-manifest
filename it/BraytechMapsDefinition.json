@@ -264,6 +264,21 @@
       "description": "Appollaiato sulla parete centrale della _Foresta Infinita_."
     }
   },
+  "302": {
+    "extended": {
+      "tip": "Questo forziere ti richiede di trascendere dalla tua realtà. Per accedervi:\n\n1. Vicino a _Fratello Vance_, troverai un libro stimolante. Esaminalo.\n2. Girarti di 180°. Dirigiti verso il muro più lontano e troverai la prossima edizione sullo scaffale. Esaminala.\n3. Vai verso la libreria a destra della portale, troverai la prossima edizione accanto al braciere in fondo alla libreria. Esaminala.\n4. Torna alla prima libreria e troverai l'edizione successiva sulla scrivania accanto al discepolo. Esaminala.\n5. L'ultimo libro è nascosto in alto su uno scaffale dalla parte opposta della stanza, vicino alla fucina. Esaminalo.\n6. Apparirà un _Confluenza Vex_. Esaminala."
+    }
+  },
+  "349": {
+    "extended": {
+      "tip": "Mettiti sulla punta di ogni cannone di difesa e distruggi le ancore risonanti per rivelare un segreto al cannone più lontano dal punto di ingresso."
+    }
+  },
+  "350": {
+    "extended": {
+      "tip": "Accendi i braceri."
+    }
+  },
   "438": {
     "displayProperties": {
       "description": "Vicino al _Confluenza Vex del Reliquiario_, tra le radici di un albero morto."
@@ -272,7 +287,7 @@
   "596": {
     "displayProperties": {
       "name": "Scogliere delle Miniere di Sale",
-      "description": "Un portale per la cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
+      "description": "Una piattaforma di transmat connessa alla cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
     }
   },
   "597": {
@@ -323,6 +338,18 @@
   "606": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
+    }
+  },
+  "607": {
+    "displayProperties": {
+      "name": "Terminale Esi–Complesso Irkalla",
+      "description": "Un portale a risonanza che porta al _Complesso Irkalla_."
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "Complesso Irkalla–Terminale Esi",
+      "description": "Un portale a risonanza che porta al _Terminale Esi_."
     }
   },
   "2000000105": {

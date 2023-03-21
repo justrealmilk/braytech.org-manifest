@@ -1,9 +1,5 @@
 {
   "363696145": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Фрагментов призраков получено"
   },
   "817948795": {
@@ -23,25 +19,21 @@
     "entry": {
       "prefix": "Артефакт",
       "name": "Запечатанный стазисом сундук"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "Хранилища СГК"
     },
     "entry": {
-      "prefix": "",
       "name": "Хранилище СГК"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Кости Ахамкары"
     },
     "entry": {
-      "prefix": "",
       "name": "Кость Ахамкары"
     },
     "progressDescription": "Костей найдено"
@@ -51,7 +43,6 @@
       "name": "Сундуки региона"
     },
     "entry": {
-      "prefix": "",
       "name": "Сундук региона"
     },
     "progressDescription": "Сундуков открыто"
@@ -71,7 +62,6 @@
       "name": "Кролики"
     },
     "entry": {
-      "prefix": "",
       "name": "Кролик"
     },
     "progressDescription": "Накормленных кроликов"
@@ -121,7 +111,6 @@
       "name": "Затерянные сектора"
     },
     "entry": {
-      "prefix": "",
       "name": "Затерянный сектор"
     },
     "progressDescription": "Исследовано"
@@ -137,10 +126,6 @@
     "progressDescription": "Собрано мотыльков"
   },
   "4108857026": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Некротических шифров собрано"
   }
 }

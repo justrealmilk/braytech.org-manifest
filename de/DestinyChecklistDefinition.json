@@ -1,9 +1,5 @@
 {
   "363696145": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Tote Geister gefunden"
   },
   "817948795": {
@@ -23,25 +19,21 @@
     "entry": {
       "prefix": "Artefakt",
       "name": "Stasis-versiegelte Truhe"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC-Repositories"
     },
     "entry": {
-      "prefix": "",
       "name": "DSC-Repository"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Ahamkara-Knochen"
     },
     "entry": {
-      "prefix": "",
       "name": "Ahamkara-Knochen"
     },
     "progressDescription": "Knochen gefunden"
@@ -51,7 +43,6 @@
       "name": "Regions-Truhen"
     },
     "entry": {
-      "prefix": "",
       "name": "Regions-Truhe"
     },
     "progressDescription": "Truhen geöffnet"
@@ -71,7 +62,6 @@
       "name": "Jadehasen"
     },
     "entry": {
-      "prefix": "",
       "name": "Jadehase"
     },
     "progressDescription": "Hasen mit Reiskuchen"
@@ -121,7 +111,6 @@
       "name": "Verlorene Sektoren"
     },
     "entry": {
-      "prefix": "",
       "name": "Verlorener Sektor"
     },
     "progressDescription": "Entdeckt"
@@ -137,10 +126,6 @@
     "progressDescription": "Gesammelte Motten"
   },
   "4108857026": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Nekrotische Chiffren gesammelt"
   }
 }

@@ -47,30 +47,10 @@
     },
     "itemTypeDisplayName": "Développeur de Braytech"
   },
-    "flair-tokai": {
-      "displayProperties": {
-        "name": "Tokai",
-        "description": ""
-      },
-      "itemTypeDisplayName": "Concierge de Braytech"
-  },
-  "flair-patron-veteran": {
-    "displayProperties": {
-      "name": "Sous-programme",
-      "description": "Ce gardien est un phare de lumière qui, par ses actions, a prouvé qu'il valorisait la bravoure et le service avant tout autre chose."
-    },
-    "itemTypeDisplayName": "Supporter de Braytech"
-  },
-  "flair-patron": {
+  "flair-patron-researcher": {
     "displayProperties": {
       "name": "Chercheur",
       "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
-    },
-    "itemTypeDisplayName": "Supporter de Braytech"
-  },
-  "flair-patron-intern": {
-    "displayProperties": {
-      "name": "Interne"
     },
     "itemTypeDisplayName": "Supporter de Braytech"
   },
@@ -110,10 +90,10 @@
     "itemTypeDisplayName": "Stat"
   },
   "accurate-gear-power-average": {
-      "displayProperties": {
-        "name": "Puissance de l'équipement",
-        "description": "Le niveau de puissance moyen de vos équipements actuellement équipés.\nPour une valeur précise, votre inventaire est évalué. Si votre inventaire n'est pas public, vous devrez vous authentifier auprès de Bungie.net."
-      }
+    "displayProperties": {
+      "name": "Puissance de l'équipement",
+      "description": "Le niveau de puissance moyen de vos équipements actuellement équipés.\nPour une valeur précise, votre inventaire est évalué. Si votre inventaire n'est pas public, vous devrez vous authentifier auprès de Bungie.net."
+    }
   },
   "commonality": {
     "displayProperties": {
@@ -181,12 +161,6 @@
       "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
     }
   },
-  "coverage": {
-    "displayProperties": {
-      "name": "Couverture",
-      "description": "La couverture de cette traduction représentée en pourcentage."
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Total des réinitialisations",
@@ -197,12 +171,6 @@
     "displayProperties": {
       "name": "Bonus de Puissance d'artefact",
       "description": "Gagner de l'XP confère des bonus de puissance d'artefact et débloque de puissants mods sur votre artefact saisonnier."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Traqueur Elo de Destiny",
-      "description": "Ratio Elo du joueur courant .\n\nÉvaluations Elo d'un site Web tiers, _Destiny Tracker_. _Destiny Tracker_ fournit des évaluations Elo pour tous les joueurs de Destiny qui participent aux activités _Crucible_ et _Gambit_."
     }
   },
   "latent-memories": {
@@ -395,12 +363,6 @@
     "displayProperties": {
       "name": "Graphiques",
       "description": "Activités tracées avec des graphiques de points, pour les statistiques"
-    }
-  },
-  "sub-activity-raids": {
-    "displayProperties": {
-      "name": "Raids",
-      "description": "Triomphes dans les conditions les plus périlleuses, compte-rendu des premières victoires de vos escouades contre nos plus grands adversaires"
     }
   },
   "sub-weeklies-this-week": {

@@ -69,7 +69,7 @@
     "displayProperties": {
       "name": "アゴナークの深淵",
       "description": "奈落の底に進み宿られたウィザードを倒せ\n\n _この挑戦を受け、亜空間を突き進み、ここで起こったことすべてを元に戻せ_ "
-   }
+    }
   },
   "13": {
     "displayProperties": {
@@ -117,7 +117,7 @@
     "displayProperties": {
       "description": "屈曲の細道を見下ろす崖の上、シュールが時々現れる場所の近く"
     }
- },
+  },
   "33": {
     "displayProperties": {
       "description": "失われたセクターの入り口左側、クレートの後ろの暗がりの中にある"
@@ -278,52 +278,52 @@
   "597": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "598": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "599": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "600": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "601": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "602": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "603": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "604": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "605": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "606": {
     "displayProperties": {
       "description": "  アチューンメントが必要"
-        }
+    }
   },
   "2000000000": {
     "displayProperties": {
@@ -849,7 +849,7 @@
     "displayProperties": {
       "name": "歴史のクロニクル",
       "description": "メイビック広場にある、大崩壊前に作られた彫刻を3Dスキャンする。"
-        }
+    }
   },
   "2000000104": {
     "displayProperties": {
@@ -861,7 +861,7 @@
     "displayProperties": {
       "name": "鉱山作業",
       "description": "鉱山に入り、まだ機能している黄金時代のテクノロジーを探せ。"
-        }
+    }
   },
   "2000000106": {
     "displayProperties": {
@@ -871,7 +871,7 @@
   },
   "2000000107": {
     "displayProperties": {
-            "name": "都市飛行",
+      "name": "都市飛行",
       "description": "今ではフォールンは人類より郊外の地形に詳しい。その状況を変えろ。"
     }
   },

@@ -3,45 +3,45 @@
     "displayProperties": {
       "name": "Xbox",
       "description": "이 프로필이 사용하는 플랫폼."
-    }
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
   "platform-playstation": {
     "displayProperties": {
       "name": "Playstation",
       "description": "이 프로필이 사용하는 플랫폼."
-    }
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
   "platform-steam": {
     "displayProperties": {
       "name": "Steam",
       "description": "이 프로필이 사용하는 플랫폼."
-    }
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
   "platform-battlenet": {
     "displayProperties": {
       "name": "Battle.net",
       "description": "이 프로필이 사용하는 플랫폼."
-    }
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
   "platform-stadia": {
     "displayProperties": {
       "name": "Stadia",
       "description": "이 프로필이 사용하는 플랫폼."
-    }
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
-  "flair-warmind": {
+  "platform-epic": {
     "displayProperties": {
-      "name": "Superintendent",
-      "description": "Tom Chapman, Braytech의 제작자 겸 엔지니어."
-    }
+      "name": "Epic",
+      "description": "이 프로필이 사용하는 플랫폼."
+    },
+    "itemTypeDisplayName": "플랫폼"
   },
-  "flair-patron-veteran": {
-    "displayProperties": {
-      "name": "Subroutine",
-      "description": "이 수호자는 그 어떤 것보다도 용기와 봉사를 중요시한다는 것을 자신 스스로의 행동으로 증명해낸 빛의 등불입니다."
-    }
-  },
-  "flair-patron": {
+  "flair-patron-researcher": {
     "displayProperties": {
       "name": "Researcher",
       "description": "이 수호자는 클로비스 브레이의 기술 연구원으로써 브레이테크 기술의 발전을 추구합니다."
@@ -71,22 +71,10 @@
       "description": "어떤 업적들은 단계가 있습니다. 단계마다 요구사항과 업적 점수 값이 다릅니다."
     }
   },
-  "coverage": {
-    "displayProperties": {
-      "name": "보급률",
-      "description": "이 번역의 적용 범위는 백분율로 표시됩니다."
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "전체 초기화",
       "description": "모든 시즌동안 초기화한 총 횟수입니다. 4시즌부터 추적합니다."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "데스티니 트래커 Elo",
-      "description": "ELO 점수는 서드파티 웹사이트인 _Destiny Tracker_ 에서 제공됩니다. _Destiny Tracker_ 는 _시련의 장_ 및 _갬빗_ 활동에 참여하는 모든 데스티니 플레이어에 대한 Elo 점수를 제공합니다."
     }
   },
   "latent-memories": {

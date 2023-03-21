@@ -4,7 +4,8 @@
       "name": "Lore Book: Luna's Lost"
     },
     "entry": {
-      "name": "Ghost Fragment"
+      "name": "Ghost Fragment",
+      "completed": "Recovered"
     },
     "progressDescription": "Ghost fragments recovered"
   },
@@ -14,7 +15,8 @@
     },
     "entry": {
       "prefix": "Souvenir",
-      "name": "Penguin Souvenir"
+      "name": "Penguin Souvenir",
+      "completed": "Collected"
     },
     "progressDescription": "Souvenirs collected"
   },
@@ -24,7 +26,8 @@
     },
     "entry": {
       "prefix": "Artifact",
-      "name": "Stasis-Sealed Chest"
+      "name": "Stasis-Sealed Chest",
+      "completed": "Unlocked"
     }
   },
   "1000002000": {
@@ -32,7 +35,8 @@
       "name": "DSC Repositories"
     },
     "entry": {
-      "name": "DSC Repository"
+      "name": "DSC Repository",
+      "completed": "Collected"
     }
   },
   "1297424116": {
@@ -40,7 +44,8 @@
       "name": "Ahamkara Bones"
     },
     "entry": {
-      "name": "Ahamkara Bone"
+      "name": "Ahamkara Bone",
+      "completed": "Collected"
     },
     "progressDescription": "Bones found"
   },
@@ -49,7 +54,8 @@
       "name": "Region Chests"
     },
     "entry": {
-      "name": "Region Chest"
+      "name": "Region Chest",
+      "completed": "Unlocked"
     },
     "progressDescription": "Chests opened"
   },
@@ -59,7 +65,8 @@
     },
     "entry": {
       "prefix": "Shard",
-      "name": "Entropic Shard"
+      "name": "Entropic Shard",
+      "completed": "Destroyed"
     },
     "progressDescription": "Order restored"
   },
@@ -68,7 +75,8 @@
       "name": "Jade Rabbits"
     },
     "entry": {
-      "name": "Jade Rabbit"
+      "name": "Jade Rabbit",
+      "completed": "Fed"
     },
     "progressDescription": "Rabbits with rice cake"
   },
@@ -78,7 +86,8 @@
     },
     "entry": {
       "prefix": "Exo",
-      "name": "Dead Exo"
+      "name": "Dead Exo",
+      "completed": "Audio log recovered"
     },
     "progressDescription": "Subjects' audio logs heard"
   },
@@ -88,7 +97,8 @@
     },
     "entry": {
       "prefix": "Egg",
-      "name": "Corrupted Egg"
+      "name": "Corrupted Egg",
+      "completed": "Destroyed"
     },
     "progressDescription": "Eggs destroyed"
   },
@@ -98,7 +108,8 @@
     },
     "entry": {
       "prefix": "Feline friend",
-      "name": "Cat Statue"
+      "name": "Cat Statue",
+      "completed": "Satisfied"
     },
     "progressDescription": "Feline friends satisfied"
   },
@@ -108,7 +119,8 @@
     },
     "entry": {
       "prefix": "Rift",
-      "name": "Darkness Rift"
+      "name": "Darkness Rift",
+      "completed": "Sealed"
     },
     "progressDescription": "Rifts sealed"
   },
@@ -117,7 +129,8 @@
       "name": "Lost Sectors"
     },
     "entry": {
-      "name": "Lost Sector"
+      "name": "Lost Sector",
+      "completed": "Discovered"
     },
     "progressDescription": "Discovered"
   },
@@ -127,7 +140,8 @@
     },
     "entry": {
       "prefix": "Moth",
-      "name": "Lucent Moth"
+      "name": "Lucent Moth",
+      "completed": "Collected"
     },
     "progressDescription": "Moths collected"
   },
@@ -136,7 +150,8 @@
       "name": "Lore Book: Inquisition of the Damned"
     },
     "entry": {
-      "name": "Necrotic Cypher"
+      "name": "Necrotic Cypher",
+      "completed": "Collected"
     },
     "progressDescription": "Necrotic cyphers collected"
   },
@@ -145,13 +160,15 @@
       "name": "Action Figures"
     },
     "entry": {
-      "name": "Action Figure"
+      "name": "Action Figure",
+      "completed": "Collected"
     },
     "progressDescription": "Toys collected"
   },
   "703136805": {
     "entry": {
-      "name": "Apogee Repeater"
+      "name": "Apogee Repeater",
+      "completed": "Dismantled"
     },
     "progressDescription": "Repeaters dismantled"
   }
