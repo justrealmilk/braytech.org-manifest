@@ -4468,7 +4468,31 @@
         }
       ]
     },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=c-OMhjphWaY&t=117s"
+    },
     "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/liming-harbor-939723978.jpg"
+  },
+  "365": {
+    "hash": 365,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 244499591,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/ahimsa-park-244499591.jpg"
+  },
+  "366": {
+    "hash": 366,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1963132996,
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=c-OMhjphWaY"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/esi-terminal-1963132996.jpg"
   },
   "390": {
     "hash": 390,
