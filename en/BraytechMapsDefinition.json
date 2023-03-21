@@ -4468,7 +4468,102 @@
         }
       ]
     },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=c-OMhjphWaY&t=117s"
+    },
     "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/liming-harbor-939723978.jpg"
+  },
+  "365": {
+    "hash": 365,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 244499591,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/ahimsa-park-244499591.jpg"
+  },
+  "366": {
+    "hash": 366,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1963132996,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=c-OMhjphWaY"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/esi-terminal-1963132996.jpg"
+  },
+  "367": {
+    "hash": 367,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1862498200,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3368418630
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=JziqzPtxzIA"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/typhon-imperator-1862498200.jpg"
+  },
+  "368": {
+    "hash": 368,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2651740159,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3368418630
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=JziqzPtxzIA&t=88s"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/typhon-imperator-2651740159.jpg"
+  },
+  "369": {
+    "hash": 369,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2278501206,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3368418630
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=JziqzPtxzIA&t=111s"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/typhon-imperator-2278501206.jpg"
   },
   "390": {
     "hash": 390,
