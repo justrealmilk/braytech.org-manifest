@@ -12,7 +12,7 @@ jobs:
           distribution: oracle
           java-version: 17
       - name: Run-main
-      - run: mvn compile exec:java
+        run: mvn compile exec:java
       - name: Create Pull Request
         run:
           git config --local user.name actions-user
