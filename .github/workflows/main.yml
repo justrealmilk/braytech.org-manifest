@@ -11,6 +11,14 @@ jobs:
         with:
           distribution: oracle
           java-version: 17
+      - name: Run-main
       - run: mvn compile exec:java
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        run:
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          if ! git diff --exit-code; then
+              git add -A
+              git commit -am "Action Files added $(date)"
+              git push -f origin master
+          fi
