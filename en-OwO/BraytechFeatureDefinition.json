@@ -20,8 +20,8 @@
   },
   "activity-bookmarks": {
     "displayProperties": {
-      "description": "Activities uu've bookmawked",
-      "name": "Bookmawks"
+      "name": "Bookmawks",
+      "description": "Activities uu've bookmawked"
     },
     "keywords": [
       "reports",
@@ -38,8 +38,8 @@
   },
   "activity-series": {
     "displayProperties": {
-      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies",
-      "name": "Sewies"
+      "name": "Sewies",
+      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies"
     },
     "keywords": [
       "reports",
@@ -59,14 +59,14 @@
   },
   "archives": {
     "displayProperties": {
-      "description": "Intewactive toows, manuaws, wegends, and othew content, pwesewved by da Cwyptawchs fow futuwe genewations",
-      "name": "Awchives"
+      "name": "Awchives",
+      "description": "Intewactive toows, manuaws, wegends, and othew content, pwesewved by da Cwyptawchs fow futuwe genewations"
     }
   },
   "character": {
     "displayProperties": {
-      "description": "Weview uuw Guawdian's equipment and inventowy",
-      "name": "Chawactew"
+      "name": "Chawactew",
+      "description": "Weview uuw Guawdian's equipment and inventowy"
     },
     "keywords": [
       "inventory",
@@ -77,8 +77,8 @@
   },
   "character-postmaster": {
     "displayProperties": {
-      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items",
-      "name": "Postmastew"
+      "name": "Postmastew",
+      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items"
     },
     "keywords": [
       "postmaster"
@@ -86,8 +86,8 @@
   },
   "character-vault": {
     "displayProperties": {
-      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews",
-      "name": "Vauwt"
+      "name": "Vauwt",
+      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews"
     },
     "keywords": [
       "vault"
@@ -95,8 +95,8 @@
   },
   "character-vendors": {
     "displayProperties": {
-      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews",
-      "name": "Vendows"
+      "name": "Vendows",
+      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews"
     },
     "keywords": [
       "vendors",
@@ -106,14 +106,14 @@
   },
   "clan": {
     "displayProperties": {
-      "description": "About uuw cwan, its wostew, summative histowicaw stats fow aww membews, and admin mode",
-      "name": "Cwan"
+      "name": "Cwan",
+      "description": "About uuw cwan, its wostew, summative histowicaw stats fow aww membews, and admin mode"
     }
   },
   "collections": {
     "displayProperties": {
-      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime",
-      "name": "Cowwections"
+      "name": "Cowwections",
+      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime"
     },
     "keywords": [
       "exotics",
@@ -122,20 +122,20 @@
   },
   "compare": {
     "displayProperties": {
-      "description": "Go head to head with fewwow Guawdians fow vanity",
-      "name": "Compawe"
+      "name": "Compawe",
+      "description": "Go head to head with fewwow Guawdians fow vanity"
     }
   },
   "credits": {
     "displayProperties": {
-      "description": "About da Guawdians who make it possibwe",
-      "name": "Cwedits"
+      "name": "Cwedits",
+      "description": "About da Guawdians who make it possibwe"
     }
   },
   "faq": {
     "displayProperties": {
-      "description": "Da fwequentwy asked and easy to answew",
-      "name": "Fwequentwy Asked Questions"
+      "name": "Fwequentwy Asked Questions",
+      "description": "Da fwequentwy asked and easy to answew"
     },
     "keywords": [
       "faq",
@@ -145,8 +145,8 @@
   },
   "legend": {
     "displayProperties": {
-      "description": "Wife and death awe *sweats* wiaw's toows. Weave uuw own wie. Dispway this summawy pwoudwy befowe uuw fwiends and foes.",
-      "name": "Wegend"
+      "name": "Wegend",
+      "description": "Wife and death awe *sweats* wiaw's toows. Weave uuw own wie. Dispway this summawy pwoudwy befowe uuw fwiends and foes."
     }
   },
   "maps": {
@@ -180,8 +180,8 @@
   },
   "triumphs": {
     "displayProperties": {
-      "description": "Wecowds uuw Guawdian haz achieved thwough theiw twiaws",
-      "name": "Twiumphs"
+      "name": "Twiumphs",
+      "description": "Wecowds uuw Guawdian haz achieved thwough theiw twiaws"
     },
     "keywords": [
       "catalysts",
@@ -193,8 +193,8 @@
   },
   "triumphs-seasonal-challenges": {
     "displayProperties": {
-      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds",
-      "name": "Seasonaw Chawwenges"
+      "name": "Seasonaw Chawwenges",
+      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
     },
     "keywords": [
       "seasonal challenges"
@@ -202,8 +202,8 @@
   },
   "weeklies": {
     "displayProperties": {
-      "description": "A Guawdian's guide to weekwy wituaws with tips fow pwestige and twiumph",
-      "name": "Weekwies"
+      "name": "Weekwies",
+      "description": "A Guawdian's guide to weekwy wituaws with tips fow pwestige and twiumph"
     },
     "keywords": [
       "nightfall",
@@ -213,8 +213,8 @@
   },
   "weeklies-challenges": {
     "displayProperties": {
-      "description": "Aww activity chawwenges",
-      "name": "Chawwenges"
+      "name": "Chawwenges",
+      "description": "Aww activity chawwenges"
     },
     "keywords": [
       "weeklies",
@@ -225,8 +225,8 @@
   },
   "weeklies-rotations": {
     "displayProperties": {
-      "description": "Scwy da owbits of vawious activities",
-      "name": "Wotations"
+      "name": "Wotations",
+      "description": "Scwy da owbits of vawious activities"
     },
     "keywords": [
       "nightfalls",
