@@ -12,3 +12,5 @@ jobs:
           distribution: oracle
           java-version: 17
       - run: mvn compile exec:java
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
