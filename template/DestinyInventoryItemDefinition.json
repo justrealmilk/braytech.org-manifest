@@ -70,6 +70,18 @@
       "description": "Increases the drop rate of the \"Hierarchy of Needs\" exotic bow from the \"Spire of the Watcher\" dungeon."
     }
   },
+  "2467253899": {
+    "displayProperties": {
+      "name": "Increased \"Conditional Finality\" drop rate",
+      "description": "Increases the drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
+    }
+  },
+  "734180536": {
+    "displayProperties": {
+      "name": "Increased \"Conditional Finality\" drop rate",
+      "description": "Increases the drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
