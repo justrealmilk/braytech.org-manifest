@@ -83,6 +83,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 544256237,
+    "bindHash": 4,
     "map": {
       "points": [
         {
@@ -144,6 +145,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 278887670,
+    "bindHash": 6,
     "map": {
       "points": [
         {
@@ -201,6 +203,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 768261954,
+    "bindHash": 8,
     "map": {
       "points": [
         {
@@ -261,6 +264,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 1091325847,
+    "bindHash": 10,
     "map": {
       "points": [
         {
@@ -319,6 +323,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 735161098,
+    "bindHash": 12,
     "map": {
       "points": [
         {
@@ -375,6 +380,7 @@
     },
     "destinationHash": 1416096592,
     "bubbleHash": 3366050756,
+    "bindHash": 14,
     "map": {
       "points": [
         {
@@ -426,7 +432,7 @@
     "displayProperties": {
       "name": "Nightmare of Horkis, Fear of Mithrax",
       "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
-      "icon": "patrol-boss-dusk"
+      "icon": "patrol-boss-fallen-dusk"
     },
     "destinationHash": 677774031,
     "bubbleHash": 4025450777,
@@ -494,7 +500,7 @@
     "displayProperties": {
       "name": "Fallen Council",
       "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
-      "icon": "patrol-boss-dusk"
+      "icon": "patrol-boss-fallen-dusk"
     },
     "destinationHash": 677774031,
     "bubbleHash": 3326367698,
