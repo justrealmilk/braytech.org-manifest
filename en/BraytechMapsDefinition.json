@@ -4567,7 +4567,13 @@
       ]
     },
     "extended": {
-      "video": "https://www.youtube.com/watch?v=JziqzPtxzIA&t=111s"
+      "video": "https://www.youtube.com/watch?v=JziqzPtxzIA&t=111s",
+      "screenshot": {
+        "highlight": {
+          "x": 50.5,
+          "y": 36
+        }
+      }
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/typhon-imperator-2278501206.jpg"
   },
