@@ -4735,6 +4735,64 @@
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1824740216.jpg"
   },
+  "382": {
+    "hash": 382,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 920968630,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/typhon-imperator-920968630.jpg"
+  },
+  "383": {
+    "hash": 383,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4069293792,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "tip": "Activate the interface. Turn to face the entrance. There are 8 circular panels. From left to right, top to bottom, shoot the panels in the following order: 6, 8, 4, 5, 2, 7, 3, 1.",
+      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI&t=172s"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/radiosonde-4069293792.jpg"
+  },
+  "384": {
+    "hash": 384,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2259238763,
+    "related": {
+      "records": [
+        {
+          "recordHash": 327519256
+        }
+      ]
+    },
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI&t=344s"
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/striders-gate-2259238763.jpg"
+  },
   "390": {
     "hash": 390,
     "displayProperties": {
@@ -5859,6 +5917,30 @@
     "destinationHash": 2481646875,
     "bubbleHash": 4146409015,
     "screenshot": "/static/images/screenshots/portals/portal_608.jpg"
+  },
+  "609": {
+    "hash": 609,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Typhon Imperator: Deep",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3565738319,
+    "screenshot": "/static/images/screenshots/portals/portal_609.jpg"
+  },
+  "610": {
+    "hash": 610,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Typhon Imperator",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3565738319,
+    "screenshot": "/static/images/screenshots/portals/portal_610.jpg"
   },
   "2000000000": {
     "hash": 2000000000,
