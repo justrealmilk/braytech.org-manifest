@@ -91,22 +91,22 @@
   },
   "16": {
     "displayProperties": {
-      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+      "description": "이 악몽을 처치하고 **배회하는 악몽** 업적을 진행하세요."
     }
   },
   "17": {
     "displayProperties": {
-      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+      "description": "이 악몽을 처치하고 **배회하는 악몽** 업적을 진행하세요."
     }
   },
   "18": {
     "displayProperties": {
-      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+      "description": "이 악몽을 처치하고 **배회하는 악몽** 업적을 진행하세요."
     }
   },
   "19": {
     "displayProperties": {
-      "description": "이 악몽을 처치하고 _배회하는 악몽_ 업적을 진행하세요."
+      "description": "이 악몽을 처치하고 **배회하는 악몽** 업적을 진행하세요."
     }
   },
   "24": {
@@ -149,16 +149,6 @@
       "description": "뚫린 돌 외벽 안쪽에 있음."
     }
   },
-  "109": {
-    "displayProperties": {
-      "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
-    }
-  },
-  "127": {
-    "displayProperties": {
-      "description": "Under the ice."
-    }
-  },
   "182": {
     "displayProperties": {
       "description": "잊혀진 구역 클리어 후 출구로 가서 나가는 길에 스캔 대상 있음"
@@ -169,91 +159,16 @@
       "description": "방화벽 데이터 파편 필요. 에리스 몬 을 통해 선행 퀘스트를 받아야 함."
     }
   },
-  "184": {
-    "displayProperties": {
-      "description": "Entering the Circle of Bones via The Gatehouse, turn right and proceed to follow the loop around the Hellmouth. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
-    }
-  },
-  "215": {
-    "displayProperties": {
-      "description": "Enter the dungeon and head to the tower farthest right. Retain some altitude if possible. On the farthest side of the farthest tower, below its foot, is a cypher."
-    }
-  },
-  "216": {
-    "displayProperties": {
-      "description": "Complete the _Necropolis_ encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
-    }
-  },
-  "217": {
-    "displayProperties": {
-      "description": "Complete the _Chamber of Suffering_ encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
-    }
-  },
-  "218": {
-    "displayProperties": {
-      "description": "Drop down into the _Tunnels of Despair_ and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
-    }
-  },
-  "219": {
-    "displayProperties": {
-      "description": "In the middlest crouch-way tunnel, closest to the green gas pit where you find the solar orb. Entering the tunnel from the green gas pit side, it will quickly widen into a small room. Stop, turn 180°, and look upwards."
-    }
-  },
-  "223": {
-    "displayProperties": {
-      "description": "Enter _The Gatehouse_ via _Hellmouth_ and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
-    }
-  },
-  "225": {
-    "displayProperties": {
-      "description": "At the side on the hidden side of the pictured module."
-    }
-  },
-  "227": {
-    "displayProperties": {
-      "description": "In the _Tunnels of Despair_, on a cliff ledge adjacent to the green gas pit."
-    }
-  },
   "278": {
     "displayProperties": {
       "name": "여왕의 궁정",
       "description": "마라 소프의 왕좌의 세계, _여왕의 궁정_과 연결된 포탈입니다."
     }
   },
-  "279": {
-    "displayProperties": {
-      "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
-    }
-  },
-  "288": {
-    "displayProperties": {
-      "description": "Push past the lost sector entry junction and continue along the gangway."
-    }
-  },
-  "292": {
-    "displayProperties": {
-      "description": "Cliff-side, beneath the path which leads to a lost sector."
-    }
-  },
-  "293": {
-    "displayProperties": {
-      "description": "On the catwalk."
-    }
-  },
-  "301": {
-    "displayProperties": {
-      "description": "Perched upon the midwall of the _Infinite Forest_."
-    }
-  },
-  "438": {
-    "displayProperties": {
-      "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
-    }
-  },
   "596": {
     "displayProperties": {
       "name": "소금 광산 절벽",
-      "description": "몰락자의 부품을 모아 임시로 만든 포탈입니다. _소금 광산_ 절벽 꼭대기와 연결되어 있습니다."
+      "description": "몰락자의 부품을 모아 임시로 만든 포탈입니다. **소금 광산** 절벽 꼭대기와 연결되어 있습니다."
     }
   },
   "597": {
