@@ -1,5 +1,5 @@
 name: action
-on: [push | workflow_dispatch]
+on: [push, workflow_dispatch]
 jobs:
   clean-files:
     runs-on: ubuntu-latest
