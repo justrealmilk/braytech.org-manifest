@@ -4565,6 +4565,176 @@
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/typhon-imperator-2278501206.jpg"
   },
+  "370": {
+    "hash": 370,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 61217800,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-61217800.jpg"
+  },
+  "371": {
+    "hash": 371,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2442093127,
+    "extended": {
+      "tip": "At the foot of..."
+    },
+    "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-2442093127.jpg"
+  },
+  "372": {
+    "hash": 372,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4006123814,
+    "extended": {
+      "tip": "Lies beneath..."
+    },
+    "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-4006123814.jpg"
+  },
+  "373": {
+    "hash": 373,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 198109441,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/gilded-precept-198109441.jpg"
+  },
+  "374": {
+    "hash": 374,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 238513217,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-238513217.jpg"
+  },
+  "375": {
+    "hash": 375,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1445055870,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1445055870.jpg"
+  },
+  "376": {
+    "hash": 376,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1488662855,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1488662855.jpg"
+  },
+  "377": {
+    "hash": 377,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3618196612,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-3618196612.jpg"
+  },
+  "378": {
+    "hash": 378,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2911802565,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-2911802565.jpg"
+  },
+  "379": {
+    "hash": 379,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3471868578,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-3471868578.jpg"
+  },
+  "380": {
+    "hash": 380,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3165550331,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-3165550331.jpg"
+  },
+  "381": {
+    "hash": 381,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1824740216,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3425146071
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1824740216.jpg"
+  },
   "390": {
     "hash": 390,
     "displayProperties": {
