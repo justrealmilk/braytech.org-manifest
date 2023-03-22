@@ -35,19 +35,33 @@
     "displayProperties": {
       "name": "Parcours",
       "description": "Découvrez le parcours de votre Gardien, de Nouvelle Lumière à Paragon."
-    }
+    },
+    "keywords": [
+      "parcours",
+      "rang de gardien"
+    ]
   },
   "commendations": {
     "displayProperties": {
-      "name": "Commendations",
-      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
-    }
+      "name": "Éloges",
+      "description": "Célébrez les succès de votre escouade et rendez-leur les gages de votre gentillesse"
+    },
+    "keywords": [
+      "éloges",
+      "rang de gardien"
+    ]
   },
   "checklists": {
     "displayProperties": {
-      "name": "Checklists",
-      "description": "Scans de Spectre et listes d'objets à récupérer dans le système solaire"
-    }
+      "name": "Listes de contrôle",
+      "description": "Scans de Spectre et listes de contrôle des éléments à récupérer dans le système solaire"
+    },
+    "keywords": [
+      "œufs",
+      "os d'ahamkara",
+      "coffres de région",
+      "secteurs oubliés"
+    ]
   },
   "maps": {
     "displayProperties": {
@@ -74,21 +88,40 @@
   },
   "weeklies-challenges": {
     "displayProperties": {
-      "name": "Challenges",
-      "description": "All activity challenges"
-    }
+      "name": "Défis",
+      "description": "Tous les défis d'activité"
+    },
+    "keywords": [
+      "hebdomadaires",
+      "défis",
+      "jalons",
+      "bonus"
+    ]
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
+      "name": "Défis saisonniers",
+      "description": "Relevez des défis à durée limitée pour obtenir des rangs de saison, de la poussière brillante et d'autres récompenses"
+    },
+    "keywords": [
+      "défis saisonniers"
+    ]
   },
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotations",
-      "description": "Scry the orbits of various activities"
-    }
+      "description": "Rechercher les rotations de diverses activités"
+    },
+    "keywords": [
+      "nuits noires",
+      "secteurs oubliés",
+      "rotations",
+      "calendrier",
+      "raids",
+      "source",
+      "autels du malheur",
+      "défi ascendant"
+    ]
   },
   "character": {
     "displayProperties": {
@@ -104,21 +137,32 @@
   },
   "character-postmaster": {
     "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
+      "name": "Commis des Postes",
+      "description": "Les cadres du commis des postes surveillent consciencieusement les livraisons, les messages et les objets perdus"
+    },
+    "keywords": [
+      "commis des postes"
+    ]
   },
   "character-vault": {
     "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
-    }
+      "name": "Coffre",
+      "description": "Stockage sécurisé pour les objets généraux. Accessible à tous vos personnages"
+    },
+    "keywords": [
+      "coffre"
+    ]
   },
   "character-vendors": {
     "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
-    }
+      "name": "Vendeurs",
+      "description": "Espionner vos délégataires de tâches et vos partenaires commerciaux préférés"
+    },
+    "keywords": [
+      "vendeurs",
+      "calendrier poussière brillante",
+      "calendrier everversum"
+    ]
   },
   "quests": {
     "displayProperties": {
@@ -128,9 +172,12 @@
   },
   "quests-bounties": {
     "displayProperties": {
-      "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
-    }
+      "name": "Contrats",
+      "description": "Toutes les contrats du Gardien sélectionné"
+    },
+    "keywords": [
+      "contrat"
+    ]
   },
   "activity": {
     "displayProperties": {
@@ -154,15 +201,42 @@
   },
   "activity-bookmarks": {
     "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
-    }
+      "name": "Signets",
+      "description": "Activités que vous avez mises en favoris"
+    },
+    "keywords": [
+      "rapports",
+      "rcpm",
+      "raids",
+      "secteurs oubliés",
+      "nuits noires",
+      "assauts",
+      "épreuve",
+      "jugement",
+      "compétitif",
+      "matchs"
+    ]
   },
   "activity-series": {
     "displayProperties": {
-      "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
-    }
+      "name": "Série",
+      "description": "Triomphe dans les conditions les plus périlleuses, reportages sur les premières victoires de vos escouades contre nos plus grands adversaires"
+    },
+    "keywords": [
+      "rapports",
+      "rcpm",
+      "statistiques",
+      "raids",
+      "secteurs oubliés",
+      "nuits noires",
+      "assauts",
+      "escouades",
+      "day one",
+      "mode tournoi",
+      "achèvements",
+      "sans fautes",
+      "matchs"
+    ]
   },
   "settings": {
     "displayProperties": {
@@ -173,7 +247,7 @@
   "legend": {
     "displayProperties": {
       "name": "Légende",
-      "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge."
+      "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge. Affichez fièrement ce résumé devant vos amis et vos ennemis."
     }
   },
   "compare": {
@@ -201,8 +275,8 @@
   },
   "privacy": {
     "displayProperties": {
-      "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "name": "Vie privée",
+      "description": "Respecter les limites personnelles"
     }
   },
   "credits": {
