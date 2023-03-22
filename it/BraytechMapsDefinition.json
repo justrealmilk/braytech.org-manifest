@@ -170,7 +170,7 @@
   },
   "183": {
     "displayProperties": {
-      "description": "Richiede un Frammento di Dati del Firewall. Ottieni i prerequisiti attraverso Eris Morn."
+      "description": "Richiede un **Frammento di Dati del Firewall**. Ottieni i prerequisiti attraverso Eris Morn."
     }
   },
   "184": {
@@ -279,6 +279,21 @@
       "tip": "Accendi i braceri."
     }
   },
+  "371": {
+    "extended": {
+      "tip": "Ai piedi di..."
+    }
+  },
+  "372": {
+    "extended": {
+      "tip": "Giace al di sotto..."
+    }
+  },
+  "383": {
+    "extended": {
+      "tip": "Attiva l'interfaccia. Girati per verso l'ingresso. Ci sono 8 pannelli circolari. Da sinistra a destra, dall'alto verso il basso, spara ai pannelli nel seguente ordine: 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
   "438": {
     "displayProperties": {
       "description": "Vicino al **Confluenza Vex del Reliquiario**, tra le radici di un albero morto."
@@ -343,13 +358,37 @@
   "607": {
     "displayProperties": {
       "name": "Terminale Esi–Complesso Irkalla",
-      "description": "Un portale a risonanza che porta al _Complesso Irkalla_."
+      "description": "Un portale a risonanza che porta al **Complesso Irkalla**."
     }
   },
   "608": {
     "displayProperties": {
       "name": "Complesso Irkalla–Terminale Esi",
-      "description": "Un portale a risonanza che porta al _Terminale Esi_."
+      "description": "Un portale a risonanza che porta al **Terminale Esi**."
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "Tifone Imperatore: Profondità",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "Tifone Imperatore",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "Tempio dell'Iraconda",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "Tempio dell'Iraconda: Profondità",
+      "description": "Un portale a risonanza."
     }
   },
   "2000000105": {
