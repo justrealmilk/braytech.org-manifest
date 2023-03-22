@@ -4,7 +4,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence West",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "A portal to **The Confluence**, powered by paracasual energies.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -16,7 +16,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence East",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "A portal to **The Confluence**, powered by paracasual energies.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -28,7 +28,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "The Confluence South",
-      "description": "A portal to _The Confluence_, powered by paracasual energies.",
+      "description": "A portal to **The Confluence**, powered by paracasual energies.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -78,7 +78,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -139,7 +139,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Forfeit Shrine",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -196,7 +196,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Shattered Ruins",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -256,7 +256,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Keep of Honed Edges",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -314,7 +314,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Agonarch Abyss",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -370,7 +370,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Cimmerian Garrison",
-      "description": "A portal to the _Ascendant Plane_.",
+      "description": "A portal to the **Ascendant Plane**.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -391,7 +391,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Xortal, Sworn of Crota",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
       "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
@@ -425,7 +425,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Horkis, Fear of Mithrax",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
       "icon": "patrol-boss-dusk"
     },
     "destinationHash": 677774031,
@@ -459,7 +459,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Jaxx, Claw of Xivu Arath",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
       "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
@@ -493,7 +493,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Fallen Council",
-      "description": "Defeat this Nightmare to progress record _Wandering Nightmares_.",
+      "description": "Defeat this Nightmare to progress record **Wandering Nightmares**.",
       "icon": "patrol-boss-dusk"
     },
     "destinationHash": 677774031,
@@ -1428,7 +1428,7 @@
     "hash": 109,
     "displayProperties": {
       "name": "",
-      "description": "Frozen in an ice block. Find a _Fallen Captain_ near the lifts to _Riis-Reborn Approach_ named _Ferkis, Salvation's Squall_—he'll drop what you need."
+      "description": "Frozen in an ice block. Find a **Fallen Captain** near the lifts to **Riis-Reborn Approach** named **Ferkis, Salvation's Squall**—he'll drop what you need."
     },
     "checklistHash": 3880966469,
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
@@ -2189,7 +2189,7 @@
     "hash": 184,
     "displayProperties": {
       "name": "",
-      "description": "Entering the _Circle of Bones_ via the _Gatehouse_, turn right and proceed to follow the loop around the _Hellmouth_. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
+      "description": "Entering the **Circle of Bones** via the **Gatehouse**, turn right and proceed to follow the loop around the **Hellmouth**. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
     },
     "checklistHash": 3977481189,
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
@@ -2536,7 +2536,7 @@
     "hash": 216,
     "displayProperties": {
       "name": "",
-      "description": "Complete the _Necropolis_ encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
+      "description": "Complete the **Necropolis** encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
     },
     "recordHash": 4111390771,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg"
@@ -2545,7 +2545,7 @@
     "hash": 217,
     "displayProperties": {
       "name": "",
-      "description": "Complete the _Chamber of Suffering_ encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
+      "description": "Complete the **Chamber of Suffering** encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
     },
     "recordHash": 4111390770,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg"
@@ -2554,7 +2554,7 @@
     "hash": 218,
     "displayProperties": {
       "name": "",
-      "description": "Drop down into the _Tunnels of Despair_ and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
+      "description": "Drop down into the **Tunnels of Despair** and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
     },
     "recordHash": 4111390781,
     "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg"
@@ -2620,7 +2620,7 @@
     "hash": 223,
     "displayProperties": {
       "name": "",
-      "description": "Enter _The Gatehouse_ via _Hellmouth_ and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
+      "description": "Enter **The Gatehouse** via **Hellmouth** and follow it to a well-lit circular room. Along the windowed-wall on the right is what you seek."
     },
     "recordHash": 4292949216,
     "screenshot": "/static/images/screenshots/records/lunas-lost/ghost-fragment-eris-morns-ghost-4292949216.jpg",
@@ -3037,7 +3037,7 @@
     "hash": 258,
     "displayProperties": {
       "name": "",
-      "description": "Accessible via the _Wellspring_ offensive."
+      "description": "Accessible via the **Wellspring** offensive."
     },
     "checklistHash": 2895058245,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/court-of-thorns-2895058245.jpg",
@@ -3055,7 +3055,7 @@
     "hash": 259,
     "displayProperties": {
       "name": "",
-      "description": "Requires _Deepsight_ to reveal."
+      "description": "Requires **Deepsight** to reveal."
     },
     "checklistHash": 1903309704,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/witchs-echo-1903309704.jpg",
@@ -3073,7 +3073,7 @@
     "hash": 260,
     "displayProperties": {
       "name": "",
-      "description": "Accessible via the _Altar of Reflection_ activities."
+      "description": "Accessible via the **Altar of Reflection** activities."
     },
     "checklistHash": 703052847,
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/altar-of-reflection-703052847.jpg",
@@ -3316,7 +3316,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Queen's Court",
-      "description": "A portal to _Queen's Court_, Mara Sov's throne world.",
+      "description": "A portal to **Queen's Court**, Mara Sov's throne world.",
       "icon": "portal"
     },
     "destinationHash": 1416096592,
@@ -3335,7 +3335,7 @@
     "hash": 279,
     "displayProperties": {
       "name": "",
-      "description": "Upon reaching _Queen's Court_, scale the wall to the left of the throne."
+      "description": "Upon reaching **Queen's Court**, scale the wall to the left of the throne."
     },
     "checklistHash": 1387596458,
     "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/queens-court-1387596458.jpg",
@@ -3664,7 +3664,7 @@
     "hash": 301,
     "displayProperties": {
       "name": "",
-      "description": "Perched upon the midwall of the _Infinite Forest_."
+      "description": "Perched upon the midwall of the **Infinite Forest**."
     },
     "checklistHash": 2809244994,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-2809244994.jpg"
@@ -3679,7 +3679,7 @@
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "tip": "This chest requires oneself to transcend their reality. To access:\n\n1. Near _Brother Vance_, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A _Vex conflux_ will appear. Examine it."
+      "tip": "This chest requires oneself to transcend their reality. To access:\n\n1. Near **Brother Vance**, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A **Vex conflux** will appear. Examine it."
     }
   },
   "303": {
@@ -4949,7 +4949,7 @@
     "hash": 438,
     "displayProperties": {
       "name": "",
-      "description": "Near the _Hallows Vex Conflux_, amongst the roots of a dead tree."
+      "description": "Near the **Hallows Vex Conflux**, amongst the roots of a dead tree."
     },
     "checklistHash": 379286227,
     "screenshot": "/static/images/screenshots/checklists/region-chests/hallows-379286227.jpg"
@@ -5684,7 +5684,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Salt Mines Cliffs",
-      "description": "A transmat platform connected to the top of the _Salt Mines_ cliffs, powered by jury-rigged _Fallen_ parts.",
+      "description": "A transmat platform connected to the top of the **Salt Mines** cliffs, powered by jury-rigged **Fallen** parts.",
       "icon": "portal"
     },
     "destinationHash": 697502628,
@@ -5899,7 +5899,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Esi Terminal–Irkalla Complex",
-      "description": "A resonance-powered rift to _Irkalla Complex_.",
+      "description": "A resonance-powered rift to **Irkalla Complex**.",
       "icon": "portal"
     },
     "destinationHash": 2481646875,
@@ -5911,7 +5911,7 @@
     "nodeType": 1,
     "displayProperties": {
       "name": "Irkalla Complex–Esi Terminal",
-      "description": "A resonance-powered rift to _Esi Terminal_.",
+      "description": "A resonance-powered rift to **Esi Terminal**.",
       "icon": "portal"
     },
     "destinationHash": 2481646875,
@@ -7838,7 +7838,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Alluring Curtain Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record _Ascended Bounty Hunter_.",
+      "description": "Defeat the Lucent Executioner garrisoned in Alluring Curtain to progress record **Ascended Bounty Hunter**.",
       "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",
@@ -8166,7 +8166,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Queen's Bailey Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record _Ascended Bounty Hunter_.",
+      "description": "Defeat the Lucent Executioner garrisoned in Queen's Bailey to progress record **Ascended Bounty Hunter**.",
       "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",
@@ -8390,7 +8390,7 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Witch's Echo Executioner",
-      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record _Ascended Bounty Hunter_.",
+      "description": "Defeat the Lucent Executioner garrisoned in Witch's Echo to progress record **Ascended Bounty Hunter**.",
       "icon": "patrol-boss-lucent-hive"
     },
     "itemTypeDisplayName": "Lucent Executioner",

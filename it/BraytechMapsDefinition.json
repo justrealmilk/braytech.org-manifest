@@ -2,19 +2,19 @@
   "1": {
     "displayProperties": {
       "name": "La Confluenza Ovest",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "2": {
     "displayProperties": {
       "name": "La Confluenza Est",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "3": {
     "displayProperties": {
       "name": "La Confluenza Sud",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "4": {
@@ -26,7 +26,7 @@
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "6": {
@@ -38,7 +38,7 @@
   "7": {
     "displayProperties": {
       "name": "Altare del Pegno",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "8": {
@@ -50,7 +50,7 @@
   "9": {
     "displayProperties": {
       "name": "Rovine Infrante",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "10": {
@@ -62,7 +62,7 @@
   "11": {
     "displayProperties": {
       "name": "Rocca dei Fili Affinati",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "12": {
@@ -74,7 +74,7 @@
   "13": {
     "displayProperties": {
       "name": "Abisso Agonarca",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "14": {
@@ -86,31 +86,31 @@
   "15": {
     "displayProperties": {
       "name": "Bastione Cimmerio",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "16": {
     "displayProperties": {
       "name": "Incubo di Xortal, Giurato a Crota",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "17": {
     "displayProperties": {
       "name": "Incubo di Horkis, Paura di Mithrax",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "18": {
     "displayProperties": {
       "name": "Incubo di Jaxx, Artiglio di Xivu Arath",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "19": {
     "displayProperties": {
       "name": "Consiglio dei caduti",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "24": {
@@ -155,7 +155,7 @@
   },
   "109": {
     "displayProperties": {
-      "description": "Congelato in un blocco di ghiaccio. Trova un _capitano caduto_ nei pressi degli ascensori dell'_Accesso a Neo-Riis_ chiamato _Ferkis, Fragore della Salvezza_—ti lascierà ciò di cui hai bisogno."
+      "description": "Congelato in un blocco di ghiaccio. Trova un **capitano caduto** nei pressi degli ascensori dell'**Accesso a Neo-Riis** chiamato **Ferkis, Fragore della Salvezza**—ti lascierà ciò di cui hai bisogno."
     }
   },
   "127": {
@@ -185,17 +185,17 @@
   },
   "216": {
     "displayProperties": {
-      "description": "Completa la fase della _Necropoli_ e procedi verso la Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
+      "description": "Completa la fase della **Necropoli** e procedi verso la Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
     }
   },
   "217": {
     "displayProperties": {
-      "description": "Completa la fase dell'_Androne del Tormento_. Prima di proseguire attraversando le trappole verticali, sali con attenzione fino al livello più alto."
+      "description": "Completa la fase dell'**Androne del Tormento**. Prima di proseguire attraversando le trappole verticali, sali con attenzione fino al livello più alto."
     }
   },
   "218": {
     "displayProperties": {
-      "description": "Scendi nelle _Gallerie della Disperazione_ e mantieni la destra. Entra al primo buco e seguilo fino alla fine. Vedrai una porta rossa. Stando alla porta rossa gira di 70° in senso orario. Starai fissando un masso. A destra del masso c'è il premio che cerchi."
+      "description": "Scendi nelle **Gallerie della Disperazione** e mantieni la destra. Entra al primo buco e seguilo fino alla fine. Vedrai una porta rossa. Stando alla porta rossa gira di 70° in senso orario. Starai fissando un masso. A destra del masso c'è il premio che cerchi."
     }
   },
   "219": {
@@ -205,7 +205,7 @@
   },
   "223": {
     "displayProperties": {
-      "description": "Entra nella _Guardiola_ attraverso la _Bocca dell'Inferno_ e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
+      "description": "Entra nella **Guardiola** attraverso la **Bocca dell'Inferno** e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
     }
   },
   "225": {
@@ -215,33 +215,33 @@
   },
   "227": {
     "displayProperties": {
-      "description": "Nelle _Gallerie della Desperazione_, su una sporgenza di scogliera adiacente alla fossa di gas verde."
+      "description": "Nelle **Gallerie della Desperazione**, su una sporgenza di scogliera adiacente alla fossa di gas verde."
     }
   },
   "258": {
     "displayProperties": {
-      "description": "Accessibile tramite l'offensiva _Sorgente_."
+      "description": "Accessibile tramite l'offensiva **Sorgente**."
     }
   },
   "259": {
     "displayProperties": {
-      "description": "Richiede _Vista profonda_ per essere rivelata."
+      "description": "Richiede **Vista profonda** per essere rivelata."
     }
   },
   "260": {
     "displayProperties": {
-      "description": "Accessibile tramite le attività _Altare della Riflessione_."
+      "description": "Accessibile tramite le attività **Altare della Riflessione**."
     }
   },
   "278": {
     "displayProperties": {
       "name": "Corte della Regina",
-      "description": "Un portale per la _Corte della Regina_, il Tronomondo di Mara Sov."
+      "description": "Un portale per la **Corte della Regina**, il Tronomondo di Mara Sov."
     }
   },
   "279": {
     "displayProperties": {
-      "description": "Una volta raggiunta la _Corte della Regina_ scala il muro a sinistra del trono."
+      "description": "Una volta raggiunta la **Corte della Regina** scala il muro a sinistra del trono."
     }
   },
   "288": {
@@ -261,18 +261,18 @@
   },
   "301": {
     "displayProperties": {
-      "description": "Appollaiato sulla parete centrale della _Foresta Infinita_."
+      "description": "Appollaiato sulla parete centrale della **Foresta Infinita**."
     }
   },
   "438": {
     "displayProperties": {
-      "description": "Vicino al _Confluenza Vex del Reliquiario_, tra le radici di un albero morto."
+      "description": "Vicino al **Confluenza Vex del Reliquiario**, tra le radici di un albero morto."
     }
   },
   "596": {
     "displayProperties": {
       "name": "Scogliere delle Miniere di Sale",
-      "description": "Un portale per la cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
+      "description": "Un portale per la cima delle Scogliere delle **Miniere di Sale**, alimentato da componenti improvvisati dei **Caduti**."
     }
   },
   "597": {
@@ -625,21 +625,21 @@
   "2000000251": {
     "displayProperties": {
       "name": "Carnefice della Tenda Seducente",
-      "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000252": {
     "displayProperties": {
       "name": "Carnefice delle Mura della Regina",
-      "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000253": {
     "displayProperties": {
       "name": "Carnefice dell'Eco della Regina",
-      "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },

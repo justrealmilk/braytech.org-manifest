@@ -2,19 +2,19 @@
   "1": {
     "displayProperties": {
       "name": "La confluencia, Oeste",
-      "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
+      "description": "Un portal a **La confluencia**, alimentado por energías paracasuales."
     }
   },
   "2": {
     "displayProperties": {
       "name": "La confluencia, Este",
-      "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
+      "description": "Un portal a **La confluencia**, alimentado por energías paracasuales."
     }
   },
   "3": {
     "displayProperties": {
       "name": "La confluencia, Sur",
-      "description": "Un portal a _La confluencia_, alimentado por energías paracasuales."
+      "description": "Un portal a **La confluencia**, alimentado por energías paracasuales."
     }
   },
   "4": {
@@ -26,7 +26,7 @@
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "6": {
@@ -38,7 +38,7 @@
   "7": {
     "displayProperties": {
       "name": "Altar de la Pérdida",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "8": {
@@ -50,7 +50,7 @@
   "9": {
     "displayProperties": {
       "name": "Ruinas Desvastadas",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "10": {
@@ -62,7 +62,7 @@
   "11": {
     "displayProperties": {
       "name": "Fortaleza Filos Cortantes",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "12": {
@@ -74,7 +74,7 @@
   "13": {
     "displayProperties": {
       "name": "Abismo Agonarca",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "14": {
@@ -86,31 +86,31 @@
   "15": {
     "displayProperties": {
       "name": "Guarnición Cimmeria",
-      "description": "Un portal al _Plano Ascendente_."
+      "description": "Un portal al **Plano Ascendente**."
     }
   },
   "16": {
     "displayProperties": {
       "name": "Pesadilla de Xortal, jurado de Crota",
-      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo **Pesadillas errantes**."
     }
   },
   "17": {
     "displayProperties": {
       "name": "Pesadilla de Horkis, miedo de Mithrax",
-      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo **Pesadillas errantes**."
     }
   },
   "18": {
     "displayProperties": {
       "name": "Pesadilla de Jaxx, garra de Xivu Arath",
-      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo **Pesadillas errantes**."
     }
   },
   "19": {
     "displayProperties": {
       "name": "Consejo de los caídos",
-      "description": "Derrota esta Pesadilla para avanzar en el triunfo _Pesadillas errantes_."
+      "description": "Derrota esta Pesadilla para avanzar en el triunfo **Pesadillas errantes**."
     }
   },
   "24": {
@@ -155,7 +155,7 @@
   },
   "109": {
     "displayProperties": {
-      "description": "Congelado en un bloque de hielo. Encuentra a un _Capitán caído_ cerca de los elevadores de las _Cercanías del Renac. de Riis_ llamado _Ferkis, Tormenta de la Salvación_—él soltará lo que necesitas."
+      "description": "Congelado en un bloque de hielo. Encuentra a un **Capitán caído** cerca de los elevadores de las **Cercanías del Renac. de Riis** llamado **Ferkis, Tormenta de la Salvación**—él soltará lo que necesitas."
     }
   },
   "182": {
@@ -185,12 +185,12 @@
   },
   "217": {
     "displayProperties": {
-      "description": "Completa el encuentro _Cámara del sufrimiento_. Antes de bajar atravesando las trampas en las alturas, sube con cuidado hasta lo más alto."
+      "description": "Completa el encuentro **Cámara del sufrimiento**. Antes de bajar atravesando las trampas en las alturas, sube con cuidado hasta lo más alto."
     }
   },
   "218": {
     "displayProperties": {
-      "description": "Baja a los _Túneles de la desesperanza_ y mantente a la derecha. Entra en el primer túnel y síguelo hasta el final. Verás una puerta roja. De pie ante la puerta roja, gira 70° en el sentido de las agujas del reloj. Estarás mirando a una roca. A la derecha de la roca está el premio que buscas."
+      "description": "Baja a los **Túneles de la desesperanza** y mantente a la derecha. Entra en el primer túnel y síguelo hasta el final. Verás una puerta roja. De pie ante la puerta roja, gira 70° en el sentido de las agujas del reloj. Estarás mirando a una roca. A la derecha de la roca está el premio que buscas."
     }
   },
   "219": {
@@ -215,28 +215,28 @@
   },
   "258": {
     "displayProperties": {
-      "description": "Accesible a través de la ofensiva _El Manantial_."
+      "description": "Accesible a través de la ofensiva **El Manantial**."
     }
   },
   "259": {
     "displayProperties": {
-      "description": "Requiere _Visión Profunda_ para revelar."
+      "description": "Requiere **Visión Profunda** para revelar."
     }
   },
   "260": {
     "displayProperties": {
-      "description": "Accesible a través de las actividades _Altar de Reflexión_."
+      "description": "Accesible a través de las actividades **Altar de Reflexión**."
     }
   },
   "278": {
     "displayProperties": {
       "name": "Corte de la Reina",
-      "description": "Un portal a la _Corte de la Reina_, el mundo trono de Mara Sov."
+      "description": "Un portal a la **Corte de la Reina**, el mundo trono de Mara Sov."
     }
   },
   "279": {
     "displayProperties": {
-      "description": "Al llegar a la _Corte de la Reina_, escala la pared a la izquierda del trono."
+      "description": "Al llegar a la **Corte de la Reina**, escala la pared a la izquierda del trono."
     }
   },
   "288": {
@@ -256,13 +256,13 @@
   },
   "301": {
     "displayProperties": {
-      "description": "Colocado en medio de la pared del _Bosque Infinito_."
+      "description": "Colocado en medio de la pared del **Bosque Infinito**."
     }
   },
   "596": {
     "displayProperties": {
       "name": "Acantilados de las Minas de Sal",
-      "description": "Un portal a la cima de los acantilados de las _Minas de Sal_, alimentado por partes recompuestas de _Los Caídos_."
+      "description": "Un portal a la cima de los acantilados de las **Minas de Sal**, alimentado por partes recompuestas de **Los Caídos**."
     }
   },
   "597": {
@@ -900,21 +900,21 @@
   "2000000251": {
     "displayProperties": {
       "name": "Ejecutor de Cortina seductora",
-      "description": "Derrota al ejecutor luminoso acuartelado en Cortina seductora para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al ejecutor luminoso acuartelado en Cortina seductora para avanzar en el triunfo **Cazarrecompensas ascendido**."
     },
     "itemTypeDisplayName": "Ejecutor luminoso"
   },
   "2000000252": {
     "displayProperties": {
       "name": "Ejecutor de Recinto de la Reina",
-      "description": "Derrota al ejecutor luminoso acuartelado en Recinto de la Reina para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al ejecutor luminoso acuartelado en Recinto de la Reina para avanzar en el triunfo **Cazarrecompensas ascendido**."
     },
     "itemTypeDisplayName": "Ejecutor luminoso"
   },
   "2000000253": {
     "displayProperties": {
       "name": "Ejecutor de Eco de la bruja",
-      "description": "Derrota al ejecutor luminoso acuartelado en Eco de la bruja para avanzar en el triunfo _Cazarrecompensas ascendido_."
+      "description": "Derrota al ejecutor luminoso acuartelado en Eco de la bruja para avanzar en el triunfo **Cazarrecompensas ascendido**."
     },
     "itemTypeDisplayName": "Ejecutor luminoso"
   },
