@@ -35,7 +35,7 @@ public class Main {
     om = (new ObjectMapper()).setDefaultPrettyPrinter(new MyPrettyPrinter())
         .enable(SerializationFeature.INDENT_OUTPUT);
 
-    languages = Arrays.asList("de", "en", "en-OwO", "es", "es-MX", "fr", "it", "ja", "ko", "pl",
+    languages = Arrays.asList("en", "de", "en-OwO", "es", "es-MX", "fr", "it", "ja", "ko", "pl",
         "pt-BR", "ru", "zh-CHS", "zh-CHT");
     
     Instant start = Instant.now();
