@@ -4769,8 +4769,8 @@
       ]
     },
     "extended": {
-      "tip": "Activate the interface. Turn to face the entrance. There are 8 circular panels. From left to right, top to bottom, shoot the panels in the following order: 6, 8, 4, 5, 2, 7, 3, 1.",
-      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI&t=172s"
+      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI&t=172s",
+      "tip": "Activate the interface. Turn to face the entrance. There are 8 circular panels. From left to right, top to bottom, shoot the panels in the following order: 6, 8, 4, 5, 2, 7, 3, 1."
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/radiosonde-4069293792.jpg"
   },
@@ -5941,6 +5941,30 @@
     "destinationHash": 2481646875,
     "bubbleHash": 3565738319,
     "screenshot": "/static/images/screenshots/portals/portal_610.jpg"
+  },
+  "611": {
+    "hash": 611,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Temple of the Wrathful",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 2244580325,
+    "bubbleHash": 1988240518,
+    "screenshot": "/static/images/screenshots/portals/portal_611.jpg"
+  },
+  "612": {
+    "hash": 612,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "Temple of the Wrathful: Deep",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 2244580325,
+    "bubbleHash": 1988240518,
+    "screenshot": "/static/images/screenshots/portals/portal_612.jpg"
   },
   "2000000000": {
     "hash": 2000000000,
