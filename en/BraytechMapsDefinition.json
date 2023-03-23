@@ -849,6 +849,13 @@
       "description": ""
     },
     "checklistHash": 3947020272,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3947020272.jpg"
   },
   "55": {
@@ -858,6 +865,13 @@
       "description": ""
     },
     "checklistHash": 3812883599,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-3812883599.jpg"
   },
   "56": {
@@ -867,6 +881,13 @@
       "description": ""
     },
     "checklistHash": 731133614,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/archers-line-731133614.jpg"
   },
   "57": {
@@ -876,6 +897,13 @@
       "description": ""
     },
     "checklistHash": 3147488613,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3147488613.jpg"
   },
   "58": {
@@ -885,6 +913,13 @@
       "description": ""
     },
     "checklistHash": 3364328658,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-3364328658.jpg"
   },
   "59": {
@@ -894,6 +929,13 @@
       "description": ""
     },
     "checklistHash": 2448388435,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorrows-harbor-2448388435.jpg"
   },
   "60": {
@@ -903,6 +945,13 @@
       "description": ""
     },
     "checklistHash": 2499619401,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-2499619401.jpg"
   },
   "61": {
@@ -912,6 +961,13 @@
       "description": ""
     },
     "checklistHash": 340933878,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-340933878.jpg"
   },
   "62": {
@@ -921,6 +977,13 @@
       "description": ""
     },
     "checklistHash": 74989591,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/hellmouth-74989591.jpg"
   },
   "63": {
@@ -930,6 +993,13 @@
       "description": ""
     },
     "checklistHash": 204962005,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-204962005.jpg"
   },
   "64": {
@@ -939,6 +1009,13 @@
       "description": ""
     },
     "checklistHash": 3138619650,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3138619650.jpg"
   },
   "65": {
@@ -948,6 +1025,13 @@
       "description": ""
     },
     "checklistHash": 3719379523,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1702032587
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/anchor-of-light-3719379523.jpg"
   },
   "66": {
@@ -1257,6 +1341,13 @@
       "description": ""
     },
     "checklistHash": 1629596387,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/cadmus-ridge-1629596387.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=AEqy3qL-a58"
@@ -1269,6 +1360,13 @@
       "description": ""
     },
     "checklistHash": 271815222,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/well-of-infinitude-271815222.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=F_5HfIoe7yk"
@@ -1280,6 +1378,14 @@
       "name": "",
       "description": ""
     },
+    "checklistHash": 2677830030,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/asterion-abyss-2677830030.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws",
@@ -1289,14 +1395,21 @@
           "y": 60
         }
       }
-    },
-    "checklistHash": 2677830030
+    }
   },
   "101": {
     "hash": 101,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 523132396,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/concealed-void-523132396.jpg",
     "extended": {
@@ -1307,8 +1420,7 @@
           "y": 31
         }
       }
-    },
-    "checklistHash": 523132396
+    }
   },
   "102": {
     "hash": 102,
@@ -1316,17 +1428,32 @@
       "name": "",
       "description": ""
     },
+    "checklistHash": 2927552589,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/cadmus-ridge-2927552589.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=toxMQBD36ws"
-    },
-    "checklistHash": 2927552589
+    }
   },
   "103": {
     "hash": 103,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 3482887819,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/eventide-ruins-3482887819.jpg",
     "extended": {
@@ -1337,14 +1464,21 @@
           "y": 56
         }
       }
-    },
-    "checklistHash": 3482887819
+    }
   },
   "104": {
     "hash": 104,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 2679813844,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/bunker-e15-2679813844.jpg",
     "extended": {
@@ -1355,14 +1489,21 @@
           "y": 35
         }
       }
-    },
-    "checklistHash": 2679813844
+    }
   },
   "105": {
     "hash": 105,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 3527611025,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/riis-reborn-approach-3527611025.jpg",
     "extended": {
@@ -1373,14 +1514,21 @@
           "y": 65
         }
       }
-    },
-    "checklistHash": 3527611025
+    }
   },
   "106": {
     "hash": 106,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 951414128,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/kells-rising-951414128.jpg",
     "extended": {
@@ -1391,14 +1539,21 @@
           "y": 55
         }
       }
-    },
-    "checklistHash": 951414128
+    }
   },
   "107": {
     "hash": 107,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 1217064983,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/technocrats-iron-1217064983.jpg",
     "extended": {
@@ -1409,14 +1564,21 @@
           "y": 25
         }
       }
-    },
-    "checklistHash": 1217064983
+    }
   },
   "108": {
     "hash": 108,
     "displayProperties": {
       "name": "",
       "description": ""
+    },
+    "checklistHash": 1146417010,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3759075039
+        }
+      ]
     },
     "screenshot": "/static/images/screenshots/checklists/entropic-shards/creation-1146417010.jpg",
     "extended": {
@@ -1427,8 +1589,7 @@
           "y": 17
         }
       }
-    },
-    "checklistHash": 1146417010
+    }
   },
   "109": {
     "hash": 109,
@@ -1437,6 +1598,13 @@
       "description": "Frozen in an ice block. Find a **Fallen Captain** near the lifts to **Riis-Reborn Approach** named **Ferkis, Salvation's Squall**—he'll drop what you need."
     },
     "checklistHash": 3880966469,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eventide-ruins-3880966469.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=7pHdJP07RHk"
@@ -1647,6 +1815,13 @@
       "description": "Under the ice."
     },
     "checklistHash": 3888342093,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-3888342093.jpg"
   },
   "128": {
@@ -1656,6 +1831,13 @@
       "description": ""
     },
     "checklistHash": 201955226,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-201955226.jpg"
   },
   "129": {
@@ -1665,6 +1847,13 @@
       "description": ""
     },
     "checklistHash": 763777083,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/asterion-abyss-763777083.jpg"
   },
   "130": {
@@ -1674,6 +1863,13 @@
       "description": ""
     },
     "checklistHash": 2131720755,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-2131720755.jpg",
     "extended": {
       "screenshot": {
@@ -1691,6 +1887,13 @@
       "description": ""
     },
     "checklistHash": 3206775572,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-3206775572.jpg",
     "extended": {
       "screenshot": {
@@ -1708,6 +1911,13 @@
       "description": ""
     },
     "checklistHash": 260886981,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/eventide-ruins-260886981.jpg",
     "extended": {
       "screenshot": {
@@ -1725,6 +1935,13 @@
       "description": ""
     },
     "checklistHash": 1636954546,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-1636954546.jpg"
   },
   "134": {
@@ -1734,6 +1951,13 @@
       "description": ""
     },
     "checklistHash": 995760197,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-995760197.jpg"
   },
   "135": {
@@ -1743,6 +1967,13 @@
       "description": ""
     },
     "checklistHash": 3941648788,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2466848483
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/cadmus-ridge-3941648788.jpg"
   },
   "136": {
@@ -1860,6 +2091,13 @@
       "description": ""
     },
     "checklistHash": 3420140384,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/bray-exoscience-3420140384.jpg"
   },
   "149": {
@@ -1869,6 +2107,13 @@
       "description": ""
     },
     "checklistHash": 3890313479,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/asterion-abyss-3890313479.jpg"
   },
   "150": {
@@ -1878,6 +2123,13 @@
       "description": ""
     },
     "checklistHash": 290570570,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/riis-reborn-approach-290570570.jpg"
   },
   "151": {
@@ -1887,6 +2139,13 @@
       "description": ""
     },
     "checklistHash": 3254863625,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/nexus-3254863625.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=vXNLtqixKVY"
@@ -1899,6 +2158,13 @@
       "description": ""
     },
     "checklistHash": 1313979588,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/kells-rising-1313979588.jpg",
     "extended": {
       "screenshot": {
@@ -1916,6 +2182,13 @@
       "description": ""
     },
     "checklistHash": 1610085355,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3725180136
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/eternity-1610085355.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=p-tlrW96Y0M"
@@ -1928,6 +2201,13 @@
       "description": ""
     },
     "checklistHash": 1000002001,
+    "related": {
+      "records": [
+        {
+          "recordHash": 547802351
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002001.jpg"
   },
   "155": {
@@ -1937,6 +2217,13 @@
       "description": ""
     },
     "checklistHash": 1000002002,
+    "related": {
+      "records": [
+        {
+          "recordHash": 547802351
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002002.jpg"
   },
   "156": {
@@ -1946,6 +2233,13 @@
       "description": ""
     },
     "checklistHash": 1000002003,
+    "related": {
+      "records": [
+        {
+          "recordHash": 547802351
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/nexus-1000002003.jpg"
   },
   "157": {
@@ -1955,6 +2249,13 @@
       "description": ""
     },
     "checklistHash": 1000002004,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2564968982
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002004.jpg"
   },
   "158": {
@@ -1964,6 +2265,13 @@
       "description": ""
     },
     "checklistHash": 1000002005,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2564968982
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002005.jpg"
   },
   "159": {
@@ -1973,6 +2281,13 @@
       "description": ""
     },
     "checklistHash": 1000002006,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2564968982
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/bray-exoscience-1000002006.jpg"
   },
   "160": {
@@ -1982,6 +2297,13 @@
       "description": ""
     },
     "checklistHash": 1000002007,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1104144811
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002007.jpg"
   },
   "161": {
@@ -1991,6 +2313,13 @@
       "description": ""
     },
     "checklistHash": 1000002008,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1104144811
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002008.jpg"
   },
   "162": {
@@ -2000,6 +2329,13 @@
       "description": ""
     },
     "checklistHash": 1000002009,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1104144811
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/well-of-infinitude-1000002009.jpg"
   },
   "163": {
@@ -2009,6 +2345,13 @@
       "description": ""
     },
     "checklistHash": 1000002010,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1744273699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002010.jpg"
   },
   "164": {
@@ -2018,6 +2361,13 @@
       "description": ""
     },
     "checklistHash": 1000002011,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1744273699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002011.jpg"
   },
   "165": {
@@ -2027,6 +2377,13 @@
       "description": ""
     },
     "checklistHash": 1000002012,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1744273699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/eternity-1000002012.jpg"
   },
   "166": {
@@ -2036,6 +2393,13 @@
       "description": ""
     },
     "checklistHash": 1000002013,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2503194573
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002013.jpg"
   },
   "167": {
@@ -2045,6 +2409,13 @@
       "description": ""
     },
     "checklistHash": 1000002014,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2503194573
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002014.jpg"
   },
   "168": {
@@ -2054,6 +2425,13 @@
       "description": ""
     },
     "checklistHash": 1000002015,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2503194573
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/riis-reborn-approach-1000002015.jpg"
   },
   "169": {
@@ -2063,6 +2441,13 @@
       "description": ""
     },
     "checklistHash": 1000002016,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1844487494
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002016.jpg"
   },
   "170": {
@@ -2072,6 +2457,13 @@
       "description": ""
     },
     "checklistHash": 1000002017,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1844487494
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002017.jpg"
   },
   "171": {
@@ -2081,6 +2473,13 @@
       "description": ""
     },
     "checklistHash": 1000002018,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1844487494
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/technocrats-iron-1000002018.jpg"
   },
   "172": {
@@ -2090,6 +2489,13 @@
       "description": ""
     },
     "checklistHash": 1000002019,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3520208172
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002019.jpg"
   },
   "173": {
@@ -2099,6 +2505,13 @@
       "description": ""
     },
     "checklistHash": 1000002020,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3520208172
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002020.jpg"
   },
   "174": {
@@ -2108,6 +2521,13 @@
       "description": ""
     },
     "checklistHash": 1000002021,
+    "related": {
+      "records": [
+        {
+          "recordHash": 3520208172
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/creation-1000002021.jpg"
   },
   "175": {
@@ -2117,6 +2537,13 @@
       "description": ""
     },
     "checklistHash": 1000002022,
+    "related": {
+      "records": [
+        {
+          "recordHash": 385609490
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002022.jpg"
   },
   "176": {
@@ -2126,6 +2553,13 @@
       "description": ""
     },
     "checklistHash": 1000002023,
+    "related": {
+      "records": [
+        {
+          "recordHash": 385609490
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002023.jpg"
   },
   "177": {
@@ -2135,6 +2569,13 @@
       "description": ""
     },
     "checklistHash": 1000002024,
+    "related": {
+      "records": [
+        {
+          "recordHash": 385609490
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/augmented-obsession/kells-rising-1000002024.jpg"
   },
   "178": {
@@ -2144,6 +2585,13 @@
       "description": ""
     },
     "checklistHash": 4062796495,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/anchor-of-light-4062796495.jpg"
   },
   "179": {
@@ -2153,6 +2601,13 @@
       "description": ""
     },
     "checklistHash": 269847098,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/hellmouth-269847098.jpg"
   },
   "180": {
@@ -2162,6 +2617,13 @@
       "description": ""
     },
     "checklistHash": 957600697,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg"
   },
   "181": {
@@ -2171,6 +2633,13 @@
       "description": ""
     },
     "checklistHash": 2293092716,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg"
   },
   "182": {
@@ -2180,6 +2649,13 @@
       "description": "After completing the sector, proceed to the exit and find the subject on the way out."
     },
     "checklistHash": 2779900411,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-logistics-2779900411.jpg"
   },
   "183": {
@@ -2189,6 +2665,13 @@
       "description": "Requires a **Firewall Data Fragment**. Acquire prerequisite through Eris Morn."
     },
     "checklistHash": 3728157446,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/k1-revelation-3728157446.jpg"
   },
   "184": {
@@ -2198,6 +2681,13 @@
       "description": "Entering the **Circle of Bones** via the **Gatehouse**, turn right and proceed to follow the loop around the **Hellmouth**. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
     },
     "checklistHash": 3977481189,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/circle-of-bones-3977481189.jpg"
   },
   "185": {
@@ -2207,6 +2697,13 @@
       "description": ""
     },
     "checklistHash": 1568227000,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
   },
   "186": {
@@ -2216,6 +2713,13 @@
       "description": ""
     },
     "checklistHash": 2115406343,
+    "related": {
+      "records": [
+        {
+          "recordHash": 2202038969
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg"
   },
   "187": {
@@ -2225,6 +2729,13 @@
       "description": ""
     },
     "checklistHash": 4180769175,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-4180769175.jpg"
   },
   "188": {
@@ -2234,6 +2745,13 @@
       "description": ""
     },
     "checklistHash": 1476218840,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-1476218840.jpg",
     "extended": {
       "screenshot": {
@@ -2251,6 +2769,13 @@
       "description": ""
     },
     "checklistHash": 2310431689,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/miasma-2310431689.jpg"
   },
   "190": {
@@ -2260,6 +2785,13 @@
       "description": ""
     },
     "checklistHash": 36550832,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-36550832.jpg",
     "extended": {
       "screenshot": {
@@ -2277,6 +2809,13 @@
       "description": ""
     },
     "checklistHash": 3879405391,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-3879405391.jpg",
     "extended": {
       "screenshot": {
@@ -2294,6 +2833,13 @@
       "description": ""
     },
     "checklistHash": 331621230,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/florescent-canal-331621230.jpg",
     "extended": {
       "screenshot": {
@@ -2311,6 +2857,13 @@
       "description": ""
     },
     "checklistHash": 2506158573,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2506158573.jpg",
     "extended": {
       "screenshot": {
@@ -2328,6 +2881,13 @@
       "description": ""
     },
     "checklistHash": 2413985082,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-2413985082.jpg"
   },
   "195": {
@@ -2337,6 +2897,13 @@
       "description": ""
     },
     "checklistHash": 826419291,
+    "related": {
+      "records": [
+        {
+          "recordHash": 1473812699
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/quagmire-826419291.jpg",
     "extended": {
       "screenshot": {
@@ -3106,6 +3673,13 @@
       "description": ""
     },
     "checklistHash": 1343989713,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-1343989713.jpg"
   },
   "263": {
@@ -3115,6 +3689,13 @@
       "description": ""
     },
     "checklistHash": 2587582303,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2587582303.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=CGvULjntin0&t=27s"
@@ -3127,6 +3708,13 @@
       "description": ""
     },
     "checklistHash": 2493140158,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/zephyr-concourse-2493140158.jpg"
   },
   "265": {
@@ -3136,6 +3724,13 @@
       "description": ""
     },
     "checklistHash": 1351660365,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1351660365.jpg"
   },
   "266": {
@@ -3145,6 +3740,13 @@
       "description": ""
     },
     "checklistHash": 1960240794,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-1960240794.jpg"
   },
   "267": {
@@ -3154,6 +3756,13 @@
       "description": ""
     },
     "checklistHash": 2522062651,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/liming-harbor-2522062651.jpg"
   },
   "268": {
@@ -4584,6 +5193,13 @@
       "description": ""
     },
     "checklistHash": 61217800,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-61217800.jpg"
   },
   "371": {
@@ -4593,6 +5209,13 @@
       "description": ""
     },
     "checklistHash": 2442093127,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "extended": {
       "tip": "At the foot of..."
     },
@@ -4605,6 +5228,13 @@
       "description": ""
     },
     "checklistHash": 4006123814,
+    "related": {
+      "records": [
+        {
+          "recordHash": 209536962
+        }
+      ]
+    },
     "extended": {
       "tip": "Lies beneath..."
     },

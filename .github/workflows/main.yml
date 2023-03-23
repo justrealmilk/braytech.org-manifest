@@ -1,18 +1,28 @@
-name: action
-on: [push, workflow_dispatch]
+name: Clean files
+
+on:
+  push:
+    branches: [ master ]
+
 jobs:
   clean-files:
+    name: Clean files
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup-java
+
+      - name: Setup java
         uses: actions/setup-java@v3
         with:
           distribution: oracle
           java-version: 17
+
       - name: Run-main
         run: mvn compile exec:java
+        
       - name: Create Pull Request
         run:
           git config --local user.name actions-user
