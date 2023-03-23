@@ -35,6 +35,9 @@ public class Main {
     om = (new ObjectMapper()).setDefaultPrettyPrinter(new MyPrettyPrinter())
         .enable(SerializationFeature.INDENT_OUTPUT);
 
+    Arrays.asList((new File(repoPath)).listFiles()).forEach(s ->
+        System.out.println("Repo path file: " + s));
+
     languages = Arrays.asList("en", "de", "en-OwO", "es", "es-MX", "fr", "it", "ja", "ko", "pl",
         "pt-BR", "ru", "zh-CHS", "zh-CHT");
     
@@ -47,6 +50,9 @@ public class Main {
         try {
           if (node != null && !node.isEmpty()) {
             om.writeValue(new File(outPath, filename), node);
+            System.out.println("Saved: " + outPath + "\\" + filename);
+          } else {
+            System.out.println("Empty node: " + filename);
           }
         } catch (IOException e) {
           System.out.println("Couldn't save " + filename);
@@ -65,8 +71,6 @@ public class Main {
   private Map<String, JsonNode> loadJsonFiles(String lang) {
     outPath = repoPath + "\\" + (lang.equals("en") ? "template" : lang);
 
-    new File(outPath).mkdir();
-
     filenames = Arrays.asList((new File(repoPath, lang))
         .list((dir, name) -> name.endsWith(".json") && !name.endsWith("Colloquial.json")
             && !name.endsWith("dynamic.json")));
@@ -75,6 +79,9 @@ public class Main {
 
     return filenames.stream().map(name -> {
       File f = new File(repoPath + "\\" + lang, name);
+      System.out.println("Loading: " + repoPath + "\\" + lang + "\\" + name);
+      System.out.println("Exixts: " + f.exists() + " Read: " + f.canWrite() + " Write: "
+          + f.canWrite());
       try {
         return f.exists() ? om.readTree(f) : om.createObjectNode();
       } catch (IOException e) {
