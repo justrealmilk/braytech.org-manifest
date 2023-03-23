@@ -14,6 +14,7 @@ import DestinyInventoryBucketDefinition from '@Data/manifest/fr/DestinyInventory
 import DestinyInventoryItemDefinition from '@Data/manifest/fr/DestinyInventoryItemDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/fr/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/fr/DestinyPhaseDefinition.json';
+import DestinyPresentationNodeDefinition from '@Data/manifest/fr/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/fr/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/fr/DestinySeasonDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/fr/DestinyStatDefinition.json';
@@ -37,6 +38,7 @@ const fr = {
     DestinyInventoryItemDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
+    DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinyStatDefinition,

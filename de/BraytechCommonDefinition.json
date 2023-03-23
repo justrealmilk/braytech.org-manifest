@@ -1,4 +1,59 @@
 {
+  "platform-xbox": {
+    "displayProperties": {
+      "name": "Xbox",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform-playstation": {
+    "displayProperties": {
+      "name": "Playstation",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform-steam": {
+    "displayProperties": {
+      "name": "Steam",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform-battlenet": {
+    "displayProperties": {
+      "name": "Battle.net",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform-stadia": {
+    "displayProperties": {
+      "name": "Stadia",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "platform-epic": {
+    "displayProperties": {
+      "name": "Epic",
+      "description": "Die Plattform, zu der dieses Profil gehört."
+    },
+    "itemTypeDisplayName": "Plattform"
+  },
+  "flair-developer": {
+    "displayProperties": {
+      "name": "Tom Chapman"
+    },
+    "itemTypeDisplayName": "Braytech-Entwickler"
+  },
+  "flair-patron-researcher": {
+    "displayProperties": {
+      "name": "Forscher",
+      "description": "Als technischer Fellow bei Clovis Bray versucht dieser Hüter, Braytech zu verbessern."
+    },
+    "itemTypeDisplayName": "Braytech-Unterstützer"
+  },
   "ammo-type-primary": {
     "displayProperties": {
       "name": "Primär",
@@ -19,75 +74,6 @@
       "description": "Diese Waffe verwendet schwere Munition."
     },
     "itemTypeDisplayName": "Munition"
-  },
-  "platform-xbox": {
-    "displayProperties": {
-      "description": "Die Plattform, zu der dieses Profil gehört."
-    },
-    "itemTypeDisplayName": "Plattform"
-  },
-  "platform-playstation": {
-    "displayProperties": {
-      "description": "Die Plattform, zu der dieses Profil gehört."
-    },
-    "itemTypeDisplayName": "Plattform"
-  },
-  "platform-steam": {
-    "displayProperties": {
-      "description": "Die Plattform, zu der dieses Profil gehört."
-    },
-    "itemTypeDisplayName": "Plattform"
-  },
-  "platform-battlenet": {
-    "displayProperties": {
-      "description": "Die Plattform, zu der dieses Profil gehört."
-    },
-    "itemTypeDisplayName": "Plattform"
-  },
-  "platform-stadia": {
-    "displayProperties": {
-      "description": "Die Plattform, zu der dieses Profil gehört."
-    },
-    "itemTypeDisplayName": "Plattform"
-  },
-  "flair-warmind": {
-    "displayProperties": {
-      "description": "Tom Chapman, Erschaffer und Ingenieur von Braytech."
-    },
-    "itemTypeDisplayName": "Künstliche Intelligenz"
-  },
-  "flair-developer": {
-    "displayProperties": {
-      "name": "Tom Chapman",
-      "description": ""
-    },
-    "itemTypeDisplayName": "Braytech-Entwickler"
-  },
-  "flair-tokai": {
-    "displayProperties": {
-      "name": "Tokai",
-      "description": ""
-    },
-    "itemTypeDisplayName": "Braytech-Concierge"
-  },
-  "flair-patron-veteran": {
-    "displayProperties": {
-      "description": "Dieser Hüter ist wie ein Leuchtfeuer, der durch seine Handlungen bewiesen hat, dass er Tapferkeit und Dienst über alles schätzt."
-    },
-    "itemTypeDisplayName": "Braytech-Unterstützer"
-  },
-  "flair-patron": {
-    "displayProperties": {
-      "name": "Forscher",
-      "description": "Als technischer Fellow bei Clovis Bray versucht dieser Hüter, Braytech zu verbessern."
-    },
-    "itemTypeDisplayName": "Braytech-Unterstützer"
-  },
-  "flair-patron-intern": {
-    "displayProperties": {
-      "name": "Praktikant"
-    },
-    "itemTypeDisplayName": "Braytech-Unterstützer"
   },
   "commonality": {
     "displayProperties": {
@@ -131,12 +117,6 @@
       "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
     }
   },
-  "coverage": {
-    "displayProperties": {
-      "name": "Abdeckung",
-      "description": "Die Abdeckung dieser Übersetzung wird in Prozent dargestellt."
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Gesamte Rücksetzungen",
@@ -147,12 +127,6 @@
     "displayProperties": {
       "name": "Artefakt-Powerbonus",
       "description": "Das Verdienen von XP gewährt Power-Boni und schaltet mächtige Mods für das saisonale Artefakt frei."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Destiny Tracker-Elo",
-      "description": "Elo-Bewertung einer Drittanbieter-Webseite, _Destiny Tracker_. _Destiny Tracker_ liefert Elo für alle Destiny-Spieler, die _Schmelztiegel_ und _Gambit_ spielen."
     }
   },
   "latent-memories": {
@@ -311,9 +285,8 @@
       "description": "Aktivitäten auf Graphen dargestellt, für Statistikfreunde."
     }
   },
-  "sub-activity-raids": {
+  "sub-activity-series": {
     "displayProperties": {
-      "name": "Raids",
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
     }
   },

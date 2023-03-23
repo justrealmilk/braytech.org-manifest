@@ -1,20 +1,21 @@
 {
   "584726932": {
     "displayProperties": {
+      "type": "",
       "name": "Adrenalodromo",
-      "description": "Sam Moleyn says they have a thing called \"Skee-Ball,\" and with enough points, you can win prizes. Ghost really wants to come back when things \"calm down.\""
+      "description": "Sam Moleyn dice che hanno una cosa chiamata \"Skee-Ball\" e con abbastanza punti puoi vincere dei premi. Spettro vuole davvero tornare quando le cose si \"calmeranno\"."
     }
   },
   "1869786712": {
     "displayProperties": {
       "name": "Idroponica Delta",
-      "description": "The Shadow Legion have broken into critical hydroponics infrastructure, a production centre for Neomuni food supply. Secure the facility."
+      "description": "La Legione Ombra ha fatto irruzione in un'infrastruttura idroponica critica, un centro di produzione per la fornitura alimentare dei Neomuni. Metti in sicurezza la struttura."
     }
   },
   "2983905025": {
     "displayProperties": {
       "name": "Precetto Dorato",
-      "description": "\"What is the Earth idiom? Through a... mirror?\"\nForbidden tradition. The Shadow Legion want to fight, so fight them."
+      "description": "\"Qual è il modo di dire terrestre? Attraverso uno... specchio?\"\nTradizione proibita. La Legione Ombra vuole combattere, dunque combattiamoli."
     }
   },
   "2659723068": {
@@ -22,5 +23,8 @@
       "name": "Gardino della Salvezza",
       "description": "Il Giardino ti sta chiamando. Rispondi con decisione ma anche con cautela."
     }
+  },
+  "test": {
+    "hash": "69" 
   }
 }

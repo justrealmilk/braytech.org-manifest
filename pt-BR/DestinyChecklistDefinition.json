@@ -1,9 +1,5 @@
 {
   "363696145": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Fragmentos de fantasma resgatado"
   },
   "817948795": {
@@ -23,25 +19,21 @@
     "entry": {
       "prefix": "Artefato",
       "name": "Baú selado por estase"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "Repositórios CPP"
     },
     "entry": {
-      "prefix": "",
       "name": "Repositório CPP"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Ossos de Ahamkara"
     },
     "entry": {
-      "prefix": "",
       "name": "Osso de Ahamkara"
     },
     "progressDescription": "Ossos encontrados"
@@ -51,7 +43,6 @@
       "name": "Baús Regionais"
     },
     "entry": {
-      "prefix": "",
       "name": "Baú Regional"
     },
     "progressDescription": "Baús abertos"
@@ -71,7 +62,6 @@
       "name": "Coelhos de Jade"
     },
     "entry": {
-      "prefix": "",
       "name": "Coelho de Jade"
     },
     "progressDescription": "Coelhos com bolo de arroz"
@@ -121,7 +111,6 @@
       "name": "Setores Perdidos"
     },
     "entry": {
-      "prefix": "",
       "name": "Setor Perdido"
     },
     "progressDescription": "Descoberto"
@@ -137,10 +126,6 @@
     "progressDescription": "Mariposas coletadas"
   },
   "4108857026": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "Cifras necróticas coletadas"
   }
 }

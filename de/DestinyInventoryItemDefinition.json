@@ -4,8 +4,7 @@
       "name": "Klassifiziert",
       "description": "Halte es sauber."
     },
-    "itemTypeDisplayName": "Unzureichende Freigabe",
-    "redacted": true
+    "itemTypeDisplayName": "Unzureichende Freigabe"
   },
   "304443327": {
     "displayProperties": {
@@ -89,17 +88,8 @@
     },
     "itemTypeDisplayName": "Waffen-Mod",
     "inventory": {
-      "bucketTypeHash": 2422292810,
-      "recoveryBucketTypeHash": 0,
-      "tierTypeHash": 3340296461,
       "tierTypeName": "Gewöhnlich"
-    },
-    "itemCategoryHashes": [
-      59,
-      945330047,
-      610365472
-    ],
-    "hash": 23239861010
+    }
   },
   "73143230001": {
     "displayProperties": {

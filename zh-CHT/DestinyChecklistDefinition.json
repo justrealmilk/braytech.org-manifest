@@ -1,9 +1,5 @@
 {
   "363696145": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "已恢復機靈碎片"
   },
   "817948795": {
@@ -23,25 +19,21 @@
     "entry": {
       "prefix": "神器",
       "name": "冰凝封印寶箱"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC貯藏"
     },
     "entry": {
-      "prefix": "",
       "name": "DSC貯藏"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "阿罕卡拉遺骨"
     },
     "entry": {
-      "prefix": "",
       "name": "阿罕卡拉遺骨"
     },
     "progressDescription": "已發現遺骨"
@@ -51,7 +43,6 @@
       "name": "地區寶箱"
     },
     "entry": {
-      "prefix": "",
       "name": "地區寶箱"
     },
     "progressDescription": "已開啟寶箱"
@@ -71,7 +62,6 @@
       "name": "玉兔"
     },
     "entry": {
-      "prefix": "",
       "name": "玉兔"
     },
     "progressDescription": "餵食大米餅的玉兔"
@@ -121,7 +111,6 @@
       "name": "遺失區域"
     },
     "entry": {
-      "prefix": "",
       "name": "遺失區域"
     },
     "progressDescription": "已發現"
@@ -137,10 +126,6 @@
     "progressDescription": "已收集飛蛾"
   },
   "4108857026": {
-    "entry": {
-      "prefix": "",
-      "name": ""
-    },
     "progressDescription": "已收集的加密信息"
   }
 }

@@ -34,30 +34,17 @@
     },
     "itemTypeDisplayName": "Платформа"
   },
-  "flair-warmind": {
+  "platform-epic": {
     "displayProperties": {
-      "name": "Руководитель",
-      "description": "Том Чапмен, создатель и разработчик Braytech."
+      "name": "Epic",
+      "description": "Платформа, к которой принадлежит этот профиль."
     },
-    "itemTypeDisplayName": "Искусственный интеллект"
+    "itemTypeDisplayName": "Платформа"
   },
-  "flair-patron-veteran": {
-    "displayProperties": {
-      "name": "Подпрограмма",
-      "description": "Этот Страж — луч света, доказавший своими действиями, что ставит превыше всего храбрость и службу."
-    },
-    "itemTypeDisplayName": "Награда спонсора на Patreon"
-  },
-  "flair-patron": {
+  "flair-patron-researcher": {
     "displayProperties": {
       "name": "Исследователь",
       "description": "Технический сотрудник Clovis Bray, этот Страж стремится улучшить Braytech."
-    },
-    "itemTypeDisplayName": "Награда спонсора на Patreon"
-  },
-  "flair-patron-intern": {
-    "displayProperties": {
-      "name": "Стажер"
     },
     "itemTypeDisplayName": "Награда спонсора на Patreon"
   },
@@ -85,22 +72,10 @@
       "description": "Некоторые триумфы имеют этапы. Каждый последующий этап имеет увеличенные требования и награду."
     }
   },
-  "coverage": {
-    "displayProperties": {
-      "name": "Перевод",
-      "description": "Процент перевода на данный язык."
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Всего обнулений",
       "description": "Все сезонные обнуления. Отслеживаются начиная с 4 сезона."
-    }
-  },
-  "destiny-tracker-elo": {
-    "displayProperties": {
-      "name": "Destiny Tracker Elo",
-      "description": "Текущий эло рейтинг игрока.\n\nЭло рейтинг с стороннего веб сайта _Destiny Tracker_. _Destiny Tracker_ начисляет Elo рейтинг всем игрокам Destiny, которые играли в _Горнило_ и _Гамбит_."
     }
   },
   "latent-memories": {

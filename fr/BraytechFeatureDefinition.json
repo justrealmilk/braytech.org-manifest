@@ -34,7 +34,7 @@
   "journey": {
     "displayProperties": {
       "name": "Parcours",
-      "description": "Naviguez à travers le parcours de votre Gardien, de Nouvelle Lumière à Parangon"
+      "description": "Découvrez le parcours de votre Gardien, de Nouvelle Lumière à Paragon."
     },
     "keywords": [
       "parcours",
@@ -283,90 +283,6 @@
     "displayProperties": {
       "name": "Crédits",
       "description": "À propos des gardiens qui ont rendu cela possible"
-    }
-  },
-  "journey": {
-    "displayProperties": {
-      "name": "Parcours",
-      "description": "Découvrez le parcours de votre Gardien, de Nouvelle Lumière à Paragon."
-    }
-  },
-  "commendations": {
-    "displayProperties": {
-      "name": "Commendations",
-      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
-    }
-  },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "Scans de Spectre et listes d'objets à récupérer dans le système solaire"
-    }
-  },
-  "weeklies-challenges": {
-    "displayProperties": {
-      "name": "Challenges",
-      "description": "All activity challenges"
-    }
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
-  "weeklies-rotations": {
-    "displayProperties": {
-      "name": "Rotations",
-      "description": "Scry the orbits of various activities"
-    }
-  },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
-  "character-vault": {
-    "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
-    }
-  },
-  "character-vendors": {
-    "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
-    }
-  },
-  "quests-bounties": {
-    "displayProperties": {
-      "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
-    }
-  },
-  "activity-bookmarks": {
-    "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
-    }
-  },
-  "activity-series": {
-    "displayProperties": {
-      "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
-    }
-  },
-  "legend": {
-    "displayProperties": {
-      "name": "Légende",
-      "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge."
-    }
-  },
-  "privacy": {
-    "displayProperties": {
-      "name": "Privacy",
-      "description": "Respecting personal boundaries"
     }
   }
 }
