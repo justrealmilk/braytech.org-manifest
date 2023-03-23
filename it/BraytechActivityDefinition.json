@@ -1,7 +1,6 @@
 {
   "584726932": {
     "displayProperties": {
-      "type": "",
       "name": "Adrenalodromo",
       "description": "Sam Moleyn dice che hanno una cosa chiamata \"Skee-Ball\" e con abbastanza punti puoi vincere dei premi. Spettro vuole davvero tornare quando le cose si \"calmeranno\"."
     }
@@ -23,8 +22,5 @@
       "name": "Gardino della Salvezza",
       "description": "Il Giardino ti sta chiamando. Rispondi con decisione ma anche con cautela."
     }
-  },
-  "test": {
-    "hash": "69" 
   }
 }
