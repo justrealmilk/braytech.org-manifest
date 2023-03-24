@@ -9285,7 +9285,14 @@
       "description": "Enter the dungeon and head to the tower farthest right. Retain some altitude if possible. On the farthest side of the farthest tower, below its foot, is a cypher."
     },
     "recordHash": 4111390768,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii.x-apocrypha-4111390768.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390768
+        }
+      ]
+    }
   },
   "4111390769": {
     "hash": 4111390769,
@@ -9294,7 +9301,14 @@
       "description": ""
     },
     "recordHash": 4111390769,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi-the-anti-logic-4111390769.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi-the-anti-logic-4111390769.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390769
+        }
+      ]
+    }
   },
   "4111390770": {
     "hash": 4111390770,
@@ -9303,7 +9317,14 @@
       "description": "Complete the **Chamber of Suffering** encounter. Before making your way deeper by traversing the height traps, climb carefully to their higest level."
     },
     "recordHash": 4111390770,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.i-apocrypha-4111390770.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390770
+        }
+      ]
+    }
   },
   "4111390771": {
     "hash": 4111390771,
@@ -9312,7 +9333,14 @@
       "description": "Complete the **Necropolis** encounter and proceed towards The Pit. Once at the wall of paths, climb and turn around. To the right of the hall is a small ledge along the moonstone wall. Use it to step to the upper level of the hallway and proceed to the farthest right side."
     },
     "recordHash": 4111390771,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x-apocrypha-4111390771.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390771
+        }
+      ]
+    }
   },
   "4111390772": {
     "hash": 4111390772,
@@ -9321,7 +9349,14 @@
       "description": ""
     },
     "recordHash": 4111390772,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.i-the-unmaking-4111390772.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.i-the-unmaking-4111390772.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390772
+        }
+      ]
+    }
   },
   "4111390773": {
     "hash": 4111390773,
@@ -9330,7 +9365,14 @@
       "description": ""
     },
     "recordHash": 4111390773,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii-a-sacrifice-of-self-4111390773.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/viii-a-sacrifice-of-self-4111390773.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390773
+        }
+      ]
+    }
   },
   "4111390774": {
     "hash": 4111390774,
@@ -9339,7 +9381,14 @@
       "description": ""
     },
     "recordHash": 4111390774,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/x-faith-in-bone-4111390774.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/x-faith-in-bone-4111390774.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390774
+        }
+      ]
+    }
   },
   "4111390775": {
     "hash": 4111390775,
@@ -9348,7 +9397,14 @@
       "description": ""
     },
     "recordHash": 4111390775,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.ii-the-unmaking-4111390775.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.ii-the-unmaking-4111390775.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390775
+        }
+      ]
+    }
   },
   "4111390780": {
     "hash": 4111390780,
@@ -9357,7 +9413,14 @@
       "description": "In the middlest crouch-way tunnel, closest to the green gas pit where you find the solar orb. Entering the tunnel from the green gas pit side, it will quickly widen into a small room. Stop, turn 180°, and look upwards."
     },
     "recordHash": 4111390780,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi.x-apocrypha-4111390780.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/xi.x-apocrypha-4111390780.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390780
+        }
+      ]
+    }
   },
   "4111390781": {
     "hash": 4111390781,
@@ -9366,7 +9429,14 @@
       "description": "Drop down into the **Tunnels of Despair** and keep right. Enter at the first crouch-way and follow it to its end. You'll see a red door. Standing at the red door turn 70° clockwise. You'll be staring at a boulder. To the right of the boulder is the prize you seek."
     },
     "recordHash": 4111390781,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ix.x.ii-apocrypha-4111390781.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4111390781
+        }
+      ]
+    }
   },
   "4128910789": {
     "hash": 4128910789,
@@ -9505,7 +9575,14 @@
       "description": ""
     },
     "recordHash": 4251590400,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iv-blood-sport-4251590400.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iv-blood-sport-4251590400.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590400
+        }
+      ]
+    }
   },
   "4251590401": {
     "hash": 4251590401,
@@ -9514,7 +9591,14 @@
       "description": ""
     },
     "recordHash": 4251590401,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/v-a-sinister-plot-4251590401.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/v-a-sinister-plot-4251590401.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590401
+        }
+      ]
+    }
   },
   "4251590402": {
     "hash": 4251590402,
@@ -9523,7 +9607,14 @@
       "description": ""
     },
     "recordHash": 4251590402,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ii-an-audience-with-slaughter-4251590402.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/ii-an-audience-with-slaughter-4251590402.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590402
+        }
+      ]
+    }
   },
   "4251590403": {
     "hash": 4251590403,
@@ -9532,7 +9623,14 @@
       "description": ""
     },
     "recordHash": 4251590403,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iii-ritualistic-circle-pit-4251590403.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/iii-ritualistic-circle-pit-4251590403.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590403
+        }
+      ]
+    }
   },
   "4251590404": {
     "hash": 4251590404,
@@ -9541,7 +9639,14 @@
       "description": ""
     },
     "recordHash": 4251590404,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iii-of-tattered-blood-and-broken-bone-4251590404.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iii-of-tattered-blood-and-broken-bone-4251590404.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590404
+        }
+      ]
+    }
   },
   "4251590405": {
     "hash": 4251590405,
@@ -9550,7 +9655,14 @@
       "description": ""
     },
     "recordHash": 4251590405,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iv-of-tattered-blood-and-broken-bone-4251590405.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.iv-of-tattered-blood-and-broken-bone-4251590405.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590405
+        }
+      ]
+    }
   },
   "4251590407": {
     "hash": 4251590407,
@@ -9559,7 +9671,14 @@
       "description": ""
     },
     "recordHash": 4251590407,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.ii-of-tattered-blood-and-broken-bone-4251590407.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/i.ii-of-tattered-blood-and-broken-bone-4251590407.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590407
+        }
+      ]
+    }
   },
   "4251590414": {
     "hash": 4251590414,
@@ -9568,7 +9687,14 @@
       "description": ""
     },
     "recordHash": 4251590414,
-    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vi-blood-sport-4251590414.jpg"
+    "screenshot": "/static/images/screenshots/records/inquisition-of-the-damned/vi-blood-sport-4251590414.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590414
+        }
+      ]
+    }
   },
   "4251590415": {
     "hash": 4251590415,
@@ -9585,6 +9711,13 @@
           "y": 48
         }
       }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 4251590415
+        }
+      ]
     }
   },
   "4254313516": {
@@ -9650,6 +9783,11 @@
         {
           "itemHash": 687082423
         }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949216
+        }
       ]
     }
   },
@@ -9665,6 +9803,11 @@
       "quests": [
         {
           "itemHash": 2244757358
+        }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949217
         }
       ]
     }
@@ -9682,6 +9825,11 @@
         {
           "itemHash": 993395957
         }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949218
+        }
       ]
     }
   },
@@ -9697,6 +9845,11 @@
       "quests": [
         {
           "itemHash": 3277020515
+        }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949220
         }
       ]
     }
@@ -9714,6 +9867,11 @@
         {
           "itemHash": 2962817690
         }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949221
+        }
       ]
     }
   },
@@ -9729,6 +9887,11 @@
       "quests": [
         {
           "itemHash": 3140210033
+        }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949222
         }
       ]
     }
@@ -9746,6 +9909,11 @@
         {
           "itemHash": 3799864144
         }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949223
+        }
       ]
     }
   },
@@ -9762,6 +9930,11 @@
         {
           "itemHash": 2743180254
         }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949226
+        }
       ]
     }
   },
@@ -9777,6 +9950,11 @@
       "quests": [
         {
           "itemHash": 1343473388
+        }
+      ],
+      "records": [
+        {
+          "recordHash": 4292949227
         }
       ]
     }
