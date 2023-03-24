@@ -1,0 +1,17 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "總計"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "傷害衰減"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "裝填時間（秒）"
+    }
+  }
+}
