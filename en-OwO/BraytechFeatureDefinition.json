@@ -191,15 +191,6 @@
       "trackers"
     ]
   },
-  "triumphs-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonaw Chawwenges",
-      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
-    },
-    "keywords": [
-      "seasonal challenges"
-    ]
-  },
   "weeklies": {
     "displayProperties": {
       "name": "Weekwies",
@@ -236,6 +227,15 @@
       "raids",
       "wellspring",
       "altars of sorrow"
+    ]
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonaw Chawwenges",
+      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
+    },
+    "keywords": [
+      "seasonal challenges"
     ]
   }
 }
