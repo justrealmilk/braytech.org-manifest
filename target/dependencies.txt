@@ -1,6 +1,0 @@
-digraph "com.braytech:cleanfiles:jar:1.0-SNAPSHOT" { 
-	"com.braytech:cleanfiles:jar:1.0-SNAPSHOT" -> "com.fasterxml.jackson.datatype:jackson-datatypes-collections:pom:2.14.2:compile" ; 
-	"com.fasterxml.jackson.datatype:jackson-datatypes-collections:pom:2.14.2:compile" -> "com.fasterxml.jackson.core:jackson-core:jar:2.14.2:compile" ; 
-	"com.fasterxml.jackson.datatype:jackson-datatypes-collections:pom:2.14.2:compile" -> "com.fasterxml.jackson.core:jackson-databind:jar:2.14.2:compile" ; 
-	"com.fasterxml.jackson.core:jackson-databind:jar:2.14.2:compile" -> "com.fasterxml.jackson.core:jackson-annotations:jar:2.14.2:compile" ; 
- } 
