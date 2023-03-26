@@ -17,66 +17,6 @@
       "description": "你的守护者在挑战中曾完成的成就记录"
     }
   },
-  "maps": {
-    "displayProperties": {
-      "name": "地图",
-      "description": "交互式地图清单和其他重要目标"
-    }
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "周常",
-      "description": "守护者的每周成就与挑战指南"
-    }
-  },
-  "character": {
-    "displayProperties": {
-      "name": "角色",
-      "description": "查看守护者的装备和库存"
-    }
-  },
-  "quests": {
-    "displayProperties": {
-      "name": "任务",
-      "description": "追踪你的任务，包括任务及赏金单"
-    }
-  },
-  "activity": {
-    "displayProperties": {
-      "name": "活动",
-      "description": "浏览和筛选你的详细游戏击杀报告"
-    }
-  },
-  "settings": {
-    "displayProperties": {
-      "name": "设置",
-      "description": "帐户，主题，本地数据，项目可见性，语言，开发人员，故障排除"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "对比",
-      "description": "寻找你最快的日落打击和梦魇狩猎"
-    }
-  },
-  "archives": {
-    "displayProperties": {
-      "name": "归档",
-      "description": "交互式工具，手册，传奇报告和其他保留内容"
-    }
-  },
-  "faq": {
-    "displayProperties": {
-      "name": "常见问题",
-      "description": "Tom 最喜欢的一些常见问题"
-    }
-  },
-  "credits": {
-    "displayProperties": {
-      "name": "致谢",
-      "description": "关于那些让一切成为可能的守护者们"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -93,6 +33,18 @@
     "displayProperties": {
       "name": "Checklists",
       "description": "所有目的地的机灵扫描和物品清单"
+    }
+  },
+  "maps": {
+    "displayProperties": {
+      "name": "地图",
+      "description": "交互式地图清单和其他重要目标"
+    }
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "周常",
+      "description": "守护者的每周成就与挑战指南"
     }
   },
   "weeklies-challenges": {
@@ -113,6 +65,12 @@
       "description": "Scry the orbits of various activities"
     }
   },
+  "character": {
+    "displayProperties": {
+      "name": "角色",
+      "description": "查看守护者的装备和库存"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -131,10 +89,22 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "quests": {
+    "displayProperties": {
+      "name": "任务",
+      "description": "追踪你的任务，包括任务及赏金单"
+    }
+  },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
       "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity": {
+    "displayProperties": {
+      "name": "活动",
+      "description": "浏览和筛选你的详细游戏击杀报告"
     }
   },
   "activity-bookmarks": {
@@ -149,16 +119,46 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
+  "settings": {
+    "displayProperties": {
+      "name": "设置",
+      "description": "帐户，主题，本地数据，项目可见性，语言，开发人员，故障排除"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
     }
   },
+  "compare": {
+    "displayProperties": {
+      "name": "对比",
+      "description": "寻找你最快的日落打击和梦魇狩猎"
+    }
+  },
+  "archives": {
+    "displayProperties": {
+      "name": "归档",
+      "description": "交互式工具，手册，传奇报告和其他保留内容"
+    }
+  },
+  "faq": {
+    "displayProperties": {
+      "name": "常见问题",
+      "description": "Tom 最喜欢的一些常见问题"
+    }
+  },
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
       "description": "Respecting personal boundaries"
+    }
+  },
+  "credits": {
+    "displayProperties": {
+      "name": "致谢",
+      "description": "关于那些让一切成为可能的守护者们"
     }
   }
 }

@@ -195,18 +195,6 @@
       "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en antiguos."
     }
   },
-  "activity-flawless": {
-    "displayProperties": {
-      "name": "Sin muertes",
-      "description": "Esta actividad se ha iniciado desde el principio y terminada de forma impecable, sin muertes.\n\nPara ser consideradas, las **incursiones** deben haber sido completadas después del lanzamiento de La Reina Bruja, las **mazmorras** y los **sectores perdidos** deben ser empezados y terminados por un solo jugador, y los **asaltos** son específicos de cada jugador."
-    }
-  },
-  "activity-weapon-popular": {
-    "displayProperties": {
-      "name": "Golpes finales",
-      "description": "_Esta arma es muy popular ahora._\n\nSuma de golpes finales por combatientes que usan esta arma.\n\nLos valores atípicos se determinan con la fórmula: \n`Suma de golpes finales del arma >= Q3 + IQR`"
-    }
-  },
   "total-resets": {
     "displayProperties": {
       "name": "Reinicios totales",
@@ -267,6 +255,18 @@
       "description": "Esta actividad se ha completado dentro del plazo durante el modo competición: un triunfo en circunstancias extraordinarias y bajo presión."
     }
   },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "Sin muertes",
+      "description": "Esta actividad se ha iniciado desde el principio y terminada de forma impecable, sin muertes.\n\nPara ser consideradas, las **incursiones** deben haber sido completadas después del lanzamiento de La Reina Bruja, las **mazmorras** y los **sectores perdidos** deben ser empezados y terminados por un solo jugador, y los **asaltos** son específicos de cada jugador."
+    }
+  },
+  "activity-weapon-popular": {
+    "displayProperties": {
+      "name": "Golpes finales",
+      "description": "_Esta arma es muy popular ahora._\n\nSuma de golpes finales por combatientes que usan esta arma.\n\nLos valores atípicos se determinan con la fórmula: \n`Suma de golpes finales del arma >= Q3 + IQR`"
+    }
+  },
   "character-loadouts-delete": {
     "displayProperties": {
       "name": "Borrar equipación",
@@ -282,30 +282,6 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_Este mapa traza los pasos para llegar a la cima._"
-    }
-  },
-  "sub-triumphs-active": {
-    "displayProperties": {
-      "name": "Triunfos y Sellos activos",
-      "description": "Ver todos los triunfos y sellos activos."
-    }
-  },
-  "sub-triumphs-legacy": {
-    "displayProperties": {
-      "name": "Triunfos y Sellos antiguos",
-      "description": "Ver una colección de triunfos y sellos antiguos."
-    }
-  },
-  "sub-triumphs-transient": {
-    "displayProperties": {
-      "name": "Triunfos transitorios",
-      "description": "No todos los triunfos son para siempre: completa estos triunfos con premura o se perderán en el tiempo para siempre."
-    }
-  },
-  "sub-weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
     }
   },
   "sub-collections-root": {
@@ -336,6 +312,30 @@
     "displayProperties": {
       "name": "Analizadores estadísticos",
       "description": "Los analizadores estadísticos se pueden aplicar a tu emblema en la pantalla de detalles. Los analizadores equipados aparecerán en tu placa de indentificación cuando sea visible."
+    }
+  },
+  "sub-triumphs-active": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos activos",
+      "description": "Ver todos los triunfos y sellos activos."
+    }
+  },
+  "sub-triumphs-legacy": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos antiguos",
+      "description": "Ver una colección de triunfos y sellos antiguos."
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Triunfos transitorios",
+      "description": "No todos los triunfos son para siempre: completa estos triunfos con premura o se perderán en el tiempo para siempre."
+    }
+  },
+  "sub-weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Desafíos de temporada",
+      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
     }
   },
   "sub-triumphs-event-card": {

@@ -1,4 +1,145 @@
 {
+  "clan": {
+    "displayProperties": {
+      "name": "Cwan",
+      "description": "About uuw cwan, its wostew, summative histowicaw stats fow aww membews, and admin mode"
+    }
+  },
+  "collections": {
+    "displayProperties": {
+      "name": "Cowwections",
+      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime"
+    },
+    "keywords": [
+      "exotics",
+      "badges"
+    ]
+  },
+  "triumphs": {
+    "displayProperties": {
+      "name": "Twiumphs",
+      "description": "Wecowds uuw Guawdian haz achieved thwough theiw twiaws"
+    },
+    "keywords": [
+      "catalysts",
+      "almost complete",
+      "expiring",
+      "seals",
+      "trackers"
+    ]
+  },
+  "maps": {
+    "displayProperties": {
+      "description": "Intewactive maps chawting checkwists and othew notabwe destinations"
+    },
+    "keywords": [
+      "eggs",
+      "ahamkara bones",
+      "region chests",
+      "lost sectors"
+    ]
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "Weekwies",
+      "description": "A Guawdian's guide to weekwy wituaws with tips fow pwestige and twiumph"
+    },
+    "keywords": [
+      "nightfall",
+      "lost sector",
+      "modules"
+    ]
+  },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Chawwenges",
+      "description": "Aww activity chawwenges"
+    },
+    "keywords": [
+      "weeklies",
+      "challenges",
+      "milestones",
+      "bonuses"
+    ]
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonaw Chawwenges",
+      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
+    },
+    "keywords": [
+      "seasonal challenges"
+    ]
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Wotations",
+      "description": "Scwy da owbits of vawious activities"
+    },
+    "keywords": [
+      "nightfalls",
+      "lost sectors",
+      "rotations",
+      "calendar",
+      "raids",
+      "wellspring",
+      "altars of sorrow"
+    ]
+  },
+  "character": {
+    "displayProperties": {
+      "name": "Chawactew",
+      "description": "Weview uuw Guawdian's equipment and inventowy"
+    },
+    "keywords": [
+      "inventory",
+      "items",
+      "equipment",
+      "stats"
+    ]
+  },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmastew",
+      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items"
+    },
+    "keywords": [
+      "postmaster"
+    ]
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vauwt",
+      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews"
+    },
+    "keywords": [
+      "vault"
+    ]
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendows",
+      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews"
+    },
+    "keywords": [
+      "vendors",
+      "bright dust calendar",
+      "eververse calendar"
+    ]
+  },
+  "quests": {
+    "displayProperties": {
+      "description": "Twack uuw puwsuits, incwuding quests and bounties"
+    }
+  },
+  "quests-bounties": {
+    "displayProperties": {
+      "description": "Aww of da sewected Guawdian's bounties"
+    },
+    "keywords": [
+      "bounty"
+    ]
+  },
   "activity": {
     "displayProperties": {
       "description": "Expwowe and *wuns away* fiwtew uuw Post Game Cawnage Wepowts in detaiw"
@@ -57,68 +198,16 @@
       "matches"
     ]
   },
-  "archives": {
+  "settings": {
     "displayProperties": {
-      "name": "Awchives",
-      "description": "Intewactive toows, manuaws, wegends, and othew content, pwesewved by da Cwyptawchs fow futuwe genewations"
+      "description": "Account, theme, wocaw data, item visibiwity, *bwushes* wanguage, devewopew, twoubweshooting"
     }
   },
-  "character": {
+  "legend": {
     "displayProperties": {
-      "name": "Chawactew",
-      "description": "Weview uuw Guawdian's equipment and inventowy"
-    },
-    "keywords": [
-      "inventory",
-      "items",
-      "equipment",
-      "stats"
-    ]
-  },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmastew",
-      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items"
-    },
-    "keywords": [
-      "postmaster"
-    ]
-  },
-  "character-vault": {
-    "displayProperties": {
-      "name": "Vauwt",
-      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews"
-    },
-    "keywords": [
-      "vault"
-    ]
-  },
-  "character-vendors": {
-    "displayProperties": {
-      "name": "Vendows",
-      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews"
-    },
-    "keywords": [
-      "vendors",
-      "bright dust calendar",
-      "eververse calendar"
-    ]
-  },
-  "clan": {
-    "displayProperties": {
-      "name": "Cwan",
-      "description": "About uuw cwan, its wostew, summative histowicaw stats fow aww membews, and admin mode"
+      "name": "Wegend",
+      "description": "Wife and death awe *sweats* wiaw's toows. Weave uuw own wie. Dispway this summawy pwoudwy befowe uuw fwiends and foes."
     }
-  },
-  "collections": {
-    "displayProperties": {
-      "name": "Cowwections",
-      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime"
-    },
-    "keywords": [
-      "exotics",
-      "badges"
-    ]
   },
   "compare": {
     "displayProperties": {
@@ -126,10 +215,10 @@
       "description": "Go head to head with fewwow Guawdians fow vanity"
     }
   },
-  "credits": {
+  "archives": {
     "displayProperties": {
-      "name": "Cwedits",
-      "description": "About da Guawdians who make it possibwe"
+      "name": "Awchives",
+      "description": "Intewactive toows, manuaws, wegends, and othew content, pwesewved by da Cwyptawchs fow futuwe genewations"
     }
   },
   "faq": {
@@ -143,99 +232,10 @@
       "shortcuts"
     ]
   },
-  "legend": {
+  "credits": {
     "displayProperties": {
-      "name": "Wegend",
-      "description": "Wife and death awe *sweats* wiaw's toows. Weave uuw own wie. Dispway this summawy pwoudwy befowe uuw fwiends and foes."
+      "name": "Cwedits",
+      "description": "About da Guawdians who make it possibwe"
     }
-  },
-  "maps": {
-    "displayProperties": {
-      "description": "Intewactive maps chawting checkwists and othew notabwe destinations"
-    },
-    "keywords": [
-      "eggs",
-      "ahamkara bones",
-      "region chests",
-      "lost sectors"
-    ]
-  },
-  "quests": {
-    "displayProperties": {
-      "description": "Twack uuw puwsuits, incwuding quests and bounties"
-    }
-  },
-  "quests-bounties": {
-    "displayProperties": {
-      "description": "Aww of da sewected Guawdian's bounties"
-    },
-    "keywords": [
-      "bounty"
-    ]
-  },
-  "settings": {
-    "displayProperties": {
-      "description": "Account, theme, wocaw data, item visibiwity, *bwushes* wanguage, devewopew, twoubweshooting"
-    }
-  },
-  "triumphs": {
-    "displayProperties": {
-      "name": "Twiumphs",
-      "description": "Wecowds uuw Guawdian haz achieved thwough theiw twiaws"
-    },
-    "keywords": [
-      "catalysts",
-      "almost complete",
-      "expiring",
-      "seals",
-      "trackers"
-    ]
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "Weekwies",
-      "description": "A Guawdian's guide to weekwy wituaws with tips fow pwestige and twiumph"
-    },
-    "keywords": [
-      "nightfall",
-      "lost sector",
-      "modules"
-    ]
-  },
-  "weeklies-challenges": {
-    "displayProperties": {
-      "name": "Chawwenges",
-      "description": "Aww activity chawwenges"
-    },
-    "keywords": [
-      "weeklies",
-      "challenges",
-      "milestones",
-      "bonuses"
-    ]
-  },
-  "weeklies-rotations": {
-    "displayProperties": {
-      "name": "Wotations",
-      "description": "Scwy da owbits of vawious activities"
-    },
-    "keywords": [
-      "nightfalls",
-      "lost sectors",
-      "rotations",
-      "calendar",
-      "raids",
-      "wellspring",
-      "altars of sorrow"
-    ]
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonaw Chawwenges",
-      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
-    },
-    "keywords": [
-      "seasonal challenges"
-    ]
   }
 }

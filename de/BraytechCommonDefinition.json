@@ -159,30 +159,6 @@
       "description": "Diese Aktivität wurde im Wettkampfmodus absolviert: ein Triumph unter extraordinären Umständen und Druck."
     }
   },
-  "sub-triumphs-active": {
-    "displayProperties": {
-      "name": "Aktive Triumphe und Siegel",
-      "description": "Zeige alle aktiven Triumphe und Siegel"
-    }
-  },
-  "sub-triumphs-legacy": {
-    "displayProperties": {
-      "name": "Vermächtnis-Triumphe und -Siegel",
-      "description": "Zeige die Sammlung an Vermächtnis-Triumphen und -Siegeln"
-    }
-  },
-  "sub-triumphs-transient": {
-    "displayProperties": {
-      "name": "Kurzzeitige Triumphe",
-      "description": "Nicht alle Triumphe existieren für immer – beeil dich oder sei für immer in der Zeit verloren."
-    }
-  },
-  "sub-weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Saisonale Herausforderungen",
-      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
-    }
-  },
   "sub-collections-medals": {
     "displayProperties": {
       "name": "Medaillen",
@@ -205,6 +181,30 @@
     "displayProperties": {
       "name": "Stat-Tracker",
       "description": "Stat-Tracker können in der Details-Ansicht deinem Abzeichen hinzugefügt werden. Hinzugefügte Tracker sind auf deiner Namensplakette sichtbar"
+    }
+  },
+  "sub-triumphs-active": {
+    "displayProperties": {
+      "name": "Aktive Triumphe und Siegel",
+      "description": "Zeige alle aktiven Triumphe und Siegel"
+    }
+  },
+  "sub-triumphs-legacy": {
+    "displayProperties": {
+      "name": "Vermächtnis-Triumphe und -Siegel",
+      "description": "Zeige die Sammlung an Vermächtnis-Triumphen und -Siegeln"
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Kurzzeitige Triumphe",
+      "description": "Nicht alle Triumphe existieren für immer – beeil dich oder sei für immer in der Zeit verloren."
+    }
+  },
+  "sub-weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Saisonale Herausforderungen",
+      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
   "sub-clan-about": {

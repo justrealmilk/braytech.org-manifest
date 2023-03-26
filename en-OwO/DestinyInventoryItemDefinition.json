@@ -12,6 +12,27 @@
     },
     "displaySource": "I hate to say it, but it wooks wike da system uu'we seawching fow doesn't exist.\nThat's impossibwe. Pewhaps da awchives awe incompwete.\nDa awchives awe compwehensive and totawwy secuwe, my uung Jedi. One thing uu may be absowutewy suwe of - if an item does not appeaw in ouw wecowds, it does not exist! OwO"
   },
+  "73143230": {
+    "displayProperties": {
+      "description": "An engwam with compwex mawkews.\nContains a wandom Pinnacwe Wegendawy weapon ow awmow piece."
+    },
+    "itemTypeDisplayName": "Engwam"
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "Incweases uuw cwan's expewience"
+    }
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's Infamy wank. Don't teww da Vanguawd."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Incweases uuw Guawdian's expewience substantiawwy."
+    }
+  },
   "1190250163": {
     "displayProperties": {
       "description": "Synthcowd matewiaw which can be convewted to Synthweave using da Woom."
@@ -38,6 +59,12 @@
       "description": "Incweases da dwop wate of da \"Heawtshadow\" exotic swowd fwom da \"Duawity\" dungeon."
     }
   },
+  "3224646387": {
+    "displayProperties": {
+      "name": "Incweased \"Hiewawchy of Needs\" dwop wate",
+      "description": "Incweases da dwop wate of da \"Hiewawchy of Needs\" exotic bow fwom da \"Spiwe of da Watchew\" dungeon."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience."
@@ -48,26 +75,9 @@
       "description": "Incweases uuw Guawdian's expewience gweatwy."
     }
   },
-  "23239861010": {
-    "displayProperties": {
-      "name": "Empty Mastewwowk Socket",
-      "description": "No mastewwowk cuwwentwy sewected."
-    }
-  },
   "2497395625": {
     "displayProperties": {
       "description": "Matewiaw used in weapon shaping, wequiwed to adjust intwinsic pwugs.\n\nPwimawiwy obtained by dismantwing Wegendawy weapons, but can awso be wewawded fow compweting activities."
-    }
-  },
-  "304443327": {
-    "displayProperties": {
-      "description": "Incweases uuw cwan's expewience"
-    }
-  },
-  "3224646387": {
-    "displayProperties": {
-      "name": "Incweased \"Hiewawchy of Needs\" dwop wate",
-      "description": "Incweases da dwop wate of da \"Hiewawchy of Needs\" exotic bow fwom da \"Spiwe of da Watchew\" dungeon."
     }
   },
   "3348653032": {
@@ -86,21 +96,11 @@
       "description": "Incweases uuw Guawdian's expewience gweatwy."
     }
   },
-  "372496383": {
+  "23239861010": {
     "displayProperties": {
-      "description": "Incweases uuw Guawdian's Infamy wank. Don't teww da Vanguawd."
+      "name": "Empty Mastewwowk Socket",
+      "description": "No mastewwowk cuwwentwy sewected."
     }
-  },
-  "691393048": {
-    "displayProperties": {
-      "description": "Incweases uuw Guawdian's expewience substantiawwy."
-    }
-  },
-  "73143230": {
-    "displayProperties": {
-      "description": "An engwam with compwex mawkews.\nContains a wandom Pinnacwe Wegendawy weapon ow awmow piece."
-    },
-    "itemTypeDisplayName": "Engwam"
   },
   "73143230001": {
     "displayProperties": {

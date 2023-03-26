@@ -17,66 +17,6 @@
       "description": "Triumphe, die dein Hüter durch seine Prüfungen erzielt hat"
     }
   },
-  "maps": {
-    "displayProperties": {
-      "name": "Karten",
-      "description": "Interaktive Karten mit Checklisten und anderen wichtigen Zielen"
-    }
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "Wöchentliches",
-      "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
-    }
-  },
-  "character": {
-    "displayProperties": {
-      "name": "Charakter",
-      "description": "Inspiziere die Ausrüstung und das Inventar deines Hüters"
-    }
-  },
-  "quests": {
-    "displayProperties": {
-      "name": "Quests",
-      "description": "Tracke deine Aufgaben, inklusive Quest und Beutezüge."
-    }
-  },
-  "activity": {
-    "displayProperties": {
-      "name": "Aktivitäten",
-      "description": "Bestaune und filtere deine 'Schmelztiegel-Berichte' im Detail"
-    }
-  },
-  "settings": {
-    "displayProperties": {
-      "name": "Einstellungen",
-      "description": "Konto, Design, lokale Daten, Sichtbarkeit von Gegenständen, Sprache, Entwickler, Fehlerbehebung"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Vergleichen",
-      "description": "Finde und vergleiche deine schnellsten Abschlüsse für Dämmerungsstrikes und Albtraumjagden mit anderen Hütern"
-    }
-  },
-  "archives": {
-    "displayProperties": {
-      "name": "Archiv",
-      "description": "Interaktive Tools, Handbücher, Legenden und weiteren Inhalten"
-    }
-  },
-  "faq": {
-    "displayProperties": {
-      "name": "FAQ",
-      "description": "Toms Favoriten der häufig gestellten Fragen"
-    }
-  },
-  "credits": {
-    "displayProperties": {
-      "name": "Danksagung",
-      "description": "Über die Hüter, die es möglich machen"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -93,6 +33,18 @@
     "displayProperties": {
       "name": "Checklists",
       "description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken"
+    }
+  },
+  "maps": {
+    "displayProperties": {
+      "name": "Karten",
+      "description": "Interaktive Karten mit Checklisten und anderen wichtigen Zielen"
+    }
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "Wöchentliches",
+      "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
   "weeklies-challenges": {
@@ -113,6 +65,12 @@
       "description": "Scry the orbits of various activities"
     }
   },
+  "character": {
+    "displayProperties": {
+      "name": "Charakter",
+      "description": "Inspiziere die Ausrüstung und das Inventar deines Hüters"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -131,10 +89,22 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "quests": {
+    "displayProperties": {
+      "name": "Quests",
+      "description": "Tracke deine Aufgaben, inklusive Quest und Beutezüge."
+    }
+  },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
       "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity": {
+    "displayProperties": {
+      "name": "Aktivitäten",
+      "description": "Bestaune und filtere deine 'Schmelztiegel-Berichte' im Detail"
     }
   },
   "activity-bookmarks": {
@@ -149,16 +119,46 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
+  "settings": {
+    "displayProperties": {
+      "name": "Einstellungen",
+      "description": "Konto, Design, lokale Daten, Sichtbarkeit von Gegenständen, Sprache, Entwickler, Fehlerbehebung"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
     }
   },
+  "compare": {
+    "displayProperties": {
+      "name": "Vergleichen",
+      "description": "Finde und vergleiche deine schnellsten Abschlüsse für Dämmerungsstrikes und Albtraumjagden mit anderen Hütern"
+    }
+  },
+  "archives": {
+    "displayProperties": {
+      "name": "Archiv",
+      "description": "Interaktive Tools, Handbücher, Legenden und weiteren Inhalten"
+    }
+  },
+  "faq": {
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Toms Favoriten der häufig gestellten Fragen"
+    }
+  },
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
       "description": "Respecting personal boundaries"
+    }
+  },
+  "credits": {
+    "displayProperties": {
+      "name": "Danksagung",
+      "description": "Über die Hüter, die es möglich machen"
     }
   }
 }

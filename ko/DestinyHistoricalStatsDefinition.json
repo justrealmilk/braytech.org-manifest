@@ -1,9 +1,21 @@
 {
+  "opponentsDefeated": {
+    "statName": "처치 및 지원"
+  },
   "killsDeathsRatio": {
     "statName": "K/D"
   },
   "winRate": {
     "statName": "승률"
+  },
+  "precisionKills": {
+    "statName": "정밀 처치"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "정밀 처치 비율"
+  },
+  "currentEloRating": {
+    "statName": "Elo"
   },
   "supremacyCrestsSecured": {
     "statName": "문양 확보"
@@ -58,17 +70,5 @@
   },
   "largeBlockersSent": {
     "statName": "보낸 대형 방해꾼"
-  },
-  "precisionKills": {
-    "statName": "정밀 처치"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "정밀 처치 비율"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "처치 및 지원"
   }
 }

@@ -17,66 +17,6 @@
       "description": "Triunfos que seu Guardião conquistou através de seus desafios"
     }
   },
-  "maps": {
-    "displayProperties": {
-      "name": "Mapas",
-      "description": "Mapa interativo mostrando checklists e outros destinos notáveis"
-    }
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "Semanais",
-      "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
-    }
-  },
-  "character": {
-    "displayProperties": {
-      "name": "Personagem",
-      "description": "Inspecione o equipamento e inventário do seu Guardião"
-    }
-  },
-  "quests": {
-    "displayProperties": {
-      "name": "Jornadas",
-      "description": "Siga suas atividades, incluindo jornadas e contratos"
-    }
-  },
-  "activity": {
-    "displayProperties": {
-      "name": "Atividade",
-      "description": "Explore e filtre seus Relatórios Pós Jogo em detalhes"
-    }
-  },
-  "settings": {
-    "displayProperties": {
-      "name": "Configurações",
-      "description": "Conta, tema, informações locais, visibilidade de itens, idioma e dados salvos"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Comparar",
-      "description": "Enfrente outros Guardiões por vaidade"
-    }
-  },
-  "archives": {
-    "displayProperties": {
-      "name": "Depósito",
-      "description": "Ferramentas interativas, manuais, lendas, e outros conteúdos preservados"
-    }
-  },
-  "faq": {
-    "displayProperties": {
-      "name": "FAQ",
-      "description": "Algumas das perguntas mais feitas ao Tom"
-    }
-  },
-  "credits": {
-    "displayProperties": {
-      "name": "Créditos",
-      "description": "Sobre os Guardiões que fazem isso possível"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -93,6 +33,18 @@
     "displayProperties": {
       "name": "Checklists",
       "description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar"
+    }
+  },
+  "maps": {
+    "displayProperties": {
+      "name": "Mapas",
+      "description": "Mapa interativo mostrando checklists e outros destinos notáveis"
+    }
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "Semanais",
+      "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
     }
   },
   "weeklies-challenges": {
@@ -113,6 +65,12 @@
       "description": "Scry the orbits of various activities"
     }
   },
+  "character": {
+    "displayProperties": {
+      "name": "Personagem",
+      "description": "Inspecione o equipamento e inventário do seu Guardião"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -131,10 +89,22 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "quests": {
+    "displayProperties": {
+      "name": "Jornadas",
+      "description": "Siga suas atividades, incluindo jornadas e contratos"
+    }
+  },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
       "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity": {
+    "displayProperties": {
+      "name": "Atividade",
+      "description": "Explore e filtre seus Relatórios Pós Jogo em detalhes"
     }
   },
   "activity-bookmarks": {
@@ -149,16 +119,46 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
+  "settings": {
+    "displayProperties": {
+      "name": "Configurações",
+      "description": "Conta, tema, informações locais, visibilidade de itens, idioma e dados salvos"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
     }
   },
+  "compare": {
+    "displayProperties": {
+      "name": "Comparar",
+      "description": "Enfrente outros Guardiões por vaidade"
+    }
+  },
+  "archives": {
+    "displayProperties": {
+      "name": "Depósito",
+      "description": "Ferramentas interativas, manuais, lendas, e outros conteúdos preservados"
+    }
+  },
+  "faq": {
+    "displayProperties": {
+      "name": "FAQ",
+      "description": "Algumas das perguntas mais feitas ao Tom"
+    }
+  },
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
       "description": "Respecting personal boundaries"
+    }
+  },
+  "credits": {
+    "displayProperties": {
+      "name": "Créditos",
+      "description": "Sobre os Guardiões que fazem isso possível"
     }
   }
 }

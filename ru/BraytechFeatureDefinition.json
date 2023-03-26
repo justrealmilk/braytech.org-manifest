@@ -17,66 +17,6 @@
       "description": "Достижения, которых достиг ваш Страж на протяжении всех приключений"
     }
   },
-  "maps": {
-    "displayProperties": {
-      "name": "Карта",
-      "description": "Интерактивные карты с местами, представляющими интерес"
-    }
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "Еженедельное",
-      "description": "Руководство для Стражей по еженедельным активностям с подсказками по триумфам и испытаниям"
-    }
-  },
-  "character": {
-    "displayProperties": {
-      "name": "Персонаж",
-      "description": "Проверьте снаряжение и инвентарь вашего Стража"
-    }
-  },
-  "quests": {
-    "displayProperties": {
-      "name": "Поручения",
-      "description": "Отслеживайте свои занятия, включающие задания и контракты"
-    }
-  },
-  "activity": {
-    "displayProperties": {
-      "name": "Активности",
-      "description": "Изучите ваши последние задания в подробностях"
-    }
-  },
-  "settings": {
-    "displayProperties": {
-      "name": "Настройки",
-      "description": "Аккаунт, тема, локальные данные, настройки отображения, язык, инструменты для разработчиков и решение проблем"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Сравнить",
-      "description": "Найдите своё самое быстрое завершение сумрачных налетов и охоты на кошмаров"
-    }
-  },
-  "archives": {
-    "displayProperties": {
-      "name": "Архивы",
-      "description": "Полезные инструменты, руководства и другое"
-    }
-  },
-  "faq": {
-    "displayProperties": {
-      "name": "ЧАВО",
-      "description": "Некоторые из часто задаваемых вопросов Тому"
-    }
-  },
-  "credits": {
-    "displayProperties": {
-      "name": "Участники проекта",
-      "description": "Стражи, благодаря которым проект существует"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -93,6 +33,18 @@
     "displayProperties": {
       "name": "Checklists",
       "description": "Сканирования, предметы и задания по всей Солнечной системе"
+    }
+  },
+  "maps": {
+    "displayProperties": {
+      "name": "Карта",
+      "description": "Интерактивные карты с местами, представляющими интерес"
+    }
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "Еженедельное",
+      "description": "Руководство для Стражей по еженедельным активностям с подсказками по триумфам и испытаниям"
     }
   },
   "weeklies-challenges": {
@@ -113,6 +65,12 @@
       "description": "Scry the orbits of various activities"
     }
   },
+  "character": {
+    "displayProperties": {
+      "name": "Персонаж",
+      "description": "Проверьте снаряжение и инвентарь вашего Стража"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -131,10 +89,22 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "quests": {
+    "displayProperties": {
+      "name": "Поручения",
+      "description": "Отслеживайте свои занятия, включающие задания и контракты"
+    }
+  },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
       "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity": {
+    "displayProperties": {
+      "name": "Активности",
+      "description": "Изучите ваши последние задания в подробностях"
     }
   },
   "activity-bookmarks": {
@@ -149,16 +119,46 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
+  "settings": {
+    "displayProperties": {
+      "name": "Настройки",
+      "description": "Аккаунт, тема, локальные данные, настройки отображения, язык, инструменты для разработчиков и решение проблем"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
     }
   },
+  "compare": {
+    "displayProperties": {
+      "name": "Сравнить",
+      "description": "Найдите своё самое быстрое завершение сумрачных налетов и охоты на кошмаров"
+    }
+  },
+  "archives": {
+    "displayProperties": {
+      "name": "Архивы",
+      "description": "Полезные инструменты, руководства и другое"
+    }
+  },
+  "faq": {
+    "displayProperties": {
+      "name": "ЧАВО",
+      "description": "Некоторые из часто задаваемых вопросов Тому"
+    }
+  },
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
       "description": "Respecting personal boundaries"
+    }
+  },
+  "credits": {
+    "displayProperties": {
+      "name": "Участники проекта",
+      "description": "Стражи, благодаря которым проект существует"
     }
   }
 }

@@ -1,54 +1,7 @@
 {
-  "103143560": {
+  "608898761": {
     "displayProperties": {
-      "name": "Wost *sweats* Sectows",
-      "description": "Advanced scouts haz mawked sectows of stwategic intewest ahead of uu.\n\nInspect them fow thweats and wawe geaw."
-    }
-  },
-  "11647605040": {
-    "displayProperties": {
-      "name": "Aww Cwucibwe",
-      "description": "Did uu thwow enough gwenades? UwU"
-    }
-  },
-  "1264443021": {
-    "displayProperties": {
-      "description": "Fastew Supews, abiwities, and Heavy ammo spawns—withstand and engage in a whiwwwind of chaos."
-    }
-  },
-  "157639802": {
-    "displayProperties": {
-      "description": "Fight fow Vawow by (・`ω´・) defeating opponents. No teams. No awwegiance. A fwee-fow-aww whewe da weadew had bettew watch theiw back."
-    }
-  },
-  "1585787840": {
-    "displayProperties": {
-      "description": "Fight fow Vawow by defeating opponents."
-    }
-  },
-  "1639772990": {
-    "displayProperties": {
-      "name": "Iwon Bannew: Fowtwess"
-    }
-  },
-  "1673724806": {
-    "displayProperties": {
-      "description": "Compete ૮ ˶ᵔ ᵕ ᵔ˶ ა in a fiweteam-wequiwed event vewsion of Ewimination. Eawn as many wins on a ticket as uu can. Thwee wosses and uu'we out."
-    }
-  },
-  "1686739444": {
-    "displayProperties": {
-      "description": "Took out Ghauw, woke up da Twavewew, and now hawf of what I heaw in da stweets is how much uu and uuw cwan awe making a diffewence... And that's why I stawted this whowe cwan thing in da fiwst pwace–peopwe awe stiww waiting fow da Vanguawd to wead da way, but it's time fow a change! OwO And Guawdians wike uu awe making it happen... No pwessuwe."
-    }
-  },
-  "1826469369": {
-    "displayProperties": {
-      "description": "_Uuw *wuns away* wegend, fowged in iwon. I can think of no bettew pwize fow a Wightbeawew._"
-    }
-  },
-  "1848252830": {
-    "displayProperties": {
-      "description": "Hunt hostiwes in active wawzones. Weckon with gweatew powews. Be notowious."
+      "description": "Ventuwe into da dawkest depths of enemy-contwowwed zones. Keep uuw wight cwose."
     }
   },
   "20434039890": {
@@ -57,9 +10,44 @@
       "description": "Fowm a fiweteam of six god-kiwwews and bwave da stwange and powewfuw weawms of ouw enemies."
     }
   },
-  "2239249083": {
+  "9924991580": {
     "displayProperties": {
-      "description": "Fight fow Gwowy by depweting uuw opponents' shawed wife poow, then ewiminating them."
+      "description": "Fowm a fiweteam of six and stave off da onswaught of ouw enemies."
+    }
+  },
+  "103143560": {
+    "displayProperties": {
+      "name": "Wost *sweats* Sectows",
+      "description": "Advanced scouts haz mawked sectows of stwategic intewest ahead of uu.\n\nInspect them fow thweats and wawe geaw."
+    }
+  },
+  "4110605575": {
+    "displayProperties": {
+      "name": "*boops uuw nose* Vanguawd Stwikes",
+      "description": "Doing da Vanguawd's diwty wowk and keeping da fwontiew undew contwow."
+    }
+  },
+  "547513715": {
+    "displayProperties": {
+      "name": "Nightfaww: Da Owdeaw",
+      "description": "Da Vanguawd authowizes Nightfaww stwikes to take down da gweatest thweats faced by da City.\n\nWeview Guawdian pewfowmance and pwepawe fow da next thweat."
+    }
+  },
+  "748895195": {
+    "displayProperties": {
+      "name": "Aww Activities",
+      "description": "Post game cawnage wepowts fow aww activity modes: da cuwmination of aww of uuw effowts."
+    }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "Took out Ghauw, woke up da Twavewew, and now hawf of what I heaw in da stweets is how much uu and uuw cwan awe making a diffewence... And that's why I stawted this whowe cwan thing in da fiwst pwace–peopwe awe stiww waiting fow da Vanguawd to wead da way, but it's time fow a change! OwO And Guawdians wike uu awe making it happen... No pwessuwe."
+    }
+  },
+  "11647605040": {
+    "displayProperties": {
+      "name": "Aww Cwucibwe",
+      "description": "Did uu thwow enough gwenades? UwU"
     }
   },
   "2486723318": {
@@ -67,14 +55,24 @@
       "description": "Matches in this pwaywist affect uuw Competitive Division pwacement. Wins wiww wead to Pwomotions, incweasing uuw Division pwacement. Wosses wiww wead to Wewegations, wowewing uuw Division pwacement."
     }
   },
-  "2546784302": {
+  "1639772990": {
     "displayProperties": {
-      "description": "Achieve victowy by defeating opponents and pweventing wevives. Wevive a defeated teammate to steaw back da point uuw opponents scowed. Win da most wounds ow face off in an ewimination showdown."
+      "name": "Iwon Bannew: Fowtwess"
     }
   },
   "2732566144": {
     "displayProperties": {
       "description": "Achieve victowy by cowwecting da Spawk and igniting da opponent's Wift."
+    }
+  },
+  "1848252830": {
+    "displayProperties": {
+      "description": "Hunt hostiwes in active wawzones. Weckon with gweatew powews. Be notowious."
+    }
+  },
+  "1585787840": {
+    "displayProperties": {
+      "description": "Fight fow Vawow by defeating opponents."
     }
   },
   "3199098480": {
@@ -98,32 +96,34 @@
       "description": "Fight fow Vawow by ewiminating aww opponents in this wound-based mode. Don't fowget to wevive uuw fewwow Guawdians."
     }
   },
-  "4110605575": {
+  "1826469369": {
     "displayProperties": {
-      "name": "*boops uuw nose* Vanguawd Stwikes",
-      "description": "Doing da Vanguawd's diwty wowk and keeping da fwontiew undew contwow."
+      "description": "_Uuw *wuns away* wegend, fowged in iwon. I can think of no bettew pwize fow a Wightbeawew._"
     }
   },
-  "547513715": {
+  "1264443021": {
     "displayProperties": {
-      "name": "Nightfaww: Da Owdeaw",
-      "description": "Da Vanguawd authowizes Nightfaww stwikes to take down da gweatest thweats faced by da City.\n\nWeview Guawdian pewfowmance and pwepawe fow da next thweat."
+      "description": "Fastew Supews, abiwities, and Heavy ammo spawns—withstand and engage in a whiwwwind of chaos."
     }
   },
-  "608898761": {
+  "157639802": {
     "displayProperties": {
-      "description": "Ventuwe into da dawkest depths of enemy-contwowwed zones. Keep uuw wight cwose."
+      "description": "Fight fow Vawow by (・`ω´・) defeating opponents. No teams. No awwegiance. A fwee-fow-aww whewe da weadew had bettew watch theiw back."
     }
   },
-  "748895195": {
+  "2239249083": {
     "displayProperties": {
-      "name": "Aww Activities",
-      "description": "Post game cawnage wepowts fow aww activity modes: da cuwmination of aww of uuw effowts."
+      "description": "Fight fow Gwowy by depweting uuw opponents' shawed wife poow, then ewiminating them."
     }
   },
-  "9924991580": {
+  "1673724806": {
     "displayProperties": {
-      "description": "Fowm a fiweteam of six and stave off da onswaught of ouw enemies."
+      "description": "Compete ૮ ˶ᵔ ᵕ ᵔ˶ ა in a fiweteam-wequiwed event vewsion of Ewimination. Eawn as many wins on a ticket as uu can. Thwee wosses and uu'we out."
+    }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Achieve victowy by defeating opponents and pweventing wevives. Wevive a defeated teammate to steaw back da point uuw opponents scowed. Win da most wounds ow face off in an ewimination showdown."
     }
   }
 }
