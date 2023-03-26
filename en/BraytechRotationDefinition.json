@@ -1,0 +1,343 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "Savathûn's Curse",
+      "description": ""
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "Stage I",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "Stage II",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "Stage III",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Ascendant Challenge",
+      "description": ""
+    },
+    "startDate": "2018-09-04T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "Ouroborea",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "Forfeit Shrine",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "Shattered Ruins",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "Keep of Honed Edges",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "Agonarch Abyss",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "Cimmerian Garrison",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Altars of Sorrow",
+      "description": ""
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000256,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [935628460],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000254,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [651531704],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000255,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [3844835635],
+        "records": []
+      }
+    ]
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Wandering Nightmares",
+      "description": ""
+    },
+    "startDate": "2019-10-01T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 16,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 17,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 18,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 19,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Eclipse Zone",
+      "description": ""
+    },
+    "startDate": "2021-06-22T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 1747045785,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2868856804,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 396959363,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "6": {
+    "displayProperties": {
+      "name": "The Wellspring",
+      "description": ""
+    },
+    "startDate": "2022-02-22T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 201280774,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1554180090],
+        "records": []
+      },
+      {
+        "nodeHash": 2948928434,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [77011569],
+        "records": []
+      },
+      {
+        "nodeHash": 54269080,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1458222686],
+        "records": []
+      },
+      {
+        "nodeHash": 3333680772,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [2040522335],
+        "records": []
+      }
+    ]
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Lucent Executioners",
+      "description": ""
+    },
+    "startDate": "2022-06-08T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000252,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000251,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000253,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Vex Incursion Zone",
+      "description": ""
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 4158493479,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 473462131,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 3773756244,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  }
+}
