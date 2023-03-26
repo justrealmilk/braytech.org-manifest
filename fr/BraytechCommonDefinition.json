@@ -227,30 +227,6 @@
       "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
     }
   },
-  "sub-triumphs-active": {
-    "displayProperties": {
-      "name": "Triomphes et Sceaux actifs",
-      "description": "Voir tous les triomphes et sceaux actifs"
-    }
-  },
-  "sub-triumphs-legacy": {
-    "displayProperties": {
-      "name": "Triomphes et Sceaux du passé",
-      "description": "Voir une collection de triomphes et de sceaux passés"
-    }
-  },
-  "sub-triumphs-transient": {
-    "displayProperties": {
-      "name": "Triomphes éphémères",
-      "description": "Tous les triomphes ne sont pas éternels - complétez ces enregistrements à la hâte ou ils seront perdus à jamais dans le temps."
-    }
-  },
-  "sub-weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Défis Saisonniers",
-      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
-    }
-  },
   "sub-collections-medals": {
     "displayProperties": {
       "name": "Médailles",
@@ -273,6 +249,30 @@
     "displayProperties": {
       "name": "Traqueurs de statistiques",
       "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles"
+    }
+  },
+  "sub-triumphs-active": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux actifs",
+      "description": "Voir tous les triomphes et sceaux actifs"
+    }
+  },
+  "sub-triumphs-legacy": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux du passé",
+      "description": "Voir une collection de triomphes et de sceaux passés"
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Triomphes éphémères",
+      "description": "Tous les triomphes ne sont pas éternels - complétez ces enregistrements à la hâte ou ils seront perdus à jamais dans le temps."
+    }
+  },
+  "sub-weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Défis Saisonniers",
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
     }
   },
   "sub-triumphs-event-card": {

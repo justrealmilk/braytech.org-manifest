@@ -1,14 +1,235 @@
 {
+  "platform-xbox": {
+    "displayProperties": {
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "platform-playstation": {
+    "displayProperties": {
+      "name": "Pwaystation",
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "platform-steam": {
+    "displayProperties": {
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "platform-battlenet": {
+    "displayProperties": {
+      "name": "Battwe.net",
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "platform-stadia": {
+    "displayProperties": {
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "platform-epic": {
+    "displayProperties": {
+      "description": "Da pwatfowm to which this pwofiwe bewongs."
+    },
+    "itemTypeDisplayName": "Pwatfowm"
+  },
+  "flair-developer": {
+    "displayProperties": {
+      "description": "_Cweatow of Bwaytech._"
+    },
+    "itemTypeDisplayName": "Bwaytech Devewopew"
+  },
+  "flair-patron-submind": {
+    "displayProperties": {
+      "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew."
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
+  "flair-patron-researcher": {
+    "displayProperties": {
+      "name": "Weseawchew",
+      "description": "_One of few suwviving weseawchews who've escaped da tweachewy of Cwovis Bway._\nAn invawuabwe Patweon subscwibew."
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
+  "flair-patron": {
+    "displayProperties": {
+      "name": "Patwon",
+      "description": "An invawuabwe Patweon subscwibew."
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
+  "flair-cryptarch": {
+    "displayProperties": {
+      "name": "Cwyptawch",
+      "description": "_A genewous twanswatow of Bwaytech._"
+    },
+    "itemTypeDisplayName": "Bwaytech Twanswatow"
+  },
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "Pwimawy",
+      "description": "This weapon haz infinite wesewves."
+    }
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "Speciaw",
+      "description": "This weapon uses speciaw ammo."
+    }
+  },
+  "stat-damage-falloff": {
+    "displayProperties": {
+      "name": "Damage Fawwoff",
+      "description": "Appwoximate distances whewe damage fawwoff begins fow hipfiwe and ADS (aim down sights)."
+    }
+  },
+  "stat-reload-time": {
+    "displayProperties": {
+      "name": "Wewoad Time",
+      "description": "Da time it takes fow this weapon to compwete a fuww wewoad *boops uuw nose* and fiwe. This vawue is based onwy on da wewoad speed stat and is unaffected by pewks."
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "Geaw Powew",
       "description": "*bwushes* Da avewage Powew wevew of uuw cuwwentwy equipped awmaments.\nFow an accuwate vawue, uuw inventowy is assessed. If uuw inventowy is not pubwic, uu'ww need to authenticate with Bungie.net."
     }
   },
+  "commonality": {
+    "displayProperties": {
+      "name": "Commonawity",
+      "description": "Pewcentage of pwayews who awe indexed by Vowuspa who've acquiwed ow wedeemed this entwy."
+    }
+  },
+  "expiration": {
+    "displayProperties": {
+      "name": "Expiwation",
+      "description": "This wecowd haz expiwation infowmation attached."
+    }
+  },
+  "score": {
+    "displayProperties": {
+      "name": "Scowe Vawue",
+      "description": "This wecowd's scowe vawue."
+    }
+  },
+  "interval-score": {
+    "displayProperties": {
+      "name": "Scowe Vawue",
+      "description": "This wecowd's wemaining scowe vawue (sum of wemaining intewvaws)."
+    }
+  },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Scowe Vawue",
+      "description": "This node's cawcuwated scowe vawue."
+    }
+  },
+  "record-intervals": {
+    "displayProperties": {
+      "name": "Wecowd intewvaws",
+      "description": "Some wecowds haz intewvaws. Diffewent intewvaws haz vawied wequiwements and scowe vawues."
+    }
+  },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "Twack Wecowd",
+      "description": "Add this wecowd to \"Twacked Wecowds\"\nIf enabwed, this *boops uuw nose* action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "Untwack Wecowd",
+      "description": "Wemove this wecowd fwom \"Twacked Wecowds\"\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
+    }
+  },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "Add Bookmawk",
+      "description": "Bookmawk this wecowd fow watew viewing.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "Wemove Bookmawk",
+      "description": "Wemove this bookmawk.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
+    }
+  },
+  "legacy-triumph-score": {
+    "displayProperties": {
+      "name": "Wegacy Twiumph Scowe",
+      "description": "Totaw scowe of aww compweted wegacy Twiumphs."
+    }
+  },
+  "lifetime-triumph-score": {
+    "displayProperties": {
+      "name": "Wifetime Twiumph Scowe",
+      "description": "A combination of aww compweted active and wegacy Twiumph scowes."
+    }
+  },
   "active-triumph-score": {
     "displayProperties": {
       "name": "Active Twiumph Scowe",
       "description": "Da cuwwent vawue of aww active Twiumphs that haz been eawned and da totaw vawue of aww active twiumphs.\n\nThese scowe vawues change when Twiumphs become wegacy Twiumphs."
+    }
+  },
+  "total-resets": {
+    "displayProperties": {
+      "name": "Totaw wesets",
+      "description": "Aww seasons' wesets. Twacks fwom Season 4 onwawd."
+    }
+  },
+  "artifact-power-bonus": {
+    "displayProperties": {
+      "name": "Awtifact Powew Bonus",
+      "description": "Eawning XP gwants Powew bonuses and unwocks powewfuw mods on uuw seasonaw awtifact."
+    }
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Watent Memowies",
+      "description": "Mystewious test nodes awe scattewed acwoss Maws. (・`ω´・) What is theiw puwpose? UwU"
+    }
+  },
+  "enable-dim-sync": {
+    "displayProperties": {
+      "name": "DIM Sync Wequiwed",
+      "description": "This featuwe wequiwes _DIM Sync_.\n\nEnabwe da sewvice in _Settings_."
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Unknown Ewwow",
+      "description": "An ewwow occuwwed whiwe wendewing this toowtip.\n\nThis is pwobabwy a tempowawy ewwow. Apowogies."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Stawe Pwofiwe",
+      "description": "An attempt to update uuw pwofiwe data with Bungie.net faiwed. Bwaytech was unabwe to weach Bungie.net.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "Stawe Pwofiwe",
+      "description": "Backgwound wefwesh is paused due to inactivity. Intewact with Bwaytech to weactivate da sewvice."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "Stawe Pwofiwe",
+      "description": "Bungie.net wetuwned owd infowmation.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
+    }
+  },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "Stawe Pwofiwe",
+      "description": "Bungie.net is tempowawiwy unavaiwabwe due to maintenance.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
     }
   },
   "activity-contest-mode": {
@@ -29,46 +250,10 @@
       "description": "_This weapon is so hot wight now._\n\nSum of finaw bwows by combatants using this weapon.\n\nOutwiews awe detewmined with da fowmuwa: \n`Sum of weapon finaw bwows >= Q3 + IQW`"
     }
   },
-  "add-record-bookmark": {
-    "displayProperties": {
-      "name": "Add Bookmawk",
-      "description": "Bookmawk this wecowd fow watew viewing.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
-    }
-  },
-  "add-record-track": {
-    "displayProperties": {
-      "name": "Twack Wecowd",
-      "description": "Add this wecowd to \"Twacked Wecowds\"\nIf enabwed, this *boops uuw nose* action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
-    }
-  },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Pwimawy",
-      "description": "This weapon haz infinite wesewves."
-    }
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Speciaw",
-      "description": "This weapon uses speciaw ammo."
-    }
-  },
-  "artifact-power-bonus": {
-    "displayProperties": {
-      "name": "Awtifact Powew Bonus",
-      "description": "Eawning XP gwants Powew bonuses and unwocks powewfuw mods on uuw seasonaw awtifact."
-    }
-  },
   "character-loadouts-delete": {
     "displayProperties": {
       "name": "Dewete Woadout",
       "description": "Dewete this woadout. This action is pewmanent."
-    }
-  },
-  "commonality": {
-    "displayProperties": {
-      "name": "Commonawity",
-      "description": "Pewcentage of pwayews who awe indexed by Vowuspa who've acquiwed ow wedeemed this entwy."
     }
   },
   "configure-push-notifications": {
@@ -76,271 +261,21 @@
       "description": "Push notifications can weach uu when uu'we not using Bwaytech and (・`ω´・) ensuwe uu don't miss whatevew it is that uu'we chazing."
     }
   },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "DIM Sync Wequiwed",
-      "description": "This featuwe wequiwes _DIM Sync_.\n\nEnabwe da sewvice in _Settings_."
-    }
-  },
-  "expiration": {
-    "displayProperties": {
-      "name": "Expiwation",
-      "description": "This wecowd haz expiwation infowmation attached."
-    }
-  },
-  "flair-cryptarch": {
-    "displayProperties": {
-      "name": "Cwyptawch",
-      "description": "_A genewous twanswatow of Bwaytech._"
-    },
-    "itemTypeDisplayName": "Bwaytech Twanswatow"
-  },
-  "flair-developer": {
-    "displayProperties": {
-      "description": "_Cweatow of Bwaytech._"
-    },
-    "itemTypeDisplayName": "Bwaytech Devewopew"
-  },
-  "flair-patron": {
-    "displayProperties": {
-      "name": "Patwon",
-      "description": "An invawuabwe Patweon subscwibew."
-    },
-    "itemTypeDisplayName": "Bwaytech Suppowtew"
-  },
-  "flair-patron-researcher": {
-    "displayProperties": {
-      "name": "Weseawchew",
-      "description": "_One of few suwviving weseawchews who've escaped da tweachewy of Cwovis Bway._\nAn invawuabwe Patweon subscwibew."
-    },
-    "itemTypeDisplayName": "Bwaytech Suppowtew"
-  },
-  "flair-patron-submind": {
-    "displayProperties": {
-      "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew."
-    },
-    "itemTypeDisplayName": "Bwaytech Suppowtew"
-  },
-  "interval-score": {
-    "displayProperties": {
-      "name": "Scowe Vawue",
-      "description": "This wecowd's wemaining scowe vawue (sum of wemaining intewvaws)."
-    }
-  },
-  "latent-memories": {
-    "displayProperties": {
-      "name": "Watent Memowies",
-      "description": "Mystewious test nodes awe scattewed acwoss Maws. (・`ω´・) What is theiw puwpose? UwU"
-    }
-  },
-  "legacy-triumph-score": {
-    "displayProperties": {
-      "name": "Wegacy Twiumph Scowe",
-      "description": "Totaw scowe of aww compweted wegacy Twiumphs."
-    }
-  },
-  "lifetime-triumph-score": {
-    "displayProperties": {
-      "name": "Wifetime Twiumph Scowe",
-      "description": "A combination of aww compweted active and wegacy Twiumph scowes."
-    }
-  },
-  "platform-battlenet": {
-    "displayProperties": {
-      "name": "Battwe.net",
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "platform-epic": {
-    "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "platform-playstation": {
-    "displayProperties": {
-      "name": "Pwaystation",
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "platform-stadia": {
-    "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "platform-steam": {
-    "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "platform-xbox": {
-    "displayProperties": {
-      "description": "Da pwatfowm to which this pwofiwe bewongs."
-    },
-    "itemTypeDisplayName": "Pwatfowm"
-  },
-  "presentation-node-score": {
-    "displayProperties": {
-      "name": "Scowe Vawue",
-      "description": "This node's cawcuwated scowe vawue."
-    }
-  },
-  "profile-stale": {
-    "displayProperties": {
-      "name": "Stawe Pwofiwe",
-      "description": "An attempt to update uuw pwofiwe data with Bungie.net faiwed. Bwaytech was unabwe to weach Bungie.net.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
-    }
-  },
-  "profile-stale-inactive": {
-    "displayProperties": {
-      "name": "Stawe Pwofiwe",
-      "description": "Backgwound wefwesh is paused due to inactivity. Intewact with Bwaytech to weactivate da sewvice."
-    }
-  },
-  "profile-stale-maintenance": {
-    "displayProperties": {
-      "name": "Stawe Pwofiwe",
-      "description": "Bungie.net is tempowawiwy unavaiwabwe due to maintenance.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
-    }
-  },
-  "profile-stale-minted": {
-    "displayProperties": {
-      "name": "Stawe Pwofiwe",
-      "description": "Bungie.net wetuwned owd infowmation.\n\nContinued use of Bwaytech may wesowve this issue, Bungie.net sewvice avaiwabiwity pewmitting."
-    }
-  },
   "progression-step-map": {
     "displayProperties": {
       "description": "_This map chawts da steps on da path to da top._"
     }
   },
-  "record-intervals": {
+  "sub-collections-root": {
     "displayProperties": {
-      "name": "Wecowd intewvaws",
-      "description": "Some wecowds haz intewvaws. Diffewent intewvaws haz vawied wequiwements and scowe vawues."
+      "name": "Cowwections",
+      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime"
     }
   },
-  "remove-record-bookmark": {
+  "sub-collections-medals": {
     "displayProperties": {
-      "name": "Wemove Bookmawk",
-      "description": "Wemove this bookmawk.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
-    }
-  },
-  "remove-record-track": {
-    "displayProperties": {
-      "name": "Untwack Wecowd",
-      "description": "Wemove this wecowd fwom \"Twacked Wecowds\"\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app."
-    }
-  },
-  "score": {
-    "displayProperties": {
-      "name": "Scowe Vawue",
-      "description": "This wecowd's scowe vawue."
-    }
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "Damage Fawwoff",
-      "description": "Appwoximate distances whewe damage fawwoff begins fow hipfiwe and ADS (aim down sights)."
-    }
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "Wewoad Time",
-      "description": "Da time it takes fow this weapon to compwete a fuww wewoad *boops uuw nose* and fiwe. This vawue is based onwy on da wewoad speed stat and is unaffected by pewks."
-    }
-  },
-  "sub-activity-bookmarks": {
-    "displayProperties": {
-      "name": "Bookmawks",
-      "description": "A wecowd of uuw victowies, satisfaction, and dismay.\n\nHewe wies aww *wuns away* activities which uu've added to uuw bookmawks. Stand taww, Guawdian, and bask in uuw gwowy."
-    }
-  },
-  "sub-activity-carnage": {
-    "displayProperties": {
-      "name": "Cawnage",
-      "description": "Aww of da sewected Guawdian's wecent activities."
-    }
-  },
-  "sub-activity-graphs": {
-    "displayProperties": {
-      "name": "Gwaphs",
-      "description": "Activities pwotted against gwaphs, fow da statisticawwy incwined."
-    }
-  },
-  "sub-activity-series": {
-    "displayProperties": {
-      "name": "Sewies",
-      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies."
-    }
-  },
-  "sub-character-consumables": {
-    "displayProperties": {
-      "name": "Consumabwes",
-      "description": "Suppwies and matewiaws that can be used to enhance uuw Guawdian and theiw geaw"
-    }
-  },
-  "sub-character-equipment": {
-    "displayProperties": {
-      "description": "Evawuate uuw Guawdian's battwe weadiness"
-    }
-  },
-  "sub-character-loadouts": {
-    "displayProperties": {
-      "name": "Woadouts",
-      "description": "Pweconfiguwe uuw equipment, stwap it up, and name it"
-    }
-  },
-  "sub-character-postmaster": {
-    "displayProperties": {
-      "name": "Postmastew",
-      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items"
-    }
-  },
-  "sub-character-vault": {
-    "displayProperties": {
-      "name": "Vauwt",
-      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews"
-    }
-  },
-  "sub-character-vendors": {
-    "displayProperties": {
-      "name": "Vendows",
-      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews"
-    }
-  },
-  "sub-clan-about": {
-    "displayProperties": {
-      "name": "Cwan",
-      "description": "About uuw cwan and what it stands fow"
-    }
-  },
-  "sub-clan-administration": {
-    "displayProperties": {
-      "name": "Administwation",
-      "description": "Take action on cwan mattews and membews"
-    }
-  },
-  "sub-clan-relationships": {
-    "displayProperties": {
-      "name": "Wewationships",
-      "description": "See which cwan membews uu dedicate uuw time to most"
-    }
-  },
-  "sub-clan-roster": {
-    "displayProperties": {
-      "name": "Wostew",
-      "description": "Find fwiends to pway with"
-    }
-  },
-  "sub-clan-stats": {
-    "displayProperties": {
-      "name": "Histowicaw Stats",
-      "description": "Compawe _Histowicaw Stats_ fow sevewaw activity modes acwoss aww cwan membews"
+      "name": "Medaws",
+      "description": "Medaws awe eawned thwough feats of gamepway expewtise. See da wist of medaws and how many of each uu've eawned"
     }
   },
   "sub-collections-exotic-catalysts": {
@@ -355,48 +290,10 @@
       "description": "Wowe tewws bwoadew stowies fwom da Destiny univewse. Unwock and wead wowe pages by compweting Twiumphs"
     }
   },
-  "sub-collections-medals": {
-    "displayProperties": {
-      "name": "Medaws",
-      "description": "Medaws awe eawned thwough feats of gamepway expewtise. See da wist of medaws and how many of each uu've eawned"
-    }
-  },
   "sub-collections-metrics": {
     "displayProperties": {
       "name": "Stat Twackews",
       "description": "Stat twackews can be appwied to uuw embwem fwom its inspect view. Appwied twackews wiww appeaw on uuw namepwate whenevew visibwe"
-    }
-  },
-  "sub-collections-root": {
-    "displayProperties": {
-      "name": "Cowwections",
-      "description": "Items uuw Guawdian haz acquiwed ovew theiw wifetime"
-    }
-  },
-  "sub-inspect-equipment": {
-    "displayProperties": {
-      "description": "Aww item attwibutes; stats, pewks, and mods"
-    }
-  },
-  "sub-inspect-lore": {
-    "displayProperties": {
-      "name": "Wowe",
-      "description": "Wead this item's stowy"
-    }
-  },
-  "sub-settings-advanced": {
-    "displayProperties": {
-      "description": "Pewfowmance, debugging, and stowage management. No one haz fun hewe."
-    }
-  },
-  "sub-settings-common": {
-    "displayProperties": {
-      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech."
-    }
-  },
-  "sub-settings-push-notifications": {
-    "displayProperties": {
-      "description": "Contwow how Bwaytech weaches uu when uu'we not using it."
     }
   },
   "sub-triumphs-active": {
@@ -405,16 +302,16 @@
       "description": "View aww active Twiumphs and Seaws"
     }
   },
-  "sub-triumphs-event-card": {
-    "displayProperties": {
-      "name": "Active Event Cawd",
-      "description": "Compwete wimited-time Event Cawd chawwenges to eawn vawious wewawds and make pwogwess towawd event Seaw compwetion."
-    }
-  },
   "sub-triumphs-legacy": {
     "displayProperties": {
       "name": "Wegacy Twiumphs and Seaws",
       "description": "View a cowwection of wegacy Twiumphs and Seaws"
+    }
+  },
+  "sub-triumphs-transient": {
+    "displayProperties": {
+      "name": "Twansient Twiumphs",
+      "description": "Not aww Twiumphs awe fowevew–compwete these wecowds with hazte ow be wost fowevew in time."
     }
   },
   "sub-weeklies-seasonal-challenges": {
@@ -423,10 +320,99 @@
       "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds"
     }
   },
-  "sub-triumphs-transient": {
+  "sub-triumphs-event-card": {
     "displayProperties": {
-      "name": "Twansient Twiumphs",
-      "description": "Not aww Twiumphs awe fowevew–compwete these wecowds with hazte ow be wost fowevew in time."
+      "name": "Active Event Cawd",
+      "description": "Compwete wimited-time Event Cawd chawwenges to eawn vawious wewawds and make pwogwess towawd event Seaw compwetion."
+    }
+  },
+  "sub-clan-about": {
+    "displayProperties": {
+      "name": "Cwan",
+      "description": "About uuw cwan and what it stands fow"
+    }
+  },
+  "sub-clan-roster": {
+    "displayProperties": {
+      "name": "Wostew",
+      "description": "Find fwiends to pway with"
+    }
+  },
+  "sub-clan-administration": {
+    "displayProperties": {
+      "name": "Administwation",
+      "description": "Take action on cwan mattews and membews"
+    }
+  },
+  "sub-clan-stats": {
+    "displayProperties": {
+      "name": "Histowicaw Stats",
+      "description": "Compawe _Histowicaw Stats_ fow sevewaw activity modes acwoss aww cwan membews"
+    }
+  },
+  "sub-clan-relationships": {
+    "displayProperties": {
+      "name": "Wewationships",
+      "description": "See which cwan membews uu dedicate uuw time to most"
+    }
+  },
+  "sub-character-equipment": {
+    "displayProperties": {
+      "description": "Evawuate uuw Guawdian's battwe weadiness"
+    }
+  },
+  "sub-character-postmaster": {
+    "displayProperties": {
+      "name": "Postmastew",
+      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items"
+    }
+  },
+  "sub-character-consumables": {
+    "displayProperties": {
+      "name": "Consumabwes",
+      "description": "Suppwies and matewiaws that can be used to enhance uuw Guawdian and theiw geaw"
+    }
+  },
+  "sub-character-vault": {
+    "displayProperties": {
+      "name": "Vauwt",
+      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews"
+    }
+  },
+  "sub-character-vendors": {
+    "displayProperties": {
+      "name": "Vendows",
+      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews"
+    }
+  },
+  "sub-character-loadouts": {
+    "displayProperties": {
+      "name": "Woadouts",
+      "description": "Pweconfiguwe uuw equipment, stwap it up, and name it"
+    }
+  },
+  "sub-activity-carnage": {
+    "displayProperties": {
+      "name": "Cawnage",
+      "description": "Aww of da sewected Guawdian's wecent activities."
+    }
+  },
+  "sub-activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmawks",
+      "description": "A wecowd of uuw victowies, satisfaction, and dismay.\n\nHewe wies aww *wuns away* activities which uu've added to uuw bookmawks. Stand taww, Guawdian, and bask in uuw gwowy."
+    }
+  },
+  "sub-activity-graphs": {
+    "displayProperties": {
+      "name": "Gwaphs",
+      "description": "Activities pwotted against gwaphs, fow da statisticawwy incwined."
+    }
+  },
+  "sub-activity-series": {
+    "displayProperties": {
+      "name": "Sewies",
+      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies."
     }
   },
   "sub-weeklies-challenges": {
@@ -441,16 +427,30 @@
       "description": "Scwy da owbits of vawious activities"
     }
   },
-  "tooltip-error": {
+  "sub-inspect-equipment": {
     "displayProperties": {
-      "name": "Unknown Ewwow",
-      "description": "An ewwow occuwwed whiwe wendewing this toowtip.\n\nThis is pwobabwy a tempowawy ewwow. Apowogies."
+      "description": "Aww item attwibutes; stats, pewks, and mods"
     }
   },
-  "total-resets": {
+  "sub-inspect-lore": {
     "displayProperties": {
-      "name": "Totaw wesets",
-      "description": "Aww seasons' wesets. Twacks fwom Season 4 onwawd."
+      "name": "Wowe",
+      "description": "Wead this item's stowy"
+    }
+  },
+  "sub-settings-common": {
+    "displayProperties": {
+      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech."
+    }
+  },
+  "sub-settings-advanced": {
+    "displayProperties": {
+      "description": "Pewfowmance, debugging, and stowage management. No one haz fun hewe."
+    }
+  },
+  "sub-settings-push-notifications": {
+    "displayProperties": {
+      "description": "Contwow how Bwaytech weaches uu when uu'we not using it."
     }
   }
 }

@@ -1,9 +1,24 @@
 {
+  "opponentsDefeated": {
+    "statName": "Frags + Assistances"
+  },
   "killsDeathsRatio": {
     "statName": "F/M"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Moyenne F/M"
+  },
   "winRate": {
     "statName": "Ratio de victoires"
+  },
+  "precisionKills": {
+    "statName": "Précision"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Précision"
+  },
+  "currentEloRating": {
+    "statName": "Elo"
   },
   "supremacyCrestsSecured": {
     "statName": "Particules sécurisées"
@@ -58,21 +73,6 @@
   },
   "largeBlockersSent": {
     "statName": "Grands bloqueurs envoyés"
-  },
-  "precisionKills": {
-    "statName": "Précision"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Précision"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "Frags + Assistances"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Moyenne F/M"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "En équipe, battez tous les Gardiens adverses au moins une fois pendant la Chasse."

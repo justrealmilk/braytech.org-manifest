@@ -17,66 +17,6 @@
       "description": "你的守護者在挑戰中曽完成的成就記錄"
     }
   },
-  "maps": {
-    "displayProperties": {
-      "name": "地圖",
-      "description": "交互式地圖清單和其他重要目標"
-    }
-  },
-  "weeklies": {
-    "displayProperties": {
-      "name": "周报",
-      "description": "守護者的每周成就與挑戰指南"
-    }
-  },
-  "character": {
-    "displayProperties": {
-      "name": "角色",
-      "description": "查看守護者的裝備和庫存."
-    }
-  },
-  "quests": {
-    "displayProperties": {
-      "name": "任務",
-      "description": "追蹤你的任務，包括任務及賞金單"
-    }
-  },
-  "activity": {
-    "displayProperties": {
-      "name": "活动",
-      "description": "瀏覽和篩選你的詳細游戲擊殺報告"
-    }
-  },
-  "settings": {
-    "displayProperties": {
-      "name": "設定",
-      "description": "賬戶，主題，本地數據，項目可見性，語言，開發人員，故障排除"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "對比",
-      "description": "尋找你最快的日暮任務：磨難和夢魘狩獵"
-    }
-  },
-  "archives": {
-    "displayProperties": {
-      "name": "歸檔",
-      "description": "交互式工具，手冊，傳奇報告，和其他保留内容"
-    }
-  },
-  "faq": {
-    "displayProperties": {
-      "name": "常見問題",
-      "description": "Tom 最喜歡的壹些常見問題"
-    }
-  },
-  "credits": {
-    "displayProperties": {
-      "name": "致謝",
-      "description": "關於這些成爲可能的守護者們"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -93,6 +33,18 @@
     "displayProperties": {
       "name": "Checklists",
       "description": "所有目的地的機靈掃描和物品清單"
+    }
+  },
+  "maps": {
+    "displayProperties": {
+      "name": "地圖",
+      "description": "交互式地圖清單和其他重要目標"
+    }
+  },
+  "weeklies": {
+    "displayProperties": {
+      "name": "周报",
+      "description": "守護者的每周成就與挑戰指南"
     }
   },
   "weeklies-challenges": {
@@ -113,6 +65,12 @@
       "description": "Scry the orbits of various activities"
     }
   },
+  "character": {
+    "displayProperties": {
+      "name": "角色",
+      "description": "查看守護者的裝備和庫存."
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -131,10 +89,22 @@
       "description": "Spy on your favourite task delegators and trading partners"
     }
   },
+  "quests": {
+    "displayProperties": {
+      "name": "任務",
+      "description": "追蹤你的任務，包括任務及賞金單"
+    }
+  },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
       "description": "All of the selected Guardian's bounties"
+    }
+  },
+  "activity": {
+    "displayProperties": {
+      "name": "活动",
+      "description": "瀏覽和篩選你的詳細游戲擊殺報告"
     }
   },
   "activity-bookmarks": {
@@ -149,16 +119,46 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
+  "settings": {
+    "displayProperties": {
+      "name": "設定",
+      "description": "賬戶，主題，本地數據，項目可見性，語言，開發人員，故障排除"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "傳奇",
       "description": "生与死都是騙子的工具，編織自己的謊言。"
     }
   },
+  "compare": {
+    "displayProperties": {
+      "name": "對比",
+      "description": "尋找你最快的日暮任務：磨難和夢魘狩獵"
+    }
+  },
+  "archives": {
+    "displayProperties": {
+      "name": "歸檔",
+      "description": "交互式工具，手冊，傳奇報告，和其他保留内容"
+    }
+  },
+  "faq": {
+    "displayProperties": {
+      "name": "常見問題",
+      "description": "Tom 最喜歡的壹些常見問題"
+    }
+  },
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
       "description": "Respecting personal boundaries"
+    }
+  },
+  "credits": {
+    "displayProperties": {
+      "name": "致謝",
+      "description": "關於這些成爲可能的守護者們"
     }
   }
 }

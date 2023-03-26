@@ -21,7 +21,6 @@ import java.util.stream.StreamSupport;
 public class CleanFiles {
   private ObjectMapper om;
   private String repoPath;
-  private String outPath;
   private List<String> filenames;
   private Map<String, JsonNode> jsonFiles;
 
@@ -31,6 +30,8 @@ public class CleanFiles {
         .enable(SerializationFeature.INDENT_OUTPUT);
 
     languages.forEach(lang -> {
+      String outPath = repoPath + "/" + (lang.equals("en") ? "template" : lang);
+  
       jsonFiles = loadJsonFiles(lang);
       jsonFiles.replaceAll(this::buildNodesForTranslation);
       jsonFiles.forEach((filename, node) -> {
@@ -61,8 +62,6 @@ public class CleanFiles {
   }
 
   private Map<String, JsonNode> loadJsonFiles(String lang) {
-    outPath = repoPath + "/" + (lang.equals("en") ? "template" : lang);
-
     filenames = Arrays.asList((new File(repoPath, lang))
         .list((dir, name) -> name.endsWith(".json") && !name.endsWith("Colloquial.json")
             && !name.endsWith("dynamic.json")));

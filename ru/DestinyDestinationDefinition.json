@@ -15,34 +15,6 @@
       }
     ]
   },
-  "677774031": {
-    "bubbles": [
-      {
-        "hash": 2904442601,
-        "displayProperties": {
-          "name": "Некрополь"
-        }
-      },
-      {
-        "hash": 2904442602,
-        "displayProperties": {
-          "name": "Тоннели отчаяния"
-        }
-      },
-      {
-        "hash": 2904442603,
-        "displayProperties": {
-          "name": "Камера страданий"
-        }
-      },
-      {
-        "hash": 2904442604,
-        "displayProperties": {
-          "name": "Борона"
-        }
-      }
-    ]
-  },
   "3607432451": {
     "bubbles": [
       {
@@ -147,6 +119,34 @@
         "hash": 27792021739,
         "displayProperties": {
           "name": "Двор королевы"
+        }
+      }
+    ]
+  },
+  "677774031": {
+    "bubbles": [
+      {
+        "hash": 2904442601,
+        "displayProperties": {
+          "name": "Некрополь"
+        }
+      },
+      {
+        "hash": 2904442602,
+        "displayProperties": {
+          "name": "Тоннели отчаяния"
+        }
+      },
+      {
+        "hash": 2904442603,
+        "displayProperties": {
+          "name": "Камера страданий"
+        }
+      },
+      {
+        "hash": 2904442604,
+        "displayProperties": {
+          "name": "Борона"
         }
       }
     ]

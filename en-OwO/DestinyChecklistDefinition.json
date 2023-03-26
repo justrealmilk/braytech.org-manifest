@@ -1,4 +1,23 @@
 {
+  "363696145": {
+    "displayProperties": {
+      "name": "Wowe Book: Wuna's Wost"
+    },
+    "entry": {
+      "name": "Ghost Fwagment"
+    },
+    "progressDescription": "Ghost fwagments wecovewed"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "*boops uuw nose* Penguin Souveniws"
+    },
+    "entry": {
+      "prefix": "Souveniw",
+      "name": "*wuns away* Penguin Souveniw"
+    },
+    "progressDescription": "Souveniws cowwected"
+  },
   "1000001000": {
     "displayProperties": {
       "name": "Stasis-Seawed Chests"
@@ -97,15 +116,6 @@
     },
     "progressDescription": "Moths cowwected"
   },
-  "363696145": {
-    "displayProperties": {
-      "name": "Wowe Book: Wuna's Wost"
-    },
-    "entry": {
-      "name": "Ghost Fwagment"
-    },
-    "progressDescription": "Ghost fwagments wecovewed"
-  },
   "4108857026": {
     "displayProperties": {
       "name": "Wowe Book: Inquisition of da Damned"
@@ -114,15 +124,5 @@
       "name": "Necwotic Cyphew"
     },
     "progressDescription": "Necwotic cyphews cowwected"
-  },
-  "817948795": {
-    "displayProperties": {
-      "name": "*boops uuw nose* Penguin Souveniws"
-    },
-    "entry": {
-      "prefix": "Souveniw",
-      "name": "*wuns away* Penguin Souveniw"
-    },
-    "progressDescription": "Souveniws cowwected"
   }
 }
