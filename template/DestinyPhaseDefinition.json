@@ -160,5 +160,25 @@
       "name": "Oryx",
       "description": "Dethrone the king."
     }
+  },
+  "3172054256": {
+    "displayProperties": {
+      "name": "Cataclysm"
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "Scission"
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "Macrocosm"
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "Nezarec"
+    }
   }
 }
