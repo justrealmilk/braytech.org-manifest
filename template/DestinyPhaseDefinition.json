@@ -163,22 +163,26 @@
   },
   "3172054256": {
     "displayProperties": {
-      "name": "Cataclysm"
+      "name": "Cataclysm",
+      "description": "Find Nezarec"
     }
   },
   "2224793617": {
     "displayProperties": {
-      "name": "Scission"
+      "name": "Scission",
+      "description": "Enter the Root"
     }
   },
   "2184227225": {
     "displayProperties": {
-      "name": "Macrocosm"
+      "name": "Macrocosm",
+      "description": "Defeat the Explicator"
     }
   },
   "2779782231": {
     "displayProperties": {
-      "name": "Nezarec"
+      "name": "Nezarec",
+      "description": "Defeat Nezarec"
     }
   }
 }
