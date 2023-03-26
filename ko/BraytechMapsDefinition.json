@@ -109,56 +109,6 @@
       "description": "이 악몽을 처치하고 **배회하는 악몽** 업적을 진행하세요."
     }
   },
-  "24": {
-    "displayProperties": {
-      "description": "구불구불한 만이 내려다 보이는 절벽 위, 쥴이 나타나는 곳 근처에 있음."
-    }
-  },
-  "33": {
-    "displayProperties": {
-      "description": "잊혀진 구역 입구 왼쪽, 어두움, 기갑단 상자 뒤에있음."
-    }
-  },
-  "34": {
-    "displayProperties": {
-      "description": "맨 위 왼쪽 모퉁이에서 바위 위쪽에 있음."
-    }
-  },
-  "35": {
-    "displayProperties": {
-      "description": "빠른 이동 소환 구역 뒤쪽에 있음."
-    }
-  },
-  "37": {
-    "displayProperties": {
-      "description": "부셔진 건물 3층 오른쪽 방 안쪽에 있음."
-    }
-  },
-  "38": {
-    "displayProperties": {
-      "description": "폭포 안쪽에 있음."
-    }
-  },
-  "39": {
-    "displayProperties": {
-      "description": "천장 빈공간 안쪽에 있음."
-    }
-  },
-  "40": {
-    "displayProperties": {
-      "description": "뚫린 돌 외벽 안쪽에 있음."
-    }
-  },
-  "182": {
-    "displayProperties": {
-      "description": "잊혀진 구역 클리어 후 출구로 가서 나가는 길에 스캔 대상 있음"
-    }
-  },
-  "183": {
-    "displayProperties": {
-      "description": "**방화벽 데이터 파편** 필요. 에리스 몬 을 통해 선행 퀘스트를 받아야 함."
-    }
-  },
   "278": {
     "displayProperties": {
       "name": "여왕의 궁정",
@@ -171,54 +121,104 @@
       "description": "몰락자의 부품을 모아 임시로 만든 포탈입니다. **소금 광산** 절벽 꼭대기와 연결되어 있습니다."
     }
   },
-  "597": {
+  "576743835": {
+    "displayProperties": {
+      "description": "잊혀진 구역 입구 왼쪽, 어두움, 기갑단 상자 뒤에있음."
+    }
+  },
+  "589814471": {
+    "displayProperties": {
+      "description": "폭포 안쪽에 있음."
+    }
+  },
+  "823939877": {
+    "displayProperties": {
+      "description": "빠른 이동 소환 구역 뒤쪽에 있음."
+    }
+  },
+  "1000001001": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "598": {
+  "1000001002": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "599": {
+  "1000001003": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "600": {
+  "1000001004": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "601": {
+  "1000001005": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "602": {
+  "1000001006": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "603": {
+  "1000001007": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "604": {
+  "1000001008": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "605": {
+  "1000001009": {
     "displayProperties": {
       "description": " 조율 필요"
     }
   },
-  "606": {
+  "1000001010": {
     "displayProperties": {
       "description": " 조율 필요"
+    }
+  },
+  "1085712440": {
+    "displayProperties": {
+      "description": "부셔진 건물 3층 오른쪽 방 안쪽에 있음."
+    }
+  },
+  "2503906440": {
+    "displayProperties": {
+      "description": "천장 빈공간 안쪽에 있음."
+    }
+  },
+  "2779900411": {
+    "displayProperties": {
+      "description": "잊혀진 구역 클리어 후 출구로 가서 나가는 길에 스캔 대상 있음"
+    }
+  },
+  "3307732497": {
+    "displayProperties": {
+      "description": "맨 위 왼쪽 모퉁이에서 바위 위쪽에 있음."
+    }
+  },
+  "3609559330": {
+    "displayProperties": {
+      "description": "뚫린 돌 외벽 안쪽에 있음."
+    }
+  },
+  "3658842337": {
+    "displayProperties": {
+      "description": "구불구불한 만이 내려다 보이는 절벽 위, 쥴이 나타나는 곳 근처에 있음."
+    }
+  },
+  "3728157446": {
+    "displayProperties": {
+      "description": "**방화벽 데이터 파편** 필요. 에리스 몬 을 통해 선행 퀘스트를 받아야 함."
     }
   }
 }

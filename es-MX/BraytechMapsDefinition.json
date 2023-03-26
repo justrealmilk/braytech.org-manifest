@@ -113,150 +113,10 @@
       "description": "Derrota esta Pesadilla para avanzar en el triunfo **Pesadillas errantes**."
     }
   },
-  "24": {
-    "displayProperties": {
-      "description": "Arriba en el acantilado, sobre la Cala Sinuosa, cerca de donde Xûr aparece a veces."
-    }
-  },
-  "33": {
-    "displayProperties": {
-      "description": "A la izquierda de la entrada del sector perdido, mal iluminado, detrás de unas cajas."
-    }
-  },
-  "34": {
-    "displayProperties": {
-      "description": "En la esquina superior izquierda, en las rocas."
-    }
-  },
-  "35": {
-    "displayProperties": {
-      "description": "Detrás de la zona de aterrizaje de viaje rápido."
-    }
-  },
-  "37": {
-    "displayProperties": {
-      "description": "En la parte trasera de la estructura dañada, en el tercer piso, en una habitación a la derecha."
-    }
-  },
-  "38": {
-    "displayProperties": {
-      "description": "A través de la cascada."
-    }
-  },
-  "39": {
-    "displayProperties": {
-      "description": "Dentro del techo del paso elevado."
-    }
-  },
-  "40": {
-    "displayProperties": {
-      "description": "A través del muro de ladrillo."
-    }
-  },
-  "109": {
-    "displayProperties": {
-      "description": "Congelado en un bloque de hielo. Encuentra a un **Capitán caído** cerca de los elevadores de las **Cercanías del Renac. de Riis** llamado **Ferkis, Tormenta de la Salvación**—él soltará lo que necesitas."
-    }
-  },
-  "182": {
-    "displayProperties": {
-      "description": "Después de completar el sector, dirígete a la salida y encuentra al sujeto al salir."
-    }
-  },
-  "183": {
-    "displayProperties": {
-      "description": "Requiere un **Fragmento de Datos del Cortafuegos**. Obtén el prerrequisito a través de Eris Morn."
-    }
-  },
-  "184": {
-    "displayProperties": {
-      "description": "Entra en el Círculo de Huesos a través de La Antesala, gira a la derecha y sigue el camino alrededor de la Boca del Infierno. Antes de llegar al siguiente cruce, gira atrás y mira debajo de la plataforma para encontrar dos ojos de jade que penetran la Luz que te regaló el Viajero."
-    }
-  },
-  "215": {
-    "displayProperties": {
-      "description": "Entra en la mazmorra y dirígete a la torre más alejada a la derecha. Mantén algo de altitud si es posible. En el lado más lejano de la torre más lejana, debajo de su base, hay un cifrado."
-    }
-  },
-  "216": {
-    "displayProperties": {
-      "description": "Completa el encuentro de la Necrópolis y procede hacia El Foso. Una vez en el muro de los caminos, sube y da la vuelta. A la derecha del pasillo hay un pequeño saliente a lo largo de la pared de piedra lunar. Úsalo para subir al nivel superior del pasillo y continúa hacia el fondo a la derecha."
-    }
-  },
-  "217": {
-    "displayProperties": {
-      "description": "Completa el encuentro **Cámara del sufrimiento**. Antes de bajar atravesando las trampas en las alturas, sube con cuidado hasta lo más alto."
-    }
-  },
-  "218": {
-    "displayProperties": {
-      "description": "Baja a los **Túneles de la desesperanza** y mantente a la derecha. Entra en el primer túnel y síguelo hasta el final. Verás una puerta roja. De pie ante la puerta roja, gira 70° en el sentido de las agujas del reloj. Estarás mirando a una roca. A la derecha de la roca está el premio que buscas."
-    }
-  },
-  "219": {
-    "displayProperties": {
-      "description": "En el túnel más al centro, cerca del foso de gas verde donde se encuentra el orbe solar. Al entrar en el túnel por el lado del foso de gas verde, se ensanchará rápidamente en una pequeña sala. Para, gira 180º y mira hacia arriba."
-    }
-  },
-  "223": {
-    "displayProperties": {
-      "description": "Entra en La Antesala a través de la Boca del Infierno y sigue hasta una sala circular bien iluminada. A lo largo de la pared con ventanas a la derecha está lo que buscas."
-    }
-  },
-  "225": {
-    "displayProperties": {
-      "description": "En el lado oculto del módulo de la foto."
-    }
-  },
-  "227": {
-    "displayProperties": {
-      "description": "En los _Túneles de la desesperanza, en un saliente del acantilado al lado del foso de gas verde."
-    }
-  },
-  "258": {
-    "displayProperties": {
-      "description": "Accesible a través de la ofensiva **El Manantial**."
-    }
-  },
-  "259": {
-    "displayProperties": {
-      "description": "Requiere **Visión Profunda** para revelar."
-    }
-  },
-  "260": {
-    "displayProperties": {
-      "description": "Accesible a través de las actividades **Altar de Reflexión**."
-    }
-  },
   "278": {
     "displayProperties": {
       "name": "Corte de la Reina",
       "description": "Un portal a la **Corte de la Reina**, el mundo trono de Mara Sov."
-    }
-  },
-  "279": {
-    "displayProperties": {
-      "description": "Al llegar a la **Corte de la Reina**, escala la pared a la izquierda del trono."
-    }
-  },
-  "288": {
-    "displayProperties": {
-      "description": "Pasa por el cruce de entrada del sector perdido y continúa a lo largo de la pasarela."
-    }
-  },
-  "292": {
-    "displayProperties": {
-      "description": "Al lado del acantilado, bajo el camino que lleva a un sector perdido."
-    }
-  },
-  "293": {
-    "displayProperties": {
-      "description": "En la pasarela."
-    }
-  },
-  "301": {
-    "displayProperties": {
-      "description": "Colocado en medio de la pared del **Bosque Infinito**."
     }
   },
   "596": {
@@ -265,54 +125,94 @@
       "description": "Un portal a la cima de los acantilados de las **Minas de Sal**, alimentado por partes recompuestas de **Los Caídos**."
     }
   },
-  "597": {
+  "463653643": {
+    "displayProperties": {
+      "description": "Pasa por el cruce de entrada del sector perdido y continúa a lo largo de la pasarela."
+    }
+  },
+  "576743835": {
+    "displayProperties": {
+      "description": "A la izquierda de la entrada del sector perdido, mal iluminado, detrás de unas cajas."
+    }
+  },
+  "589814471": {
+    "displayProperties": {
+      "description": "A través de la cascada."
+    }
+  },
+  "703052847": {
+    "displayProperties": {
+      "description": "Accesible a través de las actividades **Altar de Reflexión**."
+    }
+  },
+  "823939877": {
+    "displayProperties": {
+      "description": "Detrás de la zona de aterrizaje de viaje rápido."
+    }
+  },
+  "1000001001": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "598": {
+  "1000001002": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "599": {
+  "1000001003": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "600": {
+  "1000001004": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "601": {
+  "1000001005": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "602": {
+  "1000001006": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "603": {
+  "1000001007": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "604": {
+  "1000001008": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "605": {
+  "1000001009": {
     "displayProperties": {
       "description": "Requiere armonización "
     }
   },
-  "606": {
+  "1000001010": {
     "displayProperties": {
       "description": "Requiere armonización "
+    }
+  },
+  "1085712440": {
+    "displayProperties": {
+      "description": "En la parte trasera de la estructura dañada, en el tercer piso, en una habitación a la derecha."
+    }
+  },
+  "1387596458": {
+    "displayProperties": {
+      "description": "Al llegar a la **Corte de la Reina**, escala la pared a la izquierda del trono."
+    }
+  },
+  "1903309704": {
+    "displayProperties": {
+      "description": "Requiere **Visión Profunda** para revelar."
     }
   },
   "2000000000": {
@@ -936,6 +836,106 @@
   "2000000259": {
     "displayProperties": {
       "name": "Altares del Dolor"
+    }
+  },
+  "2495538001": {
+    "displayProperties": {
+      "description": "Al lado del acantilado, bajo el camino que lleva a un sector perdido."
+    }
+  },
+  "2503906440": {
+    "displayProperties": {
+      "description": "Dentro del techo del paso elevado."
+    }
+  },
+  "2779900411": {
+    "displayProperties": {
+      "description": "Después de completar el sector, dirígete a la salida y encuentra al sujeto al salir."
+    }
+  },
+  "2809244994": {
+    "displayProperties": {
+      "description": "Colocado en medio de la pared del **Bosque Infinito**."
+    }
+  },
+  "2895058245": {
+    "displayProperties": {
+      "description": "Accesible a través de la ofensiva **El Manantial**."
+    }
+  },
+  "3307732497": {
+    "displayProperties": {
+      "description": "En la esquina superior izquierda, en las rocas."
+    }
+  },
+  "3609559330": {
+    "displayProperties": {
+      "description": "A través del muro de ladrillo."
+    }
+  },
+  "3644688446": {
+    "displayProperties": {
+      "description": "En la pasarela."
+    }
+  },
+  "3658842337": {
+    "displayProperties": {
+      "description": "Arriba en el acantilado, sobre la Cala Sinuosa, cerca de donde Xûr aparece a veces."
+    }
+  },
+  "3728157446": {
+    "displayProperties": {
+      "description": "Requiere un **Fragmento de Datos del Cortafuegos**. Obtén el prerrequisito a través de Eris Morn."
+    }
+  },
+  "3880966469": {
+    "displayProperties": {
+      "description": "Congelado en un bloque de hielo. Encuentra a un **Capitán caído** cerca de los elevadores de las **Cercanías del Renac. de Riis** llamado **Ferkis, Tormenta de la Salvación**—él soltará lo que necesitas."
+    }
+  },
+  "3977481189": {
+    "displayProperties": {
+      "description": "Entra en el Círculo de Huesos a través de La Antesala, gira a la derecha y sigue el camino alrededor de la Boca del Infierno. Antes de llegar al siguiente cruce, gira atrás y mira debajo de la plataforma para encontrar dos ojos de jade que penetran la Luz que te regaló el Viajero."
+    }
+  },
+  "4111390768": {
+    "displayProperties": {
+      "description": "Entra en la mazmorra y dirígete a la torre más alejada a la derecha. Mantén algo de altitud si es posible. En el lado más lejano de la torre más lejana, debajo de su base, hay un cifrado."
+    }
+  },
+  "4111390770": {
+    "displayProperties": {
+      "description": "Completa el encuentro **Cámara del sufrimiento**. Antes de bajar atravesando las trampas en las alturas, sube con cuidado hasta lo más alto."
+    }
+  },
+  "4111390771": {
+    "displayProperties": {
+      "description": "Completa el encuentro de la Necrópolis y procede hacia El Foso. Una vez en el muro de los caminos, sube y da la vuelta. A la derecha del pasillo hay un pequeño saliente a lo largo de la pared de piedra lunar. Úsalo para subir al nivel superior del pasillo y continúa hacia el fondo a la derecha."
+    }
+  },
+  "4111390780": {
+    "displayProperties": {
+      "description": "En el túnel más al centro, cerca del foso de gas verde donde se encuentra el orbe solar. Al entrar en el túnel por el lado del foso de gas verde, se ensanchará rápidamente en una pequeña sala. Para, gira 180º y mira hacia arriba."
+    }
+  },
+  "4111390781": {
+    "displayProperties": {
+      "description": "Baja a los **Túneles de la desesperanza** y mantente a la derecha. Entra en el primer túnel y síguelo hasta el final. Verás una puerta roja. De pie ante la puerta roja, gira 70° en el sentido de las agujas del reloj. Estarás mirando a una roca. A la derecha de la roca está el premio que buscas."
+    }
+  },
+  "4292949216": {
+    "displayProperties": {
+      "description": "Entra en La Antesala a través de la Boca del Infierno y sigue hasta una sala circular bien iluminada. A lo largo de la pared con ventanas a la derecha está lo que buscas."
+    }
+  },
+  "4292949220": {
+    "displayProperties": {
+      "description": "En los _Túneles de la desesperanza, en un saliente del acantilado al lado del foso de gas verde."
+    }
+  },
+  "4292949222": {
+    "displayProperties": {
+      "description": "En el lado oculto del módulo de la foto."
     }
   }
 }
