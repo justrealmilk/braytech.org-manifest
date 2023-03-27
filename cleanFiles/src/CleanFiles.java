@@ -97,7 +97,7 @@ public class CleanFiles {
     }).collect(Collectors.toMap(i -> iter.next(), Function.identity()));
   }
 
-  private ObjectNode buildNodesForTranslation(String filename, JsonNode node) {
+  private ObjectNode buildNodesForTranslation(String filename, JsonNode root) {
     ObjectNode newRoot = null;
     if (root != null)
       newRoot = om.createObjectNode().setAll(toStream(root.fields())
