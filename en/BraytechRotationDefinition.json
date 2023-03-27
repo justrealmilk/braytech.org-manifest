@@ -339,5 +339,42 @@
         "records": []
       }
     ]
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Terminal Overload",
+      "description": ""
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 473462131,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 3773756244,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 4158493479,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
