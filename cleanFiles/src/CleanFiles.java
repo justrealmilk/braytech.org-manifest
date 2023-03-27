@@ -22,16 +22,30 @@ public class CleanFiles {
   private ObjectMapper om;
   private String repoPath;
   private List<String> filenames;
+  private List<String> dpProperties;
+  private List<String> entryProperties;
+  private List<String> properties;
+  private List<String> inventoryProperties;
+  private List<String> extendedProperties;
   private Map<String, JsonNode> jsonFiles;
 
   public CleanFiles(List<String> languages) {
     repoPath = System.getProperty("user.dir");
+
+    dpProperties = Arrays.asList("name", "description", "tip");
+    entryProperties = Arrays.asList("prefix", "name", "completed");
+    properties = Arrays.asList("sourceString", "statName", "statNameAlt", "statNameAbbr", "statDescription",
+        "itemTypeDisplayName", "displaySource", "substring", "progressDescription", "bubbles", "factions",
+        "keywords");
+    inventoryProperties = Arrays.asList("tierTypeName");
+    extendedProperties = Arrays.asList("tip");
+
     om = (new ObjectMapper()).setDefaultPrettyPrinter(new MyPrettyPrinter())
         .enable(SerializationFeature.INDENT_OUTPUT);
 
     languages.forEach(lang -> {
       String outPath = repoPath + "/" + (lang.equals("en") ? "template" : lang);
-  
+
       jsonFiles = loadJsonFiles(lang);
       jsonFiles.replaceAll(this::buildNodesForTranslation);
       jsonFiles.forEach((filename, node) -> {
@@ -48,16 +62,19 @@ public class CleanFiles {
   }
 
   public static void main(String[] args) {
+    List<String> languages = Arrays.asList("en");
+
     if (args[0].equals("template")) {
       System.out.println("Making template");
-      new CleanFiles(Arrays.asList("en"));
     }
 
     if (args[0].equals("clean")) {
       System.out.println("Cleaning files");
-      new CleanFiles(Arrays.asList("de", "en-OwO", "es", "es-MX", "fr", "it", "ja", "ko", "pl",
-          "pt-BR", "ru", "zh-CHS", "zh-CHT"));
+      languages = Arrays.asList("de", "en-OwO", "es", "es-MX", "fr", "it", "ja", "ko", "pl",
+          "pt-BR", "ru", "zh-CHS", "zh-CHT");
     }
+
+    new CleanFiles(languages);
     System.out.println("Done");
   }
 
@@ -81,61 +98,28 @@ public class CleanFiles {
   }
 
   private ObjectNode buildNodesForTranslation(String filename, JsonNode node) {
-    return (node != null ? om.createObjectNode().setAll(filterNodes(node)) : null);
-  }
-
-  private LinkedHashMap<String, JsonNode> filterNodes(JsonNode root) {
-    return toStream(root.fields())
-        .map(entry -> removeUselessNodes(entry))
-        .filter(entry -> isNodeToTranslate(entry))
-        .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+    ObjectNode newRoot = null;
+    if (root != null)
+      newRoot = om.createObjectNode().setAll(toStream(root.fields())
+          .map(entry -> getNodeForTranslation(entry))
+          .filter(entry -> !entry.getValue().isEmpty())
+          .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new)));
+    return newRoot;
   }
 
   public static <T> Stream<T> toStream(Iterator<T> iterator) {
     return StreamSupport.stream(((Iterable<T>) () -> iterator).spliterator(), false);
   }
 
-  private boolean isNodeToTranslate(Entry<String, JsonNode> entry) {
-    JsonNode node = entry.getValue();
-    JsonNode dp = node.get("displayProperties");
-    JsonNode odp = node.get("originalDisplayProperties");
-    JsonNode e = node.get("entry");
-    JsonNode e1 = node.get("extended");
-    return (dp != null && (dp.has("name")
-        || dp.has("description")
-        || dp.has("tip")))
-        || (odp != null && (odp.has("name")
-            || odp.has("description")))
-        || (e != null && (e.has("prefix")
-            || e.has("name")
-            || e.has("completed")))
-        || (e1 != null && (e1.has("tip")))
-        || ((node.has("sourceString")
-            || node.has("statName")
-            || node.has("statNameAlt")
-            || node.has("statNameAbbr")
-            || node.has("statDescription")
-            || node.has("itemTypeDisplayName")
-            || node.has("displaySource")
-            || node.has("substring")
-            || node.has("progressDescription")
-            || node.has("bubbles")
-            || node.has("factions")
-            || node.has("keywords")));
-  }
-
-  private Entry<String, JsonNode> removeUselessNodes(Entry<String, JsonNode> entry) {
+  private Entry<String, JsonNode> getNodeForTranslation(Entry<String, JsonNode> entry) {
     JsonNode node = entry.getValue();
     ObjectNode newNode = om.createObjectNode();
-    copyChildObj(node, "displayProperties", newNode, Arrays.asList("name", "description", "tip"));
-    copyChildObj(node, "originalDisplayProperties", newNode, Arrays.asList("name", "description"));
-    copyChildObj(node, "entry", newNode, Arrays.asList("prefix", "name", "completed"));
-    copyObj(node, newNode, Arrays.asList(
-        "sourceString", "statName", "statNameAlt", "statNameAbbr", "statDescription",
-        "itemTypeDisplayName", "displaySource", "substring", "progressDescription", "bubbles",
-        "factions", "keywords"));
-    copyChildObj(node, "inventory", newNode, Arrays.asList("tierTypeName"));
-    copyChildObj(node, "extended", newNode, Arrays.asList("tip"));
+    copyChildObj(node, "displayProperties", newNode, dpProperties);
+    copyChildObj(node, "originalDisplayProperties", newNode, dpProperties);
+    copyChildObj(node, "entry", newNode, entryProperties);
+    copyObj(node, newNode, properties);
+    copyChildObj(node, "inventory", newNode, inventoryProperties);
+    copyChildObj(node, "extended", newNode, extendedProperties);
     return Map.entry(entry.getKey(), newNode);
   }
 
