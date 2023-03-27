@@ -99,16 +99,18 @@ public class CleanFiles {
 
   private ObjectNode buildNodesForTranslation(String filename, JsonNode root) {
     ObjectNode newRoot = null;
-    if (root != null)
-      newRoot = om.createObjectNode().setAll(toStream(root.fields())
+    if (root != null) {
+      Map<String, JsonNode> nodes = toStream(root.fields())
           .map(entry -> getNodeForTranslation(entry))
           .filter(entry -> !entry.getValue().isEmpty())
-          .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new)));
+          .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+      newRoot = om.createObjectNode().setAll(nodes);
+    }
     return newRoot;
   }
 
   public static <T> Stream<T> toStream(Iterator<T> iterator) {
-    return StreamSupport.stream(((Iterable<T>) () -> iterator).spliterator(), false);
+    return StreamSupport.stream(((Iterable<T>) () -> iterator).spliterator(), true);
   }
 
   private Entry<String, JsonNode> getNodeForTranslation(Entry<String, JsonNode> entry) {
