@@ -43,82 +43,82 @@
   },
   "191124900": {
     "displayProperties": {
-      "description": "During the final encounter, prior to each damage phase, break all four of Taniks' thrusters"
+      "description": "Prior to each damage phase, break **all four** of Taniks' **thrusters** and deposit all Nuclear charges."
     }
   },
   "201968501": {
     "displayProperties": {
-      "description": "Over the course of the Descent encounter, each Guardian must equip each augment once. Await an augment deactivation before beginning the changeover. Play in pairs, shadowing a leader's rotation."
+      "description": "Over the course of the encounter, **each Guardian** must equip **each augment** once. Await an augment deactivation before beginning the changeover. Play in pairs, shadowing a leader's rotation."
     }
   },
   "274420331": {
     "displayProperties": {
-      "description": "During the Oracles encounter, no Guardian may shoot the same oracle. Rotate positions."
+      "description": "No Guardian may shoot the same **Oracle**. Rotate positions."
     }
   },
   "584466411": {
     "displayProperties": {
-      "description": "Complete the Consecrated Mind encounter without killing any Cyclops that spawn in the Harpy boss's presence. Cyclops that spawn in other areas, and during the final sprint, can be killed."
+      "description": "Complete the encounter without killing any Cyclops that spawn in the Harpy boss's presence. Cyclops that spawn in other areas, and during the final sprint, can be killed."
     }
   },
   "787678752": {
     "displayProperties": {
-      "description": "During the Consecrated Mind encounter, all players must refresh their Enlightened buff at approximately the same time. However, the team may be split up at different tethers."
+      "description": "All players must **refresh** their **Enlightened** buff at approximately the **same time**. However, the team may be split up at different tethers."
     }
   },
   "217815700": {
     "displayProperties": {
-      "description": "Shuro Chi chase encounter: Guardians must not take damage from Shuro Chi's Arc Blast."
+      "description": "Guardians must not take damage from Shuro Chi's **Arc Blast**."
     }
   },
   "1741733430": {
     "displayProperties": {
-      "description": "Vault encounter: knights must be killed in the rooms they spawn in."
+      "description": "**Knights** must be killed in the rooms they spawn in and are not permitted to enter the main arena."
     }
   },
   "1572570117": {
     "displayProperties": {
-      "description": "During the Atheon encounter, each Guardian may only destroy one Oracle per set. As such, the Aegis wielder will need to partake."
+      "description": "During the Atheon encounter, each **Guardian** may only destroy one **Oracle** per set. As such, the Aegis wielder will need to partake."
     }
   },
   "2098788044": {
     "displayProperties": {
-      "description": "During the Dominion encounter, the primary crux may only be destroyed once per glyphs phase."
+      "description": "During the Dominion encounter, the **primary crux** may only be destroyed once per glyphs phase."
     }
   },
   "2255984700": {
     "displayProperties": {
-      "description": "Throughout the Exhibition encounter, each Guardian may only defeat one Disciple's Hourglass. Choose one to skip."
+      "description": "Throughout the Exhibition encounter, each Guardian may only defeat one **Disciple's Hourglass**. Choose one to skip."
     }
   },
   "2626004713": {
     "displayProperties": {
-      "description": "Must always deposit 10 motes at any time during the Consecrated Mind encounter."
+      "description": "Guardians may **only** deposit **10 motes** at a time."
     }
   },
   "2672226122": {
     "displayProperties": {
-      "description": "For the duration of the Acquisition encounter, each wave of [Stagger] Unstoppable Champions must be defeated within 5 seconds of one another or not at all."
+      "description": "For the duration of the Acquisition encounter, each wave of **[Stagger] Unstoppable Champions** must be defeated within 5 seconds of one another or not at all."
     }
   },
   "2814846409": {
     "displayProperties": {
-      "description": "During the Templar encounter, prevent the Templar from teleporting at all costs."
+      "description": "During the Templar encounter, **prevent** the Templar from **teleporting** at all costs."
     }
   },
   "2834033523": {
     "displayProperties": {
-      "description": "Kalli encounter: Cleanse all nine plates, kill all nine Knights, and kill all Ogres before damaging Kalli."
+      "description": "Cleanse all nine plates, kill all nine Knights, and kill all Ogres **before** damaging Kalli."
     }
   },
   "3135466059": {
     "displayProperties": {
-      "description": "During the Confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux."
+      "description": "During the Confluxes encounter, destroy Wyverns **only while they're sacrificing themselves** to a conflux."
     }
   },
   "3212721586": {
     "displayProperties": {
-      "description": "During the Gatekeeper encounter, destroy the Praetorian Minotaur and Wyvern simultaneously."
+      "description": "During the Gatekeeper encounter, destroy the Praetorian Minotaur and Wyvern **simultaneously**."
     }
   },
   "3361897360": {
@@ -128,32 +128,32 @@
   },
   "3425521520": {
     "displayProperties": {
-      "description": "During the Caretaker encounter, only one symbol energy charge may be carried at a time per Guardian."
+      "description": "During the Caretaker encounter, only **one symbol** energy charge may be carried **at a time** per Guardian."
     }
   },
   "3632655552": {
     "displayProperties": {
-      "description": "Morgeth encounter: don't kill smol ogres, only kill big boi."
+      "description": "Don't kill smol ogres, **only** kill **big boi**."
     }
   },
   "1498263100": {
     "displayProperties": {
-      "description": "Riven encounter: Guardians must not shoot the same eye twice."
+      "description": "Guardians must not shoot the same eye twice."
     }
   },
   "4023623132": {
     "displayProperties": {
-      "description": "Bypass Crypt Security while passing the Operator Augment to each fireteam member. Each Operator should activate two panels each over three damage phases."
+      "description": "Bypass Crypt Security while passing the **Operator Augment** to each fireteam member. Each Operator should activate two panels each over three damage phases."
     }
   },
   "4073197101": {
     "displayProperties": {
-      "description": "During the Sanctified Mind encounter, bank 30 motes at each Vex relay. At each relay, all 30 motes must be deposited within 10 seconds of one another."
+      "description": "During the Sanctified Mind encounter, bank **30 motes** at each Vex relay. At each relay, all 30 motes must be deposited **within 10 seconds** of one another."
     }
   },
   "3577304467": {
     "displayProperties": {
-      "description": "Guardians may not hold the same \"Brand\" in sequence."
+      "description": "Guardians may not hold the same \"Brand\" in **sequence**."
     }
   },
   "2159250954": {
@@ -163,7 +163,7 @@
   },
   "2890753840": {
     "displayProperties": {
-      "description": "If a Guardian holds Golgoroth's gaze, they must be standing in a \"Pool of Reclaimed Light\" when another Guardian acquires it."
+      "description": "If a Guardian holds **Golgoroth's gaze**, they must be standing in a **Pool of Reclaimed Light** when another Guardian acquires it."
     }
   },
   "2936050162": {
@@ -179,7 +179,7 @@
   "766975360": {
     "displayProperties": {
       "name": "Illuminated Torment",
-      "description": "Guardians may kill Tormenters only when affected by \"Field of Light.\""
+      "description": "Guardians may kill **Tormenters** only when affected by **Field of Light**."
     }
   },
   "138641527": {
