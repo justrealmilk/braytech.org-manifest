@@ -6,7 +6,7 @@
   },
   "2": {
     "displayProperties": {
-      "name": "Sfida Ascendente"
+      "name": "Sfida ascendente"
     }
   },
   "3": {
@@ -37,6 +37,11 @@
   "8": {
     "displayProperties": {
       "name": "Zona di incursione Vex"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Sovraccarico terminale"
     }
   }
 }

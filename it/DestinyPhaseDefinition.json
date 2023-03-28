@@ -160,5 +160,29 @@
       "name": "Oryx",
       "description": "Spodesta il re."
     }
+  },
+  "3172054256": {
+    "displayProperties": {
+      "name": "Cataclisma",
+      "description": "Respingi le forze della Legione Ombra e insegui Nezarec"
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "Scissione",
+      "description": "Entra nella Radice"
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "Macrocosmo",
+      "description": "Allinea i mondi e sconfiggi l'Interprete"
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "Nezarec",
+      "description": "Metti fine all'incubo e sconfiggi Nezarec"
+    }
   }
 }
