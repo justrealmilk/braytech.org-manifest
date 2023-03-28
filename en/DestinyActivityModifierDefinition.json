@@ -175,5 +175,29 @@
     "displayProperties": {
       "description": "Guardians can not kill the same Light-Eater Knight or Light-Eater Ogre."
     }
+  },
+  "766975360": {
+    "displayProperties": {
+      "name": "Illuminated Torment",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+    }
+  },
+  "138641527": {
+    "displayProperties": {
+      "name": "Crossfire",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+    }
+  },
+  "2070303007": {
+    "displayProperties": {
+      "name": "Cosmic Equilibrium",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+    }
+  },
+  "1616571513": {
+    "displayProperties": {
+      "name": "All Hands",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+    }
   }
 }
