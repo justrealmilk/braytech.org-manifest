@@ -2,19 +2,19 @@
   "1": {
     "displayProperties": {
       "name": "Die Konfluenz West",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
+      "description": "Ein Portal in **Die Konfluenz**, angetrieben von parakausalen Energien."
     }
   },
   "2": {
     "displayProperties": {
       "name": "Die Konfluenz Ost",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
+      "description": "Ein Portal in **Die Konfluenz**, angetrieben von parakausalen Energien."
     }
   },
   "3": {
     "displayProperties": {
       "name": "Die Konfluenz Süd",
-      "description": "Ein Portal in _Die Konfluenz_, angetrieben von parakausalen Energien."
+      "description": "Ein Portal in **Die Konfluenz**, angetrieben von parakausalen Energien."
     }
   },
   "4": {
@@ -26,7 +26,7 @@
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "6": {
@@ -38,7 +38,7 @@
   "7": {
     "displayProperties": {
       "name": "Bußschrein",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "8": {
@@ -50,7 +50,7 @@
   "9": {
     "displayProperties": {
       "name": "Splitterruinen",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "10": {
@@ -62,7 +62,7 @@
   "11": {
     "displayProperties": {
       "name": "Bergfried der Geschliffenen",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "12": {
@@ -74,7 +74,7 @@
   "13": {
     "displayProperties": {
       "name": "Preisrichter Abgrund",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "14": {
@@ -86,248 +86,138 @@
   "15": {
     "displayProperties": {
       "name": "Cimmerische Garnison",
-      "description": "Ein Portal zu der _Aszendenten-Ebene_."
+      "description": "Ein Portal zu der **Aszendenten-Ebene**."
     }
   },
   "16": {
     "displayProperties": {
       "name": "Albtraum von Xortal, Geschworener von Crota",
-      "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
+      "description": "Besiege diesen Albtraum, um den Triumph **Wandernde Albträume** zu erreichen."
     }
   },
   "17": {
     "displayProperties": {
       "name": "Albtraum von Horkis, Furcht von Mithrax",
-      "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
+      "description": "Besiege diesen Albtraum, um den Triumph **Wandernde Albträume** zu erreichen."
     }
   },
   "18": {
     "displayProperties": {
       "name": "Albtraum von Jaxx, Klaue von Xivu Arath",
-      "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
+      "description": "Besiege diesen Albtraum, um den Triumph **Wandernde Albträume** zu erreichen."
     }
   },
   "19": {
     "displayProperties": {
       "name": "Albtraum von Loronvis, Ratshelferin",
-      "description": "Besiege diesen Albtraum, um den Triumph _Wandernde Albträume_ zu erreichen."
-    }
-  },
-  "24": {
-    "displayProperties": {
-      "description": "Oben auf der Klippe mit Blick auf die gewundene Bucht, nahe dem Ort, an dem Xûr manchmal auftaucht."
-    }
-  },
-  "33": {
-    "displayProperties": {
-      "description": "Links vom Eingang des verlorenen Sektors, schlecht beleuchtet, hinter einigen Kisten."
-    }
-  },
-  "34": {
-    "displayProperties": {
-      "description": "Ganz oben links auf den Felsen."
-    }
-  },
-  "35": {
-    "displayProperties": {
-      "description": "Hinter der Landezone."
-    }
-  },
-  "37": {
-    "displayProperties": {
-      "description": "Im hinteren Teil des beschädigten Gebäudes, im dritten Stock, in einem Raum auf der rechten Seite."
-    }
-  },
-  "38": {
-    "displayProperties": {
-      "description": "Hinter dem Wasserfall."
-    }
-  },
-  "39": {
-    "displayProperties": {
-      "description": "In der Decke des Dammes."
-    }
-  },
-  "40": {
-    "displayProperties": {
-      "description": "Durch die Schuttmauer."
-    }
-  },
-  "109": {
-    "displayProperties": {
-      "description": "In einem Eisblock gefroren. Finde einen _Gefallenen-Captain_ namens _Ferkis, Sturm der Erlösung_ in der Nähe der Aufzüge zum _Riis-Wiedergeboren-Zugang_ – er wird fallen lassen, was du brauchst."
-    }
-  },
-  "127": {
-    "displayProperties": {
-      "description": "Unter dem Eis."
-    }
-  },
-  "182": {
-    "displayProperties": {
-      "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche das Subjekt auf dem Weg nach draußen."
-    }
-  },
-  "183": {
-    "displayProperties": {
-      "description": "Benötigt ein Firewall-Datenfragment. Erhalten durch einen Beutezug von Eris Morn."
-    }
-  },
-  "184": {
-    "displayProperties": {
-      "description": "Gehe über das _Torhaus_ in den _Knochenzirkel_, dreh dich nach rechts und folge der Schleife zum _Höllenschlund_. Dreh dich vor der nächsten Kreuzung um und schau unter die Plattform, um zwei Jade-Augen zu finden, die durch dein vom Reisenden gegebenes Licht stechen."
-    }
-  },
-  "215": {
-    "displayProperties": {
-      "description": "Betritt den Dungeon und gehe zum Turm ganz rechts. Behalte am besten etwas Höhe bei. Auf der am weitest entfernten Seite des am weitest entfernten Turms, unterhalb seines Fußes, befindet sich eine Chiffre."
-    }
-  },
-  "216": {
-    "displayProperties": {
-      "description": "Absolviere die _Nekropole_-Begegnung und gehe weiter in Richtung Grube. Sobald du an der Wand der Wege angekommen bist, klettere hoch und drehe dich um. Rechts von der Halle befindet sich eine kleine Kante entlang der Mondsteinmauer. Verwende sie, um in die obere Ebene des Flurs und weiter zur äußersten rechten Seite zu gelangen."
-    }
-  },
-  "217": {
-    "displayProperties": {
-      "description": "Schließe die Begegnung _Kammer des Leidens_ ab. Bevor du (durch das Überqueren der Fallen) tiefer abwärts gehst, klettere stattdessen vorsichtig auf die höchste Stufe."
-    }
-  },
-  "218": {
-    "displayProperties": {
-      "description": "Lass dich in die _Tunnel der Verzweiflung_ fallen und halte dich rechts. Betritt den ersten Kriechweg und folge ihm bis zum Ende. Du siehst dann eine rote Tür. An der roten Tür stehend, dreh dich um 70° im Uhrzeigersinn. Du starrst dann auf einen Felsbrocken. Rechts vom Felsbrocken befindet sich der Preis, den du suchst."
-    }
-  },
-  "219": {
-    "displayProperties": {
-      "description": "Im mittleren Kriech-Tunnel, der der grünen Gasgrube mit der Solar-Sphäre am nächsten liegt. Wenn du den Tunnel von der Seite der grünen Gasgrube aus betrittst, wird er sich schnell zu einem kleinen Raum erweitern. Halte an, dreh dich um 180° und schau nach oben."
-    }
-  },
-  "223": {
-    "displayProperties": {
-      "description": "Betritt _Das Torhaus_ über den _Höllenschlund_ und folge ihm zu einem gut beleuchteten runden Raum. Suche entlang der Wand mit dem Fenster."
-    }
-  },
-  "225": {
-    "displayProperties": {
-      "description": "An der Seite der versteckten Seite des abgebildeten Moduls."
-    }
-  },
-  "227": {
-    "displayProperties": {
-      "description": "In den _Tunneln der Verzweiflung_, auf einem Felsvorsprung neben der grünen Gasgrube."
-    }
-  },
-  "258": {
-    "displayProperties": {
-      "description": "Zugänglich über die _Die Urquell_-Offensive."
-    }
-  },
-  "259": {
-    "displayProperties": {
-      "description": "Benötigt _Tiefensicht_ zum Enthüllen."
-    }
-  },
-  "260": {
-    "displayProperties": {
-      "description": "Zugänglich über die _Altar der Reflexion_-Aktivität"
+      "description": "Besiege diesen Albtraum, um den Triumph **Wandernde Albträume** zu erreichen."
     }
   },
   "278": {
     "displayProperties": {
       "name": "Königinnenhof",
-      "description": "Ein Portal zum _Königinnenhof_, Mara Sovs Thronwelt."
-    }
-  },
-  "279": {
-    "displayProperties": {
-      "description": "Wenn du den Königinnenhof erreicht hast, erklimm die Mauer links vom Thron."
-    }
-  },
-  "288": {
-    "displayProperties": {
-      "description": "Laufe an der Eingangskreuzung des Verlorenen Sektors vorbei und folge ab dort dem Weg."
-    }
-  },
-  "292": {
-    "displayProperties": {
-      "description": "Klippenseitig, unter dem Weg, der zu einem Verlorenen Sektor führt."
-    }
-  },
-  "293": {
-    "displayProperties": {
-      "description": "Auf dem Catwalk."
-    }
-  },
-  "301": {
-    "displayProperties": {
-      "description": "Sitzt auf der Mittelwand des _Immerforst_."
-    }
-  },
-  "302": {
-    "extended": {
-      "instructions": "Diese Truhe erfordert das Überschreiten der eigenen Realität. Folgendes ist zu tun:\n\n1. In der Nähe von _Bruder Vance_ findest du ein spannendes Buch. Untersuche es.\n2. Dreh dich um 180°. Gehe zur äußersten Wand und finde die nächste Ausgabe im Bücherregal. Untersuche sie.\n3. Gehe zum Bücherregal rechts vom Eingang und suche die nächste Ausgabe neben der Feuerstelle am unteren Rand des Bücherregals. Untersuche sie.\n4. Kehre zum ersten Bücherregal zurück und finde die nächste Ausgabe auf dem Schreibtisch neben dem Schüler. Untersuche sie.\n5. Das letzte Buch ist hoch oben in einem Bücherregal auf der anderen Seite des Raums bei der Schmiede versteckt. Untersuche es.\n6. Ein _Vex-Konflux_ wird angezeigt. Untersuche es."
-    }
-  },
-  "438": {
-    "displayProperties": {
-      "description": "Nahe dem Vex-Konflux in der _Senke_, zwischen den Wurzeln eines toten Baumes."
+      "description": "Ein Portal zum **Königinnenhof**, Mara Sovs Thronwelt."
     }
   },
   "596": {
     "displayProperties": {
       "name": "Salzminen-Klippen",
-      "description": "Ein Portal zur Spitze der Klippen in den _Salzminen_, angetrieben durch Jury-manipulierte _Gefallenen_-Teile."
+      "description": "Ein Portal zur Spitze der Klippen in den **Salzminen**, angetrieben durch Jury-manipulierte **Gefallenen**-Teile."
     }
   },
-  "597": {
+  "379286227": {
+    "displayProperties": {
+      "description": "Nahe dem Vex-Konflux in der **Senke**, zwischen den Wurzeln eines toten Baumes."
+    }
+  },
+  "463653643": {
+    "displayProperties": {
+      "description": "Laufe an der Eingangskreuzung des Verlorenen Sektors vorbei und folge ab dort dem Weg."
+    }
+  },
+  "576743835": {
+    "displayProperties": {
+      "description": "Links vom Eingang des verlorenen Sektors, schlecht beleuchtet, hinter einigen Kisten."
+    }
+  },
+  "589814471": {
+    "displayProperties": {
+      "description": "Hinter dem Wasserfall."
+    }
+  },
+  "703052847": {
+    "displayProperties": {
+      "description": "Zugänglich über die **Altar der Reflexion**-Aktivität"
+    }
+  },
+  "823939877": {
+    "displayProperties": {
+      "description": "Hinter der Landezone."
+    }
+  },
+  "1000001001": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "598": {
+  "1000001002": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "599": {
+  "1000001003": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "600": {
+  "1000001004": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "601": {
+  "1000001005": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "602": {
+  "1000001006": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "603": {
+  "1000001007": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "604": {
+  "1000001008": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "605": {
+  "1000001009": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
     }
   },
-  "606": {
+  "1000001010": {
     "displayProperties": {
       "description": "Benötigt  Einstimmung"
+    }
+  },
+  "1085712440": {
+    "displayProperties": {
+      "description": "Im hinteren Teil des beschädigten Gebäudes, im dritten Stock, in einem Raum auf der rechten Seite."
+    }
+  },
+  "1387596458": {
+    "displayProperties": {
+      "description": "Wenn du den Königinnenhof erreicht hast, erklimm die Mauer links vom Thron."
+    }
+  },
+  "1903309704": {
+    "displayProperties": {
+      "description": "Benötigt **Tiefensicht** zum Enthüllen."
     }
   },
   "2000000000": {
@@ -915,19 +805,129 @@
   "2000000251": {
     "displayProperties": {
       "name": "Verlockender Vorhang Henker",
-      "description": "Eliminiere den Strahlenden Henker, der beim _Verlockenden Vorhang_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
+      "description": "Eliminiere den Strahlenden Henker, der beim **Verlockenden Vorhang** stationiert ist, um **Aufgestiegener Kopfgeldjäger** voranzubringen."
     }
   },
   "2000000252": {
     "displayProperties": {
       "name": "Burghof der Königin Henker",
-      "description": "Eliminiere den Strahlenden Henker, der beim _Burghof der Königin_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
+      "description": "Eliminiere den Strahlenden Henker, der beim **Burghof der Königin** stationiert ist, um **Aufgestiegener Kopfgeldjäger** voranzubringen."
     }
   },
   "2000000253": {
     "displayProperties": {
       "name": "Hexenecho Henker",
-      "description": "Eliminiere den Strahlenden Henker, der bei _Hexenecho_ stationiert ist, um _Aufgestiegener Kopfgeldjäger_ voranzubringen."
+      "description": "Eliminiere den Strahlenden Henker, der bei **Hexenecho** stationiert ist, um **Aufgestiegener Kopfgeldjäger** voranzubringen."
+    }
+  },
+  "2495538001": {
+    "displayProperties": {
+      "description": "Klippenseitig, unter dem Weg, der zu einem Verlorenen Sektor führt."
+    }
+  },
+  "2503906440": {
+    "displayProperties": {
+      "description": "In der Decke des Dammes."
+    }
+  },
+  "2779900411": {
+    "displayProperties": {
+      "description": "Gehe nach Abschluss des verlorenen Sektors zum Ausgang und suche das Subjekt auf dem Weg nach draußen."
+    }
+  },
+  "2809244994": {
+    "displayProperties": {
+      "description": "Sitzt auf der Mittelwand des **Immerforst**."
+    }
+  },
+  "2895058245": {
+    "displayProperties": {
+      "description": "Zugänglich über die **Die Urquell**-Offensive."
+    }
+  },
+  "3307732497": {
+    "displayProperties": {
+      "description": "Ganz oben links auf den Felsen."
+    }
+  },
+  "3609559330": {
+    "displayProperties": {
+      "description": "Durch die Schuttmauer."
+    }
+  },
+  "3644688446": {
+    "displayProperties": {
+      "description": "Auf dem Catwalk."
+    }
+  },
+  "3658842337": {
+    "displayProperties": {
+      "description": "Oben auf der Klippe mit Blick auf die gewundene Bucht, nahe dem Ort, an dem Xûr manchmal auftaucht."
+    }
+  },
+  "3728157446": {
+    "displayProperties": {
+      "description": "Benötigt ein **Firewall-Datenfragment**. Erhalten durch einen Beutezug von Eris Morn."
+    }
+  },
+  "3880966469": {
+    "displayProperties": {
+      "description": "In einem Eisblock gefroren. Finde einen **Gefallenen-Captain** namens **Ferkis, Sturm der Erlösung** in der Nähe der Aufzüge zum **Riis-Wiedergeboren-Zugang** – er wird fallen lassen, was du brauchst."
+    }
+  },
+  "3888342093": {
+    "displayProperties": {
+      "description": "Unter dem Eis."
+    }
+  },
+  "3977481189": {
+    "displayProperties": {
+      "description": "Gehe über das **Torhaus** in den **Knochenzirkel**, dreh dich nach rechts und folge der Schleife zum **Höllenschlund**. Dreh dich vor der nächsten Kreuzung um und schau unter die Plattform, um zwei Jade-Augen zu finden, die durch dein vom Reisenden gegebenes Licht stechen."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "tip": "Diese Truhe erfordert das Überschreiten der eigenen Realität. Folgendes ist zu tun:\n\n1. In der Nähe von **Bruder Vance** findest du ein spannendes Buch. Untersuche es.\n2. Dreh dich um 180°. Gehe zur äußersten Wand und finde die nächste Ausgabe im Bücherregal. Untersuche sie.\n3. Gehe zum Bücherregal rechts vom Eingang und suche die nächste Ausgabe neben der Feuerstelle am unteren Rand des Bücherregals. Untersuche sie.\n4. Kehre zum ersten Bücherregal zurück und finde die nächste Ausgabe auf dem Schreibtisch neben dem Schüler. Untersuche sie.\n5. Das letzte Buch ist hoch oben in einem Bücherregal auf der anderen Seite des Raums bei der Schmiede versteckt. Untersuche es.\n6. Ein **Vex-Konflux** wird angezeigt. Untersuche es."
+    }
+  },
+  "4111390768": {
+    "displayProperties": {
+      "description": "Betritt den Dungeon und gehe zum Turm ganz rechts. Behalte am besten etwas Höhe bei. Auf der am weitest entfernten Seite des am weitest entfernten Turms, unterhalb seines Fußes, befindet sich eine Chiffre."
+    }
+  },
+  "4111390770": {
+    "displayProperties": {
+      "description": "Schließe die Begegnung **Kammer des Leidens** ab. Bevor du (durch das Überqueren der Fallen) tiefer abwärts gehst, klettere stattdessen vorsichtig auf die höchste Stufe."
+    }
+  },
+  "4111390771": {
+    "displayProperties": {
+      "description": "Absolviere die **Nekropole**-Begegnung und gehe weiter in Richtung Grube. Sobald du an der Wand der Wege angekommen bist, klettere hoch und drehe dich um. Rechts von der Halle befindet sich eine kleine Kante entlang der Mondsteinmauer. Verwende sie, um in die obere Ebene des Flurs und weiter zur äußersten rechten Seite zu gelangen."
+    }
+  },
+  "4111390780": {
+    "displayProperties": {
+      "description": "Im mittleren Kriech-Tunnel, der der grünen Gasgrube mit der Solar-Sphäre am nächsten liegt. Wenn du den Tunnel von der Seite der grünen Gasgrube aus betrittst, wird er sich schnell zu einem kleinen Raum erweitern. Halte an, dreh dich um 180° und schau nach oben."
+    }
+  },
+  "4111390781": {
+    "displayProperties": {
+      "description": "Lass dich in die **Tunnel der Verzweiflung** fallen und halte dich rechts. Betritt den ersten Kriechweg und folge ihm bis zum Ende. Du siehst dann eine rote Tür. An der roten Tür stehend, dreh dich um 70° im Uhrzeigersinn. Du starrst dann auf einen Felsbrocken. Rechts vom Felsbrocken befindet sich der Preis, den du suchst."
+    }
+  },
+  "4292949216": {
+    "displayProperties": {
+      "description": "Betritt **Das Torhaus** über den **Höllenschlund** und folge ihm zu einem gut beleuchteten runden Raum. Suche entlang der Wand mit dem Fenster."
+    }
+  },
+  "4292949220": {
+    "displayProperties": {
+      "description": "In den **Tunneln der Verzweiflung**, auf einem Felsvorsprung neben der grünen Gasgrube."
+    }
+  },
+  "4292949222": {
+    "displayProperties": {
+      "description": "An der Seite der versteckten Seite des abgebildeten Moduls."
     }
   }
 }

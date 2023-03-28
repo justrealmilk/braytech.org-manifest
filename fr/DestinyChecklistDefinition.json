@@ -4,7 +4,6 @@
       "name": "Livre d'Histoire: Égarés de Luna"
     },
     "entry": {
-      "prefix": "",
       "name": "Fragment de Spectre"
     },
     "progressDescription": "Fragments de spectre récupérés"
@@ -26,25 +25,21 @@
     "entry": {
       "prefix": "Artéfact",
       "name": "Coffre scellé par la stase"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "Recueils de la CP"
     },
     "entry": {
-      "prefix": "",
       "name": "Recueil de la CP"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
       "name": "Os d'Ahamkara"
     },
     "entry": {
-      "prefix": "",
       "name": "Os d'Ahamkara"
     },
     "progressDescription": "Os trouvés"
@@ -54,7 +49,6 @@
       "name": "Coffres de région"
     },
     "entry": {
-      "prefix": "",
       "name": "Coffre de région"
     },
     "progressDescription": "Coffres ouverts"
@@ -74,7 +68,6 @@
       "name": "Lapins de Jade"
     },
     "entry": {
-      "prefix": "",
       "name": "Lapin de Jade"
     },
     "progressDescription": "Lapins avec gâteaux de riz"
@@ -124,7 +117,6 @@
       "name": "Secteurs oubliés"
     },
     "entry": {
-      "prefix": "",
       "name": "Secteur oublié"
     },
     "progressDescription": "Découverts"
@@ -144,7 +136,6 @@
       "name": "Livre d'Histoire: Inquisition des Damnés"
     },
     "entry": {
-      "prefix": "",
       "name": "Code Nécrotique"
     },
     "progressDescription": "Codes nécrotiques trouvés"

@@ -1,90 +1,161 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "公會",
       "description": "關於你的公會，公會成員名單，所有成員的匯總歷史統計信息以及管理員模式"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "收藏品",
       "description": "你的守護者一生中曾獲得的物品"
     }
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "成就",
       "description": "你的守護者在挑戰中曽完成的成就記錄"
     }
   },
+  "journey": {
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    }
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "所有目的地的機靈掃描和物品清單"
+    }
+  },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "地圖",
       "description": "交互式地圖清單和其他重要目標"
     }
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "周报",
       "description": "守護者的每周成就與挑戰指南"
     }
   },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    }
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    }
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    }
+  },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "角色",
       "description": "查看守護者的裝備和庫存."
     }
   },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    }
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    }
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "任務",
       "description": "追蹤你的任務，包括任務及賞金單"
     }
   },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    }
+  },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "活动",
       "description": "瀏覽和篩選你的詳細游戲擊殺報告"
     }
   },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "設定",
       "description": "賬戶，主題，本地數據，項目可見性，語言，開發人員，故障排除"
     }
   },
+  "legend": {
+    "displayProperties": {
+      "name": "傳奇",
+      "description": "生与死都是騙子的工具，編織自己的謊言。"
+    }
+  },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "對比",
       "description": "尋找你最快的日暮任務：磨難和夢魘狩獵"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "歸檔",
       "description": "交互式工具，手冊，傳奇報告，和其他保留内容"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
       "name": "常見問題",
       "description": "Tom 最喜歡的壹些常見問題"
     }
   },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    }
+  },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "致謝",
       "description": "關於這些成爲可能的守護者們"

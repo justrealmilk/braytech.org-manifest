@@ -1,9 +1,24 @@
 {
-    "killsDeathsRatio": {
+  "opponentsDefeated": {
+    "statName": "Kills + Assists"
+  },
+  "killsDeathsRatio": {
     "statName": "K/D"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Durchschnitts K/D"
   },
   "winRate": {
     "statName": "Sieg-Rate"
+  },
+  "precisionKills": {
+    "statName": "Präzision"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Genauigkeit"
+  },
+  "currentEloRating": {
+    "statName": "Elo"
   },
   "supremacyCrestsSecured": {
     "statName": "Wappen gesichert"
@@ -58,21 +73,6 @@
   },
   "largeBlockersSent": {
     "statName": "Große Blocker gesendet"
-  },
-  "precisionKills": {
-    "statName": "Präzision"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Genauigkeit"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "opponentsDefeated": {
-    "statName": "Kills + Assists"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Durchschnitts K/D"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Besiege als Team mindestens einmal während der Jagd alle Hüter."

@@ -2,9 +2,6 @@
   "537457947": {
     "progressDescription": "同じサブクラスでバンガードストライクを完了する"
   },
-  "2443315975": {
-    "progressDescription": "ナイトフォールストライクを完了する"
-  },
   "3118376466": {
     "progressDescription": "いずれかのクルーシブルのプレイリストで対戦を完了する"
   },
@@ -91,26 +88,26 @@
   },
   "3039545165": {
     "progressDescription": "迷宮\"デュアリティ\" 周回完了"
-    },
-    "2258905201": {
-      "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
-    },
-    "2050629406": {
-      "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
-    },
-    "3376767511": {
-      "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
-    },
-    "1878970132": {
-      "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする" 
-    },
-    "1166527222": {
-      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
-    },
-    "3431014262": {
-      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
-    },
-    "1687723774": {
-      "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  },
+  "2258905201": {
+    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+  },
+  "2050629406": {
+    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+  },
+  "3376767511": {
+    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+  },
+  "1878970132": {
+    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+  },
+  "1166527222": {
+    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  },
+  "3431014262": {
+    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  },
+  "1687723774": {
+    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
   }
 }

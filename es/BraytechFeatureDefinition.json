@@ -273,6 +273,12 @@
       "atajos"
     ]
   },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    }
+  },
   "credits": {
     "displayProperties": {
       "name": "Créditos",

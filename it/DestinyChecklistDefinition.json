@@ -4,7 +4,8 @@
       "name": "Leggende: Perduti sulla Luna"
     },
     "entry": {
-      "name": "Frammento di spettro"
+      "name": "Frammento di spettro",
+      "completed": "Recuperato"
     },
     "progressDescription": "Frammenti di spettro recuperati"
   },
@@ -14,7 +15,8 @@
     },
     "entry": {
       "prefix": "Souvenir",
-      "name": "Pinguino souvenir"
+      "name": "Pinguino souvenir",
+      "completed": "Collezionato"
     },
     "progressDescription": "Souvenir collezionati"
   },
@@ -24,7 +26,8 @@
     },
     "entry": {
       "prefix": "Artefatto",
-      "name": "Forziere sigillato dalla stasi"
+      "name": "Forziere sigillato dalla stasi",
+      "completed": "Sbloccato"
     }
   },
   "1000002000": {
@@ -32,7 +35,8 @@
       "name": "Archivi dati CPF"
     },
     "entry": {
-      "name": "Archivio dati CPF"
+      "name": "Archivio dati CPF",
+      "completed": "Collezionato"
     }
   },
   "1297424116": {
@@ -40,7 +44,8 @@
       "name": "Ossa di Ahamkara"
     },
     "entry": {
-      "name": "Ossa di Ahamkara"
+      "name": "Ossa di Ahamkara",
+      "completed": "Collezionate"
     },
     "progressDescription": "Ossa trovate"
   },
@@ -49,7 +54,8 @@
       "name": "Forzieri della regione"
     },
     "entry": {
-      "name": "Forziere della regione"
+      "name": "Forziere della regione",
+      "completed": "Sbloccato"
     },
     "progressDescription": "Forzieri aperti"
   },
@@ -59,7 +65,8 @@
     },
     "entry": {
       "prefix": "Frammento",
-      "name": "Frammento entropico"
+      "name": "Frammento entropico",
+      "completed": "Distrutto"
     },
     "progressDescription": "Ordine ripristinato"
   },
@@ -68,7 +75,8 @@
       "name": "Conigli di giada"
     },
     "entry": {
-      "name": "Coniglio di giada"
+      "name": "Coniglio di giada",
+      "completed": "Sfamato"
     },
     "progressDescription": "Conigli con galletta di riso"
   },
@@ -78,7 +86,8 @@
     },
     "entry": {
       "prefix": "Exo",
-      "name": "Exo morto"
+      "name": "Exo morto",
+      "completed": "Registrazione recuperata"
     },
     "progressDescription": "Registrazioni dei soggetti ascoltate"
   },
@@ -88,7 +97,8 @@
     },
     "entry": {
       "prefix": "Uovo",
-      "name": "Uovo corrotto"
+      "name": "Uovo corrotto",
+      "completed": "Distrutto"
     },
     "progressDescription": "Uova distrutte"
   },
@@ -98,7 +108,8 @@
     },
     "entry": {
       "prefix": "Amico felino",
-      "name": "Statua di gatto"
+      "name": "Statua di gatto",
+      "completed": "Soddisfatto"
     },
     "progressDescription": "Amici felini soddisfatti"
   },
@@ -108,7 +119,8 @@
     },
     "entry": {
       "prefix": "Fonte",
-      "name": "Fonte di Oscurità"
+      "name": "Fonte di Oscurità",
+      "completed": "Chiusa"
     },
     "progressDescription": "Fonti chiuse"
   },
@@ -117,7 +129,8 @@
       "name": "Settori perduti"
     },
     "entry": {
-      "name": "Settore perduto"
+      "name": "Settore perduto",
+      "completed": "Scoperto"
     },
     "progressDescription": "Scoperti"
   },
@@ -127,7 +140,8 @@
     },
     "entry": {
       "prefix": "Falena",
-      "name": "Falena lucente"
+      "name": "Falena lucente",
+      "completed": "Collezionata"
     },
     "progressDescription": "Falene collezionate"
   },
@@ -136,7 +150,8 @@
       "name": "Leggende: L'inquisizione dei dannati"
     },
     "entry": {
-      "name": "Cifrario necrotico"
+      "name": "Cifrario necrotico",
+      "completed": "Collezionato"
     },
     "progressDescription": "Cifrari necrotici ottenuti"
   },
@@ -145,13 +160,15 @@
       "name": "Statuette uniche"
     },
     "entry": {
-      "name": "Statuetta unica"
+      "name": "Statuetta unica",
+      "completed": "Collezionata"
     },
     "progressDescription": "Giocattoli collezionati"
   },
   "703136805": {
     "entry": {
-      "name": "Ripetitore apogeo"
+      "name": "Ripetitore apogeo",
+      "completed": "Neutralizzato"
     },
     "progressDescription": "Ripetitori neutralizzati"
   }

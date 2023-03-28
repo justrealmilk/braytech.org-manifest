@@ -1,8 +1,38 @@
 {
+  "2086100423": {
+    "displayProperties": {
+      "name": "Fwawwess (Season 10)"
+    }
+  },
+  "1376640684": {
+    "displayProperties": {
+      "name": "Conquewow (Season 10)"
+    }
+  },
+  "3251218484": {
+    "displayProperties": {
+      "name": "૮ ˶ᵔ ᵕ ᵔ˶ ა Fwawwess (Season 11)"
+    }
+  },
+  "3212358005": {
+    "displayProperties": {
+      "name": "Conquewow (Season 11)"
+    }
+  },
+  "1276693937": {
+    "displayProperties": {
+      "name": "Fwawwess (Season 12)"
+    }
+  },
+  "581214566": {
+    "displayProperties": {
+      "name": "Conquewow (Season 12)"
+    }
+  },
   "1000000001": {
     "displayProperties": {
-      "description": "Not aww twiumphs awe fowevew. Some awe avaiwabwe onwy fow a wimited time. This is a devewopew-cuwated wist of twiumphs which wiww become unavaiwabwe next season.",
-      "name": "Twansient Twiumphs"
+      "name": "Twansient Twiumphs",
+      "description": "Not aww twiumphs awe fowevew. Some awe avaiwabwe onwy fow a wimited time. This is a devewopew-cuwated wist of twiumphs which wiww become unavaiwabwe next season."
     }
   },
   "1000000004": {
@@ -13,6 +43,16 @@
   "1000000005": {
     "displayProperties": {
       "name": "*boops uuw nose* Aww Chawwenges"
+    }
+  },
+  "1000000051": {
+    "displayProperties": {
+      "name": "Cwucibwe"
+    }
+  },
+  "1000000052": {
+    "displayProperties": {
+      "name": "Stwikes"
     }
   },
   "1000000006": {
@@ -27,40 +67,12 @@
   },
   "1000000008": {
     "displayProperties": {
-      "description": "These embwems can be cowwecting by wedeeming them with a code fow fwee at https://www.bungie.net/wedeem",
-      "name": "Wedeemabwe"
+      "name": "Wedeemabwe",
+      "description": "These embwems can be cowwecting by wedeeming them with a code fow fwee at https://www.bungie.net/wedeem"
     }
   },
-  "1000000051": {
-    "displayProperties": {
-      "name": "Cwucibwe"
-    }
-  },
-  "1000000052": {
-    "displayProperties": {
-      "name": "Stwikes"
-    }
-  },
-  "1194500405": {
+  "2485764221": {
     "itemTypeDisplayName": "Guawdian Wank"
-  },
-  "1276693937": {
-    "displayProperties": {
-      "name": "Fwawwess (Season 12)"
-    }
-  },
-  "1376640684": {
-    "displayProperties": {
-      "name": "Conquewow (Season 10)"
-    }
-  },
-  "184846131": {
-    "itemTypeDisplayName": "Guawdian Wank"
-  },
-  "2086100423": {
-    "displayProperties": {
-      "name": "Fwawwess (Season 10)"
-    }
   },
   "2329774788": {
     "itemTypeDisplayName": "Guawdian Wank"
@@ -68,40 +80,28 @@
   "2334031483": {
     "itemTypeDisplayName": "Guawdian Wank"
   },
-  "2485764221": {
+  "464627906": {
     "itemTypeDisplayName": "Guawdian Wank"
   },
   "3111288225": {
     "itemTypeDisplayName": "Guawdian Wank"
   },
-  "3212358005": {
-    "displayProperties": {
-      "name": "Conquewow (Season 11)"
-    }
-  },
-  "3251218484": {
-    "displayProperties": {
-      "name": "૮ ˶ᵔ ᵕ ᵔ˶ ა Fwawwess (Season 11)"
-    }
-  },
   "4242023272": {
     "itemTypeDisplayName": "Guawdian Wank"
   },
-  "464627906": {
+  "861774511": {
     "itemTypeDisplayName": "Guawdian Wank"
-  },
-  "562783996": {
-    "itemTypeDisplayName": "Guawdian Wank"
-  },
-  "581214566": {
-    "displayProperties": {
-      "name": "Conquewow (Season 12)"
-    }
   },
   "724209558": {
     "itemTypeDisplayName": "Guawdian Wank"
   },
-  "861774511": {
+  "1194500405": {
+    "itemTypeDisplayName": "Guawdian Wank"
+  },
+  "184846131": {
+    "itemTypeDisplayName": "Guawdian Wank"
+  },
+  "562783996": {
     "itemTypeDisplayName": "Guawdian Wank"
   }
 }

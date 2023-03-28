@@ -1,90 +1,161 @@
 {
   "clan": {
-    "hash": "clan",
     "displayProperties": {
       "name": "Clã",
       "description": "Seu clã, elenco, estatísticas históricas de todos os membros somadas e modo administrador"
     }
   },
   "collections": {
-    "hash": "collections",
     "displayProperties": {
       "name": "Coleções",
       "description": "Itens que seu Guardião obteve durante sua vida"
     }
   },
   "triumphs": {
-    "hash": "triumphs",
     "displayProperties": {
       "name": "Triunfos",
       "description": "Triunfos que seu Guardião conquistou através de seus desafios"
     }
   },
+  "journey": {
+    "displayProperties": {
+      "name": "Journey",
+      "description": "Navigate your Guardian's journey from New Light to Paragon"
+    }
+  },
+  "commendations": {
+    "displayProperties": {
+      "name": "Commendations",
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar"
+    }
+  },
   "maps": {
-    "hash": "maps",
     "displayProperties": {
       "name": "Mapas",
       "description": "Mapa interativo mostrando checklists e outros destinos notáveis"
     }
   },
   "weeklies": {
-    "hash": "weeklies",
     "displayProperties": {
       "name": "Semanais",
       "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
     }
   },
+  "weeklies-challenges": {
+    "displayProperties": {
+      "name": "Challenges",
+      "description": "All activity challenges"
+    }
+  },
+  "weeklies-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+    }
+  },
+  "weeklies-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Scry the orbits of various activities"
+    }
+  },
   "character": {
-    "hash": "character",
     "displayProperties": {
       "name": "Personagem",
       "description": "Inspecione o equipamento e inventário do seu Guardião"
     }
   },
+  "character-postmaster": {
+    "displayProperties": {
+      "name": "Postmaster",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+    }
+  },
+  "character-vault": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "Safe storage for general items. Accessible to all your characters"
+    }
+  },
+  "character-vendors": {
+    "displayProperties": {
+      "name": "Vendors",
+      "description": "Spy on your favourite task delegators and trading partners"
+    }
+  },
   "quests": {
-    "hash": "quests",
     "displayProperties": {
       "name": "Jornadas",
       "description": "Siga suas atividades, incluindo jornadas e contratos"
     }
   },
+  "quests-bounties": {
+    "displayProperties": {
+      "name": "Bounties",
+      "description": "All of the selected Guardian's bounties"
+    }
+  },
   "activity": {
-    "hash": "activity",
     "displayProperties": {
       "name": "Atividade",
       "description": "Explore e filtre seus Relatórios Pós Jogo em detalhes"
     }
   },
+  "activity-bookmarks": {
+    "displayProperties": {
+      "name": "Bookmarks",
+      "description": "Activities you've bookmarked"
+    }
+  },
+  "activity-series": {
+    "displayProperties": {
+      "name": "Series",
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+    }
+  },
   "settings": {
-    "hash": "settings",
     "displayProperties": {
       "name": "Configurações",
       "description": "Conta, tema, informações locais, visibilidade de itens, idioma e dados salvos"
     }
   },
+  "legend": {
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Life and death are liar's tools. Weave your own lie."
+    }
+  },
   "compare": {
-    "hash": "compare",
     "displayProperties": {
       "name": "Comparar",
       "description": "Enfrente outros Guardiões por vaidade"
     }
   },
   "archives": {
-    "hash": "archives",
     "displayProperties": {
       "name": "Depósito",
       "description": "Ferramentas interativas, manuais, lendas, e outros conteúdos preservados"
     }
   },
   "faq": {
-    "hash": "faq",
     "displayProperties": {
       "name": "FAQ",
       "description": "Algumas das perguntas mais feitas ao Tom"
     }
   },
+  "privacy": {
+    "displayProperties": {
+      "name": "Privacy",
+      "description": "Respecting personal boundaries"
+    }
+  },
   "credits": {
-    "hash": "credits",
     "displayProperties": {
       "name": "Créditos",
       "description": "Sobre os Guardiões que fazem isso possível"

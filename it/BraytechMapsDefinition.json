@@ -2,19 +2,19 @@
   "1": {
     "displayProperties": {
       "name": "La Confluenza Ovest",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "2": {
     "displayProperties": {
       "name": "La Confluenza Est",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "3": {
     "displayProperties": {
       "name": "La Confluenza Sud",
-      "description": "Un portale per _la Confluenza_, alimentato da enegie paracausali."
+      "description": "Un portale per **la Confluenza**, alimentato da enegie paracausali."
     }
   },
   "4": {
@@ -26,7 +26,7 @@
   "5": {
     "displayProperties": {
       "name": "Ouroborea",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "6": {
@@ -38,7 +38,7 @@
   "7": {
     "displayProperties": {
       "name": "Altare del Pegno",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "8": {
@@ -50,7 +50,7 @@
   "9": {
     "displayProperties": {
       "name": "Rovine Infrante",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "10": {
@@ -62,7 +62,7 @@
   "11": {
     "displayProperties": {
       "name": "Rocca dei Fili Affinati",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "12": {
@@ -74,7 +74,7 @@
   "13": {
     "displayProperties": {
       "name": "Abisso Agonarca",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "14": {
@@ -86,243 +86,179 @@
   "15": {
     "displayProperties": {
       "name": "Bastione Cimmerio",
-      "description": "Un portale per il _Piano Ascendente_."
+      "description": "Un portale per il **Piano Ascendente**."
     }
   },
   "16": {
     "displayProperties": {
       "name": "Incubo di Xortal, Giurato a Crota",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "17": {
     "displayProperties": {
       "name": "Incubo di Horkis, Paura di Mithrax",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "18": {
     "displayProperties": {
       "name": "Incubo di Jaxx, Artiglio di Xivu Arath",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "19": {
     "displayProperties": {
       "name": "Consiglio dei caduti",
-      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo _Incubi erranti_."
-    }
-  },
-  "24": {
-    "displayProperties": {
-      "description": "Sulla collina, con vista sulla Baia Tortuosa, vicino al luogo dove Xûr appare qualche volta."
-    }
-  },
-  "33": {
-    "displayProperties": {
-      "description": "A sinistra dell'entrata del settore perduto, scarsamente illuminato, dietro alcune casse."
-    }
-  },
-  "34": {
-    "displayProperties": {
-      "description": "Nell'angolo in alto a sinistra, sugli scogli."
-    }
-  },
-  "35": {
-    "displayProperties": {
-      "description": "Dietro la zona di atterraggio del viaggio rapido."
-    }
-  },
-  "37": {
-    "displayProperties": {
-      "description": "Nel retro della struttura danneggiata, al terzo piano, in una stanza a destra."
-    }
-  },
-  "38": {
-    "displayProperties": {
-      "description": "Attraverso la cascata."
-    }
-  },
-  "39": {
-    "displayProperties": {
-      "description": "All'interno del soffitto rialzato."
-    }
-  },
-  "40": {
-    "displayProperties": {
-      "description": "Attraverso il muro di mattoni in macerie."
-    }
-  },
-  "109": {
-    "displayProperties": {
-      "description": "Congelato in un blocco di ghiaccio. Trova un _capitano caduto_ nei pressi degli ascensori dell'_Accesso a Neo-Riis_ chiamato _Ferkis, Fragore della Salvezza_—ti lascierà ciò di cui hai bisogno."
-    }
-  },
-  "127": {
-    "displayProperties": {
-      "description": "Sotto il ghiaccio."
-    }
-  },
-  "182": {
-    "displayProperties": {
-      "description": "Dopo aver completato il settore perduto, procedi verso l'uscita e troverai il soggetto sulla via."
-    }
-  },
-  "183": {
-    "displayProperties": {
-      "description": "Richiede un Frammento di Dati del Firewall. Ottieni i prerequisiti attraverso Eris Morn."
-    }
-  },
-  "184": {
-    "displayProperties": {
-      "description": "Entrando nel Cerchio delle Ossa tramite la Guardiola, svolta a destra e procedi seguendo il cerchio attorno alla Bocca dell'Inferno. Prima di raggiungere l'incrocio successivo, girati e guarda sotto la piattaforma per trovare due occhi di giada che penetrano nella tua luce data dal Viaggiatore."
-    }
-  },
-  "215": {
-    "displayProperties": {
-      "description": "Entra nella segreta, dirigiti verso la torre più a destra e, se possibile, mantieni un po' di altitudine. Sul lato più lontano della torre più lontana, alla base, c'è un cifrario."
-    }
-  },
-  "216": {
-    "displayProperties": {
-      "description": "Completa la fase della _Necropoli_ e procedi verso la Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
-    }
-  },
-  "217": {
-    "displayProperties": {
-      "description": "Completa la fase dell'_Androne del Tormento_. Prima di proseguire attraversando le trappole verticali, sali con attenzione fino al livello più alto."
-    }
-  },
-  "218": {
-    "displayProperties": {
-      "description": "Scendi nelle _Gallerie della Disperazione_ e mantieni la destra. Entra al primo buco e seguilo fino alla fine. Vedrai una porta rossa. Stando alla porta rossa gira di 70° in senso orario. Starai fissando un masso. A destra del masso c'è il premio che cerchi."
-    }
-  },
-  "219": {
-    "displayProperties": {
-      "description": "Nel tunnel più al centro, il più vicino alla fossa di gas verde dove si trova la sfera solare. Entrando nel tunnel dal lato della fossa del gas verde, si allargherà rapidamente in una piccola stanza. Fermati, gira di 180 ° e guarda in alto."
-    }
-  },
-  "223": {
-    "displayProperties": {
-      "description": "Entra nella _Guardiola_ attraverso la _Bocca dell'Inferno_ e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
-    }
-  },
-  "225": {
-    "displayProperties": {
-      "description": "Di lato nel lato nascosto del modulo in figura."
-    }
-  },
-  "227": {
-    "displayProperties": {
-      "description": "Nelle _Gallerie della Desperazione_, su una sporgenza di scogliera adiacente alla fossa di gas verde."
-    }
-  },
-  "258": {
-    "displayProperties": {
-      "description": "Accessibile tramite l'offensiva _Sorgente_."
-    }
-  },
-  "259": {
-    "displayProperties": {
-      "description": "Richiede _Vista profonda_ per essere rivelata."
-    }
-  },
-  "260": {
-    "displayProperties": {
-      "description": "Accessibile tramite le attività _Altare della Riflessione_."
+      "description": "Sconfiggi questo Incubo per ottenere progresso nel trionfo **Incubi erranti**."
     }
   },
   "278": {
     "displayProperties": {
       "name": "Corte della Regina",
-      "description": "Un portale per la _Corte della Regina_, il Tronomondo di Mara Sov."
-    }
-  },
-  "279": {
-    "displayProperties": {
-      "description": "Una volta raggiunta la _Corte della Regina_ scala il muro a sinistra del trono."
-    }
-  },
-  "288": {
-    "displayProperties": {
-      "description": "Supera l'incrocio di accesso al settore perduto e prosegui lungo la passerella."
-    }
-  },
-  "292": {
-    "displayProperties": {
-      "description": "Sul lato scogliera, sotto il sentiero che porta al settore perduto."
-    }
-  },
-  "293": {
-    "displayProperties": {
-      "description": "Sulla passerella."
-    }
-  },
-  "301": {
-    "displayProperties": {
-      "description": "Appollaiato sulla parete centrale della _Foresta Infinita_."
-    }
-  },
-  "438": {
-    "displayProperties": {
-      "description": "Vicino al _Confluenza Vex del Reliquiario_, tra le radici di un albero morto."
+      "description": "Un portale per la **Corte della Regina**, il Tronomondo di Mara Sov."
     }
   },
   "596": {
     "displayProperties": {
       "name": "Scogliere delle Miniere di Sale",
-      "description": "Un portale per la cima delle Scogliere delle _Miniere di Sale_, alimentato da componenti improvvisati dei _Caduti_."
+      "description": "Una piattaforma di transmat connessa alla cima delle Scogliere delle **Miniere di Sale**, alimentato da componenti improvvisati dei **Caduti**."
     }
   },
-  "597": {
+  "607": {
+    "displayProperties": {
+      "name": "Terminale Esi–Complesso Irkalla",
+      "description": "Un portale a risonanza che porta al **Complesso Irkalla**."
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "Complesso Irkalla–Terminale Esi",
+      "description": "Un portale a risonanza che porta al **Terminale Esi**."
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "Tifone Imperatore: Profondità",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "Tifone Imperatore",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "Tempio dell'Iraconda",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "Tempio dell'Iraconda: Profondità",
+      "description": "Un portale a risonanza."
+    }
+  },
+  "235152581": {
+    "extended": {
+      "tip": "Mettiti sulla punta di ogni cannone di difesa e distruggi le ancore risonanti per rivelare un segreto al cannone più lontano dal punto di ingresso."
+    }
+  },
+  "379286227": {
+    "displayProperties": {
+      "description": "Vicino al **Confluenza Vex del Reliquiario**, tra le radici di un albero morto."
+    }
+  },
+  "463653643": {
+    "displayProperties": {
+      "description": "Supera l'incrocio di accesso al settore perduto e prosegui lungo la passerella."
+    }
+  },
+  "576743835": {
+    "displayProperties": {
+      "description": "A sinistra dell'entrata del settore perduto, scarsamente illuminato, dietro alcune casse."
+    }
+  },
+  "589814471": {
+    "displayProperties": {
+      "description": "Attraverso la cascata."
+    }
+  },
+  "703052847": {
+    "displayProperties": {
+      "description": "Accessibile tramite le attività **Altare della Riflessione**."
+    }
+  },
+  "823939877": {
+    "displayProperties": {
+      "description": "Dietro la zona di atterraggio del viaggio rapido."
+    }
+  },
+  "1000001001": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "598": {
+  "1000001002": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "599": {
+  "1000001003": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "600": {
+  "1000001004": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "601": {
+  "1000001005": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "602": {
+  "1000001006": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "603": {
+  "1000001007": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "604": {
+  "1000001008": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "605": {
+  "1000001009": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
     }
   },
-  "606": {
+  "1000001010": {
     "displayProperties": {
       "description": "Richiede sintonizzazione "
+    }
+  },
+  "1085712440": {
+    "displayProperties": {
+      "description": "Nel retro della struttura danneggiata, al terzo piano, in una stanza a destra."
+    }
+  },
+  "1387596458": {
+    "displayProperties": {
+      "description": "Una volta raggiunta la **Corte della Regina** scala il muro a sinistra del trono."
+    }
+  },
+  "1903309704": {
+    "displayProperties": {
+      "description": "Richiede **Vista profonda** per essere rivelata."
     }
   },
   "2000000105": {
@@ -625,21 +561,21 @@
   "2000000251": {
     "displayProperties": {
       "name": "Carnefice della Tenda Seducente",
-      "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nella Tenda Seducente per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000252": {
     "displayProperties": {
       "name": "Carnefice delle Mura della Regina",
-      "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nelle Mura della Regina per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },
   "2000000253": {
     "displayProperties": {
       "name": "Carnefice dell'Eco della Regina",
-      "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo _Cacciatore di taglie asceso_."
+      "description": "Sconfiggi il carnefice lucente presidiato nell'Eco della Regina per ottenere progresso nel trionfo **Cacciatore di taglie asceso**."
     },
     "itemTypeDisplayName": "Carnefice lucente"
   },
@@ -658,9 +594,134 @@
       "name": "Incubo di Taniks, lo Sfregiato"
     }
   },
-  "2000000259": {
+  "2442093127": {
+    "extended": {
+      "tip": "Ai piedi di..."
+    }
+  },
+  "2495538001": {
     "displayProperties": {
-      "name": "Altari del Tormento"
+      "description": "Sul lato scogliera, sotto il sentiero che porta al settore perduto."
+    }
+  },
+  "2503906440": {
+    "displayProperties": {
+      "description": "All'interno del soffitto rialzato."
+    }
+  },
+  "2779900411": {
+    "displayProperties": {
+      "description": "Dopo aver completato il settore perduto, procedi verso l'uscita e troverai il soggetto sulla via."
+    }
+  },
+  "2809244994": {
+    "displayProperties": {
+      "description": "Appollaiato sulla parete centrale della **Foresta Infinita**."
+    }
+  },
+  "2895058245": {
+    "displayProperties": {
+      "description": "Accessibile tramite l'offensiva **Sorgente**."
+    }
+  },
+  "3307732497": {
+    "displayProperties": {
+      "description": "Nell'angolo in alto a sinistra, sugli scogli."
+    }
+  },
+  "3609559330": {
+    "displayProperties": {
+      "description": "Attraverso il muro di mattoni in macerie."
+    }
+  },
+  "3644688446": {
+    "displayProperties": {
+      "description": "Sulla passerella."
+    }
+  },
+  "3658842337": {
+    "displayProperties": {
+      "description": "Sulla collina, con vista sulla Baia Tortuosa, vicino al luogo dove Xûr appare qualche volta."
+    }
+  },
+  "3728157446": {
+    "displayProperties": {
+      "description": "Richiede un **Frammento di Dati del Firewall**. Ottieni i prerequisiti attraverso Eris Morn."
+    }
+  },
+  "3880966469": {
+    "displayProperties": {
+      "description": "Congelato in un blocco di ghiaccio. Trova un **capitano caduto** nei pressi degli ascensori dell'**Accesso a Neo-Riis** chiamato **Ferkis, Fragore della Salvezza**—ti lascierà ciò di cui hai bisogno."
+    }
+  },
+  "3888342093": {
+    "displayProperties": {
+      "description": "Sotto il ghiaccio."
+    }
+  },
+  "3904017033": {
+    "extended": {
+      "tip": "Accendi i braceri."
+    }
+  },
+  "3977481189": {
+    "displayProperties": {
+      "description": "Entrando nel Cerchio delle Ossa tramite la Guardiola, svolta a destra e procedi seguendo il cerchio attorno alla Bocca dell'Inferno. Prima di raggiungere l'incrocio successivo, girati e guarda sotto la piattaforma per trovare due occhi di giada che penetrano nella tua luce data dal Viaggiatore."
+    }
+  },
+  "4006123814": {
+    "extended": {
+      "tip": "Giace al di sotto..."
+    }
+  },
+  "4069293792": {
+    "extended": {
+      "tip": "Attiva l'interfaccia. Girati per verso l'ingresso. Ci sono 8 pannelli circolari. Da sinistra a destra, dall'alto verso il basso, spara ai pannelli nel seguente ordine: 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "tip": "Questo forziere ti richiede di trascendere dalla tua realtà. Per accedervi:\n\n1. Vicino a _Fratello Vance_, troverai un libro stimolante. Esaminalo.\n2. Girarti di 180°. Dirigiti verso il muro più lontano e troverai la prossima edizione sullo scaffale. Esaminala.\n3. Vai verso la libreria a destra della portale, troverai la prossima edizione accanto al braciere in fondo alla libreria. Esaminala.\n4. Torna alla prima libreria e troverai l'edizione successiva sulla scrivania accanto al discepolo. Esaminala.\n5. L'ultimo libro è nascosto in alto su uno scaffale dalla parte opposta della stanza, vicino alla fucina. Esaminalo.\n6. Apparirà un _Confluenza Vex_. Esaminala."
+    }
+  },
+  "4111390768": {
+    "displayProperties": {
+      "description": "Entra nella segreta, dirigiti verso la torre più a destra e, se possibile, mantieni un po' di altitudine. Sul lato più lontano della torre più lontana, alla base, c'è un cifrario."
+    }
+  },
+  "4111390770": {
+    "displayProperties": {
+      "description": "Completa la fase dell'**Androne del Tormento**. Prima di proseguire attraversando le trappole verticali, sali con attenzione fino al livello più alto."
+    }
+  },
+  "4111390771": {
+    "displayProperties": {
+      "description": "Completa la fase della **Necropoli** e procedi verso la Fossa. Una volta al muro dei sentieri, arrampicati e girati. A destra della sala c'è una piccola sporgenza lungo il muro di pietra lunare. Usalo per salire al livello superiore del corridoio e procedere al lato più lontano a destra."
+    }
+  },
+  "4111390780": {
+    "displayProperties": {
+      "description": "Nel tunnel più al centro, il più vicino alla fossa di gas verde dove si trova la sfera solare. Entrando nel tunnel dal lato della fossa del gas verde, si allargherà rapidamente in una piccola stanza. Fermati, gira di 180 ° e guarda in alto."
+    }
+  },
+  "4111390781": {
+    "displayProperties": {
+      "description": "Scendi nelle **Gallerie della Disperazione** e mantieni la destra. Entra al primo buco e seguilo fino alla fine. Vedrai una porta rossa. Stando alla porta rossa gira di 70° in senso orario. Starai fissando un masso. A destra del masso c'è il premio che cerchi."
+    }
+  },
+  "4292949216": {
+    "displayProperties": {
+      "description": "Entra nella **Guardiola** attraverso la **Bocca dell'Inferno** e segui la via in una stanza circolare ben illuminata. Lungo il muro finestrato a destra c'è ciò che cerchi."
+    }
+  },
+  "4292949220": {
+    "displayProperties": {
+      "description": "Nelle **Gallerie della Desperazione**, su una sporgenza di scogliera adiacente alla fossa di gas verde."
+    }
+  },
+  "4292949222": {
+    "displayProperties": {
+      "description": "Di lato nel lato nascosto del modulo in figura."
     }
   }
 }

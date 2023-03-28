@@ -10,25 +10,16 @@
     }
   },
   "1": {
-    "hash": 1,
     "displayProperties": {
-      "name": "",
       "description": "Aucune donnée d'activité."
     },
     "originalDisplayProperties": {
-      "name": "",
       "description": "Aucune donnée d'activité."
-    },
-    "modifiers": []
+    }
   },
   "82913930": {
     "displayProperties": {
       "description": "En orbite, planifiant quelque chose de terriblement héroïque."
-    }
-  },
-  "1738383283": {
-    "originalDisplayProperties": {
-      "name": "Quête exotique: Présage"
     }
   },
   "2393304349": {

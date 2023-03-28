@@ -76,40 +76,40 @@
     },
     "itemTypeDisplayName": "Braytech翻訳者"
   },
-    "ammo-type-primary": {
-      "displayProperties": {
-        "name": "キネティック",
-        "description": "この武器には弾数制限がありません。"
-      },
-      "itemTypeDisplayName": "弾薬"
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "キネティック",
+      "description": "この武器には弾数制限がありません。"
     },
-    "ammo-type-special": {
-      "displayProperties": {
-        "name": "エネルギー",
-        "description": "この武器は特殊弾を使用します"
-      },
-      "itemTypeDisplayName": "弾薬"
+    "itemTypeDisplayName": "弾薬"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "エネルギー",
+      "description": "この武器は特殊弾を使用します"
     },
-    "ammo-type-heavy": {
-      "displayProperties": {
-        "name": "ヘビー",
-        "description": "この武器はヘビー弾を使用します"
-      },
-      "itemTypeDisplayName": "弾薬"
+    "itemTypeDisplayName": "弾薬"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "ヘビー",
+      "description": "この武器はヘビー弾を使用します"
     },
-    "stat-damage-falloff": {
-      "displayProperties": {
-        "name": "ダメージ減衰",
-        "description": "腰撃ちまたはADSにおいてダメージが減衰しはじめるおおよその距離を示します。"
-      },
-      "itemTypeDisplayName": "ステータス"
+    "itemTypeDisplayName": "弾薬"
+  },
+  "stat-damage-falloff": {
+    "displayProperties": {
+      "name": "ダメージ減衰",
+      "description": "腰撃ちまたはADSにおいてダメージが減衰しはじめるおおよその距離を示します。"
     },
-    "stat-reload-time": {
-      "displayProperties": {
-        "name": "リロード時間",
-        "description": "全弾リロードが完了し、撃てるようになるまでに掛かる時間を指します。この値は武器のリロード速度に基いており、パークの影響は考慮されていません。"
-      },
-      "itemTypeDisplayName": "ステータス"
+    "itemTypeDisplayName": "ステータス"
+  },
+  "stat-reload-time": {
+    "displayProperties": {
+      "name": "リロード時間",
+      "description": "全弾リロードが完了し、撃てるようになるまでに掛かる時間を指します。この値は武器のリロード速度に基いており、パークの影響は考慮されていません。"
+    },
+    "itemTypeDisplayName": "ステータス"
   },
   "accurate-gear-power-average": {
     "displayProperties": {
@@ -139,7 +139,7 @@
     "displayProperties": {
       "name": "スコア値",
       "description": "このレコードの残りスコア値（残り合計）"
-          }
+    }
   },
   "presentation-node-score": {
     "displayProperties": {
@@ -281,14 +281,14 @@
   },
   "progression-step-map": {
     "displayProperties": {
-      "description": "_このチャートは、頂上までの道のりを描いたものです。_"    
-    } 
+      "description": "_このチャートは、頂上までの道のりを描いたものです。_"
+    }
   },
   "sub-collections-root": {
     "displayProperties": {
       "name": "コレクション",
       "description": "ガーディアンが生涯を掛けて獲得してきたアイテム"
-    }  
+    }
   },
   "sub-collections-medals": {
     "displayProperties": {
@@ -309,10 +309,10 @@
     }
   },
   "sub-collections-metrics": {
-   "displayProperties": {
+    "displayProperties": {
       "name": "ステータストラッカー",
       "description": "ステータス値は、各エンブレムの詳細画面から適用することができます。適用されたトラッカーは、ネームプレートに表示されます。"
-   }
+    }
   },
   "sub-triumphs-active": {
     "displayProperties": {
@@ -324,8 +324,8 @@
     "displayProperties": {
       "name": "過去の勝利の道のりと印",
       "description": "過去の勝利の道のりと印を見ることができます"
- }
-},
+    }
+  },
   "sub-triumphs-transient": {
     "displayProperties": {
       "name": "期間限定の勝利の道のり",

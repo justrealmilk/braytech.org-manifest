@@ -1,0 +1,131 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "機密",
+      "description": "保持乾淨"
+    },
+    "itemTypeDisplayName": "間隙不足"
+  },
+  "1": {
+    "displayProperties": {
+      "name": "未知",
+      "description": "您要查找的項目不存在。"
+    },
+    "itemTypeDisplayName": "缺失的項目",
+    "displaySource": "我不想這麼說，但看起來您正在搜索的系統不存在。\n這是不可能的。也許檔案不完整。\n我年輕的絕地武士，檔案很全面而且絕對安全。您可以絕對確定一件事 - 如果某個項目沒有出現在我們的記錄中，那麼它就不存在！"
+  },
+  "73143230": {
+    "displayProperties": {
+      "description": "有著複雜記號的記憶水晶\n內含隨機一個巔峰傳說武器或防具"
+    },
+    "itemTypeDisplayName": "記憶水晶"
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "增加您公會的經驗"
+    },
+    "inventory": {
+      "tierTypeName": "常見"
+    }
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "增加你的守護者的惡名等級。不要告訴先鋒隊。"
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "大大增加你的守護者的經驗。"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "可以使用紡織機將合成絲線材料轉換為合成編織物"
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "極大地增加你的守護者的經驗。"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "提高守護者的英勇等級。此外，它可能會導致沙克斯勳爵變得興奮。"
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "增加你的守護者的經驗。"
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "提高「心影」的掉落率",
+      "description": "提高「二元性」地牢中「心影」異域劍的掉落率。"
+    }
+  },
+  "3224646387": {
+    "displayProperties": {
+      "name": "提高「需求層次」的掉落率",
+      "description": "提高「守望者尖塔」地牢中「需求階層」異域弓的掉落率。"
+    }
+  },
+  "2467253899": {
+    "displayProperties": {
+      "name": "提高「條件式終局」的掉落率 ",
+      "description": "提高「夢魘根源」突襲中「條件式終局」異域霰彈槍的掉落率"
+    }
+  },
+  "734180536": {
+    "displayProperties": {
+      "name": "提高「條件式終局」的掉落率",
+      "description": "提高「夢魘根源」突襲中「條件式終局」異域霰彈槍的掉落率"
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "增加你的守護者的經驗。"
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "大大增加你的守護者的經驗。"
+    }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "用於武器成型的材料，需要調整內部插頭。\n\n主要通過分解傳奇武器獲得，但也可以通過完成活動獲得獎勵。"
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "大大增加你的守護者的經驗。"
+    }
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "武器塑造所用的材料。\n\n可以通過完成傳奇武器上的深視共振目標獲得。"
+    },
+    "itemTypeDisplayName": "材料"
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "大大增加你的守護者的經驗。"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "name": "空的大師之作插槽",
+      "description": "目前未選擇任何傑作。"
+    },
+    "itemTypeDisplayName": "武器模組",
+    "inventory": {
+      "tierTypeName": "常見"
+    }
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "巔峰裝備（弱）"
+    }
+  }
+}

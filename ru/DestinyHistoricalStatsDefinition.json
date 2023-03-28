@@ -1,9 +1,21 @@
 {
+  "opponentsDefeated": {
+    "statName": "Убийств и содействий"
+  },
   "killsDeathsRatio": {
     "statName": "У/С"
   },
   "winRate": {
     "statName": "Процент побед"
+  },
+  "precisionKills": {
+    "statName": "Точных убийств"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Точность"
+  },
+  "currentEloRating": {
+    "statName": "Эло"
   },
   "supremacyCrestsSecured": {
     "statName": "Гербов подтверждено"
@@ -58,17 +70,5 @@
   },
   "largeBlockersSent": {
     "statName": "Больших защитников отправлено"
-  },
-  "precisionKills": {
-    "statName": "Точных убийств"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Точность"
-  },
-  "currentEloRating": {
-    "statName": "Эло"
-  },
-  "opponentsDefeated": {
-    "statName": "Убийств и содействий"
   }
 }

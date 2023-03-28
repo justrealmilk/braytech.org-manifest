@@ -1,4 +1,5 @@
 import BraytechCommonDefinition from '@Data/manifest/fr/BraytechCommonDefinition.json';
+import BraytechFeatureDefinition from '@Data/manifest/fr/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/fr/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/fr/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/fr/DestinyActivityDefinition.json';
@@ -13,6 +14,7 @@ import DestinyInventoryBucketDefinition from '@Data/manifest/fr/DestinyInventory
 import DestinyInventoryItemDefinition from '@Data/manifest/fr/DestinyInventoryItemDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/fr/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/fr/DestinyPhaseDefinition.json';
+import DestinyPresentationNodeDefinition from '@Data/manifest/fr/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/fr/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/fr/DestinySeasonDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/fr/DestinyStatDefinition.json';
@@ -21,6 +23,7 @@ import DestinyTraitDefinition from '@Data/manifest/fr/DestinyTraitDefinition.jso
 const fr = {
   definitions: {
     BraytechCommonDefinition,
+    BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
     DestinyActivityDefinition,
@@ -35,6 +38,7 @@ const fr = {
     DestinyInventoryItemDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
+    DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinyStatDefinition,
