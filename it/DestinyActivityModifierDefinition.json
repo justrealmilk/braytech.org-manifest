@@ -43,82 +43,82 @@
   },
   "191124900": {
     "displayProperties": {
-      "description": "Durante lo scontro finale, prima di ogni fase di danno, distruggi tutti e 4 i propulsori di Taniks."
+      "description": "Prima di ogni fase di danno, distruggi **tutti e 4** i **propulsori** di Taniks."
     }
   },
   "201968501": {
     "displayProperties": {
-      "description": "Durante lo scontro della Discesa, ogni Guardiano deve ottenere ogni potenziamento una volta. Aspettate la disattivazione di un potenziamento prima degli scambi. Giocate in coppia, seguendo la rotazione del leader."
+      "description": "Durante lo scontro, **ogni Guardiano** deve ottenere **ogni potenziamento** una volta. Aspettate la disattivazione di un potenziamento prima degli scambi. Giocate in coppia, seguendo la rotazione del leader."
     }
   },
   "274420331": {
     "displayProperties": {
-      "description": "Durante lo scontro degli Oracoli, nessun Guardiano può sparare allo stesso oracolo. Ruotate le posizioni."
+      "description": "Nessun Guardiano può sparare allo stesso **Oracolo**. Ruotate le posizioni."
     }
   },
   "584466411": {
     "displayProperties": {
-      "description": "Completa lo scontro della Mente Consacrata senza sconfiggere nessun Ciclope in presenza del boss Arpia. Ciclopi che appaiono in altre aree possono essere sconfitti."
+      "description": "Completa lo scontro senza sconfiggere nessun Ciclope in presenza del boss Arpia. Ciclopi che appaiono in altre aree e durante lo sprint finale, possono essere sconfitti."
     }
   },
   "787678752": {
     "displayProperties": {
-      "description": "Nello scontro della Mente Consacrata tutti i giocatori devono rinnovare l'Illuminazione allo stesso momento. Inoltre, la squadra può essere divisa sui vari punti."
+      "description": "Tutti i giocatori devono **resettare** l'effetto **Illuminazione** circa nello stesso momento. Inoltre, la squadra può essere divisa sui vari ripetitori."
     }
   },
   "217815700": {
     "displayProperties": {
-      "description": "Scontro di Shuro Chi: i Guardiani non devono prendere danno dal Getto ad Arco di Shuro Chi."
+      "description": "I Guardiani non devono prendere danno dal **Getto ad Arco** di Shuro Chi."
     }
   },
   "1741733430": {
     "displayProperties": {
-      "description": "Scontro della Camera Blindata: i cavalieri devono essere sconfitti nelle stanze in cui appaiono."
+      "description": "I **Cavalieri** devono essere sconfitti nelle stanze in cui appaiono e non gli è permesso di entrare nell'area principale."
     }
   },
   "1572570117": {
     "displayProperties": {
-      "description": "Durante lo scontro di Atheon, ogni Guardiano può distruggere solo un Oracolo per round. Pertanto, anche il portatore dell'Egida dovrà partecipare."
+      "description": "Durante lo scontro di Atheon, ogni **Guardiano** può distruggere solo un Oracolo per round. Pertanto, anche il portatore dell'Egida dovrà partecipare."
     }
   },
   "2098788044": {
     "displayProperties": {
-      "description": "Durante lo scontro del Dominio, il cristallo principale può essere distrutto solo una volta per fase dei glifi."
+      "description": "Durante lo scontro del Dominio, il **cristallo principale** può essere distrutto solo una volta per fase dei glifi."
     }
   },
   "2255984700": {
     "displayProperties": {
-      "description": "Durante lo scontro dell'Esibizione, ogni Guardiano può sconfiggere solo una Clessidra del Discepolo. Scegline una da saltare."
+      "description": "Durante lo scontro dell'Esibizione, ogni Guardiano può sconfiggere solo una **Clessidra del Discepolo**. Scegline una da saltare."
     }
   },
   "2626004713": {
     "displayProperties": {
-      "description": "Devi sempre depositare 10 particelle nello scontro della Mente Consacrata."
+      "description": "I Guardiani possono **solo** depositare **10 particelle** alla volta."
     }
   },
   "2672226122": {
     "displayProperties": {
-      "description": "Per tutta la durata dello scontro dell'Acquisizione, ogni ondata di [Stordimento] Campioni Inarrestabili deve essere sconfitta entro 5 secondi l'una dall'altra oppure, alternativamente, non sconfitta affatto."
+      "description": "Per tutta la durata dello scontro dell'Acquisizione, ogni ondata di **[Stordimento] Campioni Inarrestabili** deve essere sconfitta entro 5 secondi l'una dall'altra oppure, alternativamente, non sconfitta affatto."
     }
   },
   "2814846409": {
     "displayProperties": {
-      "description": "Durante lo scontro del Templare, impedisci al Templare di teletrasportarsi a ogni costo."
+      "description": "Durante lo scontro del Templare, **impedisci** al Templare di **teletrasportarsi** a ogni costo."
     }
   },
   "2834033523": {
     "displayProperties": {
-      "description": "Scontro di Kalli: purifica tutte le 9 piastre, sconfiggi tutti i 9 Cavalieri e sconfiggi tutti gli Orchi prima di danneggiare Kalli."
+      "description": "Purifica tutte le 9 piastre, sconfiggi tutti i 9 Cavalieri e sconfiggi tutti gli Orchi **prima** di danneggiare Kalli."
     }
   },
   "3135466059": {
     "displayProperties": {
-      "description": "Durante lo scontro delle Confluenze, distruggi le Viverne solo mentre si stanno sacrificando contro una confluenza."
+      "description": "Durante lo scontro delle Confluenze, distruggi le Viverne **solo mentre si stanno sacrificando** a una confluenza."
     }
   },
   "3212721586": {
     "displayProperties": {
-      "description": "Durante lo scontro dei Custodi, distruggi contemporaneamente il Minotauro Pretoriano e la Viverna."
+      "description": "Durante lo scontro dei Custodi, distruggi **contemporaneamente** il Minotauro Pretoriano e la Viverna."
     }
   },
   "3361897360": {
@@ -128,32 +128,32 @@
   },
   "3425521520": {
     "displayProperties": {
-      "description": "Durante lo scontro del Sorvegliante, ogni Guardiano può trasportare al massimo una carica di energia dei simboli per volta."
+      "description": "Durante lo scontro del Sorvegliante, ogni Guardiano può trasportare al massimo **una** carica di energia dei **simboli** **per volta**."
     }
   },
   "3632655552": {
     "displayProperties": {
-      "description": "Scontro di Morgeth: non sconfiggere gli Orchi piccini, sconfiggi solo il ragazzone."
+      "description": "Non sconfiggere gli Orchi piccini, sconfiggi **solo** il **ragazzone**."
     }
   },
   "1498263100": {
     "displayProperties": {
-      "description": "Scontro di Riven: i Guardiani non devono sparare allo stesso occhio più di una volta."
+      "description": "I Guardiani non devono sparare allo stesso occhio più di una volta."
     }
   },
   "4023623132": {
     "displayProperties": {
-      "description": "Viola la Sicurezza della Cripta passando il potenziamento Operatore a ciascun membro della squadra. Ogni Operatore deve attivare 2 pannelli ciascuno, avendo una durata totale di 3 fasi di danno."
+      "description": "Viola la Sicurezza della Cripta passando il **potenziamento Operatore** a ciascun membro della squadra. Ogni Operatore deve attivare 2 pannelli ciascuno, avendo una durata totale di 3 fasi di danno."
     }
   },
   "4073197101": {
     "displayProperties": {
-      "description": "Nello scontro della Mente Santificata deposita 30 particelle a ogni ripetitore Vex. Per ogni ripetitore Vex, tutte le 30 particelle vanno depositate entro 10 secondi dalle altre."
+      "description": "Durante lo scontro della Mente Santificata, deposita **30 particelle** a ogni ripetitore Vex. Per ogni ripetitore Vex, tutte le 30 particelle vanno depositate **entro 10 secondi** dalle altre."
     }
   },
   "3577304467": {
     "displayProperties": {
-      "description": "I Guardiani non devono avere lo stesso \"Segno\" in sequenza."
+      "description": "I Guardiani non devono avere lo stesso \"Segno\" in **sequenza**."
     }
   },
   "2159250954": {
@@ -163,7 +163,7 @@
   },
   "2890753840": {
     "displayProperties": {
-      "description": "Il Guardiano che ha lo sguardo di Golgoroth deve essere in una \"Pozza di Luce rivendicata\" quando un altro Guardiano lo ottiene."
+      "description": "Il Guardiano che ha lo **sguardo di Golgoroth** deve essere in una **Pozza di Luce rivendicata** quando un altro Guardiano lo ottiene."
     }
   },
   "2936050162": {
@@ -174,6 +174,27 @@
   "4152669757": {
     "displayProperties": {
       "description": "I Guardiani non devono sconfiggere lo stesso Cavaliere Mangialuce od Orco Mangialuce."
+    }
+  },
+  "766975360": {
+    "displayProperties": {
+      "name": "Tormento illuminato",
+      "description": "I Guardiani possono sconfiggere i **Tormentatori** solo sotto effetto del **Campo di Luce**."
+    }
+  },
+  "138641527": {
+    "displayProperties": {
+      "name": "Fuoco incrociato"
+    }
+  },
+  "2070303007": {
+    "displayProperties": {
+      "name": "Equilibrio cosmico"
+    }
+  },
+  "1616571513": {
+    "displayProperties": {
+      "name": "Per tutti"
     }
   }
 }
