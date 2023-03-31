@@ -125,6 +125,52 @@
       "description": "Un portal a la cima de los acantilados de las **Minas de Sal**, alimentado por partes recompuestas de **Los Caídos**."
     }
   },
+  "607": {
+    "displayProperties": {
+      "name": "Terminal Esi–Complejo Irkalla",
+      "description": "Una grieta alimentada por resonancia hacia **Complejo Irkalla**."
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "Complejo Irkalla–Terminal Esi",
+      "description": "Una grieta alimentada por resonancia hacia **Terminal Esi**."
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "Emperador Tifón: profundo",
+      "description": "Una grieta alimentada por resonancia."
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "Emperador Tifón",
+      "description": "Una grieta alimentada por resonancia."
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "Templo de la ira",
+      "description": "Una grieta alimentada por resonancia."
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "Templo de la ira: profundo",
+      "description": "Una grieta alimentada por resonancia."
+    }
+  },
+  "235152581": {
+    "extended": {
+      "tip": "Sitúate en la punta de cada cañón de defensa y destruye las anclas resonantes para revelar un secreto en el cañón más alejado de tu punto de entrada."
+    }
+  },
+  "379286227": {
+    "displayProperties": {
+      "description": "Cerca de la **Confluencia Vex**, entre las raíces de un árbol muerto."
+    }
+  },
   "463653643": {
     "displayProperties": {
       "description": "Pasa por el cruce de entrada del sector perdido y continúa a lo largo de la pasarela."
@@ -485,6 +531,519 @@
       "name": "Misión de reconocimiento"
     }
   },
+  "2000000053": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000054": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000055": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000056": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000057": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000058": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000059": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000060": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000061": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000062": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000063": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000064": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000065": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000066": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000067": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000068": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000069": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000070": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000071": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000072": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000073": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000074": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000075": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000076": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000077": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000078": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000079": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000080": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000081": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000082": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000083": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000084": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000085": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000086": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000087": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000088": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000089": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000090": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000091": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000092": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000093": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000094": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000095": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000096": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000097": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000098": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000099": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000100": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000101": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000102": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000103": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Recupera un escaneado tridimensional de una escultura anterior al colapso en la plaza Maevic."
+    }
+  },
+  "2000000104": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Las unidades de carroñeros Caídos siguen siendo un problema en la plaza Maevic. Elimina a su líder para resolver el problema."
+    }
+  },
+  "2000000105": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Desciende a las minas y busca cualquier tecnología de la Edad de Oro que aún funcione."
+    }
+  },
+  "2000000106": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Derrota a los Caídos en Trostlandia y recoge los diarios olvidados que sueltan."
+    }
+  },
+  "2000000107": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Los Caídos están más familiarizados con el terreno en las Afueras que la humanidad. Cambia ese equilibrio."
+    }
+  },
+  "2000000108": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Elimina a escoria en Trostlandia y recupera sus tanques de éter drenados."
+    }
+  },
+  "2000000109": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Un sirviente caído está extrayendo minerales de las paredes de la caverna. Ponle fin."
+    }
+  },
+  "2000000110": {
+    "displayProperties": {
+      "name": "Patrulla",
+      "description": "Derrota a los enemigos en las calles y edificios de esta ciudad en ruinas."
+    }
+  },
+  "2000000111": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000112": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000113": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000114": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000115": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000116": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000117": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000118": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000119": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000120": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000121": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000122": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000123": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000124": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000125": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000126": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000127": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000128": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000129": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000130": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000131": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000132": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000133": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000134": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000135": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000136": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000137": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000138": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000139": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000140": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000141": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000142": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000143": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000144": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000145": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000146": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000147": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000148": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000149": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000150": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000151": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000152": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
+  "2000000153": {
+    "displayProperties": {
+      "name": "Patrulla"
+    }
+  },
   "2000000154": {
     "displayProperties": {
       "name": "Derrota combatientes"
@@ -833,6 +1392,11 @@
       "name": "Pesadilla de Taniks, el Marcado"
     }
   },
+  "2442093127": {
+    "extended": {
+      "tip": "A los pies de..."
+    }
+  },
   "2495538001": {
     "displayProperties": {
       "description": "Al lado del acantilado, bajo el camino que lleva a un sector perdido."
@@ -888,9 +1452,34 @@
       "description": "Congelado en un bloque de hielo. Encuentra a un **Capitán caído** cerca de los elevadores del **Camino Renacimiento de Riis** llamado **Ferkis, Borrasca de la Salvación**—él soltará lo que necesitas."
     }
   },
+  "3888342093": {
+    "displayProperties": {
+      "description": "Bajo el hielo."
+    }
+  },
+  "3904017033": {
+    "extended": {
+      "tip": "Prende los fuegos."
+    }
+  },
   "3977481189": {
     "displayProperties": {
-      "description": "Entra en el Círculo de Huesos a través de La Antesala, gira a la derecha y sigue el camino alrededor de la Boca del Infierno. Antes de llegar al siguiente cruce, gira atrás y mira debajo de la plataforma para encontrar dos ojos de jade que penetran la Luz que te regaló el Viajero."
+      "description": "Entra en el **Círculo de Huesos** a través de La Antesala, gira a la derecha y sigue el camino alrededor de la Boca del Infierno. Antes de llegar al siguiente cruce, gira atrás y mira debajo de la plataforma para encontrar dos ojos de jade que penetran la Luz que te regaló el Viajero."
+    }
+  },
+  "4006123814": {
+    "extended": {
+      "tip": "Se encuentra bajo..."
+    }
+  },
+  "4069293792": {
+    "extended": {
+      "tip": "Activa la interfaz. Gírate hacia la entrada. Hay 8 paneles circulares. De izquierda a derecha, de arriba a abajo, dispara a los paneles en el siguiente orden: 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "tip": "Este cofre requiere que uno mismo trascienda su realidad. Para acceder:\n\n1. Cerca del **Hermano Vance**, encuentra un libro convincente. Examínalo.\n2. Gira 180°. Dirígete a la pared más lejana y encuentra el siguiente ejemplar en la estantería. Examínalo.\n3. Desplázate hasta la estantería que hay a la derecha del portal y encuentra el siguiente ejemplar junto a la hoguera que hay al fondo de la estantería. Examínala.\n4. Vuelve a la primera estantería y encuentra el siguiente ejemplar en el escritorio junto al discípulo. Examínalo.\n5. El último libro está escondido en lo alto de una estantería al otro lado de la habitación, junto a la forja. Examínalo.\n6. Aparecerá una **confluencia Vex**. Examínala."
     }
   },
   "4111390768": {

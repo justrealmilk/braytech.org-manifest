@@ -2,31 +2,31 @@
   "1126840038": {
     "displayProperties": {
       "name": "Kalli, la Corrupta",
-      "description": "Kalli es una técnida insomne que sirvió a la Reina Mara Sov antes de ser poseída por Oryx y transformada en Kalli, la Corrupta."
+      "description": "Kalli es una técnida insomne que sirvió a la Reina Mara Sov, fue poseída por Oryx y transformada en Kalli, la Corrupta. Libérala."
     }
   },
   "1040714588": {
     "displayProperties": {
       "name": "Shuro Chi, la Corrupta",
-      "description": "Shuro Chi es una técnida insomne que sirvió a la Reina Mara Sov antes de ser poseída por Oryx y transformada en Shuro Chi, la Corrupta."
+      "description": "Shuro Chi es una técnida insomne que sirvió a la Reina Mara Sov, fue poseída por Oryx y transformada en Shuro Chi, la Corrupta. Libérala."
     }
   },
   "4249034918": {
     "displayProperties": {
       "name": "Morgeth, el guardián de la espira",
-      "description": "Morgeth, el guardián de la espira, es un ogro poseído enorme y poderoso que sirve como garante de la corrupción de Riven en la Ciudad Onírica, y como guardián de la torre principal de la Ciudad, la Fortaleza de las voces."
+      "description": "Morgeth, el guardián de la espira, un ogro poseído enorme y poderoso, sirve como garante de la corrupción de Riven en la Ciudad Onírica, y como guardián de la torre principal de la Ciudad, la Fortaleza de las voces. Destrúyelo."
     }
   },
   "436847112": {
     "displayProperties": {
       "name": "Depósito",
-      "description": "Un mecanismo de cierre que asegura algo peligrosamente potente."
+      "description": "Un mecanismo de cierre que retiene aquello inmensamente poderoso y traicionero."
     }
   },
   "2392610624": {
     "displayProperties": {
       "name": "Riven de las mil voces",
-      "description": "Riven, la última Ahamkara conocida, antes al servicio de Mara Sov, fue tomada por Oryx. Ahora corrompe la ciudad desde su corazón bajo las órdenes de Savathûn."
+      "description": "Riven, la última Ahamkara conocida, antes al servicio de Mara Sov, fue poseída por Oryx. Ahora corrompe la ciudad desde su corazón bajo las órdenes de la Reina Bruja, Savathûn."
     }
   },
   "2776463390": {
@@ -159,6 +159,30 @@
     "displayProperties": {
       "name": "Oryx",
       "description": "Destrona al rey."
+    }
+  },
+  "3172054256": {
+    "displayProperties": {
+      "name": "Cataclismo",
+      "description": "Derrota a las fuerzas de la Legión de las Sombras y persigue a Nezarec."
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "Escisión",
+      "description": "Entra en la Raíz."
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "Macrocosmos",
+      "description": "Alinea mundos y derrota al Explicador."
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "Nezarec",
+      "description": "Pon fin a la pesadilla y derrota a Nezarec."
     }
   }
 }
