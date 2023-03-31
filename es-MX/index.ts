@@ -3,6 +3,7 @@ import BraytechActivityDefinition from '@Data/manifest/es-MX/BraytechActivityDef
 import BraytechActivityDifficultyDefinition from '@Data/manifest/es-MX/BraytechActivityDifficultyDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/es-MX/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/es-MX/BraytechMapsTypesDefinition.json';
+import BraytechRotationDefinition from '@Data/manifest/es-MX/BraytechRotationDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/es-MX/BraytechFeatureDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/es-MX/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/es-MX/DestinyActivityModeDefinition.json';
@@ -31,6 +32,7 @@ const esMX = {
     BraytechActivityDifficultyDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
+    BraytechRotationDefinition,
     BraytechFeatureDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
