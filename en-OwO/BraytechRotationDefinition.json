@@ -1,0 +1,218 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "Savathûn's Cuwse"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Ascendant Chawwenge"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "displayProperties": {
+          "name": "Ouwobowea"
+        },
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "displayProperties": {
+          "name": "Fowfeit Shwine"
+        },
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "displayProperties": {
+          "name": "Shattewed Wuins"
+        },
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "displayProperties": {
+          "name": "Agonawch Abyss"
+        },
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "displayProperties": {
+          "name": "Cimmewian Gawwison"
+        },
+        "records": []
+      }
+    ]
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Awtaws of Sowwow"
+    },
+    "rotation": [
+      {
+        "collectibles": [
+          935628460
+        ],
+        "records": []
+      },
+      {
+        "collectibles": [
+          651531704
+        ],
+        "records": []
+      },
+      {
+        "collectibles": [
+          3844835635
+        ],
+        "records": []
+      }
+    ]
+  },
+  "4": {
+    "displayProperties": {
+      "name": "*bwushes* Wandewing Nightmawes"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Ecwipsed Zone"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Da Wewwspwing"
+    },
+    "rotation": [
+      {
+        "collectibles": [
+          1554180090
+        ],
+        "records": []
+      },
+      {
+        "collectibles": [
+          77011569
+        ],
+        "records": []
+      },
+      {
+        "collectibles": [
+          1458222686
+        ],
+        "records": []
+      },
+      {
+        "collectibles": [
+          2040522335
+        ],
+        "records": []
+      }
+    ]
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Wucent Executionews"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Vex Incuwsion Zone"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Tewminaw Ovewwoad"
+    },
+    "rotation": [
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  }
+}

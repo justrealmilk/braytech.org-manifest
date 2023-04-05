@@ -1,27 +1,13 @@
 {
   "0": {
     "displayProperties": {
-      "name": "Cwassified",
-      "description": "Keep it cwean."
+      "description": "Keep it cwean.",
+      "name": "Cwassified"
     },
+    "modifiers": [],
     "originalDisplayProperties": {
-      "name": "Cwassified",
-      "description": "Keep it cwean."
-    }
-  },
-  "82913930": {
-    "displayProperties": {
-      "description": "In owbit, pwanning something tewwibwy hewoic."
-    }
-  },
-  "2393304349": {
-    "displayProperties": {
-      "name": "Iwon Bannew: Wift"
-    }
-  },
-  "2965669871": {
-    "displayProperties": {
-      "name": "Fweewance: Iwon Bannew: Wift"
+      "description": "Keep it cwean.",
+      "name": "Cwassified"
     }
   },
   "1214397515": {
@@ -29,9 +15,14 @@
       "name": "Iwon Bannew: Ewuption"
     }
   },
-  "3700942889": {
+  "1698629738": {
     "displayProperties": {
-      "name": "Fweewance: Iwon Bannew: Ewuption"
+      "name": "Fweewance: Iwon Bannew: Fowtwess"
+    }
+  },
+  "2393304349": {
+    "displayProperties": {
+      "name": "Iwon Bannew: Wift"
     }
   },
   "2888503916": {
@@ -39,9 +30,19 @@
       "name": "Iwon Bannew: Fowtwess"
     }
   },
-  "1698629738": {
+  "2965669871": {
     "displayProperties": {
-      "name": "Fweewance: Iwon Bannew: Fowtwess"
+      "name": "Fweewance: Iwon Bannew: Wift"
+    }
+  },
+  "3700942889": {
+    "displayProperties": {
+      "name": "Fweewance: Iwon Bannew: Ewuption"
+    }
+  },
+  "82913930": {
+    "displayProperties": {
+      "description": "In owbit, pwanning something tewwibwy hewoic."
     }
   }
 }

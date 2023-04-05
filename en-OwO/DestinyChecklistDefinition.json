@@ -1,30 +1,11 @@
 {
-  "363696145": {
-    "displayProperties": {
-      "name": "Wowe Book: Wuna's Wost"
-    },
-    "entry": {
-      "name": "Ghost Fwagment"
-    },
-    "progressDescription": "Ghost fwagments wecovewed"
-  },
-  "817948795": {
-    "displayProperties": {
-      "name": "*boops uuw nose* Penguin Souveniws"
-    },
-    "entry": {
-      "prefix": "Souveniw",
-      "name": "*wuns away* Penguin Souveniw"
-    },
-    "progressDescription": "Souveniws cowwected"
-  },
   "1000001000": {
     "displayProperties": {
       "name": "Stasis-Seawed Chests"
     },
     "entry": {
-      "prefix": "Awtifact",
-      "name": "Stasis-Seawed Chest"
+      "name": "Stasis-Seawed Chest",
+      "prefix": "Awtifact"
     }
   },
   "1000002000": {
@@ -51,13 +32,22 @@
       "name": "Wegion Chest"
     }
   },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Action Figuwes"
+    },
+    "entry": {
+      "name": "Action Figuwe"
+    },
+    "progressDescription": "Toys cowwected"
+  },
   "1885088224": {
     "displayProperties": {
       "name": "Entwopic Shawds"
     },
     "entry": {
-      "prefix": "Shawd",
-      "name": "Entwopic Shawd"
+      "name": "Entwopic Shawd",
+      "prefix": "Shawd"
     },
     "progressDescription": "Owdew westowed"
   },
@@ -93,8 +83,8 @@
       "name": "Dawkness Wifts"
     },
     "entry": {
-      "prefix": "Wift",
-      "name": "Dawkness Wift"
+      "name": "Dawkness Wift",
+      "prefix": "Wift"
     },
     "progressDescription": "Wifts seawed"
   },
@@ -116,6 +106,15 @@
     },
     "progressDescription": "Moths cowwected"
   },
+  "363696145": {
+    "displayProperties": {
+      "name": "Wowe Book: Wuna's Wost"
+    },
+    "entry": {
+      "name": "Ghost Fwagment"
+    },
+    "progressDescription": "Ghost fwagments wecovewed"
+  },
   "4108857026": {
     "displayProperties": {
       "name": "Wowe Book: Inquisition of da Damned"
@@ -124,5 +123,21 @@
       "name": "Necwotic Cyphew"
     },
     "progressDescription": "Necwotic cyphews cowwected"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Apogee Wepeatew"
+    },
+    "progressDescription": "Wepeatews dismantwed"
+  },
+  "817948795": {
+    "displayProperties": {
+      "name": "*boops uuw nose* Penguin Souveniws"
+    },
+    "entry": {
+      "name": "*wuns away* Penguin Souveniw",
+      "prefix": "Souveniw"
+    },
+    "progressDescription": "Souveniws cowwected"
   }
 }
