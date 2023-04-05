@@ -117,8 +117,8 @@
     "statDescription": "Stop an opponent's Supew with uuw Supew."
   },
   "activitiesCleared": {
-    "statDescription": "Totaw activities cweawed successfuwwy. Hopefuwwy, Guawdian, this vawue is gweatew than hawf of activities entewed! OwO",
-    "statName": "Cweawed"
+    "statName": "Cweawed",
+    "statDescription": "Totaw activities cweawed successfuwwy. Hopefuwwy, Guawdian, this vawue is gweatew than hawf of activities entewed! OwO"
   },
   "activitiesEntered": {
     "statName": "Entewed"
@@ -130,12 +130,12 @@
     "statName": "Bwockew Kiwws"
   },
   "currentCompetitiveRating": {
-    "statDescription": "Pwayew's cuwwent Competitive Division wating.",
-    "statName": "Cuwwent Competitive Wating"
+    "statName": "Cuwwent Competitive Wating",
+    "statDescription": "Pwayew's cuwwent Competitive Division wating."
   },
   "currentEloRating": {
-    "statDescription": "Pwayew's cuwwent Ewo wating.\n\nEwo watings fwom a thiwd-pawty web site, _Destiny Twackew_. _Destiny Twackew_ pwovides Ewo watings fow aww Destiny pwayews who pawticipate in _Cwucibwe_ and _Gambit_ activities.",
-    "statName": "Cuwwent Ewo Wating"
+    "statName": "Cuwwent Ewo Wating",
+    "statDescription": "Pwayew's cuwwent Ewo wating.\n\nEwo watings fwom a thiwd-pawty web site, _Destiny Twackew_. _Destiny Twackew_ pwovides Ewo watings fow aww Destiny pwayews who pawticipate in _Cwucibwe_ and _Gambit_ activities."
   },
   "flawless": {
     "statName": "Fwawwess"

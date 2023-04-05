@@ -4,8 +4,8 @@
       "name": "Stasis-Seawed Chests"
     },
     "entry": {
-      "name": "Stasis-Seawed Chest",
-      "prefix": "Awtifact"
+      "prefix": "Awtifact",
+      "name": "Stasis-Seawed Chest"
     }
   },
   "1000002000": {
@@ -46,8 +46,8 @@
       "name": "Entwopic Shawds"
     },
     "entry": {
-      "name": "Entwopic Shawd",
-      "prefix": "Shawd"
+      "prefix": "Shawd",
+      "name": "Entwopic Shawd"
     },
     "progressDescription": "Owdew westowed"
   },
@@ -83,8 +83,8 @@
       "name": "Dawkness Wifts"
     },
     "entry": {
-      "name": "Dawkness Wift",
-      "prefix": "Wift"
+      "prefix": "Wift",
+      "name": "Dawkness Wift"
     },
     "progressDescription": "Wifts seawed"
   },
@@ -135,8 +135,8 @@
       "name": "*boops uuw nose* Penguin Souveniws"
     },
     "entry": {
-      "name": "*wuns away* Penguin Souveniw",
-      "prefix": "Souveniw"
+      "prefix": "Souveniw",
+      "name": "*wuns away* Penguin Souveniw"
     },
     "progressDescription": "Souveniws cowwected"
   }

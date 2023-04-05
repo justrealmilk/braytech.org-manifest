@@ -1,8 +1,8 @@
 {
   "0": {
     "displayProperties": {
-      "description": "Keep it cwean.",
-      "name": "Cwassified"
+      "name": "Cwassified",
+      "description": "Keep it cwean."
     },
     "itemTypeDisplayName": "Insufficient Cweawance"
   },
@@ -20,10 +20,7 @@
   "1711513650": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience enowmouswy."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "1808687944": {
     "displayProperties": {
@@ -33,49 +30,34 @@
   "1858002338": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "1950177353": {
     "displayProperties": {
-      "description": "Incweases da dwop wate of da \"Heawtshadow\" exotic swowd fwom da \"Duawity\" dungeon.",
-      "name": "Incweased \"Heawtshadow\" dwop wate"
+      "name": "Incweased \"Heawtshadow\" dwop wate",
+      "description": "Incweases da dwop wate of da \"Heawtshadow\" exotic swowd fwom da \"Duawity\" dungeon."
     }
   },
   "2174060729": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "2250176030": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience gweatwy."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "23239861010": {
     "displayProperties": {
-      "description": "No mastewwowk cuwwentwy sewected.",
-      "name": "Empty Mastewwowk Socket"
-    },
-    "itemCategoryHashes": [
-      59,
-      945330047,
-      610365472
-    ],
-    "perks": []
+      "name": "Empty Mastewwowk Socket",
+      "description": "No mastewwowk cuwwentwy sewected."
+    }
   },
   "2467253899": {
     "displayProperties": {
-      "description": "Incweases da dwop wate of da \"Conditionaw Finawity\" exotic shotgun fwom da \"Woot of Nightmawes\" waid.",
-      "name": "Incweased \"Conditionaw Finawity\" dwop wate"
+      "name": "Incweased \"Conditionaw Finawity\" dwop wate",
+      "description": "Incweases da dwop wate of da \"Conditionaw Finawity\" exotic shotgun fwom da \"Woot of Nightmawes\" waid."
     }
   },
   "2497395625": {
@@ -86,24 +68,18 @@
   "304443327": {
     "displayProperties": {
       "description": "Incweases uuw cwan's expewience"
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "3224646387": {
     "displayProperties": {
-      "description": "Incweases da dwop wate of da \"Hiewawchy of Needs\" exotic bow fwom da \"Spiwe of da Watchew\" dungeon.",
-      "name": "Incweased \"Hiewawchy of Needs\" dwop wate"
+      "name": "Incweased \"Hiewawchy of Needs\" dwop wate",
+      "description": "Incweases da dwop wate of da \"Hiewawchy of Needs\" exotic bow fwom da \"Spiwe of da Watchew\" dungeon."
     }
   },
   "3348653032": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience substantiawwy."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "3491404510": {
     "displayProperties": {
@@ -114,10 +90,7 @@
   "3582080006": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience gweatwy."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "372496383": {
     "displayProperties": {
@@ -127,10 +100,7 @@
   "691393048": {
     "displayProperties": {
       "description": "Incweases uuw Guawdian's expewience substantiawwy."
-    },
-    "traitIds": [
-      "item_type.experience"
-    ]
+    }
   },
   "73143230": {
     "displayProperties": {
@@ -145,8 +115,8 @@
   },
   "734180536": {
     "displayProperties": {
-      "description": "Incweases da dwop wate of da \"Conditionaw Finawity\" exotic shotgun fwom da \"Woot of Nightmawes\" waid.",
-      "name": "Incweased \"Conditionaw Finawity\" dwop wate"
+      "name": "Incweased \"Conditionaw Finawity\" dwop wate",
+      "description": "Incweases da dwop wate of da \"Conditionaw Finawity\" exotic shotgun fwom da \"Woot of Nightmawes\" waid."
     }
   }
 }
