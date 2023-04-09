@@ -198,20 +198,27 @@
     "to": "/commendations",
     "keywords": ["commendations", "guardian rank"]
   },
-  "checklists": {
-    "hash": "checklists",
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "Ghost scans and item checklists spanning the Sol system"
-    },
-    "to": "/checklists",
-    "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"]
-  },
   "maps": {
     "hash": "maps",
     "displayProperties": {
       "name": "Maps",
       "description": "Interactive maps charting checklists and other notable destinations"
+    },
+    "to": "/maps",
+    "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"],
+    "children": {
+      "views": [
+        {
+          "viewHash": "checklists"
+        }
+      ]
+    }
+  },
+  "checklists": {
+    "hash": "checklists",
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
     },
     "to": "/maps",
     "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"]
@@ -387,6 +394,9 @@
     "children": {
       "views": [
         {
+          "viewHash": "activity-carnage"
+        },
+        {
           "viewHash": "activity-bookmarks"
         },
         {
@@ -455,6 +465,9 @@
     "to": "/settings",
     "children": {
       "views": [
+        {
+          "viewHash": "settings-common"
+        },
         {
           "viewHash": "settings-advanced"
         },
