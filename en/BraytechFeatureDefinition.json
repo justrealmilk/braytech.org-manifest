@@ -31,35 +31,40 @@
     "displayProperties": {
       "name": "Clan",
       "description": "About your clan and what it stands for"
-    }
+    },
+    "to": "/clan"
   },
   "clan-roster": {
     "hash": "clan-roster",
     "displayProperties": {
       "name": "Roster",
       "description": "Find friends to play with"
-    }
+    },
+    "to": "/clan/roster"
   },
   "clan-roster-admin": {
     "hash": "clan-roster-admin",
     "displayProperties": {
       "name": "Administration",
       "description": "Take action on clan matters and members"
-    }
+    },
+    "to": "/clan/admin"
   },
   "clan-stats": {
     "hash": "clan-stats",
     "displayProperties": {
       "name": "Historical Stats",
       "description": "Compare _Historical Stats_ for several activity modes across all clan members"
-    }
+    },
+    "to": "/clan/stats"
   },
   "clan-relationships": {
     "hash": "clan-relationships",
     "displayProperties": {
       "name": "Relationships",
       "description": "See which clan members you dedicate your time to most"
-    }
+    },
+    "to": "/clan/relationships"
   },
   "collections": {
     "hash": "collections",
@@ -91,28 +96,32 @@
     "displayProperties": {
       "name": "Lore",
       "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
-    }
+    },
+    "to": "/collections/lore"
   },
   "collections-patterns-catalysts": {
     "hash": "collections-patterns-catalysts",
     "displayProperties": {
       "name": "Patterns & Catalysts",
       "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
-    }
+    },
+    "to": "/collections"
   },
   "collections-medals": {
     "hash": "collections-medals",
     "displayProperties": {
       "name": "Medals",
       "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
-    }
+    },
+    "to": "/collections"
   },
   "collections-metrics": {
     "hash": "collections-metrics",
     "displayProperties": {
       "name": "Stat Trackers",
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
-    }
+    },
+    "to": "/collections"
   },
   "triumphs": {
     "hash": "triumphs",
@@ -144,28 +153,32 @@
     "displayProperties": {
       "name": "Active Triumphs and Seals",
       "description": "View all active Triumphs and Seals"
-    }
+    },
+    "to": "/triumphs"
   },
   "triumphs-legacy": {
     "hash": "triumphs-legacy",
     "displayProperties": {
       "name": "Legacy Triumphs and Seals",
       "description": "View a collection of legacy Triumphs and Seals"
-    }
+    },
+    "to": "/triumphs/legacy"
   },
   "triumphs-transient": {
     "hash": "triumphs-transient",
     "displayProperties": {
       "name": "Transient Triumphs",
       "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
-    }
+    },
+    "to": "/triumphs"
   },
   "triumphs-event-card": {
     "hash": "triumphs-event-card",
     "displayProperties": {
       "name": "Active Event Card",
       "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
-    }
+    },
+    "to": "/triumphs"
   },
   "journey": {
     "hash": "journey",
@@ -233,7 +246,8 @@
     "displayProperties": {
       "name": "This Week",
       "description": "This week in Destiny"
-    }
+    },
+    "to": "/weeklies"
   },
   "weeklies-challenges": {
     "hash": "weeklies-challenges",
@@ -292,7 +306,8 @@
     "displayProperties": {
       "name": "Equipment",
       "description": "Evaluate your Guardian's battle readiness"
-    }
+    },
+    "to": "/character"
   },
   "character-postmaster": {
     "hash": "character-postmaster",
@@ -308,7 +323,8 @@
     "displayProperties": {
       "name": "Consumables",
       "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
-    }
+    },
+    "to": "/character/consumables"
   },
   "character-vault": {
     "hash": "character-vault",
@@ -333,7 +349,8 @@
     "displayProperties": {
       "name": "Loadouts",
       "description": "Preconfigure your equipment, strap it up, and name it"
-    }
+    },
+    "to": "/character/loadouts"
   },
   "quests": {
     "hash": "quests",
@@ -386,7 +403,8 @@
     "displayProperties": {
       "name": "Carnage",
       "description": "All of the selected Guardian's recent activities."
-    }
+    },
+    "to": "/activity"
   },
   "activity-bookmarks": {
     "hash": "activity-bookmarks",
@@ -402,7 +420,8 @@
     "displayProperties": {
       "name": "Graphs",
       "description": "Activities plotted against graphs, for the statistically inclined."
-    }
+    },
+    "to": "/activity/graphs"
   },
   "activity-series": {
     "hash": "activity-series",
@@ -450,21 +469,24 @@
     "displayProperties": {
       "name": "Common",
       "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
-    }
+    },
+    "to": "/settings"
   },
   "settings-advanced": {
     "hash": "settings-advanced",
     "displayProperties": {
       "name": "Advanced",
       "description": "Performance, debugging, and storage management. No one has fun here."
-    }
+    },
+    "to": "/settings/advanced"
   },
   "settings-push-notifications": {
     "hash": "settings-push-notifications",
     "displayProperties": {
       "name": "Push Notifications",
       "description": "Control how Braytech reaches you when you're not using it."
-    }
+    },
+    "to": "/settings/push-notifications"
   },
   "legend": {
     "hash": "legend",
