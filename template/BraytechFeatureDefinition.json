@@ -129,10 +129,10 @@
       "guardian rank"
     ]
   },
-  "checklists": {
+  "maps": {
     "displayProperties": {
-      "name": "Checklists",
-      "description": "Ghost scans and item checklists spanning the Sol system"
+      "name": "Maps",
+      "description": "Interactive maps charting checklists and other notable destinations"
     },
     "keywords": [
       "eggs",
@@ -141,10 +141,10 @@
       "lost sectors"
     ]
   },
-  "maps": {
+  "checklists": {
     "displayProperties": {
-      "name": "Maps",
-      "description": "Interactive maps charting checklists and other notable destinations"
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
     },
     "keywords": [
       "eggs",
