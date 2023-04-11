@@ -19,13 +19,13 @@
   },
   "journey": {
     "displayProperties": {
-      "name": "Journey",
-      "description": "Navigate your Guardian's journey from New Light to Paragon"
+      "name": "旅程",
+      "description": "你的守护者从《新曙光》到现在的旅程"
     }
   },
   "commendations": {
     "displayProperties": {
-      "name": "Commendations",
+      "name": "嘉奖",
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
@@ -37,7 +37,7 @@
   },
   "checklists": {
     "displayProperties": {
-      "name": "Checklists",
+      "name": "清单",
       "description": "所有目的地的机灵扫描和物品清单"
     }
   },
@@ -49,20 +49,20 @@
   },
   "weeklies-challenges": {
     "displayProperties": {
-      "name": "Challenges",
-      "description": "All activity challenges"
+      "name": "挑战",
+      "description": "所有活动的挑战项目"
     }
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+      "name": "赛季挑战",
+      "description": "完成这些限时挑战来获得赛季经验、光尘和其他奖励"
     }
   },
   "weeklies-rotations": {
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Scry the orbits of various activities"
+      "name": "每周轮换",
+      "description": "查看每周轮换的相关信息"
     }
   },
   "character": {
@@ -73,20 +73,20 @@
   },
   "character-postmaster": {
     "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+      "name": "邮政长",
+      "description": "邮政长机器人尽责尽职的保管着你的礼物物品、邮件和遗失物品"
     }
   },
   "character-vault": {
     "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
+      "name": "保险库",
+      "description": "用于安全储存物品的仓库，你的所有角色都可以进行存取"
     }
   },
   "character-vendors": {
     "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
+      "name": "商人",
+      "description": "查看你喜爱的任务发放者和交易伙伴现在都有些什么"
     }
   },
   "quests": {
@@ -97,8 +97,8 @@
   },
   "quests-bounties": {
     "displayProperties": {
-      "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
+      "name": "赏金",
+      "description": "查看当前选定的角色所接受的赏金"
     }
   },
   "activity": {
@@ -109,13 +109,13 @@
   },
   "activity-bookmarks": {
     "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
+      "name": "活动收藏",
+      "description": "查看你所添加书签的活动"
     }
   },
   "activity-series": {
     "displayProperties": {
-      "name": "Series",
+      "name": "系列活动",
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
     }
   },
@@ -127,8 +127,8 @@
   },
   "legend": {
     "displayProperties": {
-      "name": "Legend",
-      "description": "Life and death are liar's tools. Weave your own lie."
+      "name": "旅途总览",
+      "description": "在这里查看你的守护者的旅途起始、等级、物品收集相关数据"
     }
   },
   "archives": {
@@ -145,8 +145,8 @@
   },
   "privacy": {
     "displayProperties": {
-      "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "name": "隐私设置",
+      "description": "每个人的隐私界线都应得到尊重"
     }
   },
   "credits": {
