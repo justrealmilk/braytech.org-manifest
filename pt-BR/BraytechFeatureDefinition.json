@@ -29,16 +29,16 @@
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar"
-    }
-  },
   "maps": {
     "displayProperties": {
       "name": "Mapas",
       "description": "Mapa interativo mostrando checklists e outros destinos notáveis"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar"
     }
   },
   "weeklies": {
@@ -129,12 +129,6 @@
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Comparar",
-      "description": "Enfrente outros Guardiões por vaidade"
     }
   },
   "archives": {

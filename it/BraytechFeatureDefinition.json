@@ -5,6 +5,36 @@
       "description": "Informazioni sul tuo clan, statistiche storiche dei membri e modalità amministratore"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Informazioni sul tuo clan e su cosa rappresenta"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "Membri",
+      "description": "Trova amici con cui giocare"
+    }
+  },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "Amministrazione",
+      "description": "Prendi atto su questioni e membri del clan"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "Statistiche storiche",
+      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan"
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "Relazioni",
+      "description": "Scopri a quali membri del clan dedichi maggiormente il tuo tempo"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "Collezioni",
@@ -19,6 +49,30 @@
       "leggende"
     ]
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "Leggende",
+      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "Modelli e catalizzatori",
+      "description": "I modelli consentono la creazione di armi. I catalizzatori espandono il potere delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il massimo potenziale del tuo arsenale"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "Medaglie",
+      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "Contatori statistiche",
+      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Trionfi",
@@ -30,6 +84,30 @@
       "in scadenza",
       "sigilli"
     ]
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Trionfi e sigilli attivi",
+      "description": "Vedi tutti i trionfi e sigilli attivi"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Trionfi e sigilli storici",
+      "description": "Vedi una collezione di trionfi e sigilli storici"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Trionfi transitori",
+      "description": "Non tutti i trionfi sono immortali–completa questi trionfi di fretta o saranno persi nel tempo per sempre."
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "Carta evento attiva",
+      "description": "Completa le sfide a tempo limitato della carta evento per guadagnare varie ricompense e progredire nel completamento del sigillo dell'evento."
+    }
   },
   "journey": {
     "displayProperties": {
@@ -51,10 +129,10 @@
       "gradi dei guardiani"
     ]
   },
-  "checklists": {
+  "maps": {
     "displayProperties": {
-      "name": "Collezionabili",
-      "description": "Scansioni e lista dei collezionabili sparsi per il sistema Sol"
+      "name": "Mappe",
+      "description": "Mappe interattive con collezionabili e altre destinazioni importanti"
     },
     "keywords": [
       "uova",
@@ -63,10 +141,10 @@
       "settori perduti"
     ]
   },
-  "maps": {
+  "checklists": {
     "displayProperties": {
-      "name": "Mappe",
-      "description": "Mappe interattive con collezionabili e altre destinazioni importanti"
+      "name": "Collezionabili",
+      "description": "Scansioni e lista dei collezionabili sparsi per il sistema Sol"
     },
     "keywords": [
       "uova",
@@ -86,6 +164,12 @@
       "moduli"
     ]
   },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "Questa settimana",
+      "description": "Questa settimana in Destiny"
+    }
+  },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "Sfide",
@@ -101,7 +185,7 @@
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "Sfide stagionali",
-      "description": "Completa le sfide a tempo limitato per il grado stagionale, polvere luminosa e altre ricompense"
+      "description": "Completa le sfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
     },
     "keywords": [
       "sfide stagionali"
@@ -135,6 +219,12 @@
       "statistiche"
     ]
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "Equipaggiamento",
+      "description": "Valuta la prontezza in battaglia del tuo Guardiano"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Amministratrice",
@@ -143,6 +233,12 @@
     "keywords": [
       "amministratrice"
     ]
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "Consumabili",
+      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento"
+    }
   },
   "character-vault": {
     "displayProperties": {
@@ -163,6 +259,12 @@
       "calendario polvere luminosa",
       "calendario everversum"
     ]
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "Dotazioni",
+      "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnagli un nome"
+    }
   },
   "quests": {
     "displayProperties": {
@@ -199,6 +301,12 @@
       "gradi"
     ]
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Carneficina",
+      "description": "Tutte le attività recenti del Guardiano selezionato."
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Preferiti",
@@ -216,6 +324,12 @@
       "competitiva",
       "partite"
     ]
+  },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "Grafici",
+      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche."
+    }
   },
   "activity-series": {
     "displayProperties": {
@@ -238,22 +352,46 @@
       "partite"
     ]
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "Attributi",
+      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "Storie",
+      "description": "Leggi la storia di questo oggetto"
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "Impostazioni",
       "description": "Account, tema, dati locali, visibilità, lingua, sviluppatore e risoluzione problemi"
     }
   },
+  "settings-common": {
+    "displayProperties": {
+      "name": "Comuni",
+      "description": "Profilo di Destiny, sincronizzazione delle impostazioni, lingua, visibilità degli oggetti, tema e altro ancora—queste impostazioni influenzano il modo in cui ti fruisci di Braytech."
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "Avanzate",
+      "description": "Prestazioni, debug e gestione dello spazio di archiviazione. Qui non ci si diverte."
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "Notifiche push",
+      "description": "Controlla come Braytech ti raggiunge quando non lo stai usando."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Leggenda",
       "description": "La vita e la morte sono gli strumenti dei bugiardi. Tessi la tua propria bugia. Mostra questo riepilogo con orgoglio davanti ai tuoi amici e nemici."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Confronta",
-      "description": "Scontrati testa a testa con altri Guardani per vanto"
     }
   },
   "archives": {

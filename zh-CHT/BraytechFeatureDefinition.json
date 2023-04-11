@@ -29,16 +29,16 @@
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "所有目的地的機靈掃描和物品清單"
-    }
-  },
   "maps": {
     "displayProperties": {
       "name": "地圖",
       "description": "交互式地圖清單和其他重要目標"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "所有目的地的機靈掃描和物品清單"
     }
   },
   "weeklies": {
@@ -129,12 +129,6 @@
     "displayProperties": {
       "name": "傳奇",
       "description": "生与死都是騙子的工具，編織自己的謊言。"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "對比",
-      "description": "尋找你最快的日暮任務：磨難和夢魘狩獵"
     }
   },
   "archives": {
