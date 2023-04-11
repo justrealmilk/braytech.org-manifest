@@ -5,16 +5,76 @@
       "description": "Informationen zu deinem Clan, seiner Besatzung, historische Statistiken für alle Mitglieder und einem Admin Modus"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Über deinen Clan und wofür er steht"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "Übersicht",
+      "description": "Finde Freunde zum Spielen"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "Historische Statistiken",
+      "description": "Vergleiche _Historische Statistiken_ für mehrere Aktivitäten über Clan-Mitglieder hinweg."
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "Beziehungen",
+      "description": "Schau, welchen Clan-Mitgliedern du die meiste Zeit widmest"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "Sammlungen",
       "description": "Gegenstände, die dein Hüter im Laufe seines Lebens erworben hat"
     }
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lore erzählt die Geschichte des Destiny-Universums. Schalte Lore zum Lesen frei, indem du Triumphe erfüllst"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "Medaillen",
+      "description": "Medaillen werden durch das Zeigen von Spielexpertise gesammelt. Sieh dir die Liste von Medaillen an, und wie viele von ihnen du verdient hast"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "Stat-Tracker",
+      "description": "Stat-Tracker können in der Details-Ansicht deinem Abzeichen hinzugefügt werden. Hinzugefügte Tracker sind auf deiner Namensplakette sichtbar"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triumphe",
       "description": "Triumphe, die dein Hüter durch seine Prüfungen erzielt hat"
+    }
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Aktive Triumphe und Siegel",
+      "description": "Zeige alle aktiven Triumphe und Siegel"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Vermächtnis-Triumphe und -Siegel",
+      "description": "Zeige die Sammlung an Vermächtnis-Triumphen und -Siegeln"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Kurzzeitige Triumphe",
+      "description": "Nicht alle Triumphe existieren für immer – beeil dich oder sei für immer in der Zeit verloren."
     }
   },
   "journey": {
@@ -29,16 +89,16 @@
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken"
-    }
-  },
   "maps": {
     "displayProperties": {
       "name": "Karten",
       "description": "Interaktive Karten mit Checklisten und anderen wichtigen Zielen"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken"
     }
   },
   "weeklies": {
@@ -47,22 +107,28 @@
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "Diese Woche",
+      "description": "Diese Woche in Destiny"
+    }
+  },
   "weeklies-challenges": {
     "displayProperties": {
-      "name": "Challenges",
-      "description": "All activity challenges"
+      "name": "Herausforderungen",
+      "description": "Alle Aktivitäts-Herausforderungen"
     }
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+      "name": "Saisonale Herausforderungen",
+      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
   "weeklies-rotations": {
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Scry the orbits of various activities"
+      "name": "Rotationen",
+      "description": "Schau in die Bahnen verschiedenster Aktivitäten"
     }
   },
   "character": {
@@ -71,22 +137,34 @@
       "description": "Inspiziere die Ausrüstung und das Inventar deines Hüters"
     }
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "Ausrüstung",
+      "description": "Prüfe die Kampfbereitschaft deines Hüters"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+      "name": "Poststelle",
+      "description": "Droiden der Poststelle kümmern sich pflichtbewusst um Lieferungen, Nachrichten und Fundsachen"
+    }
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "Verbrauchsgegenstände",
+      "description": "Vorräte und Materialien, die zum Verbessern deines Hüters und seiner Ausrüstung genutzt werden können"
     }
   },
   "character-vault": {
     "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
+      "name": "Tresor",
+      "description": "Sichere Lagerung für deine Gegenstände. Zugänglich für alle Charaktere"
     }
   },
   "character-vendors": {
     "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
+      "name": "Händler",
+      "description": "Schau nach, was deine Lieblings-Auftraggeber und -Händler anbieten"
     }
   },
   "quests": {
@@ -107,16 +185,39 @@
       "description": "Bestaune und filtere deine 'Schmelztiegel-Berichte' im Detail"
     }
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Spielgeschichte",
+      "description": "Alle letzten Aktivitäten deines gewählten Hüters"
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Activities you've bookmarked"
+      "name": "Lesezeichen",
+      "description": "Aktivitäten, die du mit einem Lesezeichen versehen hast"
+    }
+  },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "Graphen",
+      "description": "Aktivitäten auf Graphen dargestellt, für Statistikfreunde."
     }
   },
   "activity-series": {
     "displayProperties": {
-      "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
+    }
+  },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "Fassungen",
+      "description": "Alle Gegenstands-Eigenschaften; Werte, Perks und Mods"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lerne die Geschichte hinter diesem Gegenstand"
     }
   },
   "settings": {
@@ -129,12 +230,6 @@
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Vergleichen",
-      "description": "Finde und vergleiche deine schnellsten Abschlüsse für Dämmerungsstrikes und Albtraumjagden mit anderen Hütern"
     }
   },
   "archives": {

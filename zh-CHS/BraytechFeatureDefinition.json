@@ -29,16 +29,16 @@
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "所有目的地的机灵扫描和物品清单"
-    }
-  },
   "maps": {
     "displayProperties": {
       "name": "地图",
       "description": "交互式地图清单和其他重要目标"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "所有目的地的机灵扫描和物品清单"
     }
   },
   "weeklies": {
@@ -129,12 +129,6 @@
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "对比",
-      "description": "寻找你最快的日落打击和梦魇狩猎"
     }
   },
   "archives": {
