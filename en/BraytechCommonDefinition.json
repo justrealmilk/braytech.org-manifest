@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Bungie API Developer",
+      "description": "_Beware the Architects._\nThis player builds with Bungie's API."
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-patron-submind": {
     "displayProperties": {
       "name": "Submind",
