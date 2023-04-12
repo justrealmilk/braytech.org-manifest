@@ -44,9 +44,16 @@
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creator of Braytech._"
+      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this tooltip."
     },
     "itemTypeDisplayName": "Braytech Developer"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"I made this for you\"",
+      "description": "_You're my little pogchamp, Guardian._ \uD83C\uDF1E"
+    },
+    "itemTypeDisplayName": "Special"
   },
   "flair-patron-submind": {
     "displayProperties": {
