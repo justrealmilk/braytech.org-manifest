@@ -1,0 +1,380 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "萨瓦图恩的诅咒",
+      "description": ""
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "阶段 1",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "阶段 2",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "阶段 3",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "2": {
+    "displayProperties": {
+      "name": "上维挑战",
+      "description": ""
+    },
+    "startDate": "2018-09-04T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "衔尾蛇",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "遗落圣殿",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "破碎废墟",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "锋刃要塞",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "权威深渊",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "辛梅里安卫戍营",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "3": {
+    "displayProperties": {
+      "name": "忧愁圣坛",
+      "description": ""
+    },
+    "startDate": "2018-09-11T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000256,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [935628460],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000254,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [651531704],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000255,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [3844835635],
+        "records": []
+      }
+    ]
+  },
+  "4": {
+    "displayProperties": {
+      "name": "游荡梦魇",
+      "description": ""
+    },
+    "startDate": "2019-10-01T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 16,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 17,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 18,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 19,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "5": {
+    "displayProperties": {
+      "name": "日蚀区",
+      "description": ""
+    },
+    "startDate": "2021-06-22T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 1747045785,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2868856804,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 396959363,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "6": {
+    "displayProperties": {
+      "name": "泉源",
+      "description": ""
+    },
+    "startDate": "2022-02-22T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 201280774,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1554180090],
+        "records": []
+      },
+      {
+        "nodeHash": 2948928434,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [77011569],
+        "records": []
+      },
+      {
+        "nodeHash": 54269080,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [1458222686],
+        "records": []
+      },
+      {
+        "nodeHash": 3333680772,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [2040522335],
+        "records": []
+      }
+    ]
+  },
+  "7": {
+    "displayProperties": {
+      "name": "光明行刑者",
+      "description": ""
+    },
+    "startDate": "2022-06-08T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 2000000252,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000251,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000253,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Vex 入侵区",
+      "description": ""
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 4158493479,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 473462131,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 3773756244,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "9": {
+    "displayProperties": {
+      "name": "终端过载",
+      "description": ""
+    },
+    "startDate": "2023-02-28T17:00:00Z",
+    "cadence": 1,
+    "rotation": [
+      {
+        "nodeHash": 473462131,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 3773756244,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 4158493479,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  }
+}
