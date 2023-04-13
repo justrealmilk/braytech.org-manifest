@@ -1,6 +1,6 @@
 import BraytechActivityDifficultyDefinition from '@Data/manifest/zh-CHS/BraytechActivityDifficultyDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/zh-CHS/BraytechFeatureDefinition.json';
-import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapTypesDefinition.json';
+import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/zh-CHS/BraytechRotationDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/zh-CHS/DestinyActivityModifierDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/zh-CHS/DestinyChecklistDefinition.json';
