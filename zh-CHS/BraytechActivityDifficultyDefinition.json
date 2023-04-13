@@ -1,0 +1,47 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "通过导航器选择"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "游戏列表"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "普通难度"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "巅峰难度"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "专家难度"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "英雄难度"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "传说难度"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "大师难度"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "宗师难度"
+    }
+  }
+}
