@@ -20,8 +20,7 @@
     "statName": "平均 K/D"
   },
   "winRate": {
-    "statName": "胜率",
-    "unitType": 7
+    "statName": "胜率"
   },
   "precisionKills": {
     "statName": "精准击杀",
@@ -121,120 +120,6 @@
   },
   "largeBlockersSent": {
     "statName": "大型阻绝者投放数"
-  },
-  "medals_pvecomp_medal_void_blade_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007772.png"
-  },
-  "medals_pvecomp_medal_denied": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007671.png"
-  },
-  "medals_pvecomp_medal_revenge": {
-    "iconImage": "/static/images/extracts/medals/gambit/0560-00002176.png"
-  },
-  "medals_pvecomp_medal_massacre": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007809.png"
-  },
-  "medals_pvecomp_medal_first_to_block": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007764.png"
-  },
-  "medals_pvecomp_medal_big_game_hunter": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007760.png"
-  },
-  "medals_pvecomp_medal_bank_kill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007726.png"
-  },
-  "medals_pvecomp_medal_tags_denied_15": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007662.png"
-  },
-  "medals_pvecomp_medal_invader_kill_four": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007660.png"
-  },
-  "medals_pvecomp_medal_killmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007770.png"
-  },
-  "medals_pvecomp_medal_thermal_sword_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007812.png"
-  },
-  "medals_pvecomp_medal_overkillmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007654.png"
-  },
-  "medals_pvecomp_medal_no_escape": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007777.png"
-  },
-  "medals_pvecomp_medal_locksmith": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007798.png"
-  },
-  "medals_pvecomp_medal_void_bow_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007792.png"
-  },
-  "medals_pvecomp_medal_blockbuster": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007691.png"
-  },
-  "medals_pvecomp_medal_revenge_same_invasion": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007769.png"
-  },
-  "medals_pvecomp_medal_never_say_die": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007683.png"
-  },
-  "medals_pvecomp_medal_arc_beam_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007766.png"
-  },
-  "medals_pvecomp_medal_thermal_maul_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007756.png"
-  },
-  "medals_pvecomp_medal_fast_fill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007804.png"
-  },
-  "medals_pvecomp_medal_thermal_knives_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007753.png"
-  },
-  "medals_pvecomp_medal_fist_of_havoc_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007706.png"
-  },
-  "medals_pvecomp_medal_half_banked": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007783.png"
-  },
-  "medals_pvecomp_medal_nova_bomb_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007782.png"
-  },
-  "medals_pvecomp_medal_block_party": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007774.png"
-  },
-  "medals_pvecomp_medal_arc_lightning_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007758.png"
-  },
-  "medals_pvecomp_medal_void_shield_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007800.png"
-  },
-  "medals_pvecomp_medal_golden_gun_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007693.png"
-  },
-  "medals_pvecomp_medal_meteor_strike_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007788.png"
-  },
-  "medals_pvecomp_medal_arc_staff_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007689.png"
-  },
-  "medals_pvecomp_medal_thermal_hammer_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007789.png"
-  },
-  "medals_pvecomp_medal_everyone_invaded": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007833.png"
-  },
-  "medals_pvecomp_medal_nova_pulse_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007794.png"
-  },
-  "medals_pvecomp_medal_kill_after_invasion": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007818.png"
-  },
-  "medals_pvecomp_medal_thrillmonger": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007652.png"
-  },
-  "Medals_pvecomp_medal_thermal_sword_healing_multikill": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007695.png"
-  },
-  "medals_pvecomp_medal_invasion_shutdown": {
-    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007805.png"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
