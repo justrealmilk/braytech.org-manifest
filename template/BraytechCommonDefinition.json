@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Bungie Developer",
+      "description": "_Beware the Architects._\nThis player _could_ delete you."
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-api-dev": {
     "displayProperties": {
       "name": "Bungie API Developer",
