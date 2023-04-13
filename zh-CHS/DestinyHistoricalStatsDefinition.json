@@ -1,0 +1,356 @@
+{
+  "opponentsDefeated": {
+    "statName": "击杀和助攻",
+    "statNameAbbr": "KA"
+  },
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "flawless": {
+    "statName": "无暇"
+  },
+  "killsDeathsRatio": {
+    "statName": "K/D",
+    "statNameAbbr": "KD"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "平均 K/D"
+  },
+  "winRate": {
+    "statName": "胜率",
+    "unitType": 7
+  },
+  "precisionKills": {
+    "statName": "精准击杀",
+    "statNameAbbr": "P"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "爆头率",
+    "statNameAbbr": "A"
+  },
+  "score": {
+    "statNameAbbr": "S"
+  },
+  "strikeDifficulty": {
+    "statName": "难度"
+  },
+  "activitiesEntered": {
+    "statName": "进入次数"
+  },
+  "activitiesCleared": {
+    "statName": "完成次数",
+    "statDescription": "这是你总共成功完成的活动次数。守护者，但愿这个数字会大于你总共的进入次数！"
+  },
+  "secondsPlayed": {
+    "statDescription": "在清理高塔的威胁时所投入的时间。这儿并没有投入时间太少这个说法。"
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "最快记录"
+  },
+  "currentCompetitiveRating": {
+    "statName": "当前竞技级别",
+    "statNameAlt": "当前段位分",
+    "statDescription": "玩家当前的竞技段位分数。"
+  },
+  "currentEloRating": {
+    "statName": "当前 Elo 分",
+    "statNameAlt": "当前 Elo",
+    "statDescription": "玩家当前的 Elo 分数。\n\n这里所显示的分数是来自第三方网站 _Destiny Tracker_ 的数据。 _Destiny Tracker_ 提供了所有游玩过 _熔炉竞技场_ 和 _智谋_ 的《命运》系列玩家的相关 Elo 分数数据。"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Crests Secured"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Crests Recovered"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kills Secured"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Allied Kills Secured"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "ML"
+  },
+  "highValueKills": {
+    "statName": "高价值目标击杀数"
+  },
+  "invasionKills": {
+    "statName": "入侵击杀数",
+    "statNameAbbr": "IK"
+  },
+  "invasionDeaths": {
+    "statName": "入侵死亡数"
+  },
+  "invaderKills": {
+    "statName": "击杀入侵者数"
+  },
+  "invaderDeaths": {
+    "statName": "死于入侵者数"
+  },
+  "primevalDamage": {
+    "statName": "对古昧伤害",
+    "statNameAbbr": "伤害"
+  },
+  "primevalKills": {
+    "statName": "古昧击杀数"
+  },
+  "motesDenied": {
+    "statName": "萤光否决数"
+  },
+  "invasions": {
+    "statName": "入侵次数"
+  },
+  "blockerKills": {
+    "statName": "阻绝者击杀数"
+  },
+  "smallBlockersSent": {
+    "statName": "小型阻绝者投放数"
+  },
+  "mediumBlockersSent": {
+    "statName": "中型阻绝者投放数"
+  },
+  "largeBlockersSent": {
+    "statName": "大型阻绝者投放数"
+  },
+  "medals_pvecomp_medal_void_blade_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007772.png"
+  },
+  "medals_pvecomp_medal_denied": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007671.png"
+  },
+  "medals_pvecomp_medal_revenge": {
+    "iconImage": "/static/images/extracts/medals/gambit/0560-00002176.png"
+  },
+  "medals_pvecomp_medal_massacre": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007809.png"
+  },
+  "medals_pvecomp_medal_first_to_block": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007764.png"
+  },
+  "medals_pvecomp_medal_big_game_hunter": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007760.png"
+  },
+  "medals_pvecomp_medal_bank_kill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007726.png"
+  },
+  "medals_pvecomp_medal_tags_denied_15": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007662.png"
+  },
+  "medals_pvecomp_medal_invader_kill_four": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007660.png"
+  },
+  "medals_pvecomp_medal_killmonger": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007770.png"
+  },
+  "medals_pvecomp_medal_thermal_sword_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007812.png"
+  },
+  "medals_pvecomp_medal_overkillmonger": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007654.png"
+  },
+  "medals_pvecomp_medal_no_escape": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007777.png"
+  },
+  "medals_pvecomp_medal_locksmith": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007798.png"
+  },
+  "medals_pvecomp_medal_void_bow_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007792.png"
+  },
+  "medals_pvecomp_medal_blockbuster": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007691.png"
+  },
+  "medals_pvecomp_medal_revenge_same_invasion": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007769.png"
+  },
+  "medals_pvecomp_medal_never_say_die": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007683.png"
+  },
+  "medals_pvecomp_medal_arc_beam_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007766.png"
+  },
+  "medals_pvecomp_medal_thermal_maul_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007756.png"
+  },
+  "medals_pvecomp_medal_fast_fill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007804.png"
+  },
+  "medals_pvecomp_medal_thermal_knives_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007753.png"
+  },
+  "medals_pvecomp_medal_fist_of_havoc_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007706.png"
+  },
+  "medals_pvecomp_medal_half_banked": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007783.png"
+  },
+  "medals_pvecomp_medal_nova_bomb_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007782.png"
+  },
+  "medals_pvecomp_medal_block_party": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007774.png"
+  },
+  "medals_pvecomp_medal_arc_lightning_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007758.png"
+  },
+  "medals_pvecomp_medal_void_shield_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007800.png"
+  },
+  "medals_pvecomp_medal_golden_gun_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007693.png"
+  },
+  "medals_pvecomp_medal_meteor_strike_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007788.png"
+  },
+  "medals_pvecomp_medal_arc_staff_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007689.png"
+  },
+  "medals_pvecomp_medal_thermal_hammer_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007789.png"
+  },
+  "medals_pvecomp_medal_everyone_invaded": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007833.png"
+  },
+  "medals_pvecomp_medal_nova_pulse_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007794.png"
+  },
+  "medals_pvecomp_medal_kill_after_invasion": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007818.png"
+  },
+  "medals_pvecomp_medal_thrillmonger": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007652.png"
+  },
+  "Medals_pvecomp_medal_thermal_sword_healing_multikill": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007695.png"
+  },
+  "medals_pvecomp_medal_invasion_shutdown": {
+    "iconImage": "/static/images/extracts/medals/gambit/01a3-00007805.png"
+  },
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
+  },
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Survive a Hunt in which no member of your team is defeated—then start the next Hunt."
+  },
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Complete an Iron Banner match with the most combined Advantage and Hunt kills."
+  },
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Defeat five opponents while holding Zone Advantage before the opposing team recaptures a zone."
+  },
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "In a single life, participate in capturing all three zones leading to the Hunt."
+  },
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Survive your opponents' Hunt without being defeated."
+  },
+  "Medals_pvp_medal_ib_control_1a": {
+    "statDescription": "In a single life, defeat three opponents attempting to capture allied capture zones."
+  },
+  "Medals_pvp_medal_ib_control_1b": {
+    "statDescription": "Recapture a zone within 15 seconds of it being captured by your opponents."
+  },
+  "Medals_pvp_medal_ib_control_1c": {
+    "statDescription": "Defeat two or more opponents with Zone Advantage within 10 seconds of capturing a zone."
+  },
+  "Medals_pvp_medal_ib_control_1d": {
+    "statDescription": "Capture a zone with your entire team present."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Land final blows on the entire enemy team before any of them respawn."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "Rapidly defeat 7 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Rapidly defeat 6 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Rapidly defeat 5 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Rapidly defeat 4 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Rapidly defeat 3 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Rapidly defeat 2 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Land the final blow on the Guardian who last defeated you."
+  },
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Land the final blow on an opponent who just defeated an ally."
+  },
+  "Medals_pvp_medal_ib_defender": {
+    "statDescription": "Land the final blow on an opponent who has recently damaged an ally."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "In a single life, defeat 50 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "In a single life, defeat 20 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Land final blows on seven opponents without taking any damage from any source."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Shut down an opponent's streak of 20 or more."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "In a single life, defeat 10 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "As a team, defeat 7 opposing Guardians without any member of your team being defeated."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "In a single life, defeat 5 opposing Guardians."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Defeat 3 opponents in a single life after having been defeated two consecutive times."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Shut down an opponent's streak."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
+  },
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Complete an Iron Banner match in which you defeat at least seven opponents and are never defeated by an opponent."
+  },
+  "Medals_pvp_medal_ib_match_blowout": {
+    "statDescription": "Win an Iron Banner match with a large margin of victory."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Deal the most total damage to opponents in a single Iron Banner match."
+  },
+  "Medals_pvp_medal_ib_match_comeback": {
+    "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
+  },
+  "Medals_pvp_medal_ib_match_never_trailed": {
+    "statDescription": "Win an Iron Banner match in which your team never trailed."
+  },
+  "Medals_pvp_medal_ib_match_overtime": {
+    "statDescription": "Win an Iron Banner match in overtime."
+  },
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "In a single Iron Banner match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (melee, grenade, Super)."
+  },
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Land the first final blow of the match."
+  },
+  "Medals_pvp_medal_ib_super_shutdown": {
+    "statDescription": "Stop an opponent's Super with your Super."
+  }
+}

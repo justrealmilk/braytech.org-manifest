@@ -1,0 +1,14 @@
+{
+  "14342153471": {
+    "displayProperties": {
+      "name": "所有悬赏",
+      "description": "所有当前选择的角色所接受的悬赏"
+    }
+  },
+  "14342153470": {
+    "displayProperties": {
+      "name": "所有任务",
+      "description": "所有当前选择的角色所接受的任务"
+    }
+  }
+}
