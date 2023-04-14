@@ -1,70 +1,43 @@
-import com.fasterxml.jackson.core.JsonGenerator;
-import com.fasterxml.jackson.core.util.DefaultIndenter;
-import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.SerializationFeature;
+import com.fasterxml.jackson.core.util.*;
+import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import java.io.File;
 import java.io.IOException;
-import java.nio.charset.Charset;
+import java.nio.file.*;
 import java.util.Arrays;
-import java.util.Iterator;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 public class CleanFiles {
-  private ObjectMapper om;
-  private String repoPath;
-  private List<String> filenames;
-  private List<String> dpProperties;
-  private List<String> entryProperties;
-  private List<String> properties;
-  private List<String> inventoryProperties;
-  private List<String> extendedProperties;
-  private Map<String, ObjectNode> jsonFiles;
+  private ObjectMapper om = (new ObjectMapper()).setDefaultPrettyPrinter(new MyPrettyPrinter())
+      .enable(SerializationFeature.INDENT_OUTPUT);
+
+  private Path toRepo = Paths.get(System.getProperty("user.dir"));
+  private PathMatcher jsonMatcher = FileSystems.getDefault()
+      .getPathMatcher("regex:^(?!.*Colloquial|dynamic).*\\.json$");
+
+  private List<String> dpProperties = Arrays.asList("name", "description", "tip");
+  private List<String> entryProperties = Arrays.asList("prefix", "name", "completed");
+  private List<String> properties = Arrays.asList("sourceString", "statName", "statNameAlt", "statNameAbbr",
+      "statDescription", "itemTypeDisplayName", "displaySource", "substring", "progressDescription", "bubbles",
+      "factions", "keywords");
+  private List<String> inventoryProperties = Arrays.asList("tierTypeName");
+  private List<String> extendedProperties = Arrays.asList("tip");
+  private Map<Path, ObjectNode> jsonFiles;
 
   public CleanFiles(List<String> languages) {
-    repoPath = System.getProperty("user.dir");
-
-    dpProperties = Arrays.asList("name", "description", "tip");
-    entryProperties = Arrays.asList("prefix", "name", "completed");
-    properties = Arrays.asList("sourceString", "statName", "statNameAlt", "statNameAbbr", "statDescription",
-        "itemTypeDisplayName", "displaySource", "substring", "progressDescription", "bubbles", "factions",
-        "keywords");
-    inventoryProperties = Arrays.asList("tierTypeName");
-    extendedProperties = Arrays.asList("tip");
-
-    om = (new ObjectMapper()).setDefaultPrettyPrinter(new MyPrettyPrinter())
-        .enable(SerializationFeature.INDENT_OUTPUT);
-
     languages.forEach(lang -> {
-      String outPath = repoPath + "/" + (lang.equals("en") ? "template" : lang);
 
-      jsonFiles = loadJsonFiles(lang);
-      jsonFiles.replaceAll((filename, entry) -> buildNodesForTranslation(filename, entry, false));
+      jsonFiles = getJsons(lang);
+      jsonFiles.replaceAll(this::buildNodesForTranslation);
 
       // Sorts all files and removes objects no longer present in template
       // sortAndRemoveObj(lang);
 
-      jsonFiles.forEach((filename, node) -> {
-        try {
-          if (node != null && !node.isEmpty()) {
-            om.writeValue(new File(outPath, filename), node);
-            System.out.println("Saved: " + outPath + "/" + filename);
-          } else {
-            System.out.println("Empty node: " + filename);
-          }
-        } catch (IOException e) {
-          System.out.println("Couldn't save " + filename);
-        }
-      });
+      jsonFiles.forEach(this::saveJson);
     });
   }
 
@@ -85,55 +58,48 @@ public class CleanFiles {
     System.out.println("Done");
   }
 
-  private Map<String, ObjectNode> loadJsonFiles(String lang) {
-    filenames = Arrays.asList((new File(repoPath, lang))
-        .list((dir, name) -> name.endsWith(".json") && !name.endsWith("Colloquial.json")
-            && !name.endsWith("dynamic.json")));
-
-    Iterator<String> iter = filenames.iterator();
-
-    return filenames.stream().map(name -> {
-      File f = new File(repoPath + "/" + lang, name);
-      System.out.println("Loading: " + repoPath + "/" + lang + "/" + name);
-      try {
-        return f.exists() ? (ObjectNode) om.readTree(f) : om.createObjectNode();
-      } catch (IOException e) {
-        System.err.println("Error: couldn't read file: " + f.getName());
-        return null;
-      }
-    }).collect(Collectors.toMap(i -> iter.next(), Function.identity()));
+  private Map<Path, ObjectNode> getJsons(String lang) {
+    try {
+      return Files.list(toRepo.resolve(lang).normalize())
+          .filter(jsonMatcher::matches)
+          .collect(Collectors.toMap(toFile -> Paths.get(lang, toFile.getFileName().toString()), this::loadJson));
+    } catch (IOException e) {
+      System.err.println("Error: couldn't list files");
+      return null;
+    }
   }
 
-  private ObjectNode buildNodesForTranslation(String filename, ObjectNode root, boolean sortAndRemove) {
+  private ObjectNode loadJson(Path path) {
+    System.out.println("Loading: " + path);
+    try {
+      return Files.exists(path) ? (ObjectNode) om.readTree(Files.readAllBytes(path)) : om.createObjectNode();
+    } catch (IOException e) {
+      System.err.println("Error: couldn't read file: " + path.getFileName());
+      return null;
+    }
+  };
+
+  private ObjectNode buildNodesForTranslation(Path toFile, ObjectNode root) {
     Map<String, JsonNode> nodes = toStream(root.fields())
-        .map(entry -> getNodeToTranslate(filename, entry, sortAndRemove))
+        .map(this::getNodeToTranslate)
         .filter(entry -> !entry.getValue().isEmpty())
         .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new));
-    if (sortAndRemove && filename.equals("DestinyObjectiveDefinition.json"))
-      nodes.putAll(addBowNodes(filename));
     return om.createObjectNode().setAll(nodes);
   }
 
-  public static <T> Stream<T> toStream(Iterator<T> iterator) {
-    return StreamSupport.stream(((Iterable<T>) () -> iterator).spliterator(), true);
+  public static <T> java.util.stream.Stream<T> toStream(java.util.Iterator<T> iterator) {
+    return java.util.stream.StreamSupport.stream(((Iterable<T>) () -> iterator).spliterator(), true);
   }
 
-  private Entry<String, JsonNode> getNodeToTranslate(String filename, Entry<String, JsonNode> entry,
-      boolean sortAndRemove) {
+  private Entry<String, JsonNode> getNodeToTranslate(Entry<String, JsonNode> entry) {
     JsonNode node = entry.getValue();
     ObjectNode newNode = om.createObjectNode();
-    if (sortAndRemove) {
-      ObjectNode boop = jsonFiles.get(filename);
-      if (boop != null && boop.get(entry.getKey()) != null)
-        newNode.setAll((ObjectNode) boop.get(entry.getKey()));
-    } else {
-      newNode.setAll(copyChildObj(node, "displayProperties", dpProperties));
-      newNode.setAll(copyChildObj(node, "originalDisplayProperties", dpProperties));
-      newNode.setAll(copyChildObj(node, "entry", entryProperties));
-      newNode.setAll(copyObj(node, properties));
-      newNode.setAll(copyChildObj(node, "inventory", inventoryProperties));
-      newNode.setAll(copyChildObj(node, "extended", extendedProperties));
-    }
+    newNode.setAll(copyChildObj(node, "displayProperties", dpProperties));
+    newNode.setAll(copyChildObj(node, "originalDisplayProperties", dpProperties));
+    newNode.setAll(copyChildObj(node, "entry", entryProperties));
+    newNode.setAll(copyObj(node, properties));
+    newNode.setAll(copyChildObj(node, "inventory", inventoryProperties));
+    newNode.setAll(copyChildObj(node, "extended", extendedProperties));
     return Map.entry(entry.getKey(), newNode);
   }
 
@@ -159,10 +125,37 @@ public class CleanFiles {
     return newNode;
   }
 
-  private Map<String, JsonNode> addBowNodes(String filename) {
+  private void sortAndRemoveObj(String lang) {
+    if (!lang.equals("en")) {
+      Map<Path, ObjectNode> templateFiles = getJsons("template");
+      Map<Path, ObjectNode> t = new HashMap<Path, ObjectNode>();
+      templateFiles.forEach((toFile, root) -> t.put(Paths.get(lang, toFile.getFileName().toString()),
+          replaceNodesFromTemplate(toFile, root, lang)));
+      jsonFiles = t;
+    }
+  }
+
+  private ObjectNode replaceNodesFromTemplate(Path toFile, ObjectNode root, String lang) {
+    Map<String, JsonNode> nodes = toStream(root.fields())
+        .map(entry -> {
+          ObjectNode newNode = om.createObjectNode();
+          ObjectNode baseNode = jsonFiles.get(Paths.get(lang, toFile.getFileName().toString()));
+          if (baseNode != null && baseNode.get(entry.getKey()) != null)
+            newNode.setAll((ObjectNode) baseNode.get(entry.getKey()));
+          return Map.entry(entry.getKey(), newNode);
+        })
+        .filter(entry -> !entry.getValue().isEmpty())
+        .collect(Collectors.toMap(Entry::getKey, Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+    if (toFile.endsWith("DestinyObjectiveDefinition.json"))
+      nodes.putAll(addBowNodes(toFile, lang));
+    return om.createObjectNode().setAll(nodes);
+  }
+
+  private Map<String, JsonNode> addBowNodes(Path toFile, String lang) {
     Map<String, JsonNode> properties = new LinkedHashMap<String, JsonNode>();
-    ObjectNode node = jsonFiles.get(filename);
-    String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
+    ObjectNode node = jsonFiles.get(Paths.get(lang, toFile.getFileName().toString()));
+    String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 },
+        java.nio.charset.Charset.forName("UTF-8"));
     if (node != null)
       properties = toStream(node.fields())
           .filter(entry -> entry.getValue().get("progressDescription").toString().contains(bow))
@@ -170,11 +163,19 @@ public class CleanFiles {
     return properties;
   }
 
-  private void sortAndRemoveObj(String lang) {
-    if (!lang.equals("en")) {
-      Map<String, ObjectNode> t = loadJsonFiles("template");
-      t.replaceAll((filename, entry) -> buildNodesForTranslation(filename, entry, true));
-      jsonFiles = t;
+  private void saveJson(Path toFile, ObjectNode node) {
+    try {
+      if (node != null && !node.isEmpty()) {
+        if (toFile.getParent().endsWith("en")) {
+          toFile = Paths.get("template", toFile.getFileName().toString());
+        }
+        Files.write(toRepo.resolve(toFile).normalize(), om.writeValueAsBytes(node));
+        System.out.println("Saved: " + toFile);
+      } else {
+        System.out.println("Empty node: " + toFile);
+      }
+    } catch (IOException e) {
+      System.out.println("Couldn't save " + toFile);
     }
   }
 
@@ -192,7 +193,7 @@ public class CleanFiles {
     }
 
     @Override
-    public void writeEndArray(JsonGenerator g, int nrOfValues) throws IOException {
+    public void writeEndArray(com.fasterxml.jackson.core.JsonGenerator g, int nrOfValues) throws IOException {
       if (!_arrayIndenter.isInline())
         --_nesting;
       if (nrOfValues > 0)
