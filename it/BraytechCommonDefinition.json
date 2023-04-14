@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Speciale"
   },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Sviluppatore Bungie",
+      "description": "_Attenti agli architetti._\nQuesto giocatore _potrebbe_ eliminarti."
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
   "flair-api-dev": {
     "displayProperties": {
       "name": "Sviluppatore Bungie API",
