@@ -1,4 +1,4 @@
-import BraytechActivityDefinition from '@Data/manifest/en/BraytechActivityDefinition.json';
+import BraytechActivityDefinition from '@Data/manifest/it/BraytechActivityDefinition.json';
 import BraytechActivityDifficultyDefinition from '@Data/manifest/it/BraytechActivityDifficultyDefinition.json';
 import BraytechCommonDefinition from '@Data/manifest/it/BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/it/BraytechFeatureDefinition.json';
