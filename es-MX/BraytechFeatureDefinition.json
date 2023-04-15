@@ -17,6 +17,12 @@
       "description": "Encuentra amigos con los que jugar."
     }
   },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "Administración",
+      "description": "Toma medidas sobre asuntos y miembros del clan."
+    }
+  },
   "clan-stats": {
     "displayProperties": {
       "name": "Estadísticas históricas",
@@ -32,7 +38,7 @@
   "collections": {
     "displayProperties": {
       "name": "Colecciones",
-      "description": "Objetos que tu Guardián adquirió a lo largo de su vida"
+      "description": "Objetos que tu Guardián adquirió a lo largo de su vida."
     },
     "keywords": [
       "excepcionales",
@@ -47,6 +53,12 @@
     "displayProperties": {
       "name": "Historia",
       "description": "La historia contiene más información sobre el universo de Destiny. Completa triunfos para desbloquear y leer las páginas de historia."
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "Patrones y catalizadores",
+      "description": "Los patrones permiten formar armas. Los catalizadores amplían el poder de tus armas exóticas. Encuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
     }
   },
   "collections-medals": {
@@ -109,11 +121,11 @@
   },
   "commendations": {
     "displayProperties": {
-      "name": "Menciones",
+      "name": "Elogios",
       "description": "Celebra los éxitos de su escuadra y prémiales con muestras de tu consideración"
     },
     "keywords": [
-      "menciones",
+      "elogios",
       "rango de guardián"
     ]
   },
@@ -155,7 +167,7 @@
   "weeklies-this-week": {
     "displayProperties": {
       "name": "Esta semana",
-      "description": "Esta semana en Destiny."
+      "description": "Esta semana en Destiny"
     }
   },
   "weeklies-challenges": {
@@ -173,7 +185,7 @@
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas"
+      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas."
     },
     "keywords": [
       "desafíos de temporada"
@@ -182,7 +194,7 @@
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
-      "description": "Predice los ciclos de varias actividades"
+      "description": "Predice los ciclos de varias actividades."
     },
     "keywords": [
       "ocasos",
@@ -298,7 +310,7 @@
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Favoritos",
-      "description": "Actividades que marcaste como favoritas"
+      "description": "Actividades que marcaste como favoritas."
     },
     "keywords": [
       "informes",
@@ -322,7 +334,7 @@
   "activity-series": {
     "displayProperties": {
       "name": "Series",
-      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios"
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
     },
     "keywords": [
       "informes",
