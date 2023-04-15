@@ -184,12 +184,14 @@
   },
   "138641527": {
     "displayProperties": {
-      "name": "Fuoco incrociato"
+      "name": "Fuoco incrociato",
+      "description": "Spara attraverso il baratro per attivare la catapulta dei compagni di squadra. Usa solo le catapulte per attraversare il baratro."
     }
   },
   "2070303007": {
     "displayProperties": {
-      "name": "Equilibrio cosmico"
+      "name": "Equilibrio cosmico",
+      "description": "Sposta tutti i pianeti terraformati (illuminati) a destra e i pianeti risonanti (oscuri) a sinistra. Richiede due fasi di Sfasamento planetario per piastra."
     }
   },
   "1616571513": {
