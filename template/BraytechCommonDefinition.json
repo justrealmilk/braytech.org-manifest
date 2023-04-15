@@ -282,6 +282,12 @@
       "description": "This activity was started from its beginning and finished flawlessly, with no deaths.\n\nTo be eligible, **raids** must be completed after the launch of Witch Queen, **dungeons** and **lost sectors** must be started and finished by a single player, and **strikes** are specific to each player."
     }
   },
+  "activity-solo": {
+    "displayProperties": {
+      "name": "Solo",
+      "description": "_Riding solo. This guardian is so cracked they don't need no stinkin' fireteam._"
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Final Blows",
