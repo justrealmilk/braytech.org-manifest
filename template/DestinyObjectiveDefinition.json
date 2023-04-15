@@ -9,10 +9,10 @@
     "progressDescription": "Crucible matches completed"
   },
   "4276867787": {
-    "progressDescription": "\"Competitive\" playlist matches completed"
+    "progressDescription": "Competitive playlist matches completed"
   },
   "1458618853": {
-    "progressDescription": "\"Competitive\" playlist matches completed"
+    "progressDescription": "Competitive playlist matches completed"
   },
   "2794225827": {
     "progressDescription": "Trials of Osiris rounds won"
@@ -71,11 +71,17 @@
   "2398860795": {
     "progressDescription": "\"Garden of Salvation\" rotator raid completed"
   },
+  "3826130187": {
+    "progressDescription": "\"Deep Stone Crypt\" rotator raid completed"
+  },
   "3180884403": {
     "progressDescription": "\"Vault of Glass\" rotator raid completed"
   },
-  "3826130187": {
-    "progressDescription": "\"Deep Stone Crypt\" rotator raid completed"
+  "1863972407": {
+    "progressDescription": "\"Vow of the Disciple\" rotator raid completed"
+  },
+  "406803827": {
+    "progressDescription": "\"King's Fall\" rotator raid completed"
   },
   "2039792527": {
     "progressDescription": "\"Prophecy\" rotator dungeon completed"
@@ -93,16 +99,16 @@
     "progressDescription": "\"Duality\" rotator dungeon completed"
   },
   "2258905201": {
-    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
   },
   "2050629406": {
-    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
   },
   "3376767511": {
-    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
   },
   "1878970132": {
-    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
   },
   "1166527222": {
     "progressDescription": "\"Defiant Battlegrounds\" activities completed"
@@ -112,5 +118,26 @@
   },
   "1687723774": {
     "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  },
+  "3121765139": {
+    "progressDescription": "Legendary difficulty \"Defiant Battlegrounds\" activities completed"
+  },
+  "672380795": {
+    "progressDescription": "H.E.L.M. War Table bounties completed"
+  },
+  "2821863512": {
+    "progressDescription": "Return to the H.E.L.M. War Table"
+  },
+  "275339596": {
+    "progressDescription": "Cloud Strider bounties completed"
+  },
+  "3044187661": {
+    "progressDescription": "Speak to Nimbus"
+  },
+  "2656858183": {
+    "progressDescription": "\"Terminal Overload\" combatants defeated"
+  },
+  "2177999971": {
+    "progressDescription": "Speak to Quinn Laghari"
   }
 }

@@ -5,6 +5,36 @@
       "description": "About your clan, its roster, summative historical stats for all members, and admin mode"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "About your clan and what it stands for"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "Roster",
+      "description": "Find friends to play with"
+    }
+  },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "Administration",
+      "description": "Take action on clan matters and members"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "Historical Stats",
+      "description": "Compare _Historical Stats_ for several activity modes across all clan members"
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "Relationships",
+      "description": "See which clan members you dedicate your time to most"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "Collections",
@@ -19,6 +49,30 @@
       "lore"
     ]
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "Patterns & Catalysts",
+      "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "Medals",
+      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "Stat Trackers",
+      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triumphs",
@@ -30,6 +84,30 @@
       "expiring",
       "seals"
     ]
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Active Triumphs and Seals",
+      "description": "View all active Triumphs and Seals"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Legacy Triumphs and Seals",
+      "description": "View a collection of legacy Triumphs and Seals"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Transient Triumphs",
+      "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "Active Event Card",
+      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
+    }
   },
   "journey": {
     "displayProperties": {
@@ -51,10 +129,10 @@
       "guardian rank"
     ]
   },
-  "checklists": {
+  "maps": {
     "displayProperties": {
-      "name": "Checklists",
-      "description": "Ghost scans and item checklists spanning the Sol system"
+      "name": "Maps",
+      "description": "Interactive maps charting checklists and other notable destinations"
     },
     "keywords": [
       "eggs",
@@ -63,10 +141,10 @@
       "lost sectors"
     ]
   },
-  "maps": {
+  "checklists": {
     "displayProperties": {
-      "name": "Maps",
-      "description": "Interactive maps charting checklists and other notable destinations"
+      "name": "Checklists",
+      "description": "Ghost scans and item checklists spanning the Sol system"
     },
     "keywords": [
       "eggs",
@@ -85,6 +163,12 @@
       "lost sector",
       "modules"
     ]
+  },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "This Week",
+      "description": "This week in Destiny"
+    }
   },
   "weeklies-challenges": {
     "displayProperties": {
@@ -135,6 +219,12 @@
       "stats"
     ]
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "Equipment",
+      "description": "Evaluate your Guardian's battle readiness"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Postmaster",
@@ -143,6 +233,12 @@
     "keywords": [
       "postmaster"
     ]
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "Consumables",
+      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
+    }
   },
   "character-vault": {
     "displayProperties": {
@@ -163,6 +259,12 @@
       "bright dust calendar",
       "eververse calendar"
     ]
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "Loadouts",
+      "description": "Preconfigure your equipment, strap it up, and name it"
+    }
   },
   "quests": {
     "displayProperties": {
@@ -199,6 +301,12 @@
       "ranks"
     ]
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Carnage",
+      "description": "All of the selected Guardian's recent activities."
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Bookmarks",
@@ -216,6 +324,12 @@
       "competitive",
       "matches"
     ]
+  },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "Graphs",
+      "description": "Activities plotted against graphs, for the statistically inclined."
+    }
   },
   "activity-series": {
     "displayProperties": {
@@ -238,22 +352,46 @@
       "matches"
     ]
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "Sockets",
+      "description": "All item attributes; stats, perks, and mods"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "Lore",
+      "description": "Read this item's story"
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "Settings",
       "description": "Account, theme, local data, item visibility, language, developer, troubleshooting"
     }
   },
+  "settings-common": {
+    "displayProperties": {
+      "name": "Common",
+      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "Advanced",
+      "description": "Performance, debugging, and storage management. No one has fun here."
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "Push Notifications",
+      "description": "Control how Braytech reaches you when you're not using it."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie. Display this summary proudly before your friends and foes."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Compare",
-      "description": "Go head to head with fellow Guardians for vanity"
     }
   },
   "archives": {

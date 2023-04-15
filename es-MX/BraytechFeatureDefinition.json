@@ -5,6 +5,30 @@
       "description": "Sobre tu clan, lista de jugadores, estadísticas históricas totales de todos los miembros y modo de administración"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "Sobre su clan y lo que representa."
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "Jugadores",
+      "description": "Encuentra amigos con los que jugar."
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "Estadísticas históricas",
+      "description": "Compara las _estadísticas históricas_ de varias actividades entre todos los miembros del clan."
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "Relaciones",
+      "description": "Mira a qué miembros del clan dedicas más tu tiempo."
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "Colecciones",
@@ -19,6 +43,24 @@
       "historia"
     ]
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "Historia",
+      "description": "La historia contiene más información sobre el universo de Destiny. Completa triunfos para desbloquear y leer las páginas de historia."
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "Medallas",
+      "description": "Las medallas se obtienen mediante hazañas en el juego. Consulta la lista de medallas y cuántas has obtenido."
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "Rastreadores estadísticos",
+      "description": "Los rastreadores estadísticos se pueden aplicar a tu emblema en la pantalla de detalles. Los rastreadores equipados aparecerán en tu placa de indentificación cuando sea visible."
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triunfos",
@@ -30,6 +72,30 @@
       "caduca",
       "sellos"
     ]
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos activos",
+      "description": "Ver todos los triunfos y sellos activos."
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Triunfos y Sellos de legado",
+      "description": "Ver una colección de triunfos y sellos de legado."
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Triunfos transitorios",
+      "description": "No todos los triunfos son para siempre: completa estos triunfos con premura o se perderán en el tiempo para siempre."
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "Tarjeta de evento activa",
+      "description": "Completa los desafíos por tiempo limitado de la tarjeta de evento para ganar varias recompensas y progresar hacia la compleción del sello del evento."
+    }
   },
   "journey": {
     "displayProperties": {
@@ -51,18 +117,6 @@
       "rango de guardián"
     ]
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Listas de coleccionables",
-      "description": "Escaneos del Espectro y listas de coleccionables que abarcan todo el sistema solar"
-    },
-    "keywords": [
-      "huevos",
-      "huesos ahamkara",
-      "cofres de región",
-      "sectores perdidos"
-    ]
-  },
   "maps": {
     "displayProperties": {
       "name": "Mapas",
@@ -71,6 +125,18 @@
     "keywords": [
       "huevos",
       "huesos de ahamkara",
+      "cofres de región",
+      "sectores perdidos"
+    ]
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Listas de coleccionables",
+      "description": "Escaneos del Espectro y listas de coleccionables que abarcan todo el sistema solar"
+    },
+    "keywords": [
+      "huevos",
+      "huesos ahamkara",
       "cofres de región",
       "sectores perdidos"
     ]
@@ -85,6 +151,12 @@
       "sector perdido",
       "módulos"
     ]
+  },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "Esta semana",
+      "description": "Esta semana en Destiny."
+    }
   },
   "weeklies-challenges": {
     "displayProperties": {
@@ -101,7 +173,7 @@
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas."
+      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas"
     },
     "keywords": [
       "desafíos de temporada"
@@ -110,7 +182,7 @@
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
-      "description": "Explora las órbitas de varias actividades."
+      "description": "Predice los ciclos de varias actividades"
     },
     "keywords": [
       "ocasos",
@@ -135,19 +207,31 @@
       "estadísticas"
     ]
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "Equipamiento",
+      "description": "Evalúa si tu Guardián está preparado para la batalla."
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Administración",
-      "description": "Los androides de Administración supervisan diligentemente las entregas, los mensajes y los objetos perdidos."
+      "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos."
     },
     "keywords": [
       "administración"
     ]
   },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "Consumibles",
+      "description": "Suministros y materiales que pueden utilizarse para mejorar a tu Guardián y su equipo."
+    }
+  },
   "character-vault": {
     "displayProperties": {
       "name": "Depósito",
-      "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes."
+      "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes"
     },
     "keywords": [
       "depósito"
@@ -156,13 +240,19 @@
   "character-vendors": {
     "displayProperties": {
       "name": "Comerciantes",
-      "description": "Espía a tus proveedores de tareas y socios comerciales favoritos."
+      "description": "Espía a tus proveedores de tareas y socios comerciales favoritos"
     },
     "keywords": [
       "comerciantes",
       "calendario de polvo luminoso",
       "calendario de Eververso"
     ]
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "Equipaciones",
+      "description": "Preconfigura tu equipamiento, fíjalo y ponle un nombre."
+    }
   },
   "quests": {
     "displayProperties": {
@@ -199,10 +289,16 @@
       "rangos"
     ]
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Informes",
+      "description": "Todas las actividades recientes del Guardián seleccionado."
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
-      "name": "Bookmarks",
-      "description": "Actividades que marcaste como favoritas."
+      "name": "Favoritos",
+      "description": "Actividades que marcaste como favoritas"
     },
     "keywords": [
       "informes",
@@ -217,10 +313,16 @@
       "partidas"
     ]
   },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "Gráficos",
+      "description": "Actividades representadas en gráficos, para los interesados en la estadística."
+    }
+  },
   "activity-series": {
     "displayProperties": {
       "name": "Series",
-      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios"
     },
     "keywords": [
       "informes",
@@ -238,22 +340,46 @@
       "partidas"
     ]
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "Ranuras",
+      "description": "Todos los atributos del objeto; estadísticas, ventajas, y mods."
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "Historia",
+      "description": "Lee la historia de este objeto."
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "Ajustes",
       "description": "Cuenta, tema, datos locales, visibilidad de elementos, idioma, desarrollador, resolución de problemas"
     }
   },
+  "settings-common": {
+    "displayProperties": {
+      "name": "Común",
+      "description": "El perfil de Destiny, la sincronización de los ajustes, el idioma, la visibilidad de los elementos, el tema y mucho más: estos ajustes determinan la forma en que disfrutas Braytech."
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "Avanzado",
+      "description": "Rendimiento, depuración y gestión del almacenamiento. Aquí nadie se divierte."
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "Notificaciones push",
+      "description": "Controla cómo Braytech te envía datos cuando no lo estás usando."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Leyenda",
       "description": "La vida y la muerte son herramientas de los mentirosos. Teje tu propia mentira. Muestra este resumen con orgullo ante sus amigos y enemigos."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Comparar",
-      "description": "Descubre tus compleciones más rápidas en Ocasos y Cacería de Pesadillas"
     }
   },
   "archives": {

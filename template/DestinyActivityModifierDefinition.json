@@ -185,13 +185,13 @@
   "138641527": {
     "displayProperties": {
       "name": "Crossfire",
-      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+      "description": "Shoot across the gap to trigger teammates' slingshot cruxes. Only use slingshots to cross the gap."
     }
   },
   "2070303007": {
     "displayProperties": {
       "name": "Cosmic Equilibrium",
-      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+      "description": "Move all terraformed (light) planets right and resonant (dark) planets left. Requires two Planetary Shift phases per plate."
     }
   },
   "1616571513": {

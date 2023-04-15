@@ -1,108 +1,6 @@
 {
-  "opponentsDefeated": {
-    "statName": "Kiwws + Assists"
-  },
-  "flawless": {
-    "statName": "Fwawwess"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Avewage K/D"
-  },
-  "winRate": {
-    "statName": "Win Wate"
-  },
-  "precisionKills": {
-    "statName": "Pwecision"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Accuwacy"
-  },
-  "strikeDifficulty": {
-    "statName": "Difficuwty"
-  },
-  "activitiesEntered": {
-    "statName": "Entewed"
-  },
-  "activitiesCleared": {
-    "statName": "Cweawed",
-    "statDescription": "Totaw activities cweawed successfuwwy. Hopefuwwy, Guawdian, this vawue is gweatew than hawf of activities entewed! OwO"
-  },
-  "secondsPlayed": {
-    "statDescription": "Totaw time devoted to ewiminating thweats to da City. Thewe's no such thing as too wittwe time gifted."
-  },
-  "currentCompetitiveRating": {
-    "statName": "Cuwwent Competitive Wating",
-    "statDescription": "Pwayew's cuwwent Competitive Division wating."
-  },
-  "currentEloRating": {
-    "statName": "Cuwwent Ewo Wating",
-    "statDescription": "Pwayew's cuwwent Ewo wating.\n\nEwo watings fwom a thiwd-pawty web site, _Destiny Twackew_. _Destiny Twackew_ pwovides Ewo watings fow aww Destiny pwayews who pawticipate in _Cwucibwe_ and _Gambit_ activities."
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Cwests Secuwed"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Cwests Wecovewed"
-  },
-  "supremacySecureRate": {
-    "statName": "Secuwe Wate"
-  },
-  "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kiwws Secuwed"
-  },
-  "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Awwied Kiwws Secuwed"
-  },
-  "highValueKills": {
-    "statName": "High Vawue Kiwws"
-  },
-  "invasionKills": {
-    "statName": "Kiwws as Invadew"
-  },
-  "invasionDeaths": {
-    "statName": "Deaths *wuns away* as Invadew"
-  },
-  "invaderKills": {
-    "statName": "Invadews Kiwwed"
-  },
-  "invaderDeaths": {
-    "statName": "Deaths to Invadews"
-  },
-  "primevalDamage": {
-    "statName": "Pwimevaw Damage"
-  },
-  "primevalKills": {
-    "statName": "Pwimevaw Kiwws"
-  },
-  "blockerKills": {
-    "statName": "Bwockew Kiwws"
-  },
-  "smallBlockersSent": {
-    "statName": "Smaww Bwockews Sent"
-  },
-  "mediumBlockersSent": {
-    "statName": "Medium Bwockews Sent"
-  },
-  "largeBlockersSent": {
-    "statName": "Wawge Bwockews Sent"
-  },
-  "Medals_pvp_medal_ib_control_3a": {
-    "statDescription": "As a team, defeat aww opposing *wuns away* Guawdians at weast once duwing da Hunt."
-  },
-  "Medals_pvp_medal_ib_control_3b": {
-    "statDescription": "Suwvive a Hunt in which no membew of uuw team is defeated—then stawt da next Hunt."
-  },
-  "Medals_pvp_medal_ib_control_2a": {
-    "statDescription": "Compwete an Iwon Bannew match with da most combined Advantage and Hunt kiwws."
-  },
-  "Medals_pvp_medal_ib_control_2b": {
-    "statDescription": "Defeat five opponents whiwe howding Zone Advantage befowe da opposing team wecaptuwes a zone."
-  },
-  "Medals_pvp_medal_ib_control_2c": {
-    "statDescription": "In a singwe wife, pawticipate in captuwing aww thwee zones weading to da Hunt."
-  },
-  "Medals_pvp_medal_ib_control_2d": {
-    "statDescription": "Suwvive uuw opponents' Hunt without being defeated."
+  "Medals_pvp_medal_ib_avenger": {
+    "statDescription": "Wand da finaw bwow on an opponent who just defeated an awwy."
   },
   "Medals_pvp_medal_ib_control_1a": {
     "statDescription": "In a singwe wife, defeat thwee opponents attempting to captuwe awwied captuwe zones."
@@ -116,77 +14,41 @@
   "Medals_pvp_medal_ib_control_1d": {
     "statDescription": "Captuwe a zone with uuw entiwe team pwesent."
   },
-  "Medals_pvp_medal_ib_multi_entire_team": {
-    "statDescription": "Wand finaw bwows on da entiwe enemy team befowe any of them wespawn."
+  "Medals_pvp_medal_ib_control_2a": {
+    "statDescription": "Compwete an Iwon Bannew match with da most combined Advantage and Hunt kiwws."
   },
-  "Medals_pvp_medal_ib_multi_7x": {
-    "statDescription": "*sweats* Wapidwy defeat 7 opposing Guawdians."
+  "Medals_pvp_medal_ib_control_2b": {
+    "statDescription": "Defeat five opponents whiwe howding Zone Advantage befowe da opposing team wecaptuwes a zone."
   },
-  "Medals_pvp_medal_ib_multi_6x": {
-    "statDescription": "Wapidwy defeat 6 opposing Guawdians."
+  "Medals_pvp_medal_ib_control_2c": {
+    "statDescription": "In a singwe wife, pawticipate in captuwing aww thwee zones weading to da Hunt."
   },
-  "Medals_pvp_medal_ib_multi_5x": {
-    "statDescription": "Wapidwy defeat 5 opposing Guawdians."
+  "Medals_pvp_medal_ib_control_2d": {
+    "statDescription": "Suwvive uuw opponents' Hunt without being defeated."
   },
-  "Medals_pvp_medal_ib_multi_4x": {
-    "statDescription": "Wapidwy defeat 4 opposing Guawdians."
+  "Medals_pvp_medal_ib_control_3a": {
+    "statDescription": "As a team, defeat aww opposing *wuns away* Guawdians at weast once duwing da Hunt."
   },
-  "Medals_pvp_medal_ib_multi_3x": {
-    "statDescription": "Wapidwy defeat 3 opposing Guawdians."
+  "Medals_pvp_medal_ib_control_3b": {
+    "statDescription": "Suwvive a Hunt in which no membew of uuw team is defeated—then stawt da next Hunt."
   },
-  "Medals_pvp_medal_ib_multi_2x": {
-    "statDescription": "Wapidwy defeat 2 opposing Guawdians."
-  },
-  "Medals_pvp_medal_ib_payback": {
-    "statDescription": "Wand da finaw bwow on da Guawdian who wast defeated uu."
-  },
-  "Medals_pvp_medal_ib_avenger": {
-    "statDescription": "Wand da finaw bwow on an opponent who just defeated an awwy."
+  "Medals_pvp_medal_ib_cycle": {
+    "statDescription": "In a singwe Iwon Bannew match, wand at weast one finaw bwow with each cwass of weapon (Kinetic, Enewgy, Powew) and abiwity (mewee, gwenade, Supew)."
   },
   "Medals_pvp_medal_ib_defender": {
     "statDescription": "Wand da finaw bwow on an opponent who haz wecentwy damaged an awwy."
   },
-  "Medals_pvp_medal_ib_streak_huge": {
-    "statDescription": "In a singwe wife, defeat 50 opposing Guawdians."
-  },
-  "Medals_pvp_medal_ib_streak_lg": {
-    "statDescription": "In a singwe *wuns away* wife, defeat 20 opposing Guawdians."
-  },
-  "Medals_pvp_medal_ib_streak_no_damage": {
-    "statDescription": "Wand finaw bwows on seven opponents without taking any damage fwom any souwce."
-  },
-  "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statDescription": "Shut down an opponent's stweak of 20 ow mowe."
-  },
-  "Medals_pvp_medal_ib_streak_med": {
-    "statDescription": "In a singwe wife, defeat 10 opposing Guawdians."
-  },
-  "Medals_pvp_medal_ib_streak_team": {
-    "statDescription": "As a team, defeat 7 opposing Guawdians without any membew of uuw team being defeated."
-  },
-  "Medals_pvp_medal_ib_streak_sm": {
-    "statDescription": "In a singwe wife, defeat 5 opposing Guawdians."
-  },
-  "Medals_pvp_medal_ib_streak_comeback": {
-    "statDescription": "Defeat 3 opponents in a singwe wife aftew having been defeated two consecutive times."
-  },
-  "Medals_pvp_medal_ib_streak_shutdown": {
-    "statDescription": "Shut down an opponent's stweak."
-  },
-  "Medals_pvp_medal_ib_streak_combined": {
-    "statDescription": "In a singwe wife, defeat 3 opposing Guawdians whiwe assisting ow assisted by uuw teammates."
-  },
-  "Medals_pvp_medal_ib_match_undefeated": {
-    "statDescription": "Compwete an Iwon Bannew match in which uu defeat at weast seven opponents and awe nevew defeated by an opponent."
+  "Medals_pvp_medal_ib_first_strike": {
+    "statDescription": "Wand da fiwst finaw bwow of da match."
   },
   "Medals_pvp_medal_ib_match_blowout": {
     "statDescription": "Win an Iwon Bannew match with a wawge mawgin of victowy."
   },
-  "Medals_pvp_medal_ib_match_most_damage": {
-    "statDescription": "Deaw da most totaw damage to opponents in a singwe Iwon Bannew match."
-  },
   "Medals_pvp_medal_ib_match_comeback": {
     "statDescription": "Win an Iwon Bannew match aftew having twaiwed by a significant mawgin."
+  },
+  "Medals_pvp_medal_ib_match_most_damage": {
+    "statDescription": "Deaw da most totaw damage to opponents in a singwe Iwon Bannew match."
   },
   "Medals_pvp_medal_ib_match_never_trailed": {
     "statDescription": "Win an Iwon Bannew match in which uuw team nevew twaiwed."
@@ -194,13 +56,151 @@
   "Medals_pvp_medal_ib_match_overtime": {
     "statDescription": "Win an Iwon Bannew match *sweats* in ovewtime."
   },
-  "Medals_pvp_medal_ib_cycle": {
-    "statDescription": "In a singwe Iwon Bannew match, wand at weast one finaw bwow with each cwass of weapon (Kinetic, Enewgy, Powew) and abiwity (mewee, gwenade, Supew)."
+  "Medals_pvp_medal_ib_match_undefeated": {
+    "statDescription": "Compwete an Iwon Bannew match in which uu defeat at weast seven opponents and awe nevew defeated by an opponent."
   },
-  "Medals_pvp_medal_ib_first_strike": {
-    "statDescription": "Wand da fiwst finaw bwow of da match."
+  "Medals_pvp_medal_ib_multi_2x": {
+    "statDescription": "Wapidwy defeat 2 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_3x": {
+    "statDescription": "Wapidwy defeat 3 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_4x": {
+    "statDescription": "Wapidwy defeat 4 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_5x": {
+    "statDescription": "Wapidwy defeat 5 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_6x": {
+    "statDescription": "Wapidwy defeat 6 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_7x": {
+    "statDescription": "*sweats* Wapidwy defeat 7 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_multi_entire_team": {
+    "statDescription": "Wand finaw bwows on da entiwe enemy team befowe any of them wespawn."
+  },
+  "Medals_pvp_medal_ib_payback": {
+    "statDescription": "Wand da finaw bwow on da Guawdian who wast defeated uu."
+  },
+  "Medals_pvp_medal_ib_streak_combined": {
+    "statDescription": "In a singwe wife, defeat 3 opposing Guawdians whiwe assisting ow assisted by uuw teammates."
+  },
+  "Medals_pvp_medal_ib_streak_comeback": {
+    "statDescription": "Defeat 3 opponents in a singwe wife aftew having been defeated two consecutive times."
+  },
+  "Medals_pvp_medal_ib_streak_huge": {
+    "statDescription": "In a singwe wife, defeat 50 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_lg": {
+    "statDescription": "In a singwe *wuns away* wife, defeat 20 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_med": {
+    "statDescription": "In a singwe wife, defeat 10 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_no_damage": {
+    "statDescription": "Wand finaw bwows on seven opponents without taking any damage fwom any souwce."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown": {
+    "statDescription": "Shut down an opponent's stweak."
+  },
+  "Medals_pvp_medal_ib_streak_shutdown_large": {
+    "statDescription": "Shut down an opponent's stweak of 20 ow mowe."
+  },
+  "Medals_pvp_medal_ib_streak_sm": {
+    "statDescription": "In a singwe wife, defeat 5 opposing Guawdians."
+  },
+  "Medals_pvp_medal_ib_streak_team": {
+    "statDescription": "As a team, defeat 7 opposing Guawdians without any membew of uuw team being defeated."
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Stop an opponent's Supew with uuw Supew."
+  },
+  "activitiesCleared": {
+    "statName": "Cweawed",
+    "statDescription": "Totaw activities cweawed successfuwwy. Hopefuwwy, Guawdian, this vawue is gweatew than hawf of activities entewed! OwO"
+  },
+  "activitiesEntered": {
+    "statName": "Entewed"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Avewage K/D"
+  },
+  "blockerKills": {
+    "statName": "Bwockew Kiwws"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Cuwwent Competitive Wating",
+    "statDescription": "Pwayew's cuwwent Competitive Division wating."
+  },
+  "currentEloRating": {
+    "statName": "Cuwwent Ewo Wating",
+    "statDescription": "Pwayew's cuwwent Ewo wating.\n\nEwo watings fwom a thiwd-pawty web site, _Destiny Twackew_. _Destiny Twackew_ pwovides Ewo watings fow aww Destiny pwayews who pawticipate in _Cwucibwe_ and _Gambit_ activities."
+  },
+  "flawless": {
+    "statName": "Fwawwess"
+  },
+  "highValueKills": {
+    "statName": "High Vawue Kiwws"
+  },
+  "invaderDeaths": {
+    "statName": "Deaths to Invadews"
+  },
+  "invaderKills": {
+    "statName": "Invadews Kiwwed"
+  },
+  "invasionDeaths": {
+    "statName": "Deaths *wuns away* as Invadew"
+  },
+  "invasionKills": {
+    "statName": "Kiwws as Invadew"
+  },
+  "largeBlockersSent": {
+    "statName": "Wawge Bwockews Sent"
+  },
+  "mediumBlockersSent": {
+    "statName": "Medium Bwockews Sent"
+  },
+  "opponentsDefeated": {
+    "statName": "Kiwws + Assists"
+  },
+  "precisionKills": {
+    "statName": "Pwecision"
+  },
+  "primevalDamage": {
+    "statName": "Pwimevaw Damage"
+  },
+  "primevalKills": {
+    "statName": "Pwimevaw Kiwws"
+  },
+  "secondsPlayed": {
+    "statDescription": "Totaw time devoted to ewiminating thweats to da City. Thewe's no such thing as too wittwe time gifted."
+  },
+  "smallBlockersSent": {
+    "statName": "Smaww Bwockews Sent"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficuwty"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Awwied Kiwws Secuwed"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Cwests Wecovewed"
+  },
+  "supremacyCrestsSecured": {
+    "statName": "Cwests Secuwed"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kiwws Secuwed"
+  },
+  "supremacySecureRate": {
+    "statName": "Secuwe Wate"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Accuwacy"
+  },
+  "winRate": {
+    "statName": "Win Wate"
   }
 }

@@ -29,16 +29,16 @@
       "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
     }
   },
-  "checklists": {
-    "displayProperties": {
-      "name": "Checklists",
-      "description": "태양계의 고스트 스캔 및 아이템 체크리스트"
-    }
-  },
   "maps": {
     "displayProperties": {
       "name": "지도",
       "description": "체크리스트와 주요 목적지를 요약한 상호작용 맵"
+    }
+  },
+  "checklists": {
+    "displayProperties": {
+      "name": "Checklists",
+      "description": "태양계의 고스트 스캔 및 아이템 체크리스트"
     }
   },
   "weeklies": {
@@ -129,12 +129,6 @@
     "displayProperties": {
       "name": "Legend",
       "description": "Life and death are liar's tools. Weave your own lie."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "비교",
-      "description": "동료 수호자와 맞대결하고 허영심에 빠져보세요."
     }
   },
   "archives": {

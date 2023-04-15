@@ -5,6 +5,30 @@
       "description": "クランのステータス、クランメンバーの名簿、メンバーのアクティビティ一覧、および管理モード"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "クラン",
+      "description": "所属するクランと、そのクランのモットーを確認します"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "メンバー名簿",
+      "description": "一緒にプレイするメンバーを探しましょう"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "歴史的統計データ",
+      "description": "いくつかのアクティビティでの _歴史的統計データ_ をクランメンバー内で比較します"
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "信頼関係",
+      "description": "どのクランメンバーと最も一緒に時間を過ごしているかを確認します"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "コレクション",
@@ -19,6 +43,24 @@
       "伝承"
     ]
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "伝承",
+      "description": "Destinyの世界にて、ゲーム中には語られてないストーリーが描かれています。勝利の道のりを達成するごとに、伝承のページがアンロックされ、読むことができます。"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "メダル",
+      "description": "メダルは、ゲーム内での特定条件をクリアすると獲得できます。メダルの一覧と獲得枚数を見てみましょう。"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "ステータストラッカー",
+      "description": "ステータス値は、各エンブレムの詳細画面から適用することができます。適用されたトラッカーは、ネームプレートに表示されます。"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "勝利の道のり",
@@ -30,6 +72,30 @@
       "期限切れ",
       "印"
     ]
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "アクティブな勝利の道のりと印",
+      "description": "アクティブな勝利の道のりと印を見ることができます"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "過去の勝利の道のりと印",
+      "description": "過去の勝利の道のりと印を見ることができます"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "期間限定の勝利の道のり",
+      "description": "獲得できる勝利の道のりは永遠ではありません。この実績を急いで完成させなければ、永遠に手に入れられません。"
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "開催中のイベントカード",
+      "description": "期間限定のイベントカードに挑戦して、様々な報酬を獲得し、イベント限定の印を入手しましょう。"
+    }
   },
   "journey": {
     "displayProperties": {
@@ -51,10 +117,10 @@
       "ガーディアンランク"
     ]
   },
-  "checklists": {
+  "maps": {
     "displayProperties": {
-      "name": "チェックリスト",
-      "description": "太陽系にまたがるゴーストスキャンとアイテムのチェックリスト"
+      "name": "マップ",
+      "description": "収集物のチェックや注目したい目的地が確認できるインタラクティブな地図"
     },
     "keywords": [
       "卵",
@@ -63,10 +129,10 @@
       "失われたセクター"
     ]
   },
-  "maps": {
+  "checklists": {
     "displayProperties": {
-      "name": "マップ",
-      "description": "収集物のチェックや注目したい目的地が確認できるインタラクティブな地図"
+      "name": "チェックリスト",
+      "description": "太陽系にまたがるゴーストスキャンとアイテムのチェックリスト"
     },
     "keywords": [
       "卵",
@@ -86,6 +152,12 @@
       "モジュール"
     ]
   },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "今週のDestiny",
+      "description": "今週のDestinyで開催されるイベント"
+    }
+  },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
@@ -101,7 +173,7 @@
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンの挑戦",
-      "description": "シーズンランクやブライトダストなどの報酬がもらえる期間限定チャレンジをクリアしよう"
+      "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
     },
     "keywords": [
       "シーズンの挑戦"
@@ -110,7 +182,7 @@
   "weeklies-rotations": {
     "displayProperties": {
       "name": "ローテーション",
-      "description": "さまざまなアクティビティの予定をスキャンする"
+      "description": "これからのアクティビティの予定を占う"
     },
     "keywords": [
       "ナイトフォール",
@@ -135,6 +207,12 @@
       "ステータス"
     ]
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "装備",
+      "description": "ガーディアンの戦闘態勢を確認します"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "ポストマスター",
@@ -143,6 +221,12 @@
     "keywords": [
       "ポストマスター"
     ]
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "消耗品",
+      "description": "ガーディアンと装備を強化するために使用できる消耗品や素材"
+    }
   },
   "character-vault": {
     "displayProperties": {
@@ -163,6 +247,12 @@
       "ブライトダストカレンダー",
       "エバーバースカレンダー"
     ]
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "ロードアウト",
+      "description": "事前に目的特化した装備グループを作って、名前を付けましょう。"
+    }
   },
   "quests": {
     "displayProperties": {
@@ -199,6 +289,12 @@
       "ランク"
     ]
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Carnage",
+      "description": "選択中のガーディアンの最近の活動すべて"
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "ブックマーク",
@@ -217,10 +313,16 @@
       "試合"
     ]
   },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "統計グラフ",
+      "description": "アクティビティをグラフにしたもの（統計に強い方向け)"
+    }
+  },
   "activity-series": {
     "displayProperties": {
       "name": "シリーズ",
-      "description": "最も危険な状況下での勝利、最強の敵との戦いに挑んだファイアチームの初勝利報告"
+      "description": "最も危険な状況下での勝利、最強のライバルに対するファイアチームでの初勝利レポート"
     },
     "keywords": [
       "レポート",
@@ -238,22 +340,46 @@
       "試合"
     ]
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "ソケット",
+      "description": "すべてのアイテム属性; ステータス、パーク、Mod"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "伝承",
+      "description": "このアイテムに書かれた物語を読む"
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "設定",
       "description": "アカウント、テーマ、ローカルデータ、アイテム表示、言語設定、開発者モード、トラブルシューティング"
     }
   },
+  "settings-common": {
+    "displayProperties": {
+      "name": "Common",
+      "description": "プロファイル、同期設定、言語、アイテムの表示、テーマなど、Braytech全般の設定です。"
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "Advanced",
+      "description": "パフォーマンス設定、デバッグ、ストレージ設定など上級者向けの設定項目です。"
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "プッシュ通知",
+      "description": "Braytechを使用していなくても、通知を受信するか設定します"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "伝説",
       "description": "生と死は嘘つきの道具に過ぎない。お前自身も嘘を紡ぎ、その軌跡を友やライバルに堂々と見せつけると良い。"
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "勝利の比較",
-      "description": "仲間のガーディアンへ、その自慢の証拠を突き付けろ"
     }
   },
   "archives": {

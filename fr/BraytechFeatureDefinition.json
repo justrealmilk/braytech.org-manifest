@@ -5,6 +5,30 @@
       "description": "À propos de votre clan, de ses membres, des statistiques globales et du mode d'administration"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "Clan",
+      "description": "À propos de votre clan et de ce qu'il représente"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "Roster",
+      "description": "Trouvez des amis avec qui jouer"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "Statistiques de l'Historique",
+      "description": "Comparez les _Statistiques de l'Historique_ pour plusieurs modes d'activité parmi tous les membres du clan"
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "Relations",
+      "description": "Découvrez à quels membres du clan vous consacrez le plus votre temps"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "Collections",
@@ -19,6 +43,24 @@
       "légendes"
     ]
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "Légendes",
+      "description": "Légendes raconte des histoires plus larges de l'univers de Destiny. Déverrouillez et lisez les pages d'histoire en accomplissant des Triomphes"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "Médailles",
+      "description": "Les médailles sont gagnées grâce à des exploits d'expertise en matière de jeu. Consultez la liste des médailles et le nombre de médailles que vous avez gagnées"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "Traqueurs de statistiques",
+      "description": "Les traqueurs de statistiques peuvent être appliqués à votre emblème à partir de sa vue d'inspection. Les trackers appliqués apparaîtront sur votre emblème chaque fois qu'ils seront visibles"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triomphes",
@@ -30,6 +72,30 @@
       "expiré",
       "sceaux"
     ]
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux actifs",
+      "description": "Voir tous les triomphes et sceaux actifs"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Triomphes et Sceaux du passé",
+      "description": "Voir une collection de triomphes et de sceaux passés"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Triomphes éphémères",
+      "description": "Tous les triomphes ne sont pas éternels - complétez ces enregistrements à la hâte ou ils seront perdus à jamais dans le temps."
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "Carte d'évènement actif",
+      "description": "Relevez des défis de carte d'événement à durée limitée pour gagner diverses récompenses et progresser vers l'achèvement du sceau de l'événement."
+    }
   },
   "journey": {
     "displayProperties": {
@@ -51,10 +117,10 @@
       "rang de gardien"
     ]
   },
-  "checklists": {
+  "maps": {
     "displayProperties": {
-      "name": "Listes de contrôle",
-      "description": "Scans de Spectre et listes de contrôle des éléments à récupérer dans le système solaire"
+      "name": "Cartes",
+      "description": "Cartes interactives indiquant les listes de contrôle et d'autres destinations notables"
     },
     "keywords": [
       "œufs",
@@ -63,10 +129,10 @@
       "secteurs oubliés"
     ]
   },
-  "maps": {
+  "checklists": {
     "displayProperties": {
-      "name": "Cartes",
-      "description": "Cartes interactives indiquant les listes de contrôle et d'autres destinations notables"
+      "name": "Listes de contrôle",
+      "description": "Scans de Spectre et listes de contrôle des éléments à récupérer dans le système solaire"
     },
     "keywords": [
       "œufs",
@@ -86,6 +152,12 @@
       "modules"
     ]
   },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "Cette semaine",
+      "description": "Cette semaine dans Destiny"
+    }
+  },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "Défis",
@@ -100,8 +172,8 @@
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "name": "Défis saisonniers",
-      "description": "Relevez des défis à durée limitée pour obtenir des rangs de saison, de la poussière brillante et d'autres récompenses"
+      "name": "Défis Saisonniers",
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
     },
     "keywords": [
       "défis saisonniers"
@@ -135,6 +207,12 @@
       "statistiques"
     ]
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "Équipement",
+      "description": "Évaluez l'état de préparation au combat de votre gardien"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "Commis des Postes",
@@ -143,6 +221,12 @@
     "keywords": [
       "commis des postes"
     ]
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "Consommables",
+      "description": "Fournitures et matériaux pouvant être utilisés pour améliorer votre gardien et son équipement"
+    }
   },
   "character-vault": {
     "displayProperties": {
@@ -163,6 +247,12 @@
       "calendrier poussière brillante",
       "calendrier everversum"
     ]
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "Configurations",
+      "description": "Préconfigurez votre équipement, assemblez-le et nommez-le"
+    }
   },
   "quests": {
     "displayProperties": {
@@ -199,6 +289,12 @@
       "rangs"
     ]
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "Carnage",
+      "description": "Toutes les activités récentes du Gardien sélectionné"
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Signets",
@@ -216,6 +312,12 @@
       "compétitif",
       "matchs"
     ]
+  },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "Graphiques",
+      "description": "Activités tracées avec des graphiques de points, pour les statistiques"
+    }
   },
   "activity-series": {
     "displayProperties": {
@@ -238,22 +340,46 @@
       "matchs"
     ]
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "Emplacements",
+      "description": "Tous les attributs de cet objet; stats, perks et mods"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "Histoire",
+      "description": "Lire l'histoire de cet objet"
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "Paramètres",
       "description": "Compte, thème, données locales, visibilité des éléments, langue, mode développeur, dépannage"
     }
   },
+  "settings-common": {
+    "displayProperties": {
+      "name": "Commun",
+      "description": "Profil Destiny, Synchronisation des paramètres, langue, visibilité des objets, thème, and plus encore de paramètres affectant la façon dont vous pourrez profiter de  Braytech."
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "Avancé",
+      "description": "Gestion des performances, du débogage et du stockage. Personne ne s'amuse ici."
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "Notifications 'Push'",
+      "description": "Contrôlez comment Braytech vous notifie lorsque vous ne l'utilisez pas."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Légende",
       "description": "La vie et la mort sont des outils de menteur. Tissez votre propre mensonge. Affichez fièrement ce résumé devant vos amis et vos ennemis."
-    }
-  },
-  "compare": {
-    "displayProperties": {
-      "name": "Comparaison",
-      "description": "Affrontez d'autres gardiens pour obtenir de la vanité."
     }
   },
   "archives": {

@@ -1,760 +1,89 @@
 {
-  "1469913804": {
+  "2056946089": {
     "displayProperties": {
-      "tip": "Rare drop from completing the 3rd encounter (Morgeth, the Spirekeeper)."
+      "description": "An emblem designed as tribute to a community member past, Seraphim Crypto. You can read more about their legend in [the TWAB of September 15, 2022](https://www.bungie.net/en/Explore/Detail/News/51779)."
     }
   },
-  "3360537485": {
+  "1171206947": {
+    "sourceString": "Source: Complete the \"Last Wish\" raid within the first 24 hours of release."
+  },
+  "1469913804": {
     "displayProperties": {
-      "tip": "Rare drop from completing any encounter."
+      "tip": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
     }
   },
   "3163873693": {
     "displayProperties": {
-      "tip": "Earned by opening the Glittering Key chest, found between the 3rd (Morgeth, the Spirekeeper) and 4th (The Vault) encounters if the \"2nd Wish\" has been entered."
-    }
-  },
-  "3617101589": {
-    "displayProperties": {
-      "tip": "Earned by completing the raid for the first time."
-    }
-  },
-  "1246578675": {
-    "displayProperties": {
-      "tip": "Rare drop from any encounter."
+      "tip": "Earned by opening the \"Glittering Key\" chest."
     }
   },
   "1246578674": {
     "displayProperties": {
-      "tip": "Earned by completing all the raid challenges."
+      "tip": "Earned by completing all \"Last Wish\" raid challenges."
     }
   },
   "1171206946": {
     "displayProperties": {
-      "tip": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes\"."
-    },
-    "sourceString": "Source: Last Wish raid."
-  },
-  "1171206947": {
-    "displayProperties": {
-      "tip": "Currently unobtainable."
-    },
-    "sourceString": "Source: Complete the \"Last Wish\" raid within the first 24 hours after its launch."
-  },
-  "199171385": {
-    "displayProperties": {
-      "tip": "Very rare drop from opening the Ethereal Key chests after the final encounter."
-    }
-  },
-  "1279318107": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "4274523514": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2589931342": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "256984752": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "301231525": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3471068543": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3849455378": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1534387872": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "637236": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "4058916407": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2760144873": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2826590445": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1230173206": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "28595": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "552469184": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1908141240": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3536103390": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "915053447": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2340335439": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2976357604": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "934024124": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "4240106002": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1927215059": {
-    "displayProperties": {
-      "tip": "Drop from any encounter.\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1616812058": {
-    "displayProperties": {
-      "tip": "Rare drop from the secret chests found between the raid encounters."
-    }
-  },
-  "1244899887": {
-    "displayProperties": {
-      "tip": "Rare drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2061705522": {
-    "displayProperties": {
-      "tip": "Rare drop from the secret chests found between the raid encounters."
-    }
-  },
-  "426204227": {
-    "displayProperties": {
-      "tip": "Rare drop from the secret chests found between the raid encounters."
-    }
-  },
-  "3424534823": {
-    "displayProperties": {
-      "tip": "Rare drop from the secret chests found between the raid encounters."
-    }
-  },
-  "737130625": {
-    "sourceString": "Source: Unobtainable."
-  },
-  "73480071": {
-    "displayProperties": {
-      "tip": "Earned by completing Queen's Bounties."
+      "tip": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
     }
   },
   "304436264": {
     "displayProperties": {
-      "tip": "Earned by completing all the raid challenges."
+      "tip": "Earned by completing all \"Garden of Salvation\" raid challenges."
     }
   },
   "304436265": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Inherent Perfection\"](https://bray.tech/triumphs/node/1473265108/2178633627/615240848) triumph."
-    }
-  },
-  "3938759710": {
-    "displayProperties": {
-      "tip": "Earned by completing the raid for the first time."
+      "tip": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
     }
   },
   "3938759711": {
-    "displayProperties": {
-      "tip": "Currently unobtainable."
-    },
     "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
   },
   "1988948484": {
-    "sourceString": "Source: Earned by completing the \"Devine Fragmentation\" Exotic Quest."
-  },
-  "1844459180": {
-    "displayProperties": {
-      "tip": "Drop from completing the 1st encounter (Evade)."
-    }
-  },
-  "3995207026": {
-    "displayProperties": {
-      "tip": "Drop from completing the 1st encounter (Evade)."
-    }
-  },
-  "2948134329": {
-    "displayProperties": {
-      "tip": "Drop from completing the 2nd encounter (Summon)."
-    }
-  },
-  "4228109048": {
-    "displayProperties": {
-      "tip": "Drop from completing the 2nd encounter (Summon)."
-    }
-  },
-  "1999017690": {
-    "displayProperties": {
-      "tip": "Drop from completing the 3rd encounter (Consacrated Mind)."
-    }
-  },
-  "773381624": {
-    "displayProperties": {
-      "tip": "Drop from completing the 3rd encounter (Consacrated Mind)."
-    }
-  },
-  "1141170786": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind)."
-    }
-  },
-  "204539712": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "95569771": {
-    "displayProperties": {
-      "tip": "Drop from completing the 2nd encounter (Summon).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2783756445": {
-    "displayProperties": {
-      "tip": "Drop from completing the 3rd encounter (Consacrated Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1740561233": {
-    "displayProperties": {
-      "tip": "Drop from completing the 1st encounter (Evade).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "29206418": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3635099391": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "4276241044": {
-    "displayProperties": {
-      "tip": "Drop from completing the 2nd encounter (Summon).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2100683596": {
-    "displayProperties": {
-      "tip": "Drop from completing the 3rd encounter (Consacrated Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "166135138": {
-    "displayProperties": {
-      "tip": "Drop from completing the 1st encounter (Evade).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3093771363": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "1399922251": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "831181528": {
-    "displayProperties": {
-      "tip": "Drop from completing the 2nd encounter (Summon).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3854372384": {
-    "displayProperties": {
-      "tip": "Drop from completing the 3rd encounter (Consacrated Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "3851783670": {
-    "displayProperties": {
-      "tip": "Drop from completing the 1st encounter (Evade).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "2282824303": {
-    "displayProperties": {
-      "tip": "Drop from completing the final encounter (Sanctified Mind).\nDrop from secret chests if previously acquired."
-    }
-  },
-  "911081605": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "1435246899": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2081488768": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2276007528": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "160781275": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "1395260669": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2076751138": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "3796544862": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
+    "sourceString": "Source: Earned by completing the \"Devine Fragmentation\" exotic quest."
   },
   "3574313939": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Rock Bottom\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384) triumph."
+      "tip": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "392272160": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Not a Scratch\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384) triumph."
+      "tip": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "2571679418": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Cryptkeeper\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384) triumph."
+      "tip": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
     }
   },
   "2571679419": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Survival of the Fittest\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384) triumph."
-    }
-  },
-  "2273453973": {
-    "displayProperties": {
-      "tip": "Earned by completing the [\"Deep Stone Crypt\"](https://bray.tech/triumphs/node/2647590440/1476271775/1726708384) triumph."
+      "tip": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
     }
   },
   "2273453972": {
-    "displayProperties": {
-      "tip": "Currently unobtainable, earned by completing the \"Fresh of the Crypt\" triumph."
-    },
     "sourceString": "Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
-  },
-  "753200559": {
-    "displayProperties": {
-      "tip": "Very rare drop from completing the final encounter (Abomination)."
-    }
-  },
-  "2170524258": {
-    "displayProperties": {
-      "tip": "Drop from the 1st encounter (Security).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1095326468": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1901414106": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd encounter (Replication).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2423099022": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd encounter (Disarmament).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2291988568": {
-    "displayProperties": {
-      "tip": "Drop from the final encounter (Abomination).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3767726769": {
-    "displayProperties": {
-      "tip": "Drop from the final encounter (Abomination).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3798857473": {
-    "displayProperties": {
-      "tip": "Drop from the final encounter (Abomination).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "285064438": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "4052971298": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Disarmament) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1481114068": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2782379061": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2485720530": {
-    "displayProperties": {
-      "tip": "Drop from the final encounter (Abomination).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2790550781": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3540189675": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Disarmament) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3255058899": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "816770468": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3293236622": {
-    "displayProperties": {
-      "tip": "Drop from the final encounter (Abomination).\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2341487969": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "454243247": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Disarmament) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2425656839": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and final (Abomination) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3219239120": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Security), 2nd (Replication) and 3rd (Disarmament) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2802279446": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2040177352": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "811728933": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "1755084153": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
   },
   "958866288": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Master Glasser\"](https://bray.tech/triumphs/node/4011083713/3472409870) triumph."
+      "tip": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
     }
   },
   "3568861785": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Pearl of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870) triumph."
+      "tip": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
     }
   },
   "3568861784": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Flawless Vault of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870) triumph."
-    }
-  },
-  "2172413747": {
-    "displayProperties": {
-      "tip": "Earned by completing the [\"Vault of Glass\"](https://bray.tech/triumphs/node/4011083713/3472409870) triumph."
-    }
-  },
-  "3332781237": {
-    "displayProperties": {
-      "tip": "Currently unobtainable, earned by carrying 10 Guardians to their first \"Vault of Glass\" completion (must be claimed from Bungie Rewards by 31/12/2022)."
+      "tip": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
     }
   },
   "2172413746": {
-    "displayProperties": {
-      "tip": "Currently unobtainable, earned by completing the \"Tempo's Edge\" triumph."
-    },
-    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours."
-  },
-  "2300465938": {
-    "displayProperties": {
-      "tip": "Very rare drop from completing the final encounter (Atheon)."
-    }
-  },
-  "634586904": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Templar) and 4th (Gatekeepers) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3463901839": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 3rd (Templar) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "724059973": {
-    "displayProperties": {
-      "tip": "Drop from the 4th (Gatekeepers) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3515970092": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 2nd (Oracles) and 3rd (Templar) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2948791533": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 2nd (Oracles) and 4th (Gatekeepers) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2347222640": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd (Oracles) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3231668945": {
-    "displayProperties": {
-      "tip": "Earned by completing the 3rd (Templar) encounter's challenge (Out of Its Way) on Master difficulty.\nSubsequently also available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "3593833250": {
-    "displayProperties": {
-      "tip": "Earned by completing the final (Atheon) encounter's challenge (Ensemble's Refrain) on Master difficulty.\nSubsequently also available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "3395832948": {
-    "displayProperties": {
-      "tip": "Earned by completing the 4th (Gatekeepers) encounter's challenge (Strangers in Time) on Master difficulty.\nSubsequently also available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "1798635285": {
-    "displayProperties": {
-      "tip": "Earned by completing the 1st (Confluxes) encounter's challenge (Wait for It) on Master difficulty.\nSubsequently also available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "2573048236": {
-    "displayProperties": {
-      "tip": "Earned by completing the \"Maestro Glasser\" triumph.\nSubsequently exclusively available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "1986202265": {
-    "displayProperties": {
-      "tip": "Earned by completing the 2nd (Oracles) encounter's challenge (The Only Oracle for You) on Master difficulty.\nSubsequently also available at the Spoils of Conquest Vendor after the final encounter on Master difficulty only."
-    }
-  },
-  "3516045044": {
-    "displayProperties": {
-      "tip": "Drop from the 4th (Gatekeepers) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3279460087": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 2nd (Oracles) and 3rd (Templar) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1098118569": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Templar) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2088710573": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd (Oracles) and 4th (Gatekeepers) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3821537750": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes) encounter.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "930771313": {
-    "displayProperties": {
-      "tip": "Drop from the 4th (Gatekeepers) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1748402214": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 2nd (Oracles) and 3rd (Templar) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "597202930": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Templar) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1865461412": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd (Oracles) and 4th (Gatekeepers) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3631920453": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes) encounter.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "983347941": {
-    "displayProperties": {
-      "tip": "Drop from the 4th (Gatekeepers) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1123371330": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes), 2nd (Oracles) and 3rd (Templar) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1476565614": {
-    "displayProperties": {
-      "tip": "Drop from the 3rd (Templar) and final (Atheon) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "3233980800": {
-    "displayProperties": {
-      "tip": "Drop from the 2nd (Oracles) and 4th (Gatekeepers) encounters.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "2778391833": {
-    "displayProperties": {
-      "tip": "Drop from the 1st (Confluxes) encounter.\nDrop from secret chests if previously acquired.\nAvailable at the Spoils of Conquest Vendor after the final encounter."
-    }
-  },
-  "1995412175": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "1995412174": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "3837479520": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "3837479521": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "3837479522": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2070411865": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2070411864": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2070411867": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2923491623": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2923491622": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
-  },
-  "2923491621": {
-    "displayProperties": {
-      "tip": "Drop from the secret chests found between the raid encounters."
-    }
+    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
   }
 }

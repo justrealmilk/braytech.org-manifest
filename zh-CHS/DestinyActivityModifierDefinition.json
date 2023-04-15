@@ -1,4 +1,46 @@
 {
+  "25589576690": {
+    "displayProperties": {
+      "name": "烈日护盾",
+      "description": "该活动的敌人具有烈日护盾"
+    }
+  },
+  "32153845200": {
+    "displayProperties": {
+      "name": "电弧护盾",
+      "description": "该活动的敌人具有电弧护盾"
+    }
+  },
+  "33620748140": {
+    "displayProperties": {
+      "name": "虚空护盾",
+      "description": "该活动的敌人具有虚空护盾"
+    }
+  },
+  "34300000001": {
+    "displayProperties": {
+      "name": "烈日和电弧护盾",
+      "description": "该活动下的敌人具有烈日护盾和电弧护盾"
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "烈日和虚空护盾",
+      "description": "该活动下的敌人具有烈日护盾和虚空护盾"
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "电弧和虚空护盾",
+      "description": "该活动下的敌人具有电弧护盾和虚空护盾"
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "烈日、电弧和虚空护盾",
+      "description": "该活动下的敌人具有烈日护盾、电弧护盾和虚空护盾"
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "最终遭遇战中，每轮输出阶段都一次打破四个推进器"
@@ -106,7 +148,56 @@
   },
   "4073197101": {
     "displayProperties": {
-      "description": "击杀圣洁首脑阶段，每个继电器都必须存满 30 个荧光。对于每个继电器，必须在 10 秒内存满。"
+      "description": "击杀圣洁首脑阶段，每个继电器都必须存满 30 个荧光。且每个继电器必须在 10 秒内存满。"
+    }
+  },
+  "3577304467": {
+    "displayProperties": {
+      "description": "每位玩家在图腾占领关不能连续站在同一个图腾之下。"
+    }
+  },
+  "2159250954": {
+    "displayProperties": {
+      "description": "玩家在拾取黄血骑士掉落的球后的在 5秒 内夺取队友身上的红罩子。"
+    }
+  },
+  "2890753840": {
+    "displayProperties": {
+      "description": "获得“格尔格罗斯的凝视”的玩家在交接之前需要站在回收光能池内。"
+    }
+  },
+  "2936050162": {
+    "displayProperties": {
+      "description": "除了进入“维度撕裂”状态的玩家，每位玩家在每个阶段不能站在同一块圆板上。"
+    }
+  },
+  "4152669757": {
+    "displayProperties": {
+      "description": "每位玩家不能击杀同一个位置刷出的的骑士或虫瘤。"
+    }
+  },
+  "766975360": {
+    "displayProperties": {
+      "name": "光明折磨",
+      "description": "玩家仅可在获得光之领域增益后击杀折磨者。"
+    }
+  },
+  "138641527": {
+    "displayProperties": {
+      "name": "火线混战",
+      "description": "跨越裂谷的玩家需要让对面平台的队友触发另一边的开关，只能使用弹射器跨越裂谷。"
+    }
+  },
+  "2070303007": {
+    "displayProperties": {
+      "name": "宇宙平衡",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+    }
+  },
+  "1616571513": {
+    "displayProperties": {
+      "name": "五膀六臂",
+      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
     }
   }
 }

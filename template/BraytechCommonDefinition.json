@@ -44,9 +44,30 @@
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creator of Braytech._"
+      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this tooltip."
     },
     "itemTypeDisplayName": "Braytech Developer"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"I made this for you\"",
+      "description": "_You're my little pogchamp, Guardian._ \uD83C\uDF1E"
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Bungie Developer",
+      "description": "_Beware the Architects._\nThis player _could_ delete you."
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Bungie API Developer",
+      "description": "_Beware the Architects._\nThis player builds with Bungie's API."
+    },
+    "itemTypeDisplayName": "Special"
   },
   "flair-patron-submind": {
     "displayProperties": {
@@ -282,204 +303,6 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_This map charts the steps on the path to the top._"
-    }
-  },
-  "sub-collections-root": {
-    "displayProperties": {
-      "name": "Collections",
-      "description": "Items your Guardian has acquired over their lifetime"
-    }
-  },
-  "sub-collections-medals": {
-    "displayProperties": {
-      "name": "Medals",
-      "description": "Medals are earned through feats of gameplay expertise. See the list of medals and how many of each you've earned"
-    }
-  },
-  "sub-collections-exotic-catalysts": {
-    "displayProperties": {
-      "name": "Patterns & Catalysts",
-      "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
-    }
-  },
-  "sub-collections-lore": {
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
-    }
-  },
-  "sub-collections-metrics": {
-    "displayProperties": {
-      "name": "Stat Trackers",
-      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
-    }
-  },
-  "sub-triumphs-active": {
-    "displayProperties": {
-      "name": "Active Triumphs and Seals",
-      "description": "View all active Triumphs and Seals"
-    }
-  },
-  "sub-triumphs-legacy": {
-    "displayProperties": {
-      "name": "Legacy Triumphs and Seals",
-      "description": "View a collection of legacy Triumphs and Seals"
-    }
-  },
-  "sub-triumphs-transient": {
-    "displayProperties": {
-      "name": "Transient Triumphs",
-      "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
-    }
-  },
-  "sub-weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
-  "sub-triumphs-event-card": {
-    "displayProperties": {
-      "name": "Active Event Card",
-      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
-    }
-  },
-  "sub-clan-about": {
-    "displayProperties": {
-      "name": "Clan",
-      "description": "About your clan and what it stands for"
-    }
-  },
-  "sub-clan-roster": {
-    "displayProperties": {
-      "name": "Roster",
-      "description": "Find friends to play with"
-    }
-  },
-  "sub-clan-administration": {
-    "displayProperties": {
-      "name": "Administration",
-      "description": "Take action on clan matters and members"
-    }
-  },
-  "sub-clan-stats": {
-    "displayProperties": {
-      "name": "Historical Stats",
-      "description": "Compare _Historical Stats_ for several activity modes across all clan members"
-    }
-  },
-  "sub-clan-relationships": {
-    "displayProperties": {
-      "name": "Relationships",
-      "description": "See which clan members you dedicate your time to most"
-    }
-  },
-  "sub-character-equipment": {
-    "displayProperties": {
-      "name": "Equipment",
-      "description": "Evaluate your Guardian's battle readiness"
-    }
-  },
-  "sub-character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
-  "sub-character-consumables": {
-    "displayProperties": {
-      "name": "Consumables",
-      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
-    }
-  },
-  "sub-character-vault": {
-    "displayProperties": {
-      "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
-    }
-  },
-  "sub-character-vendors": {
-    "displayProperties": {
-      "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
-    }
-  },
-  "sub-character-loadouts": {
-    "displayProperties": {
-      "name": "Loadouts",
-      "description": "Preconfigure your equipment, strap it up, and name it"
-    }
-  },
-  "sub-activity-carnage": {
-    "displayProperties": {
-      "name": "Carnage",
-      "description": "All of the selected Guardian's recent activities."
-    }
-  },
-  "sub-activity-bookmarks": {
-    "displayProperties": {
-      "name": "Bookmarks",
-      "description": "A record of your victories, satisfaction, and dismay.\n\nHere lies all activities which you've added to your bookmarks. Stand tall, Guardian, and bask in your glory."
-    }
-  },
-  "sub-activity-graphs": {
-    "displayProperties": {
-      "name": "Graphs",
-      "description": "Activities plotted against graphs, for the statistically inclined."
-    }
-  },
-  "sub-activity-series": {
-    "displayProperties": {
-      "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
-    }
-  },
-  "sub-weeklies-this-week": {
-    "displayProperties": {
-      "name": "This Week",
-      "description": "This week in Destiny"
-    }
-  },
-  "sub-weeklies-challenges": {
-    "displayProperties": {
-      "name": "Challenges",
-      "description": "All activity challenges"
-    }
-  },
-  "sub-weeklies-rotations": {
-    "displayProperties": {
-      "name": "Rotations",
-      "description": "Scry the orbits of various activities"
-    }
-  },
-  "sub-inspect-equipment": {
-    "displayProperties": {
-      "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods"
-    }
-  },
-  "sub-inspect-lore": {
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Read this item's story"
-    }
-  },
-  "sub-settings-common": {
-    "displayProperties": {
-      "name": "Common",
-      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
-    }
-  },
-  "sub-settings-advanced": {
-    "displayProperties": {
-      "name": "Advanced",
-      "description": "Performance, debugging, and storage management. No one has fun here."
-    }
-  },
-  "sub-settings-push-notifications": {
-    "displayProperties": {
-      "name": "Push Notifications",
-      "description": "Control how Braytech reaches you when you're not using it."
     }
   }
 }

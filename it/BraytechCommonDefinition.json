@@ -44,9 +44,30 @@
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creatore di Braytech._"
+      "description": "_Creatore di Braytech._\nQuesto giocatore ha creato l'app tramite la quale stai leggendo questo messaggio."
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"L'ho fatto per te\"",
+      "description": "_Sei il mio piccolo pogchamp, Guardiano._ \uD83C\uDF1E"
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Sviluppatore Bungie",
+      "description": "_Attenti agli architetti._\nQuesto giocatore _potrebbe_ eliminarti."
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Sviluppatore Bungie API",
+      "description": "_Attenti agli architetti._\nQuesto giocatore ha sviluppato usando l'API di Bungie."
+    },
+    "itemTypeDisplayName": "Speciale"
   },
   "flair-patron-submind": {
     "displayProperties": {
@@ -282,204 +303,6 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
-    }
-  },
-  "sub-collections-root": {
-    "displayProperties": {
-      "name": "Collezioni",
-      "description": "Oggetti ottenuti dal tuo Guardiano nel tempo"
-    }
-  },
-  "sub-collections-medals": {
-    "displayProperties": {
-      "name": "Medaglie",
-      "description": "Le medaglie si guadagnano grazie a prodezze dell'esperienza di gioco. Guarda l'elenco delle medaglie e quante ne hai guadagnate"
-    }
-  },
-  "sub-collections-exotic-catalysts": {
-    "displayProperties": {
-      "name": "Modelli e catalizzatori",
-      "description": "I modelli permettono la creazione di armi. I catalizzatori esotici espandono la potenza delle tue armi esotiche. Trovali e completa i loro obiettivi per sbloccare il potenziale completo del tuo arsenale"
-    }
-  },
-  "sub-collections-lore": {
-    "displayProperties": {
-      "name": "Leggende",
-      "description": "Le leggende raccontano le storie più ampie dell'universo di Destiny. Sblocca e leggi le pagine delle leggende completando i trionfi"
-    }
-  },
-  "sub-collections-metrics": {
-    "displayProperties": {
-      "name": "Contatori statistiche",
-      "description": "I contatori statistiche possono essere applicati al tuo emblema nell'adeguata sezione. Quando applicati, i contatori appariranno sull'emblema ogni volta che sarà visibile"
-    }
-  },
-  "sub-triumphs-active": {
-    "displayProperties": {
-      "name": "Trionfi e sigilli attivi",
-      "description": "Vedi tutti i trionfi e sigilli attivi"
-    }
-  },
-  "sub-triumphs-legacy": {
-    "displayProperties": {
-      "name": "Trionfi e sigilli storici",
-      "description": "Vedi una collezione di trionfi e sigilli storici"
-    }
-  },
-  "sub-triumphs-transient": {
-    "displayProperties": {
-      "name": "Trionfi transitori",
-      "description": "Non tutti i trionfi sono immortali–completa questi trionfi di fretta o saranno persi nel tempo per sempre."
-    }
-  },
-  "sub-weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Sfide stagionali",
-      "description": "Completa spfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
-    }
-  },
-  "sub-triumphs-event-card": {
-    "displayProperties": {
-      "name": "Carta evento attiva",
-      "description": "Completa le sfide a tempo limitato della carta evento per guadagnare varie ricompense e progredire nel completamento del sigillo dell'evento."
-    }
-  },
-  "sub-clan-about": {
-    "displayProperties": {
-      "name": "Clan",
-      "description": "Informazioni sul tuo clan e su cosa rappresenta"
-    }
-  },
-  "sub-clan-roster": {
-    "displayProperties": {
-      "name": "Membri",
-      "description": "Trova amici con cui giocare"
-    }
-  },
-  "sub-clan-administration": {
-    "displayProperties": {
-      "name": "Amministrazione",
-      "description": "Amministra questioni e membri del clan"
-    }
-  },
-  "sub-clan-stats": {
-    "displayProperties": {
-      "name": "Statistiche storiche",
-      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan"
-    }
-  },
-  "sub-clan-relationships": {
-    "displayProperties": {
-      "name": "Relazioni",
-      "description": "Scopri a quali membri del clan dedichi maggiormente il tuo tempo"
-    }
-  },
-  "sub-character-equipment": {
-    "displayProperties": {
-      "name": "Equipaggiamento",
-      "description": "Valuta la prontezza in battaglia del tuo Guardiano"
-    }
-  },
-  "sub-character-postmaster": {
-    "displayProperties": {
-      "name": "Amministratrice",
-      "description": "I telai da amministratore supervisionano diligentemente consegne, messaggi e oggetti smarriti"
-    }
-  },
-  "sub-character-consumables": {
-    "displayProperties": {
-      "name": "Consumabili",
-      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento"
-    }
-  },
-  "sub-character-vault": {
-    "displayProperties": {
-      "name": "Deposito",
-      "description": "Deposito sicuro per oggetti in generale. Accessibile a tutti i tuoi personaggi"
-    }
-  },
-  "sub-character-vendors": {
-    "displayProperties": {
-      "name": "Mercanti",
-      "description": "Spia i tuoi deleganti di attività e compagni di scambi preferiti"
-    }
-  },
-  "sub-character-loadouts": {
-    "displayProperties": {
-      "name": "Dotazioni",
-      "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnagli un nome"
-    }
-  },
-  "sub-activity-carnage": {
-    "displayProperties": {
-      "name": "Carneficina",
-      "description": "Tutte le attività recenti del Guardiano selezionato."
-    }
-  },
-  "sub-activity-bookmarks": {
-    "displayProperties": {
-      "name": "Preferiti",
-      "description": "Un registro delle tue vittorie, soddisfazioni e sgomenti.\n\nQui si trovano tutte le attività che hai aggiunto ai tuoi segnalibri. Ergiti, Guardiano, e crogiolati nella tua gloria."
-    }
-  },
-  "sub-activity-graphs": {
-    "displayProperties": {
-      "name": "Grafici",
-      "description": "Attività tracciate su grafici, per coloro inclini alle statistiche."
-    }
-  },
-  "sub-activity-series": {
-    "displayProperties": {
-      "name": "Serie",
-      "description": "Trionfa nelle condizioni più pericolose, questi sono i riepiloghi delle prime vittorie delle tue squadre contro i nostri più grandi avversari."
-    }
-  },
-  "sub-weeklies-this-week": {
-    "displayProperties": {
-      "name": "Questa settimana",
-      "description": "Questa settimana in Destiny"
-    }
-  },
-  "sub-weeklies-challenges": {
-    "displayProperties": {
-      "name": "Sfide",
-      "description": "Tutte le sfide delle attività"
-    }
-  },
-  "sub-weeklies-rotations": {
-    "displayProperties": {
-      "name": "Rotazioni",
-      "description": "Prevedi le rotazioni di varie attività"
-    }
-  },
-  "sub-inspect-equipment": {
-    "displayProperties": {
-      "name": "Attributi",
-      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto"
-    }
-  },
-  "sub-inspect-lore": {
-    "displayProperties": {
-      "name": "Storie",
-      "description": "Leggi la storia di questo oggetto"
-    }
-  },
-  "sub-settings-common": {
-    "displayProperties": {
-      "name": "Comuni",
-      "description": "Profilo di Destiny, sincronizzazione delle impostazioni, lingua, visibilità degli oggetti, tema e altro ancora—queste impostazioni influenzano il modo in cui ti fruisci di Braytech."
-    }
-  },
-  "sub-settings-advanced": {
-    "displayProperties": {
-      "name": "Avanzate",
-      "description": "Prestazioni, debug e gestione dello spazio di archiviazione. Qui non ci si diverte."
-    }
-  },
-  "sub-settings-push-notifications": {
-    "displayProperties": {
-      "name": "Notifiche push",
-      "description": "Controlla come Braytech ti raggiunge quando non lo stai usando."
     }
   }
 }
