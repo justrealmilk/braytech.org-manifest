@@ -44,9 +44,30 @@
   "flair-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creador of Braytech._"
+      "description": "_Creador of Braytech._\nEste jugador creó la aplicación a través de la cual estás leyendo este mensaje."
     },
     "itemTypeDisplayName": "Desarrollador de Braytech"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"La hice para ti\"",
+      "description": "_Eres mi pequeño pogchamp, Guardian._ 🌞"
+    },
+    "itemTypeDisplayName": "Especial"
+  },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Desarrollador de Bungie",
+      "description": "_Cuidado con los Arquitectos._ \nEste jugador _podría_ borrarte."
+    },
+    "itemTypeDisplayName": "Especial"
+  },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Desarrollador de la API de Bungie",
+      "description": "_Cuidado con los Arquitectos._\nEste jugador construye con la API de Bungie."
+    },
+    "itemTypeDisplayName": "Especial"
   },
   "flair-patron-submind": {
     "displayProperties": {

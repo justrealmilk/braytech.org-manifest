@@ -17,6 +17,13 @@
       "description": "Encuentra amigos con los que jugar."
     }
   },
+  "clan-roster-admin": {
+    "hash": "clan-roster-admin",
+    "displayProperties": {
+      "name": "Administración",
+      "description": "Toma medidas sobre asuntos y miembros del clan."
+    }
+  },
   "clan-stats": {
     "displayProperties": {
       "name": "Estadísticas históricas",
@@ -32,21 +39,20 @@
   "collections": {
     "displayProperties": {
       "name": "Colecciones",
-      "description": "Objetos que tu Guardián adquirió a lo largo de su vida"
+      "description": "Objetos que tu Guardián adquirió a lo largo de su vida."
     },
-    "keywords": [
-      "excepcionales",
-      "insignias",
-      "rastreadores",
-      "emblema",
-      "catalizadores",
-      "historia"
-    ]
+    "keywords": ["excepcionales", "insignias", "rastreadores", "emblema", "catalizadores", "historia"]
   },
   "collections-lore": {
     "displayProperties": {
       "name": "Historia",
       "description": "La historia contiene más información sobre el universo de Destiny. Completa triunfos para desbloquear y leer las páginas de historia."
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "Patrones y catalizadores",
+      "description": "Los patrones permiten formar armas. Los catalizadores amplían el poder de tus armas exóticas. Encuéntralos y completa sus objetivos para desbloquear todo el potencial de tu arsenal."
     }
   },
   "collections-medals": {
@@ -66,12 +72,7 @@
       "name": "Triunfos",
       "description": "Logros alcanzados por tu Guardián en sus desafíos"
     },
-    "keywords": [
-      "casi completado",
-      "seguido",
-      "caduca",
-      "sellos"
-    ]
+    "keywords": ["casi completado", "seguido", "caduca", "sellos"]
   },
   "triumphs-active": {
     "displayProperties": {
@@ -102,60 +103,40 @@
       "name": "Trayectoria",
       "description": "Recorre la trayectoria de tu Guardián de Nueva Luz a Parangón"
     },
-    "keywords": [
-      "trayectoria",
-      "rango de guardián"
-    ]
+    "keywords": ["trayectoria", "rango de guardián"]
   },
   "commendations": {
     "displayProperties": {
-      "name": "Menciones",
+      "name": "Elogios",
       "description": "Celebra los éxitos de su escuadra y prémiales con muestras de tu consideración"
     },
-    "keywords": [
-      "menciones",
-      "rango de guardián"
-    ]
+    "keywords": ["elogios", "rango de guardián"]
   },
   "maps": {
     "displayProperties": {
       "name": "Mapas",
       "description": "Mapas cartográficos interactivos con listas y otros destinos destacados"
     },
-    "keywords": [
-      "huevos",
-      "huesos de ahamkara",
-      "cofres de región",
-      "sectores perdidos"
-    ]
+    "keywords": ["huevos", "huesos de ahamkara", "cofres de región", "sectores perdidos"]
   },
   "checklists": {
     "displayProperties": {
       "name": "Listas de coleccionables",
       "description": "Escaneos del Espectro y listas de coleccionables que abarcan todo el sistema solar"
     },
-    "keywords": [
-      "huevos",
-      "huesos ahamkara",
-      "cofres de región",
-      "sectores perdidos"
-    ]
+    "keywords": ["huevos", "huesos ahamkara", "cofres de región", "sectores perdidos"]
   },
   "weeklies": {
     "displayProperties": {
       "name": "Semanales",
       "description": "Guía del Guardián sobre rituales semanales con consejos para ganar prestigio y triunfar"
     },
-    "keywords": [
-      "ocaso",
-      "sector perdido",
-      "módulos"
-    ]
+    "keywords": ["ocaso", "sector perdido", "módulos"]
   },
   "weeklies-this-week": {
     "displayProperties": {
       "name": "Esta semana",
-      "description": "Esta semana en Destiny."
+      "description": "Esta semana en Destiny"
     }
   },
   "weeklies-challenges": {
@@ -163,49 +144,28 @@
       "name": "Desafíos",
       "description": "Todos los desafíos de actividades"
     },
-    "keywords": [
-      "semanales",
-      "desafíos",
-      "objetivos",
-      "bonificaciones"
-    ]
+    "keywords": ["semanales", "desafíos", "objetivos", "bonificaciones"]
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas"
+      "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas."
     },
-    "keywords": [
-      "desafíos de temporada"
-    ]
+    "keywords": ["desafíos de temporada"]
   },
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
-      "description": "Predice los ciclos de varias actividades"
+      "description": "Predice los ciclos de varias actividades."
     },
-    "keywords": [
-      "ocasos",
-      "sectores perdidos",
-      "rotaciones",
-      "calendario",
-      "incursiones",
-      "manantial",
-      "altares del dolor",
-      "desafío ascendente"
-    ]
+    "keywords": ["ocasos", "sectores perdidos", "rotaciones", "calendario", "incursiones", "manantial", "altares del dolor", "desafío ascendente"]
   },
   "character": {
     "displayProperties": {
       "name": "Personaje",
       "description": "Revisa el equipamiento y el inventario de tu Guardián"
     },
-    "keywords": [
-      "inventario",
-      "objetos",
-      "equipamiento",
-      "estadísticas"
-    ]
+    "keywords": ["inventario", "objetos", "equipamiento", "estadísticas"]
   },
   "character-equipment": {
     "displayProperties": {
@@ -218,9 +178,7 @@
       "name": "Administración",
       "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos."
     },
-    "keywords": [
-      "administración"
-    ]
+    "keywords": ["administración"]
   },
   "character-consumables": {
     "displayProperties": {
@@ -233,20 +191,14 @@
       "name": "Depósito",
       "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes"
     },
-    "keywords": [
-      "depósito"
-    ]
+    "keywords": ["depósito"]
   },
   "character-vendors": {
     "displayProperties": {
       "name": "Comerciantes",
       "description": "Espía a tus proveedores de tareas y socios comerciales favoritos"
     },
-    "keywords": [
-      "comerciantes",
-      "calendario de polvo luminoso",
-      "calendario de Eververso"
-    ]
+    "keywords": ["comerciantes", "calendario de polvo luminoso", "calendario de Eververso"]
   },
   "character-loadouts": {
     "displayProperties": {
@@ -265,29 +217,14 @@
       "name": "Contratos",
       "description": "Todos los contratos del Guardián seleccionado."
     },
-    "keywords": [
-      "contrato"
-    ]
+    "keywords": ["contrato"]
   },
   "activity": {
     "displayProperties": {
       "name": "Actividad",
       "description": "Explora y filtra tus Informes de Combate en detalle"
     },
-    "keywords": [
-      "informes",
-      "pgcr",
-      "incursiones",
-      "sectores perdidos",
-      "ocasos",
-      "asaltos",
-      "crisol",
-      "pruebas",
-      "competitivo",
-      "partidas",
-      "reputación",
-      "rangos"
-    ]
+    "keywords": ["informes", "pgcr", "incursiones", "sectores perdidos", "ocasos", "asaltos", "crisol", "pruebas", "competitivo", "partidas", "reputación", "rangos"]
   },
   "activity-carnage": {
     "displayProperties": {
@@ -298,20 +235,9 @@
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Favoritos",
-      "description": "Actividades que marcaste como favoritas"
+      "description": "Actividades que marcaste como favoritas."
     },
-    "keywords": [
-      "informes",
-      "pgcr",
-      "incursiones",
-      "sectores perdidos",
-      "ocasos",
-      "asaltos",
-      "crisol",
-      "pruebas",
-      "competitivo",
-      "partidas"
-    ]
+    "keywords": ["informes", "pgcr", "incursiones", "sectores perdidos", "ocasos", "asaltos", "crisol", "pruebas", "competitivo", "partidas"]
   },
   "activity-graphs": {
     "displayProperties": {
@@ -322,23 +248,9 @@
   "activity-series": {
     "displayProperties": {
       "name": "Series",
-      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios"
+      "description": "Triunfa ante las adversidades más peligrosas, informes de las primeras victorias de tus escuadras contra nuestros mayores adversarios."
     },
-    "keywords": [
-      "informes",
-      "pgcr",
-      "estadísticas",
-      "incursiones",
-      "sectores perdidos",
-      "ocasos",
-      "asaltos",
-      "escuadras",
-      "día 1",
-      "modo competición",
-      "compleciones",
-      "impecables",
-      "partidas"
-    ]
+    "keywords": ["informes", "pgcr", "estadísticas", "incursiones", "sectores perdidos", "ocasos", "asaltos", "escuadras", "día 1", "modo competición", "compleciones", "impecables", "partidas"]
   },
   "inspect-equipment": {
     "displayProperties": {
@@ -393,11 +305,7 @@
       "name": "FAQ",
       "description": "Las preguntas más frecuentes y fáciles de responder."
     },
-    "keywords": [
-      "faq",
-      "ayuda",
-      "atajos"
-    ]
+    "keywords": ["faq", "ayuda", "atajos"]
   },
   "privacy": {
     "displayProperties": {
