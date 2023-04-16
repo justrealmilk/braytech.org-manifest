@@ -51,7 +51,7 @@
   "flair-for-you": {
     "displayProperties": {
       "name": "\"I made this for you\"",
-      "description": "_You're my little pogchamp, Guardian._ 🌞"
+      "description": "_You're my little pogchamp, Guardian._ \uD83C\uDF1E"
     },
     "itemTypeDisplayName": "Special"
   },
@@ -309,6 +309,30 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_This map charts the steps on the path to the top._"
+    }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "Lost Sectors",
+      "description": "Never miss a rotating lost sector or reward again."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Ada-1 Shaders",
+      "description": "How drippy you look is only limited by your choice in shaders. Keep in contact with Ada in case you're missing the goods."
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Xûr",
+      "description": "His will is not his own."
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Featured Crucible Mode",
+      "description": "Fight for fame and glory, but in oddly specific ways and at a weekly cadence."
     }
   }
 }
