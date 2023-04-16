@@ -226,5 +226,20 @@
       "name": "Notifications 'Push'",
       "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
     }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "Secteurs oubliés"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Xûr"
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Mod de l'Épreuve en Vedette"
+    }
   }
 }

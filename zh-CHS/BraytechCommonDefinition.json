@@ -1,0 +1,17 @@
+{
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "遗失区域"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "仄"
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "特色熔炉竞技场模式"
+    }
+  }
+}

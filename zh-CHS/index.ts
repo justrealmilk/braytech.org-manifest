@@ -1,4 +1,5 @@
 import BraytechActivityDifficultyDefinition from '@Data/manifest/zh-CHS/BraytechActivityDifficultyDefinition.json';
+import BraytechCommonDefinition from '@Data/manifest/zh-CHS/BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/zh-CHS/BraytechFeatureDefinition.json';
 import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/zh-CHS/BraytechRotationDefinition.json';
@@ -14,6 +15,7 @@ import DestinyTraitDefinition from '@Data/manifest/zh-CHS/DestinyTraitDefinition
 const zhCHS = {
   definitions: {
     BraytechActivityDifficultyDefinition,
+    BraytechCommonDefinition,
     BraytechFeatureDefinition,
     BraytechMapTypesDefinition,
     BraytechRotationDefinition,

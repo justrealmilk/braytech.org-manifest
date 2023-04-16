@@ -283,5 +283,20 @@
     "displayProperties": {
       "description": "_このチャートは、頂上までの道のりを描いたものです。_"
     }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "失われたセクター"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "シュール"
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "特定のクルーシブルモード"
+    }
   }
 }

@@ -51,7 +51,7 @@
   "flair-for-you": {
     "displayProperties": {
       "name": "\"L'ho fatto per te\"",
-      "description": "_Sei il mio piccolo pogchamp, Guardiano._ \uD83C\uDF1E"
+      "description": "_Sei il mio piccolo pogchamp, Guardiano._ 🌞"
     },
     "itemTypeDisplayName": "Speciale"
   },
@@ -303,6 +303,21 @@
   "progression-step-map": {
     "displayProperties": {
       "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
+    }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "Settori perduti"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Xûr"
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Modalità del Crogiolo in evidenza"
     }
   }
 }

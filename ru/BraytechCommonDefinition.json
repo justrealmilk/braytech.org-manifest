@@ -95,5 +95,20 @@
       "name": "Устаревший профиль.",
       "description": "Данные профиля устарели. Это означает, что фоновые обновления приостановлены по причине неактивности либо невозможности получить ответ от серверов Bungie в данный момент."
     }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "Затерянные Сектора"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Зур"
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Еженедельный режим Горнила"
+    }
   }
 }
