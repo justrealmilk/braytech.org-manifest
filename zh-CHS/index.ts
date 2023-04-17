@@ -5,6 +5,7 @@ import BraytechFeatureDefinition from '@Data/manifest/zh-CHS/BraytechFeatureDefi
 import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/zh-CHS/BraytechRotationDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/zh-CHS/DestinyActivityDefinition.json';
+import DestinyActivityModeDefinition from '@Data/manifest/zh-CHS/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/zh-CHS/DestinyActivityModifierDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/zh-CHS/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/zh-CHS/DestinyCollectibleDefinition.json';
@@ -27,6 +28,7 @@ const zhCHS = {
     BraytechMapTypesDefinition,
     BraytechRotationDefinition,
     DestinyActivityDefinition,
+    DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
