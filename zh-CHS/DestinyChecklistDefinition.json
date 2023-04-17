@@ -1,6 +1,14 @@
 {
   "363696145": {
-    "progressDescription": "已恢复机灵碎片"
+    "displayProperties": {
+      "name": "传说故事: 月球失落的机灵"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "机灵碎片",
+      "completed": "已找回"
+    },
+    "progressDescription": "已找回的机灵碎片"
   },
   "817948795": {
     "displayProperties": {
@@ -8,7 +16,8 @@
     },
     "entry": {
       "prefix": "玩具",
-      "name": "企鹅玩具"
+      "name": "企鹅玩具",
+      "completed": "已收集"
     },
     "progressDescription": "已收集的玩具"
   },
@@ -18,23 +27,29 @@
     },
     "entry": {
       "prefix": "封印",
-      "name": "冰影封印宝箱"
-    }
+      "name": "冰影封印宝箱",
+      "completed": "已开启"
+    },
+    "progressDescription": ""
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC 宝典"
     },
     "entry": {
-      "name": "DSC 宝典"
-    }
+      "prefix": "",
+      "name": "DSC 宝典",
+      "completed": "已收集"
+    },
+    "progressDescription": ""
   },
   "1297424116": {
     "displayProperties": {
       "name": "阿罕卡拉遗骨"
     },
     "entry": {
-      "name": "阿罕卡拉遗骨"
+      "name": "阿罕卡拉遗骨",
+      "completed": "已收集"
     },
     "progressDescription": "已发现遗骨"
   },
@@ -43,7 +58,8 @@
       "name": "地区宝箱"
     },
     "entry": {
-      "name": "地区宝箱"
+      "name": "地区宝箱",
+      "completed": "已开启"
     },
     "progressDescription": "已开启宝箱"
   },
@@ -53,7 +69,8 @@
     },
     "entry": {
       "prefix": "碎片",
-      "name": "暗熵碎片"
+      "name": "暗熵碎片",
+      "completed": "已摧毁"
     },
     "progressDescription": "已收集的碎片"
   },
@@ -62,7 +79,8 @@
       "name": "玉兔"
     },
     "entry": {
-      "name": "玉兔"
+      "name": "玉兔",
+      "completed": "已喂食"
     },
     "progressDescription": "喂食过小米饼的玉兔"
   },
@@ -82,7 +100,8 @@
     },
     "entry": {
       "prefix": "卵",
-      "name": "腐化的卵"
+      "name": "腐化的卵",
+      "completed": "已摧毁"
     },
     "progressDescription": "已摧毁的卵"
   },
@@ -92,7 +111,8 @@
     },
     "entry": {
       "prefix": "猫咪的朋友",
-      "name": "猫雕像"
+      "name": "猫雕像",
+      "completed": "已取悦"
     },
     "progressDescription": "已取悦猫咪"
   },
@@ -102,7 +122,8 @@
     },
     "entry": {
       "prefix": "暗影裂缝",
-      "name": "暗影裂缝"
+      "name": "暗影裂缝",
+      "completed": "已关闭"
     },
     "progressDescription": "已关闭的暗影裂缝"
   },
@@ -111,7 +132,8 @@
       "name": "遗失区域"
     },
     "entry": {
-      "name": "遗失区域"
+      "name": "遗失区域",
+      "completed": "已发现"
     },
     "progressDescription": "已发现"
   },
@@ -121,11 +143,39 @@
     },
     "entry": {
       "prefix": "光明飞蛾",
-      "name": "光明飞蛾"
+      "name": "光明飞蛾",
+      "completed": "已收集并安放"
     },
     "progressDescription": "已收集并安放的光明飞蛾"
   },
   "4108857026": {
-    "progressDescription": "已收集的加密信息"
+    "displayProperties": {
+      "name": "传说故事：被诅咒者的审判"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "加密信息",
+      "completed": "已收集"
+  },
+  "progressDescription": "已收集的加密信息"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "玩具人"
+    },
+    "entry": {
+      "prefix": "",
+      "name": "玩具人",
+      "completed": "已收集"
+    },
+    "progressDescription": "已收集的玩具人"
+  },
+  "703136805": {
+    "entry": {
+      "prefix": "",
+      "name": "远地点中继器",
+      "completed": "已拆解"
+    },
+    "progressDescription": "已拆解的中继器"
   }
 }
