@@ -1,29 +1,8 @@
 {
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
-      "name": "遗失区域"
-    }
-  },
-  "push-notification-event-weekly-vendor-xur": {
-    "displayProperties": {
-      "name": "仄"
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "特色熔炉竞技场模式"
-    }
-  },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
       "name": "遗失区域",
       "description": "防止你错过一个特定的轮换遗失区域或特定类型奖励。"
-    }
-  },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
-    "displayProperties": {
-      "name": "艾达-1 着色器",
-      "description": "外观的点睛之笔取决于所选用的着色器。与艾达-1保持联系，以防你错过了想要的着色器。"
     }
   },
   "push-notification-event-weekly-vendor-xur": {
@@ -36,6 +15,12 @@
     "displayProperties": {
       "name": "特色熔炉竞技场模式",
       "description": "每周以独特的方式来为荣耀和名誉而战。"
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "艾达-1 着色器",
+      "description": "外观的点睛之笔取决于所选用的着色器。与艾达-1保持联系，以防你错过了想要的着色器。"
     }
   }
 }
