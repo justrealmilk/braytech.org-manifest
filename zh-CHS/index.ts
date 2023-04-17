@@ -16,6 +16,7 @@ import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/zh-CHS/Dest
 import DestinyMilestoneDefinition from '@Data/manifest/zh-CHS/DestinyMilestoneDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/zh-CHS/DestinySeasonDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/zh-CHS/DestinySourceDefinition.json';
+import DestinyStatDefinition from '@Data/manifest/zh-CHS/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/zh-CHS/DestinyTraitDefinition.json';
 
 
@@ -39,6 +40,7 @@ const zhCHS = {
     DestinyMilestoneDefinition,
     DestinySeasonDefinition,
     DestinySourceDefinition,
+    DestinyStatDefinition,
     DestinyTraitDefinition,
   },
 };
