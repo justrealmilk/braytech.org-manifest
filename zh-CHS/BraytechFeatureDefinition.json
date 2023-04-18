@@ -7,32 +7,32 @@
   },
   "clan-about": {
     "displayProperties": {
-      "name": "Clan",
-      "description": "About your clan and what it stands for"
+      "name": "公会",
+      "description": "你的公会的大致信息"
     }
   },
   "clan-roster": {
     "displayProperties": {
-      "name": "Roster",
-      "description": "Find friends to play with"
+      "name": "成员列表",
+      "description": "查看公会成员信息，以及在线成员"
     }
   },
   "clan-roster-admin": {
     "displayProperties": {
-      "name": "Administration",
-      "description": "Take action on clan matters and members"
+      "name": "管理",
+      "description": "管理公会成员以及相关事务"
     }
   },
   "clan-stats": {
     "displayProperties": {
-      "name": "Historical Stats",
-      "description": "Compare _Historical Stats_ for several activity modes across all clan members"
+      "name": "活动历史数据",
+      "description": "比较所有公会成员在多个活动模式的 _历史数据_ 。"
     }
   },
   "clan-relationships": {
     "displayProperties": {
-      "name": "Relationships",
-      "description": "See which clan members you dedicate your time to most"
+      "name": "成员关系",
+      "description": "查看你与哪些公会成员一起游玩的时间最长"
     }
   },
   "collections": {
@@ -43,19 +43,19 @@
   },
   "collections-lore": {
     "displayProperties": {
-      "name": "Lore",
-      "description": "Lore tells broader stories from the Destiny universe. Unlock and read lore pages by completing Triumphs"
+      "name": "传说故事",
+      "description": "传说故事可以让你了解《命运》宇宙的故事。通过完成成就来解锁传说故事书页，并阅读它们。"
     }
   },
   "collections-patterns-catalysts": {
     "displayProperties": {
-      "name": "Patterns & Catalysts",
-      "description": "Patterns enable the shaping of weapons. Catalysts expand the power of your Exotic weapons. Find them and finish their objectives to unlock your arsenal's full potential"
+      "name": "模式与催化",
+      "description": "深视模式可使你塑形对应武器，催化可提高异域武器的力量。找到并完成它们对应的目标来使你的军械库变得更加强大"
     }
   },
   "collections-metrics": {
     "displayProperties": {
-      "name": "Stat Trackers",
+      "name": "数据追踪器",
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
@@ -152,7 +152,7 @@
   "character-equipment": {
     "displayProperties": {
       "name": "装备",
-      "description": "Evaluate your Guardian's battle readiness"
+      "description": "检查你的守护者是否为下一场战斗做好充分准备"
     }
   },
   "character-postmaster": {
@@ -163,8 +163,8 @@
   },
   "character-consumables": {
     "displayProperties": {
-      "name": "Consumables",
-      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
+      "name": "消耗品",
+      "description": "用于提升你的守护者和账号里的所有装备的补给品和材料"
     }
   },
   "character-vault": {
@@ -182,7 +182,7 @@
   "character-loadouts": {
     "displayProperties": {
       "name": "配装",
-      "description": "Preconfigure your equipment, strap it up, and name it"
+      "description": "预先配置好你的装备，保存，然后给它选个名字。"
     }
   },
   "quests": {
@@ -206,7 +206,7 @@
   "activity-carnage": {
     "displayProperties": {
       "name": "最近活动",
-      "description": "All of the selected Guardian's recent activities."
+      "description": "当前所选角色所有的近期活动。"
     }
   },
   "activity-bookmarks": {
@@ -229,14 +229,14 @@
   },
   "inspect-equipment": {
     "displayProperties": {
-      "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods"
+      "name": "物品属性",
+      "description": "查看该物品的所有面板属性、数据、特性组合和模组"
     }
   },
   "inspect-lore": {
     "displayProperties": {
-      "name": "Lore",
-      "description": "Read this item's story"
+      "name": "传说故事",
+      "description": "阅读该物品的传奇故事"
     }
   },
   "settings": {
@@ -247,20 +247,20 @@
   },
   "settings-common": {
     "displayProperties": {
-      "name": "Common",
-      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
+      "name": "常规选项",
+      "description": "《命运》档案、设置同步、显示语言、清单可见度、主题，以及还有更多会影响使用 Braytech 时的体验的相关选项。"
     }
   },
   "settings-advanced": {
     "displayProperties": {
-      "name": "Advanced",
-      "description": "Performance, debugging, and storage management. No one has fun here."
+      "name": "进阶选项",
+      "description": "应用性能、调试选项以及储存空间管理。没有人会想随便动这里的东西。"
     }
   },
   "settings-push-notifications": {
     "displayProperties": {
-      "name": "Push Notifications",
-      "description": "Control how Braytech reaches you when you're not using it."
+      "name": "通知推送",
+      "description": "设置 Braytech 在没有使用时向你推送相关通知的选项。"
     }
   },
   "legend": {
