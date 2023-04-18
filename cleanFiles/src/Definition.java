@@ -2,7 +2,13 @@ import java.nio.file.Path;
 import java.util.Map;
 
 public class Definition {
-    static class Property {
+    interface JsonObject {
+        public boolean isEmpty();
+
+        public JsonObject removeEmptyFields();
+    }
+
+    static class Property implements JsonObject {
         private DisplayProperties displayProperties;
         private DisplayProperties originalDisplayProperties;
         private Entry entry;
@@ -20,6 +26,7 @@ public class Definition {
         private Inventory inventory;
         private Extended extended;
 
+        @Override
         public boolean isEmpty() {
             return (displayProperties == null || displayProperties.isEmpty())
                     && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
@@ -37,100 +44,118 @@ public class Definition {
                     && (extended == null || extended.isEmpty());
         }
 
-        private void removeEmptyFields() {
-            if (displayProperties != null) {
-                displayProperties.removeEmptyFields();
-                if (displayProperties.isEmpty())
-                    displayProperties = null;
+        @Override
+        public Property removeEmptyFields() {
+            displayProperties = (DisplayProperties) removeEmptyObj(displayProperties);
+            originalDisplayProperties = (DisplayProperties) removeEmptyObj(originalDisplayProperties);
+            entry = (Entry) removeEmptyObj(entry);
+            sourceString = removeEmptyString(sourceString);
+            statName = removeEmptyString(statName);
+            statNameAlt = removeEmptyString(statNameAlt);
+            statNameAbbr = removeEmptyString(statNameAbbr);
+            statDescription = removeEmptyString(statDescription);
+            itemTypeDisplayName = removeEmptyString(itemTypeDisplayName);
+            displaySource = removeEmptyString(displaySource);
+            substring = removeEmptyString(substring);
+            progressDescription = removeEmptyString(progressDescription);
+            inventory = (Inventory) removeEmptyObj(inventory);
+            extended = (Extended) removeEmptyObj(extended);
+            return this;
+        }
+
+        private JsonObject removeEmptyObj(JsonObject o) {
+            if (o != null) {
+                o = o.removeEmptyFields();
+                if (o.isEmpty())
+                    o = null;
             }
-            if (originalDisplayProperties != null) {
-                originalDisplayProperties.removeEmptyFields();
-                if (originalDisplayProperties.isEmpty())
-                    originalDisplayProperties = null;
-            }
-            if (entry != null) {
-                entry.removeEmptyFields();
-                if (entry.isEmpty())
-                    entry = null;
-            }
-            if (inventory != null) {
-                inventory.removeEmptyFields();
-                if (inventory.isEmpty())
-                    inventory = null;
-            }
-            if (extended != null) {
-                extended.removeEmptyFields();
-                if (extended.isEmpty())
-                    extended = null;
-            }
+            return o;
+        }
+
+        private String removeEmptyString(String s) {
+            if (s != null && s.isBlank())
+                s = null;
+            return s;
         }
     }
 
-    static class DisplayProperties {
+    static class DisplayProperties implements JsonObject {
         private String name;
         private String description;
         private String tip;
 
+        @Override
         public boolean isEmpty() {
             return (name == null || name.isBlank()) &&
                     (description == null || description.isBlank()) &&
                     (tip == null || tip.isBlank());
         }
 
-        public void removeEmptyFields() {
+        @Override
+        public DisplayProperties removeEmptyFields() {
             if (name != null && name.isBlank())
                 name = null;
             if (description != null && description.isBlank())
                 description = null;
             if (tip != null && tip.isBlank())
                 tip = null;
+            return this;
         }
     }
 
-    static class Entry {
+    static class Entry implements JsonObject {
         private String prefix;
         private String name;
         private String completed;
 
+        @Override
         public boolean isEmpty() {
             return (prefix == null || prefix.isBlank()) &&
                     (name == null || name.isBlank()) &&
                     (completed == null || completed.isBlank());
         }
 
-        public void removeEmptyFields() {
+        @Override
+        public Entry removeEmptyFields() {
             if (prefix != null && prefix.isBlank())
                 prefix = null;
             if (name != null && name.isBlank())
                 name = null;
             if (completed != null && completed.isBlank())
                 completed = null;
+            return this;
         }
     }
 
-    static class Inventory {
+    static class Inventory implements JsonObject {
         private String tierTypeName;
 
+        @Override
         public boolean isEmpty() {
             return (tierTypeName == null || tierTypeName.isBlank());
         }
 
-        public void removeEmptyFields() {
+        @Override
+        public Inventory removeEmptyFields() {
             if (tierTypeName != null && tierTypeName.isBlank())
                 tierTypeName = null;
+            return this;
         }
     }
 
-    static class Extended {
+    static class Extended implements JsonObject {
         private String tip;
 
+        @Override
         public boolean isEmpty() {
             return (tip == null || tip.isBlank());
         }
 
-        public void removeEmptyFields() {
+        @Override
+        public Extended removeEmptyFields() {
             if (tip != null && tip.isBlank())
                 tip = null;
+            return this;
         }
     }
 
@@ -160,12 +185,13 @@ public class Definition {
         return properties;
     }
 
-    public void removeEmptyFields() {
-        properties.values().parallelStream().forEach(Property::removeEmptyFields);
+    public Definition removeEmptyFields() {
+        properties.values().forEach(JsonObject::removeEmptyFields);
+        return this;
     }
 
     public boolean isEmpty() {
-        properties.values().removeIf(Property::isEmpty);
+        properties.values().removeIf(JsonObject::isEmpty);
         return properties.isEmpty();
     }
 }
