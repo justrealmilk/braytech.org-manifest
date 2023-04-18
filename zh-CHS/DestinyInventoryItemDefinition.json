@@ -1,0 +1,128 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "机密",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "访问权限不足"
+  },
+  "1": {
+    "displayProperties": {
+      "name": "未知",
+      "description": "你所查找的物品并不存在。"
+    },
+    "itemTypeDisplayName": "物品缺失",
+    "displaySource": "看来你所查找的系统并不存在。\n不可能让你找不到需要的东西，或许归档里的内容并不完整。\n归档里的内容是十分完善且安全的，年轻的守护者啊，有一件事你绝对可以肯定的是：如果一个物品没有出现在我们的档案里，那它就不存在！"
+  },
+  "73143230": {
+    "displayProperties": {
+      "description": "一个有着复杂符号的记忆水晶。\n内含一件随机的巅峰传说武器或护甲。"
+    },
+    "itemTypeDisplayName": "记忆水晶"
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "提升你的公会等级。"
+    },
+    "inventory": {
+      "tierTypeName": "常见"
+    }
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "提升你的守护者恶性等级。别跟先锋队提这件事。"
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "合成丝线，可通过编织机转换为用于护甲幻化的合成纤维。"
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "极大幅度提升账号赛季等级。"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "提升你的守护者的英勇等级，同时这可能会让沙克斯兴奋起来。"
+    }
+  },
+  "1858002338": {
+    "displayProperties": {
+      "description": "提升账号赛季等级。"
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "提高“心影”的掉率",
+      "description": "提高在“二象性”地牢中掉落异域刀剑“心影”的几率。"
+    }
+  },
+  "3224646387": {
+    "displayProperties": {
+      "name": "提高“需求层级”的掉率",
+      "description": "提高在“守望者尖塔”地牢中掉落异域弓箭“需求层级”的几率。"
+    }
+  },
+  "2467253899": {
+    "displayProperties": {
+      "name": "提高“条件终局”的掉率",
+      "description": "提高在“梦魇根源”突袭中掉落异域霰弹枪“条件终局”的几率。"
+    }
+  },
+  "734180536": {
+    "displayProperties": {
+      "name": "提高“条件终局”的掉率",
+      "description": "提高在“梦魇根源”突袭中掉落异域霰弹枪“条件终局”的几率。"
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "提升账号赛季等级。"
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "2497395625": {
+    "displayProperties": {
+      "description": "用于武器塑形的材料，调整武器特性插槽时需要用到此材料。\n\n主要通过拆解紫色武器获取，完成活动时也可以获得该材料作为奖励。"
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "3491404510": {
+    "displayProperties": {
+      "description": "用于武器塑形的材料。\n\n可通过完成部分紫色武器的深视共鸣任务获取。"
+    },
+    "itemTypeDisplayName": "材料"
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "极大幅度提升账号赛季等级。"
+    }
+  },
+  "23239861010": {
+    "displayProperties": {
+      "description": "尚未选择大师杰作选项。",
+      "name": "空的大师杰作插槽"
+    },
+    "itemTypeDisplayName": "武器模组"
+  },
+  "73143230001": {
+    "displayProperties": {
+      "name": "巅峰装备（弱）"
+    }
+  }
+}
