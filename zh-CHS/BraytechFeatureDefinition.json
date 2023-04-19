@@ -5,16 +5,88 @@
       "description": "关于你的公会，公会成员名单，所有成员的汇总历史统计信息以及管理员模式"
     }
   },
+  "clan-about": {
+    "displayProperties": {
+      "name": "公会",
+      "description": "你的公会的大致信息"
+    }
+  },
+  "clan-roster": {
+    "displayProperties": {
+      "name": "成员列表",
+      "description": "查看公会成员信息，以及在线成员"
+    }
+  },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "管理",
+      "description": "管理公会成员以及相关事务"
+    }
+  },
+  "clan-stats": {
+    "displayProperties": {
+      "name": "活动历史数据",
+      "description": "比较所有公会成员在多个活动模式的 _历史数据_ 。"
+    }
+  },
+  "clan-relationships": {
+    "displayProperties": {
+      "name": "成员关系",
+      "description": "查看你与哪些公会成员一起游玩的时间最长"
+    }
+  },
   "collections": {
     "displayProperties": {
       "name": "收藏品",
       "description": "你的守护者一生中曾获得的物品"
     }
   },
+  "collections-lore": {
+    "displayProperties": {
+      "name": "传说故事",
+      "description": "传说故事可以让你了解《命运》宇宙的故事。通过完成成就来解锁传说故事书页，并阅读它们。"
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "模式与催化",
+      "description": "深视模式可使你塑形对应武器，催化可提高异域武器的力量。找到并完成它们对应的目标来使你的军械库变得更加强大"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "数据追踪器",
+      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "成就",
       "description": "你的守护者在挑战中曾完成的成就记录"
+    }
+  },
+  "triumphs-active": {
+    "displayProperties": {
+      "name": "Active Triumphs and Seals",
+      "description": "View all active Triumphs and Seals"
+    }
+  },
+  "triumphs-legacy": {
+    "displayProperties": {
+      "name": "Legacy Triumphs and Seals",
+      "description": "View a collection of legacy Triumphs and Seals"
+    }
+  },
+  "triumphs-transient": {
+    "displayProperties": {
+      "name": "Transient Triumphs",
+      "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
+    }
+  },
+  "triumphs-event-card": {
+    "displayProperties": {
+      "name": "Active Event Card",
+      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
     }
   },
   "journey": {
@@ -47,6 +119,12 @@
       "description": "守护者的每周成就与挑战指南"
     }
   },
+  "weeklies-this-week": {
+    "displayProperties": {
+      "name": "本周",
+      "description": "查看本周的命运"
+    }
+  },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "挑战",
@@ -71,10 +149,22 @@
       "description": "查看守护者的装备和库存"
     }
   },
+  "character-equipment": {
+    "displayProperties": {
+      "name": "装备",
+      "description": "检查你的守护者是否为下一场战斗做好充分准备"
+    }
+  },
   "character-postmaster": {
     "displayProperties": {
       "name": "邮政长",
       "description": "邮政长机器人尽责尽职的保管着你的礼物物品、邮件和遗失物品"
+    }
+  },
+  "character-consumables": {
+    "displayProperties": {
+      "name": "消耗品",
+      "description": "用于提升你的守护者和账号里的所有装备的补给品和材料"
     }
   },
   "character-vault": {
@@ -87,6 +177,12 @@
     "displayProperties": {
       "name": "商人",
       "description": "查看你喜爱的任务发放者和交易伙伴现在都有些什么"
+    }
+  },
+  "character-loadouts": {
+    "displayProperties": {
+      "name": "配装",
+      "description": "预先配置好你的装备，保存，然后给它选个名字。"
     }
   },
   "quests": {
@@ -107,10 +203,22 @@
       "description": "浏览和筛选你的详细游戏击杀报告"
     }
   },
+  "activity-carnage": {
+    "displayProperties": {
+      "name": "最近活动",
+      "description": "当前所选角色所有的近期活动。"
+    }
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "活动收藏",
       "description": "查看你所添加书签的活动"
+    }
+  },
+  "activity-graphs": {
+    "displayProperties": {
+      "name": "图表",
+      "description": "Activities plotted against graphs, for the statistically inclined."
     }
   },
   "activity-series": {
@@ -119,10 +227,40 @@
       "description": "查看你的火力战队在挑战高难度活动之后的赛后报告"
     }
   },
+  "inspect-equipment": {
+    "displayProperties": {
+      "name": "物品属性",
+      "description": "查看该物品的所有面板属性、数据、特性组合和模组"
+    }
+  },
+  "inspect-lore": {
+    "displayProperties": {
+      "name": "传说故事",
+      "description": "阅读该物品的传奇故事"
+    }
+  },
   "settings": {
     "displayProperties": {
       "name": "设置",
       "description": "帐户，主题，本地数据，项目可见性，语言，开发人员，故障排除"
+    }
+  },
+  "settings-common": {
+    "displayProperties": {
+      "name": "常规选项",
+      "description": "《命运》档案、设置同步、显示语言、清单可见度、主题，以及还有更多会影响使用 Braytech 时的体验的相关选项。"
+    }
+  },
+  "settings-advanced": {
+    "displayProperties": {
+      "name": "进阶选项",
+      "description": "应用性能、调试选项以及储存空间管理。没有人会想随便动这里的东西。"
+    }
+  },
+  "settings-push-notifications": {
+    "displayProperties": {
+      "name": "通知推送",
+      "description": "设置 Braytech 在没有使用时向你推送相关通知的选项。"
     }
   },
   "legend": {

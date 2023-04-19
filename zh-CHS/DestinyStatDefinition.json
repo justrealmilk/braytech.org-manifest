@@ -1,0 +1,17 @@
+{
+  "1000": {
+    "displayProperties": {
+      "name": "总数值"
+    }
+  },
+  "2000": {
+    "displayProperties": {
+      "name": "伤害衰减"
+    }
+  },
+  "3000": {
+    "displayProperties": {
+      "name": "换弹时长"
+    }
+  }
+}
