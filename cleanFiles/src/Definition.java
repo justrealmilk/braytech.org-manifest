@@ -218,6 +218,8 @@ public class Definition {
     public Definition removeEmptyFields() {
         properties.values().removeIf(Objects::isNull);
         properties.values().forEach(JsonObject::removeEmptyFields);
+        properties.values().removeIf(JsonObject::isEmpty);
+        properties.values().removeIf(Objects::isNull);
         return this;
     }
 
