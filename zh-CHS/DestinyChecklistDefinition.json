@@ -4,7 +4,6 @@
       "name": "传说故事: 月球失落的机灵"
     },
     "entry": {
-      "prefix": "",
       "name": "机灵碎片",
       "completed": "已找回"
     },
@@ -29,19 +28,16 @@
       "prefix": "封印",
       "name": "冰影封印宝箱",
       "completed": "已开启"
-    },
-    "progressDescription": ""
+    }
   },
   "1000002000": {
     "displayProperties": {
       "name": "DSC 宝典"
     },
     "entry": {
-      "prefix": "",
       "name": "DSC 宝典",
       "completed": "已收集"
-    },
-    "progressDescription": ""
+    }
   },
   "1297424116": {
     "displayProperties": {
@@ -153,18 +149,16 @@
       "name": "传说故事：被诅咒者的审判"
     },
     "entry": {
-      "prefix": "",
       "name": "加密信息",
       "completed": "已收集"
-  },
-  "progressDescription": "已收集的加密信息"
+    },
+    "progressDescription": "已收集的加密信息"
   },
   "1793940260": {
     "displayProperties": {
       "name": "玩具人"
     },
     "entry": {
-      "prefix": "",
       "name": "玩具人",
       "completed": "已收集"
     },
@@ -172,7 +166,6 @@
   },
   "703136805": {
     "entry": {
-      "prefix": "",
       "name": "远地点中继器",
       "completed": "已拆解"
     },
