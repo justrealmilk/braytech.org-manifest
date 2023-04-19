@@ -2,10 +2,15 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.Objects;
 import java.util.stream.Stream;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 public class CleanFiles {
-  private final static com.google.gson.Gson GSON = new com.google.gson.GsonBuilder()
+  private final static Gson GSON = new GsonBuilder()
       .disableHtmlEscaping()
       .setPrettyPrinting()
       .create();
@@ -17,14 +22,20 @@ public class CleanFiles {
 
     if (args[0].equals("template")) {
       System.out.println("Making template");
+      getDefs(langs).forEach(CleanFiles::save);
     }
 
     if (args[0].equals("clean")) {
       System.out.println("Cleaning files");
       langs = new String[] { "de", "es", "es-MX", "fr", "it", "ja", "ko", "pl", "pt-BR", "ru", "zh-CHS", "zh-CHT" };
+      getDefs(langs).forEach(CleanFiles::save);
     }
 
-    getDefs(langs).forEach(CleanFiles::save);
+    if (args[0].equals("sort")) {
+      System.out.println("Sorting files");
+      langs = new String[] { "de", "es", "es-MX", "fr", "it", "ja", "ko", "pl", "pt-BR", "ru", "zh-CHS", "zh-CHT" };
+      getDefs(langs).forEach(CleanFiles::saveSorted);
+    }
 
     System.out.println("Done");
   }
@@ -35,7 +46,7 @@ public class CleanFiles {
           .filter(Definition.DEF_MATCHER::matches)
           .map(CleanFiles::load)
           .map(Definition::removeEmptyFields)
-          .filter(java.util.Objects::nonNull);
+          .filter(Objects::nonNull);
     } catch (final IOException e) {
       System.err.println("Error: couldn't list files");
       return null;
@@ -54,10 +65,10 @@ public class CleanFiles {
   }
 
   private static Stream<Definition> getDefs(final String[] langs) {
-    return java.util.Arrays.asList(langs)
+    return Arrays.asList(langs)
         .parallelStream()
         .flatMap(CleanFiles::getDefs)
-        .filter(java.util.Objects::nonNull)
+        .filter(Objects::nonNull)
         .parallel();
   }
 
@@ -75,10 +86,28 @@ public class CleanFiles {
     }
   }
 
+  private static void saveSorted(final Definition def) {
+    // loading template to get property order
+    final Definition sortedDef = getDefs("template")
+        .filter(d -> d.getFilename().equals(def.getFilename()))
+        .findAny().orElse(null);
+    if (sortedDef == null)
+      return;
+    // change path
+    sortedDef.setToFile(def.getToFile());
+    // set untraslated properties to null
+    sortedDef.replacePropertiesFrom(def);
+    // add back "bow" properties (not present in template)
+    if (def.getToFile().getFileName().endsWith("DestinyObjectiveDefinition.json"))
+      sortedDef.getProperties().putAll(def.getBowProperties());
+
+    save(sortedDef);
+  }
+
   private static Path shortenPath(final Path toFile) {
-    Path toFileRelative = toFile.subpath(toFile.getNameCount() - 2, toFile.getNameCount());
-    if (toFileRelative.getParent().endsWith("en"))
-      toFileRelative = Paths.get("template", toFileRelative.getFileName().toString());
-    return toFileRelative;
+    Path toFileShort = toFile.subpath(toFile.getNameCount() - 2, toFile.getNameCount());
+    if (toFileShort.getParent().endsWith("en"))
+      toFileShort = Paths.get("template", toFileShort.getFileName().toString());
+    return toFileShort;
   }
 }

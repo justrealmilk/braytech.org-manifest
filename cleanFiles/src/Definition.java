@@ -1,5 +1,14 @@
+import java.lang.reflect.Type;
+import java.nio.charset.Charset;
+import java.nio.file.FileSystems;
 import java.nio.file.Path;
+import java.nio.file.PathMatcher;
+import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.Objects;
+import java.util.stream.Collectors;
+
+import com.google.gson.reflect.TypeToken;
 
 public class Definition {
     interface JsonObject {
@@ -159,9 +168,9 @@ public class Definition {
         }
     }
 
-    public static final java.nio.file.PathMatcher DEF_MATCHER = java.nio.file.FileSystems.getDefault()
+    public static final PathMatcher DEF_MATCHER = FileSystems.getDefault()
             .getPathMatcher("regex:^(?!.*Colloquial|dynamic).*\\.json$");
-    public static final java.lang.reflect.Type DEF_TYPE = new com.google.gson.reflect.TypeToken<Map<String, Property>>() {
+    public static final Type DEF_TYPE = new TypeToken<Map<String, Property>>() {
     }.getType();
 
     private Path toFile;
@@ -185,13 +194,36 @@ public class Definition {
         return properties;
     }
 
+    public String getFilename() {
+        return toFile.getFileName().toString();
+    }
+
+    public void replacePropertiesFrom(final Definition def) {
+        properties.entrySet().parallelStream()
+                .forEach(entry -> {
+                    if (def.getProperties().keySet().contains(entry.getKey()))
+                        entry.setValue(def.getProperties().get(entry.getKey()));
+                    else
+                        entry.setValue(null);
+                });
+        removeEmptyFields();
+    }
+
+    public Map<String, Property> getBowProperties() {
+        final String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
+        return properties.entrySet().stream().filter(entry -> entry.getValue().progressDescription.contains(bow))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+    }
+
     public Definition removeEmptyFields() {
+        properties.values().removeIf(Objects::isNull);
         properties.values().forEach(JsonObject::removeEmptyFields);
+        properties.values().removeIf(JsonObject::isEmpty);
+        properties.values().removeIf(Objects::isNull);
         return this;
     }
 
     public boolean isEmpty() {
-        properties.values().removeIf(JsonObject::isEmpty);
         return properties.isEmpty();
     }
 }
