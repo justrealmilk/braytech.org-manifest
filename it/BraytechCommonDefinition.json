@@ -282,6 +282,12 @@
       "description": "Questa attività è stata avviata dall'inizio e terminata in modo impeccabile, senza morti.\n\nPer essere idonee, le **incursioni** devono essere completate dopo il lancio de La Regina dei Sussurri, i **settori perduti** e le **segrete** devono essere avviati e terminati da un singolo giocatore e gli **assalti** sono specifici per ogni giocatore."
     }
   },
+  "activity-solo": {
+    "displayProperties": {
+      "name": "Solo",
+      "description": "_Da solo. Questo guardiano è così skillato che non ha bisogno di nessuna squadra puzzolente._"
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Colpi di grazia",
@@ -307,17 +313,26 @@
   },
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
-      "name": "Settori perduti"
+      "name": "Settori perduti",
+      "description": "Non perdere mai più un settore perduto o una ricompensa in rotazione."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Shader di Ada-1",
+      "description": "Il tuo drip è limitato solo dalla tua scelta di shader. Rimani in contatto con Ada nel caso ti mancasse la merce."
     }
   },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
-      "name": "Xûr"
+      "name": "Xûr",
+      "description": "La sua volontà non gli appartiene."
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
-      "name": "Modalità del Crogiolo in evidenza"
+      "name": "Modalità del Crogiolo in evidenza",
+      "description": "Combatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
     }
   }
 }
