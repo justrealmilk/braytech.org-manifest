@@ -288,6 +288,18 @@
       "description": "_Riding solo. This guardian is so cracked they don't need no stinkin' fireteam._"
     }
   },
+  "activity-duo": {
+    "displayProperties": {
+      "name": "Duo",
+      "description": "_Run it back to back._"
+    }
+  },
+  "activity-trio": {
+    "displayProperties": {
+      "name": "Trio",
+      "description": "_It's a threesome._"
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Final Blows",
