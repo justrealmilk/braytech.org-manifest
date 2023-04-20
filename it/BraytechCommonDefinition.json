@@ -288,6 +288,18 @@
       "description": "_Da solo. Questo guardiano è così skillato che non ha bisogno di nessuna squadra puzzolente._"
     }
   },
+  "activity-duo": {
+    "displayProperties": {
+      "name": "Duo",
+      "description": "_Fanne una dopo l'altra._"
+    }
+  },
+  "activity-trio": {
+    "displayProperties": {
+      "name": "Trio",
+      "description": "_È una cosa a tre._"
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Colpi di grazia",
