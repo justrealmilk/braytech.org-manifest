@@ -338,13 +338,13 @@
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
       "name": "Xûr",
-      "description": "His will is not his own."
+      "description": "A peddler of strange curios, Xûr's motives are not his own. He bows to his distant masters, the Nine."
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
-      "name": "Featured Crucible Mode",
-      "description": "Fight for fame and glory, but in oddly specific ways and at a weekly cadence."
+      "name": "Crucible",
+      "description": "Be notified of which modes Lord Shaxx has configured the Crucible for.\n\nFight for fame and glory, but in oddly specific ways and at a weekly cadence."
     }
   }
 }
