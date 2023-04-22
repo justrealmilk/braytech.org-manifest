@@ -338,13 +338,13 @@
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
       "name": "Xûr",
-      "description": "La sua volontà non gli appartiene."
+      "description": "Un trafficante di strani oggetti. Xûr non ha una propria volontà e s'inchina a lontani signori, i Nove."
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
-      "name": "Modalità del Crogiolo in evidenza",
-      "description": "Combatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
+      "name": "Crogiolo",
+      "description": "Informati su quali modalità Lord Shaxx ha configurato per il Crogiolo.\n\nCombatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
     }
   }
 }
