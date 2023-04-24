@@ -1,44 +1,44 @@
 {
   "25589576690": {
     "displayProperties": {
-      "name": "Solar Shields",
-      "description": "This activity has Solar shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Solar] Solar shields."
     }
   },
   "32153845200": {
     "displayProperties": {
-      "name": "Arc Shields",
-      "description": "This activity has Arc shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Arc] Arc shields."
     }
   },
   "33620748140": {
     "displayProperties": {
-      "name": "Void Shields",
-      "description": "This activity has Void shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Void] Void shields."
     }
   },
   "34300000001": {
     "displayProperties": {
-      "name": "Solar and Arc Shields",
-      "description": "This activity has Solar and Arc shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Solar] Solar and [Arc] Arc shields."
     }
   },
   "34300000002": {
     "displayProperties": {
-      "name": "Solar and Void Shields",
-      "description": "This activity has Solar and Void shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Solar] Solar and [Void] Void shields."
     }
   },
   "34300000003": {
     "displayProperties": {
-      "name": "Arc and Void Shields",
-      "description": "This activity has Arc and Void shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Arc] Arc and [Void] Void shields."
     }
   },
   "34300000004": {
     "displayProperties": {
-      "name": "Solar, Arc, and Void Shields",
-      "description": "This activity has Solar, Arc, and Void shields"
+      "name": "Shielded Foes",
+      "description": "You will face combatants with [Solar] Solar, [Arc] Arc, and [Void] Void shields."
     }
   },
   "191124900": {
