@@ -100,7 +100,7 @@
   "flair-charitable": {
     "displayProperties": {
       "name": "Benefactor",
-      "description": "_A charitable Guardian._\nThis Guardian made a donation to a great cause via the Bungie Foundation."
+      "description": "_A charitable Guardian._\nThis player made a donation to a great cause via the Bungie Foundation."
     },
     "itemTypeDisplayName": "Special"
   },
