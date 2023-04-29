@@ -17,6 +17,12 @@
       "description": "一緒にプレイするメンバーを探しましょう"
     }
   },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "管理",
+      "description": "クラン内で発生した問題やメンバー管理をします"
+    }
+  },
   "clan-stats": {
     "displayProperties": {
       "name": "歴史的統計データ",
@@ -47,6 +53,12 @@
     "displayProperties": {
       "name": "伝承",
       "description": "Destinyの世界にて、ゲーム中には語られてないストーリーが描かれています。勝利の道のりを達成するごとに、伝承のページがアンロックされ、読むことができます。"
+    }
+  },
+  "collections-patterns-catalysts": {
+    "displayProperties": {
+      "name": "パターンと媒体",
+      "description": "パターンで武器を形成させることができます。媒体はエキゾチック武器の潜在能力を開花させます。媒体を見つけ、その目的を達成することで最大の能力を引き出すことができます。"
     }
   },
   "collections-medals": {

@@ -44,9 +44,30 @@
   "flair-developer": {
     "displayProperties": {
       "name": "トム・チャップマン",
-      "description": "_Braytech開発者_"
+      "description": "_Braytech開発者_\nこのツールチップを始めとしたサイトを作った本人です。"
     },
     "itemTypeDisplayName": "Braytech開発者"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"あなたのために作りました\"",
+      "description": "_伝説を作ってきた、愛しのガーディアン。_ 🌞"
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Bungie開発者",
+      "description": "_設計者にご注意。_\nこのプレイヤーはあなたをキルしません。"
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Bungie API 開発者",
+      "description": "_設計者にご注意。_\nこのプレイヤーはBungie's APIによって作られています。"
+    },
+    "itemTypeDisplayName": "Special"
   },
   "flair-patron-submind": {
     "displayProperties": {
@@ -75,6 +96,13 @@
       "description": "_Braytechの寛大な翻訳者._"
     },
     "itemTypeDisplayName": "Braytech翻訳者"
+  },
+  "flair-charitable": {
+    "displayProperties": {
+      "name": "恩人",
+      "description": "_博愛のガーディアン。_\nこのプレイヤーは、Bungie財団法人を通じて素晴らしい活動に寄付をしました。"
+    },
+    "itemTypeDisplayName": "Special"
   },
   "ammo-type-primary": {
     "displayProperties": {
@@ -257,8 +285,26 @@
   },
   "activity-flawless": {
     "displayProperties": {
-      "name": "天下無双",
+      "name": "不死",
       "description": "このアクティビティでは最後まで誰もダウンせずに完璧に完遂させました。\n\n**レイド** では、漆黒の女王のシーズン以降に完了したもの、 **ストライク** は各プレイヤーの固有のもの、そして**失われたセクター** はソロプレイで達成したときに限り対象になります。"
+    }
+  },
+  "activity-solo": {
+    "displayProperties": {
+      "name": "ソロ",
+      "description": "_ 孤高であれ。 このガーディアンは「壊れている」。ファイヤーチームを組むほど弱くない。_"
+    }
+  },
+  "activity-duo": {
+    "displayProperties": {
+      "name": "デュオ",
+      "description": "_驚愕の2人連携プレイで見せつけろ_"
+    }
+  },
+  "activity-trio": {
+    "displayProperties": {
+      "name": "トリオ",
+      "description": "_最強の3人組_"
     }
   },
   "activity-weapon-popular": {
@@ -286,17 +332,26 @@
   },
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
-      "name": "失われたセクター"
+      "name": "失われたセクター",
+      "description": "ローテーションで登場する失われたセクターや報酬を逃すな。"
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "エイダ1のシェーダー",
+      "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
     }
   },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
-      "name": "シュール"
+      "name": "シュール",
+      "description": "エキゾチックアイテムの行商人であるシュールの行動は、彼自身の意思によるものでは無い。彼の指導者であるナインの導きによって動いている。"
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
-      "name": "特定のクルーシブルモード"
+      "name": "クルーシブル",
+      "description": "シャックス卿が今週のクルーシブルをどのルールにしたかを通知する。\n\n 武勇と栄光のために、週ごとに変わるルールで闘え。"
     }
   }
 }
