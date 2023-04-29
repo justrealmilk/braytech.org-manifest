@@ -2,6 +2,9 @@
   "537457947": {
     "progressDescription": "同じサブクラスでバンガードストライクを完了する"
   },
+  "1612424695": {
+    "progressDescription": "ナイトフォールの累計スコアで達成させる"
+  },
   "3118376466": {
     "progressDescription": "いずれかのクルーシブルのプレイリストで対戦を完了する"
   },
@@ -74,6 +77,12 @@
   "3180884403": {
     "progressDescription": "レイド\"ガラスの間\" 周回完了"
   },
+  "1863972407": {
+    "progressDescription": "レイド\"門弟の誓い\" 周回完了"
+  },
+  "406803827": {
+    "progressDescription": "レイド\"邪神、滅びる\" 周回完了"
+  },
   "2039792527": {
     "progressDescription": "迷宮\"予言\" 周回完了"
   },
@@ -109,5 +118,26 @@
   },
   "1687723774": {
     "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  },
+  "3121765139": {
+    "progressDescription": "難易度「伝説」で \"反抗の戦場\"を完了する"
+  },
+  "672380795": {
+    "progressDescription": "H.E.L.M.のウォーテーブルのバウンティを規定数完了させる"
+  },
+  "2821863512": {
+    "progressDescription": "H.E.L.M.のウォーテーブルに戻る"
+  },
+  "275339596": {
+    "progressDescription": "クラウドストライダーのバウンティを規定数完了させる"
+  },
+  "3044187661": {
+    "progressDescription": "ニンバスに話しかける"
+  },
+  "2656858183": {
+    "progressDescription": "\"ターミナルオーバーロード\" の戦闘員を倒す"
+  },
+  "2177999971": {
+    "progressDescription": "クイン・ラガーリに話しかける"
   }
 }

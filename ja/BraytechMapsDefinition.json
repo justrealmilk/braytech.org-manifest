@@ -125,6 +125,47 @@
       "description": " **フォールン** たちが廃材を再利用して作った **岩塩坑** の山頂へのポータル"
     }
   },
+  "607": {
+    "displayProperties": {
+      "name": "エシ・ターミナル–イルカルラ施設",
+      "description": "**イルカルラ施設**への共振の亀裂"
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "イルカルラ施設-エシ・ターミナル",
+      "description": "**エシ・ターミナル**への共振の亀裂"
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "テュポン・インペラトル: 深部",
+      "description": "共振の亀裂"
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "テュポン・インペラトル",
+      "description": "共振の亀裂"
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "憤怒の神殿",
+      "description": "共振の亀裂"
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "憤怒の神殿: 深部",
+      "description": "共振の亀裂"
+    }
+  },
+  "235152581": {
+    "extended": {
+      "tip": "砲台の先端に立ち、その先にある共鳴アンカーを破壊すると、侵入口から最も遠い砲台に「秘密」が出てくる。"
+    }
+  },
   "379286227": {
     "displayProperties": {
       "description": "霊場の近くにある **合流点** の近く、枯れ木の根の間にある。"
@@ -1351,6 +1392,11 @@
       "name": "タニクス・スカードのナイトメア"
     }
   },
+  "2442093127": {
+    "extended": {
+      "tip": "足元に..."
+    }
+  },
   "2495538001": {
     "displayProperties": {
       "description": "崖側、失われたセクターに続く道の下"
@@ -1411,9 +1457,29 @@
       "description": "氷の中にある"
     }
   },
+  "3904017033": {
+    "extended": {
+      "tip": "点火すると..."
+    }
+  },
   "3977481189": {
     "displayProperties": {
       "description": "ゲートハウスに入ってからサークル・オブ・ボーンズに入ったら、右折してヘルマウスの周りをぐるっと一周する。次の分かれ道の手前で踵を返し、台の下を見ると翡翠の瞳がガーディアンの肩にとまるトラベラーの光を見つめている事に気がつくだろう。"
+    }
+  },
+  "4006123814": {
+    "extended": {
+      "tip": "すぐ真下に..."
+    }
+  },
+  "4069293792": {
+    "extended": {
+      "tip": "インターフェイスを起動させて、入口側に向く。円形のパネルが8枚あるので左から右、上から下の順で1-8としたら次の通りパネルを撃つ： 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "tip": "This chest requires oneself to transcend their reality. To access:\n\n1. Near **Brother Vance**, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A **Vex conflux** will appear. Examine it."
     }
   },
   "4111390768": {

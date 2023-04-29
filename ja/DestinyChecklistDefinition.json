@@ -4,7 +4,8 @@
       "name": "伝承: 月での喪失"
     },
     "entry": {
-      "name": "ゴーストの破片"
+      "name": "ゴーストの破片",
+      "completed": "回収済"
     },
     "progressDescription": "回復したゴーストの破片"
   },
@@ -14,7 +15,8 @@
     },
     "entry": {
       "prefix": "ペンギンのオモチャ",
-      "name": "ペンギンのオモチャ"
+      "name": "ペンギンのオモチャ",
+      "completed": "回収済"
     },
     "progressDescription": "集めたペンギン"
   },
@@ -24,7 +26,8 @@
     },
     "entry": {
       "prefix": "アーティファクト",
-      "name": "ステイシスで封じられたクレート"
+      "name": "ステイシスで封じられたクレート",
+      "completed": "開封済"
     }
   },
   "1000002000": {
@@ -32,7 +35,8 @@
       "name": "DSC宝庫"
     },
     "entry": {
-      "name": "DSC宝庫"
+      "name": "DSC宝庫",
+      "completed": "回収済"
     }
   },
   "1297424116": {
@@ -40,7 +44,8 @@
       "name": "アハンカーラの骨"
     },
     "entry": {
-      "name": "アハンカーラの骨"
+      "name": "アハンカーラの骨",
+      "completed": "回収済"
     },
     "progressDescription": "発見した骨"
   },
@@ -49,7 +54,8 @@
       "name": "地域のクレート"
     },
     "entry": {
-      "name": "地域のクレート"
+      "name": "地域のクレート",
+      "completed": "開封済"
     },
     "progressDescription": "発見済のクレート"
   },
@@ -59,7 +65,8 @@
     },
     "entry": {
       "prefix": "破片",
-      "name": "エントロピーの破片"
+      "name": "エントロピーの破片",
+      "completed": "すべて破壊済"
     },
     "progressDescription": "回復された秩序"
   },
@@ -68,7 +75,8 @@
       "name": "玉兎"
     },
     "entry": {
-      "name": "玉兎"
+      "name": "玉兎",
+      "completed": "お供え済"
     },
     "progressDescription": "ライスケーキを持つ兎"
   },
@@ -78,7 +86,8 @@
     },
     "entry": {
       "prefix": "エクソ",
-      "name": "エクソの死体"
+      "name": "エクソの死体",
+      "completed": "音声ログ回収済"
     },
     "progressDescription": "被験者の音声ログ数"
   },
@@ -88,7 +97,8 @@
     },
     "entry": {
       "prefix": "卵",
-      "name": "汚染された卵"
+      "name": "汚染された卵",
+      "completed": "破壊済"
     },
     "progressDescription": "破壊された卵"
   },
@@ -98,7 +108,8 @@
     },
     "entry": {
       "prefix": "猫のともだち",
-      "name": "猫の置物"
+      "name": "猫の置物",
+      "completed": "満足させた"
     },
     "progressDescription": "満足した猫のともだち"
   },
@@ -108,7 +119,8 @@
     },
     "entry": {
       "prefix": "亀裂",
-      "name": "暗黒の亀裂"
+      "name": "暗黒の亀裂",
+      "completed": "封じた"
     },
     "progressDescription": "封鎖した亀裂"
   },
@@ -117,7 +129,8 @@
       "name": "失われたセクター"
     },
     "entry": {
-      "name": "失われたセクター"
+      "name": "失われたセクター",
+      "completed": "発見済"
     },
     "progressDescription": "発見済み"
   },
@@ -127,7 +140,8 @@
     },
     "entry": {
       "prefix": "モス",
-      "name": "ルーセントモス"
+      "name": "ルーセントモス",
+      "completed": "回収済"
     },
     "progressDescription": "収集したルーセントモス"
   },
@@ -136,8 +150,26 @@
       "name": "伝承: 忌まわしき者の尋問"
     },
     "entry": {
-      "name": "ネクロ暗号"
+      "name": "ネクロ暗号",
+      "completed": "回収済"
     },
-    "progressDescription": "収集されたネクロ暗号"
+    "progressDescription": "すべてのネクロ暗号を回収した"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "アクションフィギュア"
+    },
+    "entry": {
+      "name": "アクションフィギュア",
+      "completed": "回収済"
+    },
+    "progressDescription": "コンプリート達成"
+  },
+  "703136805": {
+    "entry": {
+      "name": "アポジリピーター",
+      "completed": "破壊済"
+    },
+    "progressDescription": "すべてのアポジリピーターを破壊"
   }
 }

@@ -160,5 +160,29 @@
       "name": "邪神オリックス",
       "description": "引導を渡せ"
     }
+  },
+  "3172054256": {
+    "displayProperties": {
+      "name": "大変動",
+      "description": "影の軍団を倒し、ネザレクを見つける"
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "分断の地",
+      "description": "根の中に入る"
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "大宇宙",
+      "description": "惑星を並び替えて惑星の解説者を倒せ"
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "ネザレク",
+      "description": "最後の苦痛の神 ネザレクを倒せ"
+    }
   }
 }
