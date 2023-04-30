@@ -27,6 +27,7 @@ import DestinySourceDefinition from '@Data/manifest/en/DestinySourceDefinition.j
 import DestinyStatDefinition from '@Data/manifest/en/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en/DestinyTraitDefinition.json';
 
+import DestinyCollectibleDefinitionColloquial from '@Data/manifest/en/DestinyCollectibleDefinitionColloquial.json';
 import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/en/DestinyInventoryItemDefinitionColloquial.json';
 
 const en = {
@@ -62,6 +63,7 @@ const en = {
   },
   optional: {
     colloquialDefinitions: {
+      DestinyCollectibleDefinition: DestinyCollectibleDefinitionColloquial,
       DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
     },
   },
