@@ -97,6 +97,13 @@
     },
     "itemTypeDisplayName": "Traduttore di Braytech"
   },
+  "flair-charitable": {
+    "displayProperties": {
+      "name": "Benefattore",
+      "description": "_Un Guardiano caritatevole._\nQuesto giocatore ha fatto una donazione per una grande causa tramite la Bungie Foundation."
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
   "ammo-type-primary": {
     "displayProperties": {
       "name": "Primarie",
