@@ -60,19 +60,19 @@
     "statDescription": "玩家当前的 Elo 分数。\n\n这里所显示的分数是来自第三方网站 _Destiny Tracker_ 的数据。 _Destiny Tracker_ 提供了所有游玩过 _熔炉竞技场_ 和 _智谋_ 的《命运》系列玩家的相关 Elo 分数数据。"
   },
   "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
+    "statName": "已收集纹章"
   },
   "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
+    "statName": "已回收纹章"
   },
   "supremacySecureRate": {
-    "statName": "Secure Rate"
+    "statName": "收集率"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
+    "statName": "最后一击收集率"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
+    "statName": "队友击杀收集率"
   },
   "motesDeposited": {
     "statNameAbbr": "MD"
