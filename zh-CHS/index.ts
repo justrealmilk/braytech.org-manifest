@@ -13,6 +13,7 @@ import DestinyDamageTypeDefinition from '@Data/manifest/zh-CHS/DestinyDamageType
 import DestinyHistoricalStatsDefinition from '@Data/manifest/zh-CHS/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/zh-CHS/DestinyInventoryItemDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/zh-CHS/DestinyInventoryBucketDefinition.json';
+import DestinyObjectiveDefinition from '@Data/manifest/zh-CHS/DestinyObjectiveDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/zh-CHS/DestinyMilestoneDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/zh-CHS/DestinySeasonDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/zh-CHS/DestinySourceDefinition.json';
@@ -38,6 +39,7 @@ const zhCHS = {
     DestinyHistoricalStatsDefinition,
     DestinyInventoryItemDefinition,
     DestinyInventoryBucketDefinition,
+    DestinyObjectiveDefinition,
     DestinyMilestoneDefinition,
     DestinySeasonDefinition,
     DestinySourceDefinition,
