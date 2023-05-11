@@ -20,15 +20,6 @@
   "1734176373": {
     "progressDescription": "Gambit matches completed"
   },
-  "3243082817": {
-    "progressDescription": "\"Grasp of Avarice\" dungeon completed"
-  },
-  "4073017996": {
-    "progressDescription": "\"Duality\" dungeon completed"
-  },
-  "424208044": {
-    "progressDescription": "\"Spire of the Watcher\" dungeon completed"
-  },
   "1948254616": {
     "progressDescription": "\"Dares of Eternity\" activities completed"
   },
@@ -63,7 +54,7 @@
     "progressDescription": "Speak with Lord Shaxx"
   },
   "3564470639": {
-    "progressDescription": "Weekly Campaign mission completed with a score of 100,000 or higher"
+    "progressDescription": "Weekly Campaign mission completed with a high score"
   },
   "897950155": {
     "progressDescription": "\"Last Wish\" rotator raid completed"
@@ -78,15 +69,24 @@
     "progressDescription": "\"Vault of Glass\" rotator raid completed"
   },
   "1863972407": {
+    "displayProperties": {
+      "description": "Step forward, Disciple-Slayer."
+    },
     "progressDescription": "\"Vow of the Disciple\" rotator raid completed"
   },
   "406803827": {
     "progressDescription": "\"King's Fall\" rotator raid completed"
   },
   "600986371": {
+    "displayProperties": {
+      "description": "Become your nightmare's nightmare."
+    },
     "progressDescription": "\"Root of Nightmares\" raid completed"
   },
   "2039792527": {
+    "displayProperties": {
+      "description": "Enter the realm of the Nine, survive, and be rewarded with knowledge, and perhaps more."
+    },
     "progressDescription": "\"Prophecy\" rotator dungeon completed"
   },
   "1283234589": {
@@ -100,6 +100,12 @@
   },
   "3039545165": {
     "progressDescription": "\"Duality\" rotator dungeon completed"
+  },
+  "424208044": {
+    "displayProperties": {
+      "description": "Visit Mars, corroborate Osiris's visions, and intervene in a potential Vex-based catastrophe."
+    },
+    "progressDescription": "\"Spire of the Watcher\" dungeon completed"
   },
   "2258905201": {
     "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
