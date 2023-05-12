@@ -10,6 +10,7 @@ import DestinyActivityModifierDefinition from '@Data/manifest/zh-CHS/DestinyActi
 import DestinyChecklistDefinition from '@Data/manifest/zh-CHS/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/zh-CHS/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/zh-CHS/DestinyDamageTypeDefinition.json';
+import DestinyDestinationDefinition from '@Data/manifest/zh-CHS/DestinyDestinationDefinition.json';
 import DestinyHistoricalStatsDefinition from '@Data/manifest/zh-CHS/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/zh-CHS/DestinyInventoryItemDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/zh-CHS/DestinyInventoryBucketDefinition.json';
@@ -37,6 +38,7 @@ const zhCHS = {
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
+    DestinyDestinationDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyInventoryItemDefinition,
     DestinyInventoryBucketDefinition,
