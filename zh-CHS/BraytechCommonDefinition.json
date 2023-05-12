@@ -1,4 +1,335 @@
 {
+    "platform-xbox": {
+        "displayProperties": {
+          "name": "Xbox",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "platform-playstation": {
+        "displayProperties": {
+          "name": "Playstation",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "platform-steam": {
+        "displayProperties": {
+          "name": "Steam",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "platform-battlenet": {
+        "displayProperties": {
+          "name": "暴雪战网",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "platform-stadia": {
+        "displayProperties": {
+          "name": "Stadia",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "platform-epic": {
+        "displayProperties": {
+          "name": "Epic",
+          "description": "该个人资料所属的游玩平台。"
+        },
+        "itemTypeDisplayName": "游玩平台"
+      },
+      "flair-developer": {
+        "displayProperties": {
+          "name": "Tom Chapman",
+          "description": "_Braytech 的创建者_\n该玩家创建了你所阅读着小贴士所属的应用。"
+        },
+        "itemTypeDisplayName": "Braytech 开发者"
+      },
+      "flair-for-you": {
+        "displayProperties": {
+          "name": "“为你而做”",
+          "description": "_You're my little pogchamp, Guardian._ 🌞"
+        },
+        "itemTypeDisplayName": "特殊"
+      },
+      "flair-bungie": {
+        "displayProperties": {
+          "name": "Bungie 开发者",
+          "description": "_当心缔造者。_\n该玩家 _可以_ 删除你。"
+        },
+        "itemTypeDisplayName": "特殊"
+      },
+      "flair-api-dev": {
+        "displayProperties": {
+          "name": "Bungie API 开发者",
+          "description": "_当心缔造者。_\n该玩家参与了 Bungie API 开发。"
+        },
+        "itemTypeDisplayName": "特殊"
+      },
+      "flair-patron-submind": {
+        "displayProperties": {
+          "name": "子思维",
+          "description": "_战争思维的一个碎片。_\n一位十分宝贵的 Patreon 赞助者。"
+        },
+        "itemTypeDisplayName": "Braytech 支持者"
+      },
+      "flair-patron-researcher": {
+        "displayProperties": {
+          "name": "研究者",
+          "description": "_一位从克罗维茨·布瑞的背叛中逃离并幸存下来的研究人员。_\n一位十分宝贵的 Patreon 赞助者。"
+        },
+        "itemTypeDisplayName": "Braytech 支持者"
+      },
+      "flair-patron": {
+        "displayProperties": {
+          "name": "赞助者",
+          "description": "一位十分宝贵的 Patreon 赞助者。"
+        },
+        "itemTypeDisplayName": "Braytech 支持者"
+      },
+      "flair-cryptarch": {
+        "displayProperties": {
+          "name": "解密大师",
+          "description": "_一位为 Braytech 提供本地化文本的翻译人员。_"
+        },
+        "itemTypeDisplayName": "Braytech 译者"
+      },
+      "flair-charitable": {
+        "displayProperties": {
+          "name": "Benefactor",
+          "description": "_A charitable Guardian._\nThis player made a donation to a great cause via the Bungie Foundation."
+        },
+        "itemTypeDisplayName": "特殊"
+      },
+      "ammo-type-primary": {
+        "displayProperties": {
+          "name": "主武器",
+          "description": "该武器拥有无限备弹。"
+        },
+        "itemTypeDisplayName": "弹药类型"
+      },
+      "ammo-type-special": {
+        "displayProperties": {
+          "name": "特殊武器",
+          "description": "该武器使用特殊弹药。"
+        },
+        "itemTypeDisplayName": "弹药类型"
+      },
+      "ammo-type-heavy": {
+        "displayProperties": {
+          "name": "重武器",
+          "description": "该武器使用重型弹药。"
+        },
+        "itemTypeDisplayName": "弹药类型"
+      },
+      "stat-damage-falloff": {
+        "displayProperties": {
+          "name": "伤害衰减",
+          "description": "武器伤害大致开始衰减的距离。"
+        },
+        "itemTypeDisplayName": "武器数据"
+      },
+      "stat-reload-time": {
+        "displayProperties": {
+          "name": "换弹时长",
+          "description": "该武器完成一次完整装填到开火所需的时间。该数值基于填装速度的数值得出，且不受武器特性所影响。"
+        },
+        "itemTypeDisplayName": "武器数据"
+      },
+      "accurate-gear-power-average": {
+        "displayProperties": {
+          "name": "装备光等",
+          "description": "该角色当前所有装备的光等的平均值。\n获取准确的数值时需要访问你的背包，若你的背包尚未公开，你需要与 Bungie.net 认证。."
+        }
+      },
+      "commonality": {
+        "displayProperties": {
+          "name": "持有率",
+          "description": "Voluspa 数据库中获取或已领取该项目的玩家所占的百分比。"
+        }
+      },
+      "expiration": {
+        "displayProperties": {
+          "name": "Expiration",
+          "description": "This record has expiration information attached."
+        }
+      },
+      "score": {
+        "displayProperties": {
+          "name": "Score Value",
+          "description": "This record's score value."
+        }
+      },
+      "interval-score": {
+        "displayProperties": {
+          "name": "Score Value",
+          "description": "This record's remaining score value (sum of remaining intervals)."
+        }
+      },
+      "presentation-node-score": {
+        "displayProperties": {
+          "name": "Score Value",
+          "description": "This node's calculated score value."
+        }
+      },
+      "record-intervals": {
+        "displayProperties": {
+          "name": "Record intervals",
+          "description": "Some records have intervals. Different intervals have varied requirements and score values."
+        }
+      },
+      "add-record-track": {
+        "displayProperties": {
+          "name": "Track Record",
+          "description": "Add this record to \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+        }
+      },
+      "remove-record-track": {
+        "displayProperties": {
+          "name": "Untrack Record",
+          "description": "Remove this record from \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+        }
+      },
+      "add-record-bookmark": {
+        "displayProperties": {
+          "name": "Add Bookmark",
+          "description": "Bookmark this record for later viewing.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+        }
+      },
+      "remove-record-bookmark": {
+        "displayProperties": {
+          "name": "Remove Bookmark",
+          "description": "Remove this bookmark.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+        }
+      },
+      "legacy-triumph-score": {
+        "displayProperties": {
+          "name": "传承成就得分",
+          "description": "当前已获取的传承成就得分总和。"
+        }
+      },
+      "lifetime-triumph-score": {
+        "displayProperties": {
+          "name": "生涯成就得分",
+          "description": "所有已完成的现有和传承成就的得分总和。"
+        }
+      },
+      "active-triumph-score": {
+        "displayProperties": {
+          "name": "现有成就得分",
+          "description": "当前已获取的现有成就得分总和。\n\n当有成就变为传承成就时此分数会发生变动。"
+        }
+      },
+      "total-resets": {
+        "displayProperties": {
+          "name": "总重置次数",
+          "description": "All seasons' resets. Tracks from Season 4 onward."
+        }
+      },
+      "artifact-power-bonus": {
+        "displayProperties": {
+          "name": "神器光等加成",
+          "description": "通过获取赛季经验值来获得额外光等加成并解锁赛季神器中的强力模组。"
+        }
+      },
+      "latent-memories": {
+        "displayProperties": {
+          "name": "Latent Memories",
+          "description": "Mysterious test nodes are scattered across Mars. What is their purpose?"
+        }
+      },
+      "enable-dim-sync": {
+        "displayProperties": {
+          "name": "需要 DIM Sync 同步",
+          "description": "该功能需要使用 _DIM Sync_.\n\n在 _设置菜单_ 内启用这项功能。  "
+        }
+      },
+      "tooltip-error": {
+        "displayProperties": {
+          "name": "未知错误",
+          "description": "在渲染该小贴士时出现错误。\n\n这或许只是个暂时性错误，十分抱歉。"
+        }
+      },
+      "profile-stale": {
+        "displayProperties": {
+          "name": "资料过期",
+          "description": "尝试从 Bungie.net 更新你的个人资料数据时发生错误，Braytech 无法与 Bungie.net 建立连接。\n\n继续使用 Braytech 或许可以解决此问题，Bungie.net 服务可用性待定。"
+        }
+      },
+      "profile-stale-inactive": {
+        "displayProperties": {
+          "name": "资料过期",
+          "description": "由于页面闲置过久导致后台刷新暂停。与 Braytech 进行交互以重新激活后台刷新服务。"
+        }
+      },
+      "profile-stale-minted": {
+        "displayProperties": {
+          "name": "资料过期",
+          "description": "Bungie.net 返回了旧的信息。\n\n续使用 Braytech 或许可以解决此问题，Bungie.net 服务可用性待定。"
+        }
+      },
+      "profile-stale-maintenance": {
+        "displayProperties": {
+          "name": "资料过期",
+          "description": "Bungie.net 因维护而暂时不可用。\n\n续使用 Braytech 或许可以解决此问题，Bungie.net 服务可用性待定。"
+        }
+      },
+      "activity-contest-mode": {
+        "displayProperties": {
+          "name": "首日通关",
+          "description": "This activity was finished in the contest mode window: triumph under extraordinary circumstance and pressure"
+        }
+      },
+      "activity-flawless": {
+        "displayProperties": {
+          "name": "无暇",
+          "description": "指活动从开始到结束完成时没有玩家死亡。\n\n达成条件：**突袭** 需要在《邪姬魅影》发布后通关， **地牢** 和 **遗失区域** 需要以单人条件下完成， **打击** 每名玩家单独计算无暇完成与否。"
+        }
+      },
+      "activity-solo": {
+        "displayProperties": {
+          "name": "单人通关",
+          "description": "_Riding solo. This guardian is so cracked they don't need no stinkin' fireteam._"
+        }
+      },
+      "activity-duo": {
+        "displayProperties": {
+          "name": "双人通关",
+          "description": "_Run it back to back._"
+        }
+      },
+      "activity-trio": {
+        "displayProperties": {
+          "name": "三人通关",
+          "description": "_It's a threesome._"
+        }
+      },
+      "activity-weapon-popular": {
+        "displayProperties": {
+          "name": "Final Blows",
+          "description": "_This weapon is so hot right now._\n\nSum of final blows by combatants using this weapon.\n\nOutliers are determined with the formula: \n`Sum of weapon final blows >= Q3 + IQR`"
+        }
+      },
+      "character-loadouts-delete": {
+        "displayProperties": {
+          "name": "删除配装",
+          "description": "删除该配装。这项操作不可逆。"
+        }
+      },
+    "configure-push-notifications": {
+        "displayProperties": {
+          "name": "推送通知",
+          "description": "推送通知可在你没有使用 Braytech 的时候通知你以防你错过了你想要的东西。"
+        }
+      },
+    "progression-step-map": {
+        "displayProperties": {
+          "description": "_This map charts the steps on the path to the top._"
+        }
+    },
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
       "name": "遗失区域",
