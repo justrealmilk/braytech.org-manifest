@@ -1,0 +1,23 @@
+{
+  "ammo-type-primary": {
+    "displayProperties": {
+      "name": "白弹武器",
+      "description": "该武器拥有无限备弹。"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  },
+  "ammo-type-special": {
+    "displayProperties": {
+      "name": "绿弹武器",
+      "description": "该武器使用特殊弹药（绿弹）。"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  },
+  "ammo-type-heavy": {
+    "displayProperties": {
+      "name": "紫弹武器",
+      "description": "该武器使用重型弹药（紫弹）。"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  }
+}
