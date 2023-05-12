@@ -51,6 +51,7 @@ const zhCHS = {
   optional: {
     colloquialDefinitions: {
       DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
+      BraytechCommonDefinition: BraytechCommonDefinitionColloquial,
     },
   },
 };
