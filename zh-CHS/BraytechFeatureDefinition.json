@@ -79,8 +79,8 @@
   },
   "triumphs-transient": {
     "displayProperties": {
-      "name": "Transient Triumphs",
-      "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
+      "name": "限时成就",
+      "description": "并非所有成就都是随时可以完成的，这些成就需要在限定时间内完成，否则就永远得不到它们了。"
     }
   },
   "triumphs-event-card": {
