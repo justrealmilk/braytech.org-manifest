@@ -1,6 +1,7 @@
 import BraytechActivityDifficultyDefinition from '@Data/manifest/zh-CHS/BraytechActivityDifficultyDefinition.json';
 import BraytechActivityDefinition from '@Data/manifest/zh-CHS/BraytechActivityDefinition.json';
 import BraytechCommonDefinition from '@Data/manifest/zh-CHS/BraytechCommonDefinition.json';
+import BraytechCommonDefinitionColloquial from '@Data/manifest/zh-CHS/BraytechCommonDefinitionColloquial.json';
 import BraytechFeatureDefinition from '@Data/manifest/zh-CHS/BraytechFeatureDefinition.json';
 import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/zh-CHS/BraytechRotationDefinition.json';
