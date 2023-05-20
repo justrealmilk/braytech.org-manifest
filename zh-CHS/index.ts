@@ -22,6 +22,7 @@ import DestinySeasonDefinition from '@Data/manifest/zh-CHS/DestinySeasonDefiniti
 import DestinySourceDefinition from '@Data/manifest/zh-CHS/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/zh-CHS/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/zh-CHS/DestinyTraitDefinition.json';
+import DestinyPhaseDefinition from '@Data/manifest/zh-CHS/DestinyPhaseDefinition.json';
 
 import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/zh-CHS/DestinyInventoryItemDefinitionColloquial.json';
 
@@ -50,6 +51,7 @@ const zhCHS = {
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
+    DestinyPhaseDefinition,
   },
   optional: {
     colloquialDefinitions: {
