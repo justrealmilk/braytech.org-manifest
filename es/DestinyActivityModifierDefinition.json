@@ -17,6 +17,30 @@
       "description": "Esta actividad tiene escudos de vacío"
     }
   },
+  "34300000001": {
+    "displayProperties": {
+      "name": "Enemigos con escudos",
+      "description": "Te enfrentarás a combatientes con escudos [Solar] Solar y [Arco] Arco."
+    }
+  },
+  "34300000002": {
+    "displayProperties": {
+      "name": "Enemigos con escudos",
+      "description": "Te enfrentarás a combatientes con escudos [Solar] Solar y [Vacío] Vacío."
+    }
+  },
+  "34300000003": {
+    "displayProperties": {
+      "name": "Enemigos con escudos",
+      "description": "Te enfrentarás a combatientes con escudos [Arco] Arco y [Vacío] Vacío."
+    }
+  },
+  "34300000004": {
+    "displayProperties": {
+      "name": "Enemigos con escudos",
+      "description": "Te enfrentarás a combatientes con escudos [Solar] Solar, [Arco] Arco y [Vacío] Vacío."
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "Antes de cada fase de daño, rompe **los cuatro** **propulsores** de Taniks y deposita todos los núcleos atómicos."

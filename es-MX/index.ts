@@ -20,6 +20,7 @@ import DestinyMilestoneDefinition from '@Data/manifest/es-MX/DestinyMilestoneDef
 import DestinyObjectiveDefinition from '@Data/manifest/es-MX/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/es-MX/DestinyPhaseDefinition.json';
 import DestinyPresentationNodeDefinition from '@Data/manifest/es-MX/DestinyPresentationNodeDefinition.json';
+import DestinyRecordDefinition from '@Data/manifest/es-MX/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/es-MX/DestinySeasonDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/es-MX/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/es-MX/DestinyStatDefinition.json';
@@ -49,6 +50,7 @@ const esMX = {
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
     DestinyPresentationNodeDefinition,
+    DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinySourceDefinition,
     DestinyStatDefinition,
