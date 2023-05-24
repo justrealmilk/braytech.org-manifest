@@ -20,15 +20,6 @@
   "1734176373": {
     "progressDescription": "Partite di Azzardo completate"
   },
-  "3243082817": {
-    "progressDescription": "Segreta \"Morsa della Cupidigia\" completata"
-  },
-  "4073017996": {
-    "progressDescription": "Segreta \"Dualità\" completata"
-  },
-  "424208044": {
-    "progressDescription": "Segreta \"Pinnacolo dell'Osservatrice\" completata"
-  },
   "1948254616": {
     "progressDescription": "Attività \"Sfide dell'Eternità\" completate"
   },
@@ -63,7 +54,7 @@
     "progressDescription": "Parla con Lord Shaxx"
   },
   "3564470639": {
-    "progressDescription": "Missione settimanale della campagna con punteggio superiore a 100,000 completata"
+    "progressDescription": "Missione settimanale della campagna completata con punteggio alto"
   },
   "897950155": {
     "progressDescription": "Incursione in rotazione \"Ultimo desiderio\" completata"
@@ -78,15 +69,24 @@
     "progressDescription": "Incursione in rotazione \"Volta di Vetro\" completata"
   },
   "1863972407": {
+    "displayProperties": {
+      "description": "Fatti avanti, Ammazza-discepolo."
+    },
     "progressDescription": "Incursione in rotazione \"Promessa del Discepolo\" completata"
   },
   "406803827": {
     "progressDescription": "Incursione in rotazione \"La caduta di un Re\" completata"
   },
   "600986371": {
+    "displayProperties": {
+      "description": "Diventa l'incubo dei tui incubi."
+    },
     "progressDescription": "Incursione \"La radice degli incubi\" completata"
   },
   "2039792527": {
+    "displayProperties": {
+      "description": "Entra nel regno dei Nove, sopravvivi e sarai ricompensato con conoscenza e forse anche altro."
+    },
     "progressDescription": "Segreta in rotazione \"Profezia\" completata"
   },
   "1283234589": {
@@ -100,6 +100,12 @@
   },
   "3039545165": {
     "progressDescription": "Segreta in rotazione \"Dualità\" completata"
+  },
+  "424208044": {
+    "displayProperties": {
+      "description": "Visita Marte, corrobora le visioni di Osiride e intervieni in una potenziale catastrofe a base Vex."
+    },
+    "progressDescription": "Segreta \"Pinnacolo dell'Osservatrice\" completata"
   },
   "2258905201": {
     "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Telascura] Telascura, [Solare] Solare o [Vuoto] Vuoto"
