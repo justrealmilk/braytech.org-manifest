@@ -20,6 +20,12 @@
     },
     "itemTypeDisplayName": "Engram"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "An engram with remarkable encoding markers. A Cryptarch would be thrilled to decode this to reveal its true nature."
+    },
+    "itemTypeDisplayName": "Engram"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Increases your clan's experience"
