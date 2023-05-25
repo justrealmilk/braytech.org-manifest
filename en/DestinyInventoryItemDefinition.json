@@ -21,6 +21,12 @@
     },
     "itemTypeDisplayName": "Engram"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "An engram with remarkable encoding markers. A Cryptarch would be thrilled to decode this to reveal its true nature."
+    },
+    "itemTypeDisplayName": "Engram"
+  },
   "304443327": {
     "displayProperties": {
       "description": "Increases your clan's experience"
@@ -154,6 +160,7 @@
     "traitIds": ["item_type.experience"]
   },
   "23239861010": {
+    "hash": 23239861010,
     "displayProperties": {
       "description": "No masterwork currently selected.",
       "name": "Empty Masterwork Socket",
@@ -183,8 +190,6 @@
     "itemSubType": 0,
     "classType": 3,
     "breakerType": 0,
-    "equippable": false,
-    "hash": 23239861010,
     "redacted": false
   },
   "73143230001": {
@@ -196,24 +201,6 @@
   "3487253372": {
     "breakerType": 1,
     "breakerTypeHash": 485622768
-  },
-  "3941205951": {
-    "itemType": 16
-  },
-  "2550323932": {
-    "itemType": 16
-  },
-  "2240888816": {
-    "itemType": 16
-  },
-  "3168997075": {
-    "itemType": 16
-  },
-  "2932390016": {
-    "itemType": 16
-  },
-  "2328211300": {
-    "itemType": 16
   },
   "10493725": {
     "secondaryOverlay": "/static/images/extracts/emblems/027F-1CDF.png"
