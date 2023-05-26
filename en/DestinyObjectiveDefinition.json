@@ -101,23 +101,29 @@
   "3039545165": {
     "progressDescription": "\"Duality\" rotator dungeon completed"
   },
-  "424208044": {
+  "3211393925": {
     "displayProperties": {
       "description": "Visit Mars, corroborate Osiris's visions, and intervene in a potential Vex-based catastrophe."
     },
-    "progressDescription": "\"Spire of the Watcher\" dungeon completed"
+    "progressDescription": "\"Spire of the Watcher\" rotator dungeon completed"
   },
-  "2258905201": {
-    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
+  "1064977327": {
+    "displayProperties": {
+      "description": "Deputy Commander Sloan spotted a Lucent Hive command ship entering Titan's atmosphere. Shortly after its arrival, the ship dove into the moon's methane sea and anomalous energy readings spiked at the New Pacific Arcology. The deputy commander has called on you to investigate."
+    },
+    "progressDescription": "\"Ghost of the Deep\" dungeon completed"
+  },
+  "2258905201": { 
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
   },
   "2050629406": {
-    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
   },
   "3376767511": {
-    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
   },
   "1878970132": {
-    "progressDescription": "Iron Banner matches completed as [Strand] Strand, [Solar] Solar, or [Void] Void subclasses"
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
   },
   "275339596": {
     "progressDescription": "Cloud Strider bounties completed"
