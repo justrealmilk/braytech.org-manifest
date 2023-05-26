@@ -20,6 +20,27 @@
     },
     "itemTypeDisplayName": "Engramma"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "Un engramma con simboli notevolmente complessi. Un Criptarca sarebbe elettrizzato di decodificarlo per rivelare la sua vera natura."
+    },
+    "itemTypeDisplayName": "Engramma"
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Aumenta il grado di infamia del tuo Guardiano. Non dirlo all'Avanguardia."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Materiale di Sintospago che può essere convertito in Sintostoffa tramite il Telaio."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Aumenta il grado di Valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo clan"
@@ -28,19 +49,9 @@
       "tierTypeName": "Comune"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "Aumenta il grado di infamia del tuo Guardiano. Non dirlo all'Avanguardia."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Aumenta sostanzialmente l'esperienza del tuo Guardiano."
-    }
-  },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Materiale di Sintospago che può essere convertito in Sintostoffa tramite il Telaio."
     }
   },
   "1711513650": {
@@ -48,14 +59,39 @@
       "description": "Aumenta enormemente l'esperienza del tuo Guardiano."
     }
   },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Aumenta il grado di Valore del tuo Guardiano. Inoltre, potrebbe far emozionare Lord Shaxx."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Aumenta l'esperienza del tuo Guardiano."
+    }
+  },
+  "951399115": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Mille voci\" aumentata",
+      "description": "Aumenta la probabilità di trovare il fucile a fusione esotico \"Mille voci\" dall'incursione \"Ultimo desiderio\"."
+    }
+  },
+  "700251940": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Occhi del Domani\" aumentata",
+      "description": "Aumenta la probabilità di trovare il lanciarazzi esotico \"Occhi del Domani\" dall'incursione \"Cripta di Pietrafonda\"."
+    }
+  },
+  "901060145": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Mitoclasta Vex\" aumentata",
+      "description": "Aumenta la probabilità di trovare il fucile a fusione esotico \"Mitoclasta Vex\" dall'incursione \"Volta di Vetro\"."
+    }
+  },
+  "1541696845": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Obbligo Collettivo\" aumentata",
+      "description": "Aumenta la probabilità di trovare il fucile a impulsi esotico \"Obbligo Collettivo\" dall'incursione \"Promessa del Discepolo\"."
+    }
+  },
+  "2902936983": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Tocco del Male\" aumentata",
+      "description": "Aumenta la probabilità di trovare il fucile da ricognizione esotico \"Tocco del Male\" dall'incursione \"La caduta di un Re\"."
     }
   },
   "1950177353": {
@@ -73,7 +109,7 @@
   "2467253899": {
     "displayProperties": {
       "name": "Probabilità di trovare \"Finalità Condizionale\" aumentata",
-      "description": "Aumenta la probabilità di trovare il fucile a pompa esotico \"Finalità Condizionale\" dall'incursione \"La Radice degli Incubi\"."
+      "description": "Aumenta di molto la probabilità di trovare il fucile a pompa esotico \"Finalità Condizionale\" dall'incursione \"La Radice degli Incubi\"."
     }
   },
   "734180536": {
@@ -92,14 +128,14 @@
       "description": "Aumenta di molto l'esperienza del tuo Guardiano."
     }
   },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Aumenta sostanzialmente l'esperienza del tuo Guardiano."
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Aumenta di molto l'esperienza del tuo Guardiano."
     }
   },
   "3491404510": {
@@ -108,9 +144,9 @@
     },
     "itemTypeDisplayName": "Materiale"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "Aumenta di molto l'esperienza del tuo Guardiano."
+      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."
     }
   },
   "23239861010": {
