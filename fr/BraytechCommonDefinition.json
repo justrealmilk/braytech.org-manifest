@@ -43,16 +43,66 @@
   },
   "flair-developer": {
     "displayProperties": {
-      "name": "Tom Chapman"
+      "name": "Tom Chapman",
+      "description": "_Créateur de Braytech._\nCe joueur a créé l'application grâce à laquelle vous lisez cette infobulle."
     },
     "itemTypeDisplayName": "Développeur de Braytech"
+  },
+  "flair-for-you": {
+    "displayProperties": {
+      "name": "\"J'ai fait ça pour toi\"",
+      "description": "_Tu es mon petit pogchamp, Gardien._ 🌞"
+    },
+    "itemTypeDisplayName": "Spécial"
+  },
+  "flair-bungie": {
+    "displayProperties": {
+      "name": "Développeur de Bungie",
+      "description": "_Méfiez-vous des Architectes._\nCe joueur _peut_ te supprimer."
+    },
+    "itemTypeDisplayName": "Spécial"
+  },
+  "flair-api-dev": {
+    "displayProperties": {
+      "name": "Développeur de l'API Bungie",
+      "description": "_Méfiez-vous des Architectes._\nCe joueur a construit l'API de Bungie."
+    },
+    "itemTypeDisplayName": "Spécial"
+  },
+  "flair-patron-submind": {
+    "displayProperties": {
+      "name": "Esprit inférieur",
+      "description": "_Un fragment de l'Esprit tutélaire._\nUn abonné Patreon inestimable."
+    },
+    "itemTypeDisplayName": "Supporteur de Braytech"
   },
   "flair-patron-researcher": {
     "displayProperties": {
       "name": "Chercheur",
-      "description": "Chercheur technique chez Clovis Bray, ce Guardian cherche à améliorer Braytech."
+      "description": "_L'un des rares chercheurs à avoir échappé à la trahison de Clovis Bray._\nUn abonné Patreon inestimable."
     },
-    "itemTypeDisplayName": "Supporter de Braytech"
+    "itemTypeDisplayName": "Supporteur de Braytech"
+  },
+  "flair-patron": {
+    "displayProperties": {
+      "name": "Mécène",
+      "description": "Un abonné Patreon inestimable."
+    },
+    "itemTypeDisplayName": "Supporteur de Braytech"
+  },
+  "flair-cryptarch": {
+    "displayProperties": {
+      "name": "Cryptarque",
+      "description": "_Un généreux traducteur de Braytech._"
+    },
+    "itemTypeDisplayName": "Traducteur de Braytech"
+  },
+  "flair-charitable": {
+    "displayProperties": {
+      "name": "Bienfaiteur",
+      "description": "_Un Gardien charitable._\nCe joueur a fait un don à une grande cause via la Fondation Bungie."
+    },
+    "itemTypeDisplayName": "Spécial"
   },
   "ammo-type-primary": {
     "displayProperties": {

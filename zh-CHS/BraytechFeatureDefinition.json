@@ -44,19 +44,19 @@
   "collections-lore": {
     "displayProperties": {
       "name": "传说故事",
-      "description": "传说故事可以让你了解《命运》宇宙的故事。通过完成成就来解锁传说故事书页，并阅读它们。"
+      "description": "传说故事可以让你了解《命运》宇宙的故事。通过完成成就来解锁传说故事书页，并阅读它们"
     }
   },
   "collections-patterns-catalysts": {
     "displayProperties": {
       "name": "模式与催化",
-      "description": "深视模式可使你塑形对应武器，催化可提高异域武器的力量。找到并完成它们对应的目标来使你的军械库变得更加强大"
+      "description": "解锁深视模式可解锁对应武器的锻造。催化剂可使你的异域武器变得更加强大。找到并完成它们相关的目标来使你的军械库发挥出最大潜力"
     }
   },
   "collections-metrics": {
     "displayProperties": {
       "name": "数据追踪器",
-      "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
+      "description": "数据追踪器可通过徽章的检视页面装备。所装备的追踪器会在可用时显示名牌上"
     }
   },
   "triumphs": {
@@ -67,26 +67,26 @@
   },
   "triumphs-active": {
     "displayProperties": {
-      "name": "Active Triumphs and Seals",
-      "description": "View all active Triumphs and Seals"
+      "name": "现有成就和称号",
+      "description": "查看所有目前可获得的成就和印章"
     }
   },
   "triumphs-legacy": {
     "displayProperties": {
-      "name": "Legacy Triumphs and Seals",
-      "description": "View a collection of legacy Triumphs and Seals"
+      "name": "传承成就和印章",
+      "description": "查看所有的传承成就和印章"
     }
   },
   "triumphs-transient": {
     "displayProperties": {
-      "name": "Transient Triumphs",
-      "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
+      "name": "限时成就",
+      "description": "并非所有成就都是随时可以完成的，这些成就需要在限定时间内完成，否则就永远得不到它们了。"
     }
   },
   "triumphs-event-card": {
     "displayProperties": {
-      "name": "Active Event Card",
-      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
+      "name": "当前生效的活动卡片",
+      "description": "通过完成限时活动卡片里的挑战来获取各种限时奖励并提升称号获取进度。"
     }
   },
   "journey": {
@@ -218,7 +218,7 @@
   "activity-graphs": {
     "displayProperties": {
       "name": "图表",
-      "description": "Activities plotted against graphs, for the statistically inclined."
+      "description": "根据所选活动类型的近期数据所绘制的图表，供那些需要参考的使用。"
     }
   },
   "activity-series": {

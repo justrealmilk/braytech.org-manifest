@@ -14,13 +14,13 @@
   "9924991580": {
     "displayProperties": {
       "name": "攻势",
-      "description": "Form a fireteam of six and stave off the onslaught of our enemies."
+      "description": "组成六人火力战队并击退敌人的攻势。"
     }
   },
   "103143560": {
     "displayProperties": {
       "name": "遗失区域",
-      "description": "Advanced scouts have marked sectors of strategic interest ahead of you.\n\nInspect them for threats and rare equipment."
+      "description": "我们的高级侦察兵已经为你提前标记好了具有战略意义的兴趣点。\n\n在这里查看将要面对的威胁和可获得的稀有装备。"
     }
   },
   "4110605575": {
@@ -32,7 +32,7 @@
   "547513715": {
     "displayProperties": {
       "name": "日落：严酷考验",
-      "description": "The Vanguard authorizes Nightfall strikes to take down the greatest threats faced by the City.\n\nReview Guardian performance and prepare for the next threat."
+      "description": "先锋队已批准守护者进行日落打击以清除圣城所面临的巨大威胁。\n\n在这里检查你的表现来进行评估并为下次任务之前做好准备。"
     }
   },
   "748895195": {
@@ -49,13 +49,13 @@
   "11647605040": {
     "displayProperties": {
       "name": "熔炉竞技场",
-      "description": "Did you throw enough grenades?"
+      "description": "你扔了足够多的手雷了吗？"
     }
   },
   "2486723318": {
     "displayProperties": {
       "name": "排位竞技",
-      "description": "Matches in this playlist affect your Competitive Division placement. Wins will lead to Promotions, increasing your Division placement. Losses will lead to Relegations, lowering your Division placement."
+      "description": "在该游玩列表下进行游戏将会影响你的竞技级别，获胜将会提高你的分段分数进而使你离升段更进一步，而落败将会降低你的分段分数进而导致你掉段。"
     }
   },
   "1639772990": {
@@ -65,38 +65,38 @@
   },
   "2732566144": {
     "displayProperties": {
-      "description": "Achieve victory by collecting the Spark and igniting the opponent's Rift."
+      "description": "通过捡起火花并引燃敌人复活点的裂隙来获得胜利。"
     }
   },
   "1848252830": {
     "displayProperties": {
-      "description": "Hunt hostiles in active warzones. Reckon with greater powers. Be notorious."
+      "description": "在交战区中狩猎敌人并与强大的敌人较量，并不择手段的获得胜利。"
     }
   },
   "1585787840": {
     "displayProperties": {
-      "description": "Fight for Valor by defeating opponents."
+      "description": "通过消灭对手来获得胜利。"
     }
   },
   "3199098480": {
     "displayProperties": {
-      "description": "Fight for Valor by capturing zones and defeating opponents."
+      "description": "通过占领区域和消灭对手来获得胜利。"
     }
   },
   "31990984800": {
     "displayProperties": {
-      "name": "Momentum Control",
-      "description": "Fight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled."
+      "name": "趋势控制",
+      "description": "通过占领区域和消灭对手来获得胜利。所有武器在该模式下将更致命，能力只有在击杀时恢复，且雷达被禁用。"
     }
   },
   "3484731833": {
     "displayProperties": {
-      "description": "Achieve victory by controlling zones, earning points for your team over time."
+      "description": "通过占领区域并随时间获得分数来获得胜利。"
     }
   },
   "4078439804": {
     "displayProperties": {
-      "description": "Fight for Valor by eliminating all opponents in this round-based mode. Don't forget to revive your fellow Guardians."
+      "description": "在该回合制的模式消灭你的所有对手来获得胜利，别忘了复活你倒下的队友。"
     }
   },
   "1826469369": {
@@ -106,27 +106,27 @@
   },
   "1264443021": {
     "displayProperties": {
-      "description": "Faster Supers, abilities, and Heavy ammo spawns—withstand and engage in a whirlwind of chaos."
+      "description": "超能和技能充能更快，重型弹药更快刷新。在该更加混乱的对局中赢得胜利。"
     }
   },
   "157639802": {
     "displayProperties": {
-      "description": "Fight for Valor by defeating opponents. No teams. No allegiance. A free-for-all where the leader had better watch their back."
+      "description": "该模式下没有队友，只能靠你自己。且该模式下作为第一名当心不要被偷了。"
     }
   },
   "2239249083": {
     "displayProperties": {
-      "description": "Fight for Glory by depleting your opponents' shared life pool, then eliminating them."
+      "description": "通过消耗对手共享的复活次数并在耗尽后彻底淘汰他们。"
     }
   },
   "1673724806": {
     "displayProperties": {
-      "description": "Compete in a fireteam-required event version of Elimination. Earn as many wins on a ticket as you can. Three losses and you're out."
+      "description": "在这个需要预先组队的灭绝模式下进行对战。尽可能在你输3盘被淘汰之前多赢几局。"
     }
   },
   "2546784302": {
     "displayProperties": {
-      "description": "Achieve victory by defeating opponents and preventing revives. Revive a defeated teammate to steal back the point your opponents scored. Win the most rounds or face off in an elimination showdown."
+      "description": "通过击败所有对手并阻止他们被复活。复活倒下的队友将对手获得的那一分收回，获得高分并赢得胜利或在决胜局内对决。"
     }
   }
 }

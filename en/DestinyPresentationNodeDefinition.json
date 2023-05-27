@@ -204,13 +204,13 @@
     "hash": 1000000008,
     "displayProperties": {
       "name": "Redeemable",
-      "description": "These emblems can be collecting by redeeming them with a code for free at https://www.bungie.net/redeem"
+      "description": "These emblems can be collected by redeeming them with a code for free at https://www.bungie.net/redeem"
     },
     "children": {
       "presentationNodes": [],
       "collectibles": [
         {
-          "collectibleHash": 908813207
+          "collectibleHash": 930889102
         },
         {
           "collectibleHash": 4137754755
@@ -283,6 +283,9 @@
         },
         {
           "collectibleHash": 1822059434
+        },
+        {
+          "collectibleHash": 1653841957
         }
       ],
       "records": [],

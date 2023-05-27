@@ -60,19 +60,19 @@
     "statDescription": "玩家当前的 Elo 分数。\n\n这里所显示的分数是来自第三方网站 _Destiny Tracker_ 的数据。 _Destiny Tracker_ 提供了所有游玩过 _熔炉竞技场_ 和 _智谋_ 的《命运》系列玩家的相关 Elo 分数数据。"
   },
   "supremacyCrestsSecured": {
-    "statName": "Crests Secured"
+    "statName": "已收集纹章"
   },
   "supremacyCrestsRecovered": {
-    "statName": "Crests Recovered"
+    "statName": "已回收纹章"
   },
   "supremacySecureRate": {
-    "statName": "Secure Rate"
+    "statName": "收集率"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
+    "statName": "最后一击收集率"
   },
   "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
+    "statName": "队友击杀收集率"
   },
   "motesDeposited": {
     "statNameAbbr": "MD"
@@ -122,120 +122,120 @@
     "statName": "大型阻绝者投放数"
   },
   "Medals_pvp_medal_ib_control_3a": {
-    "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
+    "statDescription": "团队合作，在狩猎中击败所有对手至少一次。"
   },
   "Medals_pvp_medal_ib_control_3b": {
-    "statDescription": "Survive a Hunt in which no member of your team is defeated—then start the next Hunt."
+    "statDescription": "在没有队友被击败的情况下在狩猎中存活后开始下一轮狩猎。"
   },
   "Medals_pvp_medal_ib_control_2a": {
-    "statDescription": "Complete an Iron Banner match with the most combined Advantage and Hunt kills."
+    "statDescription": "以最高的优势和狩猎击杀数完成一局铁旗对局。"
   },
   "Medals_pvp_medal_ib_control_2b": {
-    "statDescription": "Defeat five opponents while holding Zone Advantage before the opposing team recaptures a zone."
+    "statDescription": "在敌队重新占领一个区域前利用区域优势击败 5 名对手。"
   },
   "Medals_pvp_medal_ib_control_2c": {
-    "statDescription": "In a single life, participate in capturing all three zones leading to the Hunt."
+    "statDescription": "在一条命中参与占领三个区域之后的狩猎。"
   },
   "Medals_pvp_medal_ib_control_2d": {
-    "statDescription": "Survive your opponents' Hunt without being defeated."
+    "statDescription": "在不倒下的情况下从对手的狩猎中幸存。"
   },
   "Medals_pvp_medal_ib_control_1a": {
-    "statDescription": "In a single life, defeat three opponents attempting to capture allied capture zones."
+    "statDescription": "在一条命中击败 3 名试图占领我方占领区的对手。"
   },
   "Medals_pvp_medal_ib_control_1b": {
-    "statDescription": "Recapture a zone within 15 seconds of it being captured by your opponents."
+    "statDescription": "在对手开始占领某个区域后的 15 秒将其重新占领。"
   },
   "Medals_pvp_medal_ib_control_1c": {
-    "statDescription": "Defeat two or more opponents with Zone Advantage within 10 seconds of capturing a zone."
+    "statDescription": "在占领某个区域后的 10 秒内利用区域优势击败 2 名以上的对手。"
   },
   "Medals_pvp_medal_ib_control_1d": {
-    "statDescription": "Capture a zone with your entire team present."
+    "statDescription": "在整支队伍都在场的情况下占领一个目标区域。"
   },
   "Medals_pvp_medal_ib_multi_entire_team": {
-    "statDescription": "Land final blows on the entire enemy team before any of them respawn."
+    "statDescription": "在敌队的任意一名成员复活之前对所有对手造成最后一击。"
   },
   "Medals_pvp_medal_ib_multi_7x": {
-    "statDescription": "Rapidly defeat 7 opposing Guardians."
+    "statDescription": "快速击败 7 名对手。"
   },
   "Medals_pvp_medal_ib_multi_6x": {
-    "statDescription": "Rapidly defeat 6 opposing Guardians."
+    "statDescription": "快速击败 6 名对手。"
   },
   "Medals_pvp_medal_ib_multi_5x": {
-    "statDescription": "Rapidly defeat 5 opposing Guardians."
+    "statDescription": "快速击败 5 名对手。"
   },
   "Medals_pvp_medal_ib_multi_4x": {
-    "statDescription": "Rapidly defeat 4 opposing Guardians."
+    "statDescription": "快速击败 4 名对手。"
   },
   "Medals_pvp_medal_ib_multi_3x": {
-    "statDescription": "Rapidly defeat 3 opposing Guardians."
+    "statDescription": "快速击败 3 名对手。"
   },
   "Medals_pvp_medal_ib_multi_2x": {
-    "statDescription": "Rapidly defeat 2 opposing Guardians."
+    "statDescription": "快速击败 2 名对手。"
   },
   "Medals_pvp_medal_ib_payback": {
-    "statDescription": "Land the final blow on the Guardian who last defeated you."
+    "statDescription": "对上次击败你的对手造成最后一击。"
   },
   "Medals_pvp_medal_ib_avenger": {
-    "statDescription": "Land the final blow on an opponent who just defeated an ally."
+    "statDescription": "对最近击败了一名队友的对手造成最后一击。"
   },
   "Medals_pvp_medal_ib_defender": {
-    "statDescription": "Land the final blow on an opponent who has recently damaged an ally."
+    "statDescription": "对最近对一名队友造成伤害的对手造成最后一击。"
   },
   "Medals_pvp_medal_ib_streak_huge": {
-    "statDescription": "In a single life, defeat 50 opposing Guardians."
+    "statDescription": "在一条命中击败 50 名对手。"
   },
   "Medals_pvp_medal_ib_streak_lg": {
-    "statDescription": "In a single life, defeat 20 opposing Guardians."
+    "statDescription": "在一条命中击败 20 名对手。"
   },
   "Medals_pvp_medal_ib_streak_no_damage": {
-    "statDescription": "Land final blows on seven opponents without taking any damage from any source."
+    "statDescription": "在未受到任何伤害的情况下对 7 名对手造成最后一击。"
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statDescription": "Shut down an opponent's streak of 20 or more."
+    "statDescription": "中断一名对手的 20 或以上的连杀。"
   },
   "Medals_pvp_medal_ib_streak_med": {
-    "statDescription": "In a single life, defeat 10 opposing Guardians."
+    "statDescription": "在一条命中击败 10 名对手。"
   },
   "Medals_pvp_medal_ib_streak_team": {
-    "statDescription": "As a team, defeat 7 opposing Guardians without any member of your team being defeated."
+    "statDescription": "团队合作，在没有队员倒下的情况下击败 7 名对手。"
   },
   "Medals_pvp_medal_ib_streak_sm": {
-    "statDescription": "In a single life, defeat 5 opposing Guardians."
+    "statDescription": "在一条命中击败 5 名对手。"
   },
   "Medals_pvp_medal_ib_streak_comeback": {
-    "statDescription": "Defeat 3 opponents in a single life after having been defeated two consecutive times."
+    "statDescription": "在被连续击败两次后，一条命内击败 3 名对手。"
   },
   "Medals_pvp_medal_ib_streak_shutdown": {
-    "statDescription": "Shut down an opponent's streak."
+    "statDescription": "中断一名对手的连杀。"
   },
   "Medals_pvp_medal_ib_streak_combined": {
-    "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
+    "statDescription": "在一条命中助攻队友或被队友助攻的情况下击败 3 名对手。"
   },
   "Medals_pvp_medal_ib_match_undefeated": {
-    "statDescription": "Complete an Iron Banner match in which you defeat at least seven opponents and are never defeated by an opponent."
+    "statDescription": "在击败 7 名或以上的对手且没有被击败过的情况下下完成一局铁旗对局。"
   },
   "Medals_pvp_medal_ib_match_blowout": {
-    "statDescription": "Win an Iron Banner match with a large margin of victory."
+    "statDescription": "以大幅优势赢得一场铁旗对局。"
   },
   "Medals_pvp_medal_ib_match_most_damage": {
-    "statDescription": "Deal the most total damage to opponents in a single Iron Banner match."
+    "statDescription": "在一局铁旗对局中对敌方队伍造成最多的伤害。"
   },
   "Medals_pvp_medal_ib_match_comeback": {
-    "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
+    "statDescription": "在大幅落后的情况下赢得一场铁旗对局。"
   },
   "Medals_pvp_medal_ib_match_never_trailed": {
-    "statDescription": "Win an Iron Banner match in which your team never trailed."
+    "statDescription": "在队伍从未落后的情况下赢得一场铁旗对局。"
   },
   "Medals_pvp_medal_ib_match_overtime": {
-    "statDescription": "Win an Iron Banner match in overtime."
+    "statDescription": "在加时期间赢得一场铁旗对局。"
   },
   "Medals_pvp_medal_ib_cycle": {
-    "statDescription": "In a single Iron Banner match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (melee, grenade, Super)."
+    "statDescription": "在一局铁旗对局中，使用每种武器（动能，能量，威能）和每种技能（近战，手雷，超能）各至少造成一次最后一击。"
   },
   "Medals_pvp_medal_ib_first_strike": {
-    "statDescription": "Land the first final blow of the match."
+    "statDescription": "拿到对局的首杀。"
   },
   "Medals_pvp_medal_ib_super_shutdown": {
-    "statDescription": "Stop an opponent's Super with your Super."
+    "statDescription": "使用超能击败激活超能的对手。"
   }
 }

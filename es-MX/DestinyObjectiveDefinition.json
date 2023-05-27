@@ -20,15 +20,6 @@
   "1734176373": {
     "progressDescription": "Partidas de Gambito completadas"
   },
-  "3243082817": {
-    "progressDescription": "Mazmorra \"Garras de la avaricia\" completada"
-  },
-  "4073017996": {
-    "progressDescription": "Mazmorra \"Dualidad\" completada"
-  },
-  "424208044": {
-    "progressDescription": "Mazmorra \"Espira de la vigía\" completada"
-  },
   "1948254616": {
     "progressDescription": "Actividades de \"Retos de la Eternidad\" completadas"
   },
@@ -78,12 +69,24 @@
     "progressDescription": "Incursión rotativa \"Cámara de cristal\" completada"
   },
   "1863972407": {
-    "progressDescription": "Incursión rotativa \"Voto del Discípulo\" completada"
+    "displayProperties": {
+      "description": "Un paso al frente, Matadiscípulos."
+    },
+    "progressDescription": "Incursión rotativa \"Juramento del Discípulo\" completada"
   },
   "406803827": {
-    "progressDescription": "Incursión rotativa \"La Caída del Rey\" completada"
+    "progressDescription": "Incursión rotativa \"Caída del Rey\" completada"
+  },
+  "600986371": {
+    "displayProperties": {
+      "description": "Conviértete en la pesadilla de tu pesadilla."
+    },
+    "progressDescription": "Incursión \"Origen de las Pesadillas\" completada"
   },
   "2039792527": {
+    "displayProperties": {
+      "description": "Entra al reino de los Nueve, sobrevive, y serás recompensado con conocimiento, y quizás más."
+    },
     "progressDescription": "Mazmorra rotativa \"Profecía\" completada"
   },
   "1283234589": {
@@ -97,6 +100,12 @@
   },
   "3039545165": {
     "progressDescription": "Mazmorra rotativa \"Dualidad\" completada"
+  },
+  "424208044": {
+    "displayProperties": {
+      "description": "Visita Marte, corrobora las visiones de Osiris e interviene en una posible catástrofe de origen Vex."
+    },
+    "progressDescription": "Mazmorra \"Espira de la vigía\" completada"
   },
   "2258905201": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Cuerdas] Cuerdas, [Solar] Solar, o [Vacío] Vacío"

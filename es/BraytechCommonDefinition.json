@@ -97,6 +97,13 @@
     },
     "itemTypeDisplayName": "Traductor de Braytech"
   },
+  "flair-charitable": {
+    "displayProperties": {
+      "name": "Benefactor",
+      "description": "_Un Guardián solidario._\nEste jugador hizo una donación a una gran causa a través de la Bungie Foundation."
+    },
+    "itemTypeDisplayName": "Especial"
+  },
   "ammo-type-primary": {
     "displayProperties": {
       "name": "Principal",
@@ -282,6 +289,24 @@
       "description": "Esta actividad se ha iniciado desde el principio y terminada de forma impecable, sin muertes.\n\nPara ser consideradas, las **incursiones** deben haber sido completadas después del lanzamiento de La Reina Bruja, las **mazmorras** y los **sectores perdidos** deben ser empezados y terminados por un solo jugador, y los **asaltos** son específicos de cada jugador."
     }
   },
+  "activity-solo": {
+    "displayProperties": {
+      "name": "Solo",
+      "description": "_En solitario. Este guardián está tan loco que no necesita una apestosa escuadra._"
+    }
+  },
+  "activity-duo": {
+    "displayProperties": {
+      "name": "Dúo",
+      "description": "_Cubriéndonos las espaldas._"
+    }
+  },
+  "activity-trio": {
+    "displayProperties": {
+      "name": "Trío",
+      "description": "_Es un triunvirato._"
+    }
+  },
   "activity-weapon-popular": {
     "displayProperties": {
       "name": "Golpes finales",
@@ -307,7 +332,14 @@
   },
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
-      "name": "Sectores perdidos"
+      "name": "Sectores perdidos",
+      "description": "No vuelvas a perderte un sector perdido en rotación o una recompensa."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Shaders de Ada-1",
+      "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
     }
   },
   "push-notification-event-weekly-vendor-xur": {

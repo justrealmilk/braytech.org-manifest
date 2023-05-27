@@ -38,7 +38,7 @@
   "collections": {
     "displayProperties": {
       "name": "Colecciones",
-      "description": "Objetos que tu Guardián ha adquirido a lo largo de su vida."
+      "description": "Objetos que tu Guardián ha adquirido a lo largo de su vida"
     },
     "keywords": [
       "excepcionales",
@@ -167,13 +167,13 @@
   "weeklies-this-week": {
     "displayProperties": {
       "name": "Esta semana",
-      "description": "Esta semana en Destiny"
+      "description": "Esta semana en Destiny."
     }
   },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "Desafíos",
-      "description": "Todos los desafíos de actividades"
+      "description": "Todos los desafíos de actividades."
     },
     "keywords": [
       "semanales",
@@ -228,7 +228,7 @@
   "character-postmaster": {
     "displayProperties": {
       "name": "Administración",
-      "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos"
+      "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos."
     },
     "keywords": [
       "administración"
@@ -243,7 +243,7 @@
   "character-vault": {
     "displayProperties": {
       "name": "Depósito",
-      "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes"
+      "description": "Almacenamiento seguro para objetos generales. Accesible para todos tus personajes."
     },
     "keywords": [
       "depósito"
@@ -252,7 +252,7 @@
   "character-vendors": {
     "displayProperties": {
       "name": "Comerciantes",
-      "description": "Espía a tus proveedores de tareas y socios comerciales favoritos"
+      "description": "Espía a tus proveedores de tareas y socios comerciales favoritos."
     },
     "keywords": [
       "comerciantes",
@@ -403,7 +403,7 @@
   "faq": {
     "displayProperties": {
       "name": "FAQ",
-      "description": "Las preguntas más frecuentes y fáciles de responder."
+      "description": "Las preguntas más frecuentes y fáciles de responder"
     },
     "keywords": [
       "faq",
@@ -413,8 +413,8 @@
   },
   "privacy": {
     "displayProperties": {
-      "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "name": "Privacidad",
+      "description": "Respetando los límites personales"
     }
   },
   "credits": {

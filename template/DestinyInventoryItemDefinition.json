@@ -20,6 +20,27 @@
     },
     "itemTypeDisplayName": "Engram"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "An engram with remarkable encoding markers. A Cryptarch would be thrilled to decode this to reveal its true nature."
+    },
+    "itemTypeDisplayName": "Engram"
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthcord material which can be converted to Synthweave using the Loom."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Increases your clan's experience"
@@ -28,19 +49,9 @@
       "tierTypeName": "Common"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
-    }
-  },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Synthcord material which can be converted to Synthweave using the Loom."
     }
   },
   "1711513650": {
@@ -48,38 +59,63 @@
       "description": "Increases your Guardian's experience enormously."
     }
   },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Increases your Guardian's Valor rank. Also, it may cause Lord Shaxx to become excited."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
     }
   },
+  "951399115": {
+    "displayProperties": {
+      "name": "Increased \"One Thousand Voices\" drop rate",
+      "description": "Increases the initial drop rate of the \"One Thousand Voices\" exotic fusion rifle from the \"Last Wish\" raid."
+    }
+  },
+  "700251940": {
+    "displayProperties": {
+      "name": "Increased \"Eyes of Tomorrow\" drop rate",
+      "description": "Increases the initial drop rate of the \"Eyes of Tomorrow\" exotic rocket launcher from the \"Deep Stone Crypt\" raid."
+    }
+  },
+  "901060145": {
+    "displayProperties": {
+      "name": "Increased \"Vex Mythoclast\" drop rate",
+      "description": "Increases the initial drop rate of the \"Vex Mythoclast\" exotic fusion rifle from the \"Vault of Glass\" raid."
+    }
+  },
+  "1541696845": {
+    "displayProperties": {
+      "name": "Increased \"Collective Obligation\" drop rate",
+      "description": "Increases the initial drop rate of the \"Collective Obligation\" exotic pulse rifle from the \"Vow of the Disciple\" raid."
+    }
+  },
+  "2902936983": {
+    "displayProperties": {
+      "name": "Increased \"Touch of Malice\" drop rate",
+      "description": "Increases the initial drop rate of the \"Touch of Malice\" exotic scout rifle from the \"King's Fall\" raid."
+    }
+  },
   "1950177353": {
     "displayProperties": {
       "name": "Increased \"Heartshadow\" drop rate",
-      "description": "Increases the drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
+      "description": "Increases the initial drop rate of the \"Heartshadow\" exotic sword from the \"Duality\" dungeon."
     }
   },
   "3224646387": {
     "displayProperties": {
       "name": "Increased \"Hierarchy of Needs\" drop rate",
-      "description": "Increases the drop rate of the \"Hierarchy of Needs\" exotic bow from the \"Spire of the Watcher\" dungeon."
+      "description": "Increases the initial drop rate of the \"Hierarchy of Needs\" exotic bow from the \"Spire of the Watcher\" dungeon."
     }
   },
   "2467253899": {
     "displayProperties": {
       "name": "Increased \"Conditional Finality\" drop rate",
-      "description": "Increases the drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
+      "description": "Greatly increases the initial drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
     }
   },
   "734180536": {
     "displayProperties": {
       "name": "Increased \"Conditional Finality\" drop rate",
-      "description": "Increases the drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
+      "description": "Increases the initial drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
     }
   },
   "2174060729": {
@@ -92,14 +128,14 @@
       "description": "Increases your Guardian's experience greatly."
     }
   },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust intrinsic plugs.\n\nPrimarily obtained by dismantling Legendary weapons, but can also be rewarded for completing activities."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
     }
   },
   "3491404510": {
@@ -108,9 +144,9 @@
     },
     "itemTypeDisplayName": "Material"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
+      "description": "Material used in weapon shaping, required to adjust intrinsic plugs.\n\nPrimarily obtained by dismantling Legendary weapons, but can also be rewarded for completing activities."
     }
   },
   "23239861010": {
