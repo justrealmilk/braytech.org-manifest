@@ -3,7 +3,7 @@
     "progressDescription": "同じサブクラスでバンガードストライクを完了する"
   },
   "1612424695": {
-    "progressDescription": "ナイトフォールの累計スコアで達成させる"
+    "progressDescription": "ナイトフォールの累計スコアで到達する"
   },
   "3118376466": {
     "progressDescription": "いずれかのクルーシブルのプレイリストで対戦を完了する"
@@ -15,19 +15,10 @@
     "progressDescription": "\"クルーシブル\"プレイリストを完了する"
   },
   "2794225827": {
-    "progressDescription": "オシリスの試練でラウンド勝利する"
+    "progressDescription": "オシリスの試練にて勝利する"
   },
   "1734176373": {
     "progressDescription": "ギャンビットの対戦を完了する"
-  },
-  "3243082817": {
-    "progressDescription": "迷宮 \"強欲の支配\" をクリアする"
-  },
-  "4073017996": {
-    "progressDescription": "迷宮 \"デュアリティ\" をクリアする"
-  },
-  "424208044": {
-    "progressDescription": "迷宮 \"監視者のスパイア\" をクリアする"
   },
   "1948254616": {
     "progressDescription": "永遠の挑戦をクリアする"
@@ -63,7 +54,7 @@
     "progressDescription": "シャックス卿に話しかける"
   },
   "3564470639": {
-    "progressDescription": "週間ストーリーミッションを100,000点以上で完了する"
+    "progressDescription": "週間ストーリーミッションを高得点で完了する"
   },
   "897950155": {
     "progressDescription": "レイド\"最後の望み\" 周回完了"
@@ -78,12 +69,24 @@
     "progressDescription": "レイド\"ガラスの間\" 周回完了"
   },
   "1863972407": {
+    "displayProperties": {
+      "description": "進め、門弟の覇者よ"
+    },
     "progressDescription": "レイド\"門弟の誓い\" 周回完了"
   },
   "406803827": {
     "progressDescription": "レイド\"邪神、滅びる\" 周回完了"
   },
+  "600986371": {
+    "displayProperties": {
+      "description": "ナイトメアの悪夢となれ"
+    },
+    "progressDescription": "レイド\"ナイトメアの根源\"周回完了"
+  },
   "2039792527": {
+    "displayProperties": {
+      "description": "ナインの領域で生き残り、報酬と共にナインの意図とそのメッセージを受け取れ。"
+    },
     "progressDescription": "迷宮\"予言\" 周回完了"
   },
   "1283234589": {
@@ -98,17 +101,41 @@
   "3039545165": {
     "progressDescription": "迷宮\"デュアリティ\" 周回完了"
   },
+  "3211393925": {
+    "displayProperties": {
+      "description": "火星に向かえ。目撃者がソル・ディバイシブを利用してラスプーチンと接触するというオシリスの懸念を排除しろ。"
+    },
+    "progressDescription": "迷宮\"監視者のスパイア\" 周回完了"
+  },
+  "1064977327": {
+    "displayProperties": {
+      "description": "スロアン副司令官は、ルーセントハイヴの指揮艦が惑星タイタンの大気圏に突入するのを目撃した。到着後まもなく船はメタンの海に潜り、新太平洋環境都市の地下で異常なエネルギー測定値が急上昇した。すぐにスロアンはガーディアンに調査を要請した。"
+    },
+    "progressDescription": "迷宮\"深淵の亡霊\" 周回完了"
+  },
   "2258905201": {
-    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
   },
   "2050629406": {
-    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
   },
   "3376767511": {
-    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
   },
   "1878970132": {
-    "progressDescription": "アイアンバナーで[Stasis] ステイシスまたは [Void] ボイドでプレイする"
+    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
+  },
+  "275339596": {
+    "progressDescription": "クラウドのバウンティを完了させる"
+  },
+  "3044187661": {
+    "progressDescription": "ニンバスの話しかける"
+  },
+  "2656858183": {
+    "progressDescription": "\"ターミナルオーバーロード\" の戦闘員を倒す"
+  },
+  "2177999971": {
+    "progressDescription": "クイン・ラガーリに話しかける"
   },
   "1166527222": {
     "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
@@ -123,21 +150,15 @@
     "progressDescription": "難易度「伝説」で \"反抗の戦場\"を完了する"
   },
   "672380795": {
-    "progressDescription": "H.E.L.M.のウォーテーブルのバウンティを規定数完了させる"
+    "progressDescription": "H.E.L.M.のウォーテーブルのバウンティを完了させる"
   },
   "2821863512": {
     "progressDescription": "H.E.L.M.のウォーテーブルに戻る"
   },
-  "275339596": {
-    "progressDescription": "クラウドストライダーのバウンティを規定数完了させる"
+  "1685423788": {
+    "progressDescription": "アクティビティ\"サルベージ\" を完了させる"
   },
-  "3044187661": {
-    "progressDescription": "ニンバスに話しかける"
-  },
-  "2656858183": {
-    "progressDescription": "\"ターミナルオーバーロード\" の戦闘員を倒す"
-  },
-  "2177999971": {
-    "progressDescription": "クイン・ラガーリに話しかける"
+  "2752231210": {
+    "progressDescription": "アクティビティ\"ディープダイブ\"を完了させる"
   }
 }
