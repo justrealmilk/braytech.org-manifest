@@ -118,6 +118,12 @@
       "description": "Increases the initial drop rate of the \"Conditional Finality\" exotic shotgun from the \"Root of Nightmares\" raid."
     }
   },
+  "2126433420": {
+    "displayProperties": {
+      "name": "Increased \"The Navigator\" drop rate",
+      "description": "Increases the initial drop rate of the \"The Navigator\" exotic trace rifle from the \"Ghosts of the Deep\" dungeon."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
