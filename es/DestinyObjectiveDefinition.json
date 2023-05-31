@@ -107,6 +107,12 @@
     },
     "progressDescription": "Mazmorra \"Espira de la vigía\" completada"
   },
+  "1064977327": {
+    "displayProperties": {
+      "description": "La subcomandante Sloane vio una nave de mando de la Colmena Lúcida entrando en la atmósfera de Titán. Poco después de su llegada, la nave se sumergió en el mar de metano de la luna y las lecturas de energía anómalas se dispararon en la Nueva Arcología del Pacífico. La subcomandante te ha pedido que lo investigues."
+    },
+    "progressDescription": "Mazmorra \"Espectros de las Profundidades\" completada"
+  },
   "2258905201": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Atadura] Atadura, [Solar] Solar, o [Vacío] Vacío"
   },
@@ -118,6 +124,18 @@
   },
   "1878970132": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Atadura] Atadura, [Solar] Solar, o [Vacío] Vacío"
+  },
+  "275339596": {
+    "progressDescription": "Contratos de los surcanubes completados"
+  },
+  "3044187661": {
+    "progressDescription": "Habla con Nimbus"
+  },
+  "2656858183": {
+    "progressDescription": "Combatientes de \"Sobrecarga del terminal\" derrotados"
+  },
+  "2177999971": {
+    "progressDescription": "Habla con Quinn Laghari"
   },
   "1166527222": {
     "progressDescription": "Actividades de \"Campos de Batalla de la Resistencia\""
@@ -137,17 +155,11 @@
   "2821863512": {
     "progressDescription": "Regresa a la mesa de guerra del C.L.M.E."
   },
-  "275339596": {
-    "progressDescription": "Contratos de los surcanubes completados"
+  "1685423788": {
+    "progressDescription": "Actividades \"Recuperación\" completadas"
   },
-  "3044187661": {
-    "progressDescription": "Habla con Nimbus"
-  },
-  "2656858183": {
-    "progressDescription": "Combatientes de \"Sobrecarga del terminal\" derrotados"
-  },
-  "2177999971": {
-    "progressDescription": "Habla con Quinn Laghari"
+  "2752231210": {
+    "progressDescription": "Actividades \"Inmersión\" completedas"
   },
   "625886847": {
     "progressDescription": "Golpes finales con  o [Guja]"
