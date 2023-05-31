@@ -8,7 +8,7 @@
   },
   "1": {
     "displayProperties": {
-      "name": "Descnocido",
+      "name": "Desconocido",
       "description": "El objeto que buscas no existe."
     },
     "itemTypeDisplayName": "Objeto perdido",
@@ -20,6 +20,27 @@
     },
     "itemTypeDisplayName": "Engrama"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "Un engrama con marcadores de codificación extraordinarios. Un criptarca estaría encantado de descifrarlo para revelar su verdadera naturaleza."
+    },
+    "itemTypeDisplayName": "Engrama"
+  },
+  "372496383": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Infamia de tu Guardián. No se lo cuentes a la Vanguardia."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Cordel sintético suave que puede convertirse en Tejido sintético usando el Telar."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Aumenta la experiencia de tu clan"
@@ -28,19 +49,9 @@
       "tierTypeName": "Común"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "Aumenta el rango de Infamia de tu Guardián. No se lo cuentes a la Vanguardia."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Aumenta considerablemente la experiencia de tu Guardián."
-    }
-  },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Cordel sintético suave que puede convertirse en Tejido sintético usando el Telar."
     }
   },
   "1711513650": {
@@ -48,14 +59,39 @@
       "description": "Aumenta enormemente la experiencia de tu Guardián."
     }
   },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Aumenta el rango de Valor de tu Guardián. Incluso puede causar que Lord Shaxx se entusiasme."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Aumenta la experiencia de tu Guardián."
+    }
+  },
+  "951399115": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de \"Mil Voces\"",
+      "description": "Aumenta la frecuencia de aparición inicial del fusil de fusión excepcional \"Mil voces\" de la incursión \"Último deseo\"."
+    }
+  },
+  "700251940": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de  \"Ojos del mañana\"",
+      "description": "Aumenta la frecuencia de aparición inicial del lanzacohetes excepcional \"Ojos del mañana\" de la incursión \"Cripta de la Piedra Profunda\"."
+    }
+  },
+  "901060145": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de \"Mitoclasta Vex\"",
+      "description": "Aumenta la frecuencia de aparición inicial del fusil de fusión excepcional \"Mitoclasta Vex\" de la incursión \"Cámara de Cristal\"."
+    }
+  },
+  "1541696845": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de \"Obligación colectiva\"",
+      "description": "Aumenta la frecuencia de aparición inicial del fusil de pulsos excepcional \"Obligación colectiva\" de la incursión \"Juramento del Discípulo\"."
+    }
+  },
+  "2902936983": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de \"Toque de maldad\"",
+      "description": "Aumenta la frecuencia de aparición inicial del fusil de explorador excepcional \"Toque de maldad\" de la incursión \"Caída del Rey\"."
     }
   },
   "1950177353": {
@@ -79,7 +115,13 @@
   "734180536": {
     "displayProperties": {
       "name": "Aumenta la frecuencia de aparición de \"Finalidad condicional\"",
-      "description": "Aumenta la frecuencia de aparición de la escopeta excepcional \"Finalidad condicional\" en la incursión \"Raíz de las Pesadillas\""
+      "description": "Aumenta la frecuencia de aparición de la escopeta excepcional \"Finalidad condicional\" en la incursión \"Raíz de las Pesadillas\"."
+    }
+  },
+  "2126433420": {
+    "displayProperties": {
+      "name": "Aumenta la frecuencia de aparición de \"El navegante\"",
+      "description": "Aumenta la frecuencia de aparición del fusil de rastreo excepcional \"El navegante\" en la mazmorra \"Espectros de las Profundidades\"."
     }
   },
   "2174060729": {
