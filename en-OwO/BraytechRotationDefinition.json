@@ -7,7 +7,34 @@
   "2": {
     "displayProperties": {
       "name": "Ascendant Chawwenge"
-    }
+    },
+    "rotation": [
+      {
+        "displayProperties": {
+          "name": "Ouwobowea"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "Fowfeit Shwine"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "Shattewed Wuins"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "Agonawch Abyss"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "Cimmewian Gawwison"
+        }
+      }
+    ]
   },
   "3": {
     "displayProperties": {

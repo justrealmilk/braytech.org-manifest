@@ -22,10 +22,12 @@ import DestinyPhaseDefinition from '@Data/manifest/en-OwO/DestinyPhaseDefinition
 import DestinyPresentationNodeDefinition from '@Data/manifest/en-OwO/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/en-OwO/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/en-OwO/DestinySeasonDefinition.json';
+import DestinySocketCategoryDefinition from '@Data/manifest/en-OwO/DestinySocketCategoryDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/en-OwO/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/en-OwO/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en-OwO/DestinyTraitDefinition.json';
 
+import DestinyCollectibleDefinitionColloquial from '@Data/manifest/en-OwO/DestinyCollectibleDefinitionColloquial.json';
 import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/en-OwO/DestinyInventoryItemDefinitionColloquial.json';
 
 const enOwO = {
@@ -54,12 +56,14 @@ const enOwO = {
     DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
+    DestinySocketCategoryDefinition,
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
   },
   optional: {
     colloquialDefinitions: {
+      DestinyCollectibleDefinition: DestinyCollectibleDefinitionColloquial,
       DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
     },
   },
