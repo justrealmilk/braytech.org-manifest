@@ -422,5 +422,10 @@
       "name": "Credits",
       "description": "About the Guardians who make it possible"
     }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "Leaderboards"
+    }
   }
 }
