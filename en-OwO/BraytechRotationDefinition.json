@@ -10,26 +10,40 @@
     },
     "rotation": [
       {
+        "nodeHash": 5,
         "displayProperties": {
           "name": "Ouwobowea"
         }
       },
       {
+        "nodeHash": 7,
         "displayProperties": {
           "name": "Fowfeit Shwine"
         }
       },
       {
+        "nodeHash": 9,
         "displayProperties": {
           "name": "Shattewed Wuins"
         }
       },
       {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "Keep of Honed Edges",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
         "displayProperties": {
           "name": "Agonawch Abyss"
         }
       },
       {
+        "nodeHash": 15,
         "displayProperties": {
           "name": "Cimmewian Gawwison"
         }
