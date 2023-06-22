@@ -425,7 +425,8 @@
   },
   "leaderboards": {
     "displayProperties": {
-      "name": "Leaderboards"
+      "name": "Leaderboards",
+      "description": "Player ranks for dedicated Guardians"
     }
   }
 }
