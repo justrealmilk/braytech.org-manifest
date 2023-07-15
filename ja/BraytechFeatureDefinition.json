@@ -422,5 +422,11 @@
       "name": "クレジット",
       "description": "不可能を実現させてきたガーディアンたちについて"
     }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "リーダーボード",
+      "description": "熱心なガーディアンのためのプレイヤーランキング"
+    }
   }
 }
