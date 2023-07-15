@@ -541,5 +541,13 @@
       "description": "About the Guardians who make it possible"
     },
     "to": "/addendums"
+  },
+  "leaderboards": {
+    "hash": "leaderboards",
+    "displayProperties": {
+      "name": "Leaderboards",
+      "description": "Player ranks for dedicated Guardians"
+    },
+    "to": "/leaderboards"
   }
 }

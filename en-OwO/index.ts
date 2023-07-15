@@ -26,6 +26,7 @@ import DestinySourceDefinition from '@Data/manifest/en-OwO/DestinySourceDefiniti
 import DestinyStatDefinition from '@Data/manifest/en-OwO/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en-OwO/DestinyTraitDefinition.json';
 
+import DestinyCollectibleDefinitionColloquial from '@Data/manifest/en-OwO/DestinyCollectibleDefinitionColloquial.json';
 import DestinyInventoryItemDefinitionColloquial from '@Data/manifest/en-OwO/DestinyInventoryItemDefinitionColloquial.json';
 
 const enOwO = {
@@ -60,6 +61,7 @@ const enOwO = {
   },
   optional: {
     colloquialDefinitions: {
+      DestinyCollectibleDefinition: DestinyCollectibleDefinitionColloquial,
       DestinyInventoryItemDefinition: DestinyInventoryItemDefinitionColloquial,
     },
   },
