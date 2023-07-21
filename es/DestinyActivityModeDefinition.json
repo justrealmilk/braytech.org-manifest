@@ -123,5 +123,10 @@
     "displayProperties": {
       "description": "Compite en una versión de Eliminación que requiere jugar con escuadra. Obtén todas las victorias que puedas en un pase. Tres derrotas y quedas eliminado."
     }
+  },
+  "2546784302": {
+    "displayProperties": {
+      "description": "Alcanza la victoria derrotando a tus oponentes y evita sus reanimaciones. Revive a un compañero de equipo derrotado para recuperar el punto obtenido por tus oponentes. Gana el mayor número de rondas o enfréntate en un duelo eliminatorio."
+    }
   }
 }

@@ -344,12 +344,14 @@
   },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
-      "name": "Xûr"
+      "name": "Xûr",
+      "description": "Vendedor ambulante de extrañas curiosidades; los motivos de Xûr no son los suyos. Obedece a sus lejanos amos, los Nueve."
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
-      "name": "Modo del Crisol destacado"
+      "name": "Crisol",
+      "description": "Recibe notificaciones sobre los modos que Lord Shaxx ha dispuesto en el Crisol.\n\nLucha por la fama y la gloria, pero de formas curiosamente específicas cada semana."
     }
   }
 }
