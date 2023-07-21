@@ -422,5 +422,11 @@
       "name": "Créditos",
       "description": "Sobre los Guardianes que lo hacen posible"
     }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "Marcadores",
+      "description": "Rangos de jugadores para Guardianes dedicados"
+    }
   }
 }
