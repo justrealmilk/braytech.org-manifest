@@ -357,7 +357,7 @@
   "push-notification-event-weekly-overview": {
     "displayProperties": {
       "name": "Overview",
-      "description": "Receive a dense information burst every reset empcompassing ritual activities and other points of interest."
+      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
     }
   },
   "push-notification-event-weekly-crucible": {
