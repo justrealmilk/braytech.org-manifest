@@ -333,7 +333,19 @@
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
       "name": "Lost Sectors",
-      "description": "Never miss a rotating lost sector or reward again."
+      "description": "Never miss a rotating lost sector or reward again. These sectors aren't so lost anymore, are they..."
+    }
+  },
+  "push-notification-event-daily-weather-forecast": {
+    "displayProperties": {
+      "name": "Weather Forecast",
+      "description": "Predictive and real time insights for prudent Guardians. Data-driven forecasts, risk indicators, and personalized recommendations for confident decision-making. Never leave the comfort of your jumpship again without being perfectly prepared!"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Xûr",
+      "description": "A peddler of strange curios, Xûr's motives are not his own. He bows to his distant masters, the Nine."
     }
   },
   "push-notification-event-weekly-vendor-ada1-shaders": {
@@ -342,10 +354,10 @@
       "description": "How drippy you look is only limited by your choice in shaders. Keep in contact with Ada in case you're missing the goods."
     }
   },
-  "push-notification-event-weekly-vendor-xur": {
+  "push-notification-event-weekly-overview": {
     "displayProperties": {
-      "name": "Xûr",
-      "description": "A peddler of strange curios, Xûr's motives are not his own. He bows to his distant masters, the Nine."
+      "name": "Overview",
+      "description": "Receive a dense information burst every reset empcompassing ritual activities and other points of interest."
     }
   },
   "push-notification-event-weekly-crucible": {
