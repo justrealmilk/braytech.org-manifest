@@ -12,27 +12,32 @@
       {
         "displayProperties": {
           "name": "Ouwobowea"
-        }
+        },
+        "nodeHash": 5
       },
       {
         "displayProperties": {
           "name": "Fowfeit Shwine"
-        }
+        },
+        "nodeHash": 7
       },
       {
         "displayProperties": {
           "name": "Shattewed Wuins"
-        }
+        },
+        "nodeHash": 9
       },
       {
         "displayProperties": {
           "name": "Agonawch Abyss"
-        }
+        },
+        "nodeHash": 13
       },
       {
         "displayProperties": {
           "name": "Cimmewian Gawwison"
-        }
+        },
+        "nodeHash": 15
       }
     ]
   },
