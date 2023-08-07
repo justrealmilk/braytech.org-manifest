@@ -847,6 +847,119 @@
     },
     "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
   },
+  "1747045785": {
+    "hash": 1747045785,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 1747045785
+  },
+  "2868856804": {
+    "hash": 2868856804,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 2868856804
+  },
+  "396959363": {
+    "hash": 396959363,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 396959363
+  },
+  "300": {
+    "hash": 300,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
+  },
+  "301": {
+    "hash": 301,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 473462131
+  },
+  "302": {
+    "hash": 302,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3773756244
+  },
+  "303": {
+    "hash": 303,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 473462131
+  },
+  "304": {
+    "hash": 304,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3773756244
+  },
+  "305": {
+    "hash": 305,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
+  },
+  "306": {
+    "hash": 306,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 201280774
+  },
+  "307": {
+    "hash": 307,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 2948928434
+  },
+  "308": {
+    "hash": 308,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 54269080
+  },
+  "309": {
+    "hash": 309,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 3333680772
+  },
   "491": {
     "hash": 491,
     "displayProperties": {
@@ -7036,7 +7149,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Zydron, Gate Lord",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-vex"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
@@ -7046,7 +7160,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Phogoth, the Untamed",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
@@ -7056,7 +7171,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Taniks, the Scarred",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-fallen"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
