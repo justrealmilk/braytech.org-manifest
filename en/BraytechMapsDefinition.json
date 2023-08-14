@@ -114,7 +114,7 @@
   "1729879943": {
     "hash": 1729879943,
     "displayProperties": {
-      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris."
+      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
     },
     "related": {
       "events": [
@@ -148,7 +148,7 @@
   "2481646875": {
     "hash": 2481646875,
     "displayProperties": {
-      "description": "A hidden tech-metropolis, untouched by the Collapse."
+      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
     },
     "related": {
       "events": [
@@ -7543,7 +7543,7 @@
     "nodeType": 5,
     "displayProperties": {
       "name": "Taken Blight",
-      "description": "Increased Taken activity in the area; dispose of them, and the blights that provide them succor.\n\nStep into the perimeter of a blight and be granted a buff enabling you to damage the primary blight with conventional weaponry. Destroy the primary blight before the secondary blights to trigger heroic.",
+      "description": "Increased Taken activity in the area; dispose of them, and the blights that provide them succor.\n\nStep into the perimeter of a blight and be granted the **Blight Receding** buff which will enable you to damage the primary blight with conventional weaponry. Destroy the primary blight, drawing out the Blightmaker, to trigger heroic.",
       "icon": "public-event"
     }
   },  
