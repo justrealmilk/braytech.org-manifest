@@ -1497,6 +1497,12 @@
       "description": "This beacon can relay various objectives."
     }
   },
+  "2000000270": {
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives."
+    }
+  },
   "2000000271": {
     "displayProperties": {
       "name": "Random",
