@@ -7767,6 +7767,15 @@
       "icon": "patrol-random"
     }
   },
+  "2000000293": {
+    "hash": 2000000293,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
   "3000000001": {
     "hash": 3000000001,
     "nodeType": 5,
