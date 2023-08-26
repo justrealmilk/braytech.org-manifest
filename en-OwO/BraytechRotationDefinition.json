@@ -10,40 +10,34 @@
     },
     "rotation": [
       {
-        "nodeHash": 5,
         "displayProperties": {
           "name": "Ouwobowea"
-        }
+        },
+        "nodeHash": 5
       },
       {
-        "nodeHash": 7,
         "displayProperties": {
           "name": "Fowfeit Shwine"
-        }
+        },
+        "nodeHash": 7
       },
       {
-        "nodeHash": 9,
         "displayProperties": {
           "name": "Shattewed Wuins"
-        }
+        },
+        "nodeHash": 9
       },
       {
-        "nodeHash": 11,
-        "displayProperties": {
-          "name": "Keep of Honed Edges"
-        }
-      },
-      {
-        "nodeHash": 13,
         "displayProperties": {
           "name": "Agonawch Abyss"
-        }
+        },
+        "nodeHash": 13
       },
       {
-        "nodeHash": 15,
         "displayProperties": {
           "name": "Cimmewian Gawwison"
-        }
+        },
+        "nodeHash": 15
       }
     ]
   },

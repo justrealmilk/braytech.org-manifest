@@ -161,6 +161,15 @@
       "alpha": 255
     }
   },
+  "920784162": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 84,
+      "green": 101,
+      "blue": 84,
+      "alpha": 255
+    }
+  },
   "959742940": {
     "backgroundColor": {
       "colorHash": 0,
@@ -572,6 +581,15 @@
       "red": 23,
       "green": 23,
       "blue": 23,
+      "alpha": 255
+    }
+  },
+  "2974529007": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 17,
+      "green": 26,
+      "blue": 19,
       "alpha": 255
     }
   },

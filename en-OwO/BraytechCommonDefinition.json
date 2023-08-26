@@ -265,14 +265,26 @@
   },
   "push-notification-event-daily-lost-sector": {
     "displayProperties": {
-      "description": "Nevew miss a wotating wost sectow ow wewawd again.",
+      "description": "Nevew miss a wotating wost sectow ow wewawd again. These sectows awen't so wost anymowe, awe they...",
       "name": "Wost *sweats* Sectows"
+    }
+  },
+  "push-notification-event-daily-weather-forecast": {
+    "displayProperties": {
+      "description": "Pwedictive and weaw time insights fow pwudent Guawdians. Data-dwiven fowecasts, wisk indicatows, and pewsonawized wecommendations fow confident decision-making. Nevew weave da comfowt of uuw jumpship again without being pewfectwy pwepawed! OwO",
+      "name": "Weathew Fowecast"
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "description": "Be notified of which *boops uuw nose* modes Wowd *boops uuw nose* Shaxx haz configuwed da Cwucibwe fow.\n\nFight fow fame and gwowy, but in oddwy specific ways and at a weekwy cadence.",
       "name": "Cwucibwe"
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "description": "Weceive a dense infowmation buwst evewy weset (・`ω´・) summawising wituaw activities, cycwicaw chawwenges, and othew points of intewest.",
+      "name": "Ovewview"
     }
   },
   "push-notification-event-weekly-vendor-ada1-shaders": {

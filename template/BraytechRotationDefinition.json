@@ -1,27 +1,32 @@
 {
   "1": {
     "displayProperties": {
-      "name": "Savathûn's Curse"
+      "name": "Savathûn's Curse",
+      "description": "Implemented at the wish of Savathûn with Riven's dying breath and reset with every death of Dûl Incaru."
     }
   },
   "2": {
     "displayProperties": {
-      "name": "Ascendant Challenge"
+      "name": "Ascendant Challenge",
+      "description": "The Awoken have long practiced the art of walking between worlds. Follow their paths and defeat the enemy."
     }
   },
   "3": {
     "displayProperties": {
-      "name": "Altars of Sorrow"
+      "name": "Altars of Sorrow",
+      "description": "The Hive call out to the darkness. Silence their screams and prevent their sacrifice."
     }
   },
   "4": {
     "displayProperties": {
-      "name": "Wandering Nightmares"
+      "name": "Wandering Nightmares",
+      "description": "Enemies of times past continue to haunt Luna. Extinguish their remnants."
     }
   },
   "5": {
     "displayProperties": {
-      "name": "Eclipsed Zone"
+      "name": "Eclipsed Zone",
+      "description": "Guardian actions on Clovis Bray's space platform have resulted in falling debris throughout Rathmore Chaos."
     }
   },
   "6": {
@@ -31,17 +36,20 @@
   },
   "7": {
     "displayProperties": {
-      "name": "Lucent Executioners"
+      "name": "Lucent Executioners",
+      "description": "Light-bearing Hive roam the world expressing their Light-given abilities on enemies of the Witch Queen. Track down these bounty hunters and remove the complication which they create."
     }
   },
   "8": {
     "displayProperties": {
-      "name": "Vex Incursion Zone"
+      "name": "Vex Incursion Zone",
+      "description": "The Vex are targeting their efforts. Block their access attempts."
     }
   },
   "9": {
     "displayProperties": {
-      "name": "Terminal Overload"
+      "name": "Terminal Overload",
+      "description": "The Shadow Legion and the Vex are conducting an all-out assault on the city. Put an end to their destruction on Neptune."
     }
   }
 }

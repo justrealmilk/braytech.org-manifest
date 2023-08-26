@@ -1,8 +1,10 @@
 {
   "1": {
+    "hash": 1,
     "displayProperties": {
       "name": "Savathûn's Curse",
-      "description": ""
+      "description": "Implemented at the wish of Savathûn with Riven's dying breath and reset with every death of Dûl Incaru.",
+      "icon": "savathuns-curse-cycle"
     },
     "startDate": "2018-09-11T17:00:00Z",
     "cadence": 7,
@@ -10,7 +12,7 @@
       {
         "nodeHash": 275,
         "displayProperties": {
-          "name": "Stage I",
+          "name": "Stage I: Weak",
           "description": ""
         },
         "collectibles": [],
@@ -19,7 +21,7 @@
       {
         "nodeHash": 276,
         "displayProperties": {
-          "name": "Stage II",
+          "name": "Stage II: Severe",
           "description": ""
         },
         "collectibles": [],
@@ -28,7 +30,7 @@
       {
         "nodeHash": 277,
         "displayProperties": {
-          "name": "Stage III",
+          "name": "Stage III: Overwhelming",
           "description": ""
         },
         "collectibles": [],
@@ -37,9 +39,11 @@
     ]
   },
   "2": {
+    "hash": 2,
     "displayProperties": {
       "name": "Ascendant Challenge",
-      "description": ""
+      "description": "The Awoken have long practiced the art of walking between worlds. Follow their paths and defeat the enemy.",
+      "icon": "ascendant-challenge"
     },
     "startDate": "2018-09-04T17:00:00Z",
     "cadence": 7,
@@ -101,9 +105,10 @@
     ]
   },
   "3": {
+    "hash": 3,
     "displayProperties": {
       "name": "Altars of Sorrow",
-      "description": ""
+      "description": "The Hive call out to the darkness. Silence their screams and prevent their sacrifice."
     },
     "startDate": "2018-09-11T17:00:00Z",
     "cadence": 1,
@@ -138,9 +143,10 @@
     ]
   },
   "4": {
+    "hash": 4,
     "displayProperties": {
       "name": "Wandering Nightmares",
-      "description": ""
+      "description": "Enemies of times past continue to haunt Luna. Extinguish their remnants."
     },
     "startDate": "2019-10-01T17:00:00Z",
     "cadence": 7,
@@ -184,9 +190,11 @@
     ]
   },
   "5": {
+    "hash": 5,
     "displayProperties": {
       "name": "Eclipsed Zone",
-      "description": ""
+      "description": "Guardian actions on Clovis Bray's space platform have resulted in falling debris throughout Rathmore Chaos.",
+      "icon": "eclipse-zone"
     },
     "startDate": "2021-06-22T17:00:00Z",
     "cadence": 7,
@@ -221,15 +229,17 @@
     ]
   },
   "6": {
+    "hash": 6,
     "displayProperties": {
       "name": "The Wellspring",
-      "description": ""
+      "description": "",
+      "icon": "wellspring"
     },
     "startDate": "2022-02-22T17:00:00Z",
     "cadence": 1,
     "rotation": [
       {
-        "nodeHash": 201280774,
+        "nodeHash": 306,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -238,7 +248,7 @@
         "records": []
       },
       {
-        "nodeHash": 2948928434,
+        "nodeHash": 307,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -247,7 +257,7 @@
         "records": []
       },
       {
-        "nodeHash": 54269080,
+        "nodeHash": 308,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -256,7 +266,7 @@
         "records": []
       },
       {
-        "nodeHash": 3333680772,
+        "nodeHash": 309,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -267,9 +277,10 @@
     ]
   },
   "7": {
+    "hash": 7,
     "displayProperties": {
       "name": "Lucent Executioners",
-      "description": ""
+      "description": "Light-bearing Hive roam the world expressing their Light-given abilities on enemies of the Witch Queen. Track down these bounty hunters and remove the complication which they create."
     },
     "startDate": "2022-06-08T17:00:00Z",
     "cadence": 1,
@@ -304,15 +315,17 @@
     ]
   },
   "8": {
+    "hash": 8,
     "displayProperties": {
       "name": "Vex Incursion Zone",
-      "description": ""
+      "description": "The Vex are targeting their efforts. Block their access attempts.",
+      "icon": "vex-incursion-zone"
     },
     "startDate": "2023-02-28T17:00:00Z",
     "cadence": 7,
     "rotation": [
       {
-        "nodeHash": 4158493479,
+        "nodeHash": 300,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -321,7 +334,7 @@
         "records": []
       },
       {
-        "nodeHash": 473462131,
+        "nodeHash": 301,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -330,7 +343,7 @@
         "records": []
       },
       {
-        "nodeHash": 3773756244,
+        "nodeHash": 302,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -341,15 +354,17 @@
     ]
   },
   "9": {
+    "hash": 9,
     "displayProperties": {
       "name": "Terminal Overload",
-      "description": ""
+      "description": "The Shadow Legion and the Vex are conducting an all-out assault on the city. Put an end to their destruction on Neptune.",
+      "icon": "terminal-overload"
     },
     "startDate": "2023-02-28T17:00:00Z",
     "cadence": 1,
     "rotation": [
       {
-        "nodeHash": 473462131,
+        "nodeHash": 303,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -358,7 +373,7 @@
         "records": []
       },
       {
-        "nodeHash": 3773756244,
+        "nodeHash": 304,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -367,7 +382,7 @@
         "records": []
       },
       {
-        "nodeHash": 4158493479,
+        "nodeHash": 305,
         "displayProperties": {
           "name": "",
           "description": ""

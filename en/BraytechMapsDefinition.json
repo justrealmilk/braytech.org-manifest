@@ -1,4 +1,286 @@
 {
+  "697502628": {
+    "hash": 697502628,
+    "displayProperties": {
+      "description": "Ground-zero for a cataclysmic event that left a massive shard of The Traveler—the source of every Guardian's power and immortality—embedded in the vast landscape. For years, only wild vegetation and the remains of an abandoned city were evidence of our forgotten past."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000001,
+          "bubbleHash": 3091570009
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 3854937584
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3340296448
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 2212414297
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 2212414297
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 3861059923
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 3861059923
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 4200309587
+        },
+        {
+          "hash": 3000000008,
+          "bubbleHash": 4200309587
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 1094980045
+        }
+      ]
+    }
+  },
+  "3990611421": {
+    "hash": 3990611421,
+    "displayProperties": {
+      "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000001,
+          "bubbleHash": 1788937179
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 1788937158
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 1432145396
+        },
+        {
+          "hash": 3000000004,
+          "bubbleHash": 3922935516
+        }
+      ]
+    }
+  },
+  "1737926756": {
+    "hash": 1737926756,
+    "displayProperties": {
+      "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
+    }
+  },
+  "677774031": {
+    "hash": 677774031,
+    "displayProperties": {
+      "description": "We once looked to the Moon and saw hope. Now we see only the power of the Darkness. An ancient evil stirs beneath the shattered surface of the Moon."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000007,
+          "bubbleHash": 3326367698
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3326367698
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 4195493657
+        },
+        {
+          "hash": 3000000006,
+          "bubbleHash": 4195493657
+        },
+        {
+          "hash": 3000000004,
+          "bubbleHash": 4025450777
+        }
+      ]
+    }
+  },
+  "1729879943": {
+    "hash": 1729879943,
+    "displayProperties": {
+      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000009,
+          "bubbleHash": 2868856804
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 2868856804
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 396959363
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 396959363
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 1747045785
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 1747045785
+        }
+      ]
+    }
+  },
+  "2481646875": {
+    "hash": 2481646875,
+    "displayProperties": {
+      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000002,
+          "bubbleHash": 4158493479
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 4158493479
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 473462131
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 3773756244
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 3773756244
+        }
+      ]
+    }
+  },
+  "3607432451": {
+    "hash": 3607432451,
+    "displayProperties": {
+      "description": "Lush with giant twisted trees, deep caverns, waterfalls, and silver swamps, the origin of this planetoid remains unknown. What is clear is that the Vex have nearly transformed the entire planetoid into a Machine World, above and below the surface. For those Guardians willing to brave the dangers and explore the myriad of mysteries, treasures beyond the imagination await."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000003,
+          "bubbleHash": 4205285323
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 4205285323
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3311195705
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3710329679
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3254430284
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3254430284
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 1702304883
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 933267223
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 2132187573
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 2132187573
+        }
+      ]
+    }
+  },
+  "1416096592": {
+    "hash": 1416096592,
+    "displayProperties": {
+      "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000008,
+          "bubbleHash": 706937272
+        },
+        {
+          "hash": 3000000008,
+          "bubbleHash": 2762866308
+        },
+        {
+          "hash": 3000000013,
+          "bubbleHash": 3522109173
+        }
+      ]
+    }
+  },
+  "2244580325": {
+    "hash": 2244580325,
+    "displayProperties": {
+      "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000014,
+          "bubbleHash": 3056690829
+        },
+        {
+          "hash": 3000000012,
+          "bubbleHash": 3056690829
+        },
+        {
+          "hash": 3000000014,
+          "bubbleHash": 3375528975
+        },
+        {
+          "hash": 3000000012,
+          "bubbleHash": 3375528975
+        },
+        {
+          "hash": 3000000014,
+          "bubbleHash": 409878074
+        },
+        {
+          "hash": 3000000006,
+          "bubbleHash": 409878074
+        }
+      ]
+    }
+  },
   "1": {
     "hash": 1,
     "nodeType": 1,
@@ -846,6 +1128,119 @@
       ]
     },
     "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
+  },
+  "1747045785": {
+    "hash": 1747045785,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 1747045785
+  },
+  "2868856804": {
+    "hash": 2868856804,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 2868856804
+  },
+  "396959363": {
+    "hash": 396959363,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 396959363
+  },
+  "300": {
+    "hash": 300,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
+  },
+  "301": {
+    "hash": 301,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 473462131
+  },
+  "302": {
+    "hash": 302,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3773756244
+  },
+  "303": {
+    "hash": 303,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 473462131
+  },
+  "304": {
+    "hash": 304,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 3773756244
+  },
+  "305": {
+    "hash": 305,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
+  },
+  "306": {
+    "hash": 306,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 201280774
+  },
+  "307": {
+    "hash": 307,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 2948928434
+  },
+  "308": {
+    "hash": 308,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 54269080
+  },
+  "309": {
+    "hash": 309,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 3333680772
   },
   "491": {
     "hash": 491,
@@ -7036,7 +7431,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Zydron, Gate Lord",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-vex"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
@@ -7046,7 +7442,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Phogoth, the Untamed",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-hive"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
@@ -7056,7 +7453,8 @@
     "nodeType": 3,
     "displayProperties": {
       "name": "Nightmare of Taniks, the Scarred",
-      "description": ""
+      "description": "",
+      "icon": "patrol-boss-fallen-dusk"
     },
     "destinationHash": 677774031,
     "bubbleHash": 417490937
@@ -7080,6 +7478,438 @@
     "vendorHash": 1664326810,
     "bubbleHash": 50825255,
     "screenshot": "/static/images/screenshots/vendors/vendors_quinn-laghari-2.jpg"
+  },
+  "2000000260": {
+    "hash": 2000000260,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000261": {
+    "hash": 2000000261,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000262": {
+    "hash": 2000000262,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000263": {
+    "hash": 2000000263,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000264": {
+    "hash": 2000000264,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000265": {
+    "hash": 2000000265,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000266": {
+    "hash": 2000000266,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000267": {
+    "hash": 2000000267,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000268": {
+    "hash": 2000000268,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000269": {
+    "hash": 2000000269,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000270": {
+    "hash": 2000000270,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000271": {
+    "hash": 2000000271,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000272": {
+    "hash": 2000000272,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000273": {
+    "hash": 2000000273,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000274": {
+    "hash": 2000000274,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000275": {
+    "hash": 2000000275,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000276": {
+    "hash": 2000000276,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000277": {
+    "hash": 2000000277,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000278": {
+    "hash": 2000000278,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000279": {
+    "hash": 2000000279,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000280": {
+    "hash": 2000000280,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000281": {
+    "hash": 2000000281,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000282": {
+    "hash": 2000000282,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000284": {
+    "hash": 2000000284,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000285": {
+    "hash": 2000000285,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000286": {
+    "hash": 2000000286,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000287": {
+    "hash": 2000000287,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000288": {
+    "hash": 2000000288,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000289": {
+    "hash": 2000000289,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000290": {
+    "hash": 2000000290,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000291": {
+    "hash": 2000000291,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000292": {
+    "hash": 2000000292,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "2000000293": {
+    "hash": 2000000293,
+    "nodeType": 4,
+    "displayProperties": {
+      "name": "Random",
+      "description": "This beacon can relay various objectives.",
+      "icon": "patrol-random"
+    }
+  },
+  "3000000001": {
+    "hash": 3000000001,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Glimmer Extraction",
+      "description": "Fallen mining crew have arrived to drill the area for glimmer. Fight them off and out of the area.\n\nDestroy the supporting **control module** by the drill at **each mining location** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000002": {
+    "hash": 3000000002,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Cabal Excavation",
+      "description": "A mining lander drops from the sky, protected by Cabal troops. Guardians in the area are commanded to confiscate the machinery or destroy it.\n\nDestroy the **Thresher** circling above to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000003": {
+    "hash": 3000000003,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Ether Resupply",
+      "description": "A **Prime Ether Servitor** has transmat in and is preparing to resupply. Intervene with your weapons.\n\nDestroy **Transport Servitors** to trigger heroic; first one servitor and then three, do so quickly before they transmat.",
+      "icon": "public-event"
+    }
+  },
+  "3000000004": {
+    "hash": 3000000004,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Weapons Exchange",
+      "description": "Fallen in the area are preparing to receive artillery; a **Fallen Walker** is en route.\n\nDamage the **Fallen Walker** to generate charges. Deposit the charges into the nearby recepticles to **lower all three shields** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000005": {
+    "hash": 3000000005,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Injection Rig",
+      "description": "The Cabal have landed blasted, rock-shaking, concentration-shattering machinery. Give them a hand.\n\nDestroy the top, middle, and center **thermal vents** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000006": {
+    "hash": 3000000006,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Witches Ritual",
+      "description": "The Hive are relentless; disrupt their ritual and dispel their magic.\n\nActivate **ritual plates** to lower the shields protecting the **crystals**. Destroy both crystals to trigger heroic.",
+      "icon": "public-event"
+    }
+  },  
+  "3000000007": {
+    "hash": 3000000007,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Crashed Warsat",
+      "description": "One of Rasputin's Warsats has crash-landed. Enemy combatants are gathering to steal its technology and intelligence. Fend them off and prepare the device for transmat.\n\nDestroy each of the **three Hive shriekers** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000008": {
+    "hash": 3000000008,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Taken Blight",
+      "description": "Increased Taken activity in the area; dispose of them, and the blights that provide them succor.\n\nStep into the perimeter of a blight and be granted the **Blight Receding** buff which will enable you to damage the primary blight with conventional weaponry. Destroy the primary blight, drawing out the Blightmaker, to trigger heroic.",
+      "icon": "public-event"
+    }
+  },  
+  "3000000009": {
+    "hash": 3000000009,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Spire Integration",
+      "description": "The Vex are setting up for spire integration. Prevent Vex from sacrificing against the conflux.\n\nCapture all **three sync plates** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000010": {
+    "hash": 3000000010,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "The Gatelord",
+      "description": "???",
+      "icon": "public-event"
+    }
+  },  
+  "3000000011": {
+    "hash": 3000000011,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Cryo-pod Extraction",
+      "description": "???",
+      "icon": "public-event"
+    }
+  },
+  "3000000012": {
+    "hash": 3000000012,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Ether Ritual",
+      "description": "The Scorn are attempting to extract Dark Ether from a Harvester. Shut them down.\n\n**Shoot down** any **ether** flowing towards the Harvester to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000013": {
+    "hash": 3000000013,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "The Rift Generator",
+      "description": "Defend an Awoken device from hordes of Scorn and Taken manipulations.\n\nDestroy each of the forming blights before they dissipate to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000014": {
+    "hash": 3000000014,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Resonant Destruction",
+      "description": "A **Resonant Splinter** has manifested near. Claim control and guide it to your enemies destruction.\n\nKill **Resonant Keepers** and throw the **charges** they drop at the Resonant Splinter to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000015": {
+    "hash": 3000000015,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Crux Convergence",
+      "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic.",
+      "icon": "public-event"
+    }
   },
   "2013384876": {
     "hash": 2013384876,
