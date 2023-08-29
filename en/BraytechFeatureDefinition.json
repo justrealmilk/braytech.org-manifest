@@ -234,9 +234,6 @@
     "children": {
       "views": [
         {
-          "viewHash": "weeklies-this-week"
-        },
-        {
           "viewHash": "weeklies-challenges"
         },
         {
@@ -248,19 +245,11 @@
       ]
     }
   },
-  "weeklies-this-week": {
-    "hash": "weeklies-this-week",
-    "displayProperties": {
-      "name": "This Week",
-      "description": "This week in Destiny"
-    },
-    "to": "/weeklies"
-  },
   "weeklies-challenges": {
     "hash": "weeklies-challenges",
     "displayProperties": {
       "name": "Challenges",
-      "description": "All activity challenges"
+      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
     },
     "to": "/weeklies/challenges",
     "keywords": ["weeklies", "challenges", "milestones", "bonuses"]
@@ -278,7 +267,7 @@
     "hash": "weeklies-rotations",
     "displayProperties": {
       "name": "Rotations",
-      "description": "Scry the orbits of various activities"
+      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
     "to": "/weeklies/rotations",
     "keywords": ["nightfalls", "lost sectors", "rotations", "calendar", "raids", "wellspring", "altars of sorrow", "ascendant challenge"]
