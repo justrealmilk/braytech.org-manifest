@@ -368,7 +368,8 @@
   },
   "push-notification-event-this-week-at-bungie": {
     "displayProperties": {
-      "name": "This Week at Bungie"
+      "name": "This Week at Bungie",
+      "description": "Get the latest Bungie news delivered direct to you. Fresh and hot since 2004."
     }
   }
 }
