@@ -365,5 +365,10 @@
       "name": "Crucible",
       "description": "Be notified of which modes Lord Shaxx has configured the Crucible for.\n\nFight for fame and glory, but in oddly specific ways and at a weekly cadence."
     }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "name": "This Week at Bungie"
+    }
   }
 }
