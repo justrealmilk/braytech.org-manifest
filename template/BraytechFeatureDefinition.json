@@ -164,16 +164,10 @@
       "modules"
     ]
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "This Week",
-      "description": "This week in Destiny"
-    }
-  },
   "weeklies-challenges": {
     "displayProperties": {
       "name": "Challenges",
-      "description": "All activity challenges"
+      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
     },
     "keywords": [
       "weeklies",
@@ -194,7 +188,7 @@
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotations",
-      "description": "Scry the orbits of various activities"
+      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
     "keywords": [
       "nightfalls",
