@@ -164,14 +164,15 @@
       "modules"
     ]
   },
-  "weeklies-challenges": {
+  "weeklies-activity-challenges": {
     "displayProperties": {
-      "name": "Challenges",
+      "name": "Activity Challenges",
       "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
     },
     "keywords": [
       "weeklies",
       "challenges",
+      "activities",
       "milestones",
       "bonuses"
     ]

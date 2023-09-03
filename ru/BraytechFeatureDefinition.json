@@ -47,9 +47,9 @@
       "description": "Руководство для Стражей по еженедельным активностям с подсказками по триумфам и испытаниям"
     }
   },
-  "weeklies-challenges": {
+  "weeklies-activity-challenges": {
     "displayProperties": {
-      "name": "Challenges",
+      "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },
