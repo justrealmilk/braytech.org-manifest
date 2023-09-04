@@ -336,22 +336,40 @@
       "description": "ローテーションで登場する失われたセクターや報酬を逃すな。"
     }
   },
+  "push-notification-event-daily-weather-forecast": {
+    "displayProperties": {
+      "name": "天気予報",
+      "description": "賢明なガーディアンのための予測的かつリアルタイムのインサイトです。データに基づいた予測、リスクインジケータ、パーソナライズされた推奨事項により、自信を持って意思決定ができます。必要以上の準備をして、ジャンプシップを何度も行き来することはありません！"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "シュール",
+      "description": "奇妙な骨董品を取引するシュールの動機は、彼自身のものではない。遠く離れた主人であるナインの意思で動いている。"
+    }
+  },
   "push-notification-event-weekly-vendor-ada1-shaders": {
     "displayProperties": {
       "name": "エイダ1のシェーダー",
       "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
     }
   },
-  "push-notification-event-weekly-vendor-xur": {
+  "push-notification-event-weekly-overview": {
     "displayProperties": {
-      "name": "シュール",
-      "description": "エキゾチックアイテムの行商人であるシュールの行動は、彼自身の意思によるものでは無い。彼の指導者であるナインの導きによって動いている。"
+      "name": "Overview",
+      "description": "リセット毎に更新される、周回アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "クルーシブル",
       "description": "シャックス卿が今週のクルーシブルをどのルールにしたかを通知する。\n\n 武勇と栄光のために、週ごとに変わるルールで闘え。"
+    }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "name": "今週のBungie",
+      "description": "バンジーの最新ニュースを直接お届けします。2004年以来、新鮮でホットな情報をお届けしています。 "
     }
   }
 }
