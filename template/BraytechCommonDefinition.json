@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-sunglas": {
+    "displayProperties": {
+      "name": "\"We found this, for you...\"",
+      "description": "On the ground somewhere...\nBehind an Arby's...\n(use d2foundry.gg)"
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-bungie": {
     "displayProperties": {
       "name": "Bungie Developer",
