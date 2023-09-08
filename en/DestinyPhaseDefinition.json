@@ -184,5 +184,29 @@
       "name": "Nezarec",
       "description": "End the nightmare and defeat Nezarec."
     }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "Abyss",
+      "description": "Follow the light."
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "Bridge",
+      "description": "Traverse the bridge and climb the Throne."
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "Ir Yût, the Deathsinger",
+      "description": "Strike down the witch, silence their Deathsong."
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "Crota, Son of Oryx",
+      "description": "Defeat the Son of Oryx."
+    }
   }
 }
