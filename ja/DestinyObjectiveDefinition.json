@@ -1,12 +1,15 @@
 {
-  "537457947": {
-    "progressDescription": "同じサブクラスでバンガードストライクを完了する"
+  "1542299784": {
+    "progressDescription": "周回アクティビティを完了する"
+  },
+  "3794117631": {
+    "progressDescription": "周回アクティビティを完了する"
+  },
+  "1270593510": {
+    "progressDescription": "周回アクティビティを完了する"
   },
   "1612424695": {
     "progressDescription": "ナイトフォールの累計スコアで到達する"
-  },
-  "3118376466": {
-    "progressDescription": "いずれかのクルーシブルのプレイリストで対戦を完了する"
   },
   "4276867787": {
     "progressDescription": "サバイバルでラウンド勝利する"
@@ -17,14 +20,20 @@
   "2794225827": {
     "progressDescription": "オシリスの試練にて勝利する"
   },
-  "1734176373": {
-    "progressDescription": "ギャンビットの対戦を完了する"
-  },
   "1948254616": {
     "progressDescription": "永遠の挑戦をクリアする"
   },
   "1205559531": {
     "progressDescription": "永遠の挑戦を {var:3648290880} 点以上でクリアする"
+  },
+  "1320261963": {
+    "progressDescription": "周回エキゾチックミッション \"ヴォクス・オブスキュラ\" を完了する"
+  },
+  "1510063869": {
+    "progressDescription": "周回エキゾチックミッション \"予感\" を完了する"
+  },
+  "3726310377": {
+    "progressDescription": "周回エキゾチックミッション \"熾天使の盾作戦\" を完了する"
   },
   "1356373064": {
     "progressDescription": "アクティビティ \"//node.ovrd.AVALON//\"を完了する"
@@ -57,15 +66,27 @@
     "progressDescription": "週間ストーリーミッションを高得点で完了する"
   },
   "897950155": {
+    "displayProperties": {
+      "description": "\"あぁ、最後の願いを叶えるまでにどれほど待ったことか...\""
+    },
     "progressDescription": "レイド\"最後の望み\" 周回完了"
   },
   "2398860795": {
+    "displayProperties": {
+      "description": "\"我々こそが... 救済者だ\""
+    },
     "progressDescription": "レイド\"救済の庭園\" 周回完了"
   },
   "3826130187": {
+    "displayProperties": {
+      "description": "支配権確保"
+    },
     "progressDescription": "レイド\"ディープ・ストーン・クリプト\" 周回完了"
   },
   "3180884403": {
+    "displayProperties": {
+      "description": "制御不能の機械"
+    },
     "progressDescription": "レイド\"ガラスの間\" 周回完了"
   },
   "1863972407": {
@@ -75,13 +96,22 @@
     "progressDescription": "レイド\"門弟の誓い\" 周回完了"
   },
   "406803827": {
+    "displayProperties": {
+      "description": "邪神よ永遠なれ..."
+    },
     "progressDescription": "レイド\"邪神、滅びる\" 周回完了"
   },
-  "600986371": {
+  "1633394671": {
     "displayProperties": {
       "description": "ナイトメアの悪夢となれ"
-    },
-    "progressDescription": "レイド\"ナイトメアの根源\"周回完了"
+  },
+  "progressDescription": "レイド\"ナイトメアの根源\"周回完了"
+},
+"2622593631": {
+  "displayProperties": {
+    "description": "暗闇の奥底で待っている"
+  },
+  "progressDescription": "レイド\"クロタの最期\"周回完了"
   },
   "2039792527": {
     "displayProperties": {
@@ -123,13 +153,25 @@
     "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
   },
   "1878970132": {
-    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
+    "progressDescription": "アイアンバナーの対戦を完了する"
+  },
+  "1166685245": {
+    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+  },
+  "2457555059": {
+    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+  },
+  "3304988490": {
+    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+  },
+  "3652736024": {
+    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
   },
   "275339596": {
-    "progressDescription": "クラウドのバウンティを完了させる"
+    "progressDescription": "クラウドストライダーのバウンティを完了させる"
   },
   "3044187661": {
-    "progressDescription": "ニンバスの話しかける"
+    "progressDescription": "ニンバスに話しかける"
   },
   "2656858183": {
     "progressDescription": "\"ターミナルオーバーロード\" の戦闘員を倒す"
@@ -137,28 +179,25 @@
   "2177999971": {
     "progressDescription": "クイン・ラガーリに話しかける"
   },
-  "1166527222": {
-    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  "209458417": {
+    "progressDescription": "アクティビティ \"サバスンのスパイア\" で戦闘員を倒す"
   },
-  "3431014262": {
-    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  "3865635517": {
+    "progressDescription": "アクティビティ \"サバスンのスパイア\" で戦闘員を倒す"
   },
-  "1687723774": {
-    "progressDescription": "アクティビティ\"反抗の戦場\"を完了する"
+  "3007138885": {
+    "progressDescription": "アクティビティ \"サバスンのスパイア\" で戦闘員を倒す"
   },
-  "3121765139": {
-    "progressDescription": "難易度「伝説」で \"反抗の戦場\"を完了する"
+  "1102817320": {
+    "progressDescription": "難易度「伝説」でアクティビティ \"サバスンのスパイア\" で戦闘員を倒す"
   },
-  "672380795": {
-    "progressDescription": "H.E.L.M.のウォーテーブルのバウンティを完了させる"
+  "2939179412": {
+    "progressDescription": "\"召喚の祭壇\" の報酬クレートを開ける"
   },
-  "2821863512": {
-    "progressDescription": "H.E.L.M.のウォーテーブルに戻る"
+  "4010407132": {
+    "progressDescription": "\"召喚の祭壇\" の報酬クレートを開ける"
   },
-  "1685423788": {
-    "progressDescription": "アクティビティ\"サルベージ\" を完了させる"
-  },
-  "2752231210": {
-    "progressDescription": "アクティビティ\"ディープダイブ\"を完了させる"
-  }
+  "2601899456": {
+    "progressDescription": "\"召喚の祭壇\" の報酬クレートを開ける"
+ }
 }

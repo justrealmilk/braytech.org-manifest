@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-sunglas": {
+    "displayProperties": {
+      "name": "\"あなたのために見つけてきました...\"",
+      "description": "確か、道路に落ちていて...\nハンバーガー店の裏だっけ...?\n(use d2foundry.gg)"
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-bungie": {
     "displayProperties": {
       "name": "Bungie開発者",
