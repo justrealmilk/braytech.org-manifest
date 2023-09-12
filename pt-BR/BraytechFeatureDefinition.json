@@ -47,9 +47,9 @@
       "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
     }
   },
-  "weeklies-challenges": {
+  "weeklies-activity-challenges": {
     "displayProperties": {
-      "name": "Challenges",
+      "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },

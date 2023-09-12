@@ -62,7 +62,7 @@
     "hash": "clan-relationships",
     "displayProperties": {
       "name": "Relationships",
-      "description": "See which clan members you dedicate your time to most"
+      "description": "Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other."
     },
     "to": "/clan/relationships"
   },
@@ -234,7 +234,7 @@
     "children": {
       "views": [
         {
-          "viewHash": "weeklies-challenges"
+          "viewHash": "weeklies-activity-challenges"
         },
         {
           "viewHash": "weeklies-seasonal-challenges"
@@ -245,20 +245,20 @@
       ]
     }
   },
-  "weeklies-challenges": {
-    "hash": "weeklies-challenges",
+  "weeklies-activity-challenges": {
+    "hash": "weeklies-activity-challenges",
     "displayProperties": {
-      "name": "Challenges",
+      "name": "Activity Challenges",
       "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
     },
-    "to": "/weeklies/challenges",
-    "keywords": ["weeklies", "challenges", "milestones", "bonuses"]
+    "to": "/weeklies/activity-challenges",
+    "keywords": ["weeklies", "challenges", "activities", "milestones", "bonuses"]
   },
   "weeklies-seasonal-challenges": {
     "hash": "weeklies-seasonal-challenges",
     "displayProperties": {
       "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
     },
     "to": "/weeklies/seasonal-challenges",
     "keywords": ["seasonal challenges"]

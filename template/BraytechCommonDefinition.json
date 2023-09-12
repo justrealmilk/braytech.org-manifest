@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-sunglas": {
+    "displayProperties": {
+      "name": "\"We found this, for you...\"",
+      "description": "On the ground somewhere...\nBehind an Arby's...\n(use d2foundry.gg)"
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-bungie": {
     "displayProperties": {
       "name": "Bungie Developer",
@@ -319,15 +326,15 @@
       "description": "Delete this loadout. This action is permanent."
     }
   },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_This map charts the steps on the path to the top._"
+    }
+  },
   "configure-push-notifications": {
     "displayProperties": {
       "name": "Push Notifications",
       "description": "Push notifications can reach you when you're not using Braytech and ensure you don't miss whatever it is that you're chasing."
-    }
-  },
-  "progression-step-map": {
-    "displayProperties": {
-      "description": "_This map charts the steps on the path to the top._"
     }
   },
   "push-notification-event-daily-lost-sector": {

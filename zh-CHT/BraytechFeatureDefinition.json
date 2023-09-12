@@ -47,9 +47,9 @@
       "description": "守護者的每周成就與挑戰指南"
     }
   },
-  "weeklies-challenges": {
+  "weeklies-activity-challenges": {
     "displayProperties": {
-      "name": "Challenges",
+      "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },

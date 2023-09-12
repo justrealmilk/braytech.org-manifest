@@ -1,12 +1,15 @@
 {
-  "537457947": {
-    "progressDescription": "\"Vanguard Ops\" activities completed"
+  "1542299784": {
+    "progressDescription": "Ritual activities completed"
+  },
+  "3794117631": {
+    "progressDescription": "Ritual activities completed"
+  },
+  "1270593510": {
+    "progressDescription": "Ritual activities completed"
   },
   "1612424695": {
     "progressDescription": "Nightfall score accrued"
-  },
-  "3118376466": {
-    "progressDescription": "Crucible matches completed"
   },
   "4276867787": {
     "progressDescription": "Competitive playlist matches completed"
@@ -17,17 +20,23 @@
   "2794225827": {
     "progressDescription": "Trials of Osiris rounds won"
   },
-  "1734176373": {
-    "progressDescription": "Gambit matches completed"
-  },
   "1948254616": {
     "progressDescription": "\"Dares of Eternity\" activities completed"
   },
   "1205559531": {
     "progressDescription": "\"Dares of Eternity\" completed with a score of {var:3648290880} or higher"
   },
+  "1320261963": {
+    "progressDescription": "\"Vox Obscura\" exotic mission rotator completed"
+  },
+  "1510063869": {
+    "progressDescription": "\"Presage\" exotic mission rotator completed"
+  },
+  "3726310377": {
+    "progressDescription": "\"Operation: Seraph's Shield\" exotic mission rotator completed"
+  },
   "1356373064": {
-    "progressDescription": "\"//node.ovrd.AVALON//\" activity completed"
+    "progressDescription": "\"//node.ovrd.AVALON//\" exotic mission completed"
   },
   "4140117227": {
     "progressDescription": "Vanguard bounties completed"
@@ -57,15 +66,27 @@
     "progressDescription": "Weekly Campaign mission completed with a high score"
   },
   "897950155": {
+    "displayProperties": {
+      "description": "\"I've waited so long to fulfill one last wish...\""
+    },
     "progressDescription": "\"Last Wish\" rotator raid completed"
   },
   "2398860795": {
+    "displayProperties": {
+      "description": "\"We are your... salvation.\""
+    },
     "progressDescription": "\"Garden of Salvation\" rotator raid completed"
   },
   "3826130187": {
+    "displayProperties": {
+      "description": "Secure control."
+    },
     "progressDescription": "\"Deep Stone Crypt\" rotator raid completed"
   },
   "3180884403": {
+    "displayProperties": {
+      "description": "Machines out of control."
+    },
     "progressDescription": "\"Vault of Glass\" rotator raid completed"
   },
   "1863972407": {
@@ -75,13 +96,22 @@
     "progressDescription": "\"Vow of the Disciple\" rotator raid completed"
   },
   "406803827": {
+    "displayProperties": {
+      "description": "Long live the King..."
+    },
     "progressDescription": "\"King's Fall\" rotator raid completed"
   },
-  "600986371": {
+  "1633394671": {
     "displayProperties": {
       "description": "Become your nightmare's nightmare."
     },
-    "progressDescription": "\"Root of Nightmares\" raid completed"
+    "progressDescription": "\"Root of Nightmares\" rotator raid completed"
+  },
+  "2622593631": {
+    "displayProperties": {
+      "description": "He waits in the dark below."
+    },
+    "progressDescription": "\"Crota's End\" raid completed"
   },
   "2039792527": {
     "displayProperties": {
@@ -114,16 +144,28 @@
     "progressDescription": "\"Ghost of the Deep\" dungeon completed"
   },
   "2258905201": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed"
   },
   "2050629406": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed"
   },
   "3376767511": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed"
   },
   "1878970132": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, or [Void] Void, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed"
+  },
+  "1166685245": {
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+  },
+  "2457555059": {
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+  },
+  "3304988490": {
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+  },
+  "3652736024": {
+    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
   },
   "275339596": {
     "progressDescription": "Cloud Strider bounties completed"
@@ -137,28 +179,25 @@
   "2177999971": {
     "progressDescription": "Speak to Quinn Laghari"
   },
-  "1166527222": {
-    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  "209458417": {
+    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
   },
-  "3431014262": {
-    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  "3865635517": {
+    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
   },
-  "1687723774": {
-    "progressDescription": "\"Defiant Battlegrounds\" activities completed"
+  "3007138885": {
+    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
   },
-  "3121765139": {
-    "progressDescription": "Legendary difficulty \"Defiant Battlegrounds\" activities completed"
+  "1102817320": {
+    "progressDescription": "Legendary difficulty \"Savathûn's Spire\" activities completed"
   },
-  "672380795": {
-    "progressDescription": "H.E.L.M. War Table bounties completed"
+  "2939179412": {
+    "progressDescription": "\"Altars of Summoning\" reward chests opened"
   },
-  "2821863512": {
-    "progressDescription": "Return to the H.E.L.M. War Table"
+  "4010407132": {
+    "progressDescription": "\"Altars of Summoning\" reward chests opened"
   },
-  "1685423788": {
-    "progressDescription": "\"Salvage\" activities completed"
-  },
-  "2752231210": {
-    "progressDescription": "\"Deep Dive\" activities completed"
+  "2601899456": {
+    "progressDescription": "\"Altars of Summoning\" reward chests opened"
   }
 }
