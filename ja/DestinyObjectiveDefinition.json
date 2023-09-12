@@ -104,14 +104,14 @@
   "1633394671": {
     "displayProperties": {
       "description": "ナイトメアの悪夢となれ"
+    },
+    "progressDescription": "レイド\"ナイトメアの根源\"周回完了"
   },
-  "progressDescription": "レイド\"ナイトメアの根源\"周回完了"
-},
-"2622593631": {
-  "displayProperties": {
-    "description": "暗闇の奥底で待っている"
-  },
-  "progressDescription": "レイド\"クロタの最期\"周回完了"
+  "2622593631": {
+    "displayProperties": {
+      "description": "暗闇の奥底で待っている"
+    },
+    "progressDescription": "レイド\"クロタの最期\"周回完了"
   },
   "2039792527": {
     "displayProperties": {
@@ -199,5 +199,5 @@
   },
   "2601899456": {
     "progressDescription": "\"召喚の祭壇\" の報酬クレートを開ける"
- }
+  }
 }
