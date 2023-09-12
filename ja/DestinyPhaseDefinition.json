@@ -184,5 +184,29 @@
       "name": "ネザレク",
       "description": "最後の苦痛の神 ネザレクを倒せ"
     }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "深淵",
+      "description": "光を辿れ"
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "橋",
+      "description": "橋を渡り、玉座に登れ"
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "イル・ユート・デスシンガー",
+      "description": "魔女の息の根を止めて、歌を止めろ"
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "オリックスの息子クロタ",
+      "description": "希望を喰らいし者を倒せ"
+    }
   }
 }
