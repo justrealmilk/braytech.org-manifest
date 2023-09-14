@@ -97,6 +97,18 @@
       "description": "Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review."
     }
   },
+  "triumphs-tracked": {
+    "displayProperties": {
+      "name": "Tracked Triumphs",
+      "description": "See here all triumphs which you've tracked."
+    }
+  },
+  "triumphs-near": {
+    "displayProperties": {
+      "name": "Near Triumphs",
+      "description": "Priority objectives according to your sort criteria. These triumphs are almost ripe for the picking."
+    }
+  },
   "triumphs-transient": {
     "displayProperties": {
       "name": "Transient Triumphs",
