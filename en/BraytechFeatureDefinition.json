@@ -172,6 +172,14 @@
     },
     "to": "/triumphs/tracked"
   },
+  "triumphs-unredeemed": {
+    "hash": "triumphs-unredeemed",
+    "displayProperties": {
+      "name": "Unredeemed Triumphs",
+      "description": "It's time to work those fingers and redeem some trumphs."
+    },
+    "to": "/triumphs/unredeemed"
+  },
   "triumphs-near": {
     "hash": "triumphs-near",
     "displayProperties": {

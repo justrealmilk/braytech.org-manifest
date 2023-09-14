@@ -212,6 +212,12 @@
       "description": "Remove this bookmark.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "Active Triumph Score",
+      "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Legacy Triumph Score",
@@ -224,10 +230,10 @@
       "description": "A combination of all completed active and legacy Triumph scores."
     }
   },
-  "active-triumph-score": {
+  "active-score-rank": {
     "displayProperties": {
-      "name": "Active Triumph Score",
-      "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
+      "name": "Active Score Rank",
+      "description": "The Leaderboards rank for the corresponding triumph score, as determined by Voluspa."
     }
   },
   "total-resets": {
@@ -246,12 +252,6 @@
     "displayProperties": {
       "name": "Latent Memories",
       "description": "Mysterious test nodes are scattered across Mars. What is their purpose?"
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "DIM Sync Required",
-      "description": "This feature requires _DIM Sync_.\n\nEnable the service in _Settings_."
     }
   },
   "tooltip-error": {
