@@ -164,6 +164,22 @@
     },
     "to": "/triumphs/legacy"
   },
+  "triumphs-tracked": {
+    "hash": "triumphs-transient",
+    "displayProperties": {
+      "name": "Tracked Triumphs",
+      "description": "See here all triumphs which you've tracked."
+    },
+    "to": "/triumphs/tracked"
+  },
+  "triumphs-near": {
+    "hash": "triumphs-near",
+    "displayProperties": {
+      "name": "Near Triumphs",
+      "description": "Priority objectives according to your sort criteria. These triumphs are almost ripe for the picking."
+    },
+    "to": "/triumphs/near"
+  },
   "triumphs-transient": {
     "hash": "triumphs-transient",
     "displayProperties": {
