@@ -88,13 +88,13 @@
   "triumphs-active": {
     "displayProperties": {
       "name": "Active Triumphs and Seals",
-      "description": "View all active Triumphs and Seals"
+      "description": "Records of the Guardian's achiements. Challenge yourself according to the objectives found herein for fame, glory, and prizes."
     }
   },
   "triumphs-legacy": {
     "displayProperties": {
       "name": "Legacy Triumphs and Seals",
-      "description": "View a collection of legacy Triumphs and Seals"
+      "description": "Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review."
     }
   },
   "triumphs-transient": {
