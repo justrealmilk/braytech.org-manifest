@@ -103,6 +103,12 @@
       "description": "See here all triumphs which you've tracked."
     }
   },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "name": "Unredeemed Triumphs",
+      "description": "It's time to work those fingers and redeem some trumphs."
+    }
+  },
   "triumphs-near": {
     "displayProperties": {
       "name": "Near Triumphs",
