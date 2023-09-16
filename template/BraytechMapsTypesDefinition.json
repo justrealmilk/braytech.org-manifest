@@ -23,5 +23,11 @@
     "displayProperties": {
       "name": "Public Event"
     }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Deepsight",
+      "description": "Pierce the veil between worlds and reveal hidden secrets."
+    }
   }
 }
