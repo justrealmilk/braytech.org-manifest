@@ -7426,6 +7426,15 @@
       ]
     }
   },
+  "2000000294": {
+    "hash": 2000000294,
+    "displayProperties": {
+      "name": "Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
+  },
   "2000000254": {
     "hash": 2000000254,
     "nodeType": 3,
