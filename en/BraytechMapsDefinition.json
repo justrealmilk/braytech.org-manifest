@@ -7429,7 +7429,34 @@
   "2000000294": {
     "hash": 2000000294,
     "displayProperties": {
-      "name": "Deepsight Puzzle",
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
+  },
+  "2000000295": {
+    "hash": 2000000295,
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
+  },
+  "2000000296": {
+    "hash": 2000000296,
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
+  },
+  "2000000297": {
+    "hash": 2000000297,
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle",
       "description": "",
       "icon": "deepsight"
     },
