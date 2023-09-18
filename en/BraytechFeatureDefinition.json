@@ -562,5 +562,13 @@
       "description": "Player ranks for dedicated Guardians"
     },
     "to": "/leaderboards"
+  },
+  "fireteam-monitor": {
+    "hash": "fireteam-monitor",
+    "displayProperties": {
+      "name": "Fireteam Monitor",
+      "description": "_You_ are the control centre."
+    },
+    "to": "/fireteam-monitor"
   }
 }
