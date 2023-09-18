@@ -441,5 +441,11 @@
       "name": "Leaderboards",
       "description": "Player ranks for dedicated Guardians"
     }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "Fireteam Monitor",
+      "description": "_You_ are the control centre."
+    }
   }
 }
