@@ -441,5 +441,11 @@
       "name": "Leaderboards",
       "description": "Player ranks for dedicated Guardians"
     }
+  },
+  "spy": {
+    "displayProperties": {
+      "name": "Spy",
+      "description": "👀"
+    }
   }
 }
