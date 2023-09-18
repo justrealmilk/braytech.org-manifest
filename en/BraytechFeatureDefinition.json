@@ -562,13 +562,5 @@
       "description": "Player ranks for dedicated Guardians"
     },
     "to": "/leaderboards"
-  },
-  "spy": {
-    "hash": "spy",
-    "displayProperties": {
-      "name": "Spy",
-      "description": "👀"
-    },
-    "to": "/spy"
   }
 }
