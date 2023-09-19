@@ -173,7 +173,7 @@
   "interval-score": {
     "displayProperties": {
       "name": "Score Value",
-      "description": "This record's remaining score value (sum of remaining intervals)."
+      "description": "This record's remaining score value over its total score value."
     }
   },
   "presentation-node-score": {
