@@ -199,5 +199,25 @@
       "name": "All Hands",
       "description": "Each Guardian must link a light and dark node prior to each damage phase."
     }
+  },
+  "3636591526": {
+    "displayProperties": {
+      "description": "Always **preserve** the **Chalice of Light** before igniting a lamp."
+    }
+  },
+  "2768385440": {
+    "displayProperties": {
+      "description": "Cross the bridge while it is fading. Coordinate with your fireteam and control the bridge's state accordingly."
+    }
+  },
+  "732074628": {
+    "displayProperties": {
+      "description": "Every Guardian must hold the **Chalice of Light** before any Guardian holds it a subsequent time."
+    }
+  },
+  "3523029182": {
+    "displayProperties": {
+      "description": "Guardians may only break Crota's shield in a single attempt. Bear multiple swords."
+    }
   }
 }
