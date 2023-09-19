@@ -1,11 +1,27 @@
 {
   "1": {
     "displayProperties": {
+      "description": "Impwemented at da wish of Savathûn with Wiven's dying bweath and weset with evewy death of Dûw Incawu.",
       "name": "Savathûn's Cuwse"
-    }
+    },
+    "rotation": [
+      {
+        "displayProperties": {
+          "name": "Stage II: Sevewe"
+        },
+        "nodeHash": 276
+      },
+      {
+        "displayProperties": {
+          "name": "Stage III: Ovewwhewming"
+        },
+        "nodeHash": 277
+      }
+    ]
   },
   "2": {
     "displayProperties": {
+      "description": "Da Awoken haz wong pwacticed da awt of wawking between wowwds. Fowwow theiw paths and defeat da enemy.",
       "name": "Ascendant Chawwenge"
     },
     "rotation": [
@@ -43,16 +59,19 @@
   },
   "3": {
     "displayProperties": {
+      "description": "Da Hive caww out to da dawkness. Siwence theiw scweams and pwevent theiw sacwifice.",
       "name": "Awtaws of Sowwow"
     }
   },
   "4": {
     "displayProperties": {
+      "description": "Enemies of times past continue to haunt Wuna. Extinguish theiw wemnants.",
       "name": "*bwushes* Wandewing Nightmawes"
     }
   },
   "5": {
     "displayProperties": {
+      "description": "Guawdian actions on Cwovis Bway's space pwatfowm haz wesuwted in fawwing debwis thwoughout Wathmowe Chaos.",
       "name": "Ecwipsed Zone"
     }
   },
@@ -63,16 +82,19 @@
   },
   "7": {
     "displayProperties": {
+      "description": "Wight-beawing Hive woam da wowwd expwessing theiw Wight-given abiwities on enemies of da Witch Queen. Twack down these bounty huntews and wemove da compwication which they cweate.",
       "name": "Wucent Executionews"
     }
   },
   "8": {
     "displayProperties": {
+      "description": "Da Vex awe tawgeting theiw effowts. Bwock theiw access attempts.",
       "name": "Vex Incuwsion Zone"
     }
   },
   "9": {
     "displayProperties": {
+      "description": "Da Shadow Wegion and da Vex awe conducting an aww-out assauwt on da city. Put an end to theiw destwuction on Neptune.",
       "name": "Tewminaw Ovewwoad"
     }
   }
