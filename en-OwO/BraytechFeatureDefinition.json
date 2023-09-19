@@ -95,7 +95,7 @@
   },
   "clan-relationships": {
     "displayProperties": {
-      "description": "See which cwan membews uu dedicate uuw time to most",
+      "description": "Discovew missed oppowtunities and secwet wovews. These Guawdians awe those who uu pway most activities with. Chewish each othew.",
       "name": "Wewationships"
     }
   },
@@ -162,6 +162,12 @@
     "displayProperties": {
       "description": "Da fwequentwy asked and easy to answew",
       "name": "Fwequentwy Asked Questions"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "description": "_Uu_ awe da contwow centwe.",
+      "name": "Fiweteam Monitow"
     }
   },
   "inspect-equipment": {
@@ -242,7 +248,7 @@
   },
   "triumphs-active": {
     "displayProperties": {
-      "description": "View aww active Twiumphs and Seaws",
+      "description": "Wecowds of da Guawdian's achievements. Chawwenge uuwsewf accowding to da objectives found hewein fow fame, gwowy, and pwizes.",
       "name": "Active Twiumphs and Seaws"
     }
   },
@@ -254,14 +260,32 @@
   },
   "triumphs-legacy": {
     "displayProperties": {
-      "description": "View a cowwection of wegacy Twiumphs and Seaws",
+      "description": "Twiumphs fwom da past, these wecowds awe no wongew obtainabwe but awe pwesewved hewe fow postewity and weview.",
       "name": "Wegacy Twiumphs and Seaws"
+    }
+  },
+  "triumphs-near": {
+    "displayProperties": {
+      "description": "Pwiowity objectives accowding to uuw sowt cwitewia. These twiumphs awe awmost wipe fow da picking.",
+      "name": "Neaw Twiumphs"
+    }
+  },
+  "triumphs-tracked": {
+    "displayProperties": {
+      "description": "See hewe aww twiumphs which uu've twacked.",
+      "name": "Twacked Twiumphs"
     }
   },
   "triumphs-transient": {
     "displayProperties": {
       "description": "Not aww Twiumphs awe fowevew–compwete these wecowds with hazte ow be wost fowevew in time.",
       "name": "Twansient Twiumphs"
+    }
+  },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "description": "It's time to wowk those fingews and wedeem some twumphs.",
+      "name": "Unwedeemed Twiumphs"
     }
   },
   "weeklies": {
@@ -272,19 +296,19 @@
   },
   "weeklies-activity-challenges": {
     "displayProperties": {
-      "description": "Aww activity chawwenges",
-      "name": "Acwivity Chawwenges"
+      "description": "A cuwated wist of aww avaiwabwe activity chawwenges, active weputation bonuses, and uuw season pass.",
+      "name": "Activity Chawwenges"
     }
   },
   "weeklies-rotations": {
     "displayProperties": {
-      "description": "Scwy da owbits of vawious activities",
+      "description": "Wituaws that wun on a wotation, use these pwojections to pwan uuw endeavouws. Wotations awe sometimes awtewed by da Awchitects and this view wiww be updated accowdingwy.",
       "name": "Wotations"
     }
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
-      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds",
+      "description": "Compwete wimited-time chawwenges fow Season wank, Bwight Dust, and othew wewawds.",
       "name": "Seasonaw Chawwenges"
     }
   }

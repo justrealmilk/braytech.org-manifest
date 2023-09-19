@@ -5,6 +5,12 @@
       "name": "Geaw Powew"
     }
   },
+  "active-score-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow da cowwesponding twiumph scowe, as detewmined by Vowuspa.",
+      "name": "Active Scowe Wank"
+    }
+  },
   "active-triumph-score": {
     "displayProperties": {
       "description": "Da cuwwent vawue of aww active Twiumphs that haz been eawned and da totaw vawue of aww active twiumphs.\n\nThese scowe vawues change when Twiumphs become wegacy Twiumphs.",
@@ -93,12 +99,6 @@
       "description": "Push notifications can weach uu when uu'we not using Bwaytech and (・`ω´・) ensuwe uu don't miss whatevew it is that uu'we chazing."
     }
   },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "description": "This featuwe wequiwes _DIM Sync_.\n\nEnabwe da sewvice in _Settings_.",
-      "name": "DIM Sync Wequiwed"
-    }
-  },
   "expiration": {
     "displayProperties": {
       "description": "This wecowd haz expiwation infowmation attached.",
@@ -166,9 +166,16 @@
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
+  "flair-sunglas": {
+    "displayProperties": {
+      "description": "On da gwound somewhewe...\nBehind an Awby's...\n(use d2foundwy.gg)",
+      "name": "\"We found this, fow uu...\""
+    },
+    "itemTypeDisplayName": "Speciaw"
+  },
   "interval-score": {
     "displayProperties": {
-      "description": "This wecowd's wemaining scowe vawue (sum of wemaining intewvaws).",
+      "description": "This wecowd's wemaining scowe vawue ovew its totaw scowe vawue.",
       "name": "Scowe Vawue"
     }
   },
@@ -273,6 +280,11 @@
     "displayProperties": {
       "description": "Pwedictive and weaw time insights fow pwudent Guawdians. Data-dwiven fowecasts, wisk indicatows, and pewsonawized wecommendations fow confident decision-making. Nevew weave da comfowt of uuw jumpship again without being pewfectwy pwepawed! OwO",
       "name": "Weathew Fowecast"
+    }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "description": "Get da watest Bungie news dewivewed diwect to uu. Fwesh and hot since 2004. "
     }
   },
   "push-notification-event-weekly-crucible": {
