@@ -90,7 +90,7 @@
     },
     "itemTypeDisplayName": "Braytech 支持者"
   },
-  "flair-cryptarch": {
+  "flair-translator": {
     "displayProperties": {
       "name": "解密大师",
       "description": "_一位为 Braytech 提供本地化文本的翻译人员。_"

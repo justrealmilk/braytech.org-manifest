@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-icicle": {
+    "displayProperties": {
+      "name": "Icicle#6310",
+      "description": "\"I annoyed Tom and all I got was this stupid medal\""
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-sunglas": {
     "displayProperties": {
       "name": "\"We found this, for you...\"",
@@ -97,7 +104,7 @@
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-cryptarch": {
+  "flair-translator": {
     "displayProperties": {
       "name": "Cryptarch",
       "description": "_A generous translator of Braytech._"
