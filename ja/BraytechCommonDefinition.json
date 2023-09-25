@@ -55,6 +55,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "flair-icicle": {
+    "displayProperties": {
+      "name": "Icicle#6310",
+      "description": "\"Tomを煽って投げつけられた、このメダル\""
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-sunglas": {
     "displayProperties": {
       "name": "\"あなたのために見つけてきました...\"",
@@ -173,7 +180,7 @@
   "interval-score": {
     "displayProperties": {
       "name": "スコア値",
-      "description": "このレコードの残りスコア値（残り合計）"
+      "description": "このレコードの残りスコア合計"
     }
   },
   "presentation-node-score": {
@@ -212,6 +219,12 @@
       "description": "ブックマークを削除します。\n Braytechのプロファイルで同期させてアプリ間で連動されたものも削除されます。"
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "アクティブな勝利の道のりスコア",
+      "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "過去の勝利の道のりスコア",
@@ -224,10 +237,10 @@
       "description": "過去とアクティブな勝利の道のりの合計スコア"
     }
   },
-  "active-triumph-score": {
+  "active-score-rank": {
     "displayProperties": {
-      "name": "アクティブな勝利の道のりスコア",
-      "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
+      "name": "アクティブスコアランク",
+      "description": "Voluspaによる、道のりのスコアランキング。"
     }
   },
   "total-resets": {
@@ -246,12 +259,6 @@
     "displayProperties": {
       "name": "潜在的な記憶",
       "description": "不思議なテストノードが火星に散逸しています。これは一体...? "
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "DIM Syncが必要",
-      "description": "この機能は _DIM Sync_ が必要です。 \n\n _設定_ でサービスを有効にしてください。"
     }
   },
   "tooltip-error": {
@@ -326,15 +333,15 @@
       "description": "このロードアウトを削除します。一度削除したら元に戻せません。"
     }
   },
-  "configure-push-notifications": {
-    "displayProperties": {
-      "name": "プッシュ通知",
-      "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
-    }
-  },
   "progression-step-map": {
     "displayProperties": {
       "description": "_このチャートは、頂上までの道のりを描いたものです。_"
+    }
+  },
+      "configure-push-notifications": {
+        "displayProperties": {
+          "name": "プッシュ通知",
+          "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
     }
   },
   "push-notification-event-daily-lost-sector": {
@@ -363,7 +370,7 @@
   },
   "push-notification-event-weekly-overview": {
     "displayProperties": {
-      "name": "Overview",
+      "name": "総まとめ",
       "description": "リセット毎に更新される、周回アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
     }
   },
