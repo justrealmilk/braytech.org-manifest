@@ -338,10 +338,10 @@
       "description": "_このチャートは、頂上までの道のりを描いたものです。_"
     }
   },
-      "configure-push-notifications": {
-        "displayProperties": {
-          "name": "プッシュ通知",
-          "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "プッシュ通知",
+      "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
     }
   },
   "push-notification-event-daily-lost-sector": {
