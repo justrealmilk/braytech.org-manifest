@@ -1,12 +1,15 @@
 {
-  "537457947": {
-    "progressDescription": "Actividades de las \"Operaciones de Vanguardia\" completadas"
+  "1542299784": {
+    "progressDescription": "Actividades ritual completadas"
+  },
+  "3794117631": {
+    "progressDescription": "Actividades ritual completadas"
+  },
+  "1270593510": {
+    "progressDescription": "Actividades ritual completadas"
   },
   "1612424695": {
     "progressDescription": "Puntuación de Ocaso acumulada"
-  },
-  "3118376466": {
-    "progressDescription": "Partidas en listas de juego del Crisol completadas"
   },
   "4276867787": {
     "progressDescription": "Partidas en la lista Competitivo completadas"
@@ -25,6 +28,15 @@
   },
   "1205559531": {
     "progressDescription": "\"Retos de la Eternidad\" completado con una puntuación de {var:3648290880} o superior"
+  },
+  "1320261963": {
+    "progressDescription": "Misión excepcional rotatoria \"Vox Obscura\" completada"
+  },
+  "1510063869": {
+    "progressDescription": "Misión excepcional rotatoria \"Presagio\" completada"
+  },
+  "3726310377": {
+    "progressDescription": "Misión excepcional rotatoria \"Operación: Escudo de serafín\" completada"
   },
   "1356373064": {
     "progressDescription": "Actividad \"//nodo.sobrescrt.ÁVALON//\" completada"
@@ -109,7 +121,7 @@
   },
   "1064977327": {
     "displayProperties": {
-      "description": "La subcomandante Sloane vio una nave de mando de la Colmena Lúcida entrando en la atmósfera de Titán. Poco después de su llegada, la nave se sumergió en el mar de metano de la luna y las lecturas de energía anómalas se dispararon en la Nueva Arcología del Pacífico. La subcomandante te pide que lo investigues."
+      "description": "La subcomandante Sloane vio una nave de mando de la Estirpe Luminosa entrando en la atmósfera de Titán. Poco después de su llegada, la nave se sumergió en el mar de metano de la luna y las lecturas de energía anómalas se dispararon en la Nueva Arcología del Pacífico. La subcomandante te pide que lo investigues."
     },
     "progressDescription": "Mazmorra \"Espectros de las profundidades\" completada"
   },

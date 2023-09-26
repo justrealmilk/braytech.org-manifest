@@ -1,27 +1,32 @@
 {
   "1": {
     "displayProperties": {
-      "name": "Maldición de Savathûn"
+      "name": "Maldición de Savathûn",
+      "description": "Implementado por deseo de Savathûn con el último aliento de Riven y reiniciado con cada muerte de Dûl Incaru."
     }
   },
   "2": {
     "displayProperties": {
-      "name": "Desafío ascendente"
+      "name": "Desafío ascendente",
+      "description": "Los Insomnes llevan mucho tiempo practicando el arte de caminar entre mundos. Sigue sus pasos y derrota al enemigo."
     }
   },
   "3": {
     "displayProperties": {
-      "name": "Altares del dolor"
+      "name": "Altares del dolor",
+      "description": "La Colmena llama a la oscuridad. Silencia sus gritos e impide su sacrificio."
     }
   },
   "4": {
     "displayProperties": {
-      "name": "Pesadillas errates"
+      "name": "Pesadillas errates",
+      "description": "Enemigos del pasado siguen acechando en la Luna. Extingue sus restos."
     }
   },
   "5": {
     "displayProperties": {
-      "name": "Zona eclipsada"
+      "name": "Zona eclipsada",
+      "description": "Las acciones de los Guardianes en la plataforma espacial de Clovis Bray han provocado la caída de escombros por todo Caos de Rathmore."
     }
   },
   "6": {
@@ -31,17 +36,20 @@
   },
   "7": {
     "displayProperties": {
-      "name": "Verdugos lúcidos"
+      "name": "Verdugos lúcidos",
+      "description": "La Colmena Lúcida vaga por el mundo expresando sus habilidades otorgadas por la Luz a los enemigos de la Reina Bruja. Localiza a estos cazarrecompensas y elimina las complicaciones que crean."
     }
   },
   "8": {
     "displayProperties": {
-      "name": "Zona de Invasión vex"
+      "name": "Zona de Invasión vex",
+      "description": "Los Vex están centrando sus esfuerzos. Bloquea sus intentos de acceso."
     }
   },
   "9": {
     "displayProperties": {
-      "name": "Sobrecarga del terminal"
+      "name": "Sobrecarga del terminal",
+      "description": "La Legión de la Sombra y los Vex están llevando a cabo un asalto total a la ciudad. Pon fin a su destrucción en Neptuno."
     }
   }
 }
