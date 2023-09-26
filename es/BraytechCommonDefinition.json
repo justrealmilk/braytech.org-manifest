@@ -55,6 +55,20 @@
     },
     "itemTypeDisplayName": "Especial"
   },
+  "flair-icicle": {
+    "displayProperties": {
+      "name": "Icicle#6310",
+      "description": "\"Fastidié a Tom y todo lo que conseguí fue esta estúpida medalla.\""
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "flair-sunglas": {
+    "displayProperties": {
+      "name": "\"Encontramos esto, para ti...\"",
+      "description": "En el suelo en alguna parte...\nDetrás de un Arby's...\n(usa d2foundry.gg)"
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "flair-bungie": {
     "displayProperties": {
       "name": "Desarrollador de Bungie",
@@ -205,6 +219,12 @@
       "description": "Elimina este favorito.\nSi lo activas, esta acción se sincroniza con tu perfil de Braytech y se verá reflejada dondequiera que utilices la aplicación."
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "Puntuación de triunfos activos",
+      "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en antiguos."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Puntuación de triunfos antiguos",
@@ -217,10 +237,10 @@
       "description": "Una combinación de la puntuación de todos los triunfos completados, activos y antiguos."
     }
   },
-  "active-triumph-score": {
+  "active-score-rank": {
     "displayProperties": {
-      "name": "Puntuación de triunfos activos",
-      "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en antiguos."
+      "name": "Rango de puntuación activa",
+      "description": "La clasificación de las tablas de clasificación para la puntuación de triunfo correspondiente, determinada por Voluspa."
     }
   },
   "total-resets": {
@@ -239,12 +259,6 @@
     "displayProperties": {
       "name": "Recuerdos latentes",
       "description": "Misteriosos nodos de prueba están dispersos por todo Marte. ¿Cuál es su propósito?"
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "Sincronización con DIM requerida",
-      "description": "Esta función requiere _Sincronización con DIM_.\n\nHabilita el servicio en _Ajustes_."
     }
   },
   "tooltip-error": {
@@ -319,15 +333,15 @@
       "description": "Elimina esta equipación. Esta acción es permanente."
     }
   },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_Este mapa traza los pasos para llegar a la cima._"
+    }
+  },
   "configure-push-notifications": {
     "displayProperties": {
       "name": "Notificaciones push",
       "description": "Las notificaciones push pueden llegarte cuando no estás usando Braytech y te aseguran que no te pierdas nada de aquello que buscas."
-    }
-  },
-  "progression-step-map": {
-    "displayProperties": {
-      "description": "_Este mapa traza los pasos para llegar a la cima._"
     }
   },
   "push-notification-event-daily-lost-sector": {
@@ -336,10 +350,10 @@
       "description": "No vuelvas a perderte un sector perdido en rotación o una recompensa."
     }
   },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
+  "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
-      "name": "Shaders de Ada-1",
-      "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
+      "name": "Previsión del tiempo",
+      "description": "Información predictiva y en tiempo real para guardianes prudentes. Previsiones basadas en datos, indicadores de riesgo y recomendaciones personalizadas para tomar decisiones con confianza. ¡No vuelvas a salir de la comodidad de tu nave sin estar perfectamente preparado!"
     }
   },
   "push-notification-event-weekly-vendor-xur": {
@@ -348,10 +362,28 @@
       "description": "Vendedor ambulante de extrañas curiosidades; los motivos de Xûr no son los suyos. Obedece a sus lejanos amos, los Nueve."
     }
   },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Shaders de Ada-1",
+      "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Resumen",
+      "description": "Recibe cada reinicio una densa ráfaga de información que resume las actividades rituales, los retos temporales y otros puntos de interés."
+    }
+  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crisol",
       "description": "Recibe notificaciones sobre los modos que Lord Shaxx ha dispuesto en el Crisol.\n\nLucha por la fama y la gloria, pero de formas curiosamente específicas cada semana."
+    }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "name": "Esta semana en Bungie",
+      "description": "Recibe directamente las últimas noticias de Bungie. Frescas y actuales desde 2004. "
     }
   }
 }

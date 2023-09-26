@@ -97,6 +97,24 @@
       "description": "Ver una colección de triunfos y sellos antiguos."
     }
   },
+  "triumphs-tracked": {
+    "displayProperties": {
+      "name": "Triunfos seguidos",
+      "description": "Ve aquí todos los triunfos que has seguido."
+    }
+  },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "name": "Triunfos sin canjear",
+      "description": "Es hora de poner a trabajar esos dedos y canjear algunos triunfos."
+    }
+  },
+  "triumphs-near": {
+    "displayProperties": {
+      "name": "Triunfos cercanos",
+      "description": "Objetivos prioritarios según sus criterios de clasificación. Estos triunfos están casi maduros para la cosecha."
+    }
+  },
   "triumphs-transient": {
     "displayProperties": {
       "name": "Triunfos transitorios",
@@ -164,12 +182,6 @@
       "módulos"
     ]
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "Esta semana",
-      "description": "Esta semana en Destiny."
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Desafíos",
@@ -179,6 +191,7 @@
       "semanales",
       "desafíos",
       "objetivos",
+      "hitos",
       "bonificaciones"
     ]
   },
@@ -427,6 +440,12 @@
     "displayProperties": {
       "name": "Marcadores",
       "description": "Rangos de jugadores para Guardianes dedicados"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "Control de escuadra",
+      "description": "_Tú_ eres el centro de control."
     }
   }
 }

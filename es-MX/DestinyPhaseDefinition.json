@@ -184,5 +184,29 @@
       "name": "Nezarec",
       "description": "Pon fin a la pesadilla y derrota a Nezarec."
     }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "Abismo",
+      "description": "Sigue la luz."
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "Puente",
+      "description": "Atraviesa el puente y sube al Trono."
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "Ir Yût, Cantora de la Muerte",
+      "description": "Abate a la bruja, silencia su liturgia oscura."
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "Crota, hijo de Oryx",
+      "description": "Derrota al hijo de Oryx."
+    }
   }
 }
