@@ -97,6 +97,24 @@
       "description": "過去の勝利の道のりと印を見ることができます"
     }
   },
+  "triumphs-tracked": {
+    "displayProperties": {
+      "name": "追跡中の道のり",
+      "description": "追跡中のすべての道のりを表示します"
+    }
+  },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "name": "未取得の道のり",
+      "description": "もうそろそろ実績として解除しても悪くない頃だ"
+    }
+  },
+  "triumphs-near": {
+    "displayProperties": {
+      "name": "達成間近の道のり",
+      "description": "達成までに近い順番で並べ替えています。これらは他の道のりと比べて達成するのにハードルは低いです。"
+    }
+  },
   "triumphs-transient": {
     "displayProperties": {
       "name": "期間限定の勝利の道のり",
@@ -164,12 +182,6 @@
       "モジュール"
     ]
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "今週のDestiny",
-      "description": "今週のDestinyで開催されるイベント"
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
@@ -178,6 +190,7 @@
     "keywords": [
       "ウィークリー",
       "挑戦",
+      "アクティビティ",
       "マイルストーン",
       "ボーナス"
     ]
@@ -427,6 +440,12 @@
     "displayProperties": {
       "name": "リーダーボード",
       "description": "熱心なガーディアンのためのプレイヤーランキング"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "ファイアチームモニター",
+      "description": "_あなた_ こそがチームの司令塔になる時です"
     }
   }
 }
