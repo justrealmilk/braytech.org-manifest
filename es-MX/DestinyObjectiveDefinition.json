@@ -20,9 +20,6 @@
   "2794225827": {
     "progressDescription": "Rondas de las Pruebas de Osiris ganadas"
   },
-  "1734176373": {
-    "progressDescription": "Partidas de Gambito completadas"
-  },
   "1948254616": {
     "progressDescription": "Actividades de \"Retos de la Eternidad\" completadas"
   },
@@ -69,15 +66,27 @@
     "progressDescription": "Misión de campaña semanal completada con una puntuación de 100 000 o superior"
   },
   "897950155": {
+    "displayProperties": {
+      "description": "\"He esperado tanto para cumplir un último deseo...\""
+    },
     "progressDescription": "Incursión rotativa \"Último deseo\" completada"
   },
   "2398860795": {
+    "displayProperties": {
+      "description": "\"Somos tu... salvación.\""
+    },
     "progressDescription": "Incursión rotativa \"Jardín de la Salvación\" completada"
   },
   "3826130187": {
+    "displayProperties": {
+      "description": "Asegura el control."
+    },
     "progressDescription": "Incursión rotativa \"Cripta de la Piedra Profunda\" completada"
   },
   "3180884403": {
+    "displayProperties": {
+      "description": "Máquinas fuera de control."
+    },
     "progressDescription": "Incursión rotativa \"Cámara de cristal\" completada"
   },
   "1863972407": {
@@ -87,6 +96,9 @@
     "progressDescription": "Incursión rotativa \"Juramento del Discípulo\" completada"
   },
   "406803827": {
+    "displayProperties": {
+      "description": "Larga vida al rey..."
+    },
     "progressDescription": "Incursión rotativa \"Caída del Rey\" completada"
   },
   "600986371": {
@@ -94,6 +106,12 @@
       "description": "Conviértete en la pesadilla de tu pesadilla."
     },
     "progressDescription": "Incursión \"Origen de las Pesadillas\" completada"
+  },
+  "2622593631": {
+    "displayProperties": {
+      "description": "Espera en la profundida oscuridad."
+    },
+    "progressDescription": "Incursión \"El fin de Crota\" completada"
   },
   "2039792527": {
     "displayProperties": {
@@ -126,16 +144,28 @@
     "progressDescription": "Mazmorra \"Espectros de las profundidades\" completada"
   },
   "2258905201": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Cuerdas] Cuerdas, [Solar] Solar, o [Vacío] Vacío"
+    "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
   "2050629406": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Cuerdas] Cuerdas, [Solar] Solar, o [Vacío] Vacío"
+    "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
   "3376767511": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Cuerdas] Cuerdas, [Solar] Solar, o [Vacío] Vacío"
+    "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
   "1878970132": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Cuerdas] Cuerdas, [Solar] Solar, o [Vacío] Vacío"
+    "progressDescription": "Partidas del Estandarte de Hierro completadas"
+  },
+  "1166685245": {
+    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  },
+  "2457555059": {
+    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  },
+  "3304988490": {
+    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  },
+  "3652736024": {
+    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
   },
   "275339596": {
     "progressDescription": "Contratos de los surcanubes completados"
@@ -149,29 +179,26 @@
   "2177999971": {
     "progressDescription": "Habla con Quinn Laghari"
   },
-  "1166527222": {
-    "progressDescription": "Actividades de \"Campos de Batalla de la resistencia\""
+  "209458417": {
+    "progressDescription": "Derrota a combatientes en actividades de \"La espira de Savathûn\""
   },
-  "3431014262": {
-    "progressDescription": "Actividades de \"Campos de Batalla de la resistencia\""
+  "3865635517": {
+    "progressDescription": "Derrota a combatientes en actividades de \"La espira de Savathûn\""
   },
-  "1687723774": {
-    "progressDescription": "Actividades de \"Campos de Batalla de la resistencia\""
+  "3007138885": {
+    "progressDescription": "Derrota a combatientes en actividades de \"La espira de Savathûn\""
   },
-  "3121765139": {
-    "progressDescription": "Actividades en dificultad de leyenda de \"Campos de Batalla de la resistencia\" completadas"
+  "1102817320": {
+    "progressDescription": "Actividades de \"La espira de Savathûn\" en dificultad de leyenda completadas"
   },
-  "672380795": {
-    "progressDescription": "Contratos de la mesa de guerra del C.E.L.M. completados"
+  "2939179412": {
+    "progressDescription": "Cofres de recompensa en \"Altares de Invocación\" abiertos"
   },
-  "2821863512": {
-    "progressDescription": "Regresa a la mesa de guerra del C.E.L.M."
+  "4010407132": {
+    "progressDescription": "Cofres de recompensa en \"Altares de Invocación\" abiertos"
   },
-  "1685423788": {
-    "progressDescription": "Actividades \"Recuperación\" completadas"
-  },
-  "2752231210": {
-    "progressDescription": "Actividades \"Buceo Profundo\" completedas"
+  "2601899456": {
+    "progressDescription": "Cofres de recompensa en \"Altares de Invocación\" abiertos"
   },
   "625886847": {
     "progressDescription": "Golpes finales con  o [Guja]"
