@@ -197,7 +197,27 @@
   "1616571513": {
     "displayProperties": {
       "name": "Todos a una",
-      "description": "$$DESCONOCIDO$$ [[modo:recibir]]\n\n\"Esperando instrucciones...\""
+      "description": "Cada Guardián debe enlazar un nodo de luz y otro de oscuridad antes de cada fase de daño."
+    }
+  },
+  "3636591526": {
+    "displayProperties": {
+      "description": "**Conserva** siempre el **Cáliz de Luz** antes de encender una lámpara."
+    }
+  },
+  "2768385440": {
+    "displayProperties": {
+      "description": "Cruza el puente mientras se desvanece. Coordínate con tu escuadra y controla el estado del puente adecuadamente."
+    }
+  },
+  "732074628": {
+    "displayProperties": {
+      "description": "Cada Guardián debe sostener el **Cáliz de la Luz** antes de que cualquier Guardián lo vuelva a sostener."
+    }
+  },
+  "3523029182": {
+    "displayProperties": {
+      "description": "Los Guardianes sólo pueden romper el escudo de Crota en un único intento. Lleva varias espadas."
     }
   }
 }
