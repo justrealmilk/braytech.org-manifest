@@ -223,13 +223,16 @@
   "character": {
     "displayProperties": {
       "name": "Character",
-      "description": "Review your Guardian's equipment and inventory"
+      "description": "Review your Guardian's equipment and inventory."
     },
     "keywords": [
       "inventory",
       "items",
       "equipment",
-      "stats"
+      "stats",
+      "postmaster",
+      "consumables",
+      "loadouts"
     ]
   },
   "character-equipment": {
@@ -238,25 +241,21 @@
       "description": "Evaluate your Guardian's battle readiness"
     }
   },
-  "character-postmaster": {
+  "character-inventory": {
     "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+      "name": "Inventory",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.\nMaybe they can help you with your other supplies and materials too."
     },
     "keywords": [
-      "postmaster"
+      "postmaster",
+      "inventory",
+      "consumables"
     ]
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "Consumables",
-      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
-    }
   },
   "character-vault": {
     "displayProperties": {
       "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
+      "description": "Safe storage for general items. Accessible to all your characters."
     },
     "keywords": [
       "vault"
@@ -265,7 +264,7 @@
   "character-vendors": {
     "displayProperties": {
       "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
+      "description": "Spy on your favourite task delegators and trading partners."
     },
     "keywords": [
       "vendors",
@@ -276,19 +275,19 @@
   "character-loadouts": {
     "displayProperties": {
       "name": "Loadouts",
-      "description": "Preconfigure your equipment, strap it up, and name it"
+      "description": "Preconfigure your equipment, strap it up, and name it."
     }
   },
   "quests": {
     "displayProperties": {
       "name": "Quests",
-      "description": "Track your pursuits, including quests and bounties"
+      "description": "Track your pursuits, including quests and bounties."
     }
   },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
+      "description": "All of the selected Guardian's bounties."
     },
     "keywords": [
       "bounty"
@@ -297,7 +296,7 @@
   "activity": {
     "displayProperties": {
       "name": "Activity",
-      "description": "Explore and filter your Post Game Carnage Reports in detail"
+      "description": "Explore and filter your Post Game Carnage Reports in detail."
     },
     "keywords": [
       "reports",
