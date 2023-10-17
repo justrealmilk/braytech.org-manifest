@@ -241,6 +241,12 @@
       "description": "Evaluate your Guardian's battle readiness"
     }
   },
+  "character-breakdown": {
+    "displayProperties": {
+      "name": "Breakdown",
+      "description": "An overview of your Guardian's equipment and readiness."
+    }
+  },
   "character-inventory": {
     "displayProperties": {
       "name": "Inventory",
