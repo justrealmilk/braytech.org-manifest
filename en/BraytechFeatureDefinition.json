@@ -307,6 +307,9 @@
     "children": {
       "views": [
         {
+          "viewHash": "character-breakdown"
+        },
+        {
           "viewHash": "character-inventory"
         },
         {
@@ -328,6 +331,14 @@
       "description": "Evaluate your Guardian's battle readiness"
     },
     "to": "/character"
+  },
+  "character-breakdown": {
+    "hash": "character-breakdown",
+    "displayProperties": {
+      "name": "Breakdown",
+      "description": "An overview of your Guardian's equipment and readiness."
+    },
+    "to": "/character/breakdown"
   },
   "character-inventory": {
     "hash": "character-inventory",
