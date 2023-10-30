@@ -153,6 +153,12 @@
     },
     "itemTypeDisplayName": "Stat"
   },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Unique Weapon Kills",
+      "description": "Your stats are tracked and exposed by the API via several different systems; historical stats are available for exotic weapons and track kills prior to any kill trackers being enabled."
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "Gear Power",
