@@ -562,7 +562,7 @@
     "hash": "leaderboards",
     "displayProperties": {
       "name": "Leaderboards",
-      "description": "Player ranks for dedicated Guardians"
+      "description": "Player ranks for competitive Guardians"
     },
     "to": "/leaderboards"
   },
