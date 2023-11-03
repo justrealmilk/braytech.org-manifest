@@ -1,0 +1,194 @@
+{
+  "0": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "Classified",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "6": {
+    "hash": 6,
+    "displayProperties": {
+      "name": "Auto Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "7": {
+    "hash": 7,
+    "displayProperties": {
+      "name": "Shotgun",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "8": {
+    "hash": 8,
+    "displayProperties": {
+      "name": "Machine Gun",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "9": {
+    "hash": 9,
+    "displayProperties": {
+      "name": "Hand Cannon",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "10": {
+    "hash": 10,
+    "displayProperties": {
+      "name": "Rocket Launcher",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "11": {
+    "hash": 11,
+    "displayProperties": {
+      "name": "Fusion Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "12": {
+    "hash": 12,
+    "displayProperties": {
+      "name": "Sniper Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "13": {
+    "hash": 13,
+    "displayProperties": {
+      "name": "Pulse Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "14": {
+    "hash": 14,
+    "displayProperties": {
+      "name": "Scout Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "17": {
+    "hash": 17,
+    "displayProperties": {
+      "name": "Sidearm",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "18": {
+    "hash": 18,
+    "displayProperties": {
+      "name": "Sword",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "21": {
+    "hash": 21,
+    "displayProperties": {
+      "name": "Ornament",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "22": {
+    "hash": 22,
+    "displayProperties": {
+      "name": "Linear Fusion Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "23": {
+    "hash": 23,
+    "displayProperties": {
+      "name": "Grenade Launcher",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "24": {
+    "hash": 24,
+    "displayProperties": {
+      "name": "Submachine Gun",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "25": {
+    "hash": 25,
+    "displayProperties": {
+      "name": "Trace Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "26": {
+    "hash": 26,
+    "displayProperties": {
+      "name": "Helmet",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "27": {
+    "hash": 27,
+    "displayProperties": {
+      "name": "Gauntlets",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "28": {
+    "hash": 28,
+    "displayProperties": {
+      "name": "Chest Armor",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "29": {
+    "hash": 29,
+    "displayProperties": {
+      "name": "Leg Armor",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "30": {
+    "hash": 30,
+    "displayProperties": {
+      "name": "Class Items",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "31": {
+    "hash": 31,
+    "displayProperties": {
+      "name": "Combat Bow",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "33": {
+    "hash": 33,
+    "displayProperties": {
+      "name": "Glaive",
+      "description": "",
+      "icon": ""
+    }
+  }
+}

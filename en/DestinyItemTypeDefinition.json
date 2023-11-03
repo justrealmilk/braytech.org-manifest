@@ -1,0 +1,162 @@
+{
+  "1": {
+    "hash": 1,
+    "displayProperties": {
+      "name": "Material",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "2": {
+    "hash": 2,
+    "displayProperties": {
+      "name": "Gauntlets",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "3": {
+    "hash": 3,
+    "displayProperties": {
+      "name": "Fusion Rifle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "8": {
+    "hash": 8,
+    "displayProperties": {
+      "name": "Engram",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "9": {
+    "hash": 9,
+    "displayProperties": {
+      "name": "Redeemable",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "12": {
+    "hash": 12,
+    "displayProperties": {
+      "name": "Quest Step",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "14": {
+    "hash": 14,
+    "displayProperties": {
+      "name": "Emblem",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "15": {
+    "hash": 15,
+    "displayProperties": {
+      "name": "Quest",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "16": {
+    "hash": 16,
+    "displayProperties": {
+      "name": "Warlock Subclass",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "17": {
+    "hash": 17,
+    "displayProperties": {
+      "name": "Clan Banner",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "19": {
+    "hash": 19,
+    "displayProperties": {
+      "name": "Classified",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "21": {
+    "hash": 21,
+    "displayProperties": {
+      "name": "Ship",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "22": {
+    "hash": 22,
+    "displayProperties": {
+      "name": "Vehicle",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "23": {
+    "hash": 23,
+    "displayProperties": {
+      "name": "Emote",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "24": {
+    "hash": 24,
+    "displayProperties": {
+      "name": "Ghost Shell",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "25": {
+    "hash": 25,
+    "displayProperties": {
+      "name": "Package",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "26": {
+    "hash": 26,
+    "displayProperties": {
+      "name": "Daily Bounty",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "28": {
+    "hash": 28,
+    "displayProperties": {
+      "name": "Seasonal Artifact",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "29": {
+    "hash": 29,
+    "displayProperties": {
+      "name": "Finisher",
+      "description": "",
+      "icon": ""
+    }
+  },
+  "30": {
+    "hash": 30,
+    "displayProperties": {
+      "name": "Pattern",
+      "description": "",
+      "icon": ""
+    }
+  }
+}

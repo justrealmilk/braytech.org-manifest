@@ -1,0 +1,122 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Classified"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Auto Rifle"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Shotgun"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Machine Gun"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Hand Cannon"
+    }
+  },
+  "10": {
+    "displayProperties": {
+      "name": "Rocket Launcher"
+    }
+  },
+  "11": {
+    "displayProperties": {
+      "name": "Fusion Rifle"
+    }
+  },
+  "12": {
+    "displayProperties": {
+      "name": "Sniper Rifle"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Pulse Rifle"
+    }
+  },
+  "14": {
+    "displayProperties": {
+      "name": "Scout Rifle"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "name": "Sidearm"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "name": "Sword"
+    }
+  },
+  "21": {
+    "displayProperties": {
+      "name": "Ornament"
+    }
+  },
+  "22": {
+    "displayProperties": {
+      "name": "Linear Fusion Rifle"
+    }
+  },
+  "23": {
+    "displayProperties": {
+      "name": "Grenade Launcher"
+    }
+  },
+  "24": {
+    "displayProperties": {
+      "name": "Submachine Gun"
+    }
+  },
+  "25": {
+    "displayProperties": {
+      "name": "Trace Rifle"
+    }
+  },
+  "26": {
+    "displayProperties": {
+      "name": "Helmet"
+    }
+  },
+  "27": {
+    "displayProperties": {
+      "name": "Gauntlets"
+    }
+  },
+  "28": {
+    "displayProperties": {
+      "name": "Chest Armor"
+    }
+  },
+  "29": {
+    "displayProperties": {
+      "name": "Leg Armor"
+    }
+  },
+  "30": {
+    "displayProperties": {
+      "name": "Class Items"
+    }
+  },
+  "31": {
+    "displayProperties": {
+      "name": "Combat Bow"
+    }
+  },
+  "33": {
+    "displayProperties": {
+      "name": "Glaive"
+    }
+  }
+}

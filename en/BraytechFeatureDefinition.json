@@ -300,14 +300,17 @@
     "hash": "character",
     "displayProperties": {
       "name": "Character",
-      "description": "Review your Guardian's equipment and inventory"
+      "description": "Review your Guardian's equipment and inventory."
     },
     "to": "/character",
-    "keywords": ["inventory", "items", "equipment", "stats"],
+    "keywords": ["inventory", "items", "equipment", "stats", "postmaster", "consumables", "loadouts"],
     "children": {
       "views": [
         {
-          "viewHash": "character-postmaster"
+          "viewHash": "character-breakdown"
+        },
+        {
+          "viewHash": "character-inventory"
         },
         {
           "viewHash": "character-vault"
@@ -329,28 +332,28 @@
     },
     "to": "/character"
   },
-  "character-postmaster": {
-    "hash": "character-postmaster",
+  "character-breakdown": {
+    "hash": "character-breakdown",
     "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
+      "name": "Breakdown",
+      "description": "An overview of your Guardian's equipment and readiness."
     },
-    "to": "/character/bucket/postmaster",
-    "keywords": ["postmaster"]
+    "to": "/character/breakdown"
   },
-  "character-consumables": {
-    "hash": "character-consumables",
+  "character-inventory": {
+    "hash": "character-inventory",
     "displayProperties": {
-      "name": "Consumables",
-      "description": "Supplies and materials that can be used to enhance your Guardian and their gear"
+      "name": "Inventory",
+      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.\nMaybe they can help you with your other supplies and materials too."
     },
-    "to": "/character/consumables"
+    "to": "/character/inventory",
+    "keywords": ["postmaster", "inventory", "consumables"]
   },
   "character-vault": {
     "hash": "character-vault",
     "displayProperties": {
       "name": "Vault",
-      "description": "Safe storage for general items. Accessible to all your characters"
+      "description": "Safe storage for general items. Accessible to all your characters."
     },
     "to": "/character/vault",
     "keywords": ["vault"]
@@ -359,7 +362,7 @@
     "hash": "character-vendors",
     "displayProperties": {
       "name": "Vendors",
-      "description": "Spy on your favourite task delegators and trading partners"
+      "description": "Spy on your favourite task delegators and trading partners."
     },
     "to": "/character/vendors",
     "keywords": ["vendors", "bright dust calendar", "eververse calendar"]
@@ -368,7 +371,7 @@
     "hash": "character-loadouts",
     "displayProperties": {
       "name": "Loadouts",
-      "description": "Preconfigure your equipment, strap it up, and name it"
+      "description": "Preconfigure your equipment, strap it up, and name it."
     },
     "to": "/character/loadouts"
   },
@@ -376,7 +379,7 @@
     "hash": "quests",
     "displayProperties": {
       "name": "Quests",
-      "description": "Track your pursuits, including quests and bounties"
+      "description": "Track your pursuits, including quests and bounties."
     },
     "to": "/quests/all",
     "children": {
@@ -391,7 +394,7 @@
     "hash": "quests-bounties",
     "displayProperties": {
       "name": "Bounties",
-      "description": "All of the selected Guardian's bounties"
+      "description": "All of the selected Guardian's bounties."
     },
     "to": "/quests",
     "keywords": ["bounty"]
@@ -400,7 +403,7 @@
     "hash": "activity",
     "displayProperties": {
       "name": "Activity",
-      "description": "Explore and filter your Post Game Carnage Reports in detail"
+      "description": "Explore and filter your Post Game Carnage Reports in detail."
     },
     "to": "/activity",
     "keywords": ["reports", "pgcr", "raids", "lost sectors", "nightfalls", "strikes", "crucible", "trials", "competitive", "matches", "reputation", "ranks"],
@@ -559,7 +562,7 @@
     "hash": "leaderboards",
     "displayProperties": {
       "name": "Leaderboards",
-      "description": "Player ranks for dedicated Guardians"
+      "description": "Player ranks for competitive Guardians"
     },
     "to": "/leaderboards"
   },
