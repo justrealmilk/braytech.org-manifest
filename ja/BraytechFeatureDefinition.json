@@ -185,7 +185,7 @@
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
-      "description": "すべてのアクティビティの挑戦"
+      "description": "利用可能なすべてのアクティビティチャレンジ、アクティブな評価ボーナス、シーズンパスの厳選されたリスト"
     },
     "keywords": [
       "ウィークリー",
@@ -207,7 +207,7 @@
   "weeklies-rotations": {
     "displayProperties": {
       "name": "ローテーション",
-      "description": "これからのアクティビティの予定を占う"
+      "description": "ローテーションで繰り返す周回イベントを予測して、計画を立てやすくします。このローテーションは「設計者」によって変えられることがありますが、都度更新されていきます。"
     },
     "keywords": [
       "ナイトフォール",
@@ -229,7 +229,10 @@
       "所持品",
       "アイテム",
       "装備",
-      "ステータス"
+      "ステータス",
+      "ポストマスター",
+      "消費アイテム",
+      "ロードアウト"
     ]
   },
   "character-equipment": {
@@ -238,20 +241,22 @@
       "description": "ガーディアンの戦闘態勢を確認します"
     }
   },
-  "character-postmaster": {
+  "character-breakdown": {
     "displayProperties": {
-      "name": "ポストマスター",
-      "description": "ポストマスターは、配達物やメッセージ、落し物などを丁寧に管理します。"
+      "name": "詳細",
+      "description": "現在装備中のアイテム概要"
+    }
+  },
+  "character-inventory": {
+    "displayProperties": {
+      "name": "所持品",
+      "description": "ポストマスターは、配達物や伝言、落し物などをきちんと管理しています。\n入手しそこねた備品や資材の調達も手伝っているかもしれません。"
     },
     "keywords": [
-      "ポストマスター"
+      "ポストマスター",
+      "所持品",
+      "消費アイテム"
     ]
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "消耗品",
-      "description": "ガーディアンと装備を強化するために使用できる消耗品や素材"
-    }
   },
   "character-vault": {
     "displayProperties": {
@@ -297,7 +302,7 @@
   "activity": {
     "displayProperties": {
       "name": "アクティビティ",
-      "description": "戦いの詳細レポートとフィルタリング"
+      "description": "プレイしたアクティビティを振り返るための詳細レポート"
     },
     "keywords": [
       "レポート",
@@ -323,7 +328,7 @@
   "activity-bookmarks": {
     "displayProperties": {
       "name": "ブックマーク",
-      "description": "ブックマークしたアクティビティ"
+      "description": "勝利と感動、そして落胆の記録。\n\nブックマークに追加したすべての活動がここにある。背筋を伸ばして、栄光のガーディアンであれ。"
     },
     "keywords": [
       "レポート",
@@ -416,7 +421,7 @@
   "faq": {
     "displayProperties": {
       "name": "よくある質問",
-      "description": "Tom（Braytech開発者）お気に入りのよくある質問"
+      "description": "よく質問される中で、すぐに回答できるもの"
     },
     "keywords": [
       "FAQ",
@@ -439,13 +444,13 @@
   "leaderboards": {
     "displayProperties": {
       "name": "リーダーボード",
-      "description": "熱心なガーディアンのためのプレイヤーランキング"
+      "description": "競い合うガーディアンのためのプレイヤーランキング"
     }
   },
   "fireteam-monitor": {
     "displayProperties": {
       "name": "ファイアチームモニター",
-      "description": "_あなた_ こそがチームの司令塔になる時です"
+      "description": "今こそあなたがチームの司令塔になる時です"
     }
   }
 }

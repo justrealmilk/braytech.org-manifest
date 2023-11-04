@@ -153,6 +153,12 @@
     },
     "itemTypeDisplayName": "ステータス"
   },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "特別な武器でのキル数",
+      "description": "プレイした記録の一部はいくつかの異なるシステムを介してAPIによって取得され、利用されています。過去の記録はエキゾチックな武器の情報を利用して、キルトラッカーが有効になる前のキル数を追跡ができます。"
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "装備パワー",
