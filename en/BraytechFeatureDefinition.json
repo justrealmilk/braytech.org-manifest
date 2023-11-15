@@ -489,6 +489,9 @@
         },
         {
           "viewHash": "settings-push-notifications"
+        },
+        {
+          "viewHash": "settings-referrals"
         }
       ]
     }
@@ -516,6 +519,14 @@
       "description": "Control how Braytech reaches you when you're not using it."
     },
     "to": "/settings/push-notifications"
+  },
+  "settings-referrals": {
+    "hash": "settings-referrals",
+    "displayProperties": {
+      "name": "Referrals",
+      "description": "Introduce your friends and family to Braytech."
+    },
+    "to": "/settings/referrals"
   },
   "legend": {
     "hash": "legend",
