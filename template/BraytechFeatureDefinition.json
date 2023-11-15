@@ -406,6 +406,12 @@
       "description": "Control how Braytech reaches you when you're not using it."
     }
   },
+  "settings-referrals": {
+    "displayProperties": {
+      "name": "Referrals",
+      "description": "Introduce your friends and family to Braytech."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
