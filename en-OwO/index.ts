@@ -24,7 +24,6 @@ import DestinyPhaseDefinition from '@Data/manifest/en-OwO/DestinyPhaseDefinition
 import DestinyPresentationNodeDefinition from '@Data/manifest/en-OwO/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/en-OwO/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/en-OwO/DestinySeasonDefinition.json';
-import DestinySocketCategoryDefinition from '@Data/manifest/en-OwO/DestinySocketCategoryDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/en-OwO/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/en-OwO/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/en-OwO/DestinyTraitDefinition.json';
@@ -60,7 +59,6 @@ const enOwO = {
     DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
-    DestinySocketCategoryDefinition,
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
