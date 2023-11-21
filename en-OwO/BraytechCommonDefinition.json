@@ -126,13 +126,6 @@
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-translator": {
-    "displayProperties": {
-      "description": "_A genewous twanswatow of Bwaytech._",
-      "name": "Cwyptawch"
-    },
-    "itemTypeDisplayName": "Bwaytech Twanswatow"
-  },
   "flair-developer": {
     "displayProperties": {
       "description": "_Cweatow of Bwaytech._\nThis pwayew cweated da app thwough which uu'we weading this toowtip."
@@ -143,6 +136,13 @@
     "displayProperties": {
       "description": "_Uu'we my wittwe pogchamp, Guawdian._ 🌞",
       "name": "\"I made this fow uu\""
+    },
+    "itemTypeDisplayName": "Speciaw"
+  },
+  "flair-icicle": {
+    "displayProperties": {
+      "description": "\"I annoyed Tom and aww I got was this stupid medaw\"",
+      "name": "Icicwe#6310"
     },
     "itemTypeDisplayName": "Speciaw"
   },
@@ -172,6 +172,13 @@
       "name": "\"We found this, fow uu...\""
     },
     "itemTypeDisplayName": "Speciaw"
+  },
+  "flair-translator": {
+    "displayProperties": {
+      "description": "_A genewous twanswatow of Bwaytech._",
+      "name": "Cwyptawch"
+    },
+    "itemTypeDisplayName": "Bwaytech Twanswatow"
   },
   "interval-score": {
     "displayProperties": {
@@ -357,6 +364,12 @@
     "displayProperties": {
       "description": "Aww seasons' wesets. Twacks fwom Season 4 onwawd.",
       "name": "Totaw wesets"
+    }
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "description": "Uuw stats awe twacked and exposed by *sweats* da API via sevewaw diffewent systems; histowicaw stats awe avaiwabwe fow exotic weapons and twack kiwws pwiow to any kiww *bwushes* twackews being enabwed.",
+      "name": "Unique Weapon Kiwws"
     }
   }
 }

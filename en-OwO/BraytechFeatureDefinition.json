@@ -1,7 +1,7 @@
 {
   "activity": {
     "displayProperties": {
-      "description": "Expwowe and *wuns away* fiwtew uuw Post Game Cawnage Wepowts in detaiw"
+      "description": "Expwowe and fiwtew uuw Post Game Cawnage Wepowts in detaiw."
     }
   },
   "activity-bookmarks": {
@@ -36,14 +36,14 @@
   },
   "character": {
     "displayProperties": {
-      "description": "Weview uuw Guawdian's equipment and inventowy",
+      "description": "Weview uuw Guawdian's equipment and inventowy.",
       "name": "Chawactew"
     }
   },
-  "character-consumables": {
+  "character-breakdown": {
     "displayProperties": {
-      "description": "Suppwies and matewiaws that can be used to enhance uuw Guawdian and theiw geaw",
-      "name": "Consumabwes"
+      "description": "An ovewview of uuw Guawdian's equipment and weadiness.",
+      "name": "Bweakdown"
     }
   },
   "character-equipment": {
@@ -51,27 +51,27 @@
       "description": "Evawuate uuw Guawdian's battwe weadiness"
     }
   },
-  "character-loadouts": {
+  "character-inventory": {
     "displayProperties": {
-      "description": "Pweconfiguwe uuw equipment, stwap it up, and name it",
-      "name": "Woadouts"
+      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items.\nMaybe they can hewp uu with uuw othew suppwies and matewiaws too.",
+      "name": "Inventowy"
     }
   },
-  "character-postmaster": {
+  "character-loadouts": {
     "displayProperties": {
-      "description": "Postmastew Fwames dutifuwwy ovewsee dewivewies, messages, and wost items",
-      "name": "Postmastew"
+      "description": "Pweconfiguwe uuw equipment, stwap it up, and name it.",
+      "name": "Woadouts"
     }
   },
   "character-vault": {
     "displayProperties": {
-      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews",
+      "description": "Safe stowage fow genewaw items. Accessibwe to aww uuw chawactews.",
       "name": "Vauwt"
     }
   },
   "character-vendors": {
     "displayProperties": {
-      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews",
+      "description": "Spy on uuw favouwite task dewegatows and twading pawtnews.",
       "name": "Vendows"
     }
   },
@@ -212,12 +212,12 @@
   },
   "quests": {
     "displayProperties": {
-      "description": "Twack uuw puwsuits, incwuding quests and bounties"
+      "description": "Twack uuw puwsuits, incwuding quests and bounties."
     }
   },
   "quests-bounties": {
     "displayProperties": {
-      "description": "Aww of da sewected Guawdian's bounties"
+      "description": "Aww of da sewected Guawdian's bounties."
     }
   },
   "settings": {
@@ -238,6 +238,12 @@
   "settings-push-notifications": {
     "displayProperties": {
       "description": "Contwow how Bwaytech weaches uu when uu'we not using it."
+    }
+  },
+  "settings-referrals": {
+    "displayProperties": {
+      "description": "Intwoduce uuw fwiends and famiwy to Bwaytech.",
+      "name": "Wefewwaws"
     }
   },
   "triumphs": {
