@@ -242,6 +242,15 @@
       "alpha": 255
     }
   },
+  "1100359214": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 96,
+      "green": 112,
+      "blue": 134,
+      "alpha": 255
+    }
+  },
   "1177466224": {
     "backgroundColor": {
       "colorHash": 0,
@@ -356,6 +365,15 @@
       "red": 64,
       "green": 64,
       "blue": 69,
+      "alpha": 255
+    }
+  },
+  "1907007852": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 71,
+      "green": 31,
+      "blue": 50,
       "alpha": 255
     }
   },
@@ -542,9 +560,9 @@
   "2746759135": {
     "backgroundColor": {
       "colorHash": 0,
-      "red": 18,
-      "green": 18,
-      "blue": 18,
+      "red": 17,
+      "green": 17,
+      "blue": 17,
       "alpha": 255
     }
   },
@@ -590,6 +608,15 @@
       "red": 17,
       "green": 26,
       "blue": 19,
+      "alpha": 255
+    }
+  },
+  "3022477225": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 18,
+      "green": 18,
+      "blue": 18,
       "alpha": 255
     }
   },
