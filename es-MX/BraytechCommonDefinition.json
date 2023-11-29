@@ -153,6 +153,12 @@
     },
     "itemTypeDisplayName": "Estadística"
   },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Bajas únicas con arma",
+      "description": "Tus estadísticas se rastrean y se muestran en la API a través de varios sistemas diferentes; las estadísticas históricas están disponibles para armas exóticas y rastrean las bajas antes de que se activen los rastreadores de bajas."
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "Potencia del equipamiento",
