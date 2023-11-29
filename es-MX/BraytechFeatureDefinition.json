@@ -229,7 +229,10 @@
       "inventario",
       "objetos",
       "equipamiento",
-      "estadísticas"
+      "estadísticas",
+      "administración",
+      "consumibles",
+      "conjuntos"
     ]
   },
   "character-equipment": {
@@ -238,20 +241,22 @@
       "description": "Evalúa si tu Guardián está preparado para la batalla."
     }
   },
-  "character-postmaster": {
+  "character-breakdown": {
     "displayProperties": {
-      "name": "Administración",
-      "description": "Los androides de Administración supervisan rigurosamente las entregas, los mensajes y los objetos perdidos."
+      "name": "Desglose",
+      "description": "Una visión general del equipamiento y la preparación de tu Guardián."
+    }
+  },
+  "character-inventory": {
+    "displayProperties": {
+      "name": "Inventario",
+      "description": "Los androides de Administración supervisan diligentemente las entregas, los mensajes y los objetos perdidos."
     },
     "keywords": [
-      "administración"
+      "administración",
+      "inventario",
+      "consumibles"
     ]
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "Consumibles",
-      "description": "Suministros y materiales que pueden utilizarse para mejorar a tu Guardián y su equipo."
-    }
   },
   "character-vault": {
     "displayProperties": {
@@ -399,6 +404,12 @@
     "displayProperties": {
       "name": "Notificaciones push",
       "description": "Controla cómo Braytech te envía datos cuando no lo estás usando."
+    }
+  },
+  "settings-referrals": {
+    "displayProperties": {
+      "name": "Recomienda a un amigo",
+      "description": "Recomienda Braytech a tus amigos y familiares."
     }
   },
   "legend": {

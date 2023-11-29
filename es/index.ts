@@ -16,6 +16,8 @@ import DestinyDestinationDefinition from '@Data/manifest/es/DestinyDestinationDe
 import DestinyHistoricalStatsDefinition from '@Data/manifest/es/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/es/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/es/DestinyInventoryItemDefinition.json';
+import DestinyItemSubTypeDefinition from '@Data/manifest/es/DestinyItemSubTypeDefinition.json';
+import DestinyItemTypeDefinition from '@Data/manifest/es/DestinyItemTypeDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/es/DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/es/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/es/DestinyPhaseDefinition.json';
@@ -46,6 +48,8 @@ const es = {
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyItemSubTypeDefinition,
+    DestinyItemTypeDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
