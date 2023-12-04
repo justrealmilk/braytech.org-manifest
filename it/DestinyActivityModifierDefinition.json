@@ -196,7 +196,28 @@
   },
   "1616571513": {
     "displayProperties": {
-      "name": "Per tutti"
+      "name": "Per tutti",
+      "description": "Ogni Guardiano deve collegare un nodo di luce e uno di oscurità prima di ogni fase di danno."
+    }
+  },
+  "3636591526": {
+    "displayProperties": {
+      "description": "**Conserva** sempre il **Calice di Luce** prima di accendere una lampada."
+    }
+  },
+  "2768385440": {
+    "displayProperties": {
+      "description": "Attraversa il ponte mentre sta svanendo. Coordinati con la tua squadra e, detto ciò, controlla lo stato del ponte."
+    }
+  },
+  "732074628": {
+    "displayProperties": {
+      "description": "Ogni Guardiano deve prendere il **Calice della Luce** prima che qualsiasi altro Guardiano lo prenda la volta successiva."
+    }
+  },
+  "3523029182": {
+    "displayProperties": {
+      "description": "I Guardiani possono rompere lo scudo di Crota solo in un singolo tentativo. Porta più spade."
     }
   }
 }

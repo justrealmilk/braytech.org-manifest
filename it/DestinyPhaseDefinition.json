@@ -184,5 +184,29 @@
       "name": "Nezarec",
       "description": "Metti fine all'incubo e sconfiggi Nezarec"
     }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "Abisso",
+      "description": "Segui la luce."
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "Ponte",
+      "description": "Attraversa il ponte e arrampicati sul Trono."
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "Ir Yût, la Cantamorte",
+      "description": "Abbatti la strega, metti a tacere il suo Canto della morte."
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "Crota, Figlio di Oryx",
+      "description": "Sconfiggi il Figlio di Oryx."
+    }
   }
 }
