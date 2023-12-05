@@ -20,6 +20,21 @@
     },
     "itemTypeDisplayName": "记忆水晶"
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "提升你的守护者恶行等级。别跟先锋队提这件事。"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "合成丝线，可通过编织机转换为用于护甲幻化的合成纤维。"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "提升你的守护者的英勇等级，同时这可能会让沙克斯兴奋起来。"
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "提升你的公会等级。"
@@ -28,29 +43,14 @@
       "tierTypeName": "常见"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "提升你的守护者恶行等级。别跟先锋队提这件事。"
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "大幅提升账号赛季等级。"
     }
   },
-  "1190250163": {
-    "displayProperties": {
-      "description": "合成丝线，可通过编织机转换为用于护甲幻化的合成纤维。"
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "极大幅度提升账号赛季等级。"
-    }
-  },
-  "1808687944": {
-    "displayProperties": {
-      "description": "提升你的守护者的英勇等级，同时这可能会让沙克斯兴奋起来。"
     }
   },
   "1858002338": {
@@ -92,14 +92,14 @@
       "description": "大幅提升账号赛季等级。"
     }
   },
-  "2497395625": {
-    "displayProperties": {
-      "description": "用于武器塑形的材料，调整武器特性插槽时需要用到此材料。\n\n主要通过拆解紫色武器获取，完成活动时也可以获得该材料作为奖励。"
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "极大幅度提升账号赛季等级。"
     }
   },
   "3491404510": {
@@ -108,9 +108,9 @@
     },
     "itemTypeDisplayName": "材料"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "极大幅度提升账号赛季等级。"
+      "description": "用于武器塑形的材料，调整武器特性插槽时需要用到此材料。\n\n主要通过拆解紫色武器获取，完成活动时也可以获得该材料作为奖励。"
     }
   },
   "23239861010": {

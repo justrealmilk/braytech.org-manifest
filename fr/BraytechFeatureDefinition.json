@@ -158,12 +158,6 @@
       "modules"
     ]
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "Cette semaine",
-      "description": "Cette semaine dans Destiny"
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Défis",
@@ -217,21 +211,6 @@
     "displayProperties": {
       "name": "Équipement",
       "description": "Évaluez l'état de préparation au combat de votre gardien"
-    }
-  },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Commis des Postes",
-      "description": "Les cadres du commis des postes surveillent consciencieusement les livraisons, les messages et les objets perdus"
-    },
-    "keywords": [
-      "commis des postes"
-    ]
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "Consommables",
-      "description": "Fournitures et matériaux pouvant être utilisés pour améliorer votre gardien et son équipement"
     }
   },
   "character-vault": {

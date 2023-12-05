@@ -6,6 +6,21 @@
     },
     "itemTypeDisplayName": "Unzureichende Freigabe"
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Synthetikstränge die mit dem Weber in Synthetikgewebe umgewandelt werden können."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Erhöht den Schmelztiegel-Rang deines Hüters. Es könnte zusätzlich dazu führen, dass Lord Shaxx sich freut."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Clans"
@@ -14,29 +29,14 @@
       "tierTypeName": "Gewöhnlich"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "Increases your Guardian's Infamy rank. Don't tell the Vanguard."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters beträchtlich."
     }
   },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Synthetikstränge die mit dem Weber in Synthetikgewebe umgewandelt werden können."
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters enorm."
-    }
-  },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Erhöht den Schmelztiegel-Rang deines Hüters. Es könnte zusätzlich dazu führen, dass Lord Shaxx sich freut."
     }
   },
   "1858002338": {
@@ -60,14 +60,14 @@
       "description": "Erhöht die Erfahrung deines Hüters erheblich."
     }
   },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird und zum Anpassen von intrinsischen Verbindungen benötigt wird.\n\nWird hauptsächlich durch das Zerlegen legendärer Waffen erhalten, kann aber auch für das Abschließen von Aktivitäten belohnt werden."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters erheblich."
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Wächters erheblich."
     }
   },
   "3491404510": {
@@ -76,9 +76,9 @@
     },
     "itemTypeDisplayName": "Material"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Wächters erheblich."
+      "description": "Material, das bei der Waffenformung verwendet wird und zum Anpassen von intrinsischen Verbindungen benötigt wird.\n\nWird hauptsächlich durch das Zerlegen legendärer Waffen erhalten, kann aber auch für das Abschließen von Aktivitäten belohnt werden."
     }
   },
   "23239861010": {

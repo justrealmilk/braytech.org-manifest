@@ -119,12 +119,6 @@
       "description": "守护者的每周成就与挑战指南"
     }
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "本周",
-      "description": "查看本周的命运"
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "挑战",
@@ -153,18 +147,6 @@
     "displayProperties": {
       "name": "装备",
       "description": "检查你的守护者是否为下一场战斗做好充分准备"
-    }
-  },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "邮政长",
-      "description": "邮政长机器人尽责尽职的保管着你的礼物物品、邮件和遗失物品"
-    }
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "消耗品",
-      "description": "用于提升你的守护者和账号里的所有装备的补给品和材料"
     }
   },
   "character-vault": {
