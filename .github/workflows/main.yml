@@ -37,10 +37,10 @@ jobs:
             git push -f origin master
           fi
 
-  clean-files:
+  clean-sort:
     needs: make-template
     
-    name: Clean files
+    name: Clean and sort files
 
     runs-on: ubuntu-latest
 
@@ -56,17 +56,31 @@ jobs:
           distribution: oracle
           java-version: 17
 
-      - name: Compile and run java
-        run: |
-          chmod +x "./.github/compile_run.sh"
-          "./.github/compile_run.sh" clean
+      - name: Give permissions
+        run: chmod +x "./.github/compile_run.sh"
 
-      - name: Commit & push
+      - name: Run clean
+        run:  ./.github/compile_run.sh clean
+      
+      - name: Commit & push clean
         run: |
           git config --local user.name actions-user
           git config --local user.email "actions@github.com"
           if ! git diff --exit-code; then
             git add -A
             git commit -m "Clean files action"
+            git push -f origin master
+          fi
+      
+      - name: Run sort
+        run: ./.github/compile_run.sh sort
+
+      - name: Commit & push sort
+        run: |
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          if ! git diff --exit-code; then
+            git add -A
+            git commit -m "Sort files action"
             git push -f origin master
           fi
