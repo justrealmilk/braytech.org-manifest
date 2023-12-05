@@ -107,12 +107,6 @@
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "Diese Woche",
-      "description": "Diese Woche in Destiny"
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Herausforderungen",
@@ -141,18 +135,6 @@
     "displayProperties": {
       "name": "Ausrüstung",
       "description": "Prüfe die Kampfbereitschaft deines Hüters"
-    }
-  },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Poststelle",
-      "description": "Droiden der Poststelle kümmern sich pflichtbewusst um Lieferungen, Nachrichten und Fundsachen"
-    }
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "Verbrauchsgegenstände",
-      "description": "Vorräte und Materialien, die zum Verbessern deines Hüters und seiner Ausrüstung genutzt werden können"
     }
   },
   "character-vault": {

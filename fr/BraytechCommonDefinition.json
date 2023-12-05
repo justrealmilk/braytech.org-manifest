@@ -193,6 +193,12 @@
       "description": "Supprimez ce signet.\nSi elle est activée, cette action se synchronise avec votre profil Braytech et sera répercutée partout où vous utilisez l'application."
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "Score de Triomphe actif",
+      "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Score de Triomphe du passé",
@@ -203,12 +209,6 @@
     "displayProperties": {
       "name": "Score de Triomphe total",
       "description": "Une combinaison de tous les scores Triomphe actifs et du passé terminés."
-    }
-  },
-  "active-triumph-score": {
-    "displayProperties": {
-      "name": "Score de Triomphe actif",
-      "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
     }
   },
   "total-resets": {
@@ -227,12 +227,6 @@
     "displayProperties": {
       "name": "Mémoires perdues",
       "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "Synchronisation DIM requise",
-      "description": "Cette fonctionnalité nécessite la _Synchronisation DIM_.\n\nActivez le service dans _Paramètres_."
     }
   },
   "tooltip-error": {

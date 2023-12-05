@@ -6,14 +6,14 @@
     },
     "itemTypeDisplayName": "권한 부족"
   },
-  "304443327": {
-    "displayProperties": {
-      "description": "클랜의 XP를 증가시킵니다."
-    }
-  },
   "1808687944": {
     "displayProperties": {
       "description": "수호자의 용맹 점수를 증가시킵니다. 또한, 이건 살라딘 경을 흥분시킬 수도 있습니다."
+    }
+  },
+  "304443327": {
+    "displayProperties": {
+      "description": "클랜의 XP를 증가시킵니다."
     }
   },
   "1858002338": {

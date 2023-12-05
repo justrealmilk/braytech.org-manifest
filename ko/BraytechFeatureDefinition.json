@@ -71,12 +71,6 @@
       "description": "수호자의 장비와 인벤토리를 확인합니다."
     }
   },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
   "character-vault": {
     "displayProperties": {
       "name": "Vault",

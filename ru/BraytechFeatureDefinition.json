@@ -71,12 +71,6 @@
       "description": "Проверьте снаряжение и инвентарь вашего Стража"
     }
   },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
   "character-vault": {
     "displayProperties": {
       "name": "Vault",
