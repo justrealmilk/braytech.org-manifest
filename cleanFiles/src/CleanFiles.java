@@ -51,7 +51,7 @@ public class CleanFiles {
      * Doing so, any outdated property will be removed as it won't be present in
      * template.
      * Note: missing properties (not translated) will still not be copied over as
-     * doing this will make untraslated properties undistriguishable from translated
+     * doing this will make untraslated properties undistiguishable from translated
      * ones.
      */
     if (args[0].equals("sort")) {
