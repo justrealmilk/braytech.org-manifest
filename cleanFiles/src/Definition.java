@@ -7,223 +7,81 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Collectors;
-
 import com.google.gson.reflect.TypeToken;
 
-public class Definition {
-    interface JsonObject {
-        public boolean isEmpty();
+public class Definition implements JsonObject {
 
-        public JsonObject removeEmptyFields();
-    }
+  public static final PathMatcher DEF_MATCHER = FileSystems.getDefault()
+      .getPathMatcher("regex:^(?!.*Colloquial|dynamic).*\\.json$");
+  public static final Type DEF_TYPE = new TypeToken<Map<String, Property>>() {
+  }.getType();
 
-    static class Property implements JsonObject {
-        private DisplayProperties displayProperties;
-        private DisplayProperties originalDisplayProperties;
-        private Entry entry;
-        private String sourceString;
-        private String statName;
-        private String statNameAlt;
-        private String statNameAbbr;
-        private String statDescription;
-        private String itemTypeDisplayName;
-        private String displaySource;
-        private String substring;
-        private String progressDescription;
-        private com.google.gson.JsonArray bubbles;
-        private com.google.gson.JsonArray keywords;
-        private Inventory inventory;
-        private Extended extended;
+  private String lang;
+  private String fileName;
+  private final Map<String, Property> properties;
 
-        @Override
-        public boolean isEmpty() {
-            return (displayProperties == null || displayProperties.isEmpty())
-                    && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
-                    && (entry == null || entry.isEmpty())
-                    && (sourceString == null || sourceString.isBlank()) && (statName == null || statName.isBlank())
-                    && (statNameAlt == null || statNameAlt.isBlank())
-                    && (statNameAbbr == null || statNameAbbr.isBlank())
-                    && (statDescription == null || statDescription.isBlank())
-                    && (itemTypeDisplayName == null || itemTypeDisplayName.isBlank())
-                    && (displaySource == null || displaySource.isBlank()) && (substring == null || substring.isBlank())
-                    && (progressDescription == null || progressDescription.isBlank())
-                    && (bubbles == null || bubbles.isJsonNull())
-                    && (keywords == null || keywords.isJsonNull())
-                    && (inventory == null || inventory.isEmpty())
-                    && (extended == null || extended.isEmpty());
-        }
+  public Definition(String lang, String fileName, final Map<String, Property> properties) {
+    this.lang = lang;
+    this.fileName = fileName;
+    this.properties = properties;
+  }
 
-        @Override
-        public Property removeEmptyFields() {
-            displayProperties = (DisplayProperties) removeEmptyObj(displayProperties);
-            originalDisplayProperties = (DisplayProperties) removeEmptyObj(originalDisplayProperties);
-            entry = (Entry) removeEmptyObj(entry);
-            sourceString = removeEmptyString(sourceString);
-            statName = removeEmptyString(statName);
-            statNameAlt = removeEmptyString(statNameAlt);
-            statNameAbbr = removeEmptyString(statNameAbbr);
-            statDescription = removeEmptyString(statDescription);
-            itemTypeDisplayName = removeEmptyString(itemTypeDisplayName);
-            displaySource = removeEmptyString(displaySource);
-            substring = removeEmptyString(substring);
-            progressDescription = removeEmptyString(progressDescription);
-            inventory = (Inventory) removeEmptyObj(inventory);
-            extended = (Extended) removeEmptyObj(extended);
-            return this;
-        }
+  public Definition(Path defPath, final Map<String, Property> properties) {
+    this.lang = defPath.getParent().getFileName().toString();
+    this.fileName = defPath.getFileName().toString();
+    this.properties = properties;
+  }
 
-        private JsonObject removeEmptyObj(JsonObject o) {
-            if (o != null) {
-                o = o.removeEmptyFields();
-                if (o.isEmpty())
-                    o = null;
-            }
-            return o;
-        }
+  public String getLang() {
+    return lang;
+  }
 
-        private String removeEmptyString(String s) {
-            if (s != null && s.isBlank())
-                s = null;
-            return s;
-        }
-    }
+  public void setLang(String lang) {
+    this.lang = lang;
+  }
 
-    static class DisplayProperties implements JsonObject {
-        private String name;
-        private String description;
-        private String tip;
+  public String getFileName() {
+    return fileName;
+  }
 
-        @Override
-        public boolean isEmpty() {
-            return (name == null || name.isBlank()) &&
-                    (description == null || description.isBlank()) &&
-                    (tip == null || tip.isBlank());
-        }
+  public void setFileName(String fileName) {
+    this.fileName = fileName;
+  }
 
-        @Override
-        public DisplayProperties removeEmptyFields() {
-            if (name != null && name.isBlank())
-                name = null;
-            if (description != null && description.isBlank())
-                description = null;
-            if (tip != null && tip.isBlank())
-                tip = null;
-            return this;
-        }
-    }
+  public Map<String, Property> getProperties() {
+    return properties;
+  }
 
-    static class Entry implements JsonObject {
-        private String prefix;
-        private String name;
-        private String completed;
+  public void replacePropertiesFrom(final Definition def) {
+    properties.entrySet().parallelStream()
+        .forEach(entry -> {
+          String key = entry.getKey();
+          if (def.getProperties().keySet().contains(key))
+            entry.setValue(def.getProperties().get(key));
+          else
+            entry.setValue(null);
+        });
+    removeEmptyFields();
+  }
 
-        @Override
-        public boolean isEmpty() {
-            return (prefix == null || prefix.isBlank()) &&
-                    (name == null || name.isBlank()) &&
-                    (completed == null || completed.isBlank());
-        }
+  public Map<String, Property> getBowProperties() {
+    final String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
+    return properties.entrySet().stream()
+        .filter(entry -> entry.getValue().progressDescription.contains(bow))
+        .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+  }
 
-        @Override
-        public Entry removeEmptyFields() {
-            if (prefix != null && prefix.isBlank())
-                prefix = null;
-            if (name != null && name.isBlank())
-                name = null;
-            if (completed != null && completed.isBlank())
-                completed = null;
-            return this;
-        }
-    }
+  @Override
+  public Definition removeEmptyFields() {
+    properties.values().removeIf(Objects::isNull);
+    properties.values().forEach(JsonObject::removeEmptyFields);
+    properties.values().removeIf(JsonObject::isEmpty);
+    properties.values().removeIf(Objects::isNull);
+    return this;
+  }
 
-    static class Inventory implements JsonObject {
-        private String tierTypeName;
-
-        @Override
-        public boolean isEmpty() {
-            return (tierTypeName == null || tierTypeName.isBlank());
-        }
-
-        @Override
-        public Inventory removeEmptyFields() {
-            if (tierTypeName != null && tierTypeName.isBlank())
-                tierTypeName = null;
-            return this;
-        }
-    }
-
-    static class Extended implements JsonObject {
-        private String tip;
-
-        @Override
-        public boolean isEmpty() {
-            return (tip == null || tip.isBlank());
-        }
-
-        @Override
-        public Extended removeEmptyFields() {
-            if (tip != null && tip.isBlank())
-                tip = null;
-            return this;
-        }
-    }
-
-    public static final PathMatcher DEF_MATCHER = FileSystems.getDefault()
-            .getPathMatcher("regex:^(?!.*Colloquial|dynamic).*\\.json$");
-    public static final Type DEF_TYPE = new TypeToken<Map<String, Property>>() {
-    }.getType();
-
-    private Path toFile;
-    private final Map<String, Property> properties;
-
-    public Definition(final Path toFile, final Map<String, Property> properties) {
-        this.toFile = toFile;
-        this.properties = properties;
-    }
-
-    public Path getToFile() {
-        return toFile;
-    }
-
-    public Definition setToFile(final Path toFile) {
-        this.toFile = toFile;
-        return this;
-    }
-
-    public Map<String, Property> getProperties() {
-        return properties;
-    }
-
-    public String getFilename() {
-        return toFile.getFileName().toString();
-    }
-
-    public void replacePropertiesFrom(final Definition def) {
-        properties.entrySet().parallelStream()
-                .forEach(entry -> {
-                    if (def.getProperties().keySet().contains(entry.getKey()))
-                        entry.setValue(def.getProperties().get(entry.getKey()));
-                    else
-                        entry.setValue(null);
-                });
-        removeEmptyFields();
-    }
-
-    public Map<String, Property> getBowProperties() {
-        final String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
-        return properties.entrySet().stream().filter(entry -> entry.getValue().progressDescription.contains(bow))
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (a, b) -> a, LinkedHashMap::new));
-    }
-
-    public Definition removeEmptyFields() {
-        properties.values().removeIf(Objects::isNull);
-        properties.values().forEach(JsonObject::removeEmptyFields);
-        properties.values().removeIf(JsonObject::isEmpty);
-        properties.values().removeIf(Objects::isNull);
-        return this;
-    }
-
-    public boolean isEmpty() {
-        return properties.isEmpty();
-    }
+  @Override
+  public boolean isEmpty() {
+    return properties.isEmpty();
+  }
 }
