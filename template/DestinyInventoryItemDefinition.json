@@ -124,6 +124,12 @@
       "description": "Increases the initial drop rate of the \"The Navigator\" exotic trace rifle from the \"Ghosts of the Deep\" dungeon."
     }
   },
+  "860071581": {
+    "displayProperties": {
+      "name": "Increased \"Burried Bloodline\" drop rate",
+      "description": "Increases the initial drop rate of the \"Burried Bloodline\" exotic sidearm from the \"Warlord's Ruin\" dungeon."
+    }
+  },
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
