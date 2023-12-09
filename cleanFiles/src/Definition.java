@@ -3,6 +3,7 @@ import java.nio.charset.Charset;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
 import java.nio.file.PathMatcher;
+import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Objects;
@@ -67,8 +68,17 @@ public class Definition implements JsonObject {
   public Map<String, Property> getBowProperties() {
     final String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
     return properties.entrySet().stream()
-        .filter(entry -> entry.getValue().progressDescription.contains(bow))
+        .filter(entry -> entry.getValue().getProgressDescription().contains(bow))
         .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (a, b) -> a, LinkedHashMap::new));
+  }
+
+  public ArrayList<String> getMissingKeys(Definition def){
+    ArrayList<String> missingKeys = new ArrayList<>();
+    if(fileName.equals(def.fileName)){
+      missingKeys = new ArrayList<String>(def.properties.keySet());
+      missingKeys.removeAll(properties.keySet());
+    }
+    return missingKeys;
   }
 
   @Override

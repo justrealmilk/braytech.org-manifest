@@ -91,11 +91,15 @@ public class Property implements JsonObject {
     private String itemTypeDisplayName;
     private String displaySource;
     private String substring;
-    String progressDescription;
+    private String progressDescription;
     private com.google.gson.JsonArray bubbles;
     private com.google.gson.JsonArray keywords;
     private Inventory inventory;
     private Extended extended;
+
+    public String getProgressDescription() {
+        return progressDescription;
+    }
 
     @Override
     public boolean isEmpty() {

@@ -24,7 +24,7 @@ public class FileUtils {
     try {
       return Files.list(TO_REPO.resolve(lang).normalize()).parallel()
           .filter(Definition.DEF_MATCHER::matches)
-          .map(FileUtils::load)
+          .map(FileUtils::loadDef)
           .map(Definition::removeEmptyFields)
           .filter(Objects::nonNull);
     } catch (final IOException e) {
@@ -40,7 +40,7 @@ public class FileUtils {
         .parallel();
   }
 
-  public static Definition load(Path fullPath) {
+  public static Definition loadDef(Path fullPath) {
     Definition def = null;
     Path defPath = shortenPath(fullPath);
     System.out.println("Loading: " + fullPath);
@@ -52,26 +52,19 @@ public class FileUtils {
     return def;
   }
 
-  public static void save(final Definition def) {
+  public static void saveDef(final Definition def) {
     Path toFile = Paths.get(def.getLang(), def.getFileName());
     Path fullPath = TO_REPO.resolve(toFile).normalize();
     if (!def.isEmpty()) {
-      try (BufferedWriter writer = Files.newBufferedWriter(fullPath)) {
-        GSON.toJson(def.getProperties(), writer);
-        System.out.println("Saved: " + toFile);
-      } catch (IOException e) {
-        System.out.println("Couldn't save " + toFile);
-      }
+      saveJson(fullPath, def.getProperties());
     } else {
       System.out.println("Empty node: " + toFile);
     }
   }
 
-  public static void saveSorted(final Definition def) {
+  public static void saveSortedDef(final Definition def) {
     // loading template to get property order
-    final Definition sortedDef = getDefs("template")
-        .filter(d -> d.getFileName().equals(def.getFileName()))
-        .findAny().orElse(null);
+    final Definition sortedDef = findDefFromTemplate(def);
     if (sortedDef == null)
       return;
     // change path
@@ -82,7 +75,28 @@ public class FileUtils {
     if (def.getFileName().endsWith("DestinyObjectiveDefinition.json"))
       sortedDef.getProperties().putAll(def.getBowProperties());
 
-    save(sortedDef);
+    saveDef(sortedDef);
+  }
+
+  public static Definition findDefFromTemplate(final Definition def) {
+    return getDefs("template")
+        .filter(d -> d.getFileName().equals(def.getFileName()))
+        .findAny()
+        .orElse(null);
+  }
+
+  public static void saveMissingKeys(ToTranslate toTranslate) {
+    Path toFile = TO_REPO.resolve("toTranslate.json").normalize();
+    saveJson(toFile, toTranslate.getKeysToTranslate());
+  }
+
+  public static void saveJson(Path toFile, Object o) {
+    try (BufferedWriter writer = Files.newBufferedWriter(toFile)) {
+      GSON.toJson(o, writer);
+      System.out.println("Saved: " + toFile);
+    } catch (IOException e) {
+      System.out.println("Couldn't save " + toFile);
+    }
   }
 
   private static Path shortenPath(Path toFile) {
