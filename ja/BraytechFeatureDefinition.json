@@ -406,6 +406,12 @@
       "description": "Braytechを使用していなくても、通知を受信するか設定します"
     }
   },
+  "settings-referrals": {
+    "displayProperties": {
+      "name": "リファラル",
+      "description": "友達や大切や人にBraytechを紹介しよう"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "伝説",
