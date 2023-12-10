@@ -8,6 +8,8 @@ jobs:
   main:
     name: Main
 
+    if: github.repository_owner == 'justrealmilk'
+
     runs-on: ubuntu-latest
 
     permissions: write-all
