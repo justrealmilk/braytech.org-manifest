@@ -118,16 +118,16 @@
       "description": "Aumenta la probabilità di trovare il fucile a pompa esotico \"Finalità Condizionale\" dall'incursione \"La Radice degli Incubi\"."
     }
   },
-  "860071581": {
-    "displayProperties": {
-      "name": "Probabilità di trovare \"Lignaggio Sepolto\" aumentata",
-      "description": "Aumenta la probabilità di trovare l'arma da supporto esotica \"Lignaggio Sepolto\" dalla segreta \"Rovina della Signora della Guerra\"."
-    }
-  },
   "2126433420": {
     "displayProperties": {
       "name": "Probabilità di trovare \"Navigatore\" aumentata",
       "description": "Aumenta la probabilità di trovare il fucile laser esotico \"Navigatore\" dalla segreta \"Spettri del Profondo\"."
+    }
+  },
+  "860071581": {
+    "displayProperties": {
+      "name": "Probabilità di trovare \"Lignaggio Sepolto\" aumentata",
+      "description": "Aumenta la probabilità di trovare l'arma da supporto esotica \"Lignaggio Sepolto\" dalla segreta \"Rovina della Signora della Guerra\"."
     }
   },
   "2174060729": {
