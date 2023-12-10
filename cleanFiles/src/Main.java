@@ -14,7 +14,7 @@ public class Main {
        */
       if (args[0].equals("template")) {
         System.out.println("Making template");
-        FileUtils.getDefs(EN).forEach(FileUtils::save);
+        FileUtils.getDefs(EN).forEach(FileUtils::saveDef);
       }
 
       /*
@@ -26,7 +26,7 @@ public class Main {
        */
       if (args[0].equals("clean")) {
         System.out.println("Cleaning files");
-        FileUtils.getDefs(ALL).forEach(FileUtils::save);
+        FileUtils.getDefs(ALL).forEach(FileUtils::saveDef);
       }
 
       /*
@@ -41,10 +41,22 @@ public class Main {
        */
       if (args[0].equals("sort")) {
         System.out.println("Sorting files");
-        FileUtils.getDefs(ALL).forEach(FileUtils::saveSorted);
+        FileUtils.getDefs(ALL).forEach(FileUtils::saveSortedDef);
       }
+
+      /*
+       * "missing":
+       * with this parameter the script takes all languages definitions (minus 'en').
+       * These are compared with template. Any property that is only present in template
+       * will have its key reported and saved in the "toTranslate.json" file.
+       */
+      if (args[0].equals("missing")) {
+        System.out.println("Save missing translations");
+        FileUtils.saveMissingKeys(new ToTranslate(ALL));
+      }
+
       System.out.println("Done");
     } else
-      System.out.println("Try running with an arg (template, clean, sort)");
+      System.out.println("Try running with an arg (template, clean, sort, missing)");
   }
 }
