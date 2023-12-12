@@ -97,6 +97,27 @@
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Seraph",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Guardian",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civilian",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
   "medal-patron": {
     "displayProperties": {
       "name": "Patron",

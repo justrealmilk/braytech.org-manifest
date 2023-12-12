@@ -412,6 +412,12 @@
       "description": "Introduce your friends and family to Braytech."
     }
   },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Subscriptions",
+      "description": "Support Braytech's development and get \"rizz'd up\" with benefits."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
