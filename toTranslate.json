@@ -200,6 +200,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -210,6 +211,9 @@
       "medal-bungie",
       "medal-api-dev",
       "medal-submind",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -420,6 +424,14 @@
       "3000000014",
       "3000000015"
     ],
+    "BraytechFeatureDefinition.json": [
+      "settings-subscriptions"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian"
+    ],
     "DestinyObjectiveDefinition.json": [
       "1633394671",
       "3211393925"
@@ -494,6 +506,14 @@
       "3000000013",
       "3000000014",
       "3000000015"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "settings-subscriptions"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian"
     ],
     "DestinyObjectiveDefinition.json": [
       "1633394671",
@@ -597,12 +617,16 @@
       "character-breakdown",
       "character-inventory",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
     "BraytechCommonDefinition.json": [
       "medal-icicle",
       "medal-sunglas",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "unique-weapon-kills",
       "expiration",
       "presentation-node-score",
@@ -949,9 +973,25 @@
       "3000000013",
       "3000000014",
       "3000000015"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "settings-subscriptions"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian"
     ]
   },
   "ja": {
+    "BraytechFeatureDefinition.json": [
+      "settings-subscriptions"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian"
+    ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
     ],
@@ -1305,6 +1345,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -1316,6 +1357,9 @@
       "medal-bungie",
       "medal-api-dev",
       "medal-submind",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -1579,6 +1623,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "legend",
       "archives",
       "faq",
@@ -1602,6 +1647,9 @@
       "medal-api-dev",
       "medal-submind",
       "medal-researcher",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -1686,6 +1734,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -1704,6 +1753,9 @@
       "medal-api-dev",
       "medal-submind",
       "medal-researcher",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -2027,6 +2079,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2038,6 +2091,9 @@
       "medal-bungie",
       "medal-api-dev",
       "medal-submind",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -2235,12 +2291,16 @@
       "character-breakdown",
       "character-inventory",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
     "BraytechCommonDefinition.json": [
       "medal-icicle",
       "medal-sunglas",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "unique-weapon-kills",
       "active-score-rank",
       "push-notification-event-daily-weather-forecast",
@@ -2336,6 +2396,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-referrals",
+      "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2354,6 +2415,9 @@
       "medal-api-dev",
       "medal-submind",
       "medal-researcher",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
