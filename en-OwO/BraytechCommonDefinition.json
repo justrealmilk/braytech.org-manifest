@@ -105,75 +105,75 @@
       "name": "Expiwation"
     }
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "description": "_Bewawe da Awchitects._\nThis pwayew buiwds with Bungie's API.",
       "name": "Bungie API Devewopew"
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "description": "_Bewawe da Awchitects._\nThis pwayew _couwd_ dewete uu.",
       "name": "Bungie Devewopew"
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "description": "_A chawitabwe Guawdian._\nThis pwayew made a donation to a gweat cause via da Bungie Foundation.",
       "name": "Benefactow"
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "description": "_Cweatow of Bwaytech._\nThis pwayew cweated da app thwough which uu'we weading this toowtip."
     },
     "itemTypeDisplayName": "Bwaytech Devewopew"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "description": "_Uu'we my wittwe pogchamp, Guawdian._ 🌞",
       "name": "\"I made this fow uu\""
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-icicle": {
+  "medal-icicle": {
     "displayProperties": {
       "description": "\"I annoyed Tom and aww I got was this stupid medaw\"",
       "name": "Icicwe#6310"
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-patron": {
+  "medal-patron": {
     "displayProperties": {
       "description": "An invawuabwe Patweon subscwibew.",
       "name": "Patwon"
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "description": "_One of few suwviving weseawchews who've escaped da tweachewy of Cwovis Bway._\nAn invawuabwe Patweon subscwibew.",
       "name": "Weseawchew"
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew."
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
-  "flair-sunglas": {
+  "medal-sunglas": {
     "displayProperties": {
       "description": "On da gwound somewhewe...\nBehind an Awby's...\n(use d2foundwy.gg)",
       "name": "\"We found this, fow uu...\""
     },
     "itemTypeDisplayName": "Speciaw"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "description": "_A genewous twanswatow of Bwaytech._",
       "name": "Cwyptawch"

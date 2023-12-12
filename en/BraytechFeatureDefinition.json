@@ -492,6 +492,9 @@
         },
         {
           "viewHash": "settings-referrals"
+        },
+        {
+          "viewHash": "settings-subscriptions"
         }
       ]
     }
@@ -527,6 +530,14 @@
       "description": "Introduce your friends and family to Braytech."
     },
     "to": "/settings/referrals"
+  },
+  "settings-subscriptions": {
+    "hash": "settings-subscriptions",
+    "displayProperties": {
+      "name": "Subscriptions",
+      "description": "Support Braytech's development and get \"rizz'd up\" with benefits."
+    },
+    "to": "/settings/subscriptions"
   },
   "legend": {
     "hash": "legend",

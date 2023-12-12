@@ -41,63 +41,63 @@
     },
     "itemTypeDisplayName": "游玩平台"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": "_Braytech 的创建者_\n该玩家创建了你所阅读着小贴士所属的应用。"
     },
     "itemTypeDisplayName": "Braytech 开发者"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "“为你而做”",
       "description": "_You're my little pogchamp, Guardian._ 🌞"
     },
     "itemTypeDisplayName": "特殊"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "name": "Bungie 开发者",
       "description": "_当心缔造者。_\n该玩家 _可以_ 删除你。"
     },
     "itemTypeDisplayName": "特殊"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Bungie API 开发者",
       "description": "_当心缔造者。_\n该玩家参与了 Bungie API 开发。"
     },
     "itemTypeDisplayName": "特殊"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "子思维",
       "description": "_战争思维的一个碎片。_\n一位十分宝贵的 Patreon 赞助者。"
     },
     "itemTypeDisplayName": "Braytech 支持者"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "研究者",
       "description": "_一位从克罗维茨·布瑞的背叛中逃离并幸存下来的研究人员。_\n一位十分宝贵的 Patreon 赞助者。"
     },
     "itemTypeDisplayName": "Braytech 支持者"
   },
-  "flair-patron": {
+  "medal-patron": {
     "displayProperties": {
       "name": "赞助者",
       "description": "一位十分宝贵的 Patreon 赞助者。"
     },
     "itemTypeDisplayName": "Braytech 支持者"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "解密大师",
       "description": "_一位为 Braytech 提供本地化文本的翻译人员。_"
     },
     "itemTypeDisplayName": "Braytech 译者"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "Benefactor",
       "description": "_A charitable Guardian._\nThis player made a donation to a great cause via the Bungie Foundation."

@@ -41,13 +41,13 @@
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman"
     },
     "itemTypeDisplayName": "Braytech-Entwickler"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "Forscher",
       "description": "Als technischer Fellow bei Clovis Bray versucht dieser Hüter, Braytech zu verbessern."

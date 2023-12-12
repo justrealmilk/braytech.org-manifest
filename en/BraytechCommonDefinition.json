@@ -41,77 +41,98 @@
     },
     "itemTypeDisplayName": "Platform"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": "_Creator of Braytech._\nThis player created the app through which you're reading this tooltip."
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "\"I made this for you\"",
       "description": "_You're my little pogchamp, Guardian._ 🌞"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-icicle": {
+  "medal-icicle": {
     "displayProperties": {
       "name": "Icicle#6310",
       "description": "\"I annoyed Tom and all I got was this stupid medal\""
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-sunglas": {
+  "medal-sunglas": {
     "displayProperties": {
       "name": "\"We found this, for you...\"",
       "description": "On the ground somewhere...\nBehind an Arby's...\n(use d2foundry.gg)"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "name": "Bungie Developer",
       "description": "_Beware the Architects._\nThis player _could_ delete you."
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Bungie API Developer",
       "description": "_Beware the Architects._\nThis player builds with Bungie's API."
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "Submind",
       "description": "_A fragment of the Warmind._\nAn invaluable Patreon subscriber."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "Researcher",
       "description": "_One of few surviving researchers who've escaped the treachery of Clovis Bray._\nAn invaluable Patreon subscriber."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-patron": {
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Seraph",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Guardian",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civilian",
+      "description": "An invaluable Patreon subscriber."
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-patron": {
     "displayProperties": {
       "name": "Patron",
       "description": "An invaluable Patreon subscriber."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "Cryptarch",
       "description": "_A generous translator of Braytech._"
     },
     "itemTypeDisplayName": "Braytech Translator"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "Benefactor",
       "description": "_A charitable Guardian._\nThis player made a donation to a great cause via the Bungie Foundation."

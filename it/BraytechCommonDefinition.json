@@ -41,77 +41,77 @@
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": "_Creatore di Braytech._\nQuesto giocatore ha creato l'app tramite la quale stai leggendo questo messaggio."
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "\"L'ho fatto per te\"",
       "description": "_Sei il mio piccolo pogchamp, Guardiano._ 🌞"
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-icicle": {
+  "medal-icicle": {
     "displayProperties": {
       "name": "Icicle#6310",
       "description": "\"Ho infastidito Tom e tutto quello che ho ottenuto è stata questa stupida medaglia\""
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-sunglas": {
+  "medal-sunglas": {
     "displayProperties": {
       "name": "\"Abbiamo trovato questa, per te...\"",
       "description": "Per terra da qualche parte...\nDietro un Arby's...\n(usa d2foundry.gg)"
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "name": "Sviluppatore Bungie",
       "description": "_Attenti agli architetti._\nQuesto giocatore _potrebbe_ eliminarti."
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Sviluppatore Bungie API",
       "description": "_Attenti agli architetti._\nQuesto giocatore ha sviluppato usando l'API di Bungie."
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "Sottomente",
       "description": "_Un frammmento della Mente Bellica._\nUn inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "Ricercatore",
       "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron": {
+  "medal-patron": {
     "displayProperties": {
       "name": "Patron",
       "description": "Un inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "Criptarca",
       "description": "_Un generoso traduttore di Braytech._"
     },
     "itemTypeDisplayName": "Traduttore di Braytech"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "Benefattore",
       "description": "_Un Guardiano caritatevole._\nQuesto giocatore ha fatto una donazione per una grande causa tramite la Bungie Foundation."

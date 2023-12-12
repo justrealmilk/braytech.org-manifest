@@ -41,77 +41,77 @@
     },
     "itemTypeDisplayName": "プラットフォーム"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "トム・チャップマン",
       "description": "_Braytech開発者_\nこのツールチップを始めとしたサイトを作った本人です。"
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "\"あなたのために作りました\"",
       "description": "_伝説を作ってきた、愛しのガーディアン。_ 🌞"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-icicle": {
+  "medal-icicle": {
     "displayProperties": {
       "name": "Icicle#6310",
       "description": "\"Tomを煽って投げつけられた、このメダル\""
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-sunglas": {
+  "medal-sunglas": {
     "displayProperties": {
       "name": "\"あなたのために見つけてきました...\"",
       "description": "確か、道路に落ちていて...\nハンバーガー店の裏だっけ...?\n(use d2foundry.gg)"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "name": "Bungie開発者",
       "description": "_設計者にご注意。_\nこのプレイヤーはあなたをキルしません。"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Bungie API 開発者",
       "description": "_設計者にご注意。_\nこのプレイヤーはBungie's APIによって作られています。"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "サブマインド",
       "description": "_ウォーマインドのかけら_\n 重要なPatreonサブスクライバー"
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "リサーチャー",
       "description": "_クロビス・ブレイの欺瞞から抜け出した数少ない研究者たち_\n 重要なPatreonサブスクライバー"
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
-  "flair-patron": {
+  "medal-patron": {
     "displayProperties": {
       "name": "出資者",
       "description": "重要なPatreonサブスクライバー"
     },
     "itemTypeDisplayName": "Braytech支援者"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "クリプトアーキ",
       "description": "_Braytechの寛大な翻訳者._"
     },
     "itemTypeDisplayName": "Braytech翻訳者"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "恩人",
       "description": "_博愛のガーディアン。_\nこのプレイヤーは、Bungie財団法人を通じて素晴らしい活動に寄付をしました。"
