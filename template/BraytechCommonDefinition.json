@@ -86,35 +86,35 @@
   "medal-submind": {
     "displayProperties": {
       "name": "Submind",
-      "description": "_A fragment of the Warmind._\nAn invaluable Patreon subscriber."
+      "description": "_A part of the very fabric from which Braytech is weaved, you stand along side Charlemagne, Malahayati, and Voluspa. Your actions enable greater things to come to pass._"
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
   "medal-researcher": {
     "displayProperties": {
       "name": "Researcher",
-      "description": "_One of few surviving researchers who've escaped the treachery of Clovis Bray._\nAn invaluable Patreon subscriber."
+      "description": "_As one of few surviving researchers who've escaped the treachery of Clovis Bray, you now stand as a beacon of knowledge and hope. Your contributions are beyond invaluable._"
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
   "medal-seraph": {
     "displayProperties": {
       "name": "Seraph",
-      "description": "An invaluable Patreon subscriber."
+      "description": "_Join Rasputin's peacekeeping force and work closely with the Warmind and return peace to the Sol system._"
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
   "medal-guardian": {
     "displayProperties": {
       "name": "Guardian",
-      "description": "An invaluable Patreon subscriber."
+      "description": "_You are a Guardian: the embodiment of all that is and may be. Your potential unmatched, you alone can bring change to the Sol system on grand scales._"
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
   "medal-civilian": {
     "displayProperties": {
       "name": "Civilian",
-      "description": "An invaluable Patreon subscriber."
+      "description": "_If workplace health and safety had any idea what was going on over here, it'd be shut down faster than Rasputin when an isosceles triangle drops out of spooky FTL._"
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
