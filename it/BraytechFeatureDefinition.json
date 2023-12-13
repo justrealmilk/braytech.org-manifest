@@ -412,6 +412,12 @@
       "description": "Presenta Braytech ai tuoi amici e familiari."
     }
   },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Abbonamenti",
+      "description": "Sostieni lo sviluppo di Braytech e ottieni un sacco di benefici."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Leggenda",

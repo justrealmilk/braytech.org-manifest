@@ -97,6 +97,27 @@
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Serafino",
+      "description": "_Unisciti alle forze di pace di Rasputin e lavora a stretto contatto con la Mente Bellica per riportare la pace nel sistema di Sol._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Guardiano",
+      "description": "_Sei un Guardiano: l'incarnazione di tutto ciò che è e che può essere. Il tuo potenziale è impareggiabile e solo tu puoi cambiare il sistema di Sol su larga scala._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civile",
+      "description": "_Se i responsabili della salute e sicurezza sul posto di lavoro avessero idea di cosa stia succedendo qui, questo posto verrebbero chiuso più velocemente di Rasputin quando un triangolo isoscele spuntò fuori dal nulla dopo aver viaggiato più velocemente della luce._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
   "medal-patron": {
     "displayProperties": {
       "name": "Patron",
