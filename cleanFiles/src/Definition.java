@@ -5,15 +5,19 @@ import java.nio.file.Path;
 import java.nio.file.PathMatcher;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import com.google.gson.reflect.TypeToken;
 
 public class Definition implements JsonObject {
 
   public static final PathMatcher DEF_MATCHER = FileSystems.getDefault()
       .getPathMatcher("regex:^(?!.*Colloquial|dynamic).*\\.json$");
+
   public static final Type DEF_TYPE = new TypeToken<Map<String, Property>>() {
   }.getType();
 
@@ -57,8 +61,8 @@ public class Definition implements JsonObject {
     properties.entrySet().parallelStream()
         .forEach(entry -> {
           String key = entry.getKey();
-          if (def.getProperties().keySet().contains(key))
-            entry.setValue(def.getProperties().get(key));
+          if (def.properties.keySet().contains(key))
+            entry.setValue(def.properties.get(key));
           else
             entry.setValue(null);
         });
@@ -66,19 +70,44 @@ public class Definition implements JsonObject {
   }
 
   public Map<String, Property> getBowProperties() {
-    final String bow = new String(new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 }, Charset.forName("UTF-8"));
     return properties.entrySet().stream()
-        .filter(entry -> entry.getValue().getProgressDescription().contains(bow))
+        .filter(Definition::bowProperties)
         .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (a, b) -> a, LinkedHashMap::new));
   }
 
-  public ArrayList<String> getMissingKeys(Definition def){
-    ArrayList<String> missingKeys = new ArrayList<>();
-    if(fileName.equals(def.fileName)){
+  public List<String> getMissingKeys(Definition def) {
+    List<String> missingKeys = new ArrayList<>();
+
+    if (def != null && this.fileName.equals(def.fileName)) {
       missingKeys = new ArrayList<String>(def.properties.keySet());
-      missingKeys.removeAll(properties.keySet());
+      missingKeys.removeAll(this.properties.keySet());
     }
+
     return missingKeys;
+  }
+
+  public Definition findDefFrom(Stream<Definition> defs) {
+    return defs
+        .filter(d -> d.fileName.equals(this.fileName))
+        .findAny()
+        .orElse(null);
+  }
+
+  public int getPropertySize() {
+    int countBow = 0;
+    if (fileName.equals("DestinyObjectiveDefinition.json"))
+      countBow = (int) properties.entrySet().stream().filter(Definition::bowProperties).count();
+    return properties.keySet().size() - countBow;
+  }
+
+  public static boolean bowProperties(Map.Entry<String, Property> e) {
+    final String bow = new String(
+        new byte[] { (byte) 0xEE, (byte) 0x82, (byte) 0x99 },
+        Charset.forName("UTF-8"));
+
+    String progressDescription = e.getValue().getProgressDescription();
+
+    return progressDescription != null && progressDescription.contains(bow);
   }
 
   @Override

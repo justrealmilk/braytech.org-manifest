@@ -36,8 +36,7 @@ public class FileUtils {
   public static Stream<Definition> getDefs(final String[] langs) {
     return Arrays.asList(langs).stream()
         .flatMap(FileUtils::getDefs)
-        .filter(Objects::nonNull)
-        .parallel();
+        .filter(Objects::nonNull);
   }
 
   public static Definition loadDef(Path fullPath) {
@@ -64,7 +63,7 @@ public class FileUtils {
 
   public static void saveSortedDef(final Definition def) {
     // loading template to get property order
-    final Definition sortedDef = findDefFromTemplate(def);
+    final Definition sortedDef = def.findDefFrom(getDefs("template"));
     if (sortedDef == null)
       return;
     // change path
@@ -76,13 +75,6 @@ public class FileUtils {
       sortedDef.getProperties().putAll(def.getBowProperties());
 
     saveDef(sortedDef);
-  }
-
-  public static Definition findDefFromTemplate(final Definition def) {
-    return getDefs("template")
-        .filter(d -> d.getFileName().equals(def.getFileName()))
-        .findAny()
-        .orElse(null);
   }
 
   public static void saveMissingKeys(ToTranslate toTranslate) {
