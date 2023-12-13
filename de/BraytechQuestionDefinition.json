@@ -1,9 +1,7 @@
 {
   "category-api": {
-    "hash": 1000000100,
     "displayProperties": {
-      "name": "API",
-      "description": ""
+      "name": "API"
     },
     "questions": [
       {
@@ -16,10 +14,8 @@
     ]
   },
   "category-braytech": {
-    "hash": 1000000200,
     "displayProperties": {
-      "name": "Braytech",
-      "description": ""
+      "name": "Braytech"
     },
     "questions": [
       {
@@ -67,10 +63,8 @@
     ]
   },
   "category-voluspa": {
-    "hash": 1000000300,
     "displayProperties": {
-      "name": "Voluspa",
-      "description": ""
+      "name": "Voluspa"
     },
     "questions": [
       {
