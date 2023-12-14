@@ -1,9 +1,7 @@
 {
   "category-api": {
-    "hash": 1000000100,
     "displayProperties": {
-      "name": "API",
-      "description": ""
+      "name": "API"
     },
     "questions": [
       {
@@ -16,10 +14,8 @@
     ]
   },
   "category-braytech": {
-    "hash": 1000000200,
     "displayProperties": {
-      "name": "Braytech",
-      "description": ""
+      "name": "Braytech"
     },
     "questions": [
       {
@@ -40,7 +36,7 @@
         "hash": 1000000203,
         "displayProperties": {
           "name": "共性",
-          "description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}"
+          "description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}"
         }
       },
       {
@@ -67,10 +63,8 @@
     ]
   },
   "category-voluspa": {
-    "hash": 1000000300,
     "displayProperties": {
-      "name": "Voluspa",
-      "description": ""
+      "name": "Voluspa"
     },
     "questions": [
       {
