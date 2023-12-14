@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "公会历史统计信息和[其他东西]不一致？",
-          "description": "《命运》中有很多统计数据的 API. 公会的数据基于 HistoricalStats API 而其他数据是 PGCRs，所以很难确定哪边的数据更准确。\n\n且显示这些数据需要从Bungie的服务器下载TB级的数据并需要足够的计算能力才能正常显示。因此，如果你和朋友之间的友好竞争需要数据参考的话，这里的足够准确了。"
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "Estatisticas de clã não batem [outra coisa]",
-          "description": "Há muitas fontes de dados para Destiny. \"Histórico de Estatísticas de Clã\" é baseado no \"endpoint HistoricalStats\" da API, enquanto outros usam PGCRs como fonte de dados. É difícil determinar quem tem a verdade mais precisa.\n\nPara mostrar dados como no \"Histórico de Estatísticas de Clã\", seria necessário baixar terabytes de dados do servidor da Bungie e muito poder de processamento. Com isso dito, eles são bem precisos para algumas competições amigáveis."
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

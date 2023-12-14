@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "クランの活動履歴で統計データが一致しない [その他]",
-          "description": "Destinyの統計データには複数のソースで構成されています。クランの履歴統計はHistorical Stats APIエンドポイントに基づいており、その他はプレイデータ(PGCR:Post Game Carnage Reports）と組み合わせて計算されています。どれが最も正確な真実であるか判断するのは難しいため、プレイヤーにとっては想定した結果とは異なることがありえます。\n\n Clan Historical Statsで見られるような方法で統計を表示するには、Bungieのサーバーから何テラバイトものデータをダウンロードする必要があり、かなりの計算能力が必要となります。とはいえ、実際の制度を要求する場面は不要と判定して、現状で提供している精度で切磋琢磨するためのデータとしては十分な品質だと認識しています。"
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "Le Statistiche storiche del clan non corrispondono a [altra fonte]",
-          "description": "Ci sono diverse fonti per le statistiche in Destiny. Le Statistiche storiche del clan sono basate sull'endpoint dell'API HistoricalStats mentre altri prendono le statistiche dai Riepiloghi. È difficile constatare quale abbia le statistiche più veritiere.\n\nPer mostrare le statistiche come nella sezione Statistiche storiche del clan sarebbe richiesto scaricare terabyte di dati dai server Bungie e un alto potere computazionale. Detto ciò, sono abbastanza precise per un'amichevole competizione."
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

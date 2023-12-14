@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "公會歷史統計並不壹定與其他統計保持壹致",
-          "description": "Destiny 中有多個統計的數據來源，工會歷史數據統計基於HistoricalStats API 而其他統計數據來源於PGCRs 很難確定哪個數據更准確.\n\n要從Bungie.net服務器下載兆級別的數據并具有强大的計算能力，這也就意味著他們足夠準確.可以進行友好的對比"
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

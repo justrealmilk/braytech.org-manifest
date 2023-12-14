@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "Las estadísticas históricas de clan no coinciden [con otras] ",
-          "description": "Hay múltiples fuentes de estadísticas en Destiny. Las Estadísticas históricas de Clan se basan en el punto terminal de la API de HistoricalStats, mientras que otras obtienen sus datos de los Informes de combate. Es difícil determinar cuál de ellos tiene una mayor precisión.\n\nPara mostrar las estadísticas del modo en que se ven en las Estadísticas históricas de Clan, se necesitaría descargar terabytes de datos de los servidores de Bungie y una gran potencia de computación. Dicho esto, son lo suficientemente precisos como para permitir una rivalidad amistosa."
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

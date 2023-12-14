@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "Les statistiques de clan ne correspondent pas à [autre chose]",
-          "description": "Il existe plusieurs sources de statistiques dans Destiny. Les statistiques historiques du clan sont basées sur le point de terminaison de l'API HistoricalStats tandis que d'autres sources leurs données à partir des PGCR. Il est difficile de déterminer laquelle contient la valeur la plus précise. \n\nPour afficher les statistiques de la manière vue sur les statistiques historiques du clan, il faudrait télécharger des téraoctets de données à partir des serveurs Bungie et une puissance de calcul importante. Cela dit, ils sont suffisamment précis pour une compétition amicale."
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"

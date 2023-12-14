@@ -1,18 +1,4 @@
 {
-  "category-api": {
-    "displayProperties": {
-      "name": "API"
-    },
-    "questions": [
-      {
-        "hash": 1000000101,
-        "displayProperties": {
-          "name": "Die historischen Clan-Statistiken stimmen nicht mit [irgendwas] überein",
-          "description": "Es gibt mehrere Quellen für Statistiken in Destiny. Historische Clan-Statistiken basieren auf dem _HistoricalStats_-API-Endpunkt, während andere ihre Daten aus PGCRs (_Post Game Carnage Reports_, detailliertere Spieldetails) beziehen. Es ist schwer zu bestimmen, welcher Endpunkt die genauesten Angaben macht.\n\nUm Statistiken in der Weise zu berechnen wie sie bei _Historische Clan-Statistiken_ angezeigt werden, müssten Terabytes an Daten von Bungie-Servern heruntergeladen werden. Nichtsdestotrotz sind die aktuell genutzten Daten genau genug für etwas freundschaftlichen Wettbewerb."
-        }
-      }
-    ]
-  },
   "category-braytech": {
     "displayProperties": {
       "name": "Braytech"
