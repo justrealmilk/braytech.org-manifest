@@ -90,17 +90,17 @@
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
-  "medal-researcher": {
-    "displayProperties": {
-      "name": "Researcher",
-      "description": "_As one of few surviving researchers who've escaped the treachery of Clovis Bray, you now stand as a beacon of knowledge and hope. Your contributions are beyond invaluable._"
-    },
-    "itemTypeDisplayName": "Braytech Supporter"
-  },
   "medal-seraph": {
     "displayProperties": {
       "name": "Seraph",
-      "description": "_Join Rasputin's peacekeeping force and work closely with the Warmind and return peace to the Sol system._"
+      "description": "_Join Rasputin's peacekeeping force and work closely with the Warmind and return peace to the Sol system. Your contributions are beyond invaluable._"
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
+  "medal-researcher": {
+    "displayProperties": {
+      "name": "Researcher",
+      "description": "_As one of few surviving researchers who've escaped the treachery of Clovis Bray, you now stand as a beacon of knowledge and hope."
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
