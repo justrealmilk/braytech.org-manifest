@@ -90,17 +90,17 @@
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "medal-researcher": {
-    "displayProperties": {
-      "name": "Ricercatore",
-      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
-    },
-    "itemTypeDisplayName": "Sostenitore di Braytech"
-  },
   "medal-seraph": {
     "displayProperties": {
       "name": "Serafino",
       "description": "_Unisciti alle forze di pace di Rasputin e lavora a stretto contatto con la Mente Bellica per riportare la pace nel sistema di Sol._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-researcher": {
+    "displayProperties": {
+      "name": "Ricercatore",
+      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
