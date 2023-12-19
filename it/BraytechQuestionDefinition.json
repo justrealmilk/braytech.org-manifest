@@ -14,29 +14,22 @@
       {
         "hash": 1000000202,
         "displayProperties": {
-          "name": "Braytech non si è aggiornato all'ultima versione",
-          "description": "Dalla sezione _Impostazioni_ puoi provare una varietà di cose. Inizia con _Aggiorna service worker_. Aspetta qualche secondo e ti verrà chiesto di riavviare.\n\nSe ciò fallisce puoi provare a ricaricare l'app con _Ricarica_. Se il problema persiste allora selezione _Scarta service worker_.\n\n_Per i più tecnici, Braytech usa un service worker e a volte non funzionano._"
-        }
-      },
-      {
-        "hash": 1000000203,
-        "displayProperties": {
-          "name": "Privacy profilo",
-          "description": "Se sei preoccupato per la tua privacy mentre giochi a Destiny e per il modo in cui l'API espone i tuoi progressi e le tue attività a utilizzo da parte di terzi, puoi modificare le tue impostazioni sulla privacy su [Bungie.net](https://www.bungie.net/7/it/User/Account/Privacy).\n\nFacendo ciò sarà necessario eseguire l'autenticazione su Braytech con Bungie per continuarne l'utilizzo."
+          "name": "Braytech non si aggiorna",
+          "description": "Dalle [Impostazioni](/settings) puoi provare una varietà di cose. Inizia con **Aggiorna service worker**.\n\nSe ciò non fa nulla per almeno 10 minuti, puoi provare a ricaricare l'app con **Ricarica**. Se il problema persiste allora seleziona **Scarta service worker** e segnala il problema tramite Discord."
         }
       },
       {
         "hash": 1000000204,
         "displayProperties": {
-          "name": "Rarità",
-          "description": "Comunemente chiesto: \"Cos'è quella curiosa percentuale di fianco a collezionabili e trionfi?\"\n\nÈ la percentuale di giocatori che hanno scoperto o riscattato tale oggetto. Ogni tanto, _Voluspa_ colleziona dati dagli utenti di _Braytech_ e prende nota di chi ha cosa.\n\nL'utilita o la precisione di tali statistiche sono stati argomenti controversi e la verità è che tutte le statistiche sono inutili e stupide _a meno che_ non venga incluso ogni singolo dato possibile.\n\nÈ lecito ritenere che queste statistiche siano orientate verso i giocatori occasionali (le percentuali possono apparire più alte piuttosto che più basse a causa dell'abilità e dell'attenzione degli utenti che vengono monitorati).\n\nDove disponibile, i suggerimenti per queste statistiche includono il numero totale di giocatori che vengono conteggiati come parte di questa metrica.{{indexed}}"
+          "name": "Scorciatoie da tastiera",
+          "description": "In aggiunta alla barra di navigazione con i simboli chiave, Braytech ha una varietà di scorciatoie da tastiera nascoste. Da qualsiasi sezione con la testata del profilo (quella con l'emblema del tuo personaggio, etc.), tieni premuto  per vedere le scorciatoie disponibili. Per esempio, premi , tieni premuto  per vedere le opzioni disponibili e  per tornare qua."
         }
       },
       {
         "hash": 1000000205,
         "displayProperties": {
-          "name": "Scorciatoie da tastiera",
-          "description": "In aggiunta alla barra di navigazione con i simboli chiave, Braytech ha una varietà di scorciatoie da tastiera nascoste. Da qualsiasi sezione con la testata (quella con l'emblema del tuo personaggio, etc.), tieni premuto  per vedere le scorciatoie disponibili. Per esempio, premi  per andare su _Trionfi_ e  per tornare qua."
+          "name": "Privacy profilo",
+          "description": "Se sei preoccupato per la tua privacy mentre giochi a Destiny e per il modo in cui l'API espone i tuoi progressi e le tue attività a utilizzo da parte di terzi, puoi modificare le tue impostazioni sulla privacy su [Bungie.net](https://www.bungie.net/7/it/User/Account/Privacy).\n\nFacendo ciò sarà necessario eseguire l'autenticazione su Braytech con Bungie per continuarne l'utilizzo. Puoi autenticarti con Bungie dalle [Impostazioni](/settings)."
         }
       },
       {
@@ -44,6 +37,27 @@
         "displayProperties": {
           "name": "Widget",
           "description": "I widget sono attualmente disponibili solo per dispositivi iOS (iPhone, iPad).\n\nSe non riesci a trovare Braytech o i suoi widget nell'elenco dei widget disponibili, prova a riavviare il dispositivo, avviare l'app, reinstallare l'app o aspettare un po'.\n\nO non sei abbastanza bravo o è solo una questione di iOS. Buona fortuna."
+        }
+      },
+      {
+        "hash": 1000000207,
+        "displayProperties": {
+          "name": "Profilo caricato sbagliato",
+          "description": "Braytech può essere utilizzato per caricare e visualizzare i profili di altri giocatori. Per impostare il **profilo salvato** come predefinito, selezionalo in [Impostazioni](/settings) o cerca e seleziona il tuo profilo da [Cerca giocatore](/profile-search). Selezionare un personaggio da un risultato lo imposterà come profilo salvato."
+        }
+      },
+      {
+        "hash": 1000000208,
+        "displayProperties": {
+          "name": "Trionfi e collezionabili mancanti",
+          "description": "Se non riesci a trovare qualcosa, potrebbe essere necessario regolare la **Visibilità oggetti** nelle [Impostazioni](/settings). Se questo non aiuta, l'oggetto potrebbe essere \"classificato\". Alcuni trionfi e collezionabili rimangono classificati nonostante siano disponibili per la visualizzazione nel gioco. Questo perché il contenuto dell'API viene aggiornato in momenti diversi."
+        }
+      },
+      {
+        "hash": 1000000209,
+        "displayProperties": {
+          "name": "Clan: le Statistiche Storiche non corrispondono",
+          "description": "Ci sono diverse fonti per le statistiche in Destiny. Le [Statistiche Storiche](/clan/stats) del clan sono basate sull'endpoint dell'API HistoricalStats mentre altri siti o app prendono le statistiche dai Riepiloghi (Schermata di Carneficina Post-Partita), elaborando questi dati autonomamente. È difficile constatare quale fonte abbia le statistiche più veritiere per varie ragioni.\n\nPer mostrare le statistiche come nella sezione Statistiche storiche del clan sarebbe richiesto scaricare terabyte di dati dai server Bungie e un alto potere computazionale. È tantissimo! Detto ciò, sono abbastanza precise per un'amichevole competizione."
         }
       }
     ]
@@ -57,7 +71,14 @@
         "hash": 1000000301,
         "displayProperties": {
           "name": "A proposito di Voluspa",
-          "description": "_Voluspa_ è il nome della componente lato server di Braytech e deriva da una sub-mente di _Rasputin_. È responsabile della raccolta dei dati del profilo degli utenti di Braytech per le statistiche sulla rarità, la sincronizzazione delle impostazioni e altre funzionalità chiave."
+          "description": "Voluspa è il nome della componente lato server di Braytech e deriva da una sotto-mente di Rasputin. È responsabile della raccolta dei dati del profilo degli utenti di Braytech per le statistiche sulla rarità, la sincronizzazione delle impostazioni e altre funzionalità chiave."
+        }
+      },
+      {
+        "hash": 1000000302,
+        "displayProperties": {
+          "name": "Rarità",
+          "description": "Comunemente chiesto: \"Cos'è quella curiosa percentuale di fianco a collezionabili e trionfi?\"\n\nÈ la percentuale di giocatori che hanno scoperto o riscattato tale oggetto. Ogni tanto, Voluspa colleziona dati dagli utenti di Braytech e prende nota di chi ha cosa.\n\nL'utilita o la precisione di tali statistiche sono stati argomenti controversi e la verità è che tutte le statistiche sono inutili e stupide _a meno che_ non venga incluso ogni singolo dato possibile.\n\nÈ lecito ritenere che queste statistiche siano orientate verso i giocatori occasionali (le percentuali possono apparire più alte piuttosto che più basse a causa dell'abilità e dell'attenzione degli utenti che vengono monitorati).\n\nDove disponibile, i suggerimenti per queste statistiche includono il numero totale di giocatori che vengono conteggiati come parte di questa metrica."
         }
       }
     ]
