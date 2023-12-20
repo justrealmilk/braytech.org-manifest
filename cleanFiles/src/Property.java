@@ -94,7 +94,6 @@ public class Property implements JsonObject {
     private String progressDescription;
     private com.google.gson.JsonArray bubbles;
     private com.google.gson.JsonArray keywords;
-    private com.google.gson.JsonArray questions;
     private Inventory inventory;
     private Extended extended;
 
@@ -116,7 +115,6 @@ public class Property implements JsonObject {
                 && (progressDescription == null || progressDescription.isBlank())
                 && (bubbles == null || bubbles.isJsonNull())
                 && (keywords == null || keywords.isJsonNull())
-                && (questions == null || questions.isJsonNull())
                 && (inventory == null || inventory.isEmpty())
                 && (extended == null || extended.isEmpty());
     }
