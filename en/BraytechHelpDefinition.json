@@ -75,8 +75,16 @@
     "hash": 5000000010,
     "displayProperties": {
       "name": "Commonality",
-      "description": "Commonly asked, \"What is the funny percentage to the right of collectibles and records?\"\n\nIt's a percentage of players who've either discovered or redeemed the item. Every few days, Voluspa collects data from users of Braytech and takes note of who's got what.\n\nIt's been a hot topic as to whether it's accurate or useful and the truth is that all statistics are useless and dumb _unless_ you've included every single piece of data possible.\n\nIt's fair to assume that these stats are bias towards casual players (percentages may appear higher rather than lower due to the skill and attention of the users that are monitored).\n\nWhere available, tooltips for these stats include the total number of players who are counted as a part of this metric."
+      "description": "Frequently asked, \"What is the funny percentage to the right of collectibles and records?\"\n\nIt's a percentage of players who've either discovered or redeemed the item. Voluspa regularly collects data from users of Braytech and records their progression.\n\nThis data is a small sample of mostly active players and it's fair to assume that these stats are bias towards casual players (percentages may appear higher rather than lower due to the skill and attention of the users that are monitored).\n\nWhere available, tooltips for these stats include the total number of players who are counted as a part of this metric."
     },
     "itemType": 2
+  },
+  "5000000011": {
+    "hash": 5000000011,
+    "displayProperties": {
+      "name": "Region Chest data",
+      "description": "Some Region Chests, while available in-game, are incorrectly connected to the API. This results in some chests, especially those in the [Dreaming City](/maps/dreaming-city), erroneously reporting their state.\n\nChecklist items for which the data may not be reliable may be marked by a diagonal strike through their box."
+    },
+    "itemType": 1
   }
 }
