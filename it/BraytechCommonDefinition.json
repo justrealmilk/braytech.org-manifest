@@ -86,7 +86,7 @@
   "medal-submind": {
     "displayProperties": {
       "name": "Sottomente",
-      "description": "_Un frammmento della Mente Bellica._\nUn inestimabile abbonato Patreon."
+      "description": "_Parte del materiale stesso da cui è tessuto Braytech, ti trovi accanto a Charlemagne, Malahayati e Voluspa. Le tue azioni permettono a cose più grandi di realizzarsi._"
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
@@ -100,7 +100,7 @@
   "medal-researcher": {
     "displayProperties": {
       "name": "Ricercatore",
-      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
+      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray, ora sei un faro di conoscenza e speranza._"
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
