@@ -76,7 +76,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -376,7 +377,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
@@ -464,7 +466,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
@@ -626,7 +629,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
@@ -783,6 +787,9 @@
     ]
   },
   "it": {
+    "BraytechHelpDefinition.json": [
+      "5000000011"
+    ],
     "BraytechMapsDefinition.json": [
       "2000000000",
       "2000000001",
@@ -1002,7 +1009,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
@@ -1119,7 +1127,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -1759,7 +1768,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -1905,7 +1915,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -2359,7 +2370,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
@@ -2475,7 +2487,8 @@
     "BraytechHelpDefinition.json": [
       "5000000007",
       "5000000008",
-      "5000000010"
+      "5000000010",
+      "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
