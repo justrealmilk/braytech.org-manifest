@@ -1,58 +1,44 @@
 {
   "5000000001": {
-    "hash": 5000000001,
     "displayProperties": {
       "name": "🦘 Commonality",
       "description": "🦘 Commonly asked, \"What is the funny percentage to the right of collectibles and records?\"\n\nIt's a percentage of players who've either discovered or redeemed the item. Every few days, _Voluspa_ collects data from users of _Braytech_ and takes note of who's got what.\n\nIt's been a hot topic as to whether it's accurate or useful and the truth is that all statistics are useless and dumb _unless_ you've included every single piece of data possible.\n\nIt's fair to assume that these stats are bias towards casual players (percentages may appear higher rather than lower due to the skill and attention of the users that are monitored).\n\nWhere available, tooltips for these stats include the total number of players who are counted as a part of this metric.{{indexed}}"
-    },
-    "itemType": 1
+    }
   },
   "5000000002": {
-    "hash": 5000000002,
     "displayProperties": {
       "name": "🦘 Widgets",
       "description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck."
-    },
-    "itemType": 1
+    }
   },
   "5000000003": {
-    "hash": 5000000003,
     "displayProperties": {
       "name": "Braytech가 업데이트되지 않아요.",
       "description": "_설정_ 에서 여러 방법으로 해결할 수 있습니다. _서비스 워크 업데이트_ 를 선택해서 시작하세요.\n\n이 작업이 실패하면 _앱 재시작_ 을 선택해서 앱을 다시 시작할 수 있습니다. 문제가 계속 발생하면, _서비스 워크 덤프_ 를 선택하고 디스코드를 통해 문제를 알려주세요."
-    },
-    "itemType": 1
+    }
   },
   "5000000004": {
-    "hash": 5000000004,
     "displayProperties": {
       "name": "개인 정보 보호",
       "description": "데스티니를 플레이하면서 타사가 API를 통해 개인 정보와 진행 상황 및 활동을 유출하는 것에 대해 염려하는 경우 [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)에서 개인 정보 설정을 변경할 수 있습니다.\n\n이렇게 하면 Bungie에서 Braytech를 인증해야 계속 사용할 수 잇습니다."
-    },
-    "itemType": 1
+    }
   },
   "5000000005": {
-    "hash": 5000000005,
     "displayProperties": {
       "name": "앱 스토어",
       "description": "Braytech는 [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)와 [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)에서 받으실 수 있습니다! 안타깝게도 Braytech는 아이폰으로 사용 불가능합니다.\n\nBraytech가 아이폰 앱스토어에 없는 이유는 애플이 앱스토어로 돈을 빨아먹는 탐욕스러운 회사이기 떄문이죠.\n\n그래도 좋은 소식이 있습니다, 애플이 부분적으로 Braytech 개혁적인 우리의 웹 앱을 지원합니다. Braytech를 홈 스크린에 추가할 계획이면 사파리를 통해 앱으로 가신 다음에 공유를 누르고 홈 스크린에 추가를 설정해주세요. 이렇게 하면 Braytech가 원래 존재하는 앱처럼 작동할 수 있게 해줍니다.\n\n만약에 안드로이드 사용자이지만 구글 플레이를 사용하고 싶지 않으시면 구글 크롬을 통해 위의 방식과 비슷한 형식으로 설치할 수 있습니다."
-    },
-    "itemType": 1
+    }
   },
   "5000000006": {
-    "hash": 5000000006,
     "displayProperties": {
       "name": "키보드 단축키",
       "description": "🦘 In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press  to go to _Triumphs_ and  to return here."
-    },
-    "itemType": 1
+    }
   },
   "5000000009": {
-    "hash": 5000000009,
     "displayProperties": {
       "name": "Voluspa에 대하여",
       "description": "_Voluspa_, _라스푸틴_ 의 하위 지능의 이름, 제가 Braytech의 서버 사이드 구성 요소에 붙여준 이름입니다. 이는 희소성 통계, 설정 동기화 및 기타 주요 기능을 위해 Braytech 사용자의 프로필 데이터 추출을 담당합니다."
-    },
-    "itemType": 2
+    }
   }
 }
