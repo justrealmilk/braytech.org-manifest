@@ -1,0 +1,44 @@
+{
+  "5000000001": {
+    "displayProperties": {
+      "name": "🦘 Widgets",
+      "description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck."
+    }
+  },
+  "5000000002": {
+    "displayProperties": {
+      "name": "App Stores",
+      "description": "Braytech está disponível no [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) e na [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Infelizmente, Braytech não está disponível na App Store do iPhone.\n\nBraytech não está disponível para a App Store do iPhone por que a Apple é gananciosa e a sua loja é seu principal funil de dinheiro.\n\nFelizmente, eles oferecem suporte parcial a aplicativos da web progressivos, como o Braytech. Para adicionar o Braytech à sua tela inicial, vá ao app através do Safari, selecione o botão de compartilhamento, e selecione _Adicionar à Tela Inicial_. Isto habilita algumas das tecnologias que permite apps como o Braytech a se sentir e operar como aplicativos nativos.\n\nSe você é um usuário de Android e não quiser utilizar o Google Play, você pode executar um procedimento similar utilizando o Google Chrome."
+    }
+  },
+  "5000000003": {
+    "displayProperties": {
+      "name": "Atalhos de Teclado",
+      "description": "Além de quaisquer botões da barra de ação com símbolos-chave, Braytech tem uma variedade de atalhos de teclado ocultos. A partir de qualquer página com um cabeçalho de perfil (Emblema de seu personagem, etc.), aperte e segure  para ver quais atalhos estão disponíveis. Por exemplo, pressione  para ir aos _Triunfos_ e  para retornar aqui."
+    }
+  },
+  "5000000004": {
+    "displayProperties": {
+      "name": "Braytech não atualiza para a versão mais nova",
+      "description": "Através página de _Configurações_, você pode tentar uma variedade de coisas. Comece com _Atualizar Service Worker_. Espere um tempinho e você será solicitado para recarregar o app.\n\nSe isso falhar, você pode tentar recarregar o app selecionando _Recarregar_. Se o problema continuar a persistir, por favor, selecione _Reciclar Service Worker_.\n\n_Para os entendedores técnicos, Braytech usa um service worker e algumas vezes eles dão problema_"
+    }
+  },
+  "5000000005": {
+    "displayProperties": {
+      "name": "Privacidade do Perfil",
+      "description": "Se você está preocupado com a sua privacidade enquanto joga Destiny e como a API expõe sua progressão e atividades para uso de terceiros, você pode alterar suas configurações de privacidade em [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy).\n\nFazendo isso, será necessário que você autentique Braytech em Bungie.net para continuar o uso."
+    }
+  },
+  "5000000006": {
+    "displayProperties": {
+      "name": "Raridades",
+      "description": "Frequentemente perguntado, \"O que é a porcentagem à direita dos colecionáveis e registros?\"\n\nÉ a porcentagem de jogadores que descobriram ou resgataram o item. De dias em dias, _Voluspa_ coleta dados dos usuários do _Braytech_ e anota quem pegou o que.\n\nTem sido um tópico bem debatido quanto a precisão e a utilidade, e a verdade é que todas as estatísticas são inúteis e bestas _a menos que_ você inclua todos os pedaços de dados possíveis.\n\nÉ justo assumir que estes dados possuem um viés em direção aos jogadores casuais (porcentagens podem aparecer maior por conta da atenção dos usuários que são monitorados).\n\nOnde disponível, pop-ups para estes dados incluem o numero total de jogadores que estão sendo levado em consideração como parte da métrica.{{indexed}}"
+    }
+  },
+  "5000000009": {
+    "displayProperties": {
+      "name": "Sobre Voluspa",
+      "description": "_Voluspa_, nomeada a partir da sub-mente de _Rasputin_, foi como nomeei o componente serverside de Braytech. Ele é responsável por reunir os dados de perfis dos usuários de Braytech para as estatísticas de raridade, configurações de sincronização e outras funcionalidades."
+    }
+  }
+}

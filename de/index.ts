@@ -2,7 +2,7 @@ import BraytechCommonDefinition from '@Data/manifest/de/BraytechCommonDefinition
 import BraytechFeatureDefinition from '@Data/manifest/de/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/de/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/de/BraytechMapsTypesDefinition.json';
-import BraytechQuestionDefinition from '@Data/manifest/de/BraytechQuestionDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/de/BraytechHelpDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/de/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/de/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/de/DestinyActivityModifierDefinition.json';
@@ -25,7 +25,7 @@ const de = {
     BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
-    BraytechQuestionDefinition,
+    BraytechHelpDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
