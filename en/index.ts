@@ -19,6 +19,7 @@ import DestinyItemSubTypeDefinition from '@Data/manifest/en/DestinyItemSubTypeDe
 import DestinyItemTypeDefinition from '@Data/manifest/en/DestinyItemTypeDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/en/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/en/DestinyInventoryItemDefinition.json';
+import DestinyLoadoutNameDefinition from '@Data/manifest/en/DestinyLoadoutNameDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/en/DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/en/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/en/DestinyPhaseDefinition.json';
@@ -56,6 +57,7 @@ const en = {
     DestinyItemTypeDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyLoadoutNameDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,
