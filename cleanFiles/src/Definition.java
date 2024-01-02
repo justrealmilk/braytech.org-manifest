@@ -26,15 +26,15 @@ public class Definition implements JsonObject {
   private final Map<String, Property> properties;
 
   public Definition(String lang, String fileName, final Map<String, Property> properties) {
-    this.lang = lang;
+    this.lang = lang.equals("en") ? "template" : lang;
     this.fileName = fileName;
     this.properties = properties;
   }
 
   public Definition(Path defPath, final Map<String, Property> properties) {
-    this.lang = defPath.getParent().getFileName().toString();
-    this.fileName = defPath.getFileName().toString();
-    this.properties = properties;
+    this(defPath.getParent().getFileName().toString(),
+        defPath.getFileName().toString(),
+        properties);
   }
 
   public String getLang() {
