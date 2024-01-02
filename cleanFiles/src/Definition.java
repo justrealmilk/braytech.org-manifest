@@ -26,12 +26,9 @@ public class Definition implements JsonObject {
   private final Map<String, Property> properties;
 
   public Definition(String lang, String fileName, final Map<String, Property> properties) {
-    this.lang = lang;
+    this.lang = lang.equals("en") ? "template" : lang;
     this.fileName = fileName;
     this.properties = properties;
-
-    if (lang.equals("en"))
-      this.lang = "template";
   }
 
   public Definition(Path defPath, final Map<String, Property> properties) {
