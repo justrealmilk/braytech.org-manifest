@@ -80,6 +80,8 @@ public class Property implements JsonObject {
         }
     }
 
+    private String name;
+    private String description;
     private DisplayProperties displayProperties;
     private DisplayProperties originalDisplayProperties;
     private Entry entry;
@@ -103,7 +105,9 @@ public class Property implements JsonObject {
 
     @Override
     public boolean isEmpty() {
-        return (displayProperties == null || displayProperties.isEmpty())
+        return (name == null || name.isBlank())
+                && (description == null || description.isBlank())
+                && (displayProperties == null || displayProperties.isEmpty())
                 && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
                 && (entry == null || entry.isEmpty())
                 && (sourceString == null || sourceString.isBlank()) && (statName == null || statName.isBlank())
@@ -121,6 +125,8 @@ public class Property implements JsonObject {
 
     @Override
     public Property removeEmptyFields() {
+        name = removeEmptyString(name);
+        description = removeEmptyString(description);
         displayProperties = (DisplayProperties) removeEmptyObj(displayProperties);
         originalDisplayProperties = (DisplayProperties) removeEmptyObj(originalDisplayProperties);
         entry = (Entry) removeEmptyObj(entry);

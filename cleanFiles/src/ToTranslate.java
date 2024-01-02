@@ -1,4 +1,5 @@
 import java.util.List;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -8,9 +9,9 @@ public class ToTranslate {
   private Map<String, Integer> keysTotals;
 
   public ToTranslate(String[] langs) {
-    this.keysToTranslate = new LinkedHashMap<>();
-    for (String lang : langs)
-      keysToTranslate.put(lang, new LinkedHashMap<>());
+    this.keysToTranslate = new LinkedHashMap<>(langs.length);
+
+    Arrays.asList(langs).forEach(lang -> keysToTranslate.put(lang, new LinkedHashMap<>()));
 
     this.keysTotals = new LinkedHashMap<>(langs.length);
 
@@ -25,7 +26,7 @@ public class ToTranslate {
       keysTotals.compute(def.getLang(), (k, v) -> v == null ? 0 : v + def.getPropertySize());
     });
 
-    int templateTotal = templateDefs.stream().mapToInt(d -> d.getPropertySize()).sum();
+    int templateTotal = templateDefs.stream().mapToInt(Definition::getPropertySize).sum();
 
     Map<String, Double> percentages = keysTotals.entrySet().stream().collect(Collectors.toMap(
         Map.Entry::getKey, e -> (double) e.getValue() / templateTotal * 100, (a, b) -> a, LinkedHashMap::new));

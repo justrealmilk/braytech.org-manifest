@@ -93,10 +93,6 @@ public class FileUtils {
 
   private static Path shortenPath(Path toFile) {
     int len = toFile.getNameCount();
-    Path toFileShort = toFile.subpath(len - 2, len);
-    if (toFileShort.getParent().endsWith("en"))
-      toFileShort = Paths.get("template", toFileShort.getFileName().toString());
-    return toFileShort;
+    return toFile.subpath(len - 2, len);
   }
-
 }
