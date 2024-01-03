@@ -41,13 +41,13 @@
     },
     "itemTypeDisplayName": "Plattform"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman"
     },
     "itemTypeDisplayName": "Braytech-Entwickler"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "Forscher",
       "description": "Als technischer Fellow bei Clovis Bray versucht dieser Hüter, Braytech zu verbessern."
@@ -99,6 +99,12 @@
       "description": "Einige Einträge haben Abschnitte. Unterschiedliche Intervalle haben unterschiedliche Voraussetzungen und Triumphpunkte."
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "Aktive Triumphpunkte",
+      "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Vermächtnis-Triumphpunkte",
@@ -109,12 +115,6 @@
     "displayProperties": {
       "name": "Gesamte Triumphpunkte",
       "description": "Eine Kombination aus allen aktiven und allen Vermächtnis-Triumphpunkten."
-    }
-  },
-  "active-triumph-score": {
-    "displayProperties": {
-      "name": "Aktive Triumphpunkte",
-      "description": "Die Summe aller erfüllten aktiven Triumphe und die Gesamtsumme aller aktiven Triumphe.\n\nDieser Wert ändert sich, wenn Triumphe zu Vermächtnis-Triumphen werden."
     }
   },
   "total-resets": {
@@ -133,12 +133,6 @@
     "displayProperties": {
       "name": "Verborgene Erinnerungen",
       "description": "Geheimnisvolle Testknoten sind über den Mars verstreut. Was ist ihr Zweck?"
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "DIM Sync benötigt",
-      "description": "Diese Funktion erfordert _DIM Sync_.\n\nDu kannst es in den _Einstellungen_ aktivieren."
     }
   },
   "tooltip-error": {

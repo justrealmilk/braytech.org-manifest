@@ -106,7 +106,7 @@
   "triumphs-unredeemed": {
     "displayProperties": {
       "name": "Unredeemed Triumphs",
-      "description": "It's time to work those fingers and redeem some trumphs."
+      "description": "It's time to work those fingers and redeem some triumphs."
     }
   },
   "triumphs-near": {
@@ -410,6 +410,12 @@
     "displayProperties": {
       "name": "Referrals",
       "description": "Introduce your friends and family to Braytech."
+    }
+  },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Subscriptions",
+      "description": "Support Braytech's development and get \"rizz'd up\" with benefits."
     }
   },
   "legend": {

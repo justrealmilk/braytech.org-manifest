@@ -4,6 +4,7 @@ import BraytechCommonDefinition from '@Data/manifest/en/BraytechCommonDefinition
 import BraytechFeatureDefinition from '@Data/manifest/en/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/en/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/en/BraytechMapsTypesDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/en/BraytechHelpDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/en/BraytechRotationDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/en/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/en/DestinyActivityModeDefinition.json';
@@ -18,6 +19,7 @@ import DestinyItemSubTypeDefinition from '@Data/manifest/en/DestinyItemSubTypeDe
 import DestinyItemTypeDefinition from '@Data/manifest/en/DestinyItemTypeDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/en/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/en/DestinyInventoryItemDefinition.json';
+import DestinyLoadoutNameDefinition from '@Data/manifest/en/DestinyLoadoutNameDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/en/DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/en/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/en/DestinyPhaseDefinition.json';
@@ -40,6 +42,7 @@ const en = {
     BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
+    BraytechHelpDefinition,
     BraytechRotationDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
@@ -54,6 +57,7 @@ const en = {
     DestinyItemTypeDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyLoadoutNameDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,

@@ -1,12 +1,15 @@
 {
-  "537457947": {
-    "progressDescription": "Attività \"Operazioni dell'Avanguardia\" completate"
+  "1542299784": {
+    "progressDescription": "Attività rituali completate"
+  },
+  "3794117631": {
+    "progressDescription": "Attività rituali completate"
+  },
+  "1270593510": {
+    "progressDescription": "Attività rituali completate"
   },
   "1612424695": {
     "progressDescription": "Punteggio Cala la notte accumulato"
-  },
-  "3118376466": {
-    "progressDescription": "Partite del Crogiolo completate"
   },
   "4276867787": {
     "progressDescription": "Partite nella playlist Competitiva completate"
@@ -17,14 +20,20 @@
   "2794225827": {
     "progressDescription": "Round delle Prove di Osiride vinti"
   },
-  "1734176373": {
-    "progressDescription": "Partite di Azzardo completate"
-  },
   "1948254616": {
     "progressDescription": "Attività \"Sfide dell'Eternità\" completate"
   },
   "1205559531": {
     "progressDescription": "Attività \"Sfide dell'Eternità\" con punteggio superiore a {var:3648290880} completata"
+  },
+  "1320261963": {
+    "progressDescription": "Impresa esotica in rotazione \"Vox Obscura\" completata"
+  },
+  "1510063869": {
+    "progressDescription": "Impresa esotica in rotazione \"Presagio\" completata"
+  },
+  "3726310377": {
+    "progressDescription": "Impresa esotica in rotazione \"Operazione: Scudo del Serafino\" completata"
   },
   "1356373064": {
     "progressDescription": "Attività \"//nodo.bpss.AVALON//\" completeta"
@@ -57,15 +66,27 @@
     "progressDescription": "Missione settimanale della campagna completata con punteggio alto"
   },
   "897950155": {
+    "displayProperties": {
+      "description": "\"Ho atteso così a lungo per esaudire un ultimo desiderio...\""
+    },
     "progressDescription": "Incursione in rotazione \"Ultimo desiderio\" completata"
   },
   "2398860795": {
+    "displayProperties": {
+      "description": "\"Noi siamo la tua... salvezza.\""
+    },
     "progressDescription": "Incursione in rotazione \"Giardino della Salvezza\" completata"
   },
   "3826130187": {
+    "displayProperties": {
+      "description": "Assicurare controllo."
+    },
     "progressDescription": "Incursione in rotazione \"Cripta di Pietrafonda\" completata"
   },
   "3180884403": {
+    "displayProperties": {
+      "description": "Macchine fuori controllo."
+    },
     "progressDescription": "Incursione in rotazione \"Volta di Vetro\" completata"
   },
   "1863972407": {
@@ -75,13 +96,22 @@
     "progressDescription": "Incursione in rotazione \"Promessa del Discepolo\" completata"
   },
   "406803827": {
+    "displayProperties": {
+      "description": "Lunga vita al Re..."
+    },
     "progressDescription": "Incursione in rotazione \"La caduta di un Re\" completata"
   },
-  "600986371": {
+  "1633394671": {
     "displayProperties": {
       "description": "Diventa l'incubo dei tuoi incubi."
     },
-    "progressDescription": "Incursione \"La radice degli incubi\" completata"
+    "progressDescription": "Incursione in rotazione \"La Radice degli Incubi\" completata"
+  },
+  "2622593631": {
+    "displayProperties": {
+      "description": "Lui attende nell'oscurità dal profondo."
+    },
+    "progressDescription": "Incursione \"La Fine di Crota\" completata"
   },
   "2039792527": {
     "displayProperties": {
@@ -113,17 +143,32 @@
     },
     "progressDescription": "Segreta \"Spettri del Profondo\" completata"
   },
+  "3950614370": {
+    "progressDescription": "Segreta \"Rovina della Signora della Guerra\" completata"
+  },
   "2258905201": {
-    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Arco] Arco, [Vuoto] Vuoto o [Telascura] Telascura"
+    "progressDescription": "Partite dello Stendardo di Ferro completate"
   },
   "2050629406": {
-    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Arco] Arco, [Vuoto] Vuoto o [Telascura] Telascura"
+    "progressDescription": "Partite dello Stendardo di Ferro completate"
   },
   "3376767511": {
-    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Arco] Arco, [Vuoto] Vuoto o [Telascura] Telascura"
+    "progressDescription": "Partite dello Stendardo di Ferro completate"
   },
   "1878970132": {
-    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Arco] Arco, [Vuoto] Vuoto o [Telascura] Telascura"
+    "progressDescription": "Partite dello Stendardo di Ferro completate"
+  },
+  "1166685245": {
+    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Stasi] Stasi, [Solare] Solare o [Telascura] Telascura"
+  },
+  "2457555059": {
+    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Stasi] Stasi, [Solare] Solare o [Telascura] Telascura"
+  },
+  "3304988490": {
+    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Stasi] Stasi, [Solare] Solare o [Telascura] Telascura"
+  },
+  "3652736024": {
+    "progressDescription": "Partite dello Stendardo di Ferro completate con sottoclassi [Stasi] Stasi, [Solare] Solare o [Telascura] Telascura"
   },
   "275339596": {
     "progressDescription": "Taglie del Solcanuvole completate"
@@ -137,29 +182,8 @@
   "2177999971": {
     "progressDescription": "Parla con Quinn Laghari"
   },
-  "1166527222": {
-    "progressDescription": "Attività \"Campi di battaglia Resistenza\" completate"
-  },
-  "3431014262": {
-    "progressDescription": "Attività \"Campi di battaglia Resistenza\" completate"
-  },
-  "1687723774": {
-    "progressDescription": "Attività \"Campi di battaglia Resistenza\" completate"
-  },
-  "3121765139": {
-    "progressDescription": "Attività \"Campi di battaglia Resistenza\" a difficoltà Leggenda completate"
-  },
-  "672380795": {
-    "progressDescription": "Taglie del tavolo di guerra dell'H.E.L.M. completate"
-  },
-  "2821863512": {
-    "progressDescription": "Ritorna al tavolo di guerra dell'H.E.L.M."
-  },
-  "1685423788": {
-    "progressDescription": "Attività \"Recupero\" completate"
-  },
-  "2752231210": {
-    "progressDescription": "Attività \"Immersione\" completate"
+  "3447791523": {
+    "progressDescription": "Percorsi liberati nella \"Tana di Riven\" o nella \"Spira\""
   },
   "625886847": {
     "progressDescription": "Colpi di grazia con  o [Falcione]"

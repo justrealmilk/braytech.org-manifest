@@ -20,6 +20,21 @@
     },
     "itemTypeDisplayName": "記憶水晶"
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "增加你的守護者的惡名等級。不要告訴先鋒隊。"
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "可以使用紡織機將合成絲線材料轉換為合成編織物"
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "提高守護者的英勇等級。此外，它可能會導致沙克斯勳爵變得興奮。"
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "增加您公會的經驗"
@@ -28,29 +43,14 @@
       "tierTypeName": "常見"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "增加你的守護者的惡名等級。不要告訴先鋒隊。"
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "大大增加你的守護者的經驗。"
     }
   },
-  "1190250163": {
-    "displayProperties": {
-      "description": "可以使用紡織機將合成絲線材料轉換為合成編織物"
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "極大地增加你的守護者的經驗。"
-    }
-  },
-  "1808687944": {
-    "displayProperties": {
-      "description": "提高守護者的英勇等級。此外，它可能會導致沙克斯勳爵變得興奮。"
     }
   },
   "1858002338": {
@@ -92,12 +92,12 @@
       "description": "大大增加你的守護者的經驗。"
     }
   },
-  "2497395625": {
+  "3348653032": {
     "displayProperties": {
-      "description": "用於武器成型的材料，需要調整內部插頭。\n\n主要通過分解傳奇武器獲得，但也可以通過完成活動獲得獎勵。"
+      "description": "大大增加你的守護者的經驗。"
     }
   },
-  "3348653032": {
+  "3582080006": {
     "displayProperties": {
       "description": "大大增加你的守護者的經驗。"
     }
@@ -108,9 +108,9 @@
     },
     "itemTypeDisplayName": "材料"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "大大增加你的守護者的經驗。"
+      "description": "用於武器成型的材料，需要調整內部插頭。\n\n主要通過分解傳奇武器獲得，但也可以通過完成活動獲得獎勵。"
     }
   },
   "23239861010": {

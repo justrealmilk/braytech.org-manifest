@@ -71,12 +71,6 @@
       "description": "Inspecione o equipamento e inventário do seu Guardião"
     }
   },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
   "character-vault": {
     "displayProperties": {
       "name": "Vault",

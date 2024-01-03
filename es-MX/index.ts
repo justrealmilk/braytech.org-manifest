@@ -1,10 +1,11 @@
-import BraytechCommonDefinition from '@Data/manifest/es-MX/BraytechCommonDefinition.json';
 import BraytechActivityDefinition from '@Data/manifest/es-MX/BraytechActivityDefinition.json';
 import BraytechActivityDifficultyDefinition from '@Data/manifest/es-MX/BraytechActivityDifficultyDefinition.json';
+import BraytechCommonDefinition from '@Data/manifest/es-MX/BraytechCommonDefinition.json';
+import BraytechFeatureDefinition from '@Data/manifest/es-MX/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/es-MX/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/es-MX/BraytechMapsTypesDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/es-MX/BraytechHelpDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/es-MX/BraytechRotationDefinition.json';
-import BraytechFeatureDefinition from '@Data/manifest/es-MX/BraytechFeatureDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/es-MX/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/es-MX/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/es-MX/DestinyActivityModifierDefinition.json';
@@ -16,6 +17,8 @@ import DestinyDestinationDefinition from '@Data/manifest/es-MX/DestinyDestinatio
 import DestinyHistoricalStatsDefinition from '@Data/manifest/es-MX/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/es-MX/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/es-MX/DestinyInventoryItemDefinition.json';
+import DestinyItemSubTypeDefinition from '@Data/manifest/es-MX/DestinyItemSubTypeDefinition.json';
+import DestinyItemTypeDefinition from '@Data/manifest/es-MX/DestinyItemTypeDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/es-MX/DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/es-MX/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/es-MX/DestinyPhaseDefinition.json';
@@ -28,13 +31,14 @@ import DestinyTraitDefinition from '@Data/manifest/es-MX/DestinyTraitDefinition.
 
 const esMX = {
   definitions: {
-    BraytechCommonDefinition,
     BraytechActivityDefinition,
     BraytechActivityDifficultyDefinition,
+    BraytechCommonDefinition,
+    BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
+    BraytechHelpDefinition,
     BraytechRotationDefinition,
-    BraytechFeatureDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
@@ -46,6 +50,8 @@ const esMX = {
     DestinyHistoricalStatsDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyItemSubTypeDefinition,
+    DestinyItemTypeDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,

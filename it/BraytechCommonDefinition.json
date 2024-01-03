@@ -41,63 +41,98 @@
     },
     "itemTypeDisplayName": "Piattaforma"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": "_Creatore di Braytech._\nQuesto giocatore ha creato l'app tramite la quale stai leggendo questo messaggio."
     },
     "itemTypeDisplayName": "Sviluppatore di Braytech"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "\"L'ho fatto per te\"",
       "description": "_Sei il mio piccolo pogchamp, Guardiano._ 🌞"
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-bungie": {
+  "medal-icicle": {
+    "displayProperties": {
+      "name": "Icicle#6310",
+      "description": "\"Ho infastidito Tom e tutto quello che ho ottenuto è stata questa stupida medaglia\""
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
+  "medal-sunglas": {
+    "displayProperties": {
+      "name": "\"Abbiamo trovato questa, per te...\"",
+      "description": "Per terra da qualche parte...\nDietro un Arby's...\n(usa d2foundry.gg)"
+    },
+    "itemTypeDisplayName": "Speciale"
+  },
+  "medal-bungie": {
     "displayProperties": {
       "name": "Sviluppatore Bungie",
       "description": "_Attenti agli architetti._\nQuesto giocatore _potrebbe_ eliminarti."
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Sviluppatore Bungie API",
       "description": "_Attenti agli architetti._\nQuesto giocatore ha sviluppato usando l'API di Bungie."
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "Sottomente",
-      "description": "_Un frammmento della Mente Bellica._\nUn inestimabile abbonato Patreon."
+      "description": "_Parte del materiale stesso da cui è tessuto Braytech, ti trovi accanto a Charlemagne, Malahayati e Voluspa. Le tue azioni permettono a cose più grandi di realizzarsi._"
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron-researcher": {
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Serafino",
+      "description": "_Unisciti alle forze di pace di Rasputin e lavora a stretto contatto con la Mente Bellica per riportare la pace nel sistema di Sol._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-researcher": {
     "displayProperties": {
       "name": "Ricercatore",
-      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray._\nUn inestimabile abbonato Patreon."
+      "description": "_Uno dei pochi ricercatori superstiti sfuggiti al tradimento di Clovis Bray, ora sei un faro di conoscenza e speranza._"
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-patron": {
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Guardiano",
+      "description": "_Sei un Guardiano: l'incarnazione di tutto ciò che è e che può essere. Il tuo potenziale è impareggiabile e solo tu puoi cambiare il sistema di Sol su larga scala._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civile",
+      "description": "_Se i responsabili della salute e sicurezza sul posto di lavoro avessero idea di cosa stia succedendo qui, questo posto verrebbero chiuso più velocemente di Rasputin quando un triangolo isoscele spuntò fuori dal nulla dopo aver viaggiato più velocemente della luce._"
+    },
+    "itemTypeDisplayName": "Sostenitore di Braytech"
+  },
+  "medal-patron": {
     "displayProperties": {
       "name": "Patron",
       "description": "Un inestimabile abbonato Patreon."
     },
     "itemTypeDisplayName": "Sostenitore di Braytech"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "Criptarca",
       "description": "_Un generoso traduttore di Braytech._"
     },
     "itemTypeDisplayName": "Traduttore di Braytech"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "Benefattore",
       "description": "_Un Guardiano caritatevole._\nQuesto giocatore ha fatto una donazione per una grande causa tramite la Bungie Foundation."
@@ -138,6 +173,12 @@
       "description": "Il tempo impiegato da quest'arma per completare una ricarica completa e sparare. Questo valore si basa solo sulla statistica della velocità di ricarica e non è influenzato da peculiarità."
     },
     "itemTypeDisplayName": "Statistica"
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Uccisioni uniche con armi",
+      "description": "Le tue statistiche vengono tracciate ed esposte dall'API tramite vari sistemi diversi; le statistiche storiche sono disponibili per le armi esotiche e tengono traccia delle uccisioni prima che qualsiasi tracciatore di uccisioni venga abilitato."
+    }
   },
   "accurate-gear-power-average": {
     "displayProperties": {
@@ -205,6 +246,12 @@
       "description": "Rimuovi questo segnalibro.\nSe abilitata, questa azione si sincronizzerà con il tuo profilo Braytech e sarà attiva ovunque tu userai l'app."
     }
   },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "Punteggio trionfale attivo",
+      "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Punteggio trionfale strorico",
@@ -217,10 +264,10 @@
       "description": "Punteggio totale di tutti i tionfi attivi e storici completati."
     }
   },
-  "active-triumph-score": {
+  "active-score-rank": {
     "displayProperties": {
-      "name": "Punteggio trionfale attivo",
-      "description": "Il valore attuale di tutti i trionfi attivi riscattati e il valore totale di tutti i trionfi attivi.\n\nQuesti valori cambiano quando i trionfi diventano trionfi storici."
+      "name": "Grado del punteggio trionfale attivo",
+      "description": "Il grado delle Classifiche in base al punteggio trionfale corrispondente, determinato da Voluspa."
     }
   },
   "total-resets": {
@@ -239,12 +286,6 @@
     "displayProperties": {
       "name": "Memorie Latenti",
       "description": "Misteriosi nodi di test sono sparsi per Marte. Qual è il loro scopo?"
-    }
-  },
-  "enable-dim-sync": {
-    "displayProperties": {
-      "name": "DIM Sync necessario",
-      "description": "Questa funzione richiede _DIM Sync_.\n\nAttiva il servizio nelle _Impostazioni_."
     }
   },
   "tooltip-error": {
@@ -319,15 +360,15 @@
       "description": "Elimina questa dotazione. Questa azione è permanente."
     }
   },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
+    }
+  },
   "configure-push-notifications": {
     "displayProperties": {
       "name": "Notifiche push",
       "description": "Le notifiche push possono raggiungerti quando non stai usando Braytech e ti permettono di non perdere quello che cerchi."
-    }
-  },
-  "progression-step-map": {
-    "displayProperties": {
-      "description": "_Questa mappa traccia i passi lungo il percorso verso la cima._"
     }
   },
   "push-notification-event-daily-lost-sector": {
@@ -336,10 +377,10 @@
       "description": "Non perdere mai più un settore perduto o una ricompensa in rotazione."
     }
   },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
+  "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
-      "name": "Shader di Ada-1",
-      "description": "Il tuo drip è limitato solo dalla tua scelta di shader. Rimani in contatto con Ada nel caso ti mancasse la merce."
+      "name": "Previsioni del tempo",
+      "description": "Approfondimenti predittivi e in tempo reale per Guardiani prudenti. Previsioni basate sui dati, indicatori di rischio e raccomandazioni personalizzate per un processo decisionale sicuro. Non lasciare mai più il comfort della tua astronave senza essere perfettamente preparato!"
     }
   },
   "push-notification-event-weekly-vendor-xur": {
@@ -348,10 +389,28 @@
       "description": "Un trafficante di strani oggetti. Xûr non ha una propria volontà e s'inchina a lontani signori, i Nove."
     }
   },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Shader di Ada-1",
+      "description": "Il tuo drip è limitato solo dalla tua scelta di shader. Rimani in contatto con Ada nel caso ti mancasse la merce."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Panoramica",
+      "description": "Ricevi una fitta serie di informazioni a ogni reset che riassume attività rituali, sfide cicliche e altri punti di interesse."
+    }
+  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crogiolo",
       "description": "Informati su quali modalità Lord Shaxx ha configurato per il Crogiolo.\n\nCombatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
+    }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "name": "Il Settimanale di Casa Bungie",
+      "description": "Ricevi le ultime notizie Bungie direttamente a te. Fresche e calde dal 2004. "
     }
   }
 }

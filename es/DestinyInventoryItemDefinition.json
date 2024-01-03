@@ -134,14 +134,14 @@
       "description": "Aumenta mucho la experiencia de tu Guardián."
     }
   },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar rasgos intrínsecos.\n\nSe obtienen principalmente desmontando armas legendarias, pero también pueden obtenerse por completar actividades."
-    }
-  },
   "3348653032": {
     "displayProperties": {
       "description": "Aumenta considerablemente la experiencia de tu Guardián."
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Aumenta mucho la experiencia de tu Guardián."
     }
   },
   "3491404510": {
@@ -150,9 +150,9 @@
     },
     "itemTypeDisplayName": "Material"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "Aumenta mucho la experiencia de tu Guardián."
+      "description": "Divisa utilizada en la formación de armas, necesaria para ajustar rasgos intrínsecos.\n\nSe obtienen principalmente desmontando armas legendarias, pero también pueden obtenerse por completar actividades."
     }
   },
   "23239861010": {

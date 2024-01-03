@@ -1,5 +1,6 @@
 import BraytechCommonDefinition from '@Data/manifest/zh-CHT/BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/zh-CHT/BraytechFeatureDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/zh-CHT/BraytechHelpDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/zh-CHT/DestinyActivityModifierDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/zh-CHT/DestinyChecklistDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/zh-CHT/DestinyInventoryBucketDefinition.json';
@@ -19,6 +20,7 @@ const zhCHT = {
   definitions: {
     BraytechCommonDefinition,
     BraytechFeatureDefinition,
+    BraytechHelpDefinition,
     DestinyActivityModifierDefinition,
     DestinyChecklistDefinition,
     DestinyInventoryBucketDefinition,

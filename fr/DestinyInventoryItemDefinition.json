@@ -20,6 +20,21 @@
     },
     "itemTypeDisplayName": "Engramme"
   },
+  "372496383": {
+    "displayProperties": {
+      "description": "Augmente votre rang d'Infamie de votre Gardien. Ne le dites pas à l'Avant-Garde."
+    }
+  },
+  "1190250163": {
+    "displayProperties": {
+      "description": "Matériel Synthécorde qui peut être converti en Synthéfibre en utilisant le métier à tisser."
+    }
+  },
+  "1808687944": {
+    "displayProperties": {
+      "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
+    }
+  },
   "304443327": {
     "displayProperties": {
       "description": "Augmente l'expérience de votre clan"
@@ -28,29 +43,14 @@
       "tierTypeName": "Commun"
     }
   },
-  "372496383": {
-    "displayProperties": {
-      "description": "Augmente votre rang d'Infamie de votre Gardien. Ne le dites pas à l'Avant-Garde."
-    }
-  },
   "691393048": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
-  "1190250163": {
-    "displayProperties": {
-      "description": "Matériel Synthécorde qui peut être converti en Synthéfibre en utilisant le métier à tisser."
-    }
-  },
   "1711513650": {
     "displayProperties": {
       "description": "Augmente énormément l'expérience de votre gardien."
-    }
-  },
-  "1808687944": {
-    "displayProperties": {
-      "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
     }
   },
   "1858002338": {
@@ -80,12 +80,12 @@
       "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
-  "2497395625": {
+  "3348653032": {
     "displayProperties": {
-      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
+      "description": "Augmente considérablement l'expérience de votre gardien."
     }
   },
-  "3348653032": {
+  "3582080006": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
     }
@@ -96,9 +96,9 @@
     },
     "itemTypeDisplayName": "Matériau"
   },
-  "3582080006": {
+  "2497395625": {
     "displayProperties": {
-      "description": "Augmente considérablement l'expérience de votre gardien."
+      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
     }
   },
   "23239861010": {

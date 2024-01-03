@@ -41,77 +41,77 @@
     },
     "itemTypeDisplayName": "Plataforma"
   },
-  "flair-developer": {
+  "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
       "description": "_Creador of Braytech._\nEste jugador creó la aplicación a través de la cual estás leyendo este mensaje."
     },
     "itemTypeDisplayName": "Desarrollador de Braytech"
   },
-  "flair-for-you": {
+  "medal-for-you": {
     "displayProperties": {
       "name": "\"La hice para ti\"",
       "description": "_Eres mi pequeño pogchamp, Guardian._ 🌞"
     },
     "itemTypeDisplayName": "Especial"
   },
-  "flair-icicle": {
+  "medal-icicle": {
     "displayProperties": {
       "name": "Icicle#6310",
       "description": "\"Fastidié a Tom y todo lo que conseguí fue esta estúpida medalla.\""
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-sunglas": {
+  "medal-sunglas": {
     "displayProperties": {
       "name": "\"Encontramos esto, para ti...\"",
       "description": "En el suelo en alguna parte...\nDetrás de un Arby's...\n(usa d2foundry.gg)"
     },
     "itemTypeDisplayName": "Special"
   },
-  "flair-bungie": {
+  "medal-bungie": {
     "displayProperties": {
       "name": "Desarrollador de Bungie",
       "description": "_Cuidado con los Arquitectos._ \nEste jugador _podría_ borrarte."
     },
     "itemTypeDisplayName": "Especial"
   },
-  "flair-api-dev": {
+  "medal-api-dev": {
     "displayProperties": {
       "name": "Desarrollador de la API de Bungie",
       "description": "_Cuidado con los Arquitectos._\nEste jugador construye con la API de Bungie."
     },
     "itemTypeDisplayName": "Especial"
   },
-  "flair-patron-submind": {
+  "medal-submind": {
     "displayProperties": {
       "name": "Submente",
       "description": "_Un fragmento del Estratega._\nUn inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Conserje de Braytech"
   },
-  "flair-patron-researcher": {
+  "medal-researcher": {
     "displayProperties": {
       "name": "Investigador/a",
       "description": "_Uno de los pocos investigadores supervivientes que han escapado a la traición de Clovis Bray._\nUn inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
-  "flair-patron": {
+  "medal-patron": {
     "displayProperties": {
       "name": "Mecenas",
       "description": "Un inestimable suscriptor de Patreon."
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
-  "flair-translator": {
+  "medal-translator": {
     "displayProperties": {
       "name": "Criptarca",
       "description": "_Un generoso traductor de Braytech._"
     },
     "itemTypeDisplayName": "Traductor de Braytech"
   },
-  "flair-charitable": {
+  "medal-charitable": {
     "displayProperties": {
       "name": "Benefactor",
       "description": "_Un Guardián solidario._\nEste jugador hizo una donación a una gran causa a través de la Bungie Foundation."
@@ -152,6 +152,12 @@
       "description": "El tiempo que tarda esta arma en completar una recarga completa y disparar. Este valor se basa únicamente en la estadística de velocidad de recarga y no se ve afectado por las ventajas."
     },
     "itemTypeDisplayName": "Estadística"
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Bajas únicas con arma",
+      "description": "Tus estadísticas se rastrean y se muestran en la API a través de varios sistemas diferentes; las estadísticas históricas están disponibles para armas exóticas y rastrean las bajas antes de que se activen los rastreadores de bajas."
+    }
   },
   "accurate-gear-power-average": {
     "displayProperties": {

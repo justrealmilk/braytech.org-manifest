@@ -1,0 +1,122 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Censurato"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Fucile automatico"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Fucile a pompa"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Mitragliatrice"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "Cannone portatile"
+    }
+  },
+  "10": {
+    "displayProperties": {
+      "name": "Lanciarazzi"
+    }
+  },
+  "11": {
+    "displayProperties": {
+      "name": "Fucile a fusione"
+    }
+  },
+  "12": {
+    "displayProperties": {
+      "name": "Fucile di precisione"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Fucile a impulsi"
+    }
+  },
+  "14": {
+    "displayProperties": {
+      "name": "Fucile da ricognizione"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "name": "Arma da supporto"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "name": "Spada"
+    }
+  },
+  "21": {
+    "displayProperties": {
+      "name": "Decoro"
+    }
+  },
+  "22": {
+    "displayProperties": {
+      "name": "Fucile a fusione lineare"
+    }
+  },
+  "23": {
+    "displayProperties": {
+      "name": "Lanciagranate"
+    }
+  },
+  "24": {
+    "displayProperties": {
+      "name": "Mitraglietta"
+    }
+  },
+  "25": {
+    "displayProperties": {
+      "name": "Fucile laser"
+    }
+  },
+  "26": {
+    "displayProperties": {
+      "name": "Elmo"
+    }
+  },
+  "27": {
+    "displayProperties": {
+      "name": "Guanti"
+    }
+  },
+  "28": {
+    "displayProperties": {
+      "name": "Armatura del corpo"
+    }
+  },
+  "29": {
+    "displayProperties": {
+      "name": "Armatura delle gambe"
+    }
+  },
+  "30": {
+    "displayProperties": {
+      "name": "Oggetto di classe"
+    }
+  },
+  "31": {
+    "displayProperties": {
+      "name": "Arco da combattimento"
+    }
+  },
+  "33": {
+    "displayProperties": {
+      "name": "Falcione"
+    }
+  }
+}

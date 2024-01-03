@@ -1,5 +1,6 @@
 import BraytechActivityDefinition from '@Data/manifest/it/BraytechActivityDefinition.json';
 import BraytechActivityDifficultyDefinition from '@Data/manifest/it/BraytechActivityDifficultyDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/it/BraytechHelpDefinition.json';
 import BraytechCommonDefinition from '@Data/manifest/it/BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/it/BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/it/BraytechMapsDefinition.json';
@@ -31,6 +32,7 @@ const it = {
     BraytechActivityDefinition,
     BraytechActivityDifficultyDefinition,
     BraytechCommonDefinition,
+    BraytechHelpDefinition,
     BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,

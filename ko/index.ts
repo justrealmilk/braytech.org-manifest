@@ -1,5 +1,6 @@
 import BraytechCommonDefinition from '@Data/manifest/ko/BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from '@Data/manifest/ko/BraytechFeatureDefinition.json';
+import BraytechHelpDefinition from '@Data/manifest/ko/BraytechHelpDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/ko/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/ko/BraytechMapsTypesDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/ko/DestinyActivityDefinition.json';
@@ -19,6 +20,7 @@ const ko = {
     BraytechCommonDefinition,
     BraytechFeatureDefinition,
     BraytechMapsDefinition,
+    BraytechHelpDefinition,
     BraytechMapsTypesDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,

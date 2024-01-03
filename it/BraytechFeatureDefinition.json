@@ -88,13 +88,31 @@
   "triumphs-active": {
     "displayProperties": {
       "name": "Trionfi e sigilli attivi",
-      "description": "Vedi tutti i trionfi e sigilli attivi"
+      "description": "Trionfi dei traguardi del Guardiano. Sfida te stesso secondo gli obiettivi qui indicati per ottenere fama, gloria e premi."
     }
   },
   "triumphs-legacy": {
     "displayProperties": {
       "name": "Trionfi e sigilli storici",
-      "description": "Vedi una collezione di trionfi e sigilli storici"
+      "description": "Trionfi del passato, questi trionfi non sono più ottenibili ma sono conservati qui per i posteri e la revisione."
+    }
+  },
+  "triumphs-tracked": {
+    "displayProperties": {
+      "name": "Trionfi seguiti",
+      "description": "Qui vedi tutti i trionfi che stai seguendo."
+    }
+  },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "name": "Trionfi non riscattati",
+      "description": "È tempo di lavorare quelle dita e riscattare qualche trionfo."
+    }
+  },
+  "triumphs-near": {
+    "displayProperties": {
+      "name": "Trionfi prossimi",
+      "description": "Obiettivi prioritari in base ai criteri di ordinamento. Questi trionfi sono quasi maturi per la raccolta."
     }
   },
   "triumphs-transient": {
@@ -164,12 +182,6 @@
       "moduli"
     ]
   },
-  "weeklies-this-week": {
-    "displayProperties": {
-      "name": "Questa settimana",
-      "description": "Questa settimana in Destiny"
-    }
-  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Sfide",
@@ -178,7 +190,8 @@
     "keywords": [
       "settimanali",
       "sfide",
-      "milestones",
+      "attività",
+      "pietre miliari",
       "bonus"
     ]
   },
@@ -216,7 +229,10 @@
       "inventario",
       "oggetti",
       "equipaggiamento",
-      "statistiche"
+      "statistiche",
+      "amministratore",
+      "consumabili",
+      "dotazioni"
     ]
   },
   "character-equipment": {
@@ -225,20 +241,22 @@
       "description": "Valuta la prontezza in battaglia del tuo Guardiano"
     }
   },
-  "character-postmaster": {
+  "character-breakdown": {
     "displayProperties": {
-      "name": "Amministratrice",
-      "description": "I telai da amministratore supervisionano diligentemente consegne, messsaggi e oggetti smarriti"
+      "name": "Resoconto",
+      "description": "Una panoramica dell'equipaggiamento e della prontezza del tuo Guardiani."
+    }
+  },
+  "character-inventory": {
+    "displayProperties": {
+      "name": "Inventario",
+      "description": "I telai amministratori supervisionano scrupolosamente consegne, messaggi e oggetti smarriti.\nForse possono aiutarti anche con le altre forniture e materiali."
     },
     "keywords": [
-      "amministratrice"
+      "amministratore",
+      "inventario",
+      "consumabili"
     ]
-  },
-  "character-consumables": {
-    "displayProperties": {
-      "name": "Consumabili",
-      "description": "Rifornimenti e materiali che possono essere usati per migliorare il tuo Guardiano e il suo equipaggiamento"
-    }
   },
   "character-vault": {
     "displayProperties": {
@@ -263,7 +281,7 @@
   "character-loadouts": {
     "displayProperties": {
       "name": "Dotazioni",
-      "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnagli un nome"
+      "description": "Preconfigura il tuo equipaggiamento, allaccialo e assegnali un nome"
     }
   },
   "quests": {
@@ -388,6 +406,18 @@
       "description": "Controlla come Braytech ti raggiunge quando non lo stai usando."
     }
   },
+  "settings-referrals": {
+    "displayProperties": {
+      "name": "Affiliazioni",
+      "description": "Presenta Braytech ai tuoi amici e familiari."
+    }
+  },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Abbonamenti",
+      "description": "Sostieni lo sviluppo di Braytech e ottieni un sacco di benefici."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Leggenda",
@@ -421,6 +451,18 @@
     "displayProperties": {
       "name": "Crediti",
       "description": "A proposito dei Guardiani che rendono possibile tutto ciò"
+    }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "Classifiche",
+      "description": "Classifiche dei giocatori per i Guardiani competitivi"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "Monitoraggio della squadra",
+      "description": "_Tu_ sei il centro di comando."
     }
   }
 }

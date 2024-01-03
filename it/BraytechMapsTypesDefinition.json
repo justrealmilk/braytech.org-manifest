@@ -23,5 +23,11 @@
     "displayProperties": {
       "name": "Evento Pubblico"
     }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Vista profonda",
+      "description": "Perfora il velo tra i mondi e rivela i segreti nascosti."
+    }
   }
 }

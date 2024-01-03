@@ -71,12 +71,6 @@
       "description": "查看守護者的裝備和庫存."
     }
   },
-  "character-postmaster": {
-    "displayProperties": {
-      "name": "Postmaster",
-      "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items"
-    }
-  },
   "character-vault": {
     "displayProperties": {
       "name": "Vault",
