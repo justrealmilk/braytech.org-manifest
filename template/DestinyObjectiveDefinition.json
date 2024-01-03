@@ -143,6 +143,9 @@
     },
     "progressDescription": "\"Ghost of the Deep\" dungeon completed"
   },
+  "3950614370": {
+    "progressDescription": "\"Warlord's Ruin\" dungeon completed"
+  },
   "2258905201": {
     "progressDescription": "Iron Banner matches completed"
   },
@@ -156,16 +159,16 @@
     "progressDescription": "Iron Banner matches completed"
   },
   "1166685245": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis, [Solar] Solar, or [Strand] Strand subclasses"
   },
   "2457555059": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis, [Solar] Solar, or [Strand] Strand subclasses"
   },
   "3304988490": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis, [Solar] Solar, or [Strand] Strand subclasses"
   },
   "3652736024": {
-    "progressDescription": "Iron Banner matches completed as [Arc] Arc, [Void] Void, [Solar] Solar, or [Strand] Strand subclasses"
+    "progressDescription": "Iron Banner matches completed as [Stasis] Stasis, [Solar] Solar, or [Strand] Strand subclasses"
   },
   "275339596": {
     "progressDescription": "Cloud Strider bounties completed"
@@ -179,25 +182,7 @@
   "2177999971": {
     "progressDescription": "Speak to Quinn Laghari"
   },
-  "209458417": {
-    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
-  },
-  "3865635517": {
-    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
-  },
-  "3007138885": {
-    "progressDescription": "Defeat combatants in \"Savathûn's Spire\" activities"
-  },
-  "1102817320": {
-    "progressDescription": "Legendary difficulty \"Savathûn's Spire\" activities completed"
-  },
-  "2939179412": {
-    "progressDescription": "\"Altars of Summoning\" reward chests opened"
-  },
-  "4010407132": {
-    "progressDescription": "\"Altars of Summoning\" reward chests opened"
-  },
-  "2601899456": {
-    "progressDescription": "\"Altars of Summoning\" reward chests opened"
+  "3447791523": {
+    "progressDescription": "Pathways cleared in \"Riven's Lair\" or \"The Coil\""
   }
 }
