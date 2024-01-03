@@ -52,7 +52,7 @@ public class FileUtils {
   }
 
   public static void saveDef(final Definition def) {
-    Path toFile = Paths.get(def.getLang(), def.getFileName());
+    Path toFile = def.getPath();
     Path fullPath = TO_REPO.resolve(toFile).normalize();
     if (!def.isEmpty()) {
       saveJson(fullPath, def.getProperties());

@@ -3,6 +3,7 @@ import java.nio.charset.Charset;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
 import java.nio.file.PathMatcher;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -31,9 +32,9 @@ public class Definition implements JsonObject {
     this.properties = properties;
   }
 
-  public Definition(Path defPath, final Map<String, Property> properties) {
-    this(defPath.getParent().getFileName().toString(),
-        defPath.getFileName().toString(),
+  public Definition(Path path, final Map<String, Property> properties) {
+    this(path.getParent().getFileName().toString(),
+        path.getFileName().toString(),
         properties);
   }
 
@@ -55,6 +56,10 @@ public class Definition implements JsonObject {
 
   public Map<String, Property> getProperties() {
     return properties;
+  }
+
+  public Path getPath() {
+    return Paths.get(lang, fileName);
   }
 
   public void replacePropertiesFrom(final Definition def) {
