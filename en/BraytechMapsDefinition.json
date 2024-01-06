@@ -1,286 +1,4 @@
 {
-  "697502628": {
-    "hash": 697502628,
-    "displayProperties": {
-      "description": "Ground-zero for a cataclysmic event that left a massive shard of The Traveler—the source of every Guardian's power and immortality—embedded in the vast landscape. For years, only wild vegetation and the remains of an abandoned city were evidence of our forgotten past."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000001,
-          "bubbleHash": 3091570009
-        },
-        {
-          "hash": 3000000002,
-          "bubbleHash": 3854937584
-        },
-        {
-          "hash": 3000000003,
-          "bubbleHash": 3340296448
-        },
-        {
-          "hash": 3000000001,
-          "bubbleHash": 2212414297
-        },
-        {
-          "hash": 3000000003,
-          "bubbleHash": 2212414297
-        },
-        {
-          "hash": 3000000001,
-          "bubbleHash": 3861059923
-        },
-        {
-          "hash": 3000000005,
-          "bubbleHash": 3861059923
-        },
-        {
-          "hash": 3000000001,
-          "bubbleHash": 4200309587
-        },
-        {
-          "hash": 3000000008,
-          "bubbleHash": 4200309587
-        },
-        {
-          "hash": 3000000005,
-          "bubbleHash": 1094980045
-        }
-      ]
-    }
-  },
-  "3990611421": {
-    "hash": 3990611421,
-    "displayProperties": {
-      "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000001,
-          "bubbleHash": 1788937179
-        },
-        {
-          "hash": 3000000007,
-          "bubbleHash": 1788937158
-        },
-        {
-          "hash": 3000000007,
-          "bubbleHash": 1432145396
-        },
-        {
-          "hash": 3000000004,
-          "bubbleHash": 3922935516
-        }
-      ]
-    }
-  },
-  "1737926756": {
-    "hash": 1737926756,
-    "displayProperties": {
-      "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
-    }
-  },
-  "677774031": {
-    "hash": 677774031,
-    "displayProperties": {
-      "description": "We once looked to the Moon and saw hope. Now we see only the power of the Darkness. An ancient evil stirs beneath the shattered surface of the Moon."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000007,
-          "bubbleHash": 3326367698
-        },
-        {
-          "hash": 3000000003,
-          "bubbleHash": 3326367698
-        },
-        {
-          "hash": 3000000007,
-          "bubbleHash": 4195493657
-        },
-        {
-          "hash": 3000000006,
-          "bubbleHash": 4195493657
-        },
-        {
-          "hash": 3000000004,
-          "bubbleHash": 4025450777
-        }
-      ]
-    }
-  },
-  "1729879943": {
-    "hash": 1729879943,
-    "displayProperties": {
-      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000009,
-          "bubbleHash": 2868856804
-        },
-        {
-          "hash": 3000000015,
-          "bubbleHash": 2868856804
-        },
-        {
-          "hash": 3000000003,
-          "bubbleHash": 396959363
-        },
-        {
-          "hash": 3000000015,
-          "bubbleHash": 396959363
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 1747045785
-        },
-        {
-          "hash": 3000000015,
-          "bubbleHash": 1747045785
-        }
-      ]
-    }
-  },
-  "2481646875": {
-    "hash": 2481646875,
-    "displayProperties": {
-      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000002,
-          "bubbleHash": 4158493479
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 4158493479
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 473462131
-        },
-        {
-          "hash": 3000000005,
-          "bubbleHash": 3773756244
-        },
-        {
-          "hash": 3000000002,
-          "bubbleHash": 3773756244
-        }
-      ]
-    }
-  },
-  "3607432451": {
-    "hash": 3607432451,
-    "displayProperties": {
-      "description": "Lush with giant twisted trees, deep caverns, waterfalls, and silver swamps, the origin of this planetoid remains unknown. What is clear is that the Vex have nearly transformed the entire planetoid into a Machine World, above and below the surface. For those Guardians willing to brave the dangers and explore the myriad of mysteries, treasures beyond the imagination await."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000003,
-          "bubbleHash": 4205285323
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 4205285323
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 3311195705
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 3710329679
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 3254430284
-        },
-        {
-          "hash": 3000000003,
-          "bubbleHash": 3254430284
-        },
-        {
-          "hash": 3000000002,
-          "bubbleHash": 1702304883
-        },
-        {
-          "hash": 3000000009,
-          "bubbleHash": 933267223
-        },
-        {
-          "hash": 3000000005,
-          "bubbleHash": 2132187573
-        },
-        {
-          "hash": 3000000001,
-          "bubbleHash": 2132187573
-        }
-      ]
-    }
-  },
-  "1416096592": {
-    "hash": 1416096592,
-    "displayProperties": {
-      "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000008,
-          "bubbleHash": 706937272
-        },
-        {
-          "hash": 3000000008,
-          "bubbleHash": 2762866308
-        },
-        {
-          "hash": 3000000013,
-          "bubbleHash": 3522109173
-        }
-      ]
-    }
-  },
-  "2244580325": {
-    "hash": 2244580325,
-    "displayProperties": {
-      "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
-    },
-    "related": {
-      "events": [
-        {
-          "hash": 3000000014,
-          "bubbleHash": 3056690829
-        },
-        {
-          "hash": 3000000012,
-          "bubbleHash": 3056690829
-        },
-        {
-          "hash": 3000000014,
-          "bubbleHash": 3375528975
-        },
-        {
-          "hash": 3000000012,
-          "bubbleHash": 3375528975
-        },
-        {
-          "hash": 3000000014,
-          "bubbleHash": 409878074
-        },
-        {
-          "hash": 3000000006,
-          "bubbleHash": 409878074
-        }
-      ]
-    }
-  },
   "1": {
     "hash": 1,
     "nodeType": 1,
@@ -1129,33 +847,6 @@
     },
     "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
   },
-  "1747045785": {
-    "hash": 1747045785,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "destinationHash": 1729879943,
-    "bubbleHash": 1747045785
-  },
-  "2868856804": {
-    "hash": 2868856804,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "destinationHash": 1729879943,
-    "bubbleHash": 2868856804
-  },
-  "396959363": {
-    "hash": 396959363,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "destinationHash": 1729879943,
-    "bubbleHash": 396959363
-  },
   "300": {
     "hash": 300,
     "displayProperties": {
@@ -1893,6 +1584,15 @@
       ]
     }
   },
+  "396959363": {
+    "hash": 396959363,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 396959363
+  },
   "463653643": {
     "hash": 463653643,
     "displayProperties": {
@@ -2027,6 +1727,86 @@
     },
     "checklistHash": 668304140,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/extraction-668304140.jpg"
+  },
+  "677774031": {
+    "hash": 677774031,
+    "displayProperties": {
+      "description": "We once looked to the Moon and saw hope. Now we see only the power of the Darkness. An ancient evil stirs beneath the shattered surface of the Moon."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000007,
+          "bubbleHash": 3326367698
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3326367698
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 4195493657
+        },
+        {
+          "hash": 3000000006,
+          "bubbleHash": 4195493657
+        },
+        {
+          "hash": 3000000004,
+          "bubbleHash": 4025450777
+        }
+      ]
+    }
+  },
+  "697502628": {
+    "hash": 697502628,
+    "displayProperties": {
+      "description": "Ground-zero for a cataclysmic event that left a massive shard of The Traveler—the source of every Guardian's power and immortality—embedded in the vast landscape. For years, only wild vegetation and the remains of an abandoned city were evidence of our forgotten past."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000001,
+          "bubbleHash": 3091570009
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 3854937584
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3340296448
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 2212414297
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 2212414297
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 3861059923
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 3861059923
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 4200309587
+        },
+        {
+          "hash": 3000000008,
+          "bubbleHash": 4200309587
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 1094980045
+        }
+      ]
+    }
   },
   "703052847": {
     "hash": 703052847,
@@ -3104,7 +2884,13 @@
     },
     "checklistHash": 1067697005,
     "extended": {
-      "video": "https://youtu.be/W8g0lsmYttk?t=62"
+      "video": "https://youtu.be/W8g0lsmYttk?t=62",
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 45
+        }
+      }
     },
     "related": {
       "records": [
@@ -3112,7 +2898,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1067697005.jpg"
   },
   "1084474576": {
     "hash": 1084474576,
@@ -3256,7 +3043,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474583.jpg"
   },
   "1084474590": {
     "hash": 1084474590,
@@ -3316,7 +3104,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252162.jpg"
   },
   "1101252163": {
     "hash": 1101252163,
@@ -3334,7 +3123,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252163.jpg"
   },
   "1101252168": {
     "hash": 1101252168,
@@ -3352,7 +3142,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252168.jpg"
   },
   "1101252169": {
     "hash": 1101252169,
@@ -3370,7 +3161,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252169.jpg"
   },
   "1101252171": {
     "hash": 1101252171,
@@ -3388,7 +3180,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252171.jpg"
   },
   "1101252172": {
     "hash": 1101252172,
@@ -3406,7 +3199,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252172.jpg"
   },
   "1101252173": {
     "hash": 1101252173,
@@ -3424,7 +3218,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252173.jpg"
   },
   "1101252174": {
     "hash": 1101252174,
@@ -3442,7 +3237,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252174.jpg"
   },
   "1101252175": {
     "hash": 1101252175,
@@ -3452,7 +3248,13 @@
     },
     "checklistHash": 1101252175,
     "extended": {
-      "video": "https://youtu.be/eihqad70SuY?t=80"
+      "video": "https://youtu.be/eihqad70SuY?t=80",
+      "screenshot": {
+        "highlight": {
+          "x": 35,
+          "y": 48
+        }
+      }
     },
     "related": {
       "records": [
@@ -3460,7 +3262,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/the-shattered-throne-1101252175.jpg"
   },
   "1105312397": {
     "hash": 1105312397,
@@ -3939,7 +3742,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-shattered-throne-1370818864.jpg"
   },
   "1370818865": {
     "hash": 1370818865,
@@ -4012,7 +3816,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-shattered-throne-1370818868.jpg"
   },
   "1370818869": {
     "hash": 1370818869,
@@ -4048,7 +3853,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-shattered-throne-1370818871.jpg"
   },
   "1370818878": {
     "hash": 1370818878,
@@ -4084,7 +3890,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1370818879.jpg"
   },
   "1375559682": {
     "hash": 1375559682,
@@ -4166,7 +3973,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-shattered-throne-1387596459.jpg"
   },
   "1387596460": {
     "hash": 1387596460,
@@ -4237,6 +4045,28 @@
     },
     "checklistHash": 1390564489,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/perdition-1390564489.jpg"
+  },
+  "1416096592": {
+    "hash": 1416096592,
+    "displayProperties": {
+      "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000008,
+          "bubbleHash": 706937272
+        },
+        {
+          "hash": 3000000008,
+          "bubbleHash": 2762866308
+        },
+        {
+          "hash": 3000000013,
+          "bubbleHash": 3522109173
+        }
+      ]
+    }
   },
   "1427733666": {
     "hash": 1427733666,
@@ -4518,6 +4348,55 @@
     },
     "checklistHash": 1719798656,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/methane-flush-1719798656.jpg"
+  },
+  "1729879943": {
+    "hash": 1729879943,
+    "displayProperties": {
+      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000009,
+          "bubbleHash": 2868856804
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 2868856804
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 396959363
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 396959363
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 1747045785
+        },
+        {
+          "hash": 3000000015,
+          "bubbleHash": 1747045785
+        }
+      ]
+    }
+  },
+  "1737926756": {
+    "hash": 1737926756,
+    "displayProperties": {
+      "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
+    }
+  },
+  "1747045785": {
+    "hash": 1747045785,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 1747045785
   },
   "1780053523": {
     "hash": 1780053523,
@@ -7426,42 +7305,6 @@
       ]
     }
   },
-  "2000000294": {
-    "hash": 2000000294,
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle",
-      "description": "",
-      "icon": "deepsight"
-    },
-    "nodeType": 13
-  },
-  "2000000295": {
-    "hash": 2000000295,
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle",
-      "description": "",
-      "icon": "deepsight"
-    },
-    "nodeType": 13
-  },
-  "2000000296": {
-    "hash": 2000000296,
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle",
-      "description": "",
-      "icon": "deepsight"
-    },
-    "nodeType": 13
-  },
-  "2000000297": {
-    "hash": 2000000297,
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle",
-      "description": "",
-      "icon": "deepsight"
-    },
-    "nodeType": 13
-  },
   "2000000254": {
     "hash": 2000000254,
     "nodeType": 3,
@@ -7812,140 +7655,41 @@
       "icon": "patrol-random"
     }
   },
-  "3000000001": {
-    "hash": 3000000001,
-    "nodeType": 5,
+  "2000000294": {
+    "hash": 2000000294,
     "displayProperties": {
-      "name": "Glimmer Extraction",
-      "description": "Fallen mining crew have arrived to drill the area for glimmer. Fight them off and out of the area.\n\nDestroy the supporting **control module** by the drill at **each mining location** to trigger heroic.",
-      "icon": "public-event"
-    }
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
   },
-  "3000000002": {
-    "hash": 3000000002,
-    "nodeType": 5,
+  "2000000295": {
+    "hash": 2000000295,
     "displayProperties": {
-      "name": "Cabal Excavation",
-      "description": "A mining lander drops from the sky, protected by Cabal troops. Guardians in the area are commanded to confiscate the machinery or destroy it.\n\nDestroy the **Thresher** circling above to trigger heroic.",
-      "icon": "public-event"
-    }
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
   },
-  "3000000003": {
-    "hash": 3000000003,
-    "nodeType": 5,
+  "2000000296": {
+    "hash": 2000000296,
     "displayProperties": {
-      "name": "Ether Resupply",
-      "description": "A **Prime Ether Servitor** has transmat in and is preparing to resupply. Intervene with your weapons.\n\nDestroy **Transport Servitors** to trigger heroic; first one servitor and then three, do so quickly before they transmat.",
-      "icon": "public-event"
-    }
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
   },
-  "3000000004": {
-    "hash": 3000000004,
-    "nodeType": 5,
+  "2000000297": {
+    "hash": 2000000297,
     "displayProperties": {
-      "name": "Weapons Exchange",
-      "description": "Fallen in the area are preparing to receive artillery; a **Fallen Walker** is en route.\n\nDamage the **Fallen Walker** to generate charges. Deposit the charges into the nearby recepticles to **lower all three shields** to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000005": {
-    "hash": 3000000005,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Injection Rig",
-      "description": "The Cabal have landed blasted, rock-shaking, concentration-shattering machinery. Give them a hand.\n\nDestroy the top, middle, and center **thermal vents** to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000006": {
-    "hash": 3000000006,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Witches Ritual",
-      "description": "The Hive are relentless; disrupt their ritual and dispel their magic.\n\nActivate **ritual plates** to lower the shields protecting the **crystals**. Destroy both crystals to trigger heroic.",
-      "icon": "public-event"
-    }
-  },  
-  "3000000007": {
-    "hash": 3000000007,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Crashed Warsat",
-      "description": "One of Rasputin's Warsats has crash-landed. Enemy combatants are gathering to steal its technology and intelligence. Fend them off and prepare the device for transmat.\n\nDestroy each of the **three Hive shriekers** to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000008": {
-    "hash": 3000000008,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Taken Blight",
-      "description": "Increased Taken activity in the area; dispose of them, and the blights that provide them succor.\n\nStep into the perimeter of a blight and be granted the **Blight Receding** buff which will enable you to damage the primary blight with conventional weaponry. Destroy the primary blight, drawing out the Blightmaker, to trigger heroic.",
-      "icon": "public-event"
-    }
-  },  
-  "3000000009": {
-    "hash": 3000000009,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Spire Integration",
-      "description": "The Vex are setting up for spire integration. Prevent Vex from sacrificing against the conflux.\n\nCapture all **three sync plates** to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000010": {
-    "hash": 3000000010,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "The Gatelord",
-      "description": "???",
-      "icon": "public-event"
-    }
-  },  
-  "3000000011": {
-    "hash": 3000000011,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Cryo-pod Extraction",
-      "description": "???",
-      "icon": "public-event"
-    }
-  },
-  "3000000012": {
-    "hash": 3000000012,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Ether Ritual",
-      "description": "The Scorn are attempting to extract Dark Ether from a Harvester. Shut them down.\n\n**Shoot down** any **ether** flowing towards the Harvester to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000013": {
-    "hash": 3000000013,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "The Rift Generator",
-      "description": "Defend an Awoken device from hordes of Scorn and Taken manipulations.\n\nDestroy each of the forming blights before they dissipate to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000014": {
-    "hash": 3000000014,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Resonant Destruction",
-      "description": "A **Resonant Splinter** has manifested near. Claim control and guide it to your enemies destruction.\n\nKill **Resonant Keepers** and throw the **charges** they drop at the Resonant Splinter to trigger heroic.",
-      "icon": "public-event"
-    }
-  },
-  "3000000015": {
-    "hash": 3000000015,
-    "nodeType": 5,
-    "displayProperties": {
-      "name": "Crux Convergence",
-      "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic.",
-      "icon": "public-event"
-    }
+      "name": "Timed Deepsight Puzzle",
+      "description": "",
+      "icon": "deepsight"
+    },
+    "nodeType": 13
   },
   "2013384876": {
     "hash": 2013384876,
@@ -8052,6 +7796,40 @@
     },
     "checklistHash": 2242541542,
     "screenshot": "/static/images/screenshots/checklists/region-chests/skywatch-2242541542.jpg"
+  },
+  "2244580325": {
+    "hash": 2244580325,
+    "displayProperties": {
+      "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000014,
+          "bubbleHash": 3056690829
+        },
+        {
+          "hash": 3000000012,
+          "bubbleHash": 3056690829
+        },
+        {
+          "hash": 3000000014,
+          "bubbleHash": 3375528975
+        },
+        {
+          "hash": 3000000012,
+          "bubbleHash": 3375528975
+        },
+        {
+          "hash": 3000000014,
+          "bubbleHash": 409878074
+        },
+        {
+          "hash": 3000000006,
+          "bubbleHash": 409878074
+        }
+      ]
+    }
   },
   "2248063191": {
     "hash": 2248063191,
@@ -8339,6 +8117,36 @@
     },
     "checklistHash": 2473593253,
     "screenshot": "/static/images/screenshots/checklists/region-chests/outskirts_region-chests_11.jpg"
+  },
+  "2481646875": {
+    "hash": 2481646875,
+    "displayProperties": {
+      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000002,
+          "bubbleHash": 4158493479
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 4158493479
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 473462131
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 3773756244
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 3773756244
+        }
+      ]
+    }
   },
   "2482079866": {
     "hash": 2482079866,
@@ -8821,6 +8629,15 @@
       }
     }
   },
+  "2868856804": {
+    "hash": 2868856804,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "destinationHash": 1729879943,
+    "bubbleHash": 2868856804
+  },
   "2890414560": {
     "hash": 2890414560,
     "displayProperties": {
@@ -8999,6 +8816,141 @@
     },
     "checklistHash": 2980991787,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/veles-labyrinth-2980991787.jpg"
+  },
+  "3000000001": {
+    "hash": 3000000001,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Glimmer Extraction",
+      "description": "Fallen mining crew have arrived to drill the area for glimmer. Fight them off and out of the area.\n\nDestroy the supporting **control module** by the drill at **each mining location** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000002": {
+    "hash": 3000000002,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Cabal Excavation",
+      "description": "A mining lander drops from the sky, protected by Cabal troops. Guardians in the area are commanded to confiscate the machinery or destroy it.\n\nDestroy the **Thresher** circling above to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000003": {
+    "hash": 3000000003,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Ether Resupply",
+      "description": "A **Prime Ether Servitor** has transmat in and is preparing to resupply. Intervene with your weapons.\n\nDestroy **Transport Servitors** to trigger heroic; first one servitor and then three, do so quickly before they transmat.",
+      "icon": "public-event"
+    }
+  },
+  "3000000004": {
+    "hash": 3000000004,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Weapons Exchange",
+      "description": "Fallen in the area are preparing to receive artillery; a **Fallen Walker** is en route.\n\nDamage the **Fallen Walker** to generate charges. Deposit the charges into the nearby recepticles to **lower all three shields** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000005": {
+    "hash": 3000000005,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Injection Rig",
+      "description": "The Cabal have landed blasted, rock-shaking, concentration-shattering machinery. Give them a hand.\n\nDestroy the top, middle, and center **thermal vents** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000006": {
+    "hash": 3000000006,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Witches Ritual",
+      "description": "The Hive are relentless; disrupt their ritual and dispel their magic.\n\nActivate **ritual plates** to lower the shields protecting the **crystals**. Destroy both crystals to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000007": {
+    "hash": 3000000007,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Crashed Warsat",
+      "description": "One of Rasputin's Warsats has crash-landed. Enemy combatants are gathering to steal its technology and intelligence. Fend them off and prepare the device for transmat.\n\nDestroy each of the **three Hive shriekers** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000008": {
+    "hash": 3000000008,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Taken Blight",
+      "description": "Increased Taken activity in the area; dispose of them, and the blights that provide them succor.\n\nStep into the perimeter of a blight and be granted the **Blight Receding** buff which will enable you to damage the primary blight with conventional weaponry. Destroy the primary blight, drawing out the Blightmaker, to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000009": {
+    "hash": 3000000009,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Spire Integration",
+      "description": "The Vex are setting up for spire integration. Prevent Vex from sacrificing against the conflux.\n\nCapture all **three sync plates** to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000010": {
+    "hash": 3000000010,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "The Gatelord",
+      "description": "???",
+      "icon": "public-event"
+    }
+  },
+  "3000000011": {
+    "hash": 3000000011,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Cryo-pod Extraction",
+      "description": "???",
+      "icon": "public-event"
+    }
+  },
+  "3000000012": {
+    "hash": 3000000012,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Ether Ritual",
+      "description": "The Scorn are attempting to extract Dark Ether from a Harvester. Shut them down.\n\n**Shoot down** any **ether** flowing towards the Harvester to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000013": {
+    "hash": 3000000013,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "The Rift Generator",
+      "description": "Defend an Awoken device from hordes of Scorn and Taken manipulations.\n\nDestroy each of the forming blights before they dissipate to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000014": {
+    "hash": 3000000014,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Resonant Destruction",
+      "description": "A **Resonant Splinter** has manifested near. Claim control and guide it to your enemies destruction.\n\nKill **Resonant Keepers** and throw the **charges** they drop at the Resonant Splinter to trigger heroic.",
+      "icon": "public-event"
+    }
+  },
+  "3000000015": {
+    "hash": 3000000015,
+    "nodeType": 5,
+    "displayProperties": {
+      "name": "Crux Convergence",
+      "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic.",
+      "icon": "public-event"
+    }
   },
   "3010602390": {
     "hash": 3010602390,
@@ -9582,6 +9534,56 @@
       "video": "https://www.youtube.com/watch?v=2-cYU_XzBkI&t=38s"
     }
   },
+  "3607432451": {
+    "hash": 3607432451,
+    "displayProperties": {
+      "description": "Lush with giant twisted trees, deep caverns, waterfalls, and silver swamps, the origin of this planetoid remains unknown. What is clear is that the Vex have nearly transformed the entire planetoid into a Machine World, above and below the surface. For those Guardians willing to brave the dangers and explore the myriad of mysteries, treasures beyond the imagination await."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000003,
+          "bubbleHash": 4205285323
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 4205285323
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3311195705
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3710329679
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 3254430284
+        },
+        {
+          "hash": 3000000003,
+          "bubbleHash": 3254430284
+        },
+        {
+          "hash": 3000000002,
+          "bubbleHash": 1702304883
+        },
+        {
+          "hash": 3000000009,
+          "bubbleHash": 933267223
+        },
+        {
+          "hash": 3000000005,
+          "bubbleHash": 2132187573
+        },
+        {
+          "hash": 3000000001,
+          "bubbleHash": 2132187573
+        }
+      ]
+    }
+  },
   "3609559330": {
     "hash": 3609559330,
     "displayProperties": {
@@ -9998,6 +10000,32 @@
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-strand-3986286066.jpg",
     "extended": {
       "untracked": true
+    }
+  },
+  "3990611421": {
+    "hash": 3990611421,
+    "displayProperties": {
+      "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
+    },
+    "related": {
+      "events": [
+        {
+          "hash": 3000000001,
+          "bubbleHash": 1788937179
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 1788937158
+        },
+        {
+          "hash": 3000000007,
+          "bubbleHash": 1432145396
+        },
+        {
+          "hash": 3000000004,
+          "bubbleHash": 3922935516
+        }
+      ]
     }
   },
   "4006123814": {
