@@ -412,6 +412,12 @@
       "description": "友達や大切や人にBraytechを紹介しよう"
     }
   },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "サブスクリプション",
+      "description": "Braytechが継続できるよう支援し、\"アガる\" 特典をゲットしよう。"
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "伝説",
