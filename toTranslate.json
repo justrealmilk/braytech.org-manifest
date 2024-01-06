@@ -993,32 +993,6 @@
       "3000000015"
     ]
   },
-  "ja": {
-    "BraytechFeatureDefinition.json": [
-      "settings-subscriptions"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "3950614370",
-      "3447791523"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "860071581"
-    ],
-    "BraytechCommonDefinition.json": [
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian"
-    ],
-    "DestinyActivityDefinition.json": [
-      "968118624"
-    ]
-  },
   "ko": {
     "BraytechFeatureDefinition.json": [
       "clan-about",
