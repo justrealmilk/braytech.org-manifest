@@ -1,49 +1,4 @@
 {
-  "697502628": {
-    "displayProperties": {
-      "description": "Ground-zero for a cataclysmic event that left a massive shard of The Traveler—the source of every Guardian's power and immortality—embedded in the vast landscape. For years, only wild vegetation and the remains of an abandoned city were evidence of our forgotten past."
-    }
-  },
-  "3990611421": {
-    "displayProperties": {
-      "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
-    }
-  },
-  "1737926756": {
-    "displayProperties": {
-      "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
-    }
-  },
-  "677774031": {
-    "displayProperties": {
-      "description": "We once looked to the Moon and saw hope. Now we see only the power of the Darkness. An ancient evil stirs beneath the shattered surface of the Moon."
-    }
-  },
-  "1729879943": {
-    "displayProperties": {
-      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
-    }
-  },
-  "2481646875": {
-    "displayProperties": {
-      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
-    }
-  },
-  "3607432451": {
-    "displayProperties": {
-      "description": "Lush with giant twisted trees, deep caverns, waterfalls, and silver swamps, the origin of this planetoid remains unknown. What is clear is that the Vex have nearly transformed the entire planetoid into a Machine World, above and below the surface. For those Guardians willing to brave the dangers and explore the myriad of mysteries, treasures beyond the imagination await."
-    }
-  },
-  "1416096592": {
-    "displayProperties": {
-      "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
-    }
-  },
-  "2244580325": {
-    "displayProperties": {
-      "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
-    }
-  },
   "1": {
     "displayProperties": {
       "name": "The Confluence West",
@@ -231,6 +186,16 @@
       "description": "Through the waterfall."
     }
   },
+  "677774031": {
+    "displayProperties": {
+      "description": "We once looked to the Moon and saw hope. Now we see only the power of the Darkness. An ancient evil stirs beneath the shattered surface of the Moon."
+    }
+  },
+  "697502628": {
+    "displayProperties": {
+      "description": "Ground-zero for a cataclysmic event that left a massive shard of The Traveler—the source of every Guardian's power and immortality—embedded in the vast landscape. For years, only wild vegetation and the remains of an abandoned city were evidence of our forgotten past."
+    }
+  },
   "703052847": {
     "displayProperties": {
       "description": "Accessible via the **Altar of Reflection** activities."
@@ -299,6 +264,21 @@
   "1387596458": {
     "displayProperties": {
       "description": "Upon reaching **Queen's Court**, scale the wall to the left of the throne."
+    }
+  },
+  "1416096592": {
+    "displayProperties": {
+      "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
+    }
+  },
+  "1729879943": {
+    "displayProperties": {
+      "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
+    }
+  },
+  "1737926756": {
+    "displayProperties": {
+      "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
     }
   },
   "1903309704": {
@@ -1422,26 +1402,6 @@
     },
     "itemTypeDisplayName": "Lucent Executioner"
   },
-  "2000000294": {
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle"
-    }
-  },
-  "2000000295": {
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle"
-    }
-  },
-  "2000000296": {
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle"
-    }
-  },
-  "2000000297": {
-    "displayProperties": {
-      "name": "Timed Deepsight Puzzle"
-    }
-  },
   "2000000254": {
     "displayProperties": {
       "name": "Nightmare of Zydron, Gate Lord"
@@ -1655,6 +1615,66 @@
       "description": "This beacon can relay various objectives."
     }
   },
+  "2000000294": {
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle"
+    }
+  },
+  "2000000295": {
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle"
+    }
+  },
+  "2000000296": {
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle"
+    }
+  },
+  "2000000297": {
+    "displayProperties": {
+      "name": "Timed Deepsight Puzzle"
+    }
+  },
+  "2244580325": {
+    "displayProperties": {
+      "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
+    }
+  },
+  "2442093127": {
+    "extended": {
+      "tip": "At the foot of..."
+    }
+  },
+  "2481646875": {
+    "displayProperties": {
+      "description": "A neon tech-metropolis, untouched by the Collapse, protected by the valiant Cloud Striders."
+    }
+  },
+  "2495538001": {
+    "displayProperties": {
+      "description": "Cliff-side, beneath the path which leads to a lost sector."
+    }
+  },
+  "2503906440": {
+    "displayProperties": {
+      "description": "Inside the causeway's ceiling."
+    }
+  },
+  "2779900411": {
+    "displayProperties": {
+      "description": "After completing the sector, proceed to the exit and find the subject on the way out."
+    }
+  },
+  "2809244994": {
+    "displayProperties": {
+      "description": "Perched upon the midwall of the **Infinite Forest**."
+    }
+  },
+  "2895058245": {
+    "displayProperties": {
+      "description": "Accessible via the **Wellspring** offensive."
+    }
+  },
   "3000000001": {
     "displayProperties": {
       "name": "Glimmer Extraction",
@@ -1745,39 +1765,14 @@
       "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic."
     }
   },
-  "2442093127": {
-    "extended": {
-      "tip": "At the foot of..."
-    }
-  },
-  "2495538001": {
-    "displayProperties": {
-      "description": "Cliff-side, beneath the path which leads to a lost sector."
-    }
-  },
-  "2503906440": {
-    "displayProperties": {
-      "description": "Inside the causeway's ceiling."
-    }
-  },
-  "2779900411": {
-    "displayProperties": {
-      "description": "After completing the sector, proceed to the exit and find the subject on the way out."
-    }
-  },
-  "2809244994": {
-    "displayProperties": {
-      "description": "Perched upon the midwall of the **Infinite Forest**."
-    }
-  },
-  "2895058245": {
-    "displayProperties": {
-      "description": "Accessible via the **Wellspring** offensive."
-    }
-  },
   "3307732497": {
     "displayProperties": {
       "description": "Up in the very top left corner, on the rocks."
+    }
+  },
+  "3607432451": {
+    "displayProperties": {
+      "description": "Lush with giant twisted trees, deep caverns, waterfalls, and silver swamps, the origin of this planetoid remains unknown. What is clear is that the Vex have nearly transformed the entire planetoid into a Machine World, above and below the surface. For those Guardians willing to brave the dangers and explore the myriad of mysteries, treasures beyond the imagination await."
     }
   },
   "3609559330": {
@@ -1818,6 +1813,11 @@
   "3977481189": {
     "displayProperties": {
       "description": "Entering the **Circle of Bones** via the **Gatehouse**, turn right and proceed to follow the loop around the **Hellmouth**. Before reaching the next junction, turn on your heel and look beneath the platform to find two jade eyes piercing through your Traveler-given light."
+    }
+  },
+  "3990611421": {
+    "displayProperties": {
+      "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
     }
   },
   "4006123814": {
