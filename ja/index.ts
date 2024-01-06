@@ -5,6 +5,7 @@ import BraytechFeatureDefinition from '@Data/manifest/ja/BraytechFeatureDefiniti
 import BraytechHelpDefinition from '@Data/manifest/ja/BraytechHelpDefinition.json';
 import BraytechMapsDefinition from '@Data/manifest/ja/BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from '@Data/manifest/ja/BraytechMapsTypesDefinition.json';
+import BraytechRotationDefinition from '@Data/manifest/ja/BraytechRotationDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/ja/DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from '@Data/manifest/ja/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ja/DestinyActivityModifierDefinition.json';
@@ -16,6 +17,9 @@ import DestinyDestinationDefinition from '@Data/manifest/ja/DestinyDestinationDe
 import DestinyHistoricalStatsDefinition from '@Data/manifest/ja/DestinyHistoricalStatsDefinition.json';
 import DestinyInventoryBucketDefinition from '@Data/manifest/ja/DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from '@Data/manifest/ja/DestinyInventoryItemDefinition.json';
+import DestinyItemSubTypeDefinition from '@Data/manifest/ja/DestinyItemSubTypeDefinition.json';
+import DestinyItemTypeDefinition from '@Data/manifest/ja/DestinyItemTypeDefinition.json';
+import DestinyLoadoutNameDefinition from '@Data/manifest/ja/DestinyLoadoutNameDefinition.json';
 import DestinyMilestoneDefinition from '@Data/manifest/ja/DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from '@Data/manifest/ja/DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from '@Data/manifest/ja/DestinyPhaseDefinition.json';
@@ -32,9 +36,10 @@ const ja = {
     BraytechActivityDifficultyDefinition,
     BraytechCommonDefinition,
     BraytechFeatureDefinition,
-    BraytechHelpDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
+    BraytechHelpDefinition,
+    BraytechRotationDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
@@ -44,8 +49,11 @@ const ja = {
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
     DestinyHistoricalStatsDefinition,
+    DestinyItemSubTypeDefinition,
+    DestinyItemTypeDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyLoadoutNameDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,

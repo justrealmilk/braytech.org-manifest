@@ -143,29 +143,32 @@
     },
     "progressDescription": "迷宮\"深淵の亡霊\" 周回完了"
   },
+  "3950614370": {
+    "progressDescription": "迷宮\"ウォーロードの旧跡\" 周回完了"
+  },
   "2258905201": {
-    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
+    "progressDescription": "アイアンバナーの対戦を完了する"
   },
   "2050629406": {
-    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
+    "progressDescription": "アイアンバナーの対戦を完了する"
   },
   "3376767511": {
-    "progressDescription": "アイアンバナーで[Arc] アーク、 [Void] ボイドまたは[Strand] ストランドでプレイする"
+    "progressDescription": "アイアンバナーの対戦を完了する"
   },
   "1878970132": {
     "progressDescription": "アイアンバナーの対戦を完了する"
   },
   "1166685245": {
-    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
   },
   "2457555059": {
-    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
   },
   "3304988490": {
-    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
   },
   "3652736024": {
-    "progressDescription": "アイアンバナーの対戦で [Arc] アーク, [Void] ボイド, [Solar] ソーラー, または [Strand] ストランドで完了する"
+    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
   },
   "275339596": {
     "progressDescription": "クラウドストライダーのバウンティを完了させる"
@@ -178,5 +181,8 @@
   },
   "2177999971": {
     "progressDescription": "クイン・ラガーリに話しかける"
+  },
+  "3447791523": {
+    "progressDescription": "「リベンのねぐら」または「とぐろ」で通路を完了する"
   }
 }

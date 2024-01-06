@@ -90,10 +90,31 @@
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "熾天使",
+      "description": "_ラスプーチンの平和維持部隊に加わり、ウォーマインドと協力して太陽系に平和を取り戻そう。あなたの活躍は何物にも代えがたい。_"
+    },
+    "itemTypeDisplayName": "Braytech サポーター"
+  },
   "medal-researcher": {
     "displayProperties": {
       "name": "リサーチャー",
       "description": "_クロビス・ブレイの欺瞞から抜け出した数少ない研究者たち_\n 重要なPatreonサブスクライバー"
+    },
+    "itemTypeDisplayName": "Braytechサポーター"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "ガーディアン",
+      "description": "_お前こそが真のガーディアンだ。比類なき可能性を秘めたお前だけが、太陽系に壮大な変革をもたらすことができる。_"
+    },
+    "itemTypeDisplayName": "Braytechサポーター"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "一般市民",
+      "description": "_もし研究所内の安全衛生部門が何が起きているのか知っていたら、気色悪いワープホールから二等辺三角形が出てきた時にラスプーチンよりも早くここは閉鎖されるだろう。_"
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
