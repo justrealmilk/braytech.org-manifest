@@ -2945,7 +2945,7 @@
     },
     "checklistHash": 1084474578,
     "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk?t=2m33s"
+      "video": "https://www.youtube.com/watch?v=krKt_idHfMA"
     },
     "related": {
       "records": [
@@ -2953,7 +2953,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474578.jpg"
   },
   "1084474579": {
     "hash": 1084474579,
@@ -2963,7 +2964,7 @@
     },
     "checklistHash": 1084474579,
     "extended": {
-      "video": "https://youtu.be/UDaLEilK9Xk"
+      "video": "https://www.youtube.com/watch?v=krKt_idHfMA"
     },
     "related": {
       "records": [
@@ -2971,7 +2972,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474579.jpg"
   },
   "1084474580": {
     "hash": 1084474580,
@@ -3924,11 +3926,17 @@
     "hash": 1387596457,
     "displayProperties": {
       "name": "",
-      "description": ""
+      "description": "While **Ascendant**, you can find a path of platforms down or drop from above. If you do drop from above, be sure to break your fall and look for the platform to appear."
     },
     "checklistHash": 1387596457,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=h-aNQy6mTME"
+      "video": "https://www.youtube.com/watch?v=krKt_idHfMA",
+      "screenshot": {
+        "highlight": {
+          "x": 46,
+          "y": 85
+        }
+      }
     },
     "related": {
       "records": [
@@ -3936,7 +3944,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1387596457.jpg"
   },
   "1387596458": {
     "hash": 1387596458,
