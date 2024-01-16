@@ -3,7 +3,7 @@ import BraytechActivityDefinition from '@Data/manifest/zh-CHS/BraytechActivityDe
 import BraytechCommonDefinition from '@Data/manifest/zh-CHS/BraytechCommonDefinition.json';
 import BraytechCommonDefinitionColloquial from '@Data/manifest/zh-CHS/BraytechCommonDefinitionColloquial.json';
 import BraytechFeatureDefinition from '@Data/manifest/zh-CHS/BraytechFeatureDefinition.json';
-import BraytechMapTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
+import BraytechMapsTypesDefinition from '@Data/manifest/zh-CHS/BraytechMapsTypesDefinition.json';
 import BraytechHelpDefinition from '@Data/manifest/zh-CHS/BraytechHelpDefinition.json';
 import BraytechRotationDefinition from '@Data/manifest/zh-CHS/BraytechRotationDefinition.json';
 import DestinyActivityDefinition from '@Data/manifest/zh-CHS/DestinyActivityDefinition.json';
@@ -33,7 +33,7 @@ const zhCHS = {
     BraytechActivityDifficultyDefinition,
     BraytechCommonDefinition,
     BraytechFeatureDefinition,
-    BraytechMapTypesDefinition,
+    BraytechMapsTypesDefinition,
     BraytechHelpDefinition,
     BraytechRotationDefinition,
     DestinyActivityDefinition,
