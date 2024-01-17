@@ -7,51 +7,7 @@
   "2": {
     "displayProperties": {
       "name": "上维挑战"
-    },
-    "rotation": [
-      {
-        "nodeHash": 5,
-        "displayProperties": {
-          "name": "衔尾蛇",
-          "description": ""
-        }
-      },
-      {
-        "nodeHash": 7,
-        "displayProperties": {
-          "name": "失却神殿",
-          "description": ""
-        }
-      },
-      {
-        "nodeHash": 9,
-        "displayProperties": {
-          "name": "破碎废墟",
-          "description": ""
-        }
-      },
-      {
-        "nodeHash": 11,
-        "displayProperties": {
-          "name": "锋刃要塞",
-          "description": ""
-        }
-      },
-      {
-        "nodeHash": 13,
-        "displayProperties": {
-          "name": "权威深渊",
-          "description": ""
-        }
-      },
-      {
-        "nodeHash": 15,
-        "displayProperties": {
-          "name": "辛梅里安卫戍营",
-          "description": ""
-        }
-      }
-    ]
+    }
   },
   "3": {
     "displayProperties": {
