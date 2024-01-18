@@ -3,53 +3,373 @@
     "displayProperties": {
       "name": "Savathûn's Curse",
       "description": "Implemented at the wish of Savathûn with Riven's dying breath and reset with every death of Dûl Incaru."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "Stage I: Weak",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "Stage II: Severe",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "Stage III: Overwhelming",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "2": {
     "displayProperties": {
       "name": "Ascendant Challenge",
       "description": "The Awoken have long practiced the art of walking between worlds. Follow their paths and defeat the enemy."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "Ouroborea",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "Forfeit Shrine",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "Shattered Ruins",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "Keep of Honed Edges",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "Agonarch Abyss",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "Cimmerian Garrison",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "3": {
     "displayProperties": {
       "name": "Altars of Sorrow",
       "description": "The Hive call out to the darkness. Silence their screams and prevent their sacrifice."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 2000000256,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          935628460
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000254,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          651531704
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000255,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          3844835635
+        ],
+        "records": []
+      }
+    ]
   },
   "4": {
     "displayProperties": {
       "name": "Wandering Nightmares",
       "description": "Enemies of times past continue to haunt Luna. Extinguish their remnants."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 16,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 17,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 18,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 19,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "5": {
     "displayProperties": {
       "name": "Eclipsed Zone",
       "description": "Guardian actions on Clovis Bray's space platform have resulted in falling debris throughout Rathmore Chaos."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 1747045785,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2868856804,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 396959363,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "6": {
     "displayProperties": {
       "name": "The Wellspring"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 306,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          1554180090
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 307,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          77011569
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 308,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          1458222686
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 309,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          2040522335
+        ],
+        "records": []
+      }
+    ]
   },
   "7": {
     "displayProperties": {
       "name": "Lucent Executioners",
       "description": "Light-bearing Hive roam the world expressing their Light-given abilities on enemies of the Witch Queen. Track down these bounty hunters and remove the complication which they create."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 2000000252,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000251,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000253,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "8": {
     "displayProperties": {
       "name": "Vex Incursion Zone",
       "description": "The Vex are targeting their efforts. Block their access attempts."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 300,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 301,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 302,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "9": {
     "displayProperties": {
       "name": "Terminal Overload",
       "description": "The Shadow Legion and the Vex are conducting an all-out assault on the city. Put an end to their destruction on Neptune."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 303,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 304,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 305,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
