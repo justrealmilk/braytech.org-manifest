@@ -2365,14 +2365,7 @@
       "5000000011"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "2643364263",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "2126433420",
-      "860071581"
+      "2643364263"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3636591526",
@@ -2397,9 +2390,6 @@
     ],
     "DestinyCollectibleDefinition.json": [
       "2056946089"
-    ],
-    "DestinyActivityDefinition.json": [
-      "968118624"
     ]
   },
   "zh-CHT": {
