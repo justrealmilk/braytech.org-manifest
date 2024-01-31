@@ -1,0 +1,23 @@
+{  
+  "1": {
+    "displayProperties": {
+      "name": "Primary Ammo",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Special Ammo",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Heavy Ammo",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  }
+}

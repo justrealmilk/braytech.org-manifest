@@ -10,6 +10,7 @@ import DestinyActivityDefinition from '@Data/manifest/en/DestinyActivityDefiniti
 import DestinyActivityModeDefinition from '@Data/manifest/en/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/en/DestinyActivityModifierDefinition.json';
 import DestinyActivityTypeDefinition from '@Data/manifest/en/DestinyActivityTypeDefinition.json';
+import DestinyAmmunitionTypeDefinition from '@Data/manifest/en/DestinyAmmunitionTypeDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/en/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/en/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/en/DestinyDamageTypeDefinition.json';
@@ -48,6 +49,7 @@ const en = {
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
     DestinyActivityTypeDefinition,
+    DestinyAmmunitionTypeDefinition,
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
