@@ -118,41 +118,6 @@
     },
     "itemTypeDisplayName": "Especial"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Principal",
-      "description": "Este arma tiene reservas infinitas."
-    },
-    "itemTypeDisplayName": "Munición"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Especial",
-      "description": "Este arma usa munición especial."
-    },
-    "itemTypeDisplayName": "Munición"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Pesada",
-      "description": "Este arma usa munición pesada."
-    },
-    "itemTypeDisplayName": "Munición"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "Reducción de daño",
-      "description": "Distancia aproximada a la que empieza a decaer el daño al disparar desde la cadera y al apuntar con la mira."
-    },
-    "itemTypeDisplayName": "Estadística"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "Tiempo de recarga",
-      "description": "El tiempo que tarda esta arma en completar una recarga completa y disparar. Este valor se basa únicamente en la estadística de velocidad de recarga y no se ve afectado por las ventajas."
-    },
-    "itemTypeDisplayName": "Estadística"
-  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Bajas únicas con arma",

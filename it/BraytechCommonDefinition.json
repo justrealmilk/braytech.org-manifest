@@ -139,41 +139,6 @@
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primarie",
-      "description": "Questa arma ha riserve infinite."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Speciali",
-      "description": "Questa arma usa munizioni speciali."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Pesanti",
-      "description": "Questa arma usa munizioni pesanti."
-    },
-    "itemTypeDisplayName": "Munizioni"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "Diminuzione del danno",
-      "description": "Distanza approssimativa dove inizia la diminuzione del danno per il fuoco senza mira e ADS (con mira)."
-    },
-    "itemTypeDisplayName": "Statistica"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "Tempo di ricarica",
-      "description": "Il tempo impiegato da quest'arma per completare una ricarica completa e sparare. Questo valore si basa solo sulla statistica della velocità di ricarica e non è influenzato da peculiarità."
-    },
-    "itemTypeDisplayName": "Statistica"
-  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Uccisioni uniche con armi",
