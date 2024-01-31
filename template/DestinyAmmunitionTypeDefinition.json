@@ -3,17 +3,26 @@
     "displayProperties": {
       "name": "Primary Ammo"
     },
+    "originalDisplayProperties": {
+      "name": "Primary"
+    },
     "itemTypeDisplayName": "Ammo Type"
   },
   "2": {
     "displayProperties": {
       "name": "Special Ammo"
     },
+    "originalDisplayProperties": {
+      "name": "Special"
+    },
     "itemTypeDisplayName": "Ammo Type"
   },
   "3": {
     "displayProperties": {
       "name": "Heavy Ammo"
+    },
+    "originalDisplayProperties": {
+      "name": "Heavy"
     },
     "itemTypeDisplayName": "Ammo Type"
   }
