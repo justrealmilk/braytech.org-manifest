@@ -104,41 +104,6 @@
     },
     "itemTypeDisplayName": "Spécial"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primaire",
-      "description": "Cette arme possède des réserves infinies."
-    },
-    "itemTypeDisplayName": "Munition"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Spéciale",
-      "description": "Cette arme utilise des munitions spéciales"
-    },
-    "itemTypeDisplayName": "Munition"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Lourdes",
-      "description": "Cette arme utilise des munitions lourdes"
-    },
-    "itemTypeDisplayName": "Munition"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "Atténuation des dégâts",
-      "description": "Distances approximatives où la diminution des dégâts commence pour le tir au jugé (Hip) et le tir en visant (ADS)."
-    },
-    "itemTypeDisplayName": "Stat"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "Temps de rechargement",
-      "description": "Le temps qu'il faut à cette arme pour effectuer un rechargement complet et tirer. Cette valeur est basée uniquement sur la statistique de vitesse de rechargement et n'est pas affectée par les avantages de l'arme."
-    },
-    "itemTypeDisplayName": "Stat"
-  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "Puissance de l'équipement",
