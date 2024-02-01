@@ -2935,7 +2935,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474576.jpg"
   },
   "1084474577": {
     "hash": 1084474577,
@@ -2953,7 +2954,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474577.jpg"
   },
   "1084474578": {
     "hash": 1084474578,
@@ -3100,7 +3102,8 @@
           "recordHash": 23458534
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474591.jpg"
   },
   "1085712440": {
     "hash": 1085712440,
@@ -4065,7 +4068,13 @@
     },
     "checklistHash": 1387596463,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8"
+      "video": "https://www.youtube.com/watch?v=OMQhSsXXdh8",
+      "screenshot": {
+        "highlight": {
+          "x": 52,
+          "y": 50
+        }
+      }
     },
     "related": {
       "records": [
@@ -4073,7 +4082,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1387596463.jpg"
   },
   "1390564489": {
     "hash": 1390564489,
