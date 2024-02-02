@@ -23,6 +23,7 @@
       "clan-roster-admin",
       "collections-patterns-catalysts",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-event-card",
@@ -364,6 +365,7 @@
       "860071581"
     ],
     "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden",
       "settings-subscriptions"
     ],
     "BraytechMapsDefinition.json": [
@@ -458,6 +460,7 @@
       "860071581"
     ],
     "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden",
       "settings-subscriptions"
     ],
     "BraytechMapsDefinition.json": [
@@ -563,6 +566,7 @@
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "character-breakdown",
@@ -785,6 +789,9 @@
     ]
   },
   "it": {
+    "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden"
+    ],
     "BraytechMapsDefinition.json": [
       "1387596457",
       "2000000000",
@@ -1003,6 +1010,9 @@
     ]
   },
   "ja": {
+    "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden"
+    ],
     "BraytechMapsDefinition.json": [
       "1387596457"
     ],
@@ -1055,6 +1065,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -1597,6 +1608,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -1715,6 +1727,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -1877,6 +1890,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -2285,6 +2299,7 @@
     "BraytechFeatureDefinition.json": [
       "collections-medals",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "character-breakdown",
@@ -2377,6 +2392,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
