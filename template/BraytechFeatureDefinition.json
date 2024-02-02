@@ -103,6 +103,12 @@
       "description": "See here all triumphs which you've tracked."
     }
   },
+  "triumphs-user-hidden": {
+    "displayProperties": {
+      "name": "User Hidden Triumphs",
+      "description": "Triumphs which you've opted to hide. Who hurt you?"
+    }
+  },
   "triumphs-unredeemed": {
     "displayProperties": {
       "name": "Unredeemed Triumphs",
