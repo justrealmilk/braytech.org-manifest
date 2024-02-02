@@ -190,25 +190,25 @@
   "add-record-track": {
     "displayProperties": {
       "name": "Track Record",
-      "description": "Add this record to \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Add this record to \"Tracked Records\"\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "remove-record-track": {
     "displayProperties": {
       "name": "Untrack Record",
-      "description": "Remove this record from \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Remove this record from \"Tracked Records\"\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "add-record-bookmark": {
     "displayProperties": {
       "name": "Add Bookmark",
-      "description": "Bookmark this record for later viewing.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Bookmark this record for later viewing.\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "remove-record-bookmark": {
     "displayProperties": {
       "name": "Remove Bookmark",
-      "description": "Remove this bookmark.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Remove this bookmark.\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "active-triumph-score": {
