@@ -406,12 +406,6 @@
       "description": "Controla cómo Braytech te envía datos cuando no lo estás usando."
     }
   },
-  "settings-referrals": {
-    "displayProperties": {
-      "name": "Recomienda a un amigo",
-      "description": "Recomienda Braytech a tus amigos y familiares."
-    }
-  },
   "legend": {
     "displayProperties": {
       "name": "Leyenda",

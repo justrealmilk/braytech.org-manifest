@@ -139,41 +139,6 @@
     },
     "itemTypeDisplayName": "Special"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "キネティック",
-      "description": "この武器には弾数制限がありません。"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "エネルギー",
-      "description": "この武器は特殊弾を使用します"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "ヘビー",
-      "description": "この武器はヘビー弾を使用します"
-    },
-    "itemTypeDisplayName": "弾薬"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "ダメージ減衰",
-      "description": "腰撃ちまたはADSにおいてダメージが減衰しはじめるおおよその距離を示します。"
-    },
-    "itemTypeDisplayName": "ステータス"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "リロード時間",
-      "description": "全弾リロードが完了し、撃てるようになるまでに掛かる時間を指します。この値は武器のリロード速度に基いており、パークの影響は考慮されていません。"
-    },
-    "itemTypeDisplayName": "ステータス"
-  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "特別な武器でのキル数",

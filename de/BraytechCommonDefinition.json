@@ -54,27 +54,6 @@
     },
     "itemTypeDisplayName": "Braytech-Unterstützer"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primär",
-      "description": "Diese Waffe hat unbegrenzte Reserven."
-    },
-    "itemTypeDisplayName": "Munition"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Spezial",
-      "description": "Diese Waffe verwendet Spezialmunition."
-    },
-    "itemTypeDisplayName": "Munition"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Schwer",
-      "description": "Diese Waffe verwendet schwere Munition."
-    },
-    "itemTypeDisplayName": "Munition"
-  },
   "commonality": {
     "displayProperties": {
       "name": "Gebräuchlichkeit",

@@ -139,41 +139,6 @@
     },
     "itemTypeDisplayName": "Special"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "Primary",
-      "description": "This weapon has infinite reserves."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "Special",
-      "description": "This weapon uses special ammo."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "Heavy",
-      "description": "This weapon uses heavy ammo."
-    },
-    "itemTypeDisplayName": "Ammo"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "Damage Falloff",
-      "description": "Approximate distances where damage falloff begins for hipfire and ADS (aim down sights)."
-    },
-    "itemTypeDisplayName": "Stat"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "Reload Time",
-      "description": "The time it takes for this weapon to complete a full reload and fire. This value is based only on the reload speed stat and is unaffected by perks."
-    },
-    "itemTypeDisplayName": "Stat"
-  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Unique Weapon Kills",
@@ -189,7 +154,7 @@
   "commonality": {
     "displayProperties": {
       "name": "Commonality",
-      "description": "Percentage of players who are indexed by Voluspa who've acquired or redeemed this entry."
+      "description": "Percentage of players who are indexed by Voluspa who've acquired this collectible or completed this record."
     }
   },
   "expiration": {
@@ -225,25 +190,25 @@
   "add-record-track": {
     "displayProperties": {
       "name": "Track Record",
-      "description": "Add this record to \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Add this record to \"Tracked Records\"\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "remove-record-track": {
     "displayProperties": {
       "name": "Untrack Record",
-      "description": "Remove this record from \"Tracked Records\"\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Remove this record from \"Tracked Records\"\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "add-record-bookmark": {
     "displayProperties": {
       "name": "Add Bookmark",
-      "description": "Bookmark this record for later viewing.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Bookmark this record for later viewing.\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "remove-record-bookmark": {
     "displayProperties": {
       "name": "Remove Bookmark",
-      "description": "Remove this bookmark.\nIf enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app."
+      "description": "Remove this bookmark.\n_If enabled, this action syncs with your Braytech profile and will be reflected wherever you use the app._"
     }
   },
   "active-triumph-score": {

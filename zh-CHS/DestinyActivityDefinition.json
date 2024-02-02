@@ -22,19 +22,9 @@
       "description": "In orbit, planning something terribly heroic."
     }
   },
-  "2393304349": {
-    "displayProperties": {
-      "name": "铁旗：裂隙"
-    }
-  },
   "2965669871": {
     "displayProperties": {
       "name": "自由竞技：铁旗：裂隙"
-    }
-  },
-  "1214397515": {
-    "displayProperties": {
-      "name": "铁旗：喷发"
     }
   },
   "3700942889": {
@@ -42,14 +32,17 @@
       "name": "自由竞技：铁旗：喷发"
     }
   },
-  "2888503916": {
-    "displayProperties": {
-      "name": "铁旗：要塞"
-    }
-  },
   "1698629738": {
     "displayProperties": {
       "name": "自由竞技：铁旗：要塞"
+    }
+  },
+  "968118624": {
+    "displayProperties": {
+      "name": "传说灵能行动战场：发射基地"
+    },
+    "originalDisplayProperties": {
+      "name": "传说灵能行动战场：发射基地"
     }
   }
 }

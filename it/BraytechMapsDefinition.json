@@ -1,49 +1,4 @@
 {
-  "697502628": {
-    "displayProperties": {
-      "description": "Zona di impatto di un evento catastrofico che ha lasciato un enorme frammento del Viaggiatore, la fonte del potere e dell'immortalità di ogni guardiano, incastonato nel vasto paesaggio. Per anni, solo la vegetazione selvaggia e i resti di una città abbandonata hanno testimoniato il nostro passato dimenticato."
-    }
-  },
-  "3990611421": {
-    "displayProperties": {
-      "description": "Un intero cantiere navale dell'Età dell'Oro, ma brulicante di Caduti. Un complesso di strutture per volo spaziale abbandonato tra le rovine dell'Antica Russia."
-    }
-  },
-  "1737926756": {
-    "displayProperties": {
-      "description": "Ciò che resta dell'umanità sulla Terra vive nell'Ultima Città, sotto gli occhi attenti dei Guardiani nella loro Torre."
-    }
-  },
-  "677774031": {
-    "displayProperties": {
-      "description": "Un tempo guardammo la Luna e vedemmo la speranza. Ora vediamo solo il potere dell'Oscurità. Un antico male si agita sotto la superficie devastata della Luna."
-    }
-  },
-  "1729879943": {
-    "displayProperties": {
-      "description": "Una luna desolata e ghiacciata, testimonianza dell'ambizione e dell'arroganza dell'umanità. Clovis Bray ha varie strutture qui."
-    }
-  },
-  "2481646875": {
-    "displayProperties": {
-      "description": "Una metropoli tecnologica al neon, non toccata dal Crollo, protetta dai valorosi Solcanuvole."
-    }
-  },
-  "3607432451": {
-    "displayProperties": {
-      "description": "Rigoglioso di giganteschi alberi contorti, profonde caverne, cascate e paludi argentate, l'origine di questo pianeta minore rimane sconosciuta. Ciò che è chiaro è che i Vex hanno quasi trasformato interamente in un Mondo Macchina, sopra e sotto la superficie. Per quei guardiani disposti ad affrontare i pericoli ed esplorare la miriade di misteri, attendono tesori oltre l'immaginazione."
-    }
-  },
-  "1416096592": {
-    "displayProperties": {
-      "description": "Una roccaforte a lungo nascosta, sacra agli Insonni dell'Atollo. Infestata dai Corrotti, la Città Sognante ha bisogno di noi."
-    }
-  },
-  "2244580325": {
-    "displayProperties": {
-      "description": "I fabbricamenti interiori della mente di Savathûn, portato in vita all'interno di un misterioso tronomondo da lei stessa creato."
-    }
-  },
   "1": {
     "displayProperties": {
       "name": "La Confluenza Ovest",
@@ -231,6 +186,16 @@
       "description": "Attraverso la cascata."
     }
   },
+  "677774031": {
+    "displayProperties": {
+      "description": "Un tempo guardammo la Luna e vedemmo la speranza. Ora vediamo solo il potere dell'Oscurità. Un antico male si agita sotto la superficie devastata della Luna."
+    }
+  },
+  "697502628": {
+    "displayProperties": {
+      "description": "Zona di impatto di un evento catastrofico che ha lasciato un enorme frammento del Viaggiatore, la fonte del potere e dell'immortalità di ogni guardiano, incastonato nel vasto paesaggio. Per anni, solo la vegetazione selvaggia e i resti di una città abbandonata hanno testimoniato il nostro passato dimenticato."
+    }
+  },
   "703052847": {
     "displayProperties": {
       "description": "Accessibile tramite le attività **Altare della Riflessione**."
@@ -299,6 +264,21 @@
   "1387596458": {
     "displayProperties": {
       "description": "Una volta raggiunta la **Corte della Regina** scala il muro a sinistra del trono."
+    }
+  },
+  "1416096592": {
+    "displayProperties": {
+      "description": "Una roccaforte a lungo nascosta, sacra agli Insonni dell'Atollo. Infestata dai Corrotti, la Città Sognante ha bisogno di noi."
+    }
+  },
+  "1729879943": {
+    "displayProperties": {
+      "description": "Una luna desolata e ghiacciata, testimonianza dell'ambizione e dell'arroganza dell'umanità. Clovis Bray ha varie strutture qui."
+    }
+  },
+  "1737926756": {
+    "displayProperties": {
+      "description": "Ciò che resta dell'umanità sulla Terra vive nell'Ultima Città, sotto gli occhi attenti dei Guardiani nella loro Torre."
     }
   },
   "1903309704": {
@@ -639,9 +619,19 @@
       "name": "Incubo di Taniks, lo Sfregiato"
     }
   },
+  "2244580325": {
+    "displayProperties": {
+      "description": "I fabbricamenti interiori della mente di Savathûn, portato in vita all'interno di un misterioso tronomondo da lei stessa creato."
+    }
+  },
   "2442093127": {
     "extended": {
       "tip": "Ai piedi di..."
+    }
+  },
+  "2481646875": {
+    "displayProperties": {
+      "description": "Una metropoli tecnologica al neon, non toccata dal Crollo, protetta dai valorosi Solcanuvole."
     }
   },
   "2495538001": {
@@ -672,6 +662,11 @@
   "3307732497": {
     "displayProperties": {
       "description": "Nell'angolo in alto a sinistra, sugli scogli."
+    }
+  },
+  "3607432451": {
+    "displayProperties": {
+      "description": "Rigoglioso di giganteschi alberi contorti, profonde caverne, cascate e paludi argentate, l'origine di questo pianeta minore rimane sconosciuta. Ciò che è chiaro è che i Vex hanno quasi trasformato interamente in un Mondo Macchina, sopra e sotto la superficie. Per quei guardiani disposti ad affrontare i pericoli ed esplorare la miriade di misteri, attendono tesori oltre l'immaginazione."
     }
   },
   "3609559330": {
@@ -712,6 +707,11 @@
   "3977481189": {
     "displayProperties": {
       "description": "Entrando nel Cerchio delle Ossa tramite la Guardiola, svolta a destra e procedi seguendo il cerchio attorno alla Bocca dell'Inferno. Prima di raggiungere l'incrocio successivo, girati e guarda sotto la piattaforma per trovare due occhi di giada che penetrano nella tua luce data dal Viaggiatore."
+    }
+  },
+  "3990611421": {
+    "displayProperties": {
+      "description": "Un intero cantiere navale dell'Età dell'Oro, ma brulicante di Caduti. Un complesso di strutture per volo spaziale abbandonato tra le rovine dell'Antica Russia."
     }
   },
   "4006123814": {

@@ -406,12 +406,6 @@
       "description": "Controlla come Braytech ti raggiunge quando non lo stai usando."
     }
   },
-  "settings-referrals": {
-    "displayProperties": {
-      "name": "Affiliazioni",
-      "description": "Presenta Braytech ai tuoi amici e familiari."
-    }
-  },
   "settings-subscriptions": {
     "displayProperties": {
       "name": "Abbonamenti",

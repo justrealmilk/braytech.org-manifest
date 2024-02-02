@@ -406,10 +406,10 @@
       "description": "Braytechを使用していなくても、通知を受信するか設定します"
     }
   },
-  "settings-referrals": {
+  "settings-subscriptions": {
     "displayProperties": {
-      "name": "リファラル",
-      "description": "友達や大切や人にBraytechを紹介しよう"
+      "name": "サブスクリプション",
+      "description": "Braytechが継続できるよう支援し、\"アガる\" 特典をゲットしよう。"
     }
   },
   "settings-subscriptions": {
