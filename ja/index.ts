@@ -10,6 +10,7 @@ import DestinyActivityDefinition from '@Data/manifest/ja/DestinyActivityDefiniti
 import DestinyActivityModeDefinition from '@Data/manifest/ja/DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from '@Data/manifest/ja/DestinyActivityModifierDefinition.json';
 import DestinyActivityTypeDefinition from '@Data/manifest/ja/DestinyActivityTypeDefinition.json';
+import DestinyAmmunitionTypeDefinition from '@Data/manifest/ja/DestinyAmmunitionTypeDefinition.json';
 import DestinyChecklistDefinition from '@Data/manifest/ja/DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from '@Data/manifest/ja/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@Data/manifest/ja/DestinyDamageTypeDefinition.json';
@@ -26,6 +27,7 @@ import DestinyPhaseDefinition from '@Data/manifest/ja/DestinyPhaseDefinition.jso
 import DestinyPresentationNodeDefinition from '@Data/manifest/ja/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@Data/manifest/ja/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@Data/manifest/ja/DestinySeasonDefinition.json';
+import DestinySocketCategoryDefinition from '@Data/manifest/ja/DestinySocketCategoryDefinition.json';
 import DestinySourceDefinition from '@Data/manifest/ja/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@Data/manifest/ja/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@Data/manifest/ja/DestinyTraitDefinition.json';
@@ -44,6 +46,7 @@ const ja = {
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
     DestinyActivityTypeDefinition,
+    DestinyAmmunitionTypeDefinition,
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
@@ -60,6 +63,7 @@ const ja = {
     DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
+    DestinySocketCategoryDefinition,
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,

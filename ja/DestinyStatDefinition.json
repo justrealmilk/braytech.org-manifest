@@ -6,12 +6,16 @@
   },
   "2000": {
     "displayProperties": {
-      "name": "ダメージ減衰"
-    }
+      "name": "ダメージ減衰",
+      "description": "腰撃ちまたはADSでのダメージが落ち始めるおおよその距離。"
+    },
+    "itemTypeDisplayName": "Stat"
   },
   "3000": {
     "displayProperties": {
-      "name": "リロード時間"
-    }
+      "name": "リロード時間",
+      "description": "この武器がフルリロードを終えて発射するまでの時間。この値はリロード速度ステータスのみに基づいており、パークによる影響は受けない。"
+    },
+    "itemTypeDisplayName": "Stat"
   }
 }
