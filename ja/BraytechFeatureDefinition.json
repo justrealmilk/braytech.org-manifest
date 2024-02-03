@@ -103,6 +103,12 @@
       "description": "追跡中のすべての道のりを表示します"
     }
   },
+  "triumphs-user-hidden": {
+    "displayProperties": {
+      "name": "非表示にした勝利の道のり",
+      "description": "設定によって非表示にされた勝利の道のり。何かあったんですか?"
+    }
+  },
   "triumphs-unredeemed": {
     "displayProperties": {
       "name": "未取得の道のり",
@@ -404,12 +410,6 @@
     "displayProperties": {
       "name": "プッシュ通知",
       "description": "Braytechを使用していなくても、通知を受信するか設定します"
-    }
-  },
-  "settings-subscriptions": {
-    "displayProperties": {
-      "name": "サブスクリプション",
-      "description": "Braytechが継続できるよう支援し、\"アガる\" 特典をゲットしよう。"
     }
   },
   "settings-subscriptions": {
