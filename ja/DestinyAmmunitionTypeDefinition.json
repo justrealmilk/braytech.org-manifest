@@ -1,0 +1,29 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "キネティック弾"
+    },
+    "originalDisplayProperties": {
+      "name": "キネティック"
+    },
+    "itemTypeDisplayName": "弾薬タイプ"
+  },
+  "2": {
+    "displayProperties": {
+      "name": "エネルギー弾"
+    },
+    "originalDisplayProperties": {
+      "name": "エネルギー"
+    },
+    "itemTypeDisplayName": "弾薬タイプ"
+  },
+  "3": {
+    "displayProperties": {
+      "name": "ヘビー弾"
+    },
+    "originalDisplayProperties": {
+      "name": "ヘビー"
+    },
+    "itemTypeDisplayName": "弾薬タイプ"
+  }
+}

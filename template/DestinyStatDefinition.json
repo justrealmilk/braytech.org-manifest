@@ -6,12 +6,16 @@
   },
   "2000": {
     "displayProperties": {
-      "name": "Damage Falloff"
-    }
+      "name": "Damage Falloff",
+      "description": "Approximate distances where damage falloff begins for hipfire and ADS (aim down sights)."
+    },
+    "itemTypeDisplayName": "Stat"
   },
   "3000": {
     "displayProperties": {
-      "name": "Reload Time"
-    }
+      "name": "Reload Time",
+      "description": "The time it takes for this weapon to complete a full reload and fire. This value is based only on the reload speed stat and is unaffected by perks."
+    },
+    "itemTypeDisplayName": "Stat"
   }
 }

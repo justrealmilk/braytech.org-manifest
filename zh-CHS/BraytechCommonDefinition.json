@@ -104,41 +104,6 @@
     },
     "itemTypeDisplayName": "特殊"
   },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "name": "主武器",
-      "description": "该武器拥有无限备弹。"
-    },
-    "itemTypeDisplayName": "弹药类型"
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "name": "特殊武器",
-      "description": "该武器使用特殊弹药。"
-    },
-    "itemTypeDisplayName": "弹药类型"
-  },
-  "ammo-type-heavy": {
-    "displayProperties": {
-      "name": "重武器",
-      "description": "该武器使用重型弹药。"
-    },
-    "itemTypeDisplayName": "弹药类型"
-  },
-  "stat-damage-falloff": {
-    "displayProperties": {
-      "name": "伤害衰减",
-      "description": "武器伤害大致开始衰减的距离。"
-    },
-    "itemTypeDisplayName": "武器数据"
-  },
-  "stat-reload-time": {
-    "displayProperties": {
-      "name": "换弹时长",
-      "description": "该武器完成一次完整装填到开火所需的时间。该数值基于填装速度的数值得出，且不受武器特性所影响。"
-    },
-    "itemTypeDisplayName": "武器数据"
-  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "装备光等",

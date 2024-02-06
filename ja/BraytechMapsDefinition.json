@@ -261,6 +261,11 @@
       "description": "崩壊した建物の奥、3階の右側の部屋"
     }
   },
+  "1387596457": {
+    "displayProperties": {
+      "description": "**アセンダント**中であれば、上から降りるための足場が出現する。上から飛び降りる場合、必ず落下中に2段目のジャンプを使って、足場を見つけろ。"
+    }
+  },
   "1387596458": {
     "displayProperties": {
       "description": "**女王の間** に辿り着いたら、王座の左側の壁沿いを登れ。"
@@ -1731,13 +1736,13 @@
   },
   "3000000010": {
     "displayProperties": {
-      "name": "The Gatelord",
+      "name": "ゲートロード",
       "description": "???"
     }
   },
   "3000000011": {
     "displayProperties": {
-      "name": "Cryo-pod Extraction",
+      "name": "冷凍ポッドの抽出",
       "description": "???"
     }
   },

@@ -1,81 +1,5 @@
 {
   "de": {
-    "BraytechFeatureDefinition.json": [
-      "clan-roster-admin",
-      "collections-patterns-catalysts",
-      "triumphs-tracked",
-      "triumphs-unredeemed",
-      "triumphs-near",
-      "triumphs-event-card",
-      "character-breakdown",
-      "character-inventory",
-      "character-loadouts",
-      "settings-common",
-      "settings-advanced",
-      "settings-push-notifications",
-      "settings-referrals",
-      "settings-subscriptions",
-      "leaderboards",
-      "fireteam-monitor"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "2546784302"
-    ],
-    "DestinyDamageTypeDefinition.json": [
-      "3949783978"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1542299784",
-      "3794117631",
-      "1270593510",
-      "1612424695",
-      "4276867787",
-      "1458618853",
-      "1320261963",
-      "1510063869",
-      "3726310377",
-      "1356373064",
-      "897950155",
-      "2398860795",
-      "3826130187",
-      "3180884403",
-      "1863972407",
-      "406803827",
-      "1633394671",
-      "2622593631",
-      "2039792527",
-      "1283234589",
-      "1288508599",
-      "3838169295",
-      "3039545165",
-      "3211393925",
-      "1064977327",
-      "3950614370",
-      "2258905201",
-      "2050629406",
-      "3376767511",
-      "1878970132",
-      "1166685245",
-      "2457555059",
-      "3304988490",
-      "3652736024",
-      "275339596",
-      "3044187661",
-      "2656858183",
-      "2177999971",
-      "3447791523",
-      "2687247787",
-      "721124822"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "DestinyInventoryItemDefinition.json": [
       "1",
       "73143230",
@@ -91,20 +15,27 @@
       "2126433420",
       "860071581"
     ],
-    "DestinyActivityModifierDefinition.json": [
-      "3577304467",
-      "2159250954",
-      "2890753840",
-      "2936050162",
-      "4152669757",
-      "766975360",
-      "138641527",
-      "2070303007",
-      "1616571513",
-      "3636591526",
-      "2768385440",
-      "732074628",
-      "3523029182"
+    "DestinySeasonDefinition.json": [
+      "965757574",
+      "4033618594"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "clan-roster-admin",
+      "collections-patterns-catalysts",
+      "triumphs-tracked",
+      "triumphs-user-hidden",
+      "triumphs-unredeemed",
+      "triumphs-near",
+      "triumphs-event-card",
+      "character-breakdown",
+      "character-inventory",
+      "character-loadouts",
+      "settings-common",
+      "settings-advanced",
+      "settings-push-notifications",
+      "settings-subscriptions",
+      "leaderboards",
+      "fireteam-monitor"
     ],
     "BraytechMapsDefinition.json": [
       "607",
@@ -285,6 +216,110 @@
       "4006123814",
       "4069293792"
     ],
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "3700942889",
+      "1698629738",
+      "968118624"
+    ],
+    "BraytechMapsTypesDefinition.json": [
+      "13"
+    ],
+    "DestinyCollectibleDefinition.json": [
+      "2056946089"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "kills",
+      "deaths",
+      "flawless",
+      "score",
+      "strikeDifficulty",
+      "activitiesEntered",
+      "activitiesCleared",
+      "secondsPlayed",
+      "fastestCompletionMsForActivity",
+      "currentCompetitiveRating",
+      "motesDeposited",
+      "motesLost"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1542299784",
+      "3794117631",
+      "1270593510",
+      "1612424695",
+      "4276867787",
+      "1458618853",
+      "1320261963",
+      "1510063869",
+      "3726310377",
+      "1356373064",
+      "897950155",
+      "2398860795",
+      "3826130187",
+      "3180884403",
+      "1863972407",
+      "406803827",
+      "1633394671",
+      "2622593631",
+      "2039792527",
+      "1283234589",
+      "1288508599",
+      "3838169295",
+      "3039545165",
+      "3211393925",
+      "1064977327",
+      "3950614370",
+      "2258905201",
+      "2050629406",
+      "3376767511",
+      "1878970132",
+      "1166685245",
+      "2457555059",
+      "3304988490",
+      "3652736024",
+      "275339596",
+      "3044187661",
+      "2656858183",
+      "2177999971",
+      "3447791523",
+      "2687247787",
+      "721124822"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "3577304467",
+      "2159250954",
+      "2890753840",
+      "2936050162",
+      "4152669757",
+      "766975360",
+      "138641527",
+      "2070303007",
+      "1616571513",
+      "3636591526",
+      "2768385440",
+      "732074628",
+      "3523029182"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "2546784302"
+    ],
+    "DestinyDamageTypeDefinition.json": [
+      "3949783978"
+    ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-for-you",
       "medal-icicle",
@@ -298,8 +333,6 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
-      "stat-damage-falloff",
-      "stat-reload-time",
       "unique-weapon-kills",
       "accurate-gear-power-average",
       "expiration",
@@ -325,65 +358,15 @@
       "push-notification-event-weekly-overview",
       "push-notification-event-weekly-crucible",
       "push-notification-event-this-week-at-bungie"
-    ],
-    "DestinySeasonDefinition.json": [
-      "965757574",
-      "4033618594"
-    ],
-    "BraytechMapsTypesDefinition.json": [
-      "13"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "kills",
-      "deaths",
-      "flawless",
-      "score",
-      "strikeDifficulty",
-      "activitiesEntered",
-      "activitiesCleared",
-      "secondsPlayed",
-      "fastestCompletionMsForActivity",
-      "currentCompetitiveRating",
-      "motesDeposited",
-      "motesLost"
-    ],
-    "DestinyCollectibleDefinition.json": [
-      "2056946089"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805"
-    ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "1214397515",
-      "3700942889",
-      "2888503916",
-      "1698629738",
-      "968118624"
     ]
   },
   "es": {
-    "BraytechFeatureDefinition.json": [
-      "settings-subscriptions"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1633394671",
-      "3211393925",
-      "3950614370",
-      "3447791523",
-      "2687247787",
-      "721124822"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden",
+      "settings-subscriptions"
     ],
     "BraytechMapsDefinition.json": [
       "677774031",
@@ -449,35 +432,36 @@
       "3607432451",
       "3990611421"
     ],
+    "DestinyActivityDefinition.json": [
+      "968118624"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1633394671",
+      "3211393925",
+      "3950614370",
+      "3447791523",
+      "2687247787",
+      "721124822"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-seraph",
       "medal-guardian",
       "medal-civilian"
-    ],
-    "DestinyActivityDefinition.json": [
-      "968118624"
     ]
   },
   "es-MX": {
-    "BraytechFeatureDefinition.json": [
-      "settings-subscriptions"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1633394671",
-      "3211393925",
-      "3950614370",
-      "3447791523",
-      "2687247787",
-      "721124822"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "DestinyInventoryItemDefinition.json": [
       "860071581"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden",
+      "settings-subscriptions"
     ],
     "BraytechMapsDefinition.json": [
       "677774031",
@@ -543,93 +527,8 @@
       "3607432451",
       "3990611421"
     ],
-    "BraytechCommonDefinition.json": [
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian"
-    ],
     "DestinyActivityDefinition.json": [
       "968118624"
-    ]
-  },
-  "fr": {
-    "DestinyPresentationNodeDefinition.json": [
-      "1000000008",
-      "2485764221",
-      "2329774788",
-      "2334031483",
-      "464627906",
-      "3111288225",
-      "4242023272",
-      "861774511",
-      "724209558",
-      "1194500405",
-      "184846131",
-      "562783996"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "clan-roster-admin",
-      "triumphs-tracked",
-      "triumphs-unredeemed",
-      "triumphs-near",
-      "character-breakdown",
-      "character-inventory",
-      "settings-referrals",
-      "settings-subscriptions",
-      "leaderboards",
-      "fireteam-monitor"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "3172054256",
-      "2224793617",
-      "2184227225",
-      "2779782231",
-      "2890972472",
-      "3768812794",
-      "1463700798",
-      "4240994016"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "2486723318",
-      "1639772990",
-      "2732566144"
-    ],
-    "DestinyDamageTypeDefinition.json": [
-      "3949783978"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1542299784",
-      "3794117631",
-      "1270593510",
-      "1612424695",
-      "4276867787",
-      "1458618853",
-      "1320261963",
-      "1510063869",
-      "3726310377",
-      "1356373064",
-      "1863972407",
-      "406803827",
-      "1633394671",
-      "2622593631",
-      "3211393925",
-      "1064977327",
-      "3950614370",
-      "2258905201",
-      "2050629406",
-      "3376767511",
-      "1878970132",
-      "1166685245",
-      "2457555059",
-      "3304988490",
-      "3652736024",
-      "275339596",
-      "3044187661",
-      "2656858183",
-      "2177999971",
-      "3447791523",
-      "2687247787",
-      "721124822"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -637,6 +536,21 @@
       "5000000010",
       "5000000011"
     ],
+    "DestinyObjectiveDefinition.json": [
+      "1633394671",
+      "3211393925",
+      "3950614370",
+      "3447791523",
+      "2687247787",
+      "721124822"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian"
+    ]
+  },
+  "fr": {
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
       "951399115",
@@ -649,15 +563,17 @@
       "2126433420",
       "860071581"
     ],
-    "DestinyActivityModifierDefinition.json": [
-      "766975360",
-      "138641527",
-      "2070303007",
-      "1616571513",
-      "3636591526",
-      "2768385440",
-      "732074628",
-      "3523029182"
+    "BraytechFeatureDefinition.json": [
+      "clan-roster-admin",
+      "triumphs-tracked",
+      "triumphs-user-hidden",
+      "triumphs-unredeemed",
+      "triumphs-near",
+      "character-breakdown",
+      "character-inventory",
+      "settings-subscriptions",
+      "leaderboards",
+      "fireteam-monitor"
     ],
     "BraytechMapsDefinition.json": [
       "607",
@@ -738,6 +654,117 @@
       "4069293792",
       "4084570599"
     ],
+    "DestinyPhaseDefinition.json": [
+      "3172054256",
+      "2224793617",
+      "2184227225",
+      "2779782231",
+      "2890972472",
+      "3768812794",
+      "1463700798",
+      "4240994016"
+    ],
+    "DestinyActivityDefinition.json": [
+      "3700942889",
+      "1698629738",
+      "968118624"
+    ],
+    "BraytechMapsTypesDefinition.json": [
+      "13"
+    ],
+    "DestinyCollectibleDefinition.json": [
+      "2056946089"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "kills",
+      "deaths",
+      "flawless",
+      "score",
+      "strikeDifficulty",
+      "activitiesEntered",
+      "activitiesCleared",
+      "secondsPlayed",
+      "fastestCompletionMsForActivity",
+      "currentCompetitiveRating",
+      "motesDeposited",
+      "motesLost"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1542299784",
+      "3794117631",
+      "1270593510",
+      "1612424695",
+      "4276867787",
+      "1458618853",
+      "1320261963",
+      "1510063869",
+      "3726310377",
+      "1356373064",
+      "1863972407",
+      "406803827",
+      "1633394671",
+      "2622593631",
+      "3211393925",
+      "1064977327",
+      "3950614370",
+      "2258905201",
+      "2050629406",
+      "3376767511",
+      "1878970132",
+      "1166685245",
+      "2457555059",
+      "3304988490",
+      "3652736024",
+      "275339596",
+      "3044187661",
+      "2656858183",
+      "2177999971",
+      "3447791523",
+      "2687247787",
+      "721124822"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "766975360",
+      "138641527",
+      "2070303007",
+      "1616571513",
+      "3636591526",
+      "2768385440",
+      "732074628",
+      "3523029182"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "2486723318",
+      "1639772990",
+      "2732566144"
+    ],
+    "DestinyDamageTypeDefinition.json": [
+      "3949783978"
+    ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805"
+    ],
+    "DestinyPresentationNodeDefinition.json": [
+      "1000000008",
+      "2485764221",
+      "2329774788",
+      "2334031483",
+      "464627906",
+      "3111288225",
+      "4242023272",
+      "861774511",
+      "724209558",
+      "1194500405",
+      "184846131",
+      "562783996"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-icicle",
       "medal-sunglas",
@@ -759,43 +786,11 @@
       "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
-    ],
-    "BraytechMapsTypesDefinition.json": [
-      "13"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "kills",
-      "deaths",
-      "flawless",
-      "score",
-      "strikeDifficulty",
-      "activitiesEntered",
-      "activitiesCleared",
-      "secondsPlayed",
-      "fastestCompletionMsForActivity",
-      "currentCompetitiveRating",
-      "motesDeposited",
-      "motesLost"
-    ],
-    "DestinyCollectibleDefinition.json": [
-      "2056946089"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805"
-    ],
-    "DestinyActivityDefinition.json": [
-      "1214397515",
-      "3700942889",
-      "2888503916",
-      "1698629738",
-      "968118624"
     ]
   },
   "it": {
-    "DestinyObjectiveDefinition.json": [
-      "2687247787",
-      "721124822"
+    "BraytechFeatureDefinition.json": [
+      "triumphs-user-hidden"
     ],
     "BraytechMapsDefinition.json": [
       "1387596457",
@@ -1008,120 +1003,13 @@
       "3000000013",
       "3000000014",
       "3000000015"
-    ]
-  },
-  "ja": {
+    ],
     "DestinyObjectiveDefinition.json": [
       "2687247787",
       "721124822"
-    ],
-    "BraytechMapsDefinition.json": [
-      "1387596457"
     ]
   },
   "ko": {
-    "BraytechFeatureDefinition.json": [
-      "clan-about",
-      "clan-roster",
-      "clan-roster-admin",
-      "clan-stats",
-      "clan-relationships",
-      "collections-lore",
-      "collections-patterns-catalysts",
-      "collections-medals",
-      "collections-metrics",
-      "triumphs-active",
-      "triumphs-legacy",
-      "triumphs-tracked",
-      "triumphs-unredeemed",
-      "triumphs-near",
-      "triumphs-transient",
-      "triumphs-event-card",
-      "character-equipment",
-      "character-breakdown",
-      "character-inventory",
-      "character-loadouts",
-      "activity-carnage",
-      "activity-graphs",
-      "inspect-equipment",
-      "inspect-lore",
-      "settings-common",
-      "settings-advanced",
-      "settings-push-notifications",
-      "settings-referrals",
-      "settings-subscriptions",
-      "leaderboards",
-      "fireteam-monitor"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "3172054256",
-      "2224793617",
-      "2184227225",
-      "2779782231",
-      "2890972472",
-      "3768812794",
-      "1463700798",
-      "4240994016"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "9924991580",
-      "103143560",
-      "4110605575",
-      "748895195",
-      "1686739444",
-      "11647605040",
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "1848252830",
-      "1585787840",
-      "3199098480",
-      "31990984800",
-      "3484731833",
-      "4078439804",
-      "1826469369",
-      "1264443021",
-      "157639802",
-      "2239249083",
-      "1673724806",
-      "2546784302"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1542299784",
-      "3794117631",
-      "1270593510",
-      "1612424695",
-      "1458618853",
-      "1320261963",
-      "1510063869",
-      "3726310377",
-      "1356373064",
-      "1863972407",
-      "406803827",
-      "1633394671",
-      "2622593631",
-      "3039545165",
-      "3211393925",
-      "1064977327",
-      "3950614370",
-      "1166685245",
-      "2457555059",
-      "3304988490",
-      "3652736024",
-      "275339596",
-      "3044187661",
-      "2656858183",
-      "2177999971",
-      "3447791523",
-      "2687247787",
-      "721124822"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "DestinyInventoryItemDefinition.json": [
       "1",
       "73143230",
@@ -1148,15 +1036,42 @@
       "3491404510",
       "2497395625"
     ],
-    "DestinyActivityModifierDefinition.json": [
-      "766975360",
-      "138641527",
-      "2070303007",
-      "1616571513",
-      "3636591526",
-      "2768385440",
-      "732074628",
-      "3523029182"
+    "DestinySeasonDefinition.json": [
+      "965757574",
+      "4033618594"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "clan-about",
+      "clan-roster",
+      "clan-roster-admin",
+      "clan-stats",
+      "clan-relationships",
+      "collections-lore",
+      "collections-patterns-catalysts",
+      "collections-medals",
+      "collections-metrics",
+      "triumphs-active",
+      "triumphs-legacy",
+      "triumphs-tracked",
+      "triumphs-user-hidden",
+      "triumphs-unredeemed",
+      "triumphs-near",
+      "triumphs-transient",
+      "triumphs-event-card",
+      "character-equipment",
+      "character-breakdown",
+      "character-inventory",
+      "character-loadouts",
+      "activity-carnage",
+      "activity-graphs",
+      "inspect-equipment",
+      "inspect-lore",
+      "settings-common",
+      "settings-advanced",
+      "settings-push-notifications",
+      "settings-subscriptions",
+      "leaderboards",
+      "fireteam-monitor"
     ],
     "BraytechMapsDefinition.json": [
       "607",
@@ -1467,61 +1382,23 @@
       "4292949220",
       "4292949222"
     ],
-    "BraytechCommonDefinition.json": [
-      "medal-developer",
-      "medal-for-you",
-      "medal-icicle",
-      "medal-sunglas",
-      "medal-bungie",
-      "medal-api-dev",
-      "medal-submind",
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian",
-      "medal-patron",
-      "medal-translator",
-      "medal-charitable",
-      "ammo-type-primary",
-      "ammo-type-special",
-      "ammo-type-heavy",
-      "stat-damage-falloff",
-      "stat-reload-time",
-      "unique-weapon-kills",
-      "accurate-gear-power-average",
-      "expiration",
-      "presentation-node-score",
-      "add-record-track",
-      "remove-record-track",
-      "add-record-bookmark",
-      "remove-record-bookmark",
-      "active-triumph-score",
-      "legacy-triumph-score",
-      "lifetime-triumph-score",
-      "active-score-rank",
-      "artifact-power-bonus",
-      "profile-stale-inactive",
-      "profile-stale-minted",
-      "profile-stale-maintenance",
-      "activity-contest-mode",
-      "activity-flawless",
-      "activity-solo",
-      "activity-duo",
-      "activity-trio",
-      "activity-weapon-popular",
-      "character-loadouts-delete",
-      "progression-step-map",
-      "configure-push-notifications",
-      "push-notification-event-daily-lost-sector",
-      "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-xur",
-      "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
-      "push-notification-event-weekly-crucible",
-      "push-notification-event-this-week-at-bungie"
+    "DestinyPhaseDefinition.json": [
+      "3172054256",
+      "2224793617",
+      "2184227225",
+      "2779782231",
+      "2890972472",
+      "3768812794",
+      "1463700798",
+      "4240994016"
     ],
-    "DestinySeasonDefinition.json": [
-      "965757574",
-      "4033618594"
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "2965669871",
+      "3700942889",
+      "1698629738",
+      "968118624"
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
@@ -1581,20 +1458,125 @@
       "Medals_pvp_medal_ib_first_strike",
       "Medals_pvp_medal_ib_super_shutdown"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1542299784",
+      "3794117631",
+      "1270593510",
+      "1612424695",
+      "1458618853",
+      "1320261963",
+      "1510063869",
+      "3726310377",
+      "1356373064",
+      "1863972407",
+      "406803827",
+      "1633394671",
+      "2622593631",
+      "3039545165",
+      "3211393925",
+      "1064977327",
+      "3950614370",
+      "1166685245",
+      "2457555059",
+      "3304988490",
+      "3652736024",
+      "275339596",
+      "3044187661",
+      "2656858183",
+      "2177999971",
+      "3447791523",
+      "2687247787",
+      "721124822"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "766975360",
+      "138641527",
+      "2070303007",
+      "1616571513",
+      "3636591526",
+      "2768385440",
+      "732074628",
+      "3523029182"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "9924991580",
+      "103143560",
+      "4110605575",
+      "748895195",
+      "1686739444",
+      "11647605040",
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "1848252830",
+      "1585787840",
+      "3199098480",
+      "31990984800",
+      "3484731833",
+      "4078439804",
+      "1826469369",
+      "1264443021",
+      "157639802",
+      "2239249083",
+      "1673724806",
+      "2546784302"
+    ],
     "DestinyChecklistDefinition.json": [
       "1793940260",
       "703136805"
     ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "2393304349",
-      "2965669871",
-      "1214397515",
-      "3700942889",
-      "2888503916",
-      "1698629738",
-      "968118624"
+    "BraytechCommonDefinition.json": [
+      "medal-developer",
+      "medal-for-you",
+      "medal-icicle",
+      "medal-sunglas",
+      "medal-bungie",
+      "medal-api-dev",
+      "medal-submind",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
+      "medal-patron",
+      "medal-translator",
+      "medal-charitable",
+      "unique-weapon-kills",
+      "accurate-gear-power-average",
+      "expiration",
+      "presentation-node-score",
+      "add-record-track",
+      "remove-record-track",
+      "add-record-bookmark",
+      "remove-record-bookmark",
+      "active-triumph-score",
+      "legacy-triumph-score",
+      "lifetime-triumph-score",
+      "active-score-rank",
+      "artifact-power-bonus",
+      "profile-stale-inactive",
+      "profile-stale-minted",
+      "profile-stale-maintenance",
+      "activity-contest-mode",
+      "activity-flawless",
+      "activity-solo",
+      "activity-duo",
+      "activity-trio",
+      "activity-weapon-popular",
+      "character-loadouts-delete",
+      "progression-step-map",
+      "configure-push-notifications",
+      "push-notification-event-daily-lost-sector",
+      "push-notification-event-daily-weather-forecast",
+      "push-notification-event-weekly-vendor-xur",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-overview",
+      "push-notification-event-weekly-crucible",
+      "push-notification-event-this-week-at-bungie"
     ]
   },
   "pl": {
@@ -1614,6 +1596,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -1646,7 +1629,6 @@
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
-      "settings-referrals",
       "settings-subscriptions",
       "legend",
       "archives",
@@ -1677,11 +1659,6 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
-      "ammo-type-primary",
-      "ammo-type-special",
-      "ammo-type-heavy",
-      "stat-damage-falloff",
-      "stat-reload-time",
       "unique-weapon-kills",
       "accurate-gear-power-average",
       "commonality",
@@ -1738,6 +1715,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -1753,7 +1731,6 @@
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
-      "settings-referrals",
       "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
@@ -1790,6 +1767,10 @@
       "732074628",
       "3523029182"
     ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805"
+    ],
     "BraytechCommonDefinition.json": [
       "platform-xbox",
       "platform-playstation",
@@ -1811,11 +1792,6 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
-      "ammo-type-primary",
-      "ammo-type-special",
-      "ammo-type-heavy",
-      "stat-damage-falloff",
-      "stat-reload-time",
       "unique-weapon-kills",
       "accurate-gear-power-average",
       "commonality",
@@ -1856,61 +1832,9 @@
       "push-notification-event-weekly-overview",
       "push-notification-event-weekly-crucible",
       "push-notification-event-this-week-at-bungie"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805"
     ]
   },
   "ru": {
-    "BraytechFeatureDefinition.json": [
-      "clan-about",
-      "clan-roster",
-      "clan-roster-admin",
-      "clan-stats",
-      "clan-relationships",
-      "collections-lore",
-      "collections-patterns-catalysts",
-      "collections-medals",
-      "collections-metrics",
-      "triumphs-active",
-      "triumphs-legacy",
-      "triumphs-tracked",
-      "triumphs-unredeemed",
-      "triumphs-near",
-      "triumphs-transient",
-      "triumphs-event-card",
-      "character-equipment",
-      "character-breakdown",
-      "character-inventory",
-      "character-loadouts",
-      "activity-carnage",
-      "activity-graphs",
-      "inspect-equipment",
-      "inspect-lore",
-      "settings-common",
-      "settings-advanced",
-      "settings-push-notifications",
-      "settings-referrals",
-      "settings-subscriptions",
-      "leaderboards",
-      "fireteam-monitor"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "9924991580",
-      "103143560",
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "3484731833",
-      "2546784302"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "DestinyInventoryItemDefinition.json": [
       "1",
       "73143230",
@@ -1937,27 +1861,42 @@
       "3491404510",
       "2497395625"
     ],
-    "DestinyActivityModifierDefinition.json": [
-      "25589576690",
-      "32153845200",
-      "33620748140",
-      "34300000001",
-      "34300000002",
-      "34300000003",
-      "34300000004",
-      "3577304467",
-      "2159250954",
-      "2890753840",
-      "2936050162",
-      "4152669757",
-      "766975360",
-      "138641527",
-      "2070303007",
-      "1616571513",
-      "3636591526",
-      "2768385440",
-      "732074628",
-      "3523029182"
+    "DestinySeasonDefinition.json": [
+      "965757574",
+      "4033618594"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "clan-about",
+      "clan-roster",
+      "clan-roster-admin",
+      "clan-stats",
+      "clan-relationships",
+      "collections-lore",
+      "collections-patterns-catalysts",
+      "collections-medals",
+      "collections-metrics",
+      "triumphs-active",
+      "triumphs-legacy",
+      "triumphs-tracked",
+      "triumphs-user-hidden",
+      "triumphs-unredeemed",
+      "triumphs-near",
+      "triumphs-transient",
+      "triumphs-event-card",
+      "character-equipment",
+      "character-breakdown",
+      "character-inventory",
+      "character-loadouts",
+      "activity-carnage",
+      "activity-graphs",
+      "inspect-equipment",
+      "inspect-lore",
+      "settings-common",
+      "settings-advanced",
+      "settings-push-notifications",
+      "settings-subscriptions",
+      "leaderboards",
+      "fireteam-monitor"
     ],
     "BraytechMapsDefinition.json": [
       "607",
@@ -2169,62 +2108,37 @@
       "4006123814",
       "4069293792"
     ],
-    "BraytechCommonDefinition.json": [
-      "medal-developer",
-      "medal-for-you",
-      "medal-icicle",
-      "medal-sunglas",
-      "medal-bungie",
-      "medal-api-dev",
-      "medal-submind",
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian",
-      "medal-patron",
-      "medal-translator",
-      "medal-charitable",
-      "ammo-type-primary",
-      "ammo-type-special",
-      "ammo-type-heavy",
-      "stat-damage-falloff",
-      "stat-reload-time",
-      "unique-weapon-kills",
-      "accurate-gear-power-average",
-      "expiration",
-      "presentation-node-score",
-      "add-record-track",
-      "remove-record-track",
-      "add-record-bookmark",
-      "remove-record-bookmark",
-      "active-triumph-score",
-      "legacy-triumph-score",
-      "lifetime-triumph-score",
-      "active-score-rank",
-      "artifact-power-bonus",
-      "profile-stale-inactive",
-      "profile-stale-minted",
-      "profile-stale-maintenance",
-      "activity-contest-mode",
-      "activity-flawless",
-      "activity-solo",
-      "activity-duo",
-      "activity-trio",
-      "activity-weapon-popular",
-      "character-loadouts-delete",
-      "progression-step-map",
-      "configure-push-notifications",
-      "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
-    ],
-    "DestinySeasonDefinition.json": [
-      "965757574",
-      "4033618594"
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "2965669871",
+      "3700942889",
+      "1698629738",
+      "968118624"
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
       "13"
+    ],
+    "DestinyCollectibleDefinition.json": [
+      "2056946089",
+      "1171206947",
+      "3163873693",
+      "1246578674",
+      "1171206946",
+      "304436264",
+      "304436265",
+      "3938759711",
+      "1988948484",
+      "3574313939",
+      "392272160",
+      "2571679418",
+      "2571679419",
+      "2273453972",
+      "958866288",
+      "3568861785",
+      "3568861784",
+      "2172413746"
     ],
     "DestinyHistoricalStatsDefinition.json": [
       "kills",
@@ -2280,51 +2194,104 @@
       "Medals_pvp_medal_ib_first_strike",
       "Medals_pvp_medal_ib_super_shutdown"
     ],
-    "DestinyCollectibleDefinition.json": [
-      "2056946089",
-      "1171206947",
-      "3163873693",
-      "1246578674",
-      "1171206946",
-      "304436264",
-      "304436265",
-      "3938759711",
-      "1988948484",
-      "3574313939",
-      "392272160",
-      "2571679418",
-      "2571679419",
-      "2273453972",
-      "958866288",
-      "3568861785",
-      "3568861784",
-      "2172413746"
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "25589576690",
+      "32153845200",
+      "33620748140",
+      "34300000001",
+      "34300000002",
+      "34300000003",
+      "34300000004",
+      "3577304467",
+      "2159250954",
+      "2890753840",
+      "2936050162",
+      "4152669757",
+      "766975360",
+      "138641527",
+      "2070303007",
+      "1616571513",
+      "3636591526",
+      "2768385440",
+      "732074628",
+      "3523029182"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "9924991580",
+      "103143560",
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "3484731833",
+      "2546784302"
     ],
     "DestinyChecklistDefinition.json": [
       "1793940260",
       "703136805"
     ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "2393304349",
-      "2965669871",
-      "1214397515",
-      "3700942889",
-      "2888503916",
-      "1698629738",
-      "968118624"
+    "BraytechCommonDefinition.json": [
+      "medal-developer",
+      "medal-for-you",
+      "medal-icicle",
+      "medal-sunglas",
+      "medal-bungie",
+      "medal-api-dev",
+      "medal-submind",
+      "medal-seraph",
+      "medal-guardian",
+      "medal-civilian",
+      "medal-patron",
+      "medal-translator",
+      "medal-charitable",
+      "unique-weapon-kills",
+      "accurate-gear-power-average",
+      "expiration",
+      "presentation-node-score",
+      "add-record-track",
+      "remove-record-track",
+      "add-record-bookmark",
+      "remove-record-bookmark",
+      "active-triumph-score",
+      "legacy-triumph-score",
+      "lifetime-triumph-score",
+      "active-score-rank",
+      "artifact-power-bonus",
+      "profile-stale-inactive",
+      "profile-stale-minted",
+      "profile-stale-maintenance",
+      "activity-contest-mode",
+      "activity-flawless",
+      "activity-solo",
+      "activity-duo",
+      "activity-trio",
+      "activity-weapon-popular",
+      "character-loadouts-delete",
+      "progression-step-map",
+      "configure-push-notifications",
+      "push-notification-event-daily-weather-forecast",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-overview",
+      "push-notification-event-this-week-at-bungie"
     ]
   },
   "zh-CHS": {
+    "DestinyInventoryItemDefinition.json": [
+      "2643364263"
+    ],
     "BraytechFeatureDefinition.json": [
       "collections-medals",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "character-breakdown",
       "character-inventory",
-      "settings-referrals",
       "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
@@ -2337,6 +2304,18 @@
     ],
     "DestinyDestinationDefinition.json": [
       "3821439926"
+    ],
+    "BraytechMapsTypesDefinition.json": [
+      "13"
+    ],
+    "DestinyCollectibleDefinition.json": [
+      "2056946089"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -2358,15 +2337,6 @@
       "2687247787",
       "721124822"
     ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "2643364263"
-    ],
     "DestinyActivityModifierDefinition.json": [
       "3636591526",
       "2768385440",
@@ -2384,15 +2354,19 @@
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
-    ],
-    "BraytechMapsTypesDefinition.json": [
-      "13"
-    ],
-    "DestinyCollectibleDefinition.json": [
-      "2056946089"
     ]
   },
   "zh-CHT": {
+    "DestinyInventoryItemDefinition.json": [
+      "2643364263",
+      "951399115",
+      "700251940",
+      "901060145",
+      "1541696845",
+      "2902936983",
+      "2126433420",
+      "860071581"
+    ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
       "clan-roster",
@@ -2406,6 +2380,7 @@
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
+      "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
@@ -2421,7 +2396,6 @@
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
-      "settings-referrals",
       "settings-subscriptions",
       "leaderboards",
       "fireteam-monitor"
@@ -2435,6 +2409,12 @@
       "3768812794",
       "1463700798",
       "4240994016"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000010",
+      "5000000011"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -2461,22 +2441,6 @@
       "3447791523",
       "2687247787",
       "721124822"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "2643364263",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "2126433420",
-      "860071581"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -2519,6 +2483,10 @@
       "2455011338",
       "2399751101"
     ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805"
+    ],
     "BraytechCommonDefinition.json": [
       "platform-xbox",
       "platform-playstation",
@@ -2540,11 +2508,6 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
-      "ammo-type-primary",
-      "ammo-type-special",
-      "ammo-type-heavy",
-      "stat-damage-falloff",
-      "stat-reload-time",
       "unique-weapon-kills",
       "accurate-gear-power-average",
       "commonality",
@@ -2582,10 +2545,6 @@
       "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805"
     ]
   }
 }

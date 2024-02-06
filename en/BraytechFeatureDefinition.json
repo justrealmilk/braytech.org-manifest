@@ -165,12 +165,20 @@
     "to": "/triumphs/legacy"
   },
   "triumphs-tracked": {
-    "hash": "triumphs-transient",
+    "hash": "triumphs-tracked",
     "displayProperties": {
       "name": "Tracked Triumphs",
       "description": "See here all triumphs which you've tracked."
     },
     "to": "/triumphs/tracked"
+  },
+  "triumphs-user-hidden": {
+    "hash": "triumphs-user-hidden",
+    "displayProperties": {
+      "name": "User Hidden Triumphs",
+      "description": "Triumphs which you've opted to hide. Who hurt you?"
+    },
+    "to": "/triumphs/user-hidden"
   },
   "triumphs-unredeemed": {
     "hash": "triumphs-unredeemed",
@@ -491,9 +499,6 @@
           "viewHash": "settings-push-notifications"
         },
         {
-          "viewHash": "settings-referrals"
-        },
-        {
           "viewHash": "settings-subscriptions"
         }
       ]
@@ -522,14 +527,6 @@
       "description": "Control how Braytech reaches you when you're not using it."
     },
     "to": "/settings/push-notifications"
-  },
-  "settings-referrals": {
-    "hash": "settings-referrals",
-    "displayProperties": {
-      "name": "Referrals",
-      "description": "Introduce your friends and family to Braytech."
-    },
-    "to": "/settings/referrals"
   },
   "settings-subscriptions": {
     "hash": "settings-subscriptions",

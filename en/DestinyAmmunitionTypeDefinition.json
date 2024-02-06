@@ -1,0 +1,35 @@
+{  
+  "1": {
+    "displayProperties": {
+      "name": "Primary Ammo",
+      "description": ""
+    },
+    "originalDisplayProperties": {
+      "name": "Primary",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Special Ammo",
+      "description": ""
+    },
+    "originalDisplayProperties": {
+      "name": "Special",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Heavy Ammo",
+      "description": ""
+    },
+    "originalDisplayProperties": {
+      "name": "Heavy",
+      "description": ""
+    },
+    "itemTypeDisplayName": "Ammo Type"
+  }
+}
