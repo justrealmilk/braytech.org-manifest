@@ -3,53 +3,373 @@
     "displayProperties": {
       "name": "サバスンの呪い",
       "description": "リベンの死に際に行ったサバスンの願いにより、サバスンの娘ダル・インカルが死ぬたびに時間を遡る呪いが掛けられた。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "汚染度 I: 弱",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "汚染度 II: 中",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "汚染度 III: 重",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "2": {
     "displayProperties": {
       "name": "アセンダントの挑戦",
       "description": "アウォークンは長い間、亜空間と現実を渡り歩く術を修めてきた。彼らが示す道を辿り、敵を倒せ。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "ウロボレア",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "剥奪の神殿",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "砕けた廃墟",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "研がれ刃の砦",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "アゴナークの深淵",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "暗黒の駐屯地",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "3": {
     "displayProperties": {
       "name": "悲哀の祭壇",
       "description": "ハイブが暗闇に呼びかける。彼らの悲鳴を黙らせ、生贄を食い止めろ。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 2000000256,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          935628460
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000254,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          651531704
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000255,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          3844835635
+        ],
+        "records": []
+      }
+    ]
   },
   "4": {
     "displayProperties": {
       "name": "彷徨うナイトメア",
       "description": "かつての敵が月で徘徊している。残党を退治せよ。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 16,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 17,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 18,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 19,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "5": {
     "displayProperties": {
       "name": "エクリプスゾーン",
       "description": "ガーディアン達のレイドによりクロビス・ブレイの宇宙プラットフォーム、モーニングスターの破片がラスモア・カオスの至る場所に落下した。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 1747045785,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2868856804,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 396959363,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "6": {
     "displayProperties": {
       "name": "源泉"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 306,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          1554180090
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 307,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          77011569
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 308,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          1458222686
+        ],
+        "records": []
+      },
+      {
+        "nodeHash": 309,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [
+          2040522335
+        ],
+        "records": []
+      }
+    ]
   },
   "7": {
     "displayProperties": {
       "name": "ルーセント執行官",
       "description": "光を持つハイブが世界を徘徊し、漆黒の女王の敵に光から与えられた能力を誇示している。この賞金首の足跡を追いかけ、奴等がやらかした事態の収集に当たれ。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 2000000252,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000251,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 2000000253,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "8": {
     "displayProperties": {
       "name": "ベックス侵入地帯",
       "description": "ベックスはターゲットを絞って攻撃を仕掛けてきた。アクセスを阻止せよ。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 300,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 301,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 302,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "9": {
     "displayProperties": {
       "name": "ターミナルオーバーロード",
       "description": "影の軍団とベックスが総攻撃を仕掛けている。海王星での破壊活動に終止符を打て。"
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 303,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 304,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 305,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
