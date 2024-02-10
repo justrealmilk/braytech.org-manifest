@@ -3385,6 +3385,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/temple-of-illyn-1118029880.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=16s"
     }
   },
   "1118029881": {
@@ -3442,6 +3446,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/temple-of-illyn-1118029883.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=104s"
     }
   },
   "1118029884": {
@@ -3840,7 +3848,7 @@
     },
     "checklistHash": 1370818867,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=127s"
     },
     "related": {
       "records": [
@@ -3848,7 +3856,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-adytum-1370818867.jpg"
   },
   "1370818868": {
     "hash": 1370818868,
@@ -3877,7 +3886,7 @@
     },
     "checklistHash": 1370818869,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=55s"
     },
     "related": {
       "records": [
@@ -3885,7 +3894,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1370818869.jpg"
   },
   "1370818871": {
     "hash": 1370818871,
