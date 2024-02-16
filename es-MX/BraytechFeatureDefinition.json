@@ -103,6 +103,12 @@
       "description": "Ve aquí todos los triunfos que seguiste."
     }
   },
+  "triumphs-user-hidden": {
+    "displayProperties": {
+      "name": "Triunfos ocultos por el usuario",
+      "description": "Triunfos que optaste por ocultar. ¿Quién te ha hecho daño?"
+    }
+  },
   "triumphs-unredeemed": {
     "displayProperties": {
       "name": "Triunfos sin canjear",
