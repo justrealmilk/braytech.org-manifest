@@ -23,10 +23,10 @@
       "description": "Take action on clan matters and members"
     }
   },
-  "clan-stats": {
+  "clan-historical-stats": {
     "displayProperties": {
       "name": "Historical Stats",
-      "description": "Compare _Historical Stats_ for several activity modes across all clan members"
+      "description": "Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq)."
     }
   },
   "clan-relationships": {
