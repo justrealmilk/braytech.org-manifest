@@ -262,6 +262,7 @@
     ],
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
+      "clan-historical-stats",
       "collections-patterns-catalysts",
       "triumphs-tracked",
       "triumphs-user-hidden",
@@ -446,6 +447,7 @@
       "5000000011"
     ],
     "BraytechFeatureDefinition.json": [
+      "clan-historical-stats",
       "triumphs-user-hidden",
       "settings-subscriptions"
     ],
@@ -541,6 +543,7 @@
       "5000000011"
     ],
     "BraytechFeatureDefinition.json": [
+      "clan-historical-stats",
       "triumphs-user-hidden",
       "settings-subscriptions"
     ],
@@ -718,6 +721,7 @@
     ],
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
+      "clan-historical-stats",
       "triumphs-tracked",
       "triumphs-user-hidden",
       "triumphs-unredeemed",
@@ -1006,7 +1010,13 @@
       "3000000015"
     ],
     "BraytechFeatureDefinition.json": [
+      "clan-historical-stats",
       "triumphs-user-hidden"
+    ]
+  },
+  "ja": {
+    "BraytechFeatureDefinition.json": [
+      "clan-historical-stats"
     ]
   },
   "ko": {
@@ -1430,7 +1440,7 @@
       "clan-about",
       "clan-roster",
       "clan-roster-admin",
-      "clan-stats",
+      "clan-historical-stats",
       "clan-relationships",
       "collections-lore",
       "collections-patterns-catalysts",
@@ -1585,7 +1595,7 @@
       "clan-about",
       "clan-roster",
       "clan-roster-admin",
-      "clan-stats",
+      "clan-historical-stats",
       "clan-relationships",
       "collections",
       "collections-lore",
@@ -1712,7 +1722,7 @@
       "clan-about",
       "clan-roster",
       "clan-roster-admin",
-      "clan-stats",
+      "clan-historical-stats",
       "clan-relationships",
       "collections-lore",
       "collections-patterns-catalysts",
@@ -2102,7 +2112,7 @@
       "clan-about",
       "clan-roster",
       "clan-roster-admin",
-      "clan-stats",
+      "clan-historical-stats",
       "clan-relationships",
       "collections-lore",
       "collections-patterns-catalysts",
@@ -2317,6 +2327,7 @@
       "5000000011"
     ],
     "BraytechFeatureDefinition.json": [
+      "clan-historical-stats",
       "collections-medals",
       "triumphs-tracked",
       "triumphs-user-hidden",
@@ -2419,7 +2430,7 @@
       "clan-about",
       "clan-roster",
       "clan-roster-admin",
-      "clan-stats",
+      "clan-historical-stats",
       "clan-relationships",
       "collections-lore",
       "collections-patterns-catalysts",
