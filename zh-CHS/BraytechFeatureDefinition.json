@@ -23,12 +23,6 @@
       "description": "管理公会成员以及相关事务"
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "活动历史数据",
-      "description": "比较所有公会成员在多个活动模式的 _历史数据_ 。"
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "成员关系",

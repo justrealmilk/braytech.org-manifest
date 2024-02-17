@@ -23,12 +23,6 @@
       "description": "Toma medidas sobre asuntos y miembros del clan."
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "Estadísticas históricas",
-      "description": "Compara las _estadísticas históricas_ de varias actividades entre todos los miembros del clan."
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Relaciones",

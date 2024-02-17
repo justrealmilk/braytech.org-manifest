@@ -23,12 +23,6 @@
       "description": "Prendi atto su questioni e membri del clan"
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "Statistiche storiche",
-      "description": "Confronta le _Statistiche storiche_ per diverse modalità di attività tra tutti i membri del clan"
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Relazioni",

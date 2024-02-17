@@ -17,12 +17,6 @@
       "description": "Trouvez des amis avec qui jouer"
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "Statistiques de l'Historique",
-      "description": "Comparez les _Statistiques de l'Historique_ pour plusieurs modes d'activité parmi tous les membres du clan"
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Relations",

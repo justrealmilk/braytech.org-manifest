@@ -17,12 +17,6 @@
       "description": "Finde Freunde zum Spielen"
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "Historische Statistiken",
-      "description": "Vergleiche _Historische Statistiken_ für mehrere Aktivitäten über Clan-Mitglieder hinweg."
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Beziehungen",
