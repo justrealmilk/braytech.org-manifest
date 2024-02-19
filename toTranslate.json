@@ -440,21 +440,9 @@
     "DestinyActivityDefinition.json": [
       "968118624"
     ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
-      "triumphs-user-hidden",
       "settings-subscriptions"
-    ],
-    "BraytechCommonDefinition.json": [
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian"
     ]
   },
   "es-MX": {
@@ -536,21 +524,9 @@
     "DestinyActivityDefinition.json": [
       "968118624"
     ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000010",
-      "5000000011"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
-      "triumphs-user-hidden",
       "settings-subscriptions"
-    ],
-    "BraytechCommonDefinition.json": [
-      "medal-seraph",
-      "medal-guardian",
-      "medal-civilian"
     ]
   },
   "fr": {
