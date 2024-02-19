@@ -90,10 +90,31 @@
     },
     "itemTypeDisplayName": "Conserje de Braytech"
   },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Serafín",
+      "description": "_Únete a la fuerza de pacificación de Rasputín y colabora estrechamente con el Estratega para devolver la paz al sistema solar. Tus contribuciones son inestimables._"
+    },
+    "itemTypeDisplayName": "Patrocinador de Braytech"
+  },
   "medal-researcher": {
     "displayProperties": {
       "name": "Investigador/a",
       "description": "_Uno de los pocos investigadores supervivientes que han escapado a la traición de Clovis Bray._\nUn inestimable suscriptor de Patreon."
+    },
+    "itemTypeDisplayName": "Patrocinador de Braytech"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Guardián",
+      "description": "_Eres un Guardián: la encarnación de todo lo que es y puede ser. Tu potencial no tiene parangón, tú solo puedes traer el cambio al sistema solar a gran escala.Eres un Guardián: la encarnación de todo lo que es y puede ser. Tu potencial no tiene parangón, tú solo puedes traer el cambio al sistema solar a gran escala._"
+    },
+    "itemTypeDisplayName": "Patrocinador de Braytech"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civil",
+      "description": "_Si el departamento de salud y seguridad laboral tuviese la menor idea de lo que está pasando aquí, lo cerrarían más rápido que Rasputín cuando un triángulo isósceles cae de la espeluznante Fiesta de las Almas Perdidas._"
     },
     "itemTypeDisplayName": "Patrocinador de Braytech"
   },
