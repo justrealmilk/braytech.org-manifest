@@ -77,6 +77,9 @@
     "children": {
       "views": [
         {
+          "viewHash": "collections-sets"
+        },
+        {
           "viewHash": "collections-lore"
         },
         {
@@ -90,6 +93,14 @@
         }
       ]
     }
+  },
+  "collections-sets": {
+    "hash": "collections-sets",
+    "displayProperties": {
+      "name": "Sets",
+      "description": "Curated collections of precious goods from specific places including raids and dungeons."
+    },
+    "to": "/collections/sets"
   },
   "collections-lore": {
     "hash": "collections-lore",
@@ -573,7 +584,7 @@
     "hash": "credits",
     "displayProperties": {
       "name": "Credits",
-      "description": "About the Guardians who make it possible"
+      "description": "The Guardians who make it possible"
     },
     "to": "/addendums"
   },
