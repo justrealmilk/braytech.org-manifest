@@ -49,6 +49,12 @@
       "lore"
     ]
   },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "Sets",
+      "description": "Curated collections of precious goods from specific places including raids and dungeons."
+    }
+  },
   "collections-lore": {
     "displayProperties": {
       "name": "Lore",
@@ -450,7 +456,7 @@
   "credits": {
     "displayProperties": {
       "name": "Credits",
-      "description": "About the Guardians who make it possible"
+      "description": "The Guardians who make it possible"
     }
   },
   "leaderboards": {
