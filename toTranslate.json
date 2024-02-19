@@ -263,6 +263,7 @@
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
       "clan-historical-stats",
+      "collections-sets",
       "collections-patterns-catalysts",
       "triumphs-tracked",
       "triumphs-user-hidden",
@@ -440,8 +441,12 @@
     "DestinyActivityDefinition.json": [
       "968118624"
     ],
+    "DestinyPhaseDefinition.json": [
+      "829896467"
+    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
+      "collections-sets",
       "settings-subscriptions"
     ]
   },
@@ -524,8 +529,12 @@
     "DestinyActivityDefinition.json": [
       "968118624"
     ],
+    "DestinyPhaseDefinition.json": [
+      "829896467"
+    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
+      "collections-sets",
       "settings-subscriptions"
     ]
   },
@@ -661,6 +670,7 @@
       "968118624"
     ],
     "DestinyPhaseDefinition.json": [
+      "829896467",
       "3172054256",
       "2224793617",
       "2184227225",
@@ -698,6 +708,7 @@
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
       "clan-historical-stats",
+      "collections-sets",
       "triumphs-tracked",
       "triumphs-user-hidden",
       "triumphs-unredeemed",
@@ -985,14 +996,22 @@
       "3000000014",
       "3000000015"
     ],
+    "DestinyPhaseDefinition.json": [
+      "829896467"
+    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
+      "collections-sets",
       "triumphs-user-hidden"
     ]
   },
   "ja": {
+    "DestinyPhaseDefinition.json": [
+      "829896467"
+    ],
     "BraytechFeatureDefinition.json": [
-      "clan-historical-stats"
+      "clan-historical-stats",
+      "collections-sets"
     ]
   },
   "ko": {
@@ -1370,6 +1389,7 @@
       "968118624"
     ],
     "DestinyPhaseDefinition.json": [
+      "829896467",
       "3172054256",
       "2224793617",
       "2184227225",
@@ -1418,6 +1438,7 @@
       "clan-roster-admin",
       "clan-historical-stats",
       "clan-relationships",
+      "collections-sets",
       "collections-lore",
       "collections-patterns-catalysts",
       "collections-medals",
@@ -1574,6 +1595,7 @@
       "clan-historical-stats",
       "clan-relationships",
       "collections",
+      "collections-sets",
       "collections-lore",
       "collections-patterns-catalysts",
       "collections-medals",
@@ -1700,6 +1722,7 @@
       "clan-roster-admin",
       "clan-historical-stats",
       "clan-relationships",
+      "collections-sets",
       "collections-lore",
       "collections-patterns-catalysts",
       "collections-medals",
@@ -2090,6 +2113,7 @@
       "clan-roster-admin",
       "clan-historical-stats",
       "clan-relationships",
+      "collections-sets",
       "collections-lore",
       "collections-patterns-catalysts",
       "collections-medals",
@@ -2291,6 +2315,7 @@
       "721124822"
     ],
     "DestinyPhaseDefinition.json": [
+      "829896467",
       "2890972472",
       "3768812794",
       "1463700798",
@@ -2304,6 +2329,7 @@
     ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
+      "collections-sets",
       "collections-medals",
       "triumphs-tracked",
       "triumphs-user-hidden",
@@ -2381,6 +2407,7 @@
       "721124822"
     ],
     "DestinyPhaseDefinition.json": [
+      "829896467",
       "3172054256",
       "2224793617",
       "2184227225",
@@ -2408,6 +2435,7 @@
       "clan-roster-admin",
       "clan-historical-stats",
       "clan-relationships",
+      "collections-sets",
       "collections-lore",
       "collections-patterns-catalysts",
       "collections-medals",
