@@ -29,6 +29,12 @@
       "description": "Riven, the last known Ahamkara, formerly in the service of Mara Sov, was Taken by Oryx. She now corrupts the city from its heart at the behest of the Hive queen, Savathûn."
     }
   },
+  "378163510": {
+    "displayProperties": {
+      "name": "Queenswalk",
+      "description": "Escape the spire and get the Heart Stone to the Techeun."
+    }
+  },
   "2776463390": {
     "displayProperties": {
       "name": "Crypt Security",
@@ -43,8 +49,8 @@
   },
   "1858926029": {
     "displayProperties": {
-      "name": "Taniks, Reborn",
-      "description": "Interrupt the station's Nuclear Descent Protocol and secure it from Taniks."
+      "name": "Descent",
+      "description": "Interrupt the station's Nuclear Descent Protocol and secure the station."
     }
   },
   "4035296150": {
@@ -73,7 +79,7 @@
   },
   "3793779770": {
     "displayProperties": {
-      "name": "The Gatekeepers",
+      "name": "Gatekeepers",
       "description": "Protectors of the Glass Throne, the Gatekeepers are Vex Hydras who stand as the Throne's last defence."
     }
   },
@@ -86,25 +92,25 @@
   "580855089": {
     "displayProperties": {
       "name": "Acquisition",
-      "description": "Fulfil the requirements and pierce the veil."
+      "description": "Your eyes are always closed. Do you not see what's right in front of you? Those who fail to see the truth will drown in it."
     }
   },
   "1942966197": {
     "displayProperties": {
       "name": "Collection",
-      "description": "Subdue and destroy the abomination."
+      "description": "SCORN. They eat away at the decay within a shell of. SCORN. Truth exists all around outside the shell of. SCORN."
     }
   },
   "196663595": {
     "displayProperties": {
       "name": "Exhibition",
-      "description": "Reorient your perspective."
+      "description": "Did you think you were the observer? Or did you believe you pulled the strings? Now's your chance—with artifacts of fate, you can make them dance."
     }
   },
   "3840791265": {
     "displayProperties": {
       "name": "Dominion",
-      "description": "Meet the destroyer, Rhulk."
+      "description": "The Upended is alive. You have no more tasks ahead. Lie down and embrace the darkness beyond your final days."
     }
   },
   "2158557525": {
@@ -133,7 +139,8 @@
   },
   "829896467": {
     "displayProperties": {
-      "name": "Portal"
+      "name": "Open the Portal",
+      "description": "Gain access to the Dreadnaught's inner sanctum."
     }
   },
   "1406613360": {
@@ -192,13 +199,13 @@
   },
   "2890972472": {
     "displayProperties": {
-      "name": "Abyss",
-      "description": "Follow the light."
+      "name": "The Abyss",
+      "description": "Uncover the illuminated path in the darkness."
     }
   },
   "3768812794": {
     "displayProperties": {
-      "name": "Bridge",
+      "name": "Oversoul Throne Bridge",
       "description": "Traverse the bridge and climb the Throne."
     }
   },
@@ -211,7 +218,7 @@
   "4240994016": {
     "displayProperties": {
       "name": "Crota, Son of Oryx",
-      "description": "Defeat the Son of Oryx."
+      "description": "Use Crota's most powerful weapon against him."
     }
   }
 }
