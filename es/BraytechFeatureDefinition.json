@@ -23,12 +23,6 @@
       "description": "Toma medidas sobre asuntos y miembros del clan."
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "Estadísticas históricas",
-      "description": "Compara las _estadísticas históricas_ de varias actividades entre todos los miembros del clan."
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Relaciones",
@@ -101,6 +95,12 @@
     "displayProperties": {
       "name": "Triunfos seguidos",
       "description": "Ve aquí todos los triunfos que has seguido."
+    }
+  },
+  "triumphs-user-hidden": {
+    "displayProperties": {
+      "name": "Triunfos ocultos por el usuario",
+      "description": "Triunfos que has optado por ocultar. ¿Quién te ha hecho daño?"
     }
   },
   "triumphs-unredeemed": {

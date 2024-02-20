@@ -132,7 +132,7 @@
       ]
     },
     "extended": {
-      "video": "https://www.youtube.com/watch?v=0MRCoHQE0OE"
+      "video": "https://www.youtube.com/watch?v=kElEem1rN2s"
     }
   },
   "7": {
@@ -2695,6 +2695,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1034141726.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=kElEem1rN2s&t=208"
     }
   },
   "1067696992": {
@@ -3084,6 +3088,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/ascendant-plane-1084474590.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=kElEem1rN2s&t=235"
     }
   },
   "1084474591": {
@@ -3377,6 +3385,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/temple-of-illyn-1118029880.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=16s"
     }
   },
   "1118029881": {
@@ -3434,6 +3446,10 @@
           "recordHash": 23458534
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/corrupted-eggs/temple-of-illyn-1118029883.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=104s"
     }
   },
   "1118029884": {
@@ -3558,6 +3574,15 @@
         }
       }
     }
+  },
+  "1162848651": {
+    "hash": 1162848651,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1162848651,
+    "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/liming-harbor-1162848651.jpg"
   },
   "1217064983": {
     "hash": 1217064983,
@@ -3823,7 +3848,7 @@
     },
     "checklistHash": 1370818867,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=7ZCnPSSUlVw"
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=127s"
     },
     "related": {
       "records": [
@@ -3831,7 +3856,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/the-adytum-1370818867.jpg"
   },
   "1370818868": {
     "hash": 1370818868,
@@ -3860,7 +3886,7 @@
     },
     "checklistHash": 1370818869,
     "extended": {
-      "video": "https://www.youtube.com/watch?v=-C9vmn7c-I8"
+      "video": "https://www.youtube.com/watch?v=ZgQvrw4Iws0&t=55s"
     },
     "related": {
       "records": [
@@ -3868,7 +3894,8 @@
           "recordHash": 4175199845
         }
       ]
-    }
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1370818869.jpg"
   },
   "1370818871": {
     "hash": 1370818871,
@@ -4024,15 +4051,22 @@
       "description": ""
     },
     "checklistHash": 1387596460,
-    "extended": {
-      "video": "https://youtu.be/f8BtT6lW9nw"
-    },
     "related": {
       "records": [
         {
           "recordHash": 4175199845
         }
       ]
+    },
+    "screenshot": "/static/images/screenshots/checklists/ahamkara-bones/ascendant-plane-1387596460.jpg",
+    "extended": {
+      "video": "https://www.youtube.com/watch?v=kElEem1rN2s&t=255",
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 69
+        }
+      }
     }
   },
   "1387596461": {

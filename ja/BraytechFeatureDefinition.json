@@ -23,12 +23,6 @@
       "description": "クラン内で発生した問題やメンバー管理をします"
     }
   },
-  "clan-stats": {
-    "displayProperties": {
-      "name": "歴史的統計データ",
-      "description": "いくつかのアクティビティでの _歴史的統計データ_ をクランメンバー内で比較します"
-    }
-  },
   "clan-relationships": {
     "displayProperties": {
       "name": "信頼関係",
