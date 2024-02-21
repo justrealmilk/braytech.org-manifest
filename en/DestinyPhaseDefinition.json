@@ -220,5 +220,149 @@
       "name": "Crota, Son of Oryx",
       "description": "Use Crota's most powerful weapon against him."
     }
+  },
+  "1899447888": {
+    "displayProperties": {
+      "name": "Search for safe passage",
+      "description": "\"Show me your cunning…\""
+    }
+  },
+  "2700613207": {
+    "displayProperties": {
+      "name": "Vorgeth, the Boundless Hunger",
+      "description": "\"Shape your schemes into reality…\""
+    }
+  },
+  "1340233962": {
+    "displayProperties": {
+      "name": "Dûl Incaru, the Eternal Return",
+      "description": "\"Enter the infinite…\""
+    }
+  },
+  "5808550890": {
+    "displayProperties": {
+      "name": "Necropolis",
+      "description": "Turn the blades of the enemy against them."
+    }
+  },
+  "1826821877": {
+    "displayProperties":  {
+      "name": "Chamber of Suffering",
+      "description": "Endure the Chamber of Suffering."
+    }
+  },
+  "133673726": {
+    "displayProperties": {
+      "name": "Zulmak, Instrument of Torment",
+      "description": "Slay Zulmak, Instrument of Torment."
+    }
+  },
+  "2400102494": {
+    "displayProperties": {
+      "name": "Defeat the Phalanx Echo",
+      "description": "Confront the Phalanx Echo, a part of the Nine's answer to your question."
+    }
+  },
+  "3585780724": {
+    "displayProperties": {
+      "name": "Escape",
+      "description": "Find a way forward."
+    }
+  },
+  "3492117941": {
+    "displayProperties": {
+      "name": "Defeat the Kell Echo",
+      "description": "Confront the Kell Echo, a part of the Nine's answer to your question."
+    }
+  },
+  "2867024332": {
+    "displayProperties": {
+      "name": "Phry'zhia, The Insatiable",
+      "description": "Turn the cycle of greed against your enemies."
+    }
+  },
+  "4063391552": {
+    "displayProperties": {
+      "name": "Fallen Shield",
+      "description": "Fire Servitor remains at the Fallen shield."
+    }
+  },
+  "4056788414": {
+    "displayProperties": {
+      "name": "Captain Avarokk the Covetous",
+      "description": "Turn the cycle of greed against Captain Avarokk the Covetous."
+    }
+  },
+  "1012557098": {
+    "displayProperties": {
+      "name": "Sorrow Bearer",
+      "description": "\"You were born only to suffer, because I could not set aside that which I knew was a trap. My curiosity is a poison flowing through my veins, curdling my heart, rotting my mind. And yet, I do nothing to stop it.\""
+    }
+  },
+  "3780037272": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "\"I beg you, don't do this.\""
+    }
+  },
+  "1805972064": {
+    "displayProperties": {
+      "name": "Calus's Greatest Shame",
+      "description": "\"Is this what I have done? Once, she looked at me with adoring eyes. I was her world, and she my stars. How have I made her into this? Have I been so blind? So selfish? What have I done?\""
+    }
+  },
+  "1483068591": {
+    "displayProperties": {
+      "name": "Ascend the Spire",
+      "description": "Open a route via the grav lift to the Spire peak, where the Pillory signal is being sourced."
+    }
+  },
+  "1779644342": {
+    "displayProperties": {
+      "name": "Silence the Siren",
+      "description": "Destroy Akelous, the Siren's Current before it can complete the Pillory protocol and imprison Rasputin's subminds."
+    }
+  },
+  "2676434388": {
+    "displayProperties": {
+      "name": "Prompt Critical",
+      "description": "Destroy Persys, Primordial Ruin and prevent the complex's reactor core meltdown from causing irreparable damage."
+    }
+  },
+  "160562459": {
+    "displayProperties": {
+      "name": "Break the Ritual",
+      "description": "Unravel the Lucent Hive ritual."
+    }
+  },
+  "3469402858": {
+    "displayProperties": {
+      "name": "Defeat the Shield of Savathûn",
+      "description": "Defeat Ecthar, the Shield of Savathûn."
+    }
+  },
+  "2189312851": {
+    "displayProperties": {
+      "name": "Defeat Šimmumah ur-Nokru",
+      "description": "Defeat the lightforged necromancer, Šimmumah ur-Nokru."
+    }
+  },
+  "2065920306": {
+    "displayProperties": {
+      "name": "Mysterious Challenger",
+      "description": "A corrupted Knight stands between you and answers. Meet their challenge, leave them broken, but beware latent curses."
+    }
+  },
+  "1306680929": {
+    "displayProperties": {
+      "name": "Wailing Tempest",
+      "description": "Wish for warmth, brave the frigid winds, and silence the Locus of Wailing Grief that sustains them."
+    }
+  },
+  "2741345805": {
+    "displayProperties": {
+      "name": "Quell the Corruption",
+      "description": "\"You have taken my vengeance. My task is done, Naeem's wish fulfilled. Come then, slay me. Let it end.\" —Hefnd"
+    }
   }
 }
