@@ -17,6 +17,12 @@
       "description": "Morgeth, the Spirekeeper, an enormous and powerful Taken Ogre, serves as the enforcer of Riven's corruption in the Dreaming City, and the guard of the City's main tower, The Keep of Voices. Destroy them."
     }
   },
+  "2169047898": {
+    "displayProperties": {
+      "name": "Find Riven",
+      "description": "Having defeated **Morgeth, the Spirekeeper**, head higher into the Dreaming City and pursue Riven."
+    }
+  },
   "436847112": {
     "displayProperties": {
       "name": "The Vault",
