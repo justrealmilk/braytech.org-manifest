@@ -3,13 +3,13 @@ public class Property implements JsonObject {
     static class DisplayProperties implements JsonObject {
         private String name;
         private String description;
-        private String tip;
+        private String supplement;
 
         @Override
         public boolean isEmpty() {
             return (name == null || name.isBlank()) &&
                     (description == null || description.isBlank()) &&
-                    (tip == null || tip.isBlank());
+                    (supplement == null || supplement.isBlank());
         }
 
         @Override
@@ -18,8 +18,8 @@ public class Property implements JsonObject {
                 name = null;
             if (description != null && description.isBlank())
                 description = null;
-            if (tip != null && tip.isBlank())
-                tip = null;
+            if (supplement != null && supplement.isBlank())
+                supplement = null;
             return this;
         }
     }
@@ -65,17 +65,17 @@ public class Property implements JsonObject {
     }
 
     static class Extended implements JsonObject {
-        private String tip;
+        private String supplement;
 
         @Override
         public boolean isEmpty() {
-            return (tip == null || tip.isBlank());
+            return (supplement == null || supplement.isBlank());
         }
 
         @Override
         public Extended removeEmptyFields() {
-            if (tip != null && tip.isBlank())
-                tip = null;
+            if (supplement != null && supplement.isBlank())
+                supplement = null;
             return this;
         }
     }
