@@ -161,11 +161,6 @@
       "description": "Una grieta alimentada por resonancia."
     }
   },
-  "235152581": {
-    "extended": {
-      "supplement": "Sitúate en la punta de cada cañón de defensa y destruye las anclas resonantes para revelar un secreto en el cañón más alejado de tu punto de entrada."
-    }
-  },
   "379286227": {
     "displayProperties": {
       "description": "Cerca de la **Confluencia Vex**, entre las raíces de un árbol muerto."
@@ -1392,11 +1387,6 @@
       "name": "Pesadilla de Taniks, el Marcado"
     }
   },
-  "2442093127": {
-    "extended": {
-      "supplement": "A los pies de..."
-    }
-  },
   "2495538001": {
     "displayProperties": {
       "description": "Al lado del acantilado, bajo el camino que lleva a un sector perdido."
@@ -1457,29 +1447,9 @@
       "description": "Bajo el hielo."
     }
   },
-  "3904017033": {
-    "extended": {
-      "supplement": "Prende los fuegos."
-    }
-  },
   "3977481189": {
     "displayProperties": {
       "description": "Entra en el **Círculo de Huesos** a través de La Antesala, gira a la derecha y sigue el camino alrededor de la Boca del Infierno. Antes de llegar al siguiente cruce, gira atrás y mira debajo de la plataforma para encontrar dos ojos de jade que penetran la Luz que te regaló el Viajero."
-    }
-  },
-  "4006123814": {
-    "extended": {
-      "supplement": "Se encuentra bajo..."
-    }
-  },
-  "4069293792": {
-    "extended": {
-      "supplement": "Activa la interfaz. Gírate hacia la entrada. Hay 8 paneles circulares. De izquierda a derecha, de arriba a abajo, dispara a los paneles en el siguiente orden: 6, 8, 4, 5, 2, 7, 3, 1."
-    }
-  },
-  "4084570599": {
-    "extended": {
-      "supplement": "Este cofre requiere que uno mismo trascienda su realidad. Para acceder:\n\n1. Cerca del **Hermano Vance**, encuentra un libro convincente. Examínalo.\n2. Gira 180°. Dirígete a la pared más lejana y encuentra el siguiente ejemplar en la estantería. Examínalo.\n3. Desplázate hasta la estantería que hay a la derecha del portal y encuentra el siguiente ejemplar junto a la hoguera que hay al fondo de la estantería. Examínala.\n4. Vuelve a la primera estantería y encuentra el siguiente ejemplar en el escritorio junto al discípulo. Examínalo.\n5. El último libro está escondido en lo alto de una estantería al otro lado de la habitación, junto a la forja. Examínalo.\n6. Aparecerá una **confluencia Vex**. Examínala."
     }
   },
   "4111390768": {

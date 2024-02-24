@@ -161,11 +161,6 @@
       "description": "共振の亀裂"
     }
   },
-  "235152581": {
-    "extended": {
-      "supplement": "砲台の先端に立ち、その先にある共鳴アンカーを破壊すると、侵入口から最も遠い砲台に「秘密」が出てくる。"
-    }
-  },
   "379286227": {
     "displayProperties": {
       "description": "霊場の近くにある **合流点** の近く、枯れ木の根の間にある。"
@@ -1645,11 +1640,6 @@
       "description": "サバスンの深層心理が、彼女自らによって創られた神秘と不可知で満ちた玉座の世界に生を宿している。この世界は未知の力と暗黒の美学で構築され、そのすべてがサバスンの意のままに動く。"
     }
   },
-  "2442093127": {
-    "extended": {
-      "supplement": "足元に..."
-    }
-  },
   "2481646875": {
     "displayProperties": {
       "description": "ネオンの幻想的な光に照らされたこの先進の都市は、大崩壊の暗影を一切感じさせない。だが、その華やかな外観の裏には、何故か人々の姿は見えない。クラウド・ストライダーズの勇者たちは静かに、しかし確固たる意志でその平和を守り続けている。"
@@ -1810,11 +1800,6 @@
       "description": "氷の中にある"
     }
   },
-  "3904017033": {
-    "extended": {
-      "supplement": "点火すると..."
-    }
-  },
   "3977481189": {
     "displayProperties": {
       "description": "ゲートハウスに入ってからサークル・オブ・ボーンズに入ったら、右折してヘルマウスの周りをぐるっと一周する。次の分かれ道の手前で踵を返し、台の下を見ると翡翠の瞳がガーディアンの肩にとまるトラベラーの光を見つめている事に気がつくだろう。"
@@ -1823,21 +1808,6 @@
   "3990611421": {
     "displayProperties": {
       "description": "かつて黄金時代に繁栄した旧ロシアの巨大宇宙飛行造船所の廃墟。今や、フォールンがこの静かな遺跡を徘徊し、墓荒らしの如く設備を漁り巣食っている。"
-    }
-  },
-  "4006123814": {
-    "extended": {
-      "supplement": "すぐ真下に..."
-    }
-  },
-  "4069293792": {
-    "extended": {
-      "supplement": "インターフェイスを起動させて、入口側に向く。円形のパネルが8枚あるので左から右、上から下の順で1-8としたら次の通りパネルを撃つ： 6, 8, 4, 5, 2, 7, 3, 1."
-    }
-  },
-  "4084570599": {
-    "extended": {
-      "supplement": "This chest requires oneself to transcend their reality. To access:\n\n1. Near **Brother Vance**, find a compelling book. Examine it.\n2. Turn 180°. Head to the farthest wall and find the next edition on the bookshelf. Examine it.\n3. Move around to the bookcase right of the gateway and find the next edition beside the firepit at the bottom of the bookcase. Examine it.\n4. Return to the first bookcase and find the next edition on the desk beside the disciple. Examine it.\n5. The final book is hidden high on a bookshelf across the the room, by the forge. Examine it.\n6. A **Vex conflux** will appear. Examine it."
     }
   },
   "4111390768": {
