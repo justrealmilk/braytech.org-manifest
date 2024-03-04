@@ -93,6 +93,7 @@ public class Property implements JsonObject {
     private String itemTypeDisplayName;
     private String displaySource;
     private String substring;
+    private String distinguish;
     private String progressDescription;
     private com.google.gson.JsonArray bubbles;
     private com.google.gson.JsonArray keywords;
@@ -117,6 +118,7 @@ public class Property implements JsonObject {
                 && (statDescription == null || statDescription.isBlank())
                 && (itemTypeDisplayName == null || itemTypeDisplayName.isBlank())
                 && (displaySource == null || displaySource.isBlank()) && (substring == null || substring.isBlank())
+                && (distinguish == null || distinguish.isBlank())
                 && (progressDescription == null || progressDescription.isBlank())
                 && (bubbles == null || bubbles.isJsonNull())
                 && (keywords == null || keywords.isJsonNull())
@@ -140,6 +142,7 @@ public class Property implements JsonObject {
         itemTypeDisplayName = removeEmptyString(itemTypeDisplayName);
         displaySource = removeEmptyString(displaySource);
         substring = removeEmptyString(substring);
+        distinguish = removeEmptyString(distinguish);
         progressDescription = removeEmptyString(progressDescription);
         inventory = (Inventory) removeEmptyObj(inventory);
         extended = (Extended) removeEmptyObj(extended);
