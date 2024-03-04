@@ -87,6 +87,12 @@
     },
     "distinguish": "true"
   },
+  "1000000009": {
+    "displayProperties": {
+      "name": "Animated"
+    },
+    "distinguish": "true"
+  },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"
   },
