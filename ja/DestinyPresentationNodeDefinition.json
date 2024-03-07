@@ -38,46 +38,60 @@
   "1000000004": {
     "displayProperties": {
       "name": "すべての道のり"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000005": {
     "displayProperties": {
       "name": "すべての挑戦"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000051": {
     "displayProperties": {
       "name": "クルーシブル"
     },
-    "substring": "クルーシブル|カオス|オシリスの挑戦|アイアンバナー|で相手を倒す"
+    "substring": "クルーシブル|カオス|オシリスの挑戦|アイアンバナー|で相手を倒す",
+    "distinguish": "true"
   },
   "1000000052": {
     "displayProperties": {
       "name": "ストライク"
     },
-    "substring": "ナイトフォール|ストライク|バンガード"
+    "substring": "ナイトフォール|ストライク|バンガード",
+    "distinguish": "true"
   },
   "1000000053": {
     "displayProperties": {
       "name": "ギャンビット"
     },
-    "substring": "ギャンビット|侵入|かけら"
+    "substring": "ギャンビット|侵入|かけら",
+    "distinguish": "true"
   },
   "1000000006": {
     "displayProperties": {
       "name": "すべてのパターン"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000007": {
     "displayProperties": {
       "name": "すべての媒体"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000008": {
     "displayProperties": {
       "name": "入手可能",
       "description": "これらのエンブレムはhttps://www.bungie.net/redeemにて、無料ダウンロードコードを入力すると入手できます"
-    }
+    },
+    "distinguish": "true"
+  },
+  "1000000009": {
+    "displayProperties": {
+      "name": "Animated"
+    },
+    "distinguish": "true"
   },
   "2485764221": {
     "itemTypeDisplayName": "ガーディアンランク"
