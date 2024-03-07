@@ -23,6 +23,12 @@
       "description": "クラン内で発生した問題やメンバー管理をします"
     }
   },
+  "clan-historical-stats": {
+    "displayProperties": {
+      "name": "過去のステータス",
+      "description": "アクティビティごとに、プレイヤーのステータス値を比較できます。\n\nステータス値の統計精度については、[よくある質問](/addendums/faq)をご覧ください。"
+    }
+  },
   "clan-relationships": {
     "displayProperties": {
       "name": "信頼関係",
@@ -42,6 +48,12 @@
       "媒体",
       "伝承"
     ]
+  },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "装備一式",
+      "description": "レイドや迷宮など、特定のアクティビティだけで入手できる貴重なアイテムをとりまとめています。"
+    }
   },
   "collections-lore": {
     "displayProperties": {
