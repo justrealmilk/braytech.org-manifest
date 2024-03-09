@@ -86,6 +86,7 @@ public class Property implements JsonObject {
     private DisplayProperties originalDisplayProperties;
     private Entry entry;
     private String sourceString;
+    private Number sourceSeason;
     private String statName;
     private String statNameAlt;
     private String statNameAbbr;
@@ -112,7 +113,8 @@ public class Property implements JsonObject {
                 && (displayProperties == null || displayProperties.isEmpty())
                 && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
                 && (entry == null || entry.isEmpty())
-                && (sourceString == null || sourceString.isBlank()) && (statName == null || statName.isBlank())
+                && (sourceString == null || sourceString.isBlank()) && (sourceSeason == null || sourceSeason.isBlank())
+                && (statName == null || statName.isBlank())
                 && (statNameAlt == null || statNameAlt.isBlank())
                 && (statNameAbbr == null || statNameAbbr.isBlank())
                 && (statDescription == null || statDescription.isBlank())
@@ -135,6 +137,7 @@ public class Property implements JsonObject {
         originalDisplayProperties = (DisplayProperties) removeEmptyObj(originalDisplayProperties);
         entry = (Entry) removeEmptyObj(entry);
         sourceString = removeEmptyString(sourceString);
+        sourceSeason = removeEmptyNumber(sourceSeason);
         statName = removeEmptyString(statName);
         statNameAlt = removeEmptyString(statNameAlt);
         statNameAbbr = removeEmptyString(statNameAbbr);
@@ -156,6 +159,12 @@ public class Property implements JsonObject {
                 o = null;
         }
         return o;
+    }
+
+    private Number removeEmptyNumber(Number s) {
+        if (s != null && s.isBlank())
+            s = null;
+        return s;
     }
 
     private String removeEmptyString(String s) {
