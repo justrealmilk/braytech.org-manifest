@@ -162,7 +162,7 @@ public class Property implements JsonObject {
     }
 
     private Number removeEmptyNumber(Number s) {
-        if (s != null && s.isBlank())
+        if (s != null && !s) // lol
             s = null;
         return s;
     }
