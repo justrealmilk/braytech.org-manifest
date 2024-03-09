@@ -19,7 +19,8 @@
       "motesLost"
     ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089"
+      "2056946089",
+      "2999013847"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3577304467",
@@ -363,6 +364,9 @@
     ]
   },
   "es": {
+    "DestinyCollectibleDefinition.json": [
+      "2999013847"
+    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
     ],
@@ -481,6 +485,9 @@
     ]
   },
   "es-MX": {
+    "DestinyCollectibleDefinition.json": [
+      "2999013847"
+    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
     ],
@@ -618,7 +625,8 @@
       "motesLost"
     ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089"
+      "2056946089",
+      "2999013847"
     ],
     "DestinyActivityModifierDefinition.json": [
       "766975360",
@@ -868,6 +876,9 @@
     ]
   },
   "it": {
+    "DestinyCollectibleDefinition.json": [
+      "2999013847"
+    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
     ],
@@ -1121,6 +1132,11 @@
       "3000000013",
       "3000000014",
       "3000000015"
+    ]
+  },
+  "ja": {
+    "DestinyCollectibleDefinition.json": [
+      "2999013847"
     ]
   },
   "ko": {
@@ -2056,7 +2072,8 @@
       "958866288",
       "3568861785",
       "3568861784",
-      "2172413746"
+      "2172413746",
+      "2999013847"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -2431,7 +2448,8 @@
       "3821439926"
     ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089"
+      "2056946089",
+      "2999013847"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3636591526",
