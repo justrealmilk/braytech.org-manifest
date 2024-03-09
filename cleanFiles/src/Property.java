@@ -113,7 +113,7 @@ public class Property implements JsonObject {
                 && (displayProperties == null || displayProperties.isEmpty())
                 && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
                 && (entry == null || entry.isEmpty())
-                && (sourceString == null || sourceString.isBlank()) && (sourceSeason == null || sourceSeason.isBlank())
+                && (sourceString == null || sourceString.isBlank()) && (sourceSeason == null)
                 && (statName == null || statName.isBlank())
                 && (statNameAlt == null || statNameAlt.isBlank())
                 && (statNameAbbr == null || statNameAbbr.isBlank())
@@ -162,7 +162,7 @@ public class Property implements JsonObject {
     }
 
     private Number removeEmptyNumber(Number s) {
-        if (s != null && !s) // lol
+        if (s != null && s.intValue() != 0) // lol
             s = null;
         return s;
     }
