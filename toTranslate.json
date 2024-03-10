@@ -19,8 +19,7 @@
       "motesLost"
     ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089",
-      "2999013847"
+      "2056946089"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3577304467",
@@ -364,8 +363,8 @@
     ]
   },
   "es": {
-    "DestinyCollectibleDefinition.json": [
-      "2999013847"
+    "DestinySourceDefinition.json": [
+      "1000000002"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -485,8 +484,8 @@
     ]
   },
   "es-MX": {
-    "DestinyCollectibleDefinition.json": [
-      "2999013847"
+    "DestinySourceDefinition.json": [
+      "1000000002"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -625,8 +624,7 @@
       "motesLost"
     ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089",
-      "2999013847"
+      "2056946089"
     ],
     "DestinyActivityModifierDefinition.json": [
       "766975360",
@@ -876,8 +874,8 @@
     ]
   },
   "it": {
-    "DestinyCollectibleDefinition.json": [
-      "2999013847"
+    "DestinySourceDefinition.json": [
+      "1000000002"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -1135,8 +1133,8 @@
     ]
   },
   "ja": {
-    "DestinyCollectibleDefinition.json": [
-      "2999013847"
+    "DestinySourceDefinition.json": [
+      "1000000002"
     ]
   },
   "ko": {
@@ -2072,8 +2070,7 @@
       "958866288",
       "3568861785",
       "3568861784",
-      "2172413746",
-      "2999013847"
+      "2172413746"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -2447,9 +2444,11 @@
     "DestinyDestinationDefinition.json": [
       "3821439926"
     ],
+    "DestinySourceDefinition.json": [
+      "1000000002"
+    ],
     "DestinyCollectibleDefinition.json": [
-      "2056946089",
-      "2999013847"
+      "2056946089"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3636591526",
@@ -2556,6 +2555,7 @@
       "703136805"
     ],
     "DestinySourceDefinition.json": [
+      "1000000002",
       "1000000045",
       "1000000046",
       "2455011338",
