@@ -472,7 +472,7 @@
     "hash": "activity-series",
     "displayProperties": {
       "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
     },
     "to": "/activity/series",
     "keywords": ["reports", "pgcr", "stats", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
