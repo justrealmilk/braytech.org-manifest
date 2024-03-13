@@ -2915,5 +2915,21 @@
   "4177603899": {
     "hash": 4177603899,
     "sourceSeason": 1
+  },
+  "802420308": {
+    "hash": 802420308,
+    "displayProperties": {
+      "supplement": "In recognition of completing the **Gold** Event Challenge during Guardian Games All-Stars."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 23
+  },
+  "1720952420": {
+    "hash": 1720952420,
+    "displayProperties": {
+      "supplement": "In recognition of completing the **MMXXIII** Title."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 23
   }
 }
