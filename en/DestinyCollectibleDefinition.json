@@ -956,6 +956,7 @@
   },
   "1653841952": {
     "hash": 1653841952,
+    "sourceHash": 1000000009,
     "sourceSeason": 20
   },
   "1653841953": {
@@ -1071,6 +1072,7 @@
   },
   "1720952421": {
     "hash": 1720952421,
+    "sourceHash": 1000000002,
     "sourceSeason": 23
   },
   "1720952424": {
@@ -1095,6 +1097,7 @@
   },
   "1720952428": {
     "hash": 1720952428,
+    "sourceHash": 1000000009,
     "sourceSeason": 22
   },
   "1720952429": {
@@ -1257,6 +1260,7 @@
   },
   "1939502760": {
     "hash": 1939502760,
+    "sourceHash": 1000000009,
     "sourceSeason": 15
   },
   "1939502762": {
@@ -1568,6 +1572,7 @@
   },
   "2040168510": {
     "hash": 2040168510,
+    "sourceHash": 1000000009,
     "sourceSeason": 23
   },
   "2056946085": {
@@ -2135,7 +2140,11 @@
   },
   "3215337905": {
     "hash": 3215337905,
-    "sourceSeason": 22
+    "displayProperties": {
+      "supplement": "Watch at least 30 minutes of any of 3 streams for \"Into the Light\" on Twitch."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
   },
   "3215337906": {
     "hash": 3215337906,
@@ -2294,6 +2303,7 @@
   },
   "3282448380": {
     "hash": 3282448380,
+    "sourceHash": 1000000009,
     "sourceSeason": 13
   },
   "3282448381": {
@@ -2428,7 +2438,11 @@
   },
   "3316003527": {
     "hash": 3316003527,
-    "sourceSeason": 13
+    "displayProperties": {
+      "supplement": "Watch at least 30 minutes of any of 3 streams for \"Into the Light\" on Twitch."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
   },
   "3316003530": {
     "hash": 3316003530,
