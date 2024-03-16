@@ -1079,6 +1079,10 @@
   },
   "1720952425": {
     "hash": 1720952425,
+    "displayProperties": {
+      "supplement": "Watch a participating stream for 2 hours during the Twitch Rivals event."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 22
   },
   "1720952426": {
@@ -1115,6 +1119,10 @@
   },
   "1805281840": {
     "hash": 1805281840,
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 20
   },
   "1805281841": {
@@ -1294,6 +1302,10 @@
   },
   "1956280345": {
     "hash": 1956280345,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 20
   },
   "1956280346": {
@@ -1456,6 +1468,10 @@
   },
   "2006613207": {
     "hash": 2006613207,
+    "displayProperties": {
+      "supplement": "Watch at least 30 minutes of the Bungie Showcase on Twitch."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 17
   },
   "2006613213": {
@@ -1744,6 +1760,10 @@
   },
   "2529229356": {
     "hash": 2529229356,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 11
   },
   "2532590120": {
@@ -1980,6 +2000,10 @@
   },
   "2999013840": {
     "hash": 2999013840,
+    "displayProperties": {
+      "supplement": "Watch Bungie Foundation's official Game2Give stream."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 23
   },
   "2999013841": {
@@ -2541,6 +2565,10 @@
   },
   "3383113994": {
     "hash": 3383113994,
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 20
   },
   "3383113995": {
@@ -2553,6 +2581,10 @@
   },
   "3383113997": {
     "hash": 3383113997,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 21
   },
   "3383113998": {
@@ -2573,6 +2605,10 @@
   },
   "3399891684": {
     "hash": 3399891684,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
     "sourceSeason": 15
   },
   "3399891686": {
@@ -3058,6 +3094,10 @@
     "hash": 4221743476,
     "sourceSeason": 4
   },
+  "4224291482": {
+    "hash": 4224291482,
+    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
+  },
   "4224291483": {
     "hash": 4224291483,
     "sourceSeason": 23
@@ -3093,9 +3133,5 @@
   "4259147767": {
     "hash": 4259147767,
     "sourceSeason": 1
-  },
-  "4224291482": {
-    "hash": 4224291482,
-    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
   }
 }
