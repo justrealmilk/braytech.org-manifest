@@ -360,16 +360,22 @@
       "description": "How drippy you look is only limited by your choice in shaders. Keep in contact with Ada in case you're missing the goods."
     }
   },
-  "push-notification-event-weekly-overview": {
+  "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
-      "name": "Overview",
-      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
+      "name": "Banshee-44 Legendaries",
+      "description": "As master weaponsmith for the Tower, Banshee supplies Guardians with only the best."
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crucible",
       "description": "Be notified of which modes Lord Shaxx has configured the Crucible for.\n\nFight for fame and glory, but in oddly specific ways and at a weekly cadence."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Overview",
+      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
     }
   },
   "push-notification-event-this-week-at-bungie": {
