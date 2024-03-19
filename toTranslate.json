@@ -299,8 +299,9 @@
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
+      "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
     "BraytechMapsTypesDefinition.json": [
@@ -506,6 +507,9 @@
     "DestinyActivityDefinition.json": [
       "968118624"
     ],
+    "BraytechCommonDefinition.json": [
+      "push-notification-event-daily-vendor-banshee44"
+    ],
     "DestinySourceDefinition.json": [
       "1000000002",
       "1000000003",
@@ -700,6 +704,9 @@
     ],
     "DestinyActivityDefinition.json": [
       "968118624"
+    ],
+    "BraytechCommonDefinition.json": [
+      "push-notification-event-daily-vendor-banshee44"
     ],
     "DestinySourceDefinition.json": [
       "1000000002",
@@ -991,6 +998,7 @@
       "progression-step-map",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
@@ -1357,6 +1365,9 @@
       "2687247787",
       "721124822"
     ],
+    "BraytechCommonDefinition.json": [
+      "push-notification-event-daily-vendor-banshee44"
+    ],
     "DestinySourceDefinition.json": [
       "1000000002",
       "1000000003",
@@ -1470,6 +1481,9 @@
       "1441982566",
       "1374392663",
       "2381413764"
+    ],
+    "BraytechCommonDefinition.json": [
+      "push-notification-event-daily-vendor-banshee44"
     ],
     "DestinySourceDefinition.json": [
       "1000000002",
@@ -2018,8 +2032,9 @@
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-xur",
       "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
+      "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
     "BraytechMapsTypesDefinition.json": [
@@ -2199,8 +2214,9 @@
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-xur",
       "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
+      "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
     "BraytechFeatureDefinition.json": [
@@ -2328,8 +2344,9 @@
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-xur",
       "push-notification-event-weekly-vendor-ada1-shaders",
-      "push-notification-event-weekly-overview",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
+      "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
     "BraytechFeatureDefinition.json": [
@@ -2743,6 +2760,7 @@
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
@@ -2945,6 +2963,7 @@
       "unique-weapon-kills",
       "active-score-rank",
       "push-notification-event-daily-weather-forecast",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
@@ -3181,6 +3200,7 @@
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie"
     ],
