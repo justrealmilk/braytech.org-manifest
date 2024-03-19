@@ -360,16 +360,16 @@
       "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
     }
   },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "Resumen",
-      "description": "Recibe cada reinicio una densa ráfaga de información que resume las actividades rituales, los retos temporales y otros puntos de interés."
-    }
-  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crisol",
       "description": "Recibe notificaciones sobre los modos que Lord Shaxx ha dispuesto en el Crisol.\n\nLucha por la fama y la gloria, pero de formas curiosamente específicas cada semana."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Resumen",
+      "description": "Recibe cada reinicio una densa ráfaga de información que resume las actividades rituales, los retos temporales y otros puntos de interés."
     }
   },
   "push-notification-event-this-week-at-bungie": {

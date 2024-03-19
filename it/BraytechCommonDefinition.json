@@ -360,16 +360,16 @@
       "description": "Il tuo drip è limitato solo dalla tua scelta di shader. Rimani in contatto con Ada nel caso ti mancasse la merce."
     }
   },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "Panoramica",
-      "description": "Ricevi una fitta serie di informazioni a ogni reset che riassume attività rituali, sfide cicliche e altri punti di interesse."
-    }
-  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crogiolo",
       "description": "Informati su quali modalità Lord Shaxx ha configurato per il Crogiolo.\n\nCombatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Panoramica",
+      "description": "Ricevi una fitta serie di informazioni a ogni reset che riassume attività rituali, sfide cicliche e altri punti di interesse."
     }
   },
   "push-notification-event-this-week-at-bungie": {
