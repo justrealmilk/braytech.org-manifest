@@ -1,4 +1,7 @@
 {
+  "1000000000": {
+    "sourceString": "Source: Unknown."
+  },
   "1000000001": {
     "sourceString": "Source: This emblem can be collected by redemption with a free code. Inspect this item in \"Collections\" to see its code."
   },
@@ -28,6 +31,9 @@
   },
   "1000000010": {
     "sourceString": "Source: Defeat or carry to victory a Bungie bounty target."
+  },
+  "1000000011": {
+    "sourceString": "Source: For a special Guardian."
   },
   "1000000045": {
     "sourceString": "Source: Trials of Osiris"
