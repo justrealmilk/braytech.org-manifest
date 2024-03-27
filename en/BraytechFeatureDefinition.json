@@ -477,20 +477,6 @@
     "to": "/activity/series",
     "keywords": ["reports", "pgcr", "stats", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
   },
-  "inspect-equipment": {
-    "hash": "inspect-equipment",
-    "displayProperties": {
-      "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods"
-    }
-  },
-  "inspect-lore": {
-    "hash": "inspect-lore",
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Read this item's story"
-    }
-  },
   "settings": {
     "hash": "settings",
     "displayProperties": {
