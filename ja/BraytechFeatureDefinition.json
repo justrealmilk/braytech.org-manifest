@@ -382,18 +382,6 @@
       "試合"
     ]
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "ソケット",
-      "description": "すべてのアイテム属性; ステータス、パーク、Mod"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "伝承",
-      "description": "このアイテムに書かれた物語を読む"
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "設定",

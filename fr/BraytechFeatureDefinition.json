@@ -319,18 +319,6 @@
       "matchs"
     ]
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "Emplacements",
-      "description": "Tous les attributs de cet objet; stats, perks et mods"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "Histoire",
-      "description": "Lire l'histoire de cet objet"
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "Paramètres",

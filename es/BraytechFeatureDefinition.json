@@ -370,18 +370,6 @@
       "partidas"
     ]
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "Ranuras",
-      "description": "Todos los atributos del objeto; estadísticas, ventajas, y mods."
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "Historia",
-      "description": "Lee la historia de este objeto."
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "Ajustes",
