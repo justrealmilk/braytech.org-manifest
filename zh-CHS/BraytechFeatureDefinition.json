@@ -41,6 +41,12 @@
       "description": "你的守护者一生中曾获得的物品"
     }
   },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "套装",
+      "description": "从地牢或突袭中获取的武器及装备"
+    }
+  },
   "collections-lore": {
     "displayProperties": {
       "name": "传说故事",
@@ -53,22 +59,16 @@
       "description": "解锁深视模式可解锁对应武器的锻造。催化剂可使你的异域武器变得更加强大。找到并完成它们相关的目标来使你的军械库发挥出最大潜力"
     }
   },
-  "collections-metrics": {
-    "displayProperties": {
-      "name": "数据追踪器",
-      "description": "数据追踪器可通过徽章的检视页面装备。所装备的追踪器会在可用时显示名牌上"
-    }
-  },
-  "collections-sets": {
-    "displayProperties": {
-      "name": "套装",
-      "description": "从地牢或突袭中获取的武器及装备"
-    }
-  },
   "collections-medals": {
     "displayProperties": {
       "name": "勋章",
       "description": "通过游戏精通获得的勋章"
+    }
+  },
+  "collections-metrics": {
+    "displayProperties": {
+      "name": "数据追踪器",
+      "description": "数据追踪器可通过徽章的检视页面装备。所装备的追踪器会在可用时显示名牌上"
     }
   },
   "triumphs": {
