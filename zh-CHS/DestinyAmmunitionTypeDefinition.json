@@ -1,0 +1,29 @@
+{
+  "1": {
+    "displayProperties": {
+      "name": "普通弹药"
+    },
+    "originalDisplayProperties": {
+      "name": "主武器"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  },
+  "2": {
+    "displayProperties": {
+      "name": "特殊弹药"
+    },
+    "originalDisplayProperties": {
+      "name": "特殊武器"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  },
+  "3": {
+    "displayProperties": {
+      "name": "重型弹药"
+    },
+    "originalDisplayProperties": {
+      "name": "重武器"
+    },
+    "itemTypeDisplayName": "弹药类型"
+  }
+}
