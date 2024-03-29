@@ -23,6 +23,12 @@
       "description": "管理公会成员以及相关事务"
     }
   },
+  "clan-historical-stats": {
+    "displayProperties": {
+      "name": "生涯统计",
+      "description": "按活动类型对公会成员进行排序查看。\n\n有关这些数据准确性的问题，请查阅 [常见问题](/addendums/faq)."
+    }
+  },
   "clan-relationships": {
     "displayProperties": {
       "name": "成员关系",
@@ -51,6 +57,18 @@
     "displayProperties": {
       "name": "数据追踪器",
       "description": "数据追踪器可通过徽章的检视页面装备。所装备的追踪器会在可用时显示名牌上"
+    }
+  },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "套装",
+      "description": "从地牢或突袭中获取的武器及装备"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "勋章",
+      "description": "通过游戏精通获得的勋章"
     }
   },
   "triumphs": {
@@ -255,6 +273,18 @@
     "displayProperties": {
       "name": "致谢",
       "description": "关于那些让一切成为可能的守护者们"
+    }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "排行榜",
+      "description": "专为那些追求卓越的守护者们而打造"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "火力战队监控器",
+      "description": "_你_ 就是主脑."
     }
   }
 }
