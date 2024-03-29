@@ -2926,14 +2926,6 @@
       "5000000010",
       "5000000011"
     ],
-    "BraytechActivityDefinition.json": [
-      "1661734046",
-      "910380154",
-      "3881495763",
-      "1441982566",
-      "1374392663",
-      "2381413764"
-    ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
       "3794117631",
@@ -2989,18 +2981,13 @@
       "13"
     ],
     "BraytechFeatureDefinition.json": [
-      "clan-historical-stats",
-      "collections-sets",
-      "collections-medals",
       "triumphs-tracked",
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
       "character-breakdown",
       "character-inventory",
-      "settings-subscriptions",
-      "leaderboards",
-      "fireteam-monitor"
+      "settings-subscriptions"
     ],
     "DestinyCollectibleDefinition.json": [
       "2056946089",
