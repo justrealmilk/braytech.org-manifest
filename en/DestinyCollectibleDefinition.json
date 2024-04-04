@@ -388,18 +388,22 @@
   },
   "357310628": {
     "hash": 357310628,
+    "sourceHash": 1000000012,
     "sourceSeason": 7
   },
   "357310629": {
     "hash": 357310629,
+    "sourceHash": 1000000012,
     "sourceSeason": 7
   },
   "357310630": {
     "hash": 357310630,
+    "sourceHash": 1000000012,
     "sourceSeason": 10
   },
   "357310631": {
     "hash": 357310631,
+    "sourceHash": 1000000012,
     "sourceSeason": 10
   },
   "357310634": {
@@ -481,6 +485,7 @@
   },
   "651647958": {
     "hash": 651647958,
+    "sourceHash": 1000000012,
     "sourceSeason": 10
   },
   "651647959": {
@@ -493,14 +498,17 @@
   },
   "651647960": {
     "hash": 651647960,
+    "sourceHash": 1000000012,
     "sourceSeason": 9
   },
   "668425536": {
     "hash": 668425536,
+    "sourceHash": 1000000012,
     "sourceSeason": 8
   },
   "668425537": {
     "hash": 668425537,
+    "sourceHash": 1000000012,
     "sourceSeason": 11
   },
   "668425539": {
@@ -509,6 +517,7 @@
   },
   "668425540": {
     "hash": 668425540,
+    "sourceHash": 1000000012,
     "sourceSeason": 11
   },
   "668425541": {
@@ -518,6 +527,7 @@
   },
   "668425542": {
     "hash": 668425542,
+    "sourceHash": 1000000012,
     "sourceSeason": 11
   },
   "668425543": {
@@ -580,13 +590,13 @@
   },
   "701980844": {
     "hash": 701980844,
-    "sourceSeason": 9,
-    "sourceHash": 1000000002
+    "sourceHash": 1000000002,
+    "sourceSeason": 9
   },
   "701980845": {
     "hash": 701980845,
-    "sourceSeason": 12,
-    "sourceHash": 1000000002
+    "sourceHash": 1000000002,
+    "sourceSeason": 12
   },
   "701980846": {
     "hash": 701980846,
@@ -660,6 +670,7 @@
   },
   "930889090": {
     "hash": 930889090,
+    "sourceHash": 1000000012,
     "sourceSeason": 3
   },
   "930889091": {
@@ -686,6 +697,7 @@
   },
   "930889100": {
     "hash": 930889100,
+    "sourceHash": 1000000012,
     "sourceSeason": 1
   },
   "930889101": {
@@ -871,18 +883,22 @@
   },
   "1351742168": {
     "hash": 1351742168,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "1351742169": {
     "hash": 1351742169,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "1351742170": {
     "hash": 1351742170,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "1351742171": {
     "hash": 1351742171,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "1351742172": {
@@ -1032,8 +1048,8 @@
   },
   "1670619539": {
     "hash": 1670619539,
-    "sourceSeason": 20,
-    "sourceHash": 1000000002
+    "sourceHash": 1000000012,
+    "sourceSeason": 20
   },
   "1670619546": {
     "hash": 1670619546,
@@ -1058,6 +1074,7 @@
   },
   "1687397127": {
     "hash": 1687397127,
+    "sourceHash": 1000000012,
     "sourceSeason": 22
   },
   "1704174832": {
@@ -1072,14 +1089,17 @@
   },
   "1704174842": {
     "hash": 1704174842,
+    "sourceHash": 1000000012,
     "sourceSeason": 22
   },
   "1704174844": {
     "hash": 1704174844,
+    "sourceHash": 1000000012,
     "sourceSeason": 22
   },
   "1704174845": {
     "hash": 1704174845,
+    "sourceHash": 1000000012,
     "sourceSeason": 23
   },
   "1704174847": {
@@ -1121,6 +1141,7 @@
   },
   "1720952427": {
     "hash": 1720952427,
+    "sourceHash": 1000000012,
     "sourceSeason": 22
   },
   "1720952428": {
@@ -1161,6 +1182,11 @@
     "sourceSeason": 20,
     "sourceHash": 1000000002
   },
+  "1805281842": {
+    "hash": 1805281842,
+    "sourceHash": 1000000010,
+    "sourceSeason": 23
+  },
   "1805281843": {
     "hash": 1805281843,
     "sourceSeason": 20,
@@ -1171,15 +1197,17 @@
     "displayProperties": {
       "supplement": "Awarded for buying specific Guardians Games 2023 items from the Bungie Store."
     },
-    "sourceHash": 1000000007,
+    "sourceHash": 1000000012,
     "sourceSeason": 20
   },
   "1805281845": {
     "hash": 1805281845,
+    "sourceHash": 1000000012,
     "sourceSeason": 19
   },
   "1805281846": {
     "hash": 1805281846,
+    "sourceHash": 1000000012,
     "sourceSeason": 19
   },
   "1805281848": {
@@ -1211,15 +1239,17 @@
     "displayProperties": {
       "supplement": "Purchase the **Archangel Dog Plush** item from the Bungie Store. This item is no longer available from the Bungie Store."
     },
-    "sourceHash": 1000000007,
+    "sourceHash": 1000000012,
     "sourceSeason": 19
   },
   "1822059426": {
     "hash": 1822059426,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "1822059427": {
     "hash": 1822059427,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "1822059435": {
@@ -1322,6 +1352,7 @@
   },
   "1956280338": {
     "hash": 1956280338,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "1956280344": {
@@ -1390,6 +1421,7 @@
   },
   "1973057927": {
     "hash": 1973057927,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "1973057928": {
@@ -1426,6 +1458,7 @@
   },
   "1989835617": {
     "hash": 1989835617,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "1989835618": {
@@ -1493,6 +1526,7 @@
   },
   "2006613204": {
     "hash": 2006613204,
+    "sourceHash": 1000000012,
     "sourceSeason": 17
   },
   "2006613206": {
@@ -1529,10 +1563,12 @@
   },
   "2023390786": {
     "hash": 2023390786,
+    "sourceHash": 1000000012,
     "sourceSeason": 17
   },
   "2023390787": {
     "hash": 2023390787,
+    "sourceHash": 1000000012,
     "sourceSeason": 16
   },
   "2023390788": {
@@ -1546,8 +1582,8 @@
   },
   "2023390790": {
     "hash": 2023390790,
-    "sourceSeason": 17,
-    "sourceHash": 1000000002
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
   },
   "2023390791": {
     "hash": 2023390791,
@@ -1563,6 +1599,7 @@
   },
   "2023390799": {
     "hash": 2023390799,
+    "sourceHash": 1000000012,
     "sourceSeason": 17
   },
   "2034908838": {
@@ -1618,10 +1655,12 @@
   },
   "2056946093": {
     "hash": 2056946093,
+    "sourceHash": 1000000012,
     "sourceSeason": 17
   },
   "2056946095": {
     "hash": 2056946095,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "2119243634": {
@@ -2056,6 +2095,7 @@
   },
   "2999013844": {
     "hash": 2999013844,
+    "sourceHash": 1000000012,
     "sourceSeason": 8
   },
   "2999013845": {
@@ -2087,6 +2127,7 @@
   },
   "3015791427": {
     "hash": 3015791427,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "3015791432": {
@@ -2099,6 +2140,7 @@
   },
   "3015791436": {
     "hash": 3015791436,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "3015791437": {
@@ -2108,10 +2150,12 @@
   },
   "3015791438": {
     "hash": 3015791438,
+    "sourceHash": 1000000012,
     "sourceSeason": 7
   },
   "3015791439": {
     "hash": 3015791439,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "3032569144": {
@@ -2124,6 +2168,7 @@
   },
   "3032569148": {
     "hash": 3032569148,
+    "sourceHash": 1000000012,
     "sourceSeason": 4
   },
   "3032569149": {
@@ -2198,10 +2243,12 @@
   },
   "3215337909": {
     "hash": 3215337909,
+    "sourceHash": 1000000012,
     "sourceSeason": 21
   },
   "3215337911": {
     "hash": 3215337911,
+    "sourceHash": 1000000012,
     "sourceSeason": 21
   },
   "3232115488": {
@@ -2210,6 +2257,7 @@
   },
   "3232115489": {
     "hash": 3232115489,
+    "sourceHash": 1000000012,
     "sourceSeason": 14
   },
   "3232115490": {
@@ -2242,6 +2290,7 @@
   },
   "3232115495": {
     "hash": 3232115495,
+    "sourceHash": 1000000012,
     "sourceSeason": 13
   },
   "3232115499": {
@@ -2277,10 +2326,12 @@
   },
   "3265670666": {
     "hash": 3265670666,
+    "sourceHash": 1000000012,
     "sourceSeason": 11
   },
   "3265670667": {
     "hash": 3265670667,
+    "sourceHash": 1000000012,
     "sourceSeason": 11
   },
   "3265670668": {
@@ -2312,6 +2363,7 @@
   },
   "3282448372": {
     "hash": 3282448372,
+    "sourceHash": 1000000012,
     "sourceSeason": 13
   },
   "3282448376": {
@@ -2330,6 +2382,7 @@
   },
   "3282448379": {
     "hash": 3282448379,
+    "sourceHash": 1000000012,
     "sourceSeason": 14
   },
   "3282448380": {
@@ -2426,6 +2479,7 @@
   },
   "3299225964": {
     "hash": 3299225964,
+    "sourceHash": 1000000012,
     "sourceSeason": 14
   },
   "3299225965": {
@@ -2456,6 +2510,7 @@
   },
   "3316003524": {
     "hash": 3316003524,
+    "sourceHash": 1000000012,
     "sourceSeason": 13
   },
   "3316003525": {
@@ -2489,12 +2544,13 @@
   },
   "3332781232": {
     "hash": 3332781232,
+    "sourceHash": 1000000012,
     "sourceSeason": 14
   },
   "3332781233": {
     "hash": 3332781233,
-    "sourceSeason": 21,
-    "sourceHash": 1000000002
+    "sourceHash": 1000000012,
+    "sourceSeason": 21
   },
   "3332781234": {
     "hash": 3332781234,
@@ -2502,6 +2558,7 @@
   },
   "3332781235": {
     "hash": 3332781235,
+    "sourceHash": 1000000012,
     "sourceSeason": 14
   },
   "3332781236": {
@@ -2522,10 +2579,12 @@
   },
   "3332781238": {
     "hash": 3332781238,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "3332781239": {
     "hash": 3332781239,
+    "sourceHash": 1000000012,
     "sourceSeason": 13
   },
   "3332781244": {
@@ -2594,18 +2653,21 @@
   },
   "3383113990": {
     "hash": 3383113990,
+    "sourceHash": 1000000012,
     "sourceSeason": 18
   },
   "3383113991": {
-    "hash": 3383113991,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3383113992": {
     "hash": 3383113992,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3383113993": {
     "hash": 3383113993,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3383113994": {
@@ -2634,6 +2696,7 @@
   },
   "3383113998": {
     "hash": 3383113998,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3383113999": {
@@ -2658,10 +2721,15 @@
   },
   "3399891686": {
     "hash": 3399891686,
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3399891687": {
     "hash": 3399891687,
+    "displayProperties": {
+      "supplement": "Complete the **Magnum Opus** quest and acquire the exotic sidearm, Forerunner, and then purchase the **Strange Coin** replica from the Bungie Store."
+    },
+    "sourceHash": 1000000012,
     "sourceSeason": 15
   },
   "3399891688": {
@@ -2871,11 +2939,6 @@
     "sourceHash": 1000000010,
     "sourceSeason": 1
   },
-  "1805281842": {
-    "hash": 1805281842,
-    "sourceHash": 1000000010,
-    "sourceSeason": 23
-  },
   "3800348612": {
     "hash": 3800348612,
     "sourceSeason": 1
@@ -2906,6 +2969,7 @@
   },
   "3801407498": {
     "hash": 3801407498,
+    "sourceHash": 1000000012,
     "sourceSeason": 1
   },
   "3801407499": {
@@ -2923,10 +2987,12 @@
   },
   "3801407502": {
     "hash": 3801407502,
+    "sourceHash": 1000000012,
     "sourceSeason": 1
   },
   "3801407503": {
     "hash": 3801407503,
+    "sourceHash": 1000000012,
     "sourceSeason": 2
   },
   "3816666661": {
