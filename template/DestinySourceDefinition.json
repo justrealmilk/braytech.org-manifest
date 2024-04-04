@@ -21,10 +21,10 @@
     "sourceString": "Source: Awarded to players whose fashion is applauded by Bungie."
   },
   "1000000007": {
-    "sourceString": "Source: Unlocked through Bungie Rewards."
+    "sourceString": "Source: Unlocked with Bungie Rewards."
   },
   "1000000008": {
-    "sourceString": "Source: Unlocked through a Twitch Drop."
+    "sourceString": "Source: Unlocked from a Twitch Drop."
   },
   "1000000009": {
     "sourceString": "Source: Given to select streamers for distribution."
@@ -34,6 +34,12 @@
   },
   "1000000011": {
     "sourceString": "Source: For a special Guardian."
+  },
+  "1000000012": {
+    "sourceString": "Source: Unlocked with a Bungie Store purchase."
+  },
+  "1000000013": {
+    "sourceString": "Source: Unlocked with a Prime Gaming subscription."
   },
   "1000000045": {
     "sourceString": "Source: Trials of Osiris"
