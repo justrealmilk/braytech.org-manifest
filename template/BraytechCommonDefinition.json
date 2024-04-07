@@ -247,6 +247,18 @@
       "description": "The sum of items you've amassed and stowed as apart of your arsenal."
     }
   },
+  "fish-caught-score": {
+    "displayProperties": {
+      "name": "Fish Caught Score",
+      "description": "The sum of fish you've angled."
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "Fish Weight Score",
+      "description": "The biggest catch on record."
+    }
+  },
   "active-score-rank": {
     "displayProperties": {
       "name": "Active Score Rank",
@@ -275,6 +287,18 @@
     "displayProperties": {
       "name": "Collection Score Rank",
       "description": "The Leaderboards rank for the corresponding collection score, as determined by Voluspa."
+    }
+  },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "name": "Fish Caught Rank",
+      "description": "The Leaderboards rank for the corresponding fish caught score, as determined by Voluspa."
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "name": "Fish Weight Rank",
+      "description": "The Leaderboards rank for the corresponding fish weight score, as determined by Voluspa."
     }
   },
   "total-resets": {
