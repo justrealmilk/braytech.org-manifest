@@ -5,29 +5,11 @@
   "killsDeathsRatio": {
     "statName": "F/M"
   },
-  "averageKillsDeathsRatio": {
-    "statName": "Moyenne F/M"
-  },
-  "winRate": {
-    "statName": "Ratio de victoires"
-  },
   "precisionKills": {
     "statName": "Précision"
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Précision"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Particules sécurisées"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Particules récupérées"
-  },
-  "supremacySecureRate": {
-    "statName": "Taux sécurisé"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "Frags sécurisés"
@@ -35,8 +17,14 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Frags alliés sécurisés"
   },
-  "highValueKills": {
-    "statName": "Frags de grande valeur"
+  "supremacyCrestsSecured": {
+    "statName": "Particules sécurisées"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Particules récupérées"
+  },
+  "invasions": {
+    "statName": "Invasions"
   },
   "invasionKills": {
     "statName": "Frags en tant qu'Intru"
@@ -50,20 +38,17 @@
   "invaderDeaths": {
     "statName": "Morts des intrus"
   },
-  "primevalDamage": {
-    "statName": "Dommage au Priomordial"
-  },
   "primevalKills": {
     "statName": "Priomordiaux éliminés"
   },
-  "motesDenied": {
-    "statName": "Particules perdues"
-  },
-  "invasions": {
-    "statName": "Invasions"
-  },
   "blockerKills": {
     "statName": "Bloqueur tué"
+  },
+  "highValueKills": {
+    "statName": "Frags de grande valeur"
+  },
+  "motesDenied": {
+    "statName": "Particules perdues"
   },
   "smallBlockersSent": {
     "statName": "Petits bloqueurs envoyés"
@@ -73,6 +58,9 @@
   },
   "largeBlockersSent": {
     "statName": "Grands bloqueurs envoyés"
+  },
+  "primevalDamage": {
+    "statName": "Dommage au Priomordial"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "En équipe, battez tous les Gardiens adverses au moins une fois pendant la Chasse."
@@ -190,5 +178,17 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Arrêtez le Super d'un adversaire avec votre Super."
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Moyenne F/M"
+  },
+  "winRate": {
+    "statName": "Ratio de victoires"
+  },
+  "currentEloRating": {
+    "statName": "Elo"
+  },
+  "supremacySecureRate": {
+    "statName": "Taux sécurisé"
   }
 }

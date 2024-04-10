@@ -1,72 +1,41 @@
 {
-  "opponentsDefeated": {
-    "statName": "Uccisioni + Assist",
-    "statNameAbbr": "UA"
+  "activitiesCleared": {
+    "statName": "Completate",
+    "statDescription": "Totale delle attività completate con successo. Si spera, Guardiano, che questo valore sia superiore alla metà del numero di attività iniziate!"
   },
-  "kills": {
-    "statNameAbbr": "U"
+  "activitiesEntered": {
+    "statName": "Iniziate"
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Miglior tempo"
   },
   "deaths": {
     "statNameAbbr": "M"
   },
-  "flawless": {
-    "statName": "Impeccabile"
+  "kills": {
+    "statNameAbbr": "U"
+  },
+  "opponentsDefeated": {
+    "statName": "Uccisioni + Assist",
+    "statNameAbbr": "UA"
   },
   "killsDeathsRatio": {
     "statName": "U/M",
     "statNameAbbr": "UM"
   },
-  "averageKillsDeathsRatio": {
-    "statName": "U/M medio"
-  },
-  "winRate": {
-    "statName": "Vittorie %"
-  },
   "precisionKills": {
     "statName": "Precisione",
     "statNameAbbr": "P"
   },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Precisione %",
-    "statNameAbbr": "P%"
-  },
   "score": {
     "statNameAbbr": "Punt."
-  },
-  "strikeDifficulty": {
-    "statName": "Difficoltà"
-  },
-  "activitiesEntered": {
-    "statName": "Iniziate"
-  },
-  "activitiesCleared": {
-    "statName": "Completate",
-    "statDescription": "Totale delle attività completate con successo. Si spera, Guardiano, che questo valore sia superiore alla metà del numero di attività iniziate!"
   },
   "secondsPlayed": {
     "statDescription": "Tempo totale dedicato ad eradicare le minacce della Città. Il tempo extra non è mai abbastanza."
   },
-  "fastestCompletionMsForActivity": {
-    "statName": "Miglior tempo"
-  },
-  "currentCompetitiveRating": {
-    "statName": "Valutazione competitiva attuale",
-    "statNameAlt": "Valutazione attuale",
-    "statDescription": "Valutazione della divisione competitiva attuale del giocatore."
-  },
-  "currentEloRating": {
-    "statName": "Valutazione Elo attuale",
-    "statNameAlt": "Elo attuale",
-    "statDescription": "Valutazione Elo attuale del giocatore.\n\nLe valutazioni provengono da un sito web di terze parti, _Destiny Tracker_. _Destiny Tracker_ fornisce valutazioni Elo per tutti i giocatori di Destiny che partecipano alle attività del _Crogiolo_ e di _Azzardo_."
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Sigilli raccolti"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Sigilli recuperati"
-  },
-  "supremacySecureRate": {
-    "statName": "Rapporto sigilli raccolti"
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Precisione %",
+    "statNameAbbr": "P%"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "Uccisioni confermate"
@@ -74,14 +43,14 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Uccisioni alleate confermate"
   },
-  "motesDeposited": {
-    "statNameAbbr": "PD"
+  "supremacyCrestsSecured": {
+    "statName": "Sigilli raccolti"
   },
-  "motesLost": {
-    "statNameAbbr": "PP"
+  "supremacyCrestsRecovered": {
+    "statName": "Sigilli recuperati"
   },
-  "highValueKills": {
-    "statName": "Uccisioni Alto Valore"
+  "invasions": {
+    "statName": "Invasioni"
   },
   "invasionKills": {
     "statName": "Uccisioni come invasore",
@@ -96,21 +65,23 @@
   "invaderDeaths": {
     "statName": "Morti da invasori"
   },
-  "primevalDamage": {
-    "statName": "Danno Primordiale",
-    "statNameAbbr": "D"
-  },
   "primevalKills": {
     "statName": "Uccisioni Primordiale"
+  },
+  "blockerKills": {
+    "statName": "Uccisioni assedianti"
+  },
+  "highValueKills": {
+    "statName": "Uccisioni Alto Valore"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "PD"
   },
   "motesDenied": {
     "statName": "Particelle negate"
   },
-  "invasions": {
-    "statName": "Invasioni"
-  },
-  "blockerKills": {
-    "statName": "Uccisioni assedianti"
+  "motesLost": {
+    "statNameAbbr": "PP"
   },
   "smallBlockersSent": {
     "statName": "Assedianti piccoli inviati"
@@ -120,6 +91,10 @@
   },
   "largeBlockersSent": {
     "statName": "Assedianti grandi inviati"
+  },
+  "primevalDamage": {
+    "statName": "Danno Primordiale",
+    "statNameAbbr": "D"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Come squadra, sconfiggete tutti gli avversari almeno una volta durante una caccia."
@@ -237,5 +212,30 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Ferma la super di un avversario con la tua super."
+  },
+  "flawless": {
+    "statName": "Impeccabile"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "U/M medio"
+  },
+  "winRate": {
+    "statName": "Vittorie %"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficoltà"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Valutazione competitiva attuale",
+    "statNameAlt": "Valutazione attuale",
+    "statDescription": "Valutazione della divisione competitiva attuale del giocatore."
+  },
+  "currentEloRating": {
+    "statName": "Valutazione Elo attuale",
+    "statNameAlt": "Elo attuale",
+    "statDescription": "Valutazione Elo attuale del giocatore.\n\nLe valutazioni provengono da un sito web di terze parti, _Destiny Tracker_. _Destiny Tracker_ fornisce valutazioni Elo per tutti i giocatori di Destiny che partecipano alle attività del _Crogiolo_ e di _Azzardo_."
+  },
+  "supremacySecureRate": {
+    "statName": "Rapporto sigilli raccolti"
   }
 }

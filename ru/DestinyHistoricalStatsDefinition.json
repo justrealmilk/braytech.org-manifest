@@ -5,26 +5,11 @@
   "killsDeathsRatio": {
     "statName": "У/С"
   },
-  "winRate": {
-    "statName": "Процент побед"
-  },
   "precisionKills": {
     "statName": "Точных убийств"
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Точность"
-  },
-  "currentEloRating": {
-    "statName": "Эло"
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Гербов подтверждено"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Гербов восстановлено"
-  },
-  "supremacySecureRate": {
-    "statName": "Secure Rate"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "Убийств защищено"
@@ -32,8 +17,14 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Союзных убийств защищено"
   },
-  "highValueKills": {
-    "statName": "Убийств важных целей"
+  "supremacyCrestsSecured": {
+    "statName": "Гербов подтверждено"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Гербов восстановлено"
+  },
+  "invasions": {
+    "statName": "Вторжений"
   },
   "invasionKills": {
     "statName": "Убийств захватчиком"
@@ -47,20 +38,17 @@
   "invaderDeaths": {
     "statName": "Смертей от захватчиков"
   },
-  "primevalDamage": {
-    "statName": "Урона первобытнику"
-  },
   "primevalKills": {
     "statName": "Убийств первобытников"
   },
-  "motesDenied": {
-    "statName": "Частиц выбито"
-  },
-  "invasions": {
-    "statName": "Вторжений"
-  },
   "blockerKills": {
     "statName": "Убийств защитников"
+  },
+  "highValueKills": {
+    "statName": "Убийств важных целей"
+  },
+  "motesDenied": {
+    "statName": "Частиц выбито"
   },
   "smallBlockersSent": {
     "statName": "Маленьких защитников отправлено"
@@ -70,5 +58,17 @@
   },
   "largeBlockersSent": {
     "statName": "Больших защитников отправлено"
+  },
+  "primevalDamage": {
+    "statName": "Урона первобытнику"
+  },
+  "winRate": {
+    "statName": "Процент побед"
+  },
+  "currentEloRating": {
+    "statName": "Эло"
+  },
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
   }
 }

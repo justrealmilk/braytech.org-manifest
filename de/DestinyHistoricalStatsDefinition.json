@@ -5,29 +5,11 @@
   "killsDeathsRatio": {
     "statName": "K/D"
   },
-  "averageKillsDeathsRatio": {
-    "statName": "Durchschnitts K/D"
-  },
-  "winRate": {
-    "statName": "Sieg-Rate"
-  },
   "precisionKills": {
     "statName": "Präzision"
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Genauigkeit"
-  },
-  "currentEloRating": {
-    "statName": "Elo"
-  },
-  "supremacyCrestsSecured": {
-    "statName": "Wappen gesichert"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "Wappen wiederhergestellt"
-  },
-  "supremacySecureRate": {
-    "statName": "Sicherungsrate"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "Kill bestätigt"
@@ -35,8 +17,14 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Verbündeten-Kill bestätigt"
   },
-  "highValueKills": {
-    "statName": "Hochwertige Kills"
+  "supremacyCrestsSecured": {
+    "statName": "Wappen gesichert"
+  },
+  "supremacyCrestsRecovered": {
+    "statName": "Wappen wiederhergestellt"
+  },
+  "invasions": {
+    "statName": "Invasionen"
   },
   "invasionKills": {
     "statName": "Kills als Eindringling"
@@ -50,20 +38,17 @@
   "invaderDeaths": {
     "statName": "Tode durch Eindringlingen"
   },
-  "primevalDamage": {
-    "statName": "Urzeitler-Schaden"
-  },
   "primevalKills": {
     "statName": "Urzeitler-Kills"
   },
-  "motesDenied": {
-    "statName": "Partikel abgewehrt"
-  },
-  "invasions": {
-    "statName": "Invasionen"
-  },
   "blockerKills": {
     "statName": "Blocker-Kills"
+  },
+  "highValueKills": {
+    "statName": "Hochwertige Kills"
+  },
+  "motesDenied": {
+    "statName": "Partikel abgewehrt"
   },
   "smallBlockersSent": {
     "statName": "Kleine Blocker gesendet"
@@ -73,6 +58,9 @@
   },
   "largeBlockersSent": {
     "statName": "Große Blocker gesendet"
+  },
+  "primevalDamage": {
+    "statName": "Urzeitler-Schaden"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Besiege als Team mindestens einmal während der Jagd alle Hüter."
@@ -190,5 +178,17 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Halte die Super eines Gegners mit deiner Super auf."
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Durchschnitts K/D"
+  },
+  "winRate": {
+    "statName": "Sieg-Rate"
+  },
+  "currentEloRating": {
+    "statName": "Elo"
+  },
+  "supremacySecureRate": {
+    "statName": "Sicherungsrate"
   }
 }

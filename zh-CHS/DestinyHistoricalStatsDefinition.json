@@ -1,72 +1,41 @@
 {
-  "opponentsDefeated": {
-    "statName": "击杀和助攻",
-    "statNameAbbr": "KA"
+  "activitiesCleared": {
+    "statName": "完成次数",
+    "statDescription": "这是你总共成功完成的活动次数。守护者，但愿这个数字会大于你总共的进入次数！"
   },
-  "kills": {
-    "statNameAbbr": "K"
+  "activitiesEntered": {
+    "statName": "进入次数"
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "最快记录"
   },
   "deaths": {
     "statNameAbbr": "D"
   },
-  "flawless": {
-    "statName": "无暇"
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "opponentsDefeated": {
+    "statName": "击杀和助攻",
+    "statNameAbbr": "KA"
   },
   "killsDeathsRatio": {
     "statName": "K/D",
     "statNameAbbr": "KD"
   },
-  "averageKillsDeathsRatio": {
-    "statName": "平均 K/D"
-  },
-  "winRate": {
-    "statName": "胜率"
-  },
   "precisionKills": {
     "statName": "精准击杀",
     "statNameAbbr": "P"
   },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "爆头率",
-    "statNameAbbr": "A"
-  },
   "score": {
     "statNameAbbr": "S"
-  },
-  "strikeDifficulty": {
-    "statName": "难度"
-  },
-  "activitiesEntered": {
-    "statName": "进入次数"
-  },
-  "activitiesCleared": {
-    "statName": "完成次数",
-    "statDescription": "这是你总共成功完成的活动次数。守护者，但愿这个数字会大于你总共的进入次数！"
   },
   "secondsPlayed": {
     "statDescription": "在清理高塔的威胁时所投入的时间。这儿并没有投入时间太少这个说法。"
   },
-  "fastestCompletionMsForActivity": {
-    "statName": "最快记录"
-  },
-  "currentCompetitiveRating": {
-    "statName": "当前竞技级别",
-    "statNameAlt": "当前段位分",
-    "statDescription": "玩家当前的竞技段位分数。"
-  },
-  "currentEloRating": {
-    "statName": "当前 Elo 分",
-    "statNameAlt": "当前 Elo",
-    "statDescription": "玩家当前的 Elo 分数。\n\n这里所显示的分数是来自第三方网站 _Destiny Tracker_ 的数据。 _Destiny Tracker_ 提供了所有游玩过 _熔炉竞技场_ 和 _智谋_ 的《命运》系列玩家的相关 Elo 分数数据。"
-  },
-  "supremacyCrestsSecured": {
-    "statName": "已收集纹章"
-  },
-  "supremacyCrestsRecovered": {
-    "statName": "已回收纹章"
-  },
-  "supremacySecureRate": {
-    "statName": "收集率"
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "爆头率",
+    "statNameAbbr": "A"
   },
   "supremacyOwnKillEnemyTagsCaptured": {
     "statName": "最后一击收集率"
@@ -74,14 +43,14 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "队友击杀收集率"
   },
-  "motesDeposited": {
-    "statNameAbbr": "MD"
+  "supremacyCrestsSecured": {
+    "statName": "已收集纹章"
   },
-  "motesLost": {
-    "statNameAbbr": "ML"
+  "supremacyCrestsRecovered": {
+    "statName": "已回收纹章"
   },
-  "highValueKills": {
-    "statName": "高价值目标击杀数"
+  "invasions": {
+    "statName": "入侵次数"
   },
   "invasionKills": {
     "statName": "入侵击杀数",
@@ -96,21 +65,23 @@
   "invaderDeaths": {
     "statName": "死于入侵者数"
   },
-  "primevalDamage": {
-    "statName": "对古昧伤害",
-    "statNameAbbr": "伤害"
-  },
   "primevalKills": {
     "statName": "古昧击杀数"
+  },
+  "blockerKills": {
+    "statName": "阻绝者击杀数"
+  },
+  "highValueKills": {
+    "statName": "高价值目标击杀数"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
   },
   "motesDenied": {
     "statName": "萤光否决数"
   },
-  "invasions": {
-    "statName": "入侵次数"
-  },
-  "blockerKills": {
-    "statName": "阻绝者击杀数"
+  "motesLost": {
+    "statNameAbbr": "ML"
   },
   "smallBlockersSent": {
     "statName": "小型阻绝者投放数"
@@ -120,6 +91,10 @@
   },
   "largeBlockersSent": {
     "statName": "大型阻绝者投放数"
+  },
+  "primevalDamage": {
+    "statName": "对古昧伤害",
+    "statNameAbbr": "伤害"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "团队合作，在狩猎中击败所有对手至少一次。"
@@ -237,5 +212,30 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "使用超能击败激活超能的对手。"
+  },
+  "flawless": {
+    "statName": "无暇"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "平均 K/D"
+  },
+  "winRate": {
+    "statName": "胜率"
+  },
+  "strikeDifficulty": {
+    "statName": "难度"
+  },
+  "currentCompetitiveRating": {
+    "statName": "当前竞技级别",
+    "statNameAlt": "当前段位分",
+    "statDescription": "玩家当前的竞技段位分数。"
+  },
+  "currentEloRating": {
+    "statName": "当前 Elo 分",
+    "statNameAlt": "当前 Elo",
+    "statDescription": "玩家当前的 Elo 分数。\n\n这里所显示的分数是来自第三方网站 _Destiny Tracker_ 的数据。 _Destiny Tracker_ 提供了所有游玩过 _熔炉竞技场_ 和 _智谋_ 的《命运》系列玩家的相关 Elo 分数数据。"
+  },
+  "supremacySecureRate": {
+    "statName": "收集率"
   }
 }
