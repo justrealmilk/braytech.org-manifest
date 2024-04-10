@@ -1,834 +1,63 @@
 {
-  "activitiesCleared": {
-    "statName": "Cleared",
-    "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of activities entered!"
-  },
-  "activitiesEntered": {
-    "statName": "Entered",
-    "statDescription": "Battles fought - some lost, some won."
-  },
-  "activitiesWon": {
-    "statName": "Wins"
-  },
-  "assists": {
-    "statName": "Assists",
-    "statDescription": "Foes you helped to kill."
-  },
-  "averageDeathDistance": {
-    "statName": "Average Death Distance"
-  },
-  "averageKillDistance": {
-    "statName": "Average Kill Distance"
-  },
-  "averageLifespan": {
-    "statName": "Average Lifespan"
-  },
-  "averageScorePerKill": {
-    "statName": "Average Score Per Kill"
-  },
-  "averageScorePerLife": {
-    "statName": "Average Score Per Life"
-  },
-  "bestSingleGameKills": {
-    "statName": "Best Single Game Kills",
-    "statDescription": "On your best day..."
-  },
-  "bestSingleGameScore": {
-    "statName": "Best Score"
-  },
-  "completed": {
-    "statName": "Completed Game"
-  },
-  "fastestCompletionMsForActivity": {
-    "statName": "Fastest"
-  },
-  "activityCompletions": {
-    "statName": "Completions"
-  },
-  "activityDeaths": {
-    "statName": "Deaths"
-  },
-  "activityKills": {
-    "statName": "Kills"
-  },
-  "activitySecondsPlayed": {
-    "statName": "Time Played"
-  },
-  "activityWins": {
-    "statName": "Wins"
-  },
-  "activityGoalsMissed": {
-    "statName": "Goals Missed"
-  },
-  "activitySpecialActions": {
-    "statName": "Actions Performed"
-  },
-  "activityBestGoalsHit": {
-    "statName": "Best Goals Hit"
-  },
-  "activityGoalsHit": {
-    "statName": "Goals Hit"
-  },
-  "activitySpecialScore": {
-    "statName": "Score"
-  },
-  "activityBestSingleGameScore": {
-    "statName": "Best Single Game Score"
-  },
-  "activityKillsDeathsRatio": {
-    "statName": "K/D Ratio"
-  },
-  "activityKillsDeathsAssists": {
-    "statName": "KDa"
-  },
-  "deaths": {
-    "statName": "Deaths",
-    "statNameAbbr": "D",
-    "statDescription": "Defeats suffered at the hands of your enemies."
-  },
-  "kills": {
-    "statName": "Kills",
-    "statNameAbbr": "K",
-    "statDescription": "Enemies defeated by your might."
-  },
   "opponentsDefeated": {
     "statName": "Kills + Assists",
     "statNameAbbr": "KA"
   },
-  "efficiency": {
-    "statName": "Efficiency"
+  "kills": {
+    "statNameAbbr": "K"
+  },
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "flawless": {
+    "statName": "Flawless"
   },
   "killsDeathsRatio": {
     "statName": "K/D",
-    "statNameAbbr": "KD",
-    "statDescription": "You win some. You lose some."
+    "statNameAbbr": "KD"
   },
-  "killsDeathsAssists": {
-    "statName": "KDa"
+  "averageKillsDeathsRatio": {
+    "statName": "Average K/D"
   },
-  "lbSingleGameKills": {
-    "statName": "Best Single Game Kills"
-  },
-  "lbPrecisionKills": {
-    "statName": "Precision Kills"
-  },
-  "lbAssists": {
-    "statName": "Assists"
-  },
-  "lbDeaths": {
-    "statName": "Total Deaths"
-  },
-  "lbKills": {
-    "statName": "Total Kills"
-  },
-  "lbObjectivesCompleted": {
-    "statName": "Objectives Completed"
-  },
-  "lbSingleGameScore": {
-    "statName": "Best Score"
-  },
-  "maximumPowerLevel": {
-    "statName": "Maximum Power Level"
-  },
-  "medalMulti2x": {
-    "statName": "Double Play",
-    "statDescription": "Rapidly defeat 2 opposing Guardians."
-  },
-  "medalMulti3x": {
-    "statName": "Triple Play",
-    "statDescription": "Rapidly defeat 3 opposing Guardians."
-  },
-  "medalMulti4x": {
-    "statName": "Lights Out",
-    "statDescription": "Rapidly defeat 4 opposing Guardians."
-  },
-  "medalMultiEntireTeam": {
-    "statName": "Annihilation",
-    "statDescription": "Land final blows on the entire enemy team before any of them respawn."
-  },
-  "medalStreakCombined": {
-    "statName": "Combined Fire",
-    "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
-  },
-  "medalStreak5x": {
-    "statName": "Ruthless",
-    "statDescription": "In a single life, defeat 5 opposing Guardians."
-  },
-  "medalStreak10x": {
-    "statName": "Unyielding",
-    "statDescription": "In a single life, defeat 10 opposing Guardians."
-  },
-  "medalStreakTeam": {
-    "statName": "Wrecking Crew",
-    "statDescription": "As a team, defeat 7 opposing Guardians without any of your team dying."
-  },
-  "medalStreakShutdown": {
-    "statName": "Shutdown",
-    "statDescription": "Shut down an opponent's streak."
-  },
-  "medalStreakAbsurd": {
-    "statName": "We Ran Out of Medals",
-    "statDescription": "In a single life, defeat 20 opposing Guardians"
-  },
-  "medalPayback": {
-    "statName": "Best Served Cold",
-    "statDescription": "Land the final blow on the Guardian who last defeated you."
-  },
-  "medalAvenger": {
-    "statName": "Blood For Blood",
-    "statDescription": "Defeat an opponent who just defeated an ally."
-  },
-  "medalQuickStrike": {
-    "statName": "Quick Strike",
-    "statDescription": "Defeat an opponent within the first 20 seconds of a match."
-  },
-  "medalDefense": {
-    "statName": "Not on My Watch",
-    "statDescription": "Land a final blow on an opponent who has damaged an ally."
-  },
-  "medalDefeatHunterDodge": {
-    "statName": "Dodge This",
-    "statDescription": "Defeat a Hunter attempting to dodge."
-  },
-  "medalDefeatTitanBrace": {
-    "statName": "Barricade Breaker",
-    "statDescription": "Defeat a Titan within 3 seconds of their deploying a Barricade."
-  },
-  "medalDefeatWarlockSigil": {
-    "statName": "Rift Breaker",
-    "statDescription": "Defeat a Warlock while they are within their active Rift."
-  },
-  "medalCycle": {
-    "statName": "The Cycle",
-    "statDescription": "In a single match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (Melee, Grenade, Super)."
-  },
-  "medalSuperShutdown": {
-    "statName": "Not So Fast, My Friend",
-    "statDescription": "Defeat an opposing Guardian using your Super while their Super is active."
-  },
-  "medalMatchNeverTrailed": {
-    "statName": "Never In Doubt",
-    "statDescription": "Win a match in which your team never trailed."
-  },
-  "medalMatchComeback": {
-    "statName": "From the Jaws of Defeat",
-    "statDescription": "Win a match after having trailed by a significant margin."
-  },
-  "medalMatchOvertime": {
-    "statName": "Time and a Half",
-    "statDescription": "Win a match in overtime."
-  },
-  "medalMatchBlowout": {
-    "statName": "Crushed Them",
-    "statDescription": "Win a match with a large margin of victory."
-  },
-  "medalMatchMostDamage": {
-    "statName": "Fight Me!",
-    "statDescription": "Deal the most total damage to opponents in a single match."
-  },
-  "medalMatchUndefeated": {
-    "statName": "Undefeated",
-    "statDescription": "Complete a match in which you are never defeated by an opponent."
-  },
-  "medalAbilityDawnbladeSlam": {
-    "statName": "Falling Star",
-    "statDescription": "Defeat an opponent with Phoenix Dive while Daybreak is active."
-  },
-  "medalAbilityDawnbladeAerial": {
-    "statName": "Defying Gravity",
-    "statDescription": "In a single Daybreak activation, defeat two or more opponents without touching the ground."
-  },
-  "medalAbilityVoidwalkerVortex": {
-    "statName": "Singularity",
-    "statDescription": "Defeat an opponent with a Nova Bomb Vortex."
-  },
-  "medalAbilityVoidwalkerDistance": {
-    "statName": "From Downtown",
-    "statDescription": "Defeat two or more opponents with a Nova Bomb that was in the air for at least 5 seconds."
-  },
-  "medalAbilityStormcallerLandfall": {
-    "statName": "Thunderstruck",
-    "statDescription": "Defeat an opponent with Landfall while casting Stormtrance."
-  },
-  "medalAbilityStormcallerMulti": {
-    "statName": "Lightning Storm",
-    "statDescription": "Defeat two or more opponents in a single Stormtrance activation."
-  },
-  "medalAbilityFlowwalkerQuick": {
-    "statName": "Lightning Strike",
-    "statDescription": "Defeat an opponent within 3 seconds of activating Arc Staff."
-  },
-  "medalAbilityFlowwalkerMulti": {
-    "statName": "Hurricane",
-    "statDescription": "Defeat 3 opponents in a single Arc Staff activation."
-  },
-  "medalAbilityGunslingerQuick": {
-    "statName": "Lethal Instinct",
-    "statDescription": "Defeat an opponent within 2 seconds of activating Golden Gun."
-  },
-  "medalAbilityGunslingerMulti": {
-    "statName": "Handful of Bullets",
-    "statDescription": "Defeat 3 opponents in a single Golden Gun activation."
-  },
-  "medalAbilityNightstalkerTetherQuick": {
-    "statName": "Entangled",
-    "statDescription": "Defeat a tethered opponent within 5 seconds of casting Shadowshot."
-  },
-  "medalAbilityNightstalkerLongRange": {
-    "statName": "Longbow",
-    "statDescription": "Defeat an opponent with  Shadowshot at a distance  greater than 30 meters."
-  },
-  "medalAbilitySentinelWard": {
-    "statName": "Perfect Guard",
-    "statDescription": "Block fatal damage within 2 seconds of activating Ward of Dawn."
-  },
-  "medalAbilitySentinelCombo": {
-    "statName": "Flying Fortress",
-    "statDescription": "Defeat an opponent with a Shield Bash within 3 seconds of defeating an opponent with a Sentinel Shield melee."
-  },
-  "medalAbilityJuggernautSlam": {
-    "statName": "Absolute Force",
-    "statDescription": "Defeat two or more opponents in a single Fists of Havoc slam."
-  },
-  "medalAbilityJuggernautCombo": {
-    "statName": "Striker Special",
-    "statDescription": "In a single activation, defeat two opponents with Shoulder Charge, then a third with Fists of Havoc."
-  },
-  "medalAbilitySunbreakerLongRange": {
-    "statName": "Pitch Perfect",
-    "statDescription": "Defeat an opponent with Hammer of Sol at a distance  greater than 30 meters."
-  },
-  "medalAbilitySunbreakerMulti": {
-    "statName": "Everything Looks Like a Nail",
-    "statDescription": "Defeat three opponents within a single Hammer of Sol activation."
-  },
-  "medalWeaponAuto": {
-    "statName": "Assault Specialist",
-    "statDescription": "In a single match, defeat 7 opponents with Auto Rifle final blows."
-  },
-  "medalWeaponPulse": {
-    "statName": "Lethal Cadence",
-    "statDescription": "In a single match, defeat 7 opponents with Pulse Rifle final blows."
-  },
-  "medalWeaponScout": {
-    "statName": "Field Scout",
-    "statDescription": "In a single match, defeat 5 opponents at long range with  Scout Rifle final blows."
-  },
-  "medalWeaponHandCannon": {
-    "statName": "Hawkeye",
-    "statDescription": "In a single life, defeat two opponents with precision Hand Cannon final blows."
-  },
-  "medalWeaponSmg": {
-    "statName": "Sub Machinist",
-    "statDescription": "In a single life, defeat 2 opponents with Submachine Gun final blows."
-  },
-  "medalWeaponSidearm": {
-    "statName": "One for Each of You",
-    "statDescription": "Deliver a final blow with a Sidearm within 5 seconds of landing a final blow with any other weapon."
-  },
-  "medalWeaponSniper": {
-    "statName": "Mission Control",
-    "statDescription": "Defeat two opponents with long range, precision Sniper Rifle final blows without switching weapons or reloading."
-  },
-  "medalWeaponFusion": {
-    "statName": "Cold Fusion",
-    "statDescription": "In a single life, defeat two opponents with a Fusion Rifle."
-  },
-  "medalWeaponRocket": {
-    "statName": "Splash Damage",
-    "statDescription": "Defeat two or more opponents with a single rocket."
-  },
-  "medalWeaponGrenade": {
-    "statName": "Calculated Trajectory",
-    "statDescription": "In a single life, defeat three opponents with Grenade Launcher final blows."
-  },
-  "medalWeaponShotgun": {
-    "statName": "Close Encounters",
-    "statDescription": "Defeat two opponents at close range with a Shotgun without switching weapons or reloading."
-  },
-  "medalWeaponSword": {
-    "statName": "Regent",
-    "statDescription": "Defeat two opponents with a sword without switching weapons."
-  },
-  "medalCountdownDefense": {
-    "statName": "Counter Attack",
-    "statDescription": "Countdown: Defeat an opponent within 5 seconds of them setting a charge."
-  },
-  "medalCountdownDetonated": {
-    "statName": "Pyrotechnics",
-    "statDescription": "Countdown: Set a charge that successfully detonates."
-  },
-  "medalCountdownDefusedMulti": {
-    "statName": "Bombs? What Bombs?",
-    "statDescription": "Countdown: Defuse multiple charges in a single match."
-  },
-  "medalCountdownDefusedLastStand": {
-    "statName": "Last Stand",
-    "statDescription": "Countdown: Defuse the charge as the last Guardian standing."
-  },
-  "medalCountdownRoundAllAlive": {
-    "statName": "The Gang's All Here",
-    "statDescription": "Countdown: Win a round with your entire team alive."
-  },
-  "medalCountdownPerfect": {
-    "statName": "Perfect Game",
-    "statDescription": "Countdown: Win a Countdown match in which your opponent never scores and never sets a charge."
-  },
-  "medalSurvivalWinLastStand": {
-    "statName": "Lone Gun",
-    "statDescription": "Survival: Win a round as the last surviving Guardian on your team."
-  },
-  "medalSurvivalUndefeated": {
-    "statName": "Survivor",
-    "statDescription": "Survival: Win a round without being defeated."
-  },
-  "medalSurvivalQuickWipe": {
-    "statName": "Minute to Win It",
-    "statDescription": "Survival: As a team, win a round within 1 minute."
-  },
-  "medalSurvivalKnockout": {
-    "statName": "Undertaker",
-    "statDescription": "Survival: Land all knockout blows on the opposing team in a single round."
-  },
-  "medalSurvivalComeback": {
-    "statName": "According to Plan",
-    "statDescription": "Survival: Win a round despite being scoreless on Match Point."
-  },
-  "medalSurvivalTeamUndefeated": {
-    "statName": "Untouchable",
-    "statDescription": "Survival: Win a match where no one on your team is defeated across all rounds."
-  },
-  "medalControlAdvantageHold": {
-    "statName": "I Live Here Now",
-    "statDescription": "Control: Hold two or more zones for at least 1 minute."
-  },
-  "medalControlPerimeterKill": {
-    "statName": "Reclaimer",
-    "statDescription": "Control: Recapture a zone within 15 seconds of it being captured by your opponents."
-  },
-  "medalControlCaptureAllZones": {
-    "statName": "Capture and Control",
-    "statDescription": "Control: Defeat two opponents with Zone Advantage within 10 seconds of capturing a zone."
-  },
-  "medalControlMostAdvantage": {
-    "statName": "Flagbearer",
-    "statDescription": "Control: Complete a Control match with the most combined Advantage and Power Play kills."
-  },
-  "medalControlAdvantageStreak": {
-    "statName": "Dominant Advantage",
-    "statDescription": "Control: Score five Advantage or Power Play kills before the opponent recaptures a zone."
-  },
-  "medalControlPowerPlayWipe": {
-    "statName": "Power Overwhelming",
-    "statDescription": "Control: As a team, defeat all opposing Guardians at least once during a single Power Play."
-  },
-  "medalSupremacyFirstCrest": {
-    "statName": "First Secure",
-    "statDescription": "Supremacy: Secure the first crest in a match."
-  },
-  "medalSupremacySecureStreak": {
-    "statName": "Safe and Secured",
-    "statDescription": "Supremacy: Secure three opposing crests in a single life."
-  },
-  "medalSupremacyRecoverStreak": {
-    "statName": "Steadfast Ally",
-    "statDescription": "Supremacy: Recover three allied crests in a single life."
-  },
-  "medalSupremacyNeverCollected": {
-    "statName": "My Crest is My Own",
-    "statDescription": "Supremacy: Complete a match in which your crest is never collected by an opponent."
-  },
-  "medalSupremacyCrestCreditStreak": {
-    "statName": "Crestfallen",
-    "statDescription": "Supremacy: In a single life, create five consecutive crests that are secured by your teammates."
-  },
-  "medalSupremacyPerfectSecureRate": {
-    "statName": "A Crown of Crests",
-    "statDescription": "Supremacy: Complete a match with the most crests created and a 100% secure rate."
-  },
-  "medalUnknown": {
-    "statName": "Unknown Medals"
-  },
-  "allMedalsEarned": {
-    "statName": "Medals Earned"
-  },
-  "objectivesCompleted": {
-    "statName": "Objectives Completed"
+  "winRate": {
+    "statName": "Win Rate"
   },
   "precisionKills": {
     "statName": "Precision",
-    "statNameAbbr": "P",
-    "statDescription": "Kill shots that landed where they count the most."
-  },
-  "resurrectionsPerformed": {
-    "statName": "Resurrections",
-    "statDescription": "Bring your friends back from the dead."
-  },
-  "resurrectionsReceived": {
-    "statName": "Resurrections Received"
-  },
-  "score": {
-    "statName": "Score",
-    "statNameAbbr": "S",
-    "statDescription": "A monument to your sins."
-  },
-  "heroicPublicEventsCompleted": {
-    "statName": "Public Events Completed"
-  },
-  "adventuresCompleted": {
-    "statName": "Adventures Completed"
-  },
-  "secondsPlayed": {
-    "statName": "Time Played",
-    "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
-  },
-  "activityDurationSeconds": {
-    "statName": "Activity Duration"
-  },
-  "standing": {
-    "statName": "Standing"
-  },
-  "suicides": {
-    "statName": "Suicides"
-  },
-  "team": {
-    "statName": "Team"
-  },
-  "totalDeathDistance": {
-    "statName": "Total Death Distance"
-  },
-  "totalKillDistance": {
-    "statName": "Total Kill Distance"
-  },
-  "weaponPrecisionKillsAutoRifle": {
-    "statName": "Auto Rifle"
-  },
-  "weaponPrecisionKillsBeamRifle": {
-    "statName": "###historicalstats.StatName_weaponPrecisionKillsBeamRifle###"
-  },
-  "weaponPrecisionKillsBow": {
-    "statName": "Bow"
-  },
-  "weaponPrecisionKillsGlaive": {
-    "statName": "Glaive"
-  },
-  "weaponPrecisionKillsFusionRifle": {
-    "statName": "Fusion Rifle"
-  },
-  "weaponPrecisionKillsGrenade": {
-    "statName": "Grenade"
-  },
-  "weaponPrecisionKillsGrenadeLauncher": {
-    "statName": "Grenade Launcher Precision Kills"
-  },
-  "weaponPrecisionKillsHandCannon": {
-    "statName": "Hand Cannon"
-  },
-  "weaponPrecisionKillsTraceRifle": {
-    "statName": "Trace Rifle"
-  },
-  "weaponPrecisionKillsMachineGun": {
-    "statName": "Machine Gun"
-  },
-  "weaponPrecisionKillsMelee": {
-    "statName": "Melee"
-  },
-  "weaponPrecisionKillsPulseRifle": {
-    "statName": "Pulse Rifle"
-  },
-  "weaponPrecisionKillsRocketLauncher": {
-    "statName": "Rocket Launcher"
-  },
-  "weaponPrecisionKillsScoutRifle": {
-    "statName": "Scout Rifle"
-  },
-  "weaponPrecisionKillsShotgun": {
-    "statName": "Shotgun"
-  },
-  "weaponPrecisionKillsSniper": {
-    "statName": "Sniper Rifle"
-  },
-  "weaponPrecisionKillsSubmachinegun": {
-    "statName": "Submachine Gun"
-  },
-  "weaponPrecisionKillsSuper": {
-    "statName": "Super"
-  },
-  "weaponPrecisionKillsRelic": {
-    "statName": "Relic Precision Kills"
-  },
-  "weaponPrecisionKillsSideArm": {
-    "statName": "Sidearm"
-  },
-  "weaponKillsAutoRifle": {
-    "statName": "Auto Rifle"
-  },
-  "weaponKillsFusionRifle": {
-    "statName": "Fusion Rifle"
-  },
-  "weaponKillsGrenade": {
-    "statName": "Grenade Kills"
-  },
-  "weaponKillsGrenadeLauncher": {
-    "statName": "Grenade Launcher Kills"
-  },
-  "weaponKillsHandCannon": {
-    "statName": "Hand Cannon"
-  },
-  "weaponKillsTraceRifle": {
-    "statName": "Trace Rifle"
-  },
-  "weaponKillsMachineGun": {
-    "statName": "Machine Gun"
-  },
-  "weaponKillsMelee": {
-    "statName": "Melee Kills"
-  },
-  "weaponKillsPulseRifle": {
-    "statName": "Pulse Rifle"
-  },
-  "weaponKillsRocketLauncher": {
-    "statName": "Rocket Launcher"
-  },
-  "weaponKillsScoutRifle": {
-    "statName": "Scout Rifle"
-  },
-  "weaponKillsShotgun": {
-    "statName": "Shotgun"
-  },
-  "weaponKillsSniper": {
-    "statName": "Sniper Rifle"
-  },
-  "weaponKillsSubmachinegun": {
-    "statName": "Submachine Gun"
-  },
-  "weaponKillsSuper": {
-    "statName": "Super Kills"
-  },
-  "weaponKillsRelic": {
-    "statName": "Relics"
-  },
-  "weaponKillsSideArm": {
-    "statName": "Sidearm"
-  },
-  "weaponKillsSword": {
-    "statName": "Sword"
-  },
-  "weaponKillsAbility": {
-    "statName": "Ability Kills"
-  },
-  "weaponKillsBeamRifle": {
-    "statName": "###historicalstats.StatName_weaponKillsBeamRifle###"
-  },
-  "weaponKillsBow": {
-    "statName": "Bow"
-  },
-  "weaponKillsGlaive": {
-    "statName": "Glaive"
-  },
-  "weaponBestType": {
-    "statName": "Best Weapon",
-    "statDescription": "Your preferred implement of destruction."
-  },
-  "weaponKillsPrecisionKillsAutoRifle": {
-    "statName": "Auto Rifle "
-  },
-  "weaponKillsPrecisionKillsBeamRifle": {
-    "statName": "###historicalstats.StatName_weaponKillsPrecisionKillsBeamRifle###"
-  },
-  "weaponKillsPrecisionKillsBow": {
-    "statName": "###historicalstats.StatName_weaponKillsPrecisionKillsBow###"
-  },
-  "weaponKillsPrecisionKillsGlaive": {
-    "statName": "###historicalstats.StatName_weaponKillsPrecisionKillsGlaive###"
-  },
-  "weaponKillsPrecisionKillsFusionRifle": {
-    "statName": "Fusion Rifle "
-  },
-  "weaponKillsPrecisionKillsGrenade": {
-    "statName": "Grenade"
-  },
-  "weaponKillsPrecisionKillsGrenadeLauncher": {
-    "statName": "Grenade Launcher Precision Kill Ratio"
-  },
-  "weaponKillsPrecisionKillsHandCannon": {
-    "statName": "Hand Cannon"
-  },
-  "weaponKillsPrecisionKillsTraceRifle": {
-    "statName": "Trace Rifle"
-  },
-  "weaponKillsPrecisionKillsMachineGun": {
-    "statName": "###historicalstats.StatName_weaponKillsPrecisionKillsMachineGun###"
-  },
-  "weaponKillsPrecisionKillsMelee": {
-    "statName": "Melee"
-  },
-  "weaponKillsPrecisionKillsPulseRifle": {
-    "statName": "Pulse Rifle"
-  },
-  "weaponKillsPrecisionKillsRocketLauncher": {
-    "statName": "Rocket Launcher"
-  },
-  "weaponKillsPrecisionKillsScoutRifle": {
-    "statName": "Scout Rifle "
-  },
-  "weaponKillsPrecisionKillsShotgun": {
-    "statName": "Shotgun"
-  },
-  "weaponKillsPrecisionKillsSniper": {
-    "statName": "Sniper Rifle "
-  },
-  "weaponKillsPrecisionKillsSubmachinegun": {
-    "statName": "Submachine Gun"
-  },
-  "weaponKillsPrecisionKillsSuper": {
-    "statName": "Super"
-  },
-  "weaponKillsPrecisionKillsRelic": {
-    "statName": "Relic Precision Kill Ratio"
-  },
-  "weaponKillsPrecisionKillsSideArm": {
-    "statName": "Sidearm"
-  },
-  "winLossRatio": {
-    "statName": "Win/Loss Ratio"
-  },
-  "uniqueWeaponAssists": {
-    "statName": "Assists"
-  },
-  "uniqueWeaponAssistDamage": {
-    "statName": "Assist Damage"
-  },
-  "uniqueWeaponKills": {
-    "statName": "Kills"
-  },
-  "uniqueWeaponPrecisionKills": {
-    "statName": "Precision Kills"
+    "statNameAbbr": "P"
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Accuracy",
     "statNameAbbr": "A"
   },
-  "allParticipantsCount": {
-    "statName": "All Participants Count"
+  "score": {
+    "statNameAbbr": "S"
   },
-  "allParticipantsScore": {
-    "statName": "All Participants Score"
+  "strikeDifficulty": {
+    "statName": "Difficulty"
   },
-  "allParticipantsTimePlayed": {
-    "statName": "All Participants Time Played"
+  "activitiesEntered": {
+    "statName": "Entered"
   },
-  "activityAssists": {
-    "statName": "Assists"
+  "activitiesCleared": {
+    "statName": "Cleared",
+    "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of activities entered!"
   },
-  "completionReason": {
-    "statName": "Completion Reason"
+  "secondsPlayed": {
+    "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
   },
-  "fireteamId": {
-    "statName": "Fire Team ID"
+  "fastestCompletionMsForActivity": {
+    "statName": "Fastest"
   },
-  "longestKillSpree": {
-    "statName": " Best Kill Streak"
+  "currentCompetitiveRating": {
+    "statName": "Current Competitive Rating",
+    "statNameAlt": "Current Rating",
+    "statDescription": "Player's current Competitive Division rating."
   },
-  "longestSingleLife": {
-    "statName": "Longest Single Life"
-  },
-  "mostPrecisionKills": {
-    "statName": "Most Precision Kills"
-  },
-  "orbsDropped": {
-    "statName": "Orbs Dropped",
-    "statDescription": "Orbs created by your abilities."
-  },
-  "orbsGathered": {
-    "statName": "Orbs Gathered"
-  },
-  "startSeconds": {
-    "statName": "Start Time"
-  },
-  "timePlayedSeconds": {
-    "statName": "Time Played"
-  },
-  "playerCount": {
-    "statName": "Player Count"
-  },
-  "activityPrecisionKills": {
-    "statName": "Precision Kills"
-  },
-  "publicEventsCompleted": {
-    "statName": "Public Events Completed",
-    "statDescription": "Public Events you have participated in."
-  },
-  "remainingTimeAfterQuitSeconds": {
-    "statName": "Remaining Time After Quit"
-  },
-  "teamScore": {
-    "statName": "Team Score"
-  },
-  "totalActivityDurationSeconds": {
-    "statName": "Total Activity Duration Seconds"
-  },
-  "dailyMedalsEarned": {
-    "statName": "Medals Earned"
-  },
-  "combatRating": {
-    "statName": "Combat Rating",
-    "statDescription": "An assessment of your skill and teamwork. It factors in your score compared to others in each match and penalizes you for quitting."
-  },
-  "lbMostPrecisionKills": {
-    "statName": "Most Precision Kills"
-  },
-  "lbLongestKillSpree": {
-    "statName": "Longest Kill Spree"
-  },
-  "lbLongestKillDistance": {
-    "statName": "Longest Kill Distance"
-  },
-  "lbFastestCompletionMs": {
-    "statName": "Fastest Completion Time"
-  },
-  "lbLongestSingleLife": {
-    "statName": "Longest Single Life"
-  },
-  "dailyfastestCompletionMs": {
-    "statName": "Fastest Completion Time, Daily"
-  },
-  "fastestCompletionMs": {
-    "statName": "Fastest Completion Time"
-  },
-  "longestKillDistance": {
-    "statName": "Longest Kill Distance"
-  },
-  "highestCharacterLevel": {
-    "statName": "Highest Character Level"
-  },
-  "highestLightLevel": {
-    "statName": "Highest Power Level"
-  },
-  "highestSandboxLevel": {
-    "statName": "Highest Level"
-  },
-  "controlZonesCaptured": {
-    "statName": "Captured",
-    "statNameAbbr": "Zones Cap."
-  },
-  "controlZonesNeutralized": {
-    "statName": "Neutralized",
-    "statNameAbbr": "Zones Neu."
-  },
-  "controlZoneDefensiveKills": {
-    "statName": "Defensive Kills",
-    "statNameAbbr": "Defensive Kills"
-  },
-  "controlZoneOffensiveKills": {
-    "statName": "Offensive Kills",
-    "statNameAbbr": "Offensive Kills"
-  },
-  "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Kills Secured"
-  },
-  "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Allied Kills Secured"
+  "currentEloRating": {
+    "statName": "Current Elo Rating",
+    "statNameAlt": "Current Elo",
+    "statDescription": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
   },
   "supremacyCrestsSecured": {
     "statName": "Crests Secured"
@@ -836,123 +65,23 @@
   "supremacyCrestsRecovered": {
     "statName": "Crests Recovered"
   },
-  "supremacyOwnTagsRecovered": {
-    "statName": "Own Crests Recovered"
+  "supremacySecureRate": {
+    "statName": "Secure Rate"
   },
-  "supremacyAllyTagsRecovered": {
-    "statName": "Ally Crests Recovered"
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Kills Secured"
   },
-  "completedTrialsLostTicket": {
-    "statName": "Lost Trials?"
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Allied Kills Secured"
   },
-  "completedTrialsPerfectTicket": {
-    "statName": "Perfected Trials?"
+  "motesDeposited": {
+    "statNameAbbr": "MD"
   },
-  "completedTrialsWonTicket": {
-    "statName": "Won Trials?"
+  "motesLost": {
+    "statNameAbbr": "ML"
   },
-  "medalMayhemFirstSuper": {
-    "statName": "Light 'Em Up",
-    "statDescription": "Mayhem: Cast the first Super of the match."
-  },
-  "medalMayhemGrenadeStreak": {
-    "statName": "Fire in the Hole!",
-    "statDescription": "Mayhem: In a single life, land five grenade final blows."
-  },
-  "medalMayhemMeleeStreak": {
-    "statName": "Punch and Pie",
-    "statDescription": "Mayhem: In a single life, land three melee final blows."
-  },
-  "medalMayhemCastStreak": {
-    "statName": "Superstar",
-    "statDescription": "Mayhem: In a single life, cast three Supers."
-  },
-  "medalMayhemCastMulti": {
-    "statName": "By Our Powers Combined…",
-    "statDescription": "Mayhem: As a team, rapidly cast all of your Supers."
-  },
-  "medalMayhemKillStreak": {
-    "statName": "Total Mayhem",
-    "statDescription": "Mayhem: As a team, land 10 Super final blows without anyone on your team being defeated."
-  },
-  "medalCrimsonWeaponCombo": {
-    "statName": "Polyarmory",
-    "statDescription": "Crimson Days: In a single round, both you and your partner must land one final blow each with Kinetic, Energy, and Power weapons."
-  },
-  "medalCrimsonRevengeMulti": {
-    "statName": "Third Wheel",
-    "statDescription": "Crimson Days: Rapidly defeat both your opponents while your partner is down."
-  },
-  "medalCrimsonApartMulti": {
-    "statName": "Broken Up",
-    "statDescription": "Crimson Days: As a pair, defeat both your opponents within 3 seconds while they are separated from each other."
-  },
-  "medalCrimsonSuddenDeath": {
-    "statName": "Heartbreaker",
-    "statDescription": "Crimson Days: Win a match in sudden death."
-  },
-  "medalRumbleDefeatAllClasses": {
-    "statName": "Best in Class",
-    "statDescription": "Rumble: In a single life, defeat at least one Hunter, one Titan, and one Warlock."
-  },
-  "medalRumbleUnassistedStreak": {
-    "statName": "Assassin",
-    "statDescription": "Rumble: In a single life, land three unassisted final blows without taking any damage in between."
-  },
-  "medalRumbleStealStreak": {
-    "statName": "Pickpocket",
-    "statDescription": "Rumble: In a single life, steal five final blows from your opponents."
-  },
-  "medalRumbleTop3": {
-    "statName": "Podium Finish",
-    "statDescription": "Rumble: Finish in the top three."
-  },
-  "medalRumbleDefeatAllPlayers": {
-    "statName": "Round Robin",
-    "statDescription": "Rumble: In a single life, defeat each opposing player at least once."
-  },
-  "medalRumbleBetterThanAllCombined": {
-    "statName": "The Sum of All Tears",
-    "statDescription": "Rumble: Win a match with a score greater than the sum of all opponents' scores."
-  },
-  "medalSlayer": {
-    "statName": "Slayer",
-    "statDescription": "Rapidly defeat five opposing Guardians."
-  },
-  "medalStreak6x": {
-    "statName": "Reaper",
-    "statDescription": "Rapidly defeat 6 opposing Guardians."
-  },
-  "medalStreak7x": {
-    "statName": "Seventh Column",
-    "statDescription": "Rapidly defeat 7 opposing Guardians."
-  },
-  "medalShowdownMostKills": {
-    "statName": "Local Maxima",
-    "statDescription": "Showdown: Defeat the most opponents in a single round."
-  },
-  "medalShowdownAmmoStreak": {
-    "statName": "Denial of Service",
-    "statDescription": "Showdown: As a team, collect three consecutive ammo crates in a single match."
-  },
-  "medalShowdownRetakeLead": {
-    "statName": "Clawing Back",
-    "statDescription": "Showdown: Within a round, retake the lead after trailing by 5 points."
-  },
-  "medalShowdownFullTeamSurvival": {
-    "statName": "When the Dust Clears",
-    "statDescription": "Showdown: Win a Final Showdown in which your entire team survives."
-  },
-  "medalShowdownForceFinalRound": {
-    "statName": "We're Not Done Yet",
-    "statDescription": "Showdown: Force a Final Showdown round after trailing 0–2."
-  },
-  "medalShowdownUndefeated": {
-    "statName": "Invincible",
-    "statDescription": "Showdown: Win a match in which no one on your team is defeated."
-  },
-  "invasions": {
-    "statName": "Invasions"
+  "highValueKills": {
+    "statName": "High Value Kills"
   },
   "invasionKills": {
     "statName": "Kills as Invader",
@@ -967,34 +96,21 @@
   "invaderDeaths": {
     "statName": "Deaths to Invaders"
   },
+  "primevalDamage": {
+    "statName": "Primeval Damage",
+    "statNameAbbr": "D"
+  },
   "primevalKills": {
     "statName": "Primeval Kills"
-  },
-  "blockerKills": {
-    "statName": "Blocker Kills"
-  },
-  "mobKills": {
-    "statName": "Hostiles Defeated"
-  },
-  "highValueKills": {
-    "statName": "High Value Kills"
-  },
-  "motesPickedUp": {
-    "statName": "###historicalstats.StatName_motesPickedUp###"
-  },
-  "motesDeposited": {
-    "statName": "Motes Deposited",
-    "statNameAbbr": "MD"
   },
   "motesDenied": {
     "statName": "Motes Denied"
   },
-  "motesLost": {
-    "statName": "Motes Lost",
-    "statNameAbbr": "ML"
+  "invasions": {
+    "statName": "Invasions"
   },
-  "bankOverage": {
-    "statName": "###historicalstats.StatName_bankOverage###"
+  "blockerKills": {
+    "statName": "Blocker Kills"
   },
   "smallBlockersSent": {
     "statName": "Small Blockers Sent"
@@ -1005,425 +121,121 @@
   "largeBlockersSent": {
     "statName": "Large Blockers Sent"
   },
-  "primevalDamage": {
-    "statName": "Primeval Damage",
-    "statNameAbbr": "D"
-  },
-  "primevalHealing": {
-    "statName": "Primeval Healing"
-  },
-  "roundsPlayed": {
-    "statName": "###historicalstats.StatName_roundsPlayed###"
-  },
-  "roundsWon": {
-    "statName": "###historicalstats.StatName_roundsWon###"
-  },
-  "fireTeamActivities": {
-    "statName": "###historicalstats.StatName_fireTeamActivities###"
-  },
-  "medals_pvecomp_medal_invader_kill_four": {
-    "statName": "Army of One",
-    "statDescription": "As an invader, defeat four opposing Guardians in a single invasion."
-  },
-  "medals_pvecomp_medal_massacre": {
-    "statName": "Massacre",
-    "statDescription": "Defeat 12 enemies with no more than 3 seconds between kills."
-  },
-  "medals_pvecomp_medal_no_escape": {
-    "statName": "No Escape",
-    "statDescription": "Defeat an invader with 5 seconds or less left on their timer."
-  },
-  "medals_pvecomp_medal_blockbuster": {
-    "statName": "Blockbuster",
-    "statDescription": "Defeat three Blockers with no more than 3 seconds between kills."
-  },
-  "medals_pvecomp_medal_tags_denied_15": {
-    "statName": "Mote Have Been",
-    "statDescription": "As an invader, defeat a Guardian carrying 15 Motes."
-  },
-  "medals_pvecomp_medal_bank_kill": {
-    "statName": "Bank THIS!",
-    "statDescription": "As an invader, defeat a Guardian who is carrying Motes near the bank."
-  },
-  "medals_pvecomp_medal_denied": {
-    "statName": "Denied!",
-    "statDescription": "As an invader, deny at least 10 Motes by destroying all Guardians who are carrying Motes."
-  },
-  "medals_pvecomp_medal_invasion_shutdown": {
-    "statName": "Not on My Watch",
-    "statDescription": "Defeat an invader within 10 seconds of their appearance in your arena before they defeat anyone on your team."
-  },
-  "medals_pvecomp_medal_locksmith": {
-    "statName": "Locksmith",
-    "statDescription": "Defeat the last Blocker at your team's bank three times in a single round."
-  },
-  "medals_pvecomp_medal_block_party": {
-    "statName": "Block Party",
-    "statDescription": "As a team, have four Blockers at the enemy's bank at the same time."
-  },
-  "medals_pvecomp_medal_never_say_die": {
-    "statName": "Never Say Die",
-    "statDescription": "Come back from a 25% deficit in Primeval health to win the round."
-  },
-  "medals_pvecomp_medal_half_banked": {
-    "statName": "Half-Banked",
-    "statDescription": "Deposit at least half your bank's capacity in a single round."
-  },
-  "medals_pvecomp_medal_everyone_invaded": {
-    "statName": "Taking Turns",
-    "statDescription": "As a team, have all four players invade at least once during a round."
-  },
-  "medals_pvecomp_medal_killmonger": {
-    "statName": "Killmonger",
-    "statDescription": "Defeat 20 enemies in a single match without dying."
-  },
-  "medals_pvecomp_medal_thrillmonger": {
-    "statName": "Thrillmonger",
-    "statDescription": "Defeat 40 enemies in a single match without dying."
-  },
-  "medals_pvecomp_medal_overkillmonger": {
-    "statName": "Overkillmonger",
-    "statDescription": "Defeat 80 enemies in a single match without dying."
-  },
-  "medals_pvecomp_medal_first_to_block": {
-    "statName": "First to Block",
-    "statDescription": "Be the first player in a round to lock the other team's bank."
-  },
-  "medals_pvecomp_medal_fast_fill": {
-    "statName": "Fast Fill",
-    "statDescription": "Collect 15 Motes quickly."
-  },
-  "medals_pvecomp_medal_big_game_hunter": {
-    "statName": "Big Game Hunter",
-    "statDescription": "Defeat three powerful enemies within a short time period."
-  },
-  "medals_pvecomp_medal_kill_after_invasion": {
-    "statName": "Relentless Invader",
-    "statDescription": "As an invader, get a kill after your time limit expires."
-  },
-  "medals_pvecomp_medal_revenge": {
-    "statName": "Payback",
-    "statDescription": "Before you die again, defeat the player who last defeated you."
-  },
-  "medals_pvecomp_medal_revenge_same_invasion": {
-    "statName": "Rapid Payback",
-    "statDescription": "After reviving, defeat the invader who destroyed you before they escape."
-  },
-  "medals_pvecomp_medal_fist_of_havoc_multikill": {
-    "statName": "Titan Smash",
-    "statDescription": "Rapidly defeat multiple enemies with a single Fists of Havoc Super."
-  },
-  "medals_pvecomp_medal_meteor_strike_multikill": {
-    "statName": "A Titan Can Fly",
-    "statDescription": "Rapidly defeat multiple enemies with a single Thundercrash Super."
-  },
-  "medals_pvecomp_medal_void_shield_multikill": {
-    "statName": "Captain of the Void",
-    "statDescription": "Rapidly defeat multiple enemies with a single Sentinel Shield Super."
-  },
-  "medals_pvecomp_medal_thermal_hammer_multikill": {
-    "statName": "A Time for Hammers",
-    "statDescription": "Rapidly defeat multple enemies with a single Hammer of Sol Super."
-  },
-  "medals_pvecomp_medal_thermal_maul_multikill": {
-    "statName": "Burning Path",
-    "statDescription": "Rapidly defeat multiple enemies with a single Burning Maul Super."
-  },
-  "medals_pvecomp_medal_arc_staff_multikill": {
-    "statName": "Lightning Rod",
-    "statDescription": "Rapidly defeat multiple enemies with a single Arc Staff Super."
-  },
-  "medals_pvecomp_medal_golden_gun_multikill": {
-    "statName": "Fire Slinger",
-    "statDescription": "Defeat three enemies with a single Golden Gun Super."
-  },
-  "medals_pvecomp_medal_thermal_knives_multikill": {
-    "statName": "Fan of Knives",
-    "statDescription": "Rapidly defeat multiple enemies with a single Blade Barrage Super."
-  },
-  "medals_pvecomp_medal_void_blade_multikill": {
-    "statName": "Spectral Surgeon",
-    "statDescription": "Rapidly defeat multiple enemies with a single Spectral Blades Super."
-  },
-  "medals_pvecomp_medal_void_bow_multikill": {
-    "statName": "Ensnarement",
-    "statDescription": "Rapidly defeat multiple enemies tethered from a single Shadowshot Super."
-  },
-  "medals_pvecomp_medal_arc_lightning_multikill": {
-    "statName": "Ride Lightning",
-    "statDescription": "Rapidly defeat multiple enemies with a single Stormtrance Super."
-  },
-  "medals_pvecomp_medal_arc_beam_multikill": {
-    "statName": "Chaos Incarnate",
-    "statDescription": "Rapidly defeat multiple enemies with a single Chaos Reach Super."
-  },
-  "medals_pvecomp_medal_nova_bomb_multikill": {
-    "statName": "Void-Based Demolition",
-    "statDescription": "Rapidly defeat multiple enemies with a single Nova Bomb Super."
-  },
-  "medals_pvecomp_medal_nova_pulse_multikill": {
-    "statName": "Void Unleashed",
-    "statDescription": "Defeat a large number of enemies with a single Nova Warp Super."
-  },
-  "medals_pvecomp_medal_thermal_sword_multikill": {
-    "statName": "Rain of Fire",
-    "statDescription": "Rapidly defeat multiple enemies with a single Dawnblade Super."
-  },
-  "Medals_pvecomp_medal_thermal_sword_healing_multikill": {
-    "statName": "Dug In",
-    "statDescription": "Defeat a large number of enemies while inside the aura from a single Well of Radiance Super."
-  },
-  "Medals_pvp_medal_streak_extra_absurd_b": {
-    "statName": "I Made This for You",
-    "statDescription": "I Made This for You"
-  },
-  "Medals_pvp_medal_streak_no_damage": {
-    "statName": "Ghost in the Night",
-    "statDescription": "Ghost in the Night"
-  },
-  "medalWeaponMachineGun": {
-    "statName": "Make It Rain",
-    "statDescription": "Make It Rain"
-  },
-  "Medals_pvp_medal_ability_arc_staff_third": {
-    "statName": "Expert Parry",
-    "statDescription": "Expert Parry"
-  },
-  "Medals_pvp_medal_ability_thermal_knives": {
-    "statName": "Ace up the Sleeve",
-    "statDescription": "Ace up the Sleeve"
-  },
-  "Medals_pvp_medal_ability_void_blade": {
-    "statName": "Phantom",
-    "statDescription": "Phantom"
-  },
-  "Medals_pvp_medal_ability_meteor_strike": {
-    "statName": "Cannonball!",
-    "statDescription": "Cannonball!"
-  },
-  "Medals_pvp_medal_ability_sentinel_guard": {
-    "statName": "Fortified Assault",
-    "statDescription": "Fortified Assault"
-  },
-  "Medals_pvp_medal_ability_thermal_maul": {
-    "statName": "Let's Go to the Maul",
-    "statDescription": "Let's Go to the Maul"
-  },
-  "Medals_pvp_medal_ability_well_of_radiance": {
-    "statName": "You Have My Sword",
-    "statDescription": "You Have My Sword"
-  },
-  "Medals_pvp_medal_ability_arc_beam": {
-    "statName": "Chaos Theory",
-    "statDescription": "Chaos Theory"
-  },
-  "Medals_pvp_medal_ability_void_pulse": {
-    "statName": "Greetings from the Void",
-    "statDescription": "Greetings from the Void"
-  },
-  "Medals_pvp_medal_lockdown_1a": {
-    "statName": "We're Halfway There",
-    "statDescription": "We're Halfway There"
-  },
-  "Medals_pvp_medal_lockdown_1b": {
-    "statName": "Nice Try",
-    "statDescription": "Nice Try"
-  },
-  "Medals_pvp_medal_lockdown_1c": {
-    "statName": "Slow and Steady",
-    "statDescription": "Slow and Steady"
-  },
-  "Medals_pvp_medal_lockdown_2a": {
-    "statName": "Still Counts!",
-    "statDescription": "Still Counts!"
-  },
-  "Medals_pvp_medal_lockdown_2b": {
-    "statName": "Last Line",
-    "statDescription": "Last Line"
-  },
-  "Medals_pvp_medal_lockdown_3a": {
-    "statName": "Territorial Instinct",
-    "statDescription": "Territorial Instinct"
-  },
   "Medals_pvp_medal_ib_control_3a": {
-    "statName": "Lord of the Hunt",
     "statDescription": "As a team, defeat all opposing Guardians at least once during the Hunt."
   },
   "Medals_pvp_medal_ib_control_3b": {
-    "statName": "Gone to Ground",
     "statDescription": "Survive a Hunt in which no member of your team is defeated—then start the next Hunt."
   },
   "Medals_pvp_medal_ib_control_2a": {
-    "statName": "Field General",
     "statDescription": "Complete an Iron Banner match with the most combined Advantage and Hunt kills."
   },
   "Medals_pvp_medal_ib_control_2b": {
-    "statName": "Sitting Ducks",
     "statDescription": "Defeat five opponents while holding Zone Advantage before the opposing team recaptures a zone."
   },
   "Medals_pvp_medal_ib_control_2c": {
-    "statName": "Release the Hounds",
     "statDescription": "In a single life, participate in capturing all three zones leading to the Hunt."
   },
   "Medals_pvp_medal_ib_control_2d": {
-    "statName": "Sly Fox",
     "statDescription": "Survive your opponents' Hunt without being defeated."
   },
   "Medals_pvp_medal_ib_control_1a": {
-    "statName": "Iron Protector",
     "statDescription": "In a single life, defeat three opponents attempting to capture allied capture zones."
   },
   "Medals_pvp_medal_ib_control_1b": {
-    "statName": "Reversal of Fortune",
     "statDescription": "Recapture a zone within 15 seconds of it being captured by your opponents."
   },
   "Medals_pvp_medal_ib_control_1c": {
-    "statName": "Tactical Shift",
     "statDescription": "Defeat two or more opponents with Zone Advantage within 10 seconds of capturing a zone."
   },
   "Medals_pvp_medal_ib_control_1d": {
-    "statName": "Midnight Society",
     "statDescription": "Capture a zone with your entire team present."
   },
   "Medals_pvp_medal_ib_multi_entire_team": {
-    "statName": "One Fell Swoop",
     "statDescription": "Land final blows on the entire enemy team before any of them respawn."
   },
   "Medals_pvp_medal_ib_multi_7x": {
-    "statName": "Seven Deadly",
     "statDescription": "Rapidly defeat 7 opposing Guardians."
   },
   "Medals_pvp_medal_ib_multi_6x": {
-    "statName": "Six Fronts",
     "statDescription": "Rapidly defeat 6 opposing Guardians."
   },
   "Medals_pvp_medal_ib_multi_5x": {
-    "statName": "Gimme Five",
     "statDescription": "Rapidly defeat 5 opposing Guardians."
   },
   "Medals_pvp_medal_ib_multi_4x": {
-    "statName": "Go Fourth",
     "statDescription": "Rapidly defeat 4 opposing Guardians."
   },
   "Medals_pvp_medal_ib_multi_3x": {
-    "statName": "Triple Strike",
     "statDescription": "Rapidly defeat 3 opposing Guardians."
   },
   "Medals_pvp_medal_ib_multi_2x": {
-    "statName": "Double Quick",
     "statDescription": "Rapidly defeat 2 opposing Guardians."
   },
   "Medals_pvp_medal_ib_payback": {
-    "statName": "Blood Will Have Blood",
     "statDescription": "Land the final blow on the Guardian who last defeated you."
   },
   "Medals_pvp_medal_ib_avenger": {
-    "statName": "Settled Score",
     "statDescription": "Land the final blow on an opponent who just defeated an ally."
   },
   "Medals_pvp_medal_ib_defender": {
-    "statName": "Bite Back",
     "statDescription": "Land the final blow on an opponent who has recently damaged an ally."
   },
   "Medals_pvp_medal_ib_streak_huge": {
-    "statName": "Fifth Horseman",
     "statDescription": "In a single life, defeat 50 opposing Guardians."
   },
   "Medals_pvp_medal_ib_streak_lg": {
-    "statName": "Iron Legend",
     "statDescription": "In a single life, defeat 20 opposing Guardians."
   },
   "Medals_pvp_medal_ib_streak_no_damage": {
-    "statName": "Ghost Wolf",
     "statDescription": "Land final blows on seven opponents without taking any damage from any source."
   },
   "Medals_pvp_medal_ib_streak_shutdown_large": {
-    "statName": "Usurper",
     "statDescription": "Shut down an opponent's streak of 20 or more."
   },
   "Medals_pvp_medal_ib_streak_med": {
-    "statName": "Iron Lord",
     "statDescription": "In a single life, defeat 10 opposing Guardians."
   },
   "Medals_pvp_medal_ib_streak_team": {
-    "statName": "Heart of the Pack",
     "statDescription": "As a team, defeat 7 opposing Guardians without any member of your team being defeated."
   },
   "Medals_pvp_medal_ib_streak_sm": {
-    "statName": "Wolf at the Door",
     "statDescription": "In a single life, defeat 5 opposing Guardians."
   },
   "Medals_pvp_medal_ib_streak_comeback": {
-    "statName": "Vindication",
     "statDescription": "Defeat 3 opponents in a single life after having been defeated two consecutive times."
   },
   "Medals_pvp_medal_ib_streak_shutdown": {
-    "statName": "Killjoy",
     "statDescription": "Shut down an opponent's streak."
   },
   "Medals_pvp_medal_ib_streak_combined": {
-    "statName": "Running with the Pack",
     "statDescription": "In a single life, defeat 3 opposing Guardians while assisting or assisted by your teammates."
   },
   "Medals_pvp_medal_ib_match_undefeated": {
-    "statName": "Warlord",
     "statDescription": "Complete an Iron Banner match in which you defeat at least seven opponents and are never defeated by an opponent."
   },
   "Medals_pvp_medal_ib_match_blowout": {
-    "statName": "Overwhelming Force",
     "statDescription": "Win an Iron Banner match with a large margin of victory."
   },
   "Medals_pvp_medal_ib_match_most_damage": {
-    "statName": "Violent Delights",
     "statDescription": "Deal the most total damage to opponents in a single Iron Banner match."
   },
   "Medals_pvp_medal_ib_match_comeback": {
-    "statName": "About Face",
     "statDescription": "Win an Iron Banner match after having trailed by a significant margin."
   },
   "Medals_pvp_medal_ib_match_never_trailed": {
-    "statName": "From the Front",
     "statDescription": "Win an Iron Banner match in which your team never trailed."
   },
   "Medals_pvp_medal_ib_match_overtime": {
-    "statName": "Down to the Wire",
     "statDescription": "Win an Iron Banner match in overtime."
   },
   "Medals_pvp_medal_ib_cycle": {
-    "statName": "The Armory",
     "statDescription": "In a single Iron Banner match, land at least one final blow with each class of weapon (Kinetic, Energy, Power) and ability (melee, grenade, Super)."
   },
   "Medals_pvp_medal_ib_first_strike": {
-    "statName": "First Blood",
     "statDescription": "Land the first final blow of the match."
   },
   "Medals_pvp_medal_ib_super_shutdown": {
-    "statName": "Force of Nature",
     "statDescription": "Stop an opponent's Super with your Super."
-  },
-  "flawless": {
-    "statName": "Flawless"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Average K/D"
-  },
-  "winRate": {
-    "statName": "Win Rate"
-  },
-  "strikeDifficulty": {
-    "statName": "Difficulty"
-  },
-  "currentCompetitiveRating": {
-    "statName": "Current Competitive Rating",
-    "statNameAlt": "Current Rating",
-    "statDescription": "Player's current Competitive Division rating."
-  },
-  "currentEloRating": {
-    "statName": "Current Elo Rating",
-    "statNameAlt": "Current Elo",
-    "statDescription": "Player's current Elo rating.\n\nElo ratings from a third-party web site, _Destiny Tracker_. _Destiny Tracker_ provides Elo ratings for all Destiny players who participate in _Crucible_ and _Gambit_ activities."
-  },
-  "supremacySecureRate": {
-    "statName": "Secure Rate"
   }
 }
