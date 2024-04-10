@@ -1,47 +1,63 @@
 {
-  "activitiesCleared": {
-    "statName": "Completadas",
-    "statDescription": "Total de actividades completadas con éxito. Esperemos, Guardián, que este valor sea superior a la mitad de las actividades realizadas."
-  },
-  "activitiesEntered": {
-    "statName": "Iniciadas"
-  },
-  "fastestCompletionMsForActivity": {
-    "statName": "Más rápida"
-  },
-  "deaths": {
-    "statNameAbbr": "M"
+  "opponentsDefeated": {
+    "statName": "Bajas + asistencias",
+    "statNameAbbr": "BA"
   },
   "kills": {
     "statNameAbbr": "B"
   },
-  "opponentsDefeated": {
-    "statName": "Bajas + asistencias",
-    "statNameAbbr": "BA"
+  "deaths": {
+    "statNameAbbr": "M"
+  },
+  "flawless": {
+    "statName": "Impecables"
   },
   "killsDeathsRatio": {
     "statName": "B/M",
     "statNameAbbr": "BM"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "Promedio de B/M"
+  },
+  "winRate": {
+    "statName": "Índice de victorias"
+  },
   "precisionKills": {
     "statName": "Precisión",
     "statNameAbbr": "Pr"
-  },
-  "score": {
-    "statNameAbbr": "Pts."
-  },
-  "secondsPlayed": {
-    "statDescription": "Tiempo total dedicado a eliminar amenazas para la Ciudad. Nunca se dedica demasiado poco tiempo."
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Puntería",
     "statNameAbbr": "Pu"
   },
-  "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "Bajas aseguradas"
+  "score": {
+    "statNameAbbr": "Pts."
   },
-  "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "Bajas de aliados aseguradas"
+  "strikeDifficulty": {
+    "statName": "Dificultad"
+  },
+  "activitiesEntered": {
+    "statName": "Iniciadas"
+  },
+  "activitiesCleared": {
+    "statName": "Completadas",
+    "statDescription": "Total de actividades completadas con éxito. Esperemos, Guardián, que este valor sea superior a la mitad de las actividades realizadas."
+  },
+  "secondsPlayed": {
+    "statDescription": "Tiempo total dedicado a eliminar amenazas para la Ciudad. Nunca se dedica demasiado poco tiempo."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Más rápida"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Clasificación competitiva actual",
+    "statNameAlt": "Clasificación actual",
+    "statDescription": "Clasificación actual del jugador en la División Competitiva."
+  },
+  "currentEloRating": {
+    "statName": "Puntuación Elo actual",
+    "statNameAlt": "Elo actual",
+    "statDescription": "Puntuación Elo actual del jugador.\n\nPuntuaciones Elo de un sitio web de terceros, _Destiny Tracker_. _Destiny Tracker_ proporciona clasificaciones Elo para todos los jugadores de Destiny que participan en actividades de _Crisol_ y _Gambito_."
   },
   "supremacyCrestsSecured": {
     "statName": "Insignias aseguradas"
@@ -49,8 +65,23 @@
   "supremacyCrestsRecovered": {
     "statName": "Insignias recuperadas"
   },
-  "invasions": {
-    "statName": "Invasiones"
+  "supremacySecureRate": {
+    "statName": "Índice de asegurado"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "Bajas aseguradas"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "Bajas de aliados aseguradas"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "MP"
+  },
+  "highValueKills": {
+    "statName": "Bajas de blanco prioritario"
   },
   "invasionKills": {
     "statName": "Bajas como invasor",
@@ -65,23 +96,21 @@
   "invaderDeaths": {
     "statName": "Muertes por invasor"
   },
+  "primevalDamage": {
+    "statName": "Daño al Primordial",
+    "statNameAbbr": "D"
+  },
   "primevalKills": {
     "statName": "Bajas de Primordiales"
-  },
-  "blockerKills": {
-    "statName": "Bajas de bloqueadores"
-  },
-  "highValueKills": {
-    "statName": "Bajas de blanco prioritario"
-  },
-  "motesDeposited": {
-    "statNameAbbr": "MD"
   },
   "motesDenied": {
     "statName": "Motas denegadas"
   },
-  "motesLost": {
-    "statNameAbbr": "MP"
+  "invasions": {
+    "statName": "Invasiones"
+  },
+  "blockerKills": {
+    "statName": "Bajas de bloqueadores"
   },
   "smallBlockersSent": {
     "statName": "Bloqueadores pequeños enviados"
@@ -91,10 +120,6 @@
   },
   "largeBlockersSent": {
     "statName": "Bloqueadores grandes enviados"
-  },
-  "primevalDamage": {
-    "statName": "Daño al Primordial",
-    "statNameAbbr": "D"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "Elimina al menos una vez a todos los rivales durante la Cacería, con la ayuda de tu escuadra."
@@ -212,30 +237,5 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Detén la súper de un enemigo con tu súper."
-  },
-  "flawless": {
-    "statName": "Impecables"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Promedio de B/M"
-  },
-  "winRate": {
-    "statName": "Índice de victorias"
-  },
-  "strikeDifficulty": {
-    "statName": "Dificultad"
-  },
-  "currentCompetitiveRating": {
-    "statName": "Clasificación competitiva actual",
-    "statNameAlt": "Clasificación actual",
-    "statDescription": "Clasificación actual del jugador en la División Competitiva."
-  },
-  "currentEloRating": {
-    "statName": "Puntuación Elo actual",
-    "statNameAlt": "Elo actual",
-    "statDescription": "Puntuación Elo actual del jugador.\n\nPuntuaciones Elo de un sitio web de terceros, _Destiny Tracker_. _Destiny Tracker_ proporciona clasificaciones Elo para todos los jugadores de Destiny que participan en actividades de _Crisol_ y _Gambito_."
-  },
-  "supremacySecureRate": {
-    "statName": "Índice de asegurado"
   }
 }

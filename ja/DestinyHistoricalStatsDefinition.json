@@ -1,47 +1,63 @@
 {
-  "activitiesCleared": {
-    "statName": "クリア",
-    "statDescription": "全体のアクティビティが無事クリアできました。ガーディアン、おそらくですがこれはアクティビティの半分以上の数だとと思います!"
-  },
-  "activitiesEntered": {
-    "statName": "Entered"
-  },
-  "fastestCompletionMsForActivity": {
-    "statName": "最速クリア"
-  },
-  "deaths": {
-    "statNameAbbr": "D"
+  "opponentsDefeated": {
+    "statName": "キル数 + アシスト数",
+    "statNameAbbr": "KA"
   },
   "kills": {
     "statNameAbbr": "K"
   },
-  "opponentsDefeated": {
-    "statName": "キル数 + アシスト数",
-    "statNameAbbr": "KA"
+  "deaths": {
+    "statNameAbbr": "D"
+  },
+  "flawless": {
+    "statName": "不敗"
   },
   "killsDeathsRatio": {
     "statName": "K/D",
     "statNameAbbr": "KD"
   },
+  "averageKillsDeathsRatio": {
+    "statName": "平均 K/D"
+  },
+  "winRate": {
+    "statName": "勝率"
+  },
   "precisionKills": {
     "statName": "精密キル",
     "statNameAbbr": "P"
-  },
-  "score": {
-    "statNameAbbr": "S"
-  },
-  "secondsPlayed": {
-    "statDescription": "シティへの脅威を排除するために費やされた合計時間。ここで費やした時間が少なすぎるということはない。"
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "精度",
     "statNameAbbr": "A"
   },
-  "supremacyOwnKillEnemyTagsCaptured": {
-    "statName": "防衛した相手をキル"
+  "score": {
+    "statNameAbbr": "S"
   },
-  "supremacyAllyKillEnemyTagsCaptured": {
-    "statName": "仲間による防衛した相手をキル"
+  "strikeDifficulty": {
+    "statName": "難易度"
+  },
+  "activitiesEntered": {
+    "statName": "Entered"
+  },
+  "activitiesCleared": {
+    "statName": "クリア",
+    "statDescription": "全体のアクティビティが無事クリアできました。ガーディアン、おそらくですがこれはアクティビティの半分以上の数だとと思います!"
+  },
+  "secondsPlayed": {
+    "statDescription": "シティへの脅威を排除するために費やされた合計時間。ここで費やした時間が少なすぎるということはない。"
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "最速クリア"
+  },
+  "currentCompetitiveRating": {
+    "statName": "現在の対戦レーティング",
+    "statNameAlt": "対戦レーティング",
+    "statDescription": "現在の対戦ランキングレート"
+  },
+  "currentEloRating": {
+    "statName": "現在のイロレーティング",
+    "statNameAlt": "イロレーティング",
+    "statDescription": "現在のイロレーティング。\n\nイロレーティングは _Destiny Tracker_からのデータです. _Destiny Tracker_ は _クルーシブル_ や _ギャンビット_ をプレイするすべてのプレイヤーにデータを提供しています。"
   },
   "supremacyCrestsSecured": {
     "statName": "保護した記章"
@@ -49,8 +65,23 @@
   "supremacyCrestsRecovered": {
     "statName": "回収した記章"
   },
-  "invasions": {
-    "statName": "侵入回数"
+  "supremacySecureRate": {
+    "statName": "防衛率"
+  },
+  "supremacyOwnKillEnemyTagsCaptured": {
+    "statName": "防衛した相手をキル"
+  },
+  "supremacyAllyKillEnemyTagsCaptured": {
+    "statName": "仲間による防衛した相手をキル"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "MD"
+  },
+  "motesLost": {
+    "statNameAbbr": "ML"
+  },
+  "highValueKills": {
+    "statName": "高価値のキル"
   },
   "invasionKills": {
     "statName": "侵入者でのキル数",
@@ -65,23 +96,21 @@
   "invaderDeaths": {
     "statName": "侵入者にキルされた数"
   },
+  "primevalDamage": {
+    "statName": "プライミーバルへのダメージ",
+    "statNameAbbr": "D"
+  },
   "primevalKills": {
     "statName": "プライミーバルのキル数"
-  },
-  "blockerKills": {
-    "statName": "ブロッカーを倒した数"
-  },
-  "highValueKills": {
-    "statName": "高価値のキル"
-  },
-  "motesDeposited": {
-    "statNameAbbr": "MD"
   },
   "motesDenied": {
     "statName": "かけら強奪から防いだ数"
   },
-  "motesLost": {
-    "statNameAbbr": "ML"
+  "invasions": {
+    "statName": "侵入回数"
+  },
+  "blockerKills": {
+    "statName": "ブロッカーを倒した数"
   },
   "smallBlockersSent": {
     "statName": "小型ブロッカーを送り込んだ数"
@@ -91,10 +120,6 @@
   },
   "largeBlockersSent": {
     "statName": "大型ブロッカーを送り込んだ数"
-  },
-  "primevalDamage": {
-    "statName": "プライミーバルへのダメージ",
-    "statNameAbbr": "D"
   },
   "Medals_pvp_medal_ib_control_3a": {
     "statDescription": "チームとして、1回の狩りの間に敵を全て倒すことを少なくとも1回達成する。"
@@ -212,30 +237,5 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "スーパースキルを使ってスーパースキルを使っている敵を止める。"
-  },
-  "flawless": {
-    "statName": "不敗"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "平均 K/D"
-  },
-  "winRate": {
-    "statName": "勝率"
-  },
-  "strikeDifficulty": {
-    "statName": "難易度"
-  },
-  "currentCompetitiveRating": {
-    "statName": "現在の対戦レーティング",
-    "statNameAlt": "対戦レーティング",
-    "statDescription": "現在の対戦ランキングレート"
-  },
-  "currentEloRating": {
-    "statName": "現在のイロレーティング",
-    "statNameAlt": "イロレーティング",
-    "statDescription": "現在のイロレーティング。\n\nイロレーティングは _Destiny Tracker_からのデータです. _Destiny Tracker_ は _クルーシブル_ や _ギャンビット_ をプレイするすべてのプレイヤーにデータを提供しています。"
-  },
-  "supremacySecureRate": {
-    "statName": "防衛率"
   }
 }
