@@ -12,6 +12,7 @@ import DestinyActivityModifierDefinition from '@/src/data/manifest/en/DestinyAct
 import DestinyActivityTypeDefinition from '@/src/data/manifest/en/DestinyActivityTypeDefinition.json';
 import DestinyAmmunitionTypeDefinition from '@/src/data/manifest/en/DestinyAmmunitionTypeDefinition.json';
 import DestinyChecklistDefinition from '@/src/data/manifest/en/DestinyChecklistDefinition.json';
+import DestinyClanDefinition from '@/src/data/manifest/en/DestinyClanDefinition.json';
 import DestinyCollectibleDefinition from '@/src/data/manifest/en/DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from '@/src/data/manifest/en/DestinyDamageTypeDefinition.json';
 import DestinyDestinationDefinition from '@/src/data/manifest/en/DestinyDestinationDefinition.json';
@@ -51,6 +52,7 @@ const en = {
     DestinyActivityTypeDefinition,
     DestinyAmmunitionTypeDefinition,
     DestinyChecklistDefinition,
+    DestinyClanDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
