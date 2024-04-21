@@ -420,7 +420,8 @@
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ],
     "DestinyActivityModeDefinition.json": [
       "2486723318",
@@ -640,7 +641,8 @@
       "collection-score-rank",
       "fish-caught-rank",
       "fish-weight-rank",
-      "push-notification-event-daily-vendor-banshee44"
+      "push-notification-event-daily-vendor-banshee44",
+      "subscriber-only-features"
     ]
   },
   "es-MX": {
@@ -854,7 +856,8 @@
       "collection-score-rank",
       "fish-caught-rank",
       "fish-weight-rank",
-      "push-notification-event-daily-vendor-banshee44"
+      "push-notification-event-daily-vendor-banshee44",
+      "subscriber-only-features"
     ]
   },
   "fr": {
@@ -1185,7 +1188,8 @@
       "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ],
     "DestinyActivityModeDefinition.json": [
       "2486723318",
@@ -1542,7 +1546,13 @@
       "collection-score-rank",
       "fish-caught-rank",
       "fish-weight-rank",
-      "push-notification-event-daily-vendor-banshee44"
+      "push-notification-event-daily-vendor-banshee44",
+      "subscriber-only-features"
+    ]
+  },
+  "ja": {
+    "BraytechCommonDefinition.json": [
+      "subscriber-only-features"
     ]
   },
   "ko": {
@@ -2128,7 +2138,8 @@
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ],
     "DestinyActivityModeDefinition.json": [
       "9924991580",
@@ -2284,7 +2295,8 @@
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ]
   },
   "pt-BR": {
@@ -2428,7 +2440,8 @@
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ]
   },
   "ru": {
@@ -2931,7 +2944,8 @@
       "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ],
     "DestinyActivityModeDefinition.json": [
       "9924991580",
@@ -3125,7 +3139,8 @@
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ]
   },
   "zh-CHT": {
@@ -3373,7 +3388,8 @@
       "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
       "push-notification-event-weekly-overview",
-      "push-notification-event-this-week-at-bungie"
+      "push-notification-event-this-week-at-bungie",
+      "subscriber-only-features"
     ]
   }
 }
