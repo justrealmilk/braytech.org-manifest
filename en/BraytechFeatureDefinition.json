@@ -401,6 +401,7 @@
       "description": "Track your pursuits, including quests and bounties."
     },
     "to": "/quests/all",
+    "keywords": ["quests", "new light", "bounty", "bounties"],
     "children": {
       "views": [
         {
@@ -413,10 +414,10 @@
     "hash": "quests-bounties",
     "displayProperties": {
       "name": "Bounties",
-      "description": "All of the selected Guardian's bounties."
+      "description": "The operatives of the Tower and inhabitants sprawled accross the system have tasks for you. They offer rich experiences and other currencies for their completion.\n\nThese are all of the selected Guardian's bounties."
     },
     "to": "/quests",
-    "keywords": ["bounty"]
+    "keywords": ["bounty", "bounties"]
   },
   "activity": {
     "hash": "activity",
