@@ -313,5 +313,27 @@
   },
   "3098328572": {
     "collectibleHash": 1013990986
+  },
+  "631065801": {
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3582080006,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    }
+  },
+  "1025057518": {
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3582080006,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    }
   }
 }
