@@ -139,6 +139,12 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "Well Rested",
+      "description": "XP gains increased by 2x for your first 5 Season Ranks this week.\n\nCompleting Seasonal Challenges grants the most progress, followed by bounties and quests."
+    }
+  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Unique Weapon Kills",
