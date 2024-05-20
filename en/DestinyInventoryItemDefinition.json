@@ -61,7 +61,7 @@
   "1711513650": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly.",
-      "icon": "/static/images/extracts/ui/xp++.png"
+      "icon": "/static/images/extracts/ui/xp+++.png"
     },
     "traitIds": ["item_type.experience"]
   },
