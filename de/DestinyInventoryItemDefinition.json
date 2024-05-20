@@ -44,12 +44,6 @@
       "description": "Erhöht die Erfahrung deines Hüters."
     }
   },
-  "1950177353": {
-    "displayProperties": {
-      "name": "Erhöhte \"Herzschatten\"-Droprate",
-      "description": "Erhöht die Droprate des exotischen \"Herzschatten\"-Schwertes im \"Dualität\"-Dungeon."
-    }
-  },
   "2174060729": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters."
@@ -68,6 +62,12 @@
   "3582080006": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Wächters erheblich."
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Erhöhte \"Herzschatten\"-Droprate",
+      "description": "Erhöht die Droprate des exotischen \"Herzschatten\"-Schwertes im \"Dualität\"-Dungeon."
     }
   },
   "3491404510": {
