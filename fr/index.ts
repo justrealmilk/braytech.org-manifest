@@ -18,6 +18,7 @@ import DestinyPhaseDefinition from '@/src/data/manifest/fr/DestinyPhaseDefinitio
 import DestinyPresentationNodeDefinition from '@/src/data/manifest/fr/DestinyPresentationNodeDefinition.json';
 import DestinyRecordDefinition from '@/src/data/manifest/fr/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@/src/data/manifest/fr/DestinySeasonDefinition.json';
+import DestinySourceDefinition from '@/src/data/manifest/fr/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@/src/data/manifest/fr/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@/src/data/manifest/fr/DestinyTraitDefinition.json';
 
@@ -43,6 +44,7 @@ const fr = {
     DestinyPresentationNodeDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
+    DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
   },

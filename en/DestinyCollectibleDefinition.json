@@ -1,96 +1,153 @@
 {
   "930889102": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 2
   },
   "4137754755": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 12
   },
   "4137754752": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 12
   },
   "4137754753": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 12
   },
   "3215337910": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3232115498": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 14
   },
   "3332781245": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3282448382": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 14
   },
   "3299225966": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3399891680": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3399891683": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3399891682": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "3399891685": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 15
   },
   "1939502752": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 16
   },
   "1939502753": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 17
   },
   "1973057929": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 18
   },
   "2006613205": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 16
   },
   "2056946089": {
     "displayProperties": {
       "description": "An emblem designed as tribute to a community member past, Seraphim Crypto. You can read more about their legend in [the TWAB of September 15, 2022](https://www.bungie.net/en/Explore/Detail/News/51779)."
     },
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 18
   },
   "2040168511": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "1822059431": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "1822059430": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "1822059429": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "1822059428": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "2056946094": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 19
   },
   "1822059434": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 20
   },
   "1653841957": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 21
   },
   "1670619538": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 21
   },
   "3215337912": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 22
   },
   "1737730014": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
   },
   "1687397126": {
-    "sourceHash": 1000000001
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "802420309": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "1670619542": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "1670619543": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "1670619541": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "1670619540": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "802420307": {
+    "sourceHash": 1000000001,
+    "sourceSeason": 23
+  },
+  "1670619536": {
+    "sourceSeason": 23
   },
   "3125541837": {
     "sourceHash": 2765304727
@@ -101,28 +158,28 @@
   },
   "1469913804": {
     "displayProperties": {
-      "tip": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
+      "supplement": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
     }
   },
   "3163873693": {
     "displayProperties": {
-      "tip": "Earned by opening the \"Glittering Key\" chest."
+      "supplement": "Earned by opening the \"Glittering Key\" chest."
     }
   },
   "1246578674": {
     "displayProperties": {
-      "tip": "Earned by completing all \"Last Wish\" raid challenges."
+      "supplement": "Earned by completing all \"Last Wish\" raid challenges."
     }
   },
   "1171206946": {
     "displayProperties": {
-      "tip": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
+      "supplement": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
     },
     "sourceHash": 2455011338
   },
   "304436264": {
     "displayProperties": {
-      "tip": "Earned by completing all \"Garden of Salvation\" raid challenges."
+      "supplement": "Earned by completing all \"Garden of Salvation\" raid challenges."
     }
   },
   "3171386139": {
@@ -133,35 +190,36 @@
   },
   "304436265": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
+      "supplement": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
     }
   },
   "3938759711": {
-    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
+    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release.",
+    "sourceSeason": 8
   },
   "1988948484": {
     "sourceString": "Source: Earned by completing the \"Devine Fragmentation\" exotic quest."
   },
   "3574313939": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
+      "supplement": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "392272160": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
+      "supplement": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "2571679418": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
+      "supplement": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
     }
   },
   "2571679419": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
+      "supplement": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
     }
   },
   "2273453972": {
@@ -169,21 +227,22 @@
   },
   "958866288": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
+      "supplement": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
     }
   },
   "3568861785": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
+      "supplement": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
     }
   },
   "3568861784": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
+      "supplement": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
     }
   },
   "2172413746": {
-    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
+    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release.",
+    "sourceSeason": 14
   },
   "2584253501": {
     "sourceHash": 1000000045
@@ -195,6 +254,3077 @@
     "sourceHash": 1000000045
   },
   "2661374184": {
-    "sourceHash": 1000000046
+    "sourceHash": 1000000046,
+    "sourceSeason": 17
+  },
+  "872139466": {
+    "hash": 16122352,
+    "sourceHash": 1000000002
+  },
+  "16122352": {
+    "hash": 16122352,
+    "sourceSeason": 8
+  },
+  "22123316": {
+    "hash": 22123316,
+    "sourceSeason": 18
+  },
+  "22123317": {
+    "hash": 22123317,
+    "sourceSeason": 18
+  },
+  "93426176": {
+    "hash": 93426176,
+    "sourceSeason": 1
+  },
+  "93426184": {
+    "hash": 93426184,
+    "sourceSeason": 1
+  },
+  "93426185": {
+    "hash": 93426185,
+    "sourceSeason": 1
+  },
+  "93426186": {
+    "hash": 93426186,
+    "sourceSeason": 1
+  },
+  "101478661": {
+    "hash": 101478661,
+    "sourceSeason": 7
+  },
+  "146003512": {
+    "hash": 146003512,
+    "sourceSeason": 1
+  },
+  "201496021": {
+    "hash": 201496021,
+    "sourceSeason": 8
+  },
+  "233812647": {
+    "hash": 233812647,
+    "sourceSeason": 14
+  },
+  "237240320": {
+    "hash": 237240320,
+    "sourceSeason": 20
+  },
+  "237240321": {
+    "hash": 237240321,
+    "sourceSeason": 20
+  },
+  "242369875": {
+    "hash": 242369875,
+    "sourceSeason": 1
+  },
+  "259147456": {
+    "hash": 259147456,
+    "sourceSeason": 1
+  },
+  "259147457": {
+    "hash": 259147457,
+    "sourceSeason": 1
+  },
+  "259147458": {
+    "hash": 259147458,
+    "sourceSeason": 1
+  },
+  "259147459": {
+    "hash": 259147459,
+    "sourceSeason": 2
+  },
+  "259147460": {
+    "hash": 259147460,
+    "sourceSeason": 1
+  },
+  "259147461": {
+    "hash": 259147461,
+    "sourceSeason": 1
+  },
+  "259147462": {
+    "hash": 259147462,
+    "sourceSeason": 1
+  },
+  "259147463": {
+    "hash": 259147463,
+    "sourceSeason": 1
+  },
+  "259147471": {
+    "hash": 259147471,
+    "sourceSeason": 1
+  },
+  "276336069": {
+    "hash": 276336069,
+    "sourceSeason": 4
+  },
+  "292635426": {
+    "hash": 292635426,
+    "sourceSeason": 8
+  },
+  "292635427": {
+    "hash": 292635427,
+    "sourceSeason": 8
+  },
+  "319846607": {
+    "hash": 319846607,
+    "sourceSeason": 4
+  },
+  "326386367": {
+    "hash": 326386367,
+    "sourceSeason": 15
+  },
+  "357310624": {
+    "hash": 357310624,
+    "sourceSeason": 8
+  },
+  "357310625": {
+    "hash": 357310625,
+    "sourceSeason": 7
+  },
+  "357310626": {
+    "hash": 357310626,
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "651647952": {
+    "hash": 651647952,
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "651647961": {
+    "hash": 651647961,
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "2040168498": {
+    "hash": 2040168498,
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "3784629919": {
+    "hash": 3784629919,
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "357310627": {
+    "hash": 357310627,
+    "sourceSeason": 8
+  },
+  "357310628": {
+    "hash": 357310628,
+    "sourceHash": 1000000012,
+    "sourceSeason": 7
+  },
+  "357310629": {
+    "hash": 357310629,
+    "sourceHash": 1000000012,
+    "sourceSeason": 7
+  },
+  "357310630": {
+    "hash": 357310630,
+    "sourceHash": 1000000012,
+    "sourceSeason": 10
+  },
+  "357310631": {
+    "hash": 357310631,
+    "sourceHash": 1000000012,
+    "sourceSeason": 10
+  },
+  "357310634": {
+    "hash": 357310634,
+    "sourceHash": 1000000007,
+    "sourceSeason": 8
+  },
+  "357310635": {
+    "hash": 357310635,
+    "sourceSeason": 7
+  },
+  "371717400": {
+    "hash": 371717400,
+    "sourceSeason": 14
+  },
+  "476457525": {
+    "hash": 476457525,
+    "sourceSeason": 4
+  },
+  "542024384": {
+    "hash": 542024384,
+    "sourceSeason": 13
+  },
+  "542024385": {
+    "hash": 542024385,
+    "sourceSeason": 13
+  },
+  "542024388": {
+    "hash": 542024388,
+    "sourceSeason": 13
+  },
+  "542024390": {
+    "hash": 542024390,
+    "sourceSeason": 13
+  },
+  "542024391": {
+    "hash": 542024391,
+    "sourceSeason": 15
+  },
+  "542024393": {
+    "hash": 542024393,
+    "sourceSeason": 13
+  },
+  "568187328": {
+    "hash": 568187328,
+    "sourceSeason": 4
+  },
+  "568187329": {
+    "hash": 568187329,
+    "sourceSeason": 4
+  },
+  "637021670": {
+    "hash": 637021670,
+    "sourceSeason": 3
+  },
+  "637021671": {
+    "hash": 637021671,
+    "sourceSeason": 1
+  },
+  "651647954": {
+    "hash": 651647954,
+    "displayProperties": {
+      "supplement": "Collect both **Crimson Days** sparrows."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 9
+  },
+  "651647955": {
+    "hash": 651647955,
+    "sourceSeason": 12
+  },
+  "651647956": {
+    "hash": 651647956,
+    "sourceSeason": 11
+  },
+  "651647957": {
+    "hash": 651647957,
+    "sourceSeason": 8
+  },
+  "651647958": {
+    "hash": 651647958,
+    "sourceHash": 1000000012,
+    "sourceSeason": 10
+  },
+  "651647959": {
+    "hash": 651647959,
+    "displayProperties": {
+      "supplement": "Complete the **Triumph Master** Triumph during Moments of Triumph 2020."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 8
+  },
+  "651647960": {
+    "hash": 651647960,
+    "sourceHash": 1000000012,
+    "sourceSeason": 9
+  },
+  "668425536": {
+    "hash": 668425536,
+    "sourceHash": 1000000012,
+    "sourceSeason": 8
+  },
+  "668425537": {
+    "hash": 668425537,
+    "sourceHash": 1000000012,
+    "sourceSeason": 11
+  },
+  "668425539": {
+    "hash": 668425539,
+    "sourceSeason": 8
+  },
+  "668425540": {
+    "hash": 668425540,
+    "sourceHash": 1000000012,
+    "sourceSeason": 11
+  },
+  "668425541": {
+    "hash": 668425541,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "668425542": {
+    "hash": 668425542,
+    "sourceHash": 1000000012,
+    "sourceSeason": 11
+  },
+  "668425543": {
+    "hash": 668425543,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "668425547": {
+    "hash": 668425547,
+    "displayProperties": {
+      "supplement": "Complete the quest for Festival of the Lost 2020."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 11
+  },
+  "689172690": {
+    "hash": 689172690,
+    "sourceSeason": 1
+  },
+  "689172691": {
+    "hash": 689172691,
+    "sourceSeason": 1
+  },
+  "689172698": {
+    "hash": 689172698,
+    "sourceSeason": 2
+  },
+  "689172701": {
+    "hash": 689172701,
+    "sourceSeason": 1
+  },
+  "701980832": {
+    "hash": 701980832,
+    "sourceHash": 1000000011,
+    "sourceSeason": 8
+  },
+  "701980833": {
+    "hash": 701980833,
+    "sourceHash": 1000000002,
+    "sourceSeason": 23
+  },
+  "701980840": {
+    "hash": 701980840,
+    "sourceSeason": 8,
+    "sourceHash": 1000000005
+  },
+  "701980841": {
+    "hash": 701980841,
+    "sourceSeason": 7
+  },
+  "701980842": {
+    "hash": 701980842,
+    "sourceHash": 1000000010,
+    "sourceSeason": 7
+  },
+  "701980843": {
+    "hash": 701980843,
+    "sourceSeason": 8,
+    "sourceHash": 1000000004
+  },
+  "701980844": {
+    "hash": 701980844,
+    "sourceHash": 1000000002,
+    "sourceSeason": 9
+  },
+  "701980845": {
+    "hash": 701980845,
+    "sourceHash": 1000000002,
+    "sourceSeason": 12
+  },
+  "701980846": {
+    "hash": 701980846,
+    "displayProperties": {
+      "supplement": "Complete the **Triumph Apprentice** Triumph during Moments of Triumph 2020."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 11
+  },
+  "701980847": {
+    "hash": 701980847,
+    "sourceSeason": 7
+  },
+  "728274839": {
+    "hash": 728274839,
+    "sourceSeason": 8
+  },
+  "735382581": {
+    "hash": 735382581,
+    "sourceSeason": 21
+  },
+  "735382582": {
+    "hash": 735382582,
+    "sourceSeason": 22
+  },
+  "746187028": {
+    "hash": 746187028,
+    "sourceSeason": 3
+  },
+  "746202320": {
+    "hash": 746202320,
+    "sourceSeason": 7,
+    "sourceHash": 1000000006
+  },
+  "783628742": {
+    "hash": 783628742,
+    "sourceSeason": 11
+  },
+  "802420308": {
+    "hash": 802420308,
+    "displayProperties": {
+      "supplement": "In recognition of completing the **Gold** Event Challenge during Guardian Games All-Stars."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 23
+  },
+  "802420311": {
+    "hash": 802420311,
+    "sourceSeason": 23,
+    "sourceHash": 1000000002
+  },
+  "847533990": {
+    "hash": 847533990,
+    "sourceSeason": 11
+  },
+  "847533991": {
+    "hash": 847533991,
+    "sourceSeason": 11
+  },
+  "847533997": {
+    "hash": 847533997,
+    "sourceSeason": 11
+  },
+  "847533998": {
+    "hash": 847533998,
+    "sourceSeason": 11
+  },
+  "894582159": {
+    "hash": 894582159,
+    "sourceSeason": 12
+  },
+  "930889090": {
+    "hash": 930889090,
+    "sourceHash": 1000000012,
+    "sourceSeason": 3
+  },
+  "930889091": {
+    "hash": 930889091,
+    "sourceSeason": 2
+  },
+  "930889096": {
+    "hash": 930889096,
+    "sourceSeason": 3
+  },
+  "930889097": {
+    "hash": 930889097,
+    "sourceHash": 1000000000,
+    "sourceSeason": 1
+  },
+  "930889098": {
+    "hash": 930889098,
+    "sourceHash": 1000000047,
+    "sourceSeason": 1
+  },
+  "930889099": {
+    "hash": 930889099,
+    "sourceSeason": 1
+  },
+  "930889100": {
+    "hash": 930889100,
+    "sourceHash": 1000000012,
+    "sourceSeason": 1
+  },
+  "930889101": {
+    "hash": 930889101,
+    "sourceSeason": 2
+  },
+  "930889103": {
+    "hash": 930889103,
+    "sourceSeason": 1
+  },
+  "935717664": {
+    "hash": 935717664,
+    "sourceSeason": 6
+  },
+  "935717665": {
+    "hash": 935717665,
+    "sourceSeason": 6
+  },
+  "935717666": {
+    "hash": 935717666,
+    "sourceSeason": 6
+  },
+  "935717667": {
+    "hash": 935717667,
+    "sourceSeason": 6
+  },
+  "948274536": {
+    "hash": 948274536,
+    "sourceSeason": 3
+  },
+  "1089138346": {
+    "hash": 1089138346,
+    "sourceSeason": 13
+  },
+  "1098033985": {
+    "hash": 1098033985,
+    "sourceSeason": 5
+  },
+  "1098033986": {
+    "hash": 1098033986,
+    "sourceSeason": 5
+  },
+  "1098033987": {
+    "hash": 1098033987,
+    "sourceSeason": 5
+  },
+  "1133078177": {
+    "hash": 1133078177,
+    "sourceSeason": 11
+  },
+  "1133078179": {
+    "hash": 1133078179,
+    "sourceSeason": 11
+  },
+  "1134183752": {
+    "hash": 1134183752,
+    "sourceSeason": 2
+  },
+  "1134183753": {
+    "hash": 1134183753,
+    "sourceSeason": 2
+  },
+  "1134183754": {
+    "hash": 1134183754,
+    "sourceSeason": 2
+  },
+  "1162096751": {
+    "hash": 1162096751,
+    "sourceSeason": 1
+  },
+  "1176046832": {
+    "hash": 1176046832,
+    "sourceSeason": 1
+  },
+  "1176046833": {
+    "hash": 1176046833,
+    "sourceSeason": 1
+  },
+  "1176046834": {
+    "hash": 1176046834,
+    "sourceSeason": 1
+  },
+  "1176046835": {
+    "hash": 1176046835,
+    "sourceSeason": 1
+  },
+  "1176046836": {
+    "hash": 1176046836,
+    "sourceSeason": 1
+  },
+  "1176046837": {
+    "hash": 1176046837,
+    "sourceSeason": 1
+  },
+  "1176046838": {
+    "hash": 1176046838,
+    "sourceSeason": 1
+  },
+  "1176046839": {
+    "hash": 1176046839,
+    "sourceSeason": 1
+  },
+  "1176046842": {
+    "hash": 1176046842,
+    "sourceSeason": 1
+  },
+  "1176046843": {
+    "hash": 1176046843,
+    "sourceSeason": 1
+  },
+  "1194028860": {
+    "hash": 1194028860,
+    "sourceSeason": 14
+  },
+  "1197784686": {
+    "hash": 1197784686,
+    "sourceSeason": 4
+  },
+  "1242690193": {
+    "hash": 1242690193,
+    "sourceSeason": 7
+  },
+  "1242690194": {
+    "hash": 1242690194,
+    "sourceSeason": 7
+  },
+  "1242690195": {
+    "hash": 1242690195,
+    "sourceSeason": 7
+  },
+  "1242690197": {
+    "hash": 1242690197,
+    "sourceSeason": 7
+  },
+  "1300941944": {
+    "hash": 1300941944,
+    "sourceSeason": 1
+  },
+  "1300941945": {
+    "hash": 1300941945,
+    "sourceSeason": 1
+  },
+  "1300941946": {
+    "hash": 1300941946,
+    "sourceSeason": 1
+  },
+  "1300941947": {
+    "hash": 1300941947,
+    "sourceSeason": 1
+  },
+  "1300941948": {
+    "hash": 1300941948,
+    "sourceSeason": 1
+  },
+  "1300941949": {
+    "hash": 1300941949,
+    "sourceSeason": 1
+  },
+  "1300941950": {
+    "hash": 1300941950,
+    "sourceSeason": 1
+  },
+  "1300941951": {
+    "hash": 1300941951,
+    "sourceSeason": 1
+  },
+  "1335453328": {
+    "hash": 1335453328,
+    "sourceSeason": 4
+  },
+  "1335453329": {
+    "hash": 1335453329,
+    "sourceSeason": 4
+  },
+  "1351742164": {
+    "hash": 1351742164,
+    "sourceSeason": 4
+  },
+  "1351742165": {
+    "hash": 1351742165,
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "1351742168": {
+    "hash": 1351742168,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "1351742169": {
+    "hash": 1351742169,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "1351742170": {
+    "hash": 1351742170,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "1351742171": {
+    "hash": 1351742171,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "1351742172": {
+    "hash": 1351742172,
+    "sourceSeason": 4
+  },
+  "1351742173": {
+    "hash": 1351742173,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "1351742174": {
+    "hash": 1351742174,
+    "displayProperties": {
+      "supplement": "Complete the Triumph **Super Celebratory** during The Revelry 2019."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 4
+  },
+  "1351742175": {
+    "hash": 1351742175,
+    "sourceSeason": 4
+  },
+  "1387277884": {
+    "hash": 1387277884,
+    "sourceSeason": 4
+  },
+  "1387277885": {
+    "hash": 1387277885,
+    "sourceSeason": 4
+  },
+  "1431654245": {
+    "hash": 1431654245,
+    "sourceSeason": 1
+  },
+  "1451439159": {
+    "hash": 1451439159,
+    "sourceSeason": 4
+  },
+  "1463718182": {
+    "hash": 1463718182,
+    "sourceSeason": 1
+  },
+  "1463718183": {
+    "hash": 1463718183,
+    "sourceSeason": 2
+  },
+  "1463718186": {
+    "hash": 1463718186,
+    "sourceSeason": 1
+  },
+  "1463718189": {
+    "hash": 1463718189,
+    "sourceSeason": 1
+  },
+  "1478427098": {
+    "hash": 1478427098,
+    "sourceSeason": 4
+  },
+  "1478427099": {
+    "hash": 1478427099,
+    "sourceSeason": 4
+  },
+  "1483367465": {
+    "hash": 1483367465,
+    "sourceSeason": 7
+  },
+  "1489018577": {
+    "hash": 1489018577,
+    "sourceSeason": 1
+  },
+  "1489018578": {
+    "hash": 1489018578,
+    "sourceSeason": 1
+  },
+  "1489018579": {
+    "hash": 1489018579,
+    "sourceSeason": 1
+  },
+  "1539334774": {
+    "hash": 1539334774,
+    "sourceSeason": 8
+  },
+  "1556339008": {
+    "hash": 1556339008,
+    "sourceSeason": 23
+  },
+  "1556339009": {
+    "hash": 1556339009,
+    "sourceSeason": 23
+  },
+  "1568321566": {
+    "hash": 1568321566,
+    "sourceSeason": 4
+  },
+  "1577302303": {
+    "hash": 1577302303,
+    "sourceSeason": 3
+  },
+  "1653841952": {
+    "hash": 1653841952,
+    "sourceHash": 1000000009,
+    "sourceSeason": 20
+  },
+  "1653841953": {
+    "hash": 1653841953,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1653841954": {
+    "hash": 1653841954,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1653841955": {
+    "hash": 1653841955,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1653841956": {
+    "hash": 1653841956,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1653841958": {
+    "hash": 1653841958,
+    "sourceHash": 1000000013,
+    "sourceSeason": 21
+  },
+  "1653841959": {
+    "hash": 1653841959,
+    "sourceSeason": 22,
+    "sourceHash": 1000000005
+  },
+  "1653841960": {
+    "hash": 1653841960,
+    "sourceSeason": 22,
+    "sourceHash": 1000000004
+  },
+  "1653841961": {
+    "hash": 1653841961,
+    "sourceSeason": 22,
+    "sourceHash": 1000000006
+  },
+  "1670619537": {
+    "hash": 1670619537,
+    "sourceHash": 1000000013,
+    "sourceSeason": 22
+  },
+  "1670619539": {
+    "hash": 1670619539,
+    "sourceHash": 1000000012,
+    "sourceSeason": 20
+  },
+  "1670619546": {
+    "hash": 1670619546,
+    "sourceHash": 1000000012,
+    "sourceSeason": 22
+  },
+  "1670619547": {
+    "hash": 1670619547,
+    "sourceHash": 1000000013,
+    "sourceSeason": 23
+  },
+  "1687023288": {
+    "hash": 1687023288,
+    "sourceSeason": 1
+  },
+  "1687397122": {
+    "hash": 1687397122,
+    "sourceSeason": 22
+  },
+  "1687397125": {
+    "hash": 1687397125,
+    "sourceSeason": 23,
+    "sourceHash": 1000000002
+  },
+  "1687397127": {
+    "hash": 1687397127,
+    "sourceHash": 1000000012,
+    "sourceSeason": 22
+  },
+  "1704174832": {
+    "hash": 1704174832,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1704174833": {
+    "hash": 1704174833,
+    "sourceSeason": 22,
+    "sourceHash": 1000000002
+  },
+  "1704174842": {
+    "hash": 1704174842,
+    "sourceHash": 1000000012,
+    "sourceSeason": 22
+  },
+  "1704174844": {
+    "hash": 1704174844,
+    "sourceHash": 1000000012,
+    "sourceSeason": 22
+  },
+  "1704174845": {
+    "hash": 1704174845,
+    "sourceHash": 1000000012,
+    "sourceSeason": 23
+  },
+  "1704174847": {
+    "hash": 1704174847,
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Crota's End raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 22
+  },
+  "1720952420": {
+    "hash": 1720952420,
+    "displayProperties": {
+      "supplement": "In recognition of completing the **MMXXIII** Title."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 23
+  },
+  "1720952421": {
+    "hash": 1720952421,
+    "sourceHash": 1000000002,
+    "sourceSeason": 23
+  },
+  "1720952424": {
+    "hash": 1720952424,
+    "sourceSeason": 21
+  },
+  "1720952425": {
+    "hash": 1720952425,
+    "displayProperties": {
+      "supplement": "Watch a participating stream for 2 hours during the Twitch Rivals event."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 22
+  },
+  "1720952426": {
+    "hash": 1720952426,
+    "sourceSeason": 22
+  },
+  "1720952427": {
+    "hash": 1720952427,
+    "sourceHash": 1000000012,
+    "sourceSeason": 22
+  },
+  "1720952428": {
+    "hash": 1720952428,
+    "sourceHash": 1000000009,
+    "sourceSeason": 22
+  },
+  "1720952429": {
+    "hash": 1720952429,
+    "sourceSeason": 22
+  },
+  "1737730015": {
+    "hash": 1737730015,
+    "sourceSeason": 22
+  },
+  "1787296744": {
+    "hash": 1787296744,
+    "sourceSeason": 1
+  },
+  "1787296745": {
+    "hash": 1787296745,
+    "sourceSeason": 1
+  },
+  "1787296747": {
+    "hash": 1787296747,
+    "sourceSeason": 1
+  },
+  "1805281840": {
+    "hash": 1805281840,
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 20
+  },
+  "1805281841": {
+    "hash": 1805281841,
+    "sourceSeason": 20,
+    "sourceHash": 1000000002
+  },
+  "1805281842": {
+    "hash": 1805281842,
+    "sourceHash": 1000000010,
+    "sourceSeason": 23
+  },
+  "1805281843": {
+    "hash": 1805281843,
+    "sourceSeason": 20,
+    "sourceHash": 1000000002
+  },
+  "1805281844": {
+    "hash": 1805281844,
+    "displayProperties": {
+      "supplement": "Awarded for buying specific Guardians Games 2023 items from the Bungie Store."
+    },
+    "sourceHash": 1000000012,
+    "sourceSeason": 20
+  },
+  "1805281845": {
+    "hash": 1805281845,
+    "sourceHash": 1000000012,
+    "sourceSeason": 19
+  },
+  "1805281846": {
+    "hash": 1805281846,
+    "sourceHash": 1000000012,
+    "sourceSeason": 19
+  },
+  "1805281848": {
+    "hash": 1805281848,
+    "displayProperties": {
+      "supplement": "Give 20 commendations during Season of Defiance."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 19
+  },
+  "1805281849": {
+    "hash": 1805281849,
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Root of Nightmares raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 20
+  },
+  "1811707809": {
+    "hash": 1811707809,
+    "sourceSeason": 9
+  },
+  "1822059424": {
+    "hash": 1822059424,
+    "sourceSeason": 19
+  },
+  "1822059425": {
+    "hash": 1822059425,
+    "displayProperties": {
+      "supplement": "Purchase the **Archangel Dog Plush** item from the Bungie Store. This item is no longer available from the Bungie Store."
+    },
+    "sourceHash": 1000000012,
+    "sourceSeason": 19
+  },
+  "1822059426": {
+    "hash": 1822059426,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "1822059427": {
+    "hash": 1822059427,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "1822059435": {
+    "hash": 1822059435,
+    "sourceHash": 1000000013,
+    "sourceSeason": 20
+  },
+  "1822110016": {
+    "hash": 1822110016,
+    "sourceSeason": 1
+  },
+  "1822110017": {
+    "hash": 1822110017,
+    "sourceSeason": 1
+  },
+  "1838209643": {
+    "hash": 1838209643,
+    "sourceSeason": 4
+  },
+  "1846254704": {
+    "hash": 1846254704,
+    "sourceSeason": 1
+  },
+  "1846254705": {
+    "hash": 1846254705,
+    "sourceSeason": 1
+  },
+  "1846254706": {
+    "hash": 1846254706,
+    "sourceSeason": 1
+  },
+  "1846254707": {
+    "hash": 1846254707,
+    "sourceSeason": 1
+  },
+  "1846254708": {
+    "hash": 1846254708,
+    "sourceSeason": 1
+  },
+  "1846254709": {
+    "hash": 1846254709,
+    "sourceSeason": 1
+  },
+  "1846254710": {
+    "hash": 1846254710,
+    "sourceSeason": 1
+  },
+  "1846254711": {
+    "hash": 1846254711,
+    "sourceSeason": 1
+  },
+  "1846254716": {
+    "hash": 1846254716,
+    "sourceSeason": 1
+  },
+  "1846254717": {
+    "hash": 1846254717,
+    "sourceSeason": 1
+  },
+  "1895171074": {
+    "hash": 1895171074,
+    "sourceSeason": 4
+  },
+  "1895171075": {
+    "hash": 1895171075,
+    "sourceSeason": 4
+  },
+  "1939502760": {
+    "hash": 1939502760,
+    "sourceHash": 1000000009,
+    "sourceSeason": 15
+  },
+  "1939502762": {
+    "hash": 1939502762,
+    "sourceSeason": 18,
+    "sourceHash": 1000000004
+  },
+  "1939502763": {
+    "hash": 1939502763,
+    "sourceSeason": 16
+  },
+  "1939502764": {
+    "hash": 1939502764,
+    "sourceSeason": 16
+  },
+  "1939502765": {
+    "hash": 1939502765,
+    "displayProperties": {
+      "supplement": "In recognition of completing all Season 17 Week 1 Seasonal Challenges."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "1939502766": {
+    "hash": 1939502766,
+    "displayProperties": {
+      "supplement": "Obtain the exotic auto rifle **Quicksilver Storm** by preordering the Lightfall + Annual Pass bundle."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "1956280338": {
+    "hash": 1956280338,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "1956280344": {
+    "hash": 1956280344,
+    "displayProperties": {
+      "supplement": "During Season of Plunder, earn 7,777 Arc final blows."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "1956280345": {
+    "hash": 1956280345,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 20
+  },
+  "1956280346": {
+    "hash": 1956280346,
+    "sourceSeason": 15
+  },
+  "1956280347": {
+    "hash": 1956280347,
+    "sourceSeason": 15
+  },
+  "1956280348": {
+    "hash": 1956280348,
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Vow of the Disciple raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "1956280349": {
+    "hash": 1956280349,
+    "displayProperties": {
+      "supplement": "Awarded to the community for 77,000 votes in the first 48 hours of voting for a Trials map."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "1956280350": {
+    "hash": 1956280350,
+    "displayProperties": {
+      "supplement": "Complete all Master Challenges in Vow of the Disciple."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "1956280351": {
+    "hash": 1956280351,
+    "displayProperties": {
+      "supplement": "Complete The Witch campaign."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "1973057926": {
+    "hash": 1973057926,
+    "displayProperties": {
+      "supplement": "During Solstice 2022, complete the **Bashing Success** triumph."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "1973057927": {
+    "hash": 1973057927,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "1973057928": {
+    "hash": 1973057928,
+    "sourceSeason": 18,
+    "sourceHash": 1000000006
+  },
+  "1973057930": {
+    "hash": 1973057930,
+    "sourceSeason": 17,
+    "sourceHash": 1000000005
+  },
+  "1973057931": {
+    "hash": 1973057931,
+    "sourceSeason": 17,
+    "sourceHash": 1000000004
+  },
+  "1973057932": {
+    "hash": 1973057932,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "1973057933": {
+    "hash": 1973057933,
+    "sourceSeason": 17
+  },
+  "1973057935": {
+    "hash": 1973057935,
+    "sourceHash": 1000000013,
+    "sourceSeason": 17
+  },
+  "1989835616": {
+    "hash": 1989835616,
+    "sourceHash": 1000000013,
+    "sourceSeason": 16
+  },
+  "1989835617": {
+    "hash": 1989835617,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "1989835618": {
+    "hash": 1989835618,
+    "sourceSeason": 16,
+    "sourceHash": 1000000002
+  },
+  "1989835620": {
+    "hash": 1989835620,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "1989835621": {
+    "hash": 1989835621,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "1989835622": {
+    "hash": 1989835622,
+    "sourceSeason": 20
+  },
+  "1989835623": {
+    "hash": 1989835623,
+    "sourceSeason": 18
+  },
+  "1989835624": {
+    "hash": 1989835624,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "1989835625": {
+    "hash": 1989835625,
+    "sourceSeason": 17
+  },
+  "1995775895": {
+    "hash": 1995775895,
+    "sourceHash": 1000000011,
+    "sourceSeason": 3
+  },
+  "2006613200": {
+    "hash": 2006613200,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "2006613201": {
+    "hash": 2006613201,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "2006613202": {
+    "hash": 2006613202,
+    "displayProperties": {
+      "supplement": "Purchase the **Up My Sleeve** finisher from the Eververse Store."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "2006613203": {
+    "hash": 2006613203,
+    "displayProperties": {
+      "supplement": "Complete the King's Fall raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "2006613204": {
+    "hash": 2006613204,
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
+  },
+  "2006613206": {
+    "hash": 2006613206,
+    "sourceHash": 1000000013,
+    "sourceSeason": 18
+  },
+  "2006613207": {
+    "hash": 2006613207,
+    "displayProperties": {
+      "supplement": "Watch at least 30 minutes of the Bungie Showcase on Twitch."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 17
+  },
+  "2006613213": {
+    "hash": 2006613213,
+    "displayProperties": {
+      "supplement": "In recognition of unlocking Bookworm I, in the Tales of the Forgotten - Vol. 2. during Festival of the Lost."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "2023390784": {
+    "hash": 2023390784,
+    "sourceSeason": 18
+  },
+  "2023390785": {
+    "hash": 2023390785,
+    "displayProperties": {
+      "supplement": "Awarded for purchasing promotional Guardian Games 2022 items from the Bungie Store."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "2023390786": {
+    "hash": 2023390786,
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
+  },
+  "2023390787": {
+    "hash": 2023390787,
+    "sourceHash": 1000000012,
+    "sourceSeason": 16
+  },
+  "2023390788": {
+    "hash": 2023390788,
+    "sourceHash": 1000000013,
+    "sourceSeason": 19
+  },
+  "2023390789": {
+    "hash": 2023390789,
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "2023390790": {
+    "hash": 2023390790,
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
+  },
+  "2023390791": {
+    "hash": 2023390791,
+    "displayProperties": {
+      "supplement": "During Season of the Haunted, earn 7,777 Solar final blows."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 17
+  },
+  "2023390798": {
+    "hash": 2023390798,
+    "sourceSeason": 17
+  },
+  "2023390799": {
+    "hash": 2023390799,
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
+  },
+  "2034908838": {
+    "hash": 2034908838,
+    "sourceSeason": 2
+  },
+  "2034908839": {
+    "hash": 2034908839,
+    "sourceSeason": 2
+  },
+  "2040168499": {
+    "hash": 2040168499,
+    "sourceSeason": 19
+  },
+  "2040168504": {
+    "hash": 2040168504,
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "2040168505": {
+    "hash": 2040168505,
+    "sourceSeason": 19
+  },
+  "2040168506": {
+    "hash": 2040168506,
+    "displayProperties": {
+      "supplement": "Purchase the Whirling Chaos finisher."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 20
+  },
+  "2040168507": {
+    "hash": 2040168507,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "2040168510": {
+    "hash": 2040168510,
+    "sourceHash": 1000000009,
+    "sourceSeason": 23
+  },
+  "2056946085": {
+    "hash": 2056946085,
+    "displayProperties": {
+      "supplement": "Complete The Dawning 2022 triumph **Frozen Doom**."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 19
+  },
+  "2056946092": {
+    "hash": 2056946092,
+    "sourceSeason": 17
+  },
+  "2056946093": {
+    "hash": 2056946093,
+    "sourceHash": 1000000012,
+    "sourceSeason": 17
+  },
+  "2056946095": {
+    "hash": 2056946095,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "2119243634": {
+    "hash": 2119243634,
+    "sourceSeason": 5
+  },
+  "2119243635": {
+    "hash": 2119243635,
+    "sourceSeason": 5
+  },
+  "2123446144": {
+    "hash": 2123446144,
+    "sourceSeason": 6
+  },
+  "2169466570": {
+    "hash": 2169466570,
+    "sourceSeason": 1
+  },
+  "2169466571": {
+    "hash": 2169466571,
+    "sourceSeason": 1
+  },
+  "2173949005": {
+    "hash": 2173949005,
+    "sourceSeason": 18
+  },
+  "2195312816": {
+    "hash": 2195312816,
+    "sourceSeason": 9
+  },
+  "2195312817": {
+    "sourceHash": 1000000002,
+    "sourceSeason": 9
+  },
+  "2195312824": {
+    "sourceHash": 1000000004,
+    "sourceSeason": 9
+  },
+  "2195312826": {
+    "hash": 2195312826,
+    "sourceSeason": 9
+  },
+  "2206107764": {
+    "hash": 2206107764,
+    "sourceSeason": 1
+  },
+  "2206107765": {
+    "hash": 2206107765,
+    "sourceSeason": 1
+  },
+  "2237933808": {
+    "hash": 2237933808,
+    "sourceSeason": 3
+  },
+  "2237933809": {
+    "hash": 2237933809,
+    "sourceSeason": 3
+  },
+  "2237933810": {
+    "hash": 2237933810,
+    "sourceSeason": 1
+  },
+  "2237933811": {
+    "hash": 2237933811,
+    "sourceSeason": 1
+  },
+  "2237933812": {
+    "hash": 2237933812,
+    "sourceSeason": 1
+  },
+  "2237933814": {
+    "hash": 2237933814,
+    "sourceSeason": 1
+  },
+  "2237933815": {
+    "hash": 2237933815,
+    "sourceSeason": 1
+  },
+  "2237933817": {
+    "hash": 2237933817,
+    "sourceSeason": 2
+  },
+  "2242184254": {
+    "hash": 2242184254,
+    "sourceSeason": 6
+  },
+  "2242184255": {
+    "hash": 2242184255,
+    "sourceSeason": 6
+  },
+  "2256440516": {
+    "hash": 2256440516,
+    "sourceSeason": 1
+  },
+  "2261415553": {
+    "hash": 2261415553,
+    "sourceSeason": 17
+  },
+  "2261415558": {
+    "hash": 2261415558,
+    "sourceSeason": 17
+  },
+  "2273453973": {
+    "hash": 2273453973,
+    "sourceSeason": 12
+  },
+  "2278689936": {
+    "hash": 2278689936,
+    "sourceSeason": 9
+  },
+  "2278689942": {
+    "hash": 2278689942,
+    "sourceSeason": 9
+  },
+  "2292889986": {
+    "hash": 2292889986,
+    "sourceSeason": 3
+  },
+  "2300515067": {
+    "hash": 2300515067,
+    "sourceSeason": 3
+  },
+  "2333638026": {
+    "hash": 2333638026,
+    "sourceSeason": 1
+  },
+  "2335872992": {
+    "hash": 2335872992,
+    "sourceSeason": 1
+  },
+  "2335872993": {
+    "hash": 2335872993,
+    "sourceSeason": 1
+  },
+  "2335872994": {
+    "hash": 2335872994,
+    "sourceSeason": 1
+  },
+  "2335872995": {
+    "hash": 2335872995,
+    "sourceSeason": 1
+  },
+  "2363142033": {
+    "hash": 2363142033,
+    "sourceSeason": 11
+  },
+  "2363142034": {
+    "hash": 2363142034,
+    "sourceSeason": 11
+  },
+  "2393580568": {
+    "hash": 2393580568,
+    "sourceSeason": 15
+  },
+  "2393580575": {
+    "hash": 2393580575,
+    "sourceSeason": 15
+  },
+  "2407212682": {
+    "hash": 2407212682,
+    "sourceSeason": 4
+  },
+  "2507367212": {
+    "hash": 2507367212,
+    "sourceSeason": 22
+  },
+  "2507367214": {
+    "hash": 2507367214,
+    "sourceSeason": 23
+  },
+  "2529229356": {
+    "hash": 2529229356,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 11
+  },
+  "2532590120": {
+    "hash": 2532590120,
+    "sourceSeason": 1
+  },
+  "2532590121": {
+    "hash": 2532590121,
+    "sourceSeason": 1
+  },
+  "2532590122": {
+    "hash": 2532590122,
+    "sourceSeason": 1
+  },
+  "2532590123": {
+    "hash": 2532590123,
+    "sourceSeason": 1
+  },
+  "2538385076": {
+    "hash": 2538385076,
+    "sourceSeason": 8
+  },
+  "2561756669": {
+    "hash": 2561756669,
+    "sourceSeason": 16
+  },
+  "2561756670": {
+    "hash": 2561756670,
+    "sourceSeason": 16
+  },
+  "2572095570": {
+    "hash": 2572095570,
+    "sourceSeason": 21
+  },
+  "2588450696": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450697": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450699": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450700": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450701": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450702": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2588450703": {
+    "sourceHash": 1000000003,
+    "sourceSeason": 1
+  },
+  "2606379132": {
+    "hash": 2606379132,
+    "sourceSeason": 22
+  },
+  "2606379133": {
+    "hash": 2606379133,
+    "sourceSeason": 22
+  },
+  "2648203364": {
+    "hash": 2648203364,
+    "sourceSeason": 1
+  },
+  "2648203365": {
+    "hash": 2648203365,
+    "sourceSeason": 1
+  },
+  "2648203366": {
+    "hash": 2648203366,
+    "sourceSeason": 1
+  },
+  "2648203367": {
+    "hash": 2648203367,
+    "sourceSeason": 1
+  },
+  "2653720572": {
+    "hash": 2653720572,
+    "sourceSeason": 1
+  },
+  "2653720575": {
+    "hash": 2653720575,
+    "sourceSeason": 4
+  },
+  "2670498157": {
+    "hash": 2670498157,
+    "sourceSeason": 3
+  },
+  "2677982416": {
+    "hash": 2677982416,
+    "sourceSeason": 1
+  },
+  "2677982417": {
+    "hash": 2677982417,
+    "sourceSeason": 1
+  },
+  "2677982418": {
+    "hash": 2677982418,
+    "sourceSeason": 1
+  },
+  "2677982419": {
+    "hash": 2677982419,
+    "sourceSeason": 1
+  },
+  "2682678288": {
+    "hash": 2682678288,
+    "sourceSeason": 5
+  },
+  "2691646944": {
+    "hash": 2691646944,
+    "sourceSeason": 3
+  },
+  "2691646945": {
+    "hash": 2691646945,
+    "sourceSeason": 3
+  },
+  "2691646946": {
+    "hash": 2691646946,
+    "sourceSeason": 3
+  },
+  "2691646947": {
+    "hash": 2691646947,
+    "sourceSeason": 3
+  },
+  "2691646948": {
+    "hash": 2691646948,
+    "sourceSeason": 3
+  },
+  "2691646949": {
+    "hash": 2691646949,
+    "sourceSeason": 3
+  },
+  "2691646950": {
+    "hash": 2691646950,
+    "sourceSeason": 3
+  },
+  "2704053436": {
+    "hash": 2704053436,
+    "sourceSeason": 1
+  },
+  "2712527116": {
+    "hash": 2712527116,
+    "sourceSeason": 15
+  },
+  "2726742372": {
+    "hash": 2726742372,
+    "sourceSeason": 13
+  },
+  "2742642948": {
+    "hash": 2742642948,
+    "sourceSeason": 21
+  },
+  "2742642951": {
+    "hash": 2742642951,
+    "sourceSeason": 21
+  },
+  "2753179024": {
+    "hash": 2753179024,
+    "sourceSeason": 19
+  },
+  "2762876622": {
+    "hash": 2762876622,
+    "sourceSeason": 9
+  },
+  "2772514118": {
+    "hash": 2772514118,
+    "sourceSeason": 18
+  },
+  "2772514119": {
+    "hash": 2772514119,
+    "sourceSeason": 19
+  },
+  "2793059358": {
+    "hash": 2793059358,
+    "sourceSeason": 19
+  },
+  "2793059359": {
+    "hash": 2793059359,
+    "sourceSeason": 19
+  },
+  "2800189091": {
+    "hash": 2800189091,
+    "sourceSeason": 4
+  },
+  "2836000817": {
+    "hash": 2836000817,
+    "sourceSeason": 20
+  },
+  "2836000828": {
+    "hash": 2836000828,
+    "sourceSeason": 20
+  },
+  "2903094104": {
+    "hash": 2903094104,
+    "sourceSeason": 23
+  },
+  "2903094110": {
+    "hash": 2903094110,
+    "sourceSeason": 23
+  },
+  "2904222200": {
+    "hash": 2904222200,
+    "sourceSeason": 19
+  },
+  "2904222202": {
+    "hash": 2904222202,
+    "sourceSeason": 18
+  },
+  "2904222206": {
+    "hash": 2904222206,
+    "sourceSeason": 18
+  },
+  "2904222207": {
+    "hash": 2904222207,
+    "sourceSeason": 19
+  },
+  "2954025521": {
+    "hash": 2954025521,
+    "sourceSeason": 17
+  },
+  "2955658097": {
+    "hash": 2955658097,
+    "sourceSeason": 4
+  },
+  "2999013840": {
+    "hash": 2999013840,
+    "displayProperties": {
+      "supplement": "Watch Bungie Foundation's official Game2Give stream."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "2999013841": {
+    "hash": 2999013841,
+    "sourceSeason": 7,
+    "sourceHash": 1000000002
+  },
+  "2999013842": {
+    "hash": 2999013842,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "2999013843": {
+    "hash": 2999013843,
+    "sourceSeason": 4
+  },
+  "2999013844": {
+    "hash": 2999013844,
+    "sourceHash": 1000000012,
+    "sourceSeason": 8
+  },
+  "2999013845": {
+    "hash": 2999013845,
+    "sourceSeason": 4
+  },
+  "2999013846": {
+    "hash": 2999013846,
+    "sourceSeason": 4
+  },
+  "2999013847": {
+    "hash": 2999013847,
+    "sourceHash": 1000000002,
+    "sourceSeason": 6
+  },
+  "2999013854": {
+    "hash": 2999013854,
+    "sourceSeason": 6,
+    "sourceHash": 1000000002
+  },
+  "2999013855": {
+    "hash": 2999013855,
+    "sourceSeason": 10,
+    "sourceHash": 1000000002
+  },
+  "3015791426": {
+    "hash": 3015791426,
+    "sourceSeason": 7
+  },
+  "3015791427": {
+    "hash": 3015791427,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "3015791432": {
+    "hash": 3015791432,
+    "sourceSeason": 4
+  },
+  "3015791433": {
+    "hash": 3015791433,
+    "sourceSeason": 4
+  },
+  "3015791436": {
+    "hash": 3015791436,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "3015791437": {
+    "hash": 3015791437,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "3015791438": {
+    "hash": 3015791438,
+    "sourceHash": 1000000012,
+    "sourceSeason": 7
+  },
+  "3015791439": {
+    "hash": 3015791439,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "3032569144": {
+    "hash": 3032569144,
+    "sourceSeason": 4
+  },
+  "3032569145": {
+    "hash": 3032569145,
+    "sourceSeason": 4
+  },
+  "3032569148": {
+    "hash": 3032569148,
+    "sourceHash": 1000000012,
+    "sourceSeason": 4
+  },
+  "3032569149": {
+    "hash": 3032569149,
+    "sourceSeason": 4,
+    "sourceHash": 1000000004
+  },
+  "3032569150": {
+    "hash": 3032569150,
+    "sourceSeason": 4
+  },
+  "3032569151": {
+    "hash": 3032569151,
+    "sourceSeason": 4
+  },
+  "3046699982": {
+    "hash": 3046699982,
+    "sourceSeason": 1
+  },
+  "3103579497": {
+    "hash": 3103579497,
+    "sourceSeason": 11
+  },
+  "3125541831": {
+    "hash": 3125541831,
+    "sourceSeason": 3
+  },
+  "3133090329": {
+    "hash": 3133090329,
+    "sourceSeason": 6
+  },
+  "3138648512": {
+    "hash": 3138648512,
+    "sourceSeason": 22
+  },
+  "3138648516": {
+    "hash": 3138648516,
+    "sourceSeason": 22
+  },
+  "3215337904": {
+    "hash": 3215337904,
+    "sourceSeason": 11
+  },
+  "3215337905": {
+    "hash": 3215337905,
+    "displayProperties": {
+      "supplement": "Watch at least 1 hour of any of 3 streams for \"Into the Light\" on Twitch."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "3215337906": {
+    "hash": 3215337906,
+    "sourceSeason": 12,
+    "sourceHash": 1000000002
+  },
+  "3215337907": {
+    "hash": 3215337907,
+    "displayProperties": {
+      "supplement": "For linking an Epic Games Store account in celebration Destiny 2's release on the Epic Games Store."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "3215337908": {
+    "hash": 3215337908,
+    "displayProperties": {
+      "supplement": "For linking an Epic Games Store account in celebration Destiny 2's release on the Epic Games Store."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "3215337909": {
+    "hash": 3215337909,
+    "sourceHash": 1000000012,
+    "sourceSeason": 21
+  },
+  "3215337911": {
+    "hash": 3215337911,
+    "sourceHash": 1000000012,
+    "sourceSeason": 21
+  },
+  "3232115488": {
+    "hash": 3232115488,
+    "sourceSeason": 18
+  },
+  "3232115489": {
+    "hash": 3232115489,
+    "sourceHash": 1000000012,
+    "sourceSeason": 14
+  },
+  "3232115490": {
+    "hash": 3232115490,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "3232115491": {
+    "hash": 3232115491,
+    "displayProperties": {
+      "supplement": "Complete an activity in the Guardian Games Strike playlist during Guardian Games 2021."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 13
+  },
+  "3232115492": {
+    "hash": 3232115492,
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "3232115493": {
+    "hash": 3232115493,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "3232115494": {
+    "hash": 3232115494,
+    "sourceSeason": 15,
+    "sourceHash": 1000000002
+  },
+  "3232115495": {
+    "hash": 3232115495,
+    "sourceHash": 1000000012,
+    "sourceSeason": 13
+  },
+  "3232115499": {
+    "hash": 3232115499,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "3262609114": {
+    "hash": 3262609114,
+    "sourceSeason": 4
+  },
+  "3265670656": {
+    "hash": 3265670656,
+    "sourceSeason": 11
+  },
+  "3265670657": {
+    "hash": 3265670657,
+    "sourceSeason": 11,
+    "sourceHash": 1000000006
+  },
+  "3265670664": {
+    "hash": 3265670664,
+    "sourceSeason": 11,
+    "sourceHash": 1000000000
+  },
+  "3265670665": {
+    "hash": 3265670665,
+    "displayProperties": {
+      "supplement": "Rewarded for voting on your favorite \"Beyond Light moment.\""
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 15
+  },
+  "3265670666": {
+    "hash": 3265670666,
+    "sourceHash": 1000000012,
+    "sourceSeason": 11
+  },
+  "3265670667": {
+    "hash": 3265670667,
+    "sourceHash": 1000000012,
+    "sourceSeason": 11
+  },
+  "3265670668": {
+    "hash": 3265670668,
+    "sourceSeason": 17,
+    "sourceHash": 1000000004
+  },
+  "3265670669": {
+    "hash": 3265670669,
+    "sourceSeason": 17,
+    "sourceHash": 1000000005
+  },
+  "3265670670": {
+    "hash": 3265670670,
+    "sourceSeason": 11
+  },
+  "3265670671": {
+    "hash": 3265670671,
+    "sourceHash": 1000000010,
+    "sourceSeason": 11
+  },
+  "3273164546": {
+    "hash": 3273164546,
+    "sourceSeason": 17
+  },
+  "3273164548": {
+    "hash": 3273164548,
+    "sourceSeason": 18
+  },
+  "3282448372": {
+    "hash": 3282448372,
+    "sourceHash": 1000000012,
+    "sourceSeason": 13
+  },
+  "3282448376": {
+    "hash": 3282448376,
+    "sourceSeason": 13,
+    "sourceHash": 1000000002
+  },
+  "3282448377": {
+    "hash": 3282448377,
+    "sourceSeason": 14,
+    "sourceHash": 1000000002
+  },
+  "3282448378": {
+    "hash": 3282448378,
+    "sourceSeason": 19
+  },
+  "3282448379": {
+    "hash": 3282448379,
+    "sourceHash": 1000000012,
+    "sourceSeason": 14
+  },
+  "3282448380": {
+    "hash": 3282448380,
+    "sourceHash": 1000000009,
+    "sourceSeason": 13
+  },
+  "3282448381": {
+    "hash": 3282448381,
+    "sourceSeason": 13
+  },
+  "3282448383": {
+    "hash": 3282448383,
+    "sourceSeason": 16,
+    "sourceHash": 1000000002
+  },
+  "3288981762": {
+    "hash": 3288981762,
+    "sourceSeason": 1
+  },
+  "3288981763": {
+    "hash": 3288981763,
+    "sourceSeason": 1
+  },
+  "3288981768": {
+    "hash": 3288981768,
+    "sourceSeason": 1
+  },
+  "3288981769": {
+    "hash": 3288981769,
+    "sourceSeason": 1
+  },
+  "3288981770": {
+    "hash": 3288981770,
+    "sourceSeason": 1
+  },
+  "3288981771": {
+    "hash": 3288981771,
+    "sourceSeason": 1
+  },
+  "3288981772": {
+    "hash": 3288981772,
+    "sourceSeason": 1
+  },
+  "3288981773": {
+    "hash": 3288981773,
+    "sourceSeason": 1
+  },
+  "3288981774": {
+    "hash": 3288981774,
+    "sourceSeason": 1
+  },
+  "3288981775": {
+    "hash": 3288981775,
+    "sourceSeason": 1
+  },
+  "3298982669": {
+    "hash": 3298982669,
+    "sourceSeason": 6
+  },
+  "3299225958": {
+    "hash": 3299225958,
+    "displayProperties": {
+      "supplement": "During The Dawning 2021, complete the Triumph **Cookie Delivery: Vanguard**."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 15
+  },
+  "3299225960": {
+    "hash": 3299225960,
+    "displayProperties": {
+      "supplement": "For progressing Festival of the Lost 2021."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 15
+  },
+  "3299225961": {
+    "hash": 3299225961,
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first King's Fall raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 18
+  },
+  "3299225962": {
+    "hash": 3299225962,
+    "sourceSeason": 18,
+    "sourceHash": 1000000002
+  },
+  "3299225963": {
+    "hash": 3299225963,
+    "sourceSeason": 15,
+    "sourceHash": 1000000002
+  },
+  "3299225964": {
+    "hash": 3299225964,
+    "sourceHash": 1000000012,
+    "sourceSeason": 14
+  },
+  "3299225965": {
+    "hash": 3299225965,
+    "sourceSeason": 15
+  },
+  "3299225967": {
+    "hash": 3299225967,
+    "sourceSeason": 15
+  },
+  "3316003520": {
+    "hash": 3316003520,
+    "sourceSeason": 15
+  },
+  "3316003521": {
+    "hash": 3316003521,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "3316003522": {
+    "hash": 3316003522,
+    "sourceSeason": 14
+  },
+  "3316003523": {
+    "hash": 3316003523,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "3316003524": {
+    "hash": 3316003524,
+    "sourceHash": 1000000012,
+    "sourceSeason": 13
+  },
+  "3316003525": {
+    "hash": 3316003525,
+    "sourceSeason": 12
+  },
+  "3316003526": {
+    "hash": 3316003526,
+    "sourceSeason": 17,
+    "sourceHash": 1000000002
+  },
+  "3316003527": {
+    "hash": 3316003527,
+    "displayProperties": {
+      "supplement": "Watch at least 3 hours of any of 3 streams for \"Into the Light\" on Twitch."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 23
+  },
+  "3316003530": {
+    "hash": 3316003530,
+    "displayProperties": {
+      "supplement": "Awarded for completing the Solstice of Heroes 2021 quest."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 14
+  },
+  "3316003531": {
+    "hash": 3316003531,
+    "sourceSeason": 16
+  },
+  "3332781232": {
+    "hash": 3332781232,
+    "sourceHash": 1000000012,
+    "sourceSeason": 14
+  },
+  "3332781233": {
+    "hash": 3332781233,
+    "sourceHash": 1000000012,
+    "sourceSeason": 21
+  },
+  "3332781234": {
+    "hash": 3332781234,
+    "sourceSeason": 13
+  },
+  "3332781235": {
+    "hash": 3332781235,
+    "sourceHash": 1000000012,
+    "sourceSeason": 14
+  },
+  "3332781236": {
+    "hash": 3332781236,
+    "displayProperties": {
+      "supplement": "Obtain Vulpecula, a new Stasis hand cannon in Season of the Lost."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 15
+  },
+  "3332781237": {
+    "hash": 3332781237,
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Vault of Glass raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 19
+  },
+  "3332781238": {
+    "hash": 3332781238,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "3332781239": {
+    "hash": 3332781239,
+    "sourceHash": 1000000012,
+    "sourceSeason": 13
+  },
+  "3332781244": {
+    "hash": 3332781244,
+    "sourceSeason": 13
+  },
+  "3333524756": {
+    "hash": 3333524756,
+    "sourceSeason": 1
+  },
+  "3333524758": {
+    "hash": 3333524758,
+    "sourceSeason": 1
+  },
+  "3333524759": {
+    "hash": 3333524759,
+    "sourceSeason": 1
+  },
+  "3347258520": {
+    "hash": 3347258520,
+    "sourceSeason": 7
+  },
+  "3347258521": {
+    "hash": 3347258521,
+    "sourceSeason": 7
+  },
+  "3368225456": {
+    "hash": 3368225456,
+    "sourceSeason": 1
+  },
+  "3368225457": {
+    "hash": 3368225457,
+    "sourceSeason": 1
+  },
+  "3368225464": {
+    "hash": 3368225464,
+    "sourceSeason": 1
+  },
+  "3368225465": {
+    "hash": 3368225465,
+    "sourceSeason": 1
+  },
+  "3368225466": {
+    "hash": 3368225466,
+    "sourceSeason": 1
+  },
+  "3368225467": {
+    "hash": 3368225467,
+    "sourceSeason": 1
+  },
+  "3368225468": {
+    "hash": 3368225468,
+    "sourceSeason": 1
+  },
+  "3368225469": {
+    "hash": 3368225469,
+    "sourceSeason": 1
+  },
+  "3368225470": {
+    "hash": 3368225470,
+    "sourceSeason": 1
+  },
+  "3368225471": {
+    "hash": 3368225471,
+    "sourceSeason": 1
+  },
+  "3383113990": {
+    "hash": 3383113990,
+    "sourceHash": 1000000012,
+    "sourceSeason": 18
+  },
+  "3383113991": {
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3383113992": {
+    "hash": 3383113992,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3383113993": {
+    "hash": 3383113993,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3383113994": {
+    "hash": 3383113994,
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 20
+  },
+  "3383113995": {
+    "hash": 3383113995,
+    "sourceSeason": 15
+  },
+  "3383113996": {
+    "hash": 3383113996,
+    "sourceSeason": 15
+  },
+  "3383113997": {
+    "hash": 3383113997,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 21
+  },
+  "3383113998": {
+    "hash": 3383113998,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3383113999": {
+    "hash": 3383113999,
+    "displayProperties": {
+      "supplement": "Complete the Vow of the Disciple raid."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 16
+  },
+  "3399891681": {
+    "hash": 3399891681,
+    "sourceSeason": 15
+  },
+  "3399891684": {
+    "hash": 3399891684,
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    },
+    "sourceHash": 1000000008,
+    "sourceSeason": 15
+  },
+  "3399891686": {
+    "hash": 3399891686,
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3399891687": {
+    "hash": 3399891687,
+    "displayProperties": {
+      "supplement": "Complete the **Magnum Opus** quest and acquire the exotic sidearm, Forerunner, and then purchase the **Strange Coin** replica from the Bungie Store."
+    },
+    "sourceHash": 1000000012,
+    "sourceSeason": 15
+  },
+  "3399891688": {
+    "hash": 3399891688,
+    "sourceSeason": 15
+  },
+  "3399891689": {
+    "hash": 3399891689,
+    "sourceSeason": 15
+  },
+  "3423342284": {
+    "hash": 3423342284,
+    "sourceSeason": 7
+  },
+  "3423342286": {
+    "hash": 3423342286,
+    "sourceSeason": 7
+  },
+  "3425784883": {
+    "hash": 3425784883,
+    "sourceSeason": 2
+  },
+  "3439070513": {
+    "hash": 3439070513,
+    "sourceSeason": 5
+  },
+  "3442009114": {
+    "hash": 3442009114,
+    "sourceSeason": 1
+  },
+  "3442009119": {
+    "hash": 3442009119,
+    "sourceSeason": 1
+  },
+  "3517765589": {
+    "hash": 3517765589,
+    "sourceSeason": 1
+  },
+  "3536260771": {
+    "hash": 3536260771,
+    "sourceSeason": 14
+  },
+  "3615580824": {
+    "hash": 3615580824,
+    "sourceSeason": 9
+  },
+  "3615580825": {
+    "hash": 3615580825,
+    "sourceSeason": 9
+  },
+  "3617101589": {
+    "hash": 3617101589,
+    "sourceSeason": 4
+  },
+  "3633416086": {
+    "hash": 3633416086,
+    "sourceSeason": 1
+  },
+  "3633416087": {
+    "hash": 3633416087,
+    "sourceSeason": 1
+  },
+  "3633416088": {
+    "hash": 3633416088,
+    "sourceSeason": 1
+  },
+  "3633416089": {
+    "hash": 3633416089,
+    "sourceSeason": 1
+  },
+  "3633416090": {
+    "hash": 3633416090,
+    "sourceSeason": 1
+  },
+  "3633416091": {
+    "hash": 3633416091,
+    "sourceSeason": 1
+  },
+  "3642181656": {
+    "hash": 3642181656,
+    "sourceSeason": 1
+  },
+  "3642181657": {
+    "hash": 3642181657,
+    "sourceSeason": 1
+  },
+  "3642181658": {
+    "hash": 3642181658,
+    "sourceSeason": 1
+  },
+  "3642181659": {
+    "hash": 3642181659,
+    "sourceSeason": 1
+  },
+  "3653705777": {
+    "hash": 3653705777,
+    "sourceSeason": 21
+  },
+  "3653705780": {
+    "hash": 3653705780,
+    "sourceSeason": 21
+  },
+  "3653705781": {
+    "hash": 3653705781,
+    "sourceSeason": 20
+  },
+  "3676047537": {
+    "hash": 3676047537,
+    "sourceSeason": 10
+  },
+  "3686280554": {
+    "hash": 3686280554,
+    "sourceSeason": 21
+  },
+  "3716885160": {
+    "hash": 3716885160,
+    "sourceSeason": 15
+  },
+  "3716885161": {
+    "hash": 3716885161,
+    "sourceSeason": 15
+  },
+  "3716885162": {
+    "hash": 3716885162,
+    "sourceSeason": 15
+  },
+  "3716885163": {
+    "hash": 3716885163,
+    "sourceSeason": 15
+  },
+  "3716885167": {
+    "hash": 3716885167,
+    "sourceSeason": 15
+  },
+  "3773976304": {
+    "hash": 3773976304,
+    "sourceSeason": 1
+  },
+  "3773976305": {
+    "hash": 3773976305,
+    "sourceSeason": 1
+  },
+  "3773976306": {
+    "hash": 3773976306,
+    "sourceSeason": 1
+  },
+  "3773976307": {
+    "hash": 3773976307,
+    "sourceSeason": 1
+  },
+  "3773976308": {
+    "hash": 3773976308,
+    "sourceSeason": 1
+  },
+  "3773976309": {
+    "hash": 3773976309,
+    "sourceSeason": 1
+  },
+  "3773976310": {
+    "hash": 3773976310,
+    "sourceSeason": 1
+  },
+  "3773976311": {
+    "hash": 3773976311,
+    "sourceSeason": 1
+  },
+  "3773976314": {
+    "hash": 3773976314,
+    "sourceSeason": 1
+  },
+  "3773976315": {
+    "hash": 3773976315,
+    "sourceSeason": 1
+  },
+  "3784629906": {
+    "hash": 3784629906,
+    "sourceSeason": 1,
+    "sourceHash": 1000000005
+  },
+  "3784629907": {
+    "hash": 3784629907,
+    "sourceSeason": 1
+  },
+  "3784629912": {
+    "hash": 3784629912,
+    "sourceSeason": 4
+  },
+  "3784629913": {
+    "hash": 3784629913,
+    "sourceSeason": 2
+  },
+  "3784629914": {
+    "hash": 3784629914,
+    "sourceSeason": 1
+  },
+  "3784629915": {
+    "hash": 3784629915,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "3784629917": {
+    "hash": 3784629917,
+    "sourceSeason": 1
+  },
+  "3784629918": {
+    "hash": 3784629918,
+    "sourceHash": 1000000010,
+    "sourceSeason": 1
+  },
+  "3800348612": {
+    "hash": 3800348612,
+    "sourceSeason": 1
+  },
+  "3800348613": {
+    "hash": 3800348613,
+    "sourceSeason": 1
+  },
+  "3800348614": {
+    "hash": 3800348614,
+    "sourceSeason": 1
+  },
+  "3801407494": {
+    "hash": 3801407494,
+    "sourceSeason": 1
+  },
+  "3801407495": {
+    "hash": 3801407495,
+    "sourceSeason": 4
+  },
+  "3801407496": {
+    "hash": 3801407496,
+    "sourceSeason": 4
+  },
+  "3801407497": {
+    "hash": 3801407497,
+    "sourceSeason": 3
+  },
+  "3801407498": {
+    "hash": 3801407498,
+    "sourceHash": 1000000012,
+    "sourceSeason": 1
+  },
+  "3801407499": {
+    "hash": 3801407499,
+    "sourceSeason": 1
+  },
+  "3801407500": {
+    "hash": 3801407500,
+    "sourceSeason": 3
+  },
+  "3801407501": {
+    "hash": 3801407501,
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "3801407502": {
+    "hash": 3801407502,
+    "sourceHash": 1000000012,
+    "sourceSeason": 1
+  },
+  "3801407503": {
+    "hash": 3801407503,
+    "sourceHash": 1000000012,
+    "sourceSeason": 2
+  },
+  "3816666661": {
+    "hash": 3816666661,
+    "sourceSeason": 3
+  },
+  "3854307609": {
+    "hash": 3854307609,
+    "sourceSeason": 10
+  },
+  "3854307615": {
+    "hash": 3854307615,
+    "sourceSeason": 10
+  },
+  "3864349535": {
+    "hash": 3864349535,
+    "sourceSeason": 6
+  },
+  "3900052960": {
+    "hash": 3900052960,
+    "sourceSeason": 12
+  },
+  "3900052969": {
+    "hash": 3900052969,
+    "sourceSeason": 15
+  },
+  "3900052975": {
+    "hash": 3900052975,
+    "sourceSeason": 12
+  },
+  "3934105076": {
+    "hash": 3934105076,
+    "sourceSeason": 5
+  },
+  "3938759704": {
+    "hash": 3938759704,
+    "sourceSeason": 8
+  },
+  "3938759705": {
+    "hash": 3938759705,
+    "sourceSeason": 8
+  },
+  "3938759710": {
+    "hash": 3938759710,
+    "sourceSeason": 8
+  },
+  "3967648329": {
+    "hash": 3967648329,
+    "sourceSeason": 6
+  },
+  "4043273388": {
+    "hash": 4043273388,
+    "sourceSeason": 1
+  },
+  "4043273390": {
+    "hash": 4043273390,
+    "sourceSeason": 1
+  },
+  "4043273391": {
+    "hash": 4043273391,
+    "sourceSeason": 1
+  },
+  "4051776108": {
+    "hash": 4051776108,
+    "sourceSeason": 19
+  },
+  "4061734032": {
+    "hash": 4061734032,
+    "sourceSeason": 13
+  },
+  "4068960692": {
+    "hash": 4068960692,
+    "sourceSeason": 2
+  },
+  "4068960693": {
+    "hash": 4068960693,
+    "sourceSeason": 2
+  },
+  "4068960694": {
+    "hash": 4068960694,
+    "sourceSeason": 2
+  },
+  "4068960695": {
+    "hash": 4068960695,
+    "sourceSeason": 2
+  },
+  "4085938160": {
+    "hash": 4085938160,
+    "sourceSeason": 13
+  },
+  "4085938165": {
+    "hash": 4085938165,
+    "sourceSeason": 10
+  },
+  "4085938166": {
+    "hash": 4085938166,
+    "sourceSeason": 10
+  },
+  "4085938167": {
+    "hash": 4085938167,
+    "sourceSeason": 10
+  },
+  "4085938175": {
+    "hash": 4085938175,
+    "sourceSeason": 13
+  },
+  "4097883114": {
+    "hash": 4097883114,
+    "sourceSeason": 20
+  },
+  "4097883118": {
+    "hash": 4097883118,
+    "sourceSeason": 20
+  },
+  "4098597416": {
+    "hash": 4098597416,
+    "sourceSeason": 16
+  },
+  "4098597422": {
+    "hash": 4098597422,
+    "sourceSeason": 16
+  },
+  "4104425522": {
+    "hash": 4104425522,
+    "sourceSeason": 14
+  },
+  "4104425523": {
+    "hash": 4104425523,
+    "sourceSeason": 14
+  },
+  "4104425525": {
+    "hash": 4104425525,
+    "sourceSeason": 14
+  },
+  "4127360732": {
+    "hash": 4127360732,
+    "sourceSeason": 1
+  },
+  "4127360733": {
+    "hash": 4127360733,
+    "sourceSeason": 1
+  },
+  "4134154396": {
+    "hash": 4134154396,
+    "sourceSeason": 19
+  },
+  "4134154397": {
+    "hash": 4134154397,
+    "sourceSeason": 19
+  },
+  "4137754754": {
+    "hash": 4137754754,
+    "sourceSeason": 8
+  },
+  "4137754756": {
+    "hash": 4137754756,
+    "displayProperties": {
+      "supplement": "Complete 75 Seasonal Challenges during Season of the Chosen."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 13
+  },
+  "4137754757": {
+    "hash": 4137754757,
+    "displayProperties": {
+      "supplement": "During The Dawning 2020, complete the **Cookie Delivery: Tower**."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 12
+  },
+  "4137754758": {
+    "hash": 4137754758,
+    "sourceSeason": 11
+  },
+  "4137754759": {
+    "hash": 4137754759,
+    "sourceSeason": 12
+  },
+  "4137754762": {
+    "hash": 4137754762,
+    "displayProperties": {
+      "supplement": "Awarded for completing the New Light quest."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 19
+  },
+  "4137754763": {
+    "hash": 4137754763,
+    "displayProperties": {
+      "supplement": "Complete the 30th Anniversary dungeon, **Grasp of Avarice**."
+    },
+    "sourceHash": 1000000007,
+    "sourceSeason": 19
+  },
+  "4141657326": {
+    "hash": 4141657326,
+    "sourceSeason": 10
+  },
+  "4145604506": {
+    "hash": 4145604506,
+    "sourceSeason": 4
+  },
+  "4177603899": {
+    "hash": 4177603899,
+    "sourceSeason": 1
+  },
+  "4188684306": {
+    "hash": 4188684306,
+    "sourceSeason": 4
+  },
+  "4188684307": {
+    "hash": 4188684307,
+    "sourceSeason": 4
+  },
+  "4221743476": {
+    "hash": 4221743476,
+    "sourceSeason": 4
+  },
+  "4224291482": {
+    "hash": 4224291482,
+    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
+  },
+  "4224291483": {
+    "hash": 4224291483,
+    "sourceSeason": 23
+  },
+  "4244491980": {
+    "hash": 4244491980,
+    "sourceSeason": 22
+  },
+  "4248075100": {
+    "hash": 4248075100,
+    "sourceSeason": 12
+  },
+  "4248075101": {
+    "hash": 4248075101,
+    "sourceSeason": 12
+  },
+  "4248075102": {
+    "hash": 4248075102,
+    "sourceSeason": 12
+  },
+  "4259147764": {
+    "hash": 4259147764,
+    "sourceSeason": 1
+  },
+  "4259147765": {
+    "hash": 4259147765,
+    "sourceSeason": 3
+  },
+  "4259147766": {
+    "hash": 4259147766,
+    "sourceSeason": 1
+  },
+  "4259147767": {
+    "hash": 4259147767,
+    "sourceSeason": 1
+  },
+  "2938975313": {
+    "hash": 2938975313,
+    "sourceSeason": 23
+  },
+  "2791836439": {
+    "hash": 2791836439,
+    "sourceSeason": 23
+  },
+  "802420306": {
+    "hash": 802420306,
+    "sourceSeason": 23
+  },
+  "802420304": {
+    "hash": 802420304,
+    "sourceSeason": 23
+  },
+  "802420317": {
+    "hash": 802420317,
+    "sourceSeason": 23,
+    "sourceHash": 1000000012
+  },
+  "802420316": {
+    "hash": 802420316,
+    "sourceHash": 1000000002,
+    "sourceSeason": 23
+  },
+  "2662123020": {
+    "hash": 2662123020,
+    "sourceSeason": 23,
+    "sourceHash": 1000000007
+  },
+  "1482705482": {
+    "sourceSeason": 23
+  },
+  "1482705483": {
+    "sourceSeason": 23
+  },
+  "1482705480": {
+    "sourceSeason": 23
+  },
+  "1482705481": {
+    "sourceSeason": 23
   }
 }

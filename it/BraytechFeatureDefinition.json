@@ -364,18 +364,6 @@
       "partite"
     ]
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "Attributi",
-      "description": "Tutte le statistiche, caratteristiche, peculiarità e modifiche di un oggetto"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "Storie",
-      "description": "Leggi la storia di questo oggetto"
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "Impostazioni",

@@ -38,46 +38,60 @@
   "1000000004": {
     "displayProperties": {
       "name": "All Triumphs"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000005": {
     "displayProperties": {
       "name": "All Challenges"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000051": {
     "displayProperties": {
       "name": "Crucible"
     },
-    "substring": "crucible|mayhem|rift|trials|iron banner|defeat guardians"
+    "substring": "crucible|mayhem|rift|trials|iron banner|defeat guardians",
+    "distinguish": "true"
   },
   "1000000052": {
     "displayProperties": {
       "name": "Strikes"
     },
-    "substring": "nightfall|strike|vanguard"
+    "substring": "nightfall|strike|vanguard",
+    "distinguish": "true"
   },
   "1000000053": {
     "displayProperties": {
       "name": "Gambit"
     },
-    "substring": "gambit|invading|motes"
+    "substring": "gambit|invading|motes",
+    "distinguish": "true"
   },
   "1000000006": {
     "displayProperties": {
       "name": "All Weapon Types"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000007": {
     "displayProperties": {
       "name": "All Exotic Catalysts"
-    }
+    },
+    "distinguish": "true"
   },
   "1000000008": {
     "displayProperties": {
       "name": "Redeemable",
       "description": "These emblems can be collected by redeeming them with a code for free at https://www.bungie.net/redeem"
-    }
+    },
+    "distinguish": "true"
+  },
+  "1000000009": {
+    "displayProperties": {
+      "name": "Animated"
+    },
+    "distinguish": "true"
   },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"

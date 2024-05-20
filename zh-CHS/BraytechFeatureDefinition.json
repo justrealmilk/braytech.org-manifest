@@ -23,6 +23,12 @@
       "description": "管理公会成员以及相关事务"
     }
   },
+  "clan-historical-stats": {
+    "displayProperties": {
+      "name": "生涯统计",
+      "description": "按活动类型对公会成员进行排序查看。\n\n有关这些数据准确性的问题，请查阅 [常见问题](/addendums/faq)."
+    }
+  },
   "clan-relationships": {
     "displayProperties": {
       "name": "成员关系",
@@ -35,6 +41,12 @@
       "description": "你的守护者一生中曾获得的物品"
     }
   },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "套装",
+      "description": "从地牢或突袭中获取的武器及装备"
+    }
+  },
   "collections-lore": {
     "displayProperties": {
       "name": "传说故事",
@@ -45,6 +57,12 @@
     "displayProperties": {
       "name": "模式与催化",
       "description": "解锁深视模式可解锁对应武器的锻造。催化剂可使你的异域武器变得更加强大。找到并完成它们相关的目标来使你的军械库发挥出最大潜力"
+    }
+  },
+  "collections-medals": {
+    "displayProperties": {
+      "name": "勋章",
+      "description": "通过游戏精通获得的勋章"
     }
   },
   "collections-metrics": {
@@ -203,18 +221,6 @@
       "description": "查看你的火力战队在挑战高难度活动之后的赛后报告"
     }
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "物品属性",
-      "description": "查看该物品的所有面板属性、数据、特性组合和模组"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "传说故事",
-      "description": "阅读该物品的传奇故事"
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "设置",
@@ -267,6 +273,18 @@
     "displayProperties": {
       "name": "致谢",
       "description": "关于那些让一切成为可能的守护者们"
+    }
+  },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "排行榜",
+      "description": "专为那些追求卓越的守护者们而打造"
+    }
+  },
+  "fireteam-monitor": {
+    "displayProperties": {
+      "name": "火力战队监控器",
+      "description": "_你_ 就是主脑."
     }
   }
 }

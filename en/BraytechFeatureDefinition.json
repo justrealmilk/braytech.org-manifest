@@ -401,6 +401,7 @@
       "description": "Track your pursuits, including quests and bounties."
     },
     "to": "/quests/all",
+    "keywords": ["quests", "new light", "bounty", "bounties"],
     "children": {
       "views": [
         {
@@ -413,10 +414,10 @@
     "hash": "quests-bounties",
     "displayProperties": {
       "name": "Bounties",
-      "description": "All of the selected Guardian's bounties."
+      "description": "The operatives of the Tower and inhabitants sprawled accross the system have tasks for you. They offer rich experiences and other currencies for their completion.\n\nThese are all of the selected Guardian's bounties."
     },
     "to": "/quests",
-    "keywords": ["bounty"]
+    "keywords": ["bounty", "bounties"]
   },
   "activity": {
     "hash": "activity",
@@ -472,24 +473,10 @@
     "hash": "activity-series",
     "displayProperties": {
       "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
     },
     "to": "/activity/series",
     "keywords": ["reports", "pgcr", "stats", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
-  },
-  "inspect-equipment": {
-    "hash": "inspect-equipment",
-    "displayProperties": {
-      "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods"
-    }
-  },
-  "inspect-lore": {
-    "hash": "inspect-lore",
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Read this item's story"
-    }
   },
   "settings": {
     "hash": "settings",

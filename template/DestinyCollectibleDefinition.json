@@ -9,32 +9,32 @@
   },
   "1469913804": {
     "displayProperties": {
-      "tip": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
+      "supplement": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
     }
   },
   "3163873693": {
     "displayProperties": {
-      "tip": "Earned by opening the \"Glittering Key\" chest."
+      "supplement": "Earned by opening the \"Glittering Key\" chest."
     }
   },
   "1246578674": {
     "displayProperties": {
-      "tip": "Earned by completing all \"Last Wish\" raid challenges."
+      "supplement": "Earned by completing all \"Last Wish\" raid challenges."
     }
   },
   "1171206946": {
     "displayProperties": {
-      "tip": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
+      "supplement": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
     }
   },
   "304436264": {
     "displayProperties": {
-      "tip": "Earned by completing all \"Garden of Salvation\" raid challenges."
+      "supplement": "Earned by completing all \"Garden of Salvation\" raid challenges."
     }
   },
   "304436265": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
+      "supplement": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
     }
   },
   "3938759711": {
@@ -45,24 +45,24 @@
   },
   "3574313939": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
+      "supplement": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "392272160": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
+      "supplement": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "2571679418": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
+      "supplement": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
     }
   },
   "2571679419": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
+      "supplement": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
     }
   },
   "2273453972": {
@@ -70,20 +70,293 @@
   },
   "958866288": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
+      "supplement": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
     }
   },
   "3568861785": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
+      "supplement": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
     }
   },
   "3568861784": {
     "displayProperties": {
-      "tip": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
+      "supplement": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
     }
   },
   "2172413746": {
     "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
+  },
+  "651647954": {
+    "displayProperties": {
+      "supplement": "Collect both **Crimson Days** sparrows."
+    }
+  },
+  "651647959": {
+    "displayProperties": {
+      "supplement": "Complete the **Triumph Master** Triumph during Moments of Triumph 2020."
+    }
+  },
+  "668425547": {
+    "displayProperties": {
+      "supplement": "Complete the quest for Festival of the Lost 2020."
+    }
+  },
+  "701980846": {
+    "displayProperties": {
+      "supplement": "Complete the **Triumph Apprentice** Triumph during Moments of Triumph 2020."
+    }
+  },
+  "802420308": {
+    "displayProperties": {
+      "supplement": "In recognition of completing the **Gold** Event Challenge during Guardian Games All-Stars."
+    }
+  },
+  "1351742174": {
+    "displayProperties": {
+      "supplement": "Complete the Triumph **Super Celebratory** during The Revelry 2019."
+    }
+  },
+  "1704174847": {
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Crota's End raid."
+    }
+  },
+  "1720952420": {
+    "displayProperties": {
+      "supplement": "In recognition of completing the **MMXXIII** Title."
+    }
+  },
+  "1720952425": {
+    "displayProperties": {
+      "supplement": "Watch a participating stream for 2 hours during the Twitch Rivals event."
+    }
+  },
+  "1805281840": {
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    }
+  },
+  "1805281844": {
+    "displayProperties": {
+      "supplement": "Awarded for buying specific Guardians Games 2023 items from the Bungie Store."
+    }
+  },
+  "1805281848": {
+    "displayProperties": {
+      "supplement": "Give 20 commendations during Season of Defiance."
+    }
+  },
+  "1805281849": {
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Root of Nightmares raid."
+    }
+  },
+  "1822059425": {
+    "displayProperties": {
+      "supplement": "Purchase the **Archangel Dog Plush** item from the Bungie Store. This item is no longer available from the Bungie Store."
+    }
+  },
+  "1939502765": {
+    "displayProperties": {
+      "supplement": "In recognition of completing all Season 17 Week 1 Seasonal Challenges."
+    }
+  },
+  "1939502766": {
+    "displayProperties": {
+      "supplement": "Obtain the exotic auto rifle **Quicksilver Storm** by preordering the Lightfall + Annual Pass bundle."
+    }
+  },
+  "1956280344": {
+    "displayProperties": {
+      "supplement": "During Season of Plunder, earn 7,777 Arc final blows."
+    }
+  },
+  "1956280345": {
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    }
+  },
+  "1956280348": {
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Vow of the Disciple raid."
+    }
+  },
+  "1956280349": {
+    "displayProperties": {
+      "supplement": "Awarded to the community for 77,000 votes in the first 48 hours of voting for a Trials map."
+    }
+  },
+  "1956280350": {
+    "displayProperties": {
+      "supplement": "Complete all Master Challenges in Vow of the Disciple."
+    }
+  },
+  "1956280351": {
+    "displayProperties": {
+      "supplement": "Complete The Witch campaign."
+    }
+  },
+  "1973057926": {
+    "displayProperties": {
+      "supplement": "During Solstice 2022, complete the **Bashing Success** triumph."
+    }
+  },
+  "2006613202": {
+    "displayProperties": {
+      "supplement": "Purchase the **Up My Sleeve** finisher from the Eververse Store."
+    }
+  },
+  "2006613203": {
+    "displayProperties": {
+      "supplement": "Complete the King's Fall raid."
+    }
+  },
+  "2006613207": {
+    "displayProperties": {
+      "supplement": "Watch at least 30 minutes of the Bungie Showcase on Twitch."
+    }
+  },
+  "2006613213": {
+    "displayProperties": {
+      "supplement": "In recognition of unlocking Bookworm I, in the Tales of the Forgotten - Vol. 2. during Festival of the Lost."
+    }
+  },
+  "2023390785": {
+    "displayProperties": {
+      "supplement": "Awarded for purchasing promotional Guardian Games 2022 items from the Bungie Store."
+    }
+  },
+  "2023390791": {
+    "displayProperties": {
+      "supplement": "During Season of the Haunted, earn 7,777 Solar final blows."
+    }
+  },
+  "2040168506": {
+    "displayProperties": {
+      "supplement": "Purchase the Whirling Chaos finisher."
+    }
+  },
+  "2056946085": {
+    "displayProperties": {
+      "supplement": "Complete The Dawning 2022 triumph **Frozen Doom**."
+    }
+  },
+  "2529229356": {
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    }
+  },
+  "2999013840": {
+    "displayProperties": {
+      "supplement": "Watch Bungie Foundation's official Game2Give stream."
+    }
+  },
+  "3215337905": {
+    "displayProperties": {
+      "supplement": "Watch at least 1 hour of any of 3 streams for \"Into the Light\" on Twitch."
+    }
+  },
+  "3215337907": {
+    "displayProperties": {
+      "supplement": "For linking an Epic Games Store account in celebration Destiny 2's release on the Epic Games Store."
+    }
+  },
+  "3215337908": {
+    "displayProperties": {
+      "supplement": "For linking an Epic Games Store account in celebration Destiny 2's release on the Epic Games Store."
+    }
+  },
+  "3232115491": {
+    "displayProperties": {
+      "supplement": "Complete an activity in the Guardian Games Strike playlist during Guardian Games 2021."
+    }
+  },
+  "3265670665": {
+    "displayProperties": {
+      "supplement": "Rewarded for voting on your favorite \"Beyond Light moment.\""
+    }
+  },
+  "3299225958": {
+    "displayProperties": {
+      "supplement": "During The Dawning 2021, complete the Triumph **Cookie Delivery: Vanguard**."
+    }
+  },
+  "3299225960": {
+    "displayProperties": {
+      "supplement": "For progressing Festival of the Lost 2021."
+    }
+  },
+  "3299225961": {
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first King's Fall raid."
+    }
+  },
+  "3316003527": {
+    "displayProperties": {
+      "supplement": "Watch at least 3 hours of any of 3 streams for \"Into the Light\" on Twitch."
+    }
+  },
+  "3316003530": {
+    "displayProperties": {
+      "supplement": "Awarded for completing the Solstice of Heroes 2021 quest."
+    }
+  },
+  "3332781236": {
+    "displayProperties": {
+      "supplement": "Obtain Vulpecula, a new Stasis hand cannon in Season of the Lost."
+    }
+  },
+  "3332781237": {
+    "displayProperties": {
+      "supplement": "Guide 10 Guardians through their first Vault of Glass raid."
+    }
+  },
+  "3383113994": {
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    }
+  },
+  "3383113997": {
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    }
+  },
+  "3383113999": {
+    "displayProperties": {
+      "supplement": "Complete the Vow of the Disciple raid."
+    }
+  },
+  "3399891684": {
+    "displayProperties": {
+      "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
+    }
+  },
+  "3399891687": {
+    "displayProperties": {
+      "supplement": "Complete the **Magnum Opus** quest and acquire the exotic sidearm, Forerunner, and then purchase the **Strange Coin** replica from the Bungie Store."
+    }
+  },
+  "4137754756": {
+    "displayProperties": {
+      "supplement": "Complete 75 Seasonal Challenges during Season of the Chosen."
+    }
+  },
+  "4137754757": {
+    "displayProperties": {
+      "supplement": "During The Dawning 2020, complete the **Cookie Delivery: Tower**."
+    }
+  },
+  "4137754762": {
+    "displayProperties": {
+      "supplement": "Awarded for completing the New Light quest."
+    }
+  },
+  "4137754763": {
+    "displayProperties": {
+      "supplement": "Complete the 30th Anniversary dungeon, **Grasp of Avarice**."
+    }
+  },
+  "4224291482": {
+    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
   }
 }

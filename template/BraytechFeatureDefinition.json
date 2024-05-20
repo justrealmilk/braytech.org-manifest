@@ -300,15 +300,22 @@
     "displayProperties": {
       "name": "Quests",
       "description": "Track your pursuits, including quests and bounties."
-    }
+    },
+    "keywords": [
+      "quests",
+      "new light",
+      "bounty",
+      "bounties"
+    ]
   },
   "quests-bounties": {
     "displayProperties": {
       "name": "Bounties",
-      "description": "All of the selected Guardian's bounties."
+      "description": "The operatives of the Tower and inhabitants sprawled accross the system have tasks for you. They offer rich experiences and other currencies for their completion.\n\nThese are all of the selected Guardian's bounties."
     },
     "keywords": [
-      "bounty"
+      "bounty",
+      "bounties"
     ]
   },
   "activity": {
@@ -364,7 +371,7 @@
   "activity-series": {
     "displayProperties": {
       "name": "Series",
-      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries"
+      "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
     },
     "keywords": [
       "reports",
@@ -381,18 +388,6 @@
       "flawlesses",
       "matches"
     ]
-  },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "Sockets",
-      "description": "All item attributes; stats, perks, and mods"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Read this item's story"
-    }
   },
   "settings": {
     "displayProperties": {

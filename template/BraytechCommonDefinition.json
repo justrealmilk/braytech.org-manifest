@@ -139,6 +139,18 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "Well Rested",
+      "description": "XP gains increased by 2x for your first 5 Season Ranks this week.\n\nCompleting Seasonal Challenges grants the most progress, followed by bounties and quests."
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "Season Pass XP Bonus",
+      "description": "Various XP bonuses can be unlocked by progressing the season pass."
+    }
+  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Unique Weapon Kills",
@@ -217,6 +229,18 @@
       "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
     }
   },
+  "seal-score": {
+    "displayProperties": {
+      "name": "Seal Score",
+      "description": "The sum of seals you've completed."
+    }
+  },
+  "gild-score": {
+    "displayProperties": {
+      "name": "Gild Score",
+      "description": "The exhaustive and total count of seal gilding."
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Legacy Triumph Score",
@@ -229,10 +253,64 @@
       "description": "A combination of all completed active and legacy Triumph scores."
     }
   },
+  "collection-score": {
+    "displayProperties": {
+      "name": "Collection Score",
+      "description": "The sum of items you've amassed and stowed as apart of your arsenal."
+    }
+  },
+  "fish-caught-score": {
+    "displayProperties": {
+      "name": "Fish Caught Score",
+      "description": "The sum of fish you've angled."
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "Fish Weight Score",
+      "description": "The biggest catch on record."
+    }
+  },
   "active-score-rank": {
     "displayProperties": {
       "name": "Active Score Rank",
       "description": "The Leaderboards rank for the corresponding triumph score, as determined by Voluspa."
+    }
+  },
+  "seal-score-rank": {
+    "displayProperties": {
+      "name": "Seal Score Rank",
+      "description": "The Leaderboards rank for the corresponding seal score, as determined by Voluspa."
+    }
+  },
+  "gild-score-rank": {
+    "displayProperties": {
+      "name": "Gild Score Rank",
+      "description": "The Leaderboards rank for the corresponding gild score, as determined by Voluspa."
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "name": "Legacy Score Rank",
+      "description": "The Leaderboards rank for the corresponding triumph score, as determined by Voluspa."
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "name": "Collection Score Rank",
+      "description": "The Leaderboards rank for the corresponding collection score, as determined by Voluspa."
+    }
+  },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "name": "Fish Caught Rank",
+      "description": "The Leaderboards rank for the corresponding fish caught score, as determined by Voluspa."
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "name": "Fish Weight Rank",
+      "description": "The Leaderboards rank for the corresponding fish weight score, as determined by Voluspa."
     }
   },
   "total-resets": {
@@ -285,13 +363,13 @@
   },
   "activity-contest-mode": {
     "displayProperties": {
-      "name": "Amongst the First",
-      "description": "This activity was finished in the contest mode window: triumph under extraordinary circumstance and pressure"
+      "name": "Contest Mode",
+      "description": "This activity was finished in the contest mode window; apart of the first wave of Guardians, triumph under extraordinary circumstance and pressure."
     }
   },
   "activity-flawless": {
     "displayProperties": {
-      "name": "Deathless",
+      "name": "Flawless",
       "description": "This activity was started from its beginning and finished flawlessly, with no deaths.\n\nTo be eligible, **raids** must be completed after the launch of Witch Queen, **dungeons** and **lost sectors** must be started and finished by a single player, and **strikes** are specific to each player."
     }
   },
@@ -360,10 +438,10 @@
       "description": "How drippy you look is only limited by your choice in shaders. Keep in contact with Ada in case you're missing the goods."
     }
   },
-  "push-notification-event-weekly-overview": {
+  "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
-      "name": "Overview",
-      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
+      "name": "Banshee-44 Legendaries",
+      "description": "As master weaponsmith for the Tower, Banshee supplies Guardians with only the best."
     }
   },
   "push-notification-event-weekly-crucible": {
@@ -372,10 +450,22 @@
       "description": "Be notified of which modes Lord Shaxx has configured the Crucible for.\n\nFight for fame and glory, but in oddly specific ways and at a weekly cadence."
     }
   },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "Overview",
+      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
+    }
+  },
   "push-notification-event-this-week-at-bungie": {
     "displayProperties": {
       "name": "This Week at Bungie",
       "description": "Get the latest Bungie news delivered direct to you. Fresh and hot since 2004. "
+    }
+  },
+  "subscriber-only-features": {
+    "displayProperties": {
+      "name": "Subscriber-Only Features",
+      "description": "**Custom Braytech username**\n\nInstead of `https://bray.tech/1/4611686018449662397` you could have `https://bray.tech/@/Zavalas_favourite_titan` 🥹\n\n**Advanaced Leaderboards features**\n\n- Quickly inspect the difference between two neighbouring players\n\n_More coming soon..._"
     }
   }
 }

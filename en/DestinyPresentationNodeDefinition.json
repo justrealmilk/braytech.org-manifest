@@ -83,8 +83,19 @@
     "children": {
       "presentationNodes": [
         {
-          "presentationNodeHash": 2833733323,
-          "nodeDisplayPriority": 0
+          "presentationNodeHash": 2566909062
+        },
+        {
+          "presentationNodeHash": 2183748517
+        },
+        {
+          "presentationNodeHash": 264892844
+        },
+        {
+          "presentationNodeHash": 4229305251
+        },
+        {
+          "presentationNodeHash": 3121766601
         }
       ],
       "collectibles": [],
@@ -113,7 +124,8 @@
       "metrics": [],
       "craftables": []
     },
-    "redacted": false
+    "redacted": false,
+    "distinguish": true
   },
   "1000000005": {
     "hash": 1000000005,
@@ -127,7 +139,8 @@
       "metrics": [],
       "craftables": []
     },
-    "redacted": false
+    "redacted": false,
+    "distinguish": true
   },
   "1000000051": {
     "hash": 1000000051,
@@ -142,7 +155,8 @@
       "craftables": []
     },
     "redacted": false,
-    "substring": "crucible|mayhem|rift|trials|iron banner|defeat guardians"
+    "substring": "crucible|mayhem|rift|trials|iron banner|defeat guardians",
+    "distinguish": true
   },
   "1000000052": {
     "hash": 1000000052,
@@ -157,7 +171,8 @@
       "craftables": []
     },
     "redacted": false,
-    "substring": "nightfall|strike|vanguard"
+    "substring": "nightfall|strike|vanguard",
+    "distinguish": true
   },
   "1000000053": {
     "hash": 1000000053,
@@ -172,7 +187,8 @@
       "craftables": []
     },
     "redacted": false,
-    "substring": "gambit|invading|motes"
+    "substring": "gambit|invading|motes",
+    "distinguish": true
   },
   "1000000006": {
     "hash": 1000000006,
@@ -186,7 +202,8 @@
       "metrics": [],
       "craftables": []
     },
-    "redacted": false
+    "redacted": false,
+    "distinguish": true
   },
   "1000000007": {
     "hash": 1000000007,
@@ -200,7 +217,8 @@
       "metrics": [],
       "craftables": []
     },
-    "redacted": false
+    "redacted": false,
+    "distinguish": true
   },
   "2381001021": {
     "children": {
@@ -309,12 +327,155 @@
         },
         {
           "collectibleHash": 1687397126
+        },
+        {
+          "collectibleHash": 802420309
+        },
+        {
+          "collectibleHash": 1670619542
+        },
+        {
+          "collectibleHash": 1670619543
+        },
+        {
+          "collectibleHash": 1670619541
+        },
+        {
+          "collectibleHash": 1670619540
+        },
+        {
+          "collectibleHash": 802420307
         }
       ],
       "records": [],
       "metrics": [],
       "craftables": []
     },
+    "distinguish": true,
+    "redacted": false
+  },
+  "1516796296": {
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000009
+        }
+      ]
+    }
+  },
+  "1000000009": {
+    "hash": 1000000009,
+    "displayProperties": {
+      "name": "Animated"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+          "collectibleHash": 1890546505
+        },
+        {
+          "collectibleHash": 1732186807
+        },
+        {
+          "collectibleHash": 2329519376
+        },
+        {
+          "collectibleHash": 158879918
+        },
+        {
+          "collectibleHash": 713718560
+        },
+        {
+          "collectibleHash": 2847042123
+        },
+        {
+          "collectibleHash": 1718082564
+        },
+        {
+          "collectibleHash": 2340834170
+        },
+        {
+          "collectibleHash": 872139466
+        },
+        {
+          "collectibleHash": 1282368188
+        },
+        {
+          "collectibleHash": 2339248922
+        },
+        {
+          "collectibleHash": 2339248923
+        },
+        {
+          "collectibleHash": 2339248924
+        },
+        {
+          "collectibleHash": 2339248925
+        },
+        {
+          "collectibleHash": 2339248920
+        },
+        {
+          "collectibleHash": 4130466089
+        },
+        {
+          "collectibleHash": 2367498995
+        },
+        {
+          "collectibleHash": 377675375
+        },
+        {
+          "collectibleHash": 2367498994
+        },
+        {
+          "collectibleHash": 2153396796
+        },
+        {
+          "collectibleHash": 117466347
+        },
+        {
+          "collectibleHash": 117466348
+        },
+        {
+          "collectibleHash": 117466346
+        },
+        {
+          "collectibleHash": 4285526600
+        },
+        {
+          "collectibleHash": 286402289
+        },
+        {
+          "collectibleHash": 1433727157
+        },
+        {
+          "collectibleHash": 1721483319
+        },
+        {
+          "collectibleHash": 334948443
+        },
+        {
+          "collectibleHash": 2240442778
+        },
+        {
+          "collectibleHash": 4135618731
+        },
+        {
+          "collectibleHash": 4135618730
+        },
+        {
+          "collectibleHash": 4135618733
+        },
+        {
+          "collectibleHash": 4135618732
+        }
+      ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "distinguish": true,
     "redacted": false
   },
   "2485764221": {

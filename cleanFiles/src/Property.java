@@ -3,13 +3,13 @@ public class Property implements JsonObject {
     static class DisplayProperties implements JsonObject {
         private String name;
         private String description;
-        private String tip;
+        private String supplement;
 
         @Override
         public boolean isEmpty() {
             return (name == null || name.isBlank()) &&
                     (description == null || description.isBlank()) &&
-                    (tip == null || tip.isBlank());
+                    (supplement == null || supplement.isBlank());
         }
 
         @Override
@@ -18,8 +18,8 @@ public class Property implements JsonObject {
                 name = null;
             if (description != null && description.isBlank())
                 description = null;
-            if (tip != null && tip.isBlank())
-                tip = null;
+            if (supplement != null && supplement.isBlank())
+                supplement = null;
             return this;
         }
     }
@@ -65,17 +65,17 @@ public class Property implements JsonObject {
     }
 
     static class Extended implements JsonObject {
-        private String tip;
+        private String supplement;
 
         @Override
         public boolean isEmpty() {
-            return (tip == null || tip.isBlank());
+            return (supplement == null || supplement.isBlank());
         }
 
         @Override
         public Extended removeEmptyFields() {
-            if (tip != null && tip.isBlank())
-                tip = null;
+            if (supplement != null && supplement.isBlank())
+                supplement = null;
             return this;
         }
     }
@@ -86,6 +86,7 @@ public class Property implements JsonObject {
     private DisplayProperties originalDisplayProperties;
     private Entry entry;
     private String sourceString;
+    private Number sourceSeason;
     private String statName;
     private String statNameAlt;
     private String statNameAbbr;
@@ -93,6 +94,7 @@ public class Property implements JsonObject {
     private String itemTypeDisplayName;
     private String displaySource;
     private String substring;
+    private String distinguish;
     private String progressDescription;
     private com.google.gson.JsonArray bubbles;
     private com.google.gson.JsonArray keywords;
@@ -111,12 +113,14 @@ public class Property implements JsonObject {
                 && (displayProperties == null || displayProperties.isEmpty())
                 && (originalDisplayProperties == null || originalDisplayProperties.isEmpty())
                 && (entry == null || entry.isEmpty())
-                && (sourceString == null || sourceString.isBlank()) && (statName == null || statName.isBlank())
+                && (sourceString == null || sourceString.isBlank()) && (sourceSeason == null)
+                && (statName == null || statName.isBlank())
                 && (statNameAlt == null || statNameAlt.isBlank())
                 && (statNameAbbr == null || statNameAbbr.isBlank())
                 && (statDescription == null || statDescription.isBlank())
                 && (itemTypeDisplayName == null || itemTypeDisplayName.isBlank())
                 && (displaySource == null || displaySource.isBlank()) && (substring == null || substring.isBlank())
+                && (distinguish == null || distinguish.isBlank())
                 && (progressDescription == null || progressDescription.isBlank())
                 && (bubbles == null || bubbles.isJsonNull())
                 && (keywords == null || keywords.isJsonNull())
@@ -133,6 +137,7 @@ public class Property implements JsonObject {
         originalDisplayProperties = (DisplayProperties) removeEmptyObj(originalDisplayProperties);
         entry = (Entry) removeEmptyObj(entry);
         sourceString = removeEmptyString(sourceString);
+        sourceSeason = removeEmptyNumber(sourceSeason);
         statName = removeEmptyString(statName);
         statNameAlt = removeEmptyString(statNameAlt);
         statNameAbbr = removeEmptyString(statNameAbbr);
@@ -140,6 +145,7 @@ public class Property implements JsonObject {
         itemTypeDisplayName = removeEmptyString(itemTypeDisplayName);
         displaySource = removeEmptyString(displaySource);
         substring = removeEmptyString(substring);
+        distinguish = removeEmptyString(distinguish);
         progressDescription = removeEmptyString(progressDescription);
         inventory = (Inventory) removeEmptyObj(inventory);
         extended = (Extended) removeEmptyObj(extended);
@@ -153,6 +159,12 @@ public class Property implements JsonObject {
                 o = null;
         }
         return o;
+    }
+
+    private Number removeEmptyNumber(Number s) {
+        if (s != null && s.intValue() != 0) // lol
+            s = null;
+        return s;
     }
 
     private String removeEmptyString(String s) {

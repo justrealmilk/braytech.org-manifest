@@ -184,18 +184,6 @@
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"
     }
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "name": "Fassungen",
-      "description": "Alle Gegenstands-Eigenschaften; Werte, Perks und Mods"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "name": "Lore",
-      "description": "Lerne die Geschichte hinter diesem Gegenstand"
-    }
-  },
   "settings": {
     "displayProperties": {
       "name": "Einstellungen",

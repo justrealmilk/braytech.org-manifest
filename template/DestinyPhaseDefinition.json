@@ -17,6 +17,12 @@
       "description": "Morgeth, the Spirekeeper, an enormous and powerful Taken Ogre, serves as the enforcer of Riven's corruption in the Dreaming City, and the guard of the City's main tower, The Keep of Voices. Destroy them."
     }
   },
+  "2169047898": {
+    "displayProperties": {
+      "name": "Find Riven",
+      "description": "Having defeated **Morgeth, the Spirekeeper**, head higher into the Dreaming City and pursue Riven."
+    }
+  },
   "436847112": {
     "displayProperties": {
       "name": "The Vault",
@@ -27,6 +33,12 @@
     "displayProperties": {
       "name": "Riven of a Thousand Voices",
       "description": "Riven, the last known Ahamkara, formerly in the service of Mara Sov, was Taken by Oryx. She now corrupts the city from its heart at the behest of the Hive queen, Savathûn."
+    }
+  },
+  "378163510": {
+    "displayProperties": {
+      "name": "Queenswalk",
+      "description": "Escape the spire and get the Heart Stone to the Techeun."
     }
   },
   "2776463390": {
@@ -43,8 +55,8 @@
   },
   "1858926029": {
     "displayProperties": {
-      "name": "Taniks, Reborn",
-      "description": "Interrupt the station's Nuclear Descent Protocol and secure it from Taniks."
+      "name": "Descent",
+      "description": "Interrupt the station's Nuclear Descent Protocol and secure the station."
     }
   },
   "4035296150": {
@@ -73,7 +85,7 @@
   },
   "3793779770": {
     "displayProperties": {
-      "name": "The Gatekeepers",
+      "name": "Gatekeepers",
       "description": "Protectors of the Glass Throne, the Gatekeepers are Vex Hydras who stand as the Throne's last defence."
     }
   },
@@ -86,25 +98,25 @@
   "580855089": {
     "displayProperties": {
       "name": "Acquisition",
-      "description": "Fulfil the requirements and pierce the veil."
+      "description": "Your eyes are always closed. Do you not see what's right in front of you? Those who fail to see the truth will drown in it."
     }
   },
   "1942966197": {
     "displayProperties": {
       "name": "Collection",
-      "description": "Subdue and destroy the abomination."
+      "description": "SCORN. They eat away at the decay within a shell of. SCORN. Truth exists all around outside the shell of. SCORN."
     }
   },
   "196663595": {
     "displayProperties": {
       "name": "Exhibition",
-      "description": "Reorient your perspective."
+      "description": "Did you think you were the observer? Or did you believe you pulled the strings? Now's your chance—with artifacts of fate, you can make them dance."
     }
   },
   "3840791265": {
     "displayProperties": {
       "name": "Dominion",
-      "description": "Meet the destroyer, Rhulk."
+      "description": "The Upended is alive. You have no more tasks ahead. Lie down and embrace the darkness beyond your final days."
     }
   },
   "2158557525": {
@@ -133,7 +145,8 @@
   },
   "829896467": {
     "displayProperties": {
-      "name": "Portal"
+      "name": "Open the Portal",
+      "description": "Gain access to the Dreadnaught's inner sanctum."
     }
   },
   "1406613360": {
@@ -192,13 +205,13 @@
   },
   "2890972472": {
     "displayProperties": {
-      "name": "Abyss",
-      "description": "Follow the light."
+      "name": "The Abyss",
+      "description": "Uncover the illuminated path in the darkness."
     }
   },
   "3768812794": {
     "displayProperties": {
-      "name": "Bridge",
+      "name": "Oversoul Throne Bridge",
       "description": "Traverse the bridge and climb the Throne."
     }
   },
@@ -211,7 +224,157 @@
   "4240994016": {
     "displayProperties": {
       "name": "Crota, Son of Oryx",
-      "description": "Defeat the Son of Oryx."
+      "description": "Use Crota's most powerful weapon against him."
+    }
+  },
+  "1899447888": {
+    "displayProperties": {
+      "name": "Search for safe passage",
+      "description": "\"Show me your cunning…\""
+    }
+  },
+  "2700613207": {
+    "displayProperties": {
+      "name": "Vorgeth, the Boundless Hunger",
+      "description": "\"Shape your schemes into reality…\""
+    }
+  },
+  "1340233962": {
+    "displayProperties": {
+      "name": "Dûl Incaru, the Eternal Return",
+      "description": "\"Enter the infinite…\""
+    }
+  },
+  "5808550890": {
+    "displayProperties": {
+      "name": "Necropolis",
+      "description": "Turn the blades of the enemy against them."
+    }
+  },
+  "1826821877": {
+    "displayProperties": {
+      "name": "Chamber of Suffering",
+      "description": "Endure the Chamber of Suffering."
+    }
+  },
+  "133673726": {
+    "displayProperties": {
+      "name": "Zulmak, Instrument of Torment",
+      "description": "Slay Zulmak, Instrument of Torment."
+    }
+  },
+  "2400102494": {
+    "displayProperties": {
+      "name": "Defeat the Phalanx Echo",
+      "description": "Confront the Phalanx Echo, a part of the Nine's answer to your question."
+    }
+  },
+  "3585780724": {
+    "displayProperties": {
+      "name": "Escape",
+      "description": "Find a way forward."
+    }
+  },
+  "3492117941": {
+    "displayProperties": {
+      "name": "Defeat the Kell Echo",
+      "description": "Confront the Kell Echo, a part of the Nine's answer to your question."
+    }
+  },
+  "3998734759": {
+    "displayProperties": {
+      "name": "The Emissary",
+      "description": "Collect your reward from the Nine."
+    }
+  },
+  "2867024332": {
+    "displayProperties": {
+      "name": "Phry'zhia, The Insatiable",
+      "description": "Turn the cycle of greed against your enemies."
+    }
+  },
+  "4063391552": {
+    "displayProperties": {
+      "name": "Fallen Shield",
+      "description": "Fire Servitor remains at the Fallen shield."
+    }
+  },
+  "4056788414": {
+    "displayProperties": {
+      "name": "Captain Avarokk the Covetous",
+      "description": "Turn the cycle of greed against Captain Avarokk the Covetous."
+    }
+  },
+  "1012557098": {
+    "displayProperties": {
+      "name": "Sorrow Bearer",
+      "description": "\"You were born only to suffer, because I could not set aside that which I knew was a trap. My curiosity is a poison flowing through my veins, curdling my heart, rotting my mind. And yet, I do nothing to stop it.\""
+    }
+  },
+  "3780037272": {
+    "displayProperties": {
+      "name": "Vault",
+      "description": "\"I beg you, don't do this.\""
+    }
+  },
+  "1805972064": {
+    "displayProperties": {
+      "name": "Calus's Greatest Shame",
+      "description": "\"Is this what I have done? Once, she looked at me with adoring eyes. I was her world, and she my stars. How have I made her into this? Have I been so blind? So selfish? What have I done?\""
+    }
+  },
+  "1483068591": {
+    "displayProperties": {
+      "name": "Ascend the Spire",
+      "description": "Open a route via the grav lift to the Spire peak, where the Pillory signal is being sourced."
+    }
+  },
+  "1779644342": {
+    "displayProperties": {
+      "name": "Silence the Siren",
+      "description": "Destroy Akelous, the Siren's Current before it can complete the Pillory protocol and imprison Rasputin's subminds."
+    }
+  },
+  "2676434388": {
+    "displayProperties": {
+      "name": "Prompt Critical",
+      "description": "Destroy Persys, Primordial Ruin and prevent the complex's reactor core meltdown from causing irreparable damage."
+    }
+  },
+  "160562459": {
+    "displayProperties": {
+      "name": "Break the Ritual",
+      "description": "Unravel the Lucent Hive ritual."
+    }
+  },
+  "3469402858": {
+    "displayProperties": {
+      "name": "Defeat the Shield of Savathûn",
+      "description": "Defeat Ecthar, the Shield of Savathûn."
+    }
+  },
+  "2189312851": {
+    "displayProperties": {
+      "name": "Defeat Šimmumah ur-Nokru",
+      "description": "Defeat the lightforged necromancer, Šimmumah ur-Nokru."
+    }
+  },
+  "2065920306": {
+    "displayProperties": {
+      "name": "Mysterious Challenger",
+      "description": "A corrupted Knight stands between you and answers. Meet their challenge, leave them broken, but beware latent curses."
+    }
+  },
+  "1306680929": {
+    "displayProperties": {
+      "name": "Wailing Tempest",
+      "description": "Wish for warmth, brave the frigid winds, and silence the Locus of Wailing Grief that sustains them."
+    }
+  },
+  "2741345805": {
+    "displayProperties": {
+      "name": "Quell the Corruption",
+      "description": "\"You have taken my vengeance. My task is done, Naeem's wish fulfilled. Come then, slay me. Let it end.\" —Hefnd"
     }
   }
 }

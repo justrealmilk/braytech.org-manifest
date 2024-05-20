@@ -217,6 +217,18 @@
       "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
     }
   },
+  "seal-score": {
+    "displayProperties": {
+      "name": "印のスコア",
+      "description": "取得した印の合計スコア。"
+    }
+  },
+  "gild-score": {
+    "displayProperties": {
+      "name": "黄金のスコア",
+      "description": "取得した金印の合計スコア。"
+    }
+  },
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "過去の勝利の道のりスコア",
@@ -229,10 +241,64 @@
       "description": "過去とアクティブな勝利の道のりの合計スコア"
     }
   },
+  "collection-score": {
+    "displayProperties": {
+      "name": "コレクションスコア",
+      "description": "これまで入手してきたアイテム合計数"
+    }
+  },
+  "fish-caught-score": {
+    "displayProperties": {
+      "name": "釣果スコア",
+      "description": "これまで釣った魚の合計スコア"
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "ランカーサイズスコア",
+      "description": "ランカーサイズのスコア"
+    }
+  },
   "active-score-rank": {
     "displayProperties": {
       "name": "アクティブスコアランク",
       "description": "Voluspaによる、道のりのスコアランキング。"
+    }
+  },
+  "seal-score-rank": {
+    "displayProperties": {
+      "name": "印のスコアランク",
+      "description": "Voluspa集計による、印スコアのリーダーボードランキング。"
+    }
+  },
+  "gild-score-rank": {
+    "displayProperties": {
+      "name": "黄金のスコアランク",
+      "description": "Voluspa集計による、金印スコアのリーダーボードランキング。"
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "name": "過去のスコアランク",
+      "description": "Voluspa集計による、過去の勝利の道のりのリーダーボードランキング。"
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "name": "コレクションスコアランク",
+      "description": "Voluspa集計による、コレクションのリーダーボードランキング。"
+    }
+  },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "name": "釣果ランク",
+      "description": "Voluspa集計による、釣果のリーダーボードランキング。"
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "name": "ランカーサイズランク",
+      "description": "Voluspa集計による、釣果の重さのリーダーボードランキング。"
     }
   },
   "total-resets": {
@@ -360,16 +426,22 @@
       "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
     }
   },
-  "push-notification-event-weekly-overview": {
+  "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
-      "name": "総まとめ",
-      "description": "リセット毎に更新される、儀式アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
+      "name": "バンシー-44のレジェンダリーアイテム",
+      "description": "タワーの武器職人として、バンシーはガーディアンに最高のものだけを供給している。"
     }
   },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "クルーシブル",
       "description": "シャックス卿が今週のクルーシブルをどのルールにしたかを通知する。\n\n 武勇と栄光のために、週ごとに変わるルールで闘え。"
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "総まとめ",
+      "description": "リセット毎に更新される、儀式アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
     }
   },
   "push-notification-event-this-week-at-bungie": {
