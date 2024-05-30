@@ -81,6 +81,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -470,7 +471,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -687,7 +689,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -921,6 +924,7 @@
       "character-breakdown",
       "character-inventory",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -1243,7 +1247,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "triumphs-user-hidden"
+      "triumphs-user-hidden",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -1565,6 +1570,9 @@
       "well-rested",
       "season-pass-xp-bonus",
       "subscriber-only-features"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "settings-legend"
     ]
   },
   "ko": {
@@ -1669,6 +1677,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2306,6 +2315,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "legend",
       "archives",
       "faq",
@@ -2428,6 +2438,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2561,6 +2572,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -3035,7 +3047,8 @@
       "triumphs-near",
       "character-breakdown",
       "character-inventory",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyDestinationDefinition.json": [
       "3821439926"
@@ -3296,6 +3309,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
