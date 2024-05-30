@@ -419,6 +419,12 @@
       "description": "Support Braytech's development and get \"rizz'd up\" with benefits."
     }
   },
+  "settings-legend": {
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Brandish your profile with a unique username, select a highlight, choose a default character for shared links, and more."
+    }
+  },
   "legend": {
     "displayProperties": {
       "name": "Legend",
