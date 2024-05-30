@@ -498,6 +498,9 @@
         },
         {
           "viewHash": "settings-subscriptions"
+        },
+        {
+          "viewHash": "settings-legend"
         }
       ]
     }
@@ -533,6 +536,14 @@
       "description": "Support Braytech's development and get \"rizz'd up\" with benefits."
     },
     "to": "/settings/subscriptions"
+  },
+  "settings-legend": {
+    "hash": "settings-legend",
+    "displayProperties": {
+      "name": "Legend",
+      "description": "Brandish your profile with a unique username, select a highlight, choose a default character for shared links, and more."
+    },
+    "to": "/settings/legend"
   },
   "legend": {
     "hash": "legend",
