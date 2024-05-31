@@ -139,6 +139,18 @@
     },
     "itemTypeDisplayName": "Especial"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "Well Rested",
+      "description": "Las ganancias de EXP se han multiplicado por 2 en los 5 primeros rangos de temporada de esta semana. Completar los desafíos de temporada es lo que más progreso otorga, seguido de los contratos y las aventuras."
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "Bonifiación de EXP del Pase de Temporada",
+      "description": "Se pueden desbloquear varias bonificaciones de EXP al progresar en el pase de temporada."
+    }
+  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "Bajas únicas con arma",
@@ -184,7 +196,7 @@
   "record-intervals": {
     "displayProperties": {
       "name": "Pasos del triunfo",
-      "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntuación variados."
+      "description": "Algunos triunfos tienen pasos. Los diferentes pasos tienen requisitos y valores de puntaje variados."
     }
   },
   "add-record-track": {
@@ -213,26 +225,92 @@
   },
   "active-triumph-score": {
     "displayProperties": {
-      "name": "Puntuación de triunfos activos",
-      "description": "La puntuación de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntuación varía cuando los triunfos activos pasan a convertirse en triunfos de legado."
+      "name": "Puntaje de triunfos activos",
+      "description": "La puntaje de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntaje varía cuando los triunfos activos pasan a convertirse en triunfos de legado."
+    }
+  },
+  "seal-score": {
+    "displayProperties": {
+      "name": "Puntaje de sello",
+      "description": "La suma de sellos que completaste."
+    }
+  },
+  "gild-score": {
+    "displayProperties": {
+      "name": "Puntaje de dorados",
+      "description": "El exhaustivo y completo recuento de los sellos dorados."
     }
   },
   "legacy-triumph-score": {
     "displayProperties": {
-      "name": "Puntuación de triunfos de legado",
-      "description": "Puntuación total de triunfos de legado completados."
+      "name": "Puntaje de triunfos de legado",
+      "description": "Puntaje total de triunfos de legado completados."
     }
   },
   "lifetime-triumph-score": {
     "displayProperties": {
-      "name": "Puntuación global de triunfos",
-      "description": "Una combinación de la puntuación de todos los triunfos completados, activos y de legado."
+      "name": "Puntaje global de triunfos",
+      "description": "Una combinación de la puntaje de todos los triunfos completados, activos y de legado."
+    }
+  },
+  "collection-score": {
+    "displayProperties": {
+      "name": "Puntaje de colección",
+      "description": "La suma de objetos que acumulaste y guardaste como parte de tu arsenal."
+    }
+  },
+  "fish-caught-score": {
+    "displayProperties": {
+      "name": "Puntaje de peces capturados",
+      "description": "La suma de peces que pescaste."
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "Puntaje del peso de los peces",
+      "description": "La mayor captura registrada."
     }
   },
   "active-score-rank": {
     "displayProperties": {
-      "name": "Rango de puntuación activa",
+      "name": "Rango de puntaje activa",
       "description": "La clasificación de las tablas de clasificación para el puntaje de triunfo correspondiente, determinada por Voluspa."
+    }
+  },
+  "seal-score-rank": {
+    "displayProperties": {
+      "name": "Rango de puntaje del sello",
+      "description": "La clasificación de las tablas de clasificación para el puntaje del sello correspondiente, determinada por Voluspa."
+    }
+  },
+  "gild-score-rank": {
+    "displayProperties": {
+      "name": "Rango de puntaje dorada",
+      "description": "La clasificación de las tablas de clasificación para el puntaje dorado correspondiente, determinada por Voluspa."
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "name": "Rango de puntaje de legado",
+      "description": "La clasificación de las tablas de clasificación para el puntaje de legado correspondiente, determinada por Voluspa."
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "name": "Rango de puntaje de colecciones",
+      "description": "La clasificación de las tablas de clasificación para el puntaje de colecciones correspondiente, determinada por Voluspa."
+    }
+  },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "name": "Rango de peces capturados",
+      "description": "La clasificación de las tablas de clasificación para el puntaje de peces capturados correspondiente, determinada por Voluspa."
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "name": "Rango de peso de peces",
+      "description": "La clasificación de las tablas de clasificación para el puntaje del peso de los peces correspondiente, determinada por Voluspa."
     }
   },
   "total-resets": {
@@ -360,6 +438,12 @@
       "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
     }
   },
+  "push-notification-event-daily-vendor-banshee44": {
+    "displayProperties": {
+      "name": "Legendarias de Banshee-44",
+      "description": "Como maestro armero de la Torre, Banshee suministra a los Guardianes sólo lo mejor."
+    }
+  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "Crisol",
@@ -376,6 +460,12 @@
     "displayProperties": {
       "name": "Esta semana en Bungie",
       "description": "Recibe directamente las últimas noticias de Bungie. Frescas y actuales desde 2004. "
+    }
+  },
+  "subscriber-only-features": {
+    "displayProperties": {
+      "name": "Funciones exclusivas para suscriptores",
+      "description": "**Nombre de usuario Braytech personalizado**\n\nEn lugar de `https://bray.tech/1/4611686018449662397` podrías tener `https://bray.tech/@/Titan_Favorito_de_Zavala` 🥹\n\n**Características de las tablas de clasificación avanzadas**\n\n- Inspecciona rápidamente la diferencia entre dos jugadores vecinos\n\n_Más próximamente..._"
     }
   }
 }

@@ -23,6 +23,12 @@
       "description": "Toma medidas sobre asuntos y miembros del clan."
     }
   },
+  "clan-historical-stats": {
+    "displayProperties": {
+      "name": "Estadísticas históricas",
+      "description": "Compara las estadísticas de jugadores, desglosadas por modo de actividad. Para más información sobre la precisión de estas estadísticas, consulta [FAQ](/addendums/faq)."
+    }
+  },
   "clan-relationships": {
     "displayProperties": {
       "name": "Relaciones",
@@ -42,6 +48,12 @@
       "catalizadores",
       "historia"
     ]
+  },
+  "collections-sets": {
+    "displayProperties": {
+      "name": "Conjuntos",
+      "description": "Colecciones organizadas de artículos valiosos procedentes de lugares específicos, como incursiones y mazmorras."
+    }
   },
   "collections-lore": {
     "displayProperties": {
@@ -288,7 +300,13 @@
     "displayProperties": {
       "name": "Aventuras",
       "description": "Sigue tus actividades, entre ellas aventuras y contratos"
-    }
+    },
+    "keywords": [
+      "aventuras",
+      "nueva luz",
+      "contrato",
+      "contratos"
+    ]
   },
   "quests-bounties": {
     "displayProperties": {
@@ -296,7 +314,8 @@
       "description": "Todos los contratos del Guardián seleccionado."
     },
     "keywords": [
-      "contrato"
+      "contrato",
+      "contratos"
     ]
   },
   "activity": {
@@ -392,6 +411,12 @@
     "displayProperties": {
       "name": "Notificaciones push",
       "description": "Controla cómo Braytech te envía datos cuando no lo estás usando."
+    }
+  },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Suscripciones",
+      "description": "Apoya el desarrollo de Braytech y consigue beneficios."
     }
   },
   "legend": {
