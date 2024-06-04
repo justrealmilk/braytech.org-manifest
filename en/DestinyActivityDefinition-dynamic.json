@@ -20,9 +20,6 @@
   "68611399": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
   },
-  "145221019": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/gateway_ls.jpg"
-  },
   "145221020": {
     "pgcrImageLocal": "/static/images/screenshots/activity/gateway_ls.jpg"
   },
@@ -119,9 +116,6 @@
   "480864721": {
     "pgcrImageLocal": "/static/images/screenshots/activity/canal_ls.jpg"
   },
-  "480864726": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/canal_ls.jpg"
-  },
   "507866984": {
     "pgcrImageLocal": "/static/images/screenshots/activity/season_19_battleground_polaris.jpg"
   },
@@ -179,10 +173,6 @@
     "pgcrImage": "/img/destiny_content/pgcr/dreaming_city_bay_of_drowned_wishes.jpg",
     "pgcrImageLocal": "/static/images/screenshots/activity/dreaming_city_bay_of_drowned_wishes.jpg"
   },
-  "660710127": {
-    "pgcrImage": "/img/destiny_content/pgcr/dreaming_city_bay_of_drowned_wishes.jpg",
-    "pgcrImageLocal": "/static/images/screenshots/activity/dreaming_city_bay_of_drowned_wishes.jpg"
-  },
   "661855681": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_lake_of_shadows.jpg"
   },
@@ -222,9 +212,6 @@
   "912873274": {
     "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-frost.jpg"
   },
-  "912873277": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-frost.jpg"
-  },
   "927394522": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_glee.jpg"
   },
@@ -261,9 +248,6 @@
   "1070981425": {
     "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-shear.jpg"
   },
-  "1070981430": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-shear.jpg"
-  },
   "1107473294": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_inverted_spire.jpg"
   },
@@ -271,9 +255,6 @@
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_aries.jpg"
   },
   "1163502296": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/nessus_the_conflux.jpg"
-  },
-  "1163502303": {
     "pgcrImageLocal": "/static/images/screenshots/activity/nessus_the_conflux.jpg"
   },
   "1203950592": {
@@ -369,6 +350,9 @@
   "1446478334": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_the_arms_dealer.jpg"
   },
+  "1468958662": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
+  },
   "1471566974": {
     "pgcrImageLocal": "/static/images/screenshots/activity/season_19_battleground_europa.jpg"
   },
@@ -405,11 +389,11 @@
   "1509764575": {
     "pgcrImageLocal": "/static/images/screenshots/activity/gateway_ls.jpg"
   },
-  "1549614516": {
+  "1545783077": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
   },
-  "1551471969": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/nessus_the_rift.jpg"
+  "1549614516": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
   },
   "1551471974": {
     "pgcrImageLocal": "/static/images/screenshots/activity/nessus_the_rift.jpg"
@@ -430,9 +414,6 @@
     "pgcrImageLocal": "/static/images/screenshots/activity/season_19_battleground_luna.jpg"
   },
   "1648125538": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-overhang.jpg"
-  },
-  "1648125541": {
     "pgcrImageLocal": "/static/images/screenshots/activity/europa-lost-sector-overhang.jpg"
   },
   "1679518121": {
@@ -624,6 +605,9 @@
   "2258250028": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_the_arms_dealer.jpg"
   },
+  "2280860193": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
+  },
   "2318521576": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_lake_of_shadows.jpg"
   },
@@ -728,6 +712,18 @@
   },
   "2766844310": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_birthplace.jpg"
+  },
+  "2823591786": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
+  },
+  "2823591787": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
+  },
+  "2823591788": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
+  },
+  "2823591789": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/strike_exodus_crash.jpg"
   },
   "2930649307": {
     "pgcrImageLocal": "/static/images/screenshots/activity/europa-strike-blackbird.jpg"
@@ -891,9 +887,6 @@
   "3416795602": {
     "pgcrImageLocal": "/static/images/screenshots/activity/neomuna_lost_sector_thrilladrome.jpg"
   },
-  "3416795605": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/neomuna_lost_sector_thrilladrome.jpg"
-  },
   "3418624832": {
     "pgcrImageLocal": "/static/images/screenshots/activity/nessus_proving_grounds.jpg"
   },
@@ -941,9 +934,6 @@
   },
   "3643233460": {
     "pgcrImageLocal": "/static/images/screenshots/activity/strike_the_scarlet_keep.jpg"
-  },
-  "3678847129": {
-    "pgcrImageLocal": "/static/images/screenshots/activity/bayou_ls.jpg"
   },
   "3678847134": {
     "pgcrImageLocal": "/static/images/screenshots/activity/bayou_ls.jpg"
