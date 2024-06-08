@@ -139,6 +139,18 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "おかえりなさい",
+      "description": "シーズンランク5までは経験値ボーナスが2倍です。\n\n最も経験値が得られるのはシーズンの挑戦で、その次にバウンティとクエストになります。"
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "シーズンパス経験値ボーナス",
+      "description": "シーズンパスを進めることで、様々な経験値ボーナスがアンロックされます。"
+    }
+  },
   "unique-weapon-kills": {
     "displayProperties": {
       "name": "特別な武器でのキル数",
@@ -448,6 +460,12 @@
     "displayProperties": {
       "name": "今週のBungie",
       "description": "バンジーの最新ニュースを直接お届けします。2004年以来、新鮮でホットな情報をお届けしています。 "
+    }
+  },
+  "subscriber-only-features": {
+    "displayProperties": {
+      "name": "サブスクライバー限定特典",
+      "description": "**Braytechでのユーザー名表示カスタム機能**\n\n`https://bray.tech/1/4611686018449662397`のようなIDではなく、`https://bray.tech/@/Dare`のように指定できます。\n\n**追加リーダーボード機能**\n\nスコアの近いライバルの簡易チェック機能など\n\n_乞うご期待..._"
     }
   }
 }

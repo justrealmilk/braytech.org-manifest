@@ -300,7 +300,13 @@
     "displayProperties": {
       "name": "クエスト",
       "description": "クエストやバウンティの追跡"
-    }
+    },
+    "keywords": [
+      "クエスト",
+      "新たな光",
+      "バウンティ",
+      "複数バウンティ"
+    ]
   },
   "quests-bounties": {
     "displayProperties": {
@@ -308,7 +314,8 @@
       "description": "ガーディアンが引き受けたバウンティすべて"
     },
     "keywords": [
-      "バウンティ"
+      "バウンティ",
+      "複数バウンティ"
     ]
   },
   "activity": {
@@ -410,6 +417,12 @@
     "displayProperties": {
       "name": "サブスクリプション",
       "description": "Braytechが継続できるよう支援し、\"アガる\" 特典をゲットしよう。"
+    }
+  },
+  "settings-legend": {
+    "displayProperties": {
+      "name": "階級",
+      "description": "好きな名前でプロフィールリンクを作成したり、まず紹介したい道のりを選択し、共有リンクのデフォルト文字の変更などができます。"
     }
   },
   "legend": {
