@@ -21,6 +21,7 @@
     }
   },
   "34300000001": {
+    "hash": 34300000001,
     "displayProperties": {
       "name": "Shielded Foes",
       "description": "You will face combatants with [Solar] Solar and [Arc] Arc shields.",
@@ -28,6 +29,7 @@
     }
   },
   "34300000002": {
+    "hash": 34300000002,
     "displayProperties": {
       "name": "Shielded Foes",
       "description": "You will face combatants with [Solar] Solar and [Void] Void shields.",
@@ -35,6 +37,7 @@
     }
   },
   "34300000003": {
+    "hash": 34300000003,
     "displayProperties": {
       "name": "Shielded Foes",
       "description": "You will face combatants with [Arc] Arc and [Void] Void shields.",
@@ -42,10 +45,19 @@
     }
   },
   "34300000004": {
+    "hash": 34300000004,
     "displayProperties": {
       "name": "Shielded Foes",
       "description": "You will face combatants with [Solar] Solar, [Arc] Arc, and [Void] Void shields.",
       "icon": "/static/images/extracts/ui/modifiers/modifier-solar-arc-void.png"
+    }
+  },
+  "4218937993": {
+    "hash": 4218937993,
+    "displayProperties": {
+      "name": "Champions: Unstoppable",
+      "description": "This mode contains Unstoppable Champions, which cannot be stopped without an Unstoppable mod.",
+      "icon": "/static/images/extracts/ui/modifiers/9caeb47c43fbe011607af18409d8162f.png"
     }
   },
   "191124900": {
