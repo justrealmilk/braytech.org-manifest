@@ -41,6 +41,12 @@
       "description": "You will face combatants with [Solar] Solar, [Arc] Arc, and [Void] Void shields."
     }
   },
+  "4218937993": {
+    "displayProperties": {
+      "name": "Champions: Unstoppable",
+      "description": "This mode contains Unstoppable Champions, which cannot be stopped without an Unstoppable mod."
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "Prior to each damage phase, break **all four** of Taniks' **thrusters** and deposit all Nuclear charges."
