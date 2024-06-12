@@ -265,6 +265,13 @@
     "activityModeHashes": [2043403989, 1164760493],
     "activityModeTypes": [4, 7]
   },
+  "107319834": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/raid_crotas_end.jpg",
+    "directActivityModeHash": 2043403989,
+    "directActivityModeType": 4,
+    "activityModeHashes": [2043403989, 1164760493],
+    "activityModeTypes": [4, 7]
+  },
   "313828469": {
     "pgcrImageLocal": "/static/images/screenshots/activity/dungeon_ghosts_of_the_deep.jpg"
   },
