@@ -399,7 +399,7 @@
       "description": ""
     },
     "startDate": "2024-06-04T17:00:00Z",
-    "cadence": 1,
+    "cadence": 7,
     "rotation": [
       {
         "nodeHash": 310,
