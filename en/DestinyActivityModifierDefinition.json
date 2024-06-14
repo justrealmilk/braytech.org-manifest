@@ -2,43 +2,62 @@
   "25589576690": {
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Solar] Solar shields."
+      "description": "You will face combatants with [Solar] Solar shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-solar.png"
     }
   },
   "32153845200": {
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Arc] Arc shields."
+      "description": "You will face combatants with [Arc] Arc shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-arc.png"
     }
   },
   "33620748140": {
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Void] Void shields."
+      "description": "You will face combatants with [Void] Void shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-void.png"
     }
   },
   "34300000001": {
+    "hash": 34300000001,
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Solar] Solar and [Arc] Arc shields."
+      "description": "You will face combatants with [Solar] Solar and [Arc] Arc shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-solar-arc.png"
     }
   },
   "34300000002": {
+    "hash": 34300000002,
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Solar] Solar and [Void] Void shields."
+      "description": "You will face combatants with [Solar] Solar and [Void] Void shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-solar-void.png"
     }
   },
   "34300000003": {
+    "hash": 34300000003,
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Arc] Arc and [Void] Void shields."
+      "description": "You will face combatants with [Arc] Arc and [Void] Void shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-arc-void.png"
     }
   },
   "34300000004": {
+    "hash": 34300000004,
     "displayProperties": {
       "name": "Shielded Foes",
-      "description": "You will face combatants with [Solar] Solar, [Arc] Arc, and [Void] Void shields."
+      "description": "You will face combatants with [Solar] Solar, [Arc] Arc, and [Void] Void shields.",
+      "icon": "/static/images/extracts/ui/modifiers/modifier-solar-arc-void.png"
+    }
+  },
+  "4218937993": {
+    "hash": 4218937993,
+    "displayProperties": {
+      "name": "Champions: Unstoppable",
+      "description": "This mode contains Unstoppable Champions, which cannot be stopped without an Unstoppable mod.",
+      "icon": "/static/images/extracts/ui/modifiers/9caeb47c43fbe011607af18409d8162f.png"
     }
   },
   "191124900": {

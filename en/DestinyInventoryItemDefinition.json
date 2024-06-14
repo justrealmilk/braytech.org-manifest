@@ -53,20 +53,54 @@
   },
   "691393048": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience substantially."
+      "description": "Increases your Guardian's experience substantially.",
+      "icon": "/static/images/extracts/ui/xp+.png"
     },
     "traitIds": ["item_type.experience"]
   },
   "1711513650": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience enormously."
+      "description": "Increases your Guardian's experience greatly.",
+      "icon": "/static/images/extracts/ui/xp+++.png"
     },
     "traitIds": ["item_type.experience"]
   },
   "1858002338": {
     "displayProperties": {
-      "description": "Increases your Guardian's experience."
+      "description": "Increases your Guardian's experience.",
+      "icon": "/static/images/extracts/ui/xp.png"
     },
+    "traitIds": ["item_type.experience"]
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience.",
+      "icon": "/static/images/extracts/ui/xp.png"
+    },
+    "traitIds": ["item_type.experience"]
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly.",
+      "icon": "/static/images/extracts/ui/xp++.png"
+    },
+    "traitIds": ["item_type.experience"]
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially.",
+      "icon": "/static/images/extracts/ui/xp+.png"
+    },
+    "traitIds": ["item_type.experience"]
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly.",
+      "icon": "/static/images/extracts/ui/xp++.png"
+    },
+    "traitIds": ["item_type.experience"]
+  },
+  "2690747565": {
     "traitIds": ["item_type.experience"]
   },
   "951399115": {
@@ -134,33 +168,6 @@
       "name": "Increased \"Burried Bloodline\" drop rate",
       "description": "Increases the initial drop rate of the \"Burried Bloodline\" exotic sidearm from the \"Warlord's Ruin\" dungeon."
     }
-  },
-  "2174060729": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience."
-    },
-    "traitIds": ["item_type.experience"]
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
-    },
-    "traitIds": ["item_type.experience"]
-  },
-  "3348653032": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience substantially."
-    },
-    "traitIds": ["item_type.experience"]
-  },
-  "3381471334": {
-    "traitIds": ["item_type.experience"]
-  },
-  "3582080006": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
-    },
-    "traitIds": ["item_type.experience"]
   },
   "3491404510": {
     "displayProperties": {

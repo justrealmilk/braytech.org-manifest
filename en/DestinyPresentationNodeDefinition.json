@@ -81,23 +81,7 @@
   "1000000002": {
     "hash": 1000000002,
     "children": {
-      "presentationNodes": [
-        {
-          "presentationNodeHash": 2566909062
-        },
-        {
-          "presentationNodeHash": 2183748517
-        },
-        {
-          "presentationNodeHash": 264892844
-        },
-        {
-          "presentationNodeHash": 4229305251
-        },
-        {
-          "presentationNodeHash": 3121766601
-        }
-      ],
+      "presentationNodes": [],
       "collectibles": [],
       "records": [],
       "metrics": [],

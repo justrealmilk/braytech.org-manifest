@@ -58,18 +58,6 @@
       "description": "Augmente l'expérience de votre gardien."
     }
   },
-  "1950177353": {
-    "displayProperties": {
-      "name": "Augmente le taux de d'obtention de \"Cardiombre\"",
-      "description": "Augmente le taux de d'obtention de l'épée exotique \"Cardiombre\" du donjon \"Dualité\"."
-    }
-  },
-  "3224646387": {
-    "displayProperties": {
-      "name": "Augmente le taux d'obtention de \"Hiérarchie des Besoins\"",
-      "description": "Augmente le taux d'obtention de l'épée exotique \"Hiérarchie des Besoins\" du donjon \"Flèche de la Vigie\"."
-    }
-  },
   "2174060729": {
     "displayProperties": {
       "description": "Augmente l'expérience de votre gardien."
@@ -88,6 +76,18 @@
   "3582080006": {
     "displayProperties": {
       "description": "Augmente considérablement l'expérience de votre gardien."
+    }
+  },
+  "1950177353": {
+    "displayProperties": {
+      "name": "Augmente le taux de d'obtention de \"Cardiombre\"",
+      "description": "Augmente le taux de d'obtention de l'épée exotique \"Cardiombre\" du donjon \"Dualité\"."
+    }
+  },
+  "3224646387": {
+    "displayProperties": {
+      "name": "Augmente le taux d'obtention de \"Hiérarchie des Besoins\"",
+      "description": "Augmente le taux d'obtention de l'épée exotique \"Hiérarchie des Besoins\" du donjon \"Flèche de la Vigie\"."
     }
   },
   "3491404510": {

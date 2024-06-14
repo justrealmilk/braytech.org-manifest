@@ -81,6 +81,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -150,6 +151,7 @@
       "4224291482"
     ],
     "DestinyActivityModifierDefinition.json": [
+      "4218937993",
       "3577304467",
       "2159250954",
       "2890753840",
@@ -470,7 +472,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -536,6 +539,9 @@
       "1441982566",
       "1374392663",
       "2381413764"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "4218937993"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -646,7 +652,15 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10"
     ]
   },
   "es-MX": {
@@ -687,7 +701,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -753,6 +768,9 @@
       "1441982566",
       "1374392663",
       "2381413764"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "4218937993"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -863,7 +881,15 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10"
     ]
   },
   "fr": {
@@ -921,6 +947,7 @@
       "character-breakdown",
       "character-inventory",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -990,6 +1017,7 @@
       "4224291482"
     ],
     "DestinyActivityModifierDefinition.json": [
+      "4218937993",
       "766975360",
       "138641527",
       "2070303007",
@@ -1197,7 +1225,12 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
     ],
     "DestinyActivityModeDefinition.json": [
       "2486723318",
@@ -1243,7 +1276,8 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
-      "triumphs-user-hidden"
+      "triumphs-user-hidden",
+      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -1309,6 +1343,9 @@
       "1441982566",
       "1374392663",
       "2381413764"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "4218937993"
     ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009"
@@ -1557,14 +1594,30 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10"
     ]
   },
   "ja": {
-    "BraytechCommonDefinition.json": [
-      "well-rested",
-      "season-pass-xp-bonus",
-      "subscriber-only-features"
+    "DestinyActivityModifierDefinition.json": [
+      "4218937993"
+    ],
+    "DestinyPhaseDefinition.json": [
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10"
     ]
   },
   "ko": {
@@ -1669,6 +1722,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -1677,6 +1731,7 @@
       "703136805"
     ],
     "DestinyActivityModifierDefinition.json": [
+      "4218937993",
       "766975360",
       "138641527",
       "2070303007",
@@ -2041,6 +2096,10 @@
       "1190250163",
       "691393048",
       "1711513650",
+      "2174060729",
+      "2250176030",
+      "3348653032",
+      "3582080006",
       "951399115",
       "700251940",
       "901060145",
@@ -2052,10 +2111,6 @@
       "734180536",
       "2126433420",
       "860071581",
-      "2174060729",
-      "2250176030",
-      "3348653032",
-      "3582080006",
       "3491404510",
       "2497395625"
     ],
@@ -2153,7 +2208,12 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
     ],
     "DestinyActivityModeDefinition.json": [
       "9924991580",
@@ -2306,6 +2366,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "legend",
       "archives",
       "faq",
@@ -2428,6 +2489,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2443,6 +2505,7 @@
       "34300000002",
       "34300000003",
       "34300000004",
+      "4218937993",
       "2098788044",
       "2255984700",
       "2672226122",
@@ -2561,6 +2624,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -2651,6 +2715,7 @@
       "34300000002",
       "34300000003",
       "34300000004",
+      "4218937993",
       "3577304467",
       "2159250954",
       "2890753840",
@@ -2891,6 +2956,10 @@
       "1190250163",
       "691393048",
       "1711513650",
+      "2174060729",
+      "2250176030",
+      "3348653032",
+      "3582080006",
       "951399115",
       "700251940",
       "901060145",
@@ -2902,10 +2971,6 @@
       "734180536",
       "2126433420",
       "860071581",
-      "2174060729",
-      "2250176030",
-      "3348653032",
-      "3582080006",
       "3491404510",
       "2497395625"
     ],
@@ -3035,7 +3100,8 @@
       "triumphs-near",
       "character-breakdown",
       "character-inventory",
-      "settings-subscriptions"
+      "settings-subscriptions",
+      "settings-legend"
     ],
     "DestinyDestinationDefinition.json": [
       "3821439926"
@@ -3099,6 +3165,7 @@
       "4224291482"
     ],
     "DestinyActivityModifierDefinition.json": [
+      "4218937993",
       "3636591526",
       "2768385440",
       "732074628",
@@ -3162,7 +3229,15 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10"
     ]
   },
   "zh-CHT": {
@@ -3296,6 +3371,7 @@
       "settings-advanced",
       "settings-push-notifications",
       "settings-subscriptions",
+      "settings-legend",
       "leaderboards",
       "fireteam-monitor"
     ],
@@ -3311,6 +3387,7 @@
       "34300000002",
       "34300000003",
       "34300000004",
+      "4218937993",
       "274420331",
       "787678752",
       "1572570117",
@@ -3413,7 +3490,12 @@
       "2189312851",
       "2065920306",
       "1306680929",
-      "2741345805"
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831"
     ]
   }
 }

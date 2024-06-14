@@ -64,6 +64,26 @@
       "description": "ガーディアンの経験値を増やす。"
     }
   },
+  "2174060729": {
+    "displayProperties": {
+      "description": "ガーディアンの経験値を増加させる。"
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "ガーディアンの経験値を大幅に増加させる。"
+    }
+  },
+  "3348653032": {
+    "displayProperties": {
+      "description": "ガーディアンの経験値を大幅に増加させます。"
+    }
+  },
+  "3582080006": {
+    "displayProperties": {
+      "description": "ガーディアンの経験値を大幅に増加させる。"
+    }
+  },
   "951399115": {
     "displayProperties": {
       "name": " \"無数の声\" のドロップ率上昇",
@@ -128,26 +148,6 @@
     "displayProperties": {
       "name": " \"埋蔵されし血族\" のドロップ率増加",
       "description": "迷宮 \"ウォーロックの旧跡\" でエキゾチックピストル \"埋蔵されし血族\" のドロップ率が増加します。"
-    }
-  },
-  "2174060729": {
-    "displayProperties": {
-      "description": "ガーディアンの経験値を増加させる。"
-    }
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "ガーディアンの経験値を大幅に増加させる。"
-    }
-  },
-  "3348653032": {
-    "displayProperties": {
-      "description": "ガーディアンの経験値を大幅に増加させます。"
-    }
-  },
-  "3582080006": {
-    "displayProperties": {
-      "description": "ガーディアンの経験値を大幅に増加させる。"
     }
   },
   "3491404510": {

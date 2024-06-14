@@ -391,5 +391,43 @@
         "records": []
       }
     ]
+  },
+  "10": {
+    "hash": 10,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "startDate": "2024-06-04T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 310,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 311,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 312,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }

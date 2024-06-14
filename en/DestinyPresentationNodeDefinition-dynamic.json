@@ -98,6 +98,15 @@
       "alpha": 255
     }
   },
+  "426994167": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 21,
+      "green": 43,
+      "blue": 37,
+      "alpha": 255
+    }
+  },
   "459849722": {
     "backgroundColor": {
       "colorHash": 0,
@@ -113,6 +122,15 @@
       "red": 97,
       "green": 200,
       "blue": 250,
+      "alpha": 255
+    }
+  },
+  "486821993": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 44,
+      "green": 42,
+      "blue": 49,
       "alpha": 255
     }
   },
@@ -323,6 +341,15 @@
       "alpha": 255
     }
   },
+  "1726786241": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 64,
+      "green": 57,
+      "blue": 70,
+      "alpha": 255
+    }
+  },
   "1737909884": {
     "backgroundColor": {
       "colorHash": 0,
@@ -455,6 +482,24 @@
       "red": 40,
       "green": 34,
       "blue": 60,
+      "alpha": 255
+    }
+  },
+  "2336350311": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 40,
+      "green": 56,
+      "blue": 60,
+      "alpha": 255
+    }
+  },
+  "2336445794": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 35,
+      "green": 31,
+      "blue": 35,
       "alpha": 255
     }
   },
