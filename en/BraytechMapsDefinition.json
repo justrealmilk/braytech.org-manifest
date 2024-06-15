@@ -10950,5 +10950,14 @@
         }
       ]
     }
+  },
+  "3998251206": {
+    "hash": 3998251206,
+    "displayProperties": {
+      "description": "A surreal domain of memory within the Traveler, corrupted by the Witness."
+    },
+    "related": {
+      "events": []
+    }
   }
 }
