@@ -380,31 +380,31 @@
   "2761002327": {
     "displayProperties": {
       "name": "Substratum",
-      "description": "???????"
+      "description": "Gain access to the monolith"
     }
   },
   "193978048": {
     "displayProperties": {
       "name": "Dissipation",
-      "description": "???????"
+      "description": "Defeat the Herald"
     }
   },
   "1727550020": {
     "displayProperties": {
       "name": "Repository",
-      "description": "???????"
+      "description": "Carve A Path"
     }
   },
   "637313410": {
     "displayProperties": {
       "name": "Verity",
-      "description": "???????"
+      "description": "See Beyond"
     }
   },
   "4077323831": {
     "displayProperties": {
-      "name": "Witness",
-      "description": "???????"
+      "name": "The Witness",
+      "description": "Stop the Final Shape"
     }
   }
 }
