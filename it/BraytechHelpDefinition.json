@@ -62,7 +62,7 @@
   "5000000011": {
     "displayProperties": {
       "name": "Dati dei forzieri della regione",
-      "description": "Alcuni forzieri della regione sono connessi incorrettamente all'API, nonostante siano disponibili correttamente nel gioco. Ciò fa sì che alcuni forzieri, in particolare quelli nella [Città Sognante](/maps/dreaming-city), riportino erroneamente il proprio stato.\n\nGli elementi della lista collezionabili che possono avere dati non affidabili sono contrassegnati da un segno diagonale nella propria casella."
+      "description": "Alcuni forzieri della regione sono connessi incorrettamente all'API, nonostante siano disponibili correttamente nel gioco. Ciò fa sì che alcuni forzieri, in particolare quelli nella [Città Sognante](/maps/the-dreaming-city), riportino erroneamente il proprio stato.\n\nGli elementi della lista collezionabili che possono avere dati non affidabili sono contrassegnati da un segno diagonale nella propria casella."
     }
   }
 }
