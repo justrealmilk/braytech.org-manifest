@@ -133,7 +133,63 @@
     "displayProperties": {
       "name": "",
       "description": ""
-    }
+    },
+    "bubbles": [
+      {
+        "hash": 20325340901,
+        "displayProperties": {
+          "name": "Erebus"
+        }
+      },
+      {
+        "hash": 20325340902,
+        "displayProperties": {
+          "name": "The Ingress"
+        }
+      },
+      {
+        "hash": 20325340903,
+        "displayProperties": {
+          "name": "Tower of the Deep"
+        }
+      },
+      {
+        "hash": 20325340904,
+        "displayProperties": {
+          "name": "Hallowed Grounds"
+        }
+      },
+      {
+        "hash": 20325340905,
+        "displayProperties": {
+          "name": "Garden of the Prophet"
+        }
+      },
+      {
+        "hash": 20325340906,
+        "displayProperties": {
+          "name": "Binary Shrine"
+        }
+      },
+      {
+        "hash": 20325340907,
+        "displayProperties": {
+          "name": "Shattered Cliffs"
+        }
+      },
+      {
+        "hash": 20325340908,
+        "displayProperties": {
+          "name": "Temple of the Infinite"
+        }
+      },
+      {
+        "hash": 20325340909,
+        "displayProperties": {
+          "name": "Tower of the Sky"
+        }
+      }
+    ]
   },
   "677774031": {
     "bubbles": [
