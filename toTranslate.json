@@ -92,6 +92,9 @@
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
     ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
+    ],
     "DestinyCollectibleDefinition.json": [
       "2056946089",
       "651647954",
@@ -478,6 +481,9 @@
       "settings-subscriptions",
       "settings-legend"
     ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
+    ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
       "651647959",
@@ -713,6 +719,9 @@
       "collections-sets",
       "settings-subscriptions",
       "settings-legend"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -974,6 +983,9 @@
     ],
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
     ],
     "DestinyCollectibleDefinition.json": [
       "2056946089",
@@ -1298,6 +1310,9 @@
       "collections-sets",
       "triumphs-user-hidden",
       "settings-legend"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -1634,6 +1649,9 @@
     ]
   },
   "ja": {
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
+    ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993"
     ],
@@ -1770,6 +1788,9 @@
     "DestinyChecklistDefinition.json": [
       "1793940260",
       "703136805"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -2676,6 +2697,9 @@
       "1793940260",
       "703136805"
     ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090"
+    ],
     "DestinyCollectibleDefinition.json": [
       "2056946089",
       "1171206947",
@@ -3150,7 +3174,8 @@
       "settings-legend"
     ],
     "DestinyDestinationDefinition.json": [
-      "3821439926"
+      "3821439926",
+      "2032534090"
     ],
     "DestinyCollectibleDefinition.json": [
       "2056946089",
