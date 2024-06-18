@@ -849,12 +849,25 @@
   },
   "300": {
     "hash": 300,
+    "nodeType": 10,
     "displayProperties": {
       "name": "",
-      "description": ""
+      "description": "",
+      "icon": "vendor-xur"
     },
-    "destinationHash": 2481646875,
-    "bubbleHash": 4158493479
+    "vendorHash": 2190858386,
+    "destinationHash": 1737926756,
+    "bubbleHash": 2372580540,
+    "activityHash": 3737830648,
+    "map": {
+      "points": [
+        {
+          "x": 580,
+          "y": 418
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-5-2.jpg"
   },
   "301": {
     "hash": 301,
@@ -863,7 +876,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 473462131
+    "bubbleHash": 4158493479
   },
   "302": {
     "hash": 302,
@@ -872,7 +885,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 3773756244
+    "bubbleHash": 473462131
   },
   "303": {
     "hash": 303,
@@ -881,7 +894,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 473462131
+    "bubbleHash": 3773756244
   },
   "304": {
     "hash": 304,
@@ -890,7 +903,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 3773756244
+    "bubbleHash": 473462131
   },
   "305": {
     "hash": 305,
@@ -899,7 +912,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 4158493479
+    "bubbleHash": 3773756244
   },
   "306": {
     "hash": 306,
@@ -907,7 +920,8 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 201280774
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
   },
   "307": {
     "hash": 307,
@@ -915,7 +929,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 2948928434
+    "activityHash": 201280774
   },
   "308": {
     "hash": 308,
@@ -923,7 +937,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 54269080
+    "activityHash": 2948928434
   },
   "309": {
     "hash": 309,
@@ -931,7 +945,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 3333680772
+    "activityHash": 54269080
   },
   "310": {
     "hash": 310,
@@ -939,7 +953,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 230477216
+    "activityHash": 3333680772
   },
   "311": {
     "hash": 311,
@@ -947,10 +961,18 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 1329796464
+    "activityHash": 230477216
   },
   "312": {
     "hash": 312,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 1329796464
+  },
+  "313": {
+    "hash": 313,
     "displayProperties": {
       "name": "",
       "description": ""
