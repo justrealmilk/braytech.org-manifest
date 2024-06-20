@@ -401,11 +401,14 @@
       "description": "Track your pursuits, including quests and bounties."
     },
     "to": "/quests/all",
-    "keywords": ["quests", "new light", "bounty", "bounties"],
+    "keywords": ["quests", "new light", "bounty", "bounties", "pathfinder"],
     "children": {
       "views": [
         {
           "viewHash": "quests-bounties"
+        },
+        {
+          "viewHash": "quests-pathfinder"
         }
       ]
     }
@@ -418,6 +421,15 @@
     },
     "to": "/quests",
     "keywords": ["bounty", "bounties"]
+  },
+  "quests-pathfinder": {
+    "hash": "quests-pathfinder",
+    "displayProperties": {
+      "name": "Pathfinder",
+      "description": "The Pathfinder is an astronomical instrument, guiding Guardians to the treasures of the cosmos, while allowing them to define their own journey."
+    },
+    "to": "/quests/pathfinder",
+    "keywords": ["bounty", "bounties", "pathfinder"]
   },
   "activity": {
     "hash": "activity",
