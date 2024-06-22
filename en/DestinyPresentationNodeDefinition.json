@@ -527,5 +527,15 @@
       "bannerImage": "/static/images/extracts/0332-0837.jpg"
     },
     "itemTypeDisplayName": "Guardian Rank"
+  },
+  "1062988660": {
+    "displayProperties": {
+      "name": "The Pale Heart"
+    }
+  },
+  "622609416": {
+    "displayProperties": {
+      "name": "Rituals"
+    }
   }
 }
