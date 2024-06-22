@@ -576,7 +576,9 @@
       "subscriber-only-features"
     ],
     "DestinyPresentationNodeDefinition.json": [
-      "1000000009"
+      "1000000009",
+      "1062988660",
+      "622609416"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
@@ -817,7 +819,9 @@
       "subscriber-only-features"
     ],
     "DestinyPresentationNodeDefinition.json": [
-      "1000000009"
+      "1000000009",
+      "1062988660",
+      "622609416"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
@@ -1125,7 +1129,9 @@
       "724209558",
       "1194500405",
       "184846131",
-      "562783996"
+      "562783996",
+      "1062988660",
+      "622609416"
     ],
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
@@ -1557,7 +1563,9 @@
       "subscriber-only-features"
     ],
     "DestinyPresentationNodeDefinition.json": [
-      "1000000009"
+      "1000000009",
+      "1062988660",
+      "622609416"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
@@ -1672,6 +1680,10 @@
     ],
     "BraytechRotationDefinition.json": [
       "10"
+    ],
+    "DestinyPresentationNodeDefinition.json": [
+      "1062988660",
+      "622609416"
     ],
     "DestinyDestinationDefinition.json": [
       "2032534090"
@@ -3460,7 +3472,9 @@
       "subscriber-only-features"
     ],
     "DestinyPresentationNodeDefinition.json": [
-      "1000000009"
+      "1000000009",
+      "1062988660",
+      "622609416"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
