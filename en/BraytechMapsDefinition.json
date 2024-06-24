@@ -1071,6 +1071,30 @@
     "destinationHash": 2244580325,
     "bubbleHash": 1988240518,
     "screenshot": "/static/images/screenshots/portals/portal_612.jpg"
+  },  
+  "613": {
+    "hash": 613,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 3998251206,
+    "bubbleHash": 3476143229,
+    "screenshot": "/static/images/screenshots/portals/portal_613.jpg"
+  },
+  "614": {
+    "hash": 614,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 3998251206,
+    "bubbleHash": 3476143229,
+    "screenshot": "/static/images/screenshots/portals/portal_614.jpg"
   },
   "28658981": {
     "hash": 28658981,
