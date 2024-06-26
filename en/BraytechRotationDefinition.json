@@ -402,15 +402,6 @@
     "cadence": 7,
     "rotation": [
       {
-        "nodeHash": 310,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
-      {
         "nodeHash": 311,
         "displayProperties": {
           "name": "",
@@ -421,6 +412,15 @@
       },
       {
         "nodeHash": 312,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 313,
         "displayProperties": {
           "name": "",
           "description": ""
