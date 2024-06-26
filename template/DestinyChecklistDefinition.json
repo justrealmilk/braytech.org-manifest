@@ -171,5 +171,19 @@
       "completed": "Dismantled"
     },
     "progressDescription": "Repeaters dismantled"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "Feather",
+      "completed": "Recovered"
+    },
+    "progressDescription": "Feathers recovered"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "Vision",
+      "completed": "Interpreted"
+    },
+    "progressDescription": "Visions interpreted"
   }
 }

@@ -288,11 +288,6 @@
       "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
     }
   },
-  "2032534090": {
-    "displayProperties": {
-      "description": "???"
-    }
-  },
   "1729879943": {
     "displayProperties": {
       "description": "A desolate and frozen moon, testament to humanity's ambition and hubris. Clovis Bray have various facilities here."
@@ -1657,6 +1652,11 @@
       "name": "Timed Deepsight Puzzle"
     }
   },
+  "2032534090": {
+    "displayProperties": {
+      "description": "???"
+    }
+  },
   "2244580325": {
     "displayProperties": {
       "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
@@ -1842,6 +1842,11 @@
       "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
     }
   },
+  "3998251206": {
+    "displayProperties": {
+      "description": "A surreal domain of memory within the Traveler, corrupted by the Witness."
+    }
+  },
   "4006123814": {
     "extended": {
       "supplement": "Lies beneath..."
@@ -1895,11 +1900,6 @@
   "4292949222": {
     "displayProperties": {
       "description": "At the side on the hidden side of the pictured module."
-    }
-  },
-  "3998251206": {
-    "displayProperties": {
-      "description": "A surreal domain of memory within the Traveler, corrupted by the Witness."
     }
   }
 }
