@@ -186,7 +186,7 @@
   "626486626": {
     "entry": {
       "prefix": "Feather",
-      "name": "",
+      "name": "Feather of Light",
       "completed": "Recovered"
     },
     "progressDescription": "Feathers recovered"
@@ -194,9 +194,17 @@
   "3048564473": {
     "entry": {
       "prefix": "Vision",
-      "name": "",
+      "name": "Vision of the Traveler",
       "completed": "Interpreted"
     },
     "progressDescription": "Visions interpreted"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "Bit",
+      "name": "Encryption Bit",
+      "completed": "Stored"
+    },
+    "progressDescription": "Bits stored"
   }
 }
