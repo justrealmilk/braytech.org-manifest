@@ -203,8 +203,8 @@
     "entry": {
       "prefix": "Bit",
       "name": "Encryption Bit",
-      "completed": "Stored"
+      "completed": "Decrypted"
     },
-    "progressDescription": "Bits stored"
+    "progressDescription": "Bits decrypted"
   }
 }

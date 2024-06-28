@@ -1445,7 +1445,15 @@
       "description": ""
     },
     "checklistHash": 255624876,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-refraction-255624876.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-refraction-255624876.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 75
+        }
+      }
+    }
   },
   "260886981": {
     "hash": 260886981,
@@ -1553,10 +1561,19 @@
     "hash": 293144960,
     "displayProperties": {
       "name": "",
-      "description": ""
+      "description": "As you move through the wall, you'll meet a bridge. Facing west, the objective lays on your right hand side. Jump across the platforms, past the enormous structural beams. Face east and look up to find this feather on the highest platform you can jump to."
     },
     "checklistHash": 293144960,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-293144960.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-293144960.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 39,
+          "y": 28
+        }
+      },
+      "video": "https://www.youtube.com/watch?v=xiCeAyGSe9U"
+    }
   },
   "331621230": {
     "hash": 331621230,
@@ -1849,6 +1866,33 @@
     },
     "checklistHash": 596566054,
     "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-596566054.jpg"
+  },
+  "625075604": {
+    "hash": 625075604,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 625075604,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-seclusion-625075604.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 52,
+          "y": 58
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
   },
   "633083132": {
     "hash": 633083132,
@@ -2195,7 +2239,15 @@
       "description": ""
     },
     "checklistHash": 929827571,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-seclusion-929827571.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-seclusion-929827571.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 41,
+          "y": 37
+        }
+      }
+    }
   },
   "939723978": {
     "hash": 939723978,
@@ -4570,6 +4622,33 @@
       }
     }
   },
+  "1543824169": {
+    "hash": 1543824169,
+    "displayProperties": {
+      "name": "",
+      "description": "Once complete, move to leave the cyst. Beneath one of the cliffs which line the cavern is a path. Jump over some lava, and around to the right hand side. The tunnel will narrow. Before it widens to the exit, a small opening will appear amongst the rockface."
+    },
+    "checklistHash": 1543824169,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-transgression-1543824169.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 45,
+          "y": 53
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "1548855465": {
     "hash": 1548855465,
     "displayProperties": {
@@ -4713,6 +4792,33 @@
       "records": [
         {
           "recordHash": 1903079754
+        }
+      ]
+    }
+  },
+  "1639729535": {
+    "hash": 1639729535,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1639729535,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-seclusion-1639729535.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 42
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
         }
       ]
     }
@@ -8586,6 +8692,33 @@
     "checklistHash": 2420371297,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/gardens-of-esila-2420371297.jpg"
   },
+  "2426576530": {
+    "hash": 2426576530,
+    "displayProperties": {
+      "name": "",
+      "description": "As you move through this **Cyst**, there will be two doorways; the topmost leads to your objective while the bottom awards an encryption bit."
+    },
+    "checklistHash": 2426576530,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-refraction-2426576530.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 51,
+          "y": 50
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "2442093127": {
     "hash": 2442093127,
     "displayProperties": {
@@ -9853,6 +9986,33 @@
     "checklistHash": 3240560483,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-drain-3240560483.jpg"
   },
+  "3249643781": {
+    "hash": 3249643781,
+    "displayProperties": {
+      "name": "",
+      "description": "Near the start of this **Cyst**, you can drop beneath the hive ritual plate to find an encyrption bit behind the surrounding rockfaces."
+    },
+    "checklistHash": 3249643781,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-refraction-3249643781.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 64
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "3254863625": {
     "hash": 3254863625,
     "displayProperties": {
@@ -10051,7 +10211,15 @@
       "description": ""
     },
     "checklistHash": 3451202684,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3451202684.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3451202684.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 76
+        }
+      }
+    }
   },
   "3466568729": {
     "hash": 3466568729,
@@ -10450,6 +10618,33 @@
     "checklistHash": 3778887197,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3778887197.jpg"
   },
+  "3810403766": {
+    "hash": 3810403766,
+    "displayProperties": {
+      "name": "",
+      "description": "Found along the path as you leave the **Cyst**. It's nestled amongst some very tall rockfaces. Jumping out of here is painful."
+    },
+    "checklistHash": 3810403766,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-transgression-3810403766.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 62
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "3812883599": {
     "hash": 3812883599,
     "displayProperties": {
@@ -10823,7 +11018,15 @@
       "description": ""
     },
     "checklistHash": 4067338566,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-divide-4067338566.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-divide-4067338566.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 55,
+          "y": 50
+        }
+      }
+    }
   },
   "4069164097": {
     "hash": 4069164097,

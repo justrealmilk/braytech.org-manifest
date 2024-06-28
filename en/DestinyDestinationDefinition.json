@@ -238,5 +238,45 @@
         }
       }
     ]
+  },
+  "3998251206": {
+    "bubbles": [
+      {
+        "hash": 39982512061,
+        "displayProperties": {
+          "name": "Sword Dance"
+        }
+      },
+      {
+        "hash": 39982512062,
+        "displayProperties": {
+          "name": "Moth-Infested Cavern"
+        }
+      },
+      {
+        "hash": 39982512063,
+        "displayProperties": {
+          "name": "Slayer"
+        }
+      },
+      {
+        "hash": 39982512064,
+        "displayProperties": {
+          "name": "Searing Light"
+        }
+      },
+      {
+        "hash": 39982512065,
+        "displayProperties": {
+          "name": "Smothering Darkness"
+        }
+      },
+      {
+        "hash": 39982512066,
+        "displayProperties": {
+          "name": "Aerial Ace"
+        }
+      }
+    ]
   }
 }
