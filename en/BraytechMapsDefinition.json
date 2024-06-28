@@ -2362,7 +2362,10 @@
       "name": "",
       "description": ""
     },
-    "checklistHash": 929827571,
+    "checklistHash": 929827571,    
+    "map": {
+      "in": "cyst"
+    },
     "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-seclusion-929827571.jpg",
     "extended": {
       "screenshot": {
