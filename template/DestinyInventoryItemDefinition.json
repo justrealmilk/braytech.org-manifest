@@ -150,6 +150,12 @@
       "description": "Increases the initial drop rate of the \"Burried Bloodline\" exotic sidearm from the \"Warlord's Ruin\" dungeon."
     }
   },
+  "1371343017": {
+    "displayProperties": {
+      "name": "Increased \"Euphony\" drop rate",
+      "description": "Increases the initial drop rate of the \"Euphony\" exotic trace rifle from the \"Salvation's Edge\" raid."
+    }
+  },
   "3491404510": {
     "displayProperties": {
       "description": "Material used in weapon shaping.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
