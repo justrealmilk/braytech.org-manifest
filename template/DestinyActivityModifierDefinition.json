@@ -225,5 +225,35 @@
     "displayProperties": {
       "description": "Guardians may only break Crota's shield in a single attempt. Bear multiple swords."
     }
+  },
+  "3621023005": {
+    "displayProperties": {
+      "name": "Scenic Route",
+      "description": "[REDACTED]"
+    }
+  },
+  "1204802854": {
+    "displayProperties": {
+      "name": "At Capacity",
+      "description": "[REDACTED]"
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "name": "Balanced Diet",
+      "description": "[REDACTED]"
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "name": "Varied Geometry",
+      "description": "[REDACTED]"
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "name": "Coordinated Efforts",
+      "description": "[REDACTED]"
+    }
   }
 }
