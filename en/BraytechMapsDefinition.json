@@ -1112,7 +1112,17 @@
       "description": ""
     },
     "checklistHash": 34778253,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-34778253.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-34778253.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "36550832": {
     "hash": 36550832,
@@ -1297,7 +1307,17 @@
       "description": ""
     },
     "checklistHash": 175102407,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-175102407.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-175102407.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "191976451": {
     "hash": 191976451,
@@ -1306,7 +1326,17 @@
       "description": ""
     },
     "checklistHash": 191976451,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-191976451.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-191976451.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "198109441": {
     "hash": 198109441,
@@ -1453,6 +1483,13 @@
           "y": 75
         }
       }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
     }
   },
   "260886981": {
@@ -1521,7 +1558,17 @@
       "description": ""
     },
     "checklistHash": 285968522,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-285968522.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-285968522.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "288532787": {
     "hash": 288532787,
@@ -1530,7 +1577,17 @@
       "description": ""
     },
     "checklistHash": 288532787,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-288532787.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-288532787.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "290570570": {
     "hash": 290570570,
@@ -1555,7 +1612,17 @@
       "description": ""
     },
     "checklistHash": 291232241,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-291232241.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-291232241.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "293144960": {
     "hash": 293144960,
@@ -1573,6 +1640,16 @@
         }
       },
       "video": "https://www.youtube.com/watch?v=xiCeAyGSe9U"
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "331621230": {
@@ -1829,7 +1906,17 @@
       "description": ""
     },
     "checklistHash": 552014905,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-552014905.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-552014905.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "576743835": {
     "hash": 576743835,
@@ -1865,7 +1952,17 @@
       "description": ""
     },
     "checklistHash": 596566054,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-596566054.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-596566054.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "625075604": {
     "hash": 625075604,
@@ -1939,7 +2036,17 @@
       "description": ""
     },
     "checklistHash": 676405877,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-676405877.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-676405877.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "677774031": {
     "hash": 677774031,
@@ -2148,7 +2255,17 @@
       "description": ""
     },
     "checklistHash": 855046237,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-855046237.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-855046237.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "858668439": {
     "hash": 858668439,
@@ -2230,7 +2347,14 @@
       "description": ""
     },
     "checklistHash": 929410903,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-blooming-929410903.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-blooming-929410903.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "929827571": {
     "hash": 929827571,
@@ -2247,6 +2371,13 @@
           "y": 37
         }
       }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
     }
   },
   "939723978": {
@@ -2316,7 +2447,17 @@
       "description": ""
     },
     "checklistHash": 973999064,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-973999064.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-973999064.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "995760197": {
     "hash": 995760197,
@@ -3866,7 +4007,17 @@
       "description": ""
     },
     "checklistHash": 1187623323,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1187623323.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1187623323.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1217064983": {
     "hash": 1217064983,
@@ -3978,7 +4129,17 @@
       "description": ""
     },
     "checklistHash": 1292681590,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1292681590.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1292681590.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1295226450": {
     "hash": 1295226450,
@@ -4029,7 +4190,17 @@
       "description": ""
     },
     "checklistHash": 1332848495,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-1332848495.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-1332848495.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1343989713": {
     "hash": 1343989713,
@@ -4492,7 +4663,17 @@
       "description": ""
     },
     "checklistHash": 1467709068,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1467709068.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1467709068.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1476218840": {
     "hash": 1476218840,
@@ -4557,7 +4738,17 @@
       "description": ""
     },
     "checklistHash": 1499443706,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1499443706.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1499443706.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1505712119": {
     "hash": 1505712119,
@@ -4584,7 +4775,17 @@
       "description": ""
     },
     "checklistHash": 1507085605,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1507085605.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1507085605.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1521382762": {
     "hash": 1521382762,
@@ -4656,7 +4857,17 @@
       "description": ""
     },
     "checklistHash": 1548855465,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1548855465.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1548855465.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1559491292": {
     "hash": 1559491292,
@@ -4665,7 +4876,17 @@
       "description": ""
     },
     "checklistHash": 1559491292,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1559491292.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1559491292.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1568227000": {
     "hash": 1568227000,
@@ -4699,7 +4920,17 @@
       "description": ""
     },
     "checklistHash": 1595471563,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1595471563.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1595471563.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1610085355": {
     "hash": 1610085355,
@@ -4857,7 +5088,17 @@
       "description": ""
     },
     "checklistHash": 1715467085,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1715467085.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1715467085.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1719798656": {
     "hash": 1719798656,
@@ -4915,7 +5156,17 @@
       "description": ""
     },
     "checklistHash": 1740303753,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1740303753.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1740303753.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1747045785": {
     "hash": 1747045785,
@@ -5067,7 +5318,17 @@
       "description": ""
     },
     "checklistHash": 1919818666,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1919818666.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1919818666.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1949102307": {
     "hash": 1949102307,
@@ -8310,7 +8571,17 @@
       "description": ""
     },
     "checklistHash": 2105461554,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2105461554.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2105461554.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2106109465": {
     "hash": 2106109465,
@@ -8319,7 +8590,14 @@
       "description": ""
     },
     "checklistHash": 2106109465,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-lost-city-2106109465.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-lost-city-2106109465.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "2115406343": {
     "hash": 2115406343,
@@ -8344,7 +8622,17 @@
       "description": ""
     },
     "checklistHash": 2124759956,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-2124759956.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-2124759956.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2131720755": {
     "hash": 2131720755,
@@ -8377,7 +8665,17 @@
       "description": ""
     },
     "checklistHash": 2200815342,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2200815342.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2200815342.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2220202942": {
     "hash": 2220202942,
@@ -8386,7 +8684,17 @@
       "description": ""
     },
     "checklistHash": 2220202942,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2220202942.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2220202942.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2224782554": {
     "hash": 2224782554,
@@ -8395,7 +8703,14 @@
       "description": ""
     },
     "checklistHash": 2224782554,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-impasse-2224782554.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-impasse-2224782554.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "2242541542": {
     "hash": 2242541542,
@@ -8571,7 +8886,17 @@
       "description": ""
     },
     "checklistHash": 2304280062,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-2304280062.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-2304280062.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2309303472": {
     "hash": 2309303472,
@@ -8580,7 +8905,14 @@
       "description": ""
     },
     "checklistHash": 2309303472,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-landing-2309303472.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-landing-2309303472.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "2310431689": {
     "hash": 2310431689,
@@ -8770,7 +9102,17 @@
       "description": ""
     },
     "checklistHash": 2463858198,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2463858198.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2463858198.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2473593253": {
     "hash": 2473593253,
@@ -9118,7 +9460,17 @@
       "description": ""
     },
     "checklistHash": 2687325496,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2687325496.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2687325496.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2693451640": {
     "hash": 2693451640,
@@ -9203,7 +9555,17 @@
       "description": ""
     },
     "checklistHash": 2748135392,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2748135392.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2748135392.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2754290383": {
     "hash": 2754290383,
@@ -9273,7 +9635,17 @@
       "description": ""
     },
     "checklistHash": 2797506339,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2797506339.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2797506339.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2806770339": {
     "hash": 2806770339,
@@ -9309,7 +9681,17 @@
       "description": ""
     },
     "checklistHash": 2848346237,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2848346237.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2848346237.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2853314242": {
     "hash": 2853314242,
@@ -9392,7 +9774,14 @@
       "description": ""
     },
     "checklistHash": 2907978197,
-    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-transgression-2907978197.jpg"
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-transgression-2907978197.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "2911802565": {
     "hash": 2911802565,
@@ -9676,7 +10065,17 @@
       "description": ""
     },
     "checklistHash": 3014116558,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-3014116558.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-3014116558.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3017060296": {
     "hash": 3017060296,
@@ -9737,7 +10136,17 @@
       "description": ""
     },
     "checklistHash": 3080904530,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3080904530.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3080904530.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3096918071": {
     "hash": 3096918071,
@@ -9789,7 +10198,17 @@
       "description": ""
     },
     "checklistHash": 3137332724,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-3137332724.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-3137332724.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3138619650": {
     "hash": 3138619650,
@@ -9882,7 +10301,17 @@
       "description": ""
     },
     "checklistHash": 3180820155,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3180820155.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3180820155.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3191993111": {
     "hash": 3191993111,
@@ -10091,7 +10520,17 @@
       "description": ""
     },
     "checklistHash": 3308166021,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3308166021.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3308166021.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3311088557": {
     "hash": 3311088557,
@@ -10109,7 +10548,17 @@
       "description": ""
     },
     "checklistHash": 3351100983,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-3351100983.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-3351100983.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3359286509": {
     "hash": 3359286509,
@@ -10202,7 +10651,17 @@
       "description": ""
     },
     "checklistHash": 3446873169,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-3446873169.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-3446873169.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3451202684": {
     "hash": 3451202684,
@@ -10219,6 +10678,16 @@
           "y": 76
         }
       }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "3466568729": {
@@ -10293,7 +10762,17 @@
       "description": ""
     },
     "checklistHash": 3500385605,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3500385605.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3500385605.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3510301672": {
     "hash": 3510301672,
@@ -10302,7 +10781,17 @@
       "description": ""
     },
     "checklistHash": 3510301672,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-3510301672.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-3510301672.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3527611025": {
     "hash": 3527611025,
@@ -10345,7 +10834,17 @@
       "description": ""
     },
     "checklistHash": 3544572068,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3544572068.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3544572068.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3557288846": {
     "hash": 3557288846,
@@ -10557,7 +11056,17 @@
       "description": ""
     },
     "checklistHash": 3673250870,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3673250870.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3673250870.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3694727100": {
     "hash": 3694727100,
@@ -11009,7 +11518,17 @@
       "description": ""
     },
     "checklistHash": 4063933715,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-4063933715.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-4063933715.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "4067338566": {
     "hash": 4067338566,
@@ -11026,6 +11545,13 @@
           "y": 50
         }
       }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
     }
   },
   "4069164097": {
@@ -11351,7 +11877,17 @@
       "description": ""
     },
     "checklistHash": 4177239143,
-    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-4177239143.jpg"
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-4177239143.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "4180769175": {
     "hash": 4180769175,
