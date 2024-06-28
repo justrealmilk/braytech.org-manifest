@@ -405,7 +405,8 @@
       "2467253899",
       "734180536",
       "2126433420",
-      "860071581"
+      "860071581",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -692,7 +693,8 @@
       "4224291482"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "860071581"
+      "860071581",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "2687247787",
@@ -948,7 +950,8 @@
       "4224291482"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "860071581"
+      "860071581",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "2687247787",
@@ -1293,7 +1296,8 @@
       "2467253899",
       "734180536",
       "2126433420",
-      "860071581"
+      "860071581",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -1715,6 +1719,9 @@
       "4137754763",
       "4224291482"
     ],
+    "DestinyInventoryItemDefinition.json": [
+      "1371343017"
+    ],
     "DestinyObjectiveDefinition.json": [
       "2687247787",
       "2458378027",
@@ -1767,6 +1774,9 @@
     ],
     "BraytechFeatureDefinition.json": [
       "quests-pathfinder"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "2458378027",
@@ -2381,6 +2391,7 @@
       "734180536",
       "2126433420",
       "860071581",
+      "1371343017",
       "3491404510",
       "2497395625"
     ],
@@ -3238,6 +3249,7 @@
       "734180536",
       "2126433420",
       "860071581",
+      "1371343017",
       "3491404510",
       "2497395625"
     ]
@@ -3425,7 +3437,8 @@
       "4224291482"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "2643364263"
+      "2643364263",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -3689,7 +3702,8 @@
       "1541696845",
       "2902936983",
       "2126433420",
-      "860071581"
+      "860071581",
+      "1371343017"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
