@@ -2197,6 +2197,15 @@
       ]
     }
   },
+  "795460984": {
+    "hash": 795460984,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 795460984,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-landing-795460984.jpg"
+  },
   "815928620": {
     "hash": 815928620,
     "displayProperties": {
@@ -2362,7 +2371,7 @@
       "name": "",
       "description": ""
     },
-    "checklistHash": 929827571,    
+    "checklistHash": 929827571,
     "map": {
       "in": "cyst"
     },
@@ -4906,6 +4915,15 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
+  },
+  "1571297100": {
+    "hash": 1571297100,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1571297100,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-blooming-1571297100.jpg"
   },
   "1578181908": {
     "hash": 1578181908,
@@ -9570,6 +9588,15 @@
       ]
     }
   },
+  "2751072088": {
+    "hash": 2751072088,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2751072088,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-impasse-2751072088.jpg"
+  },
   "2754290383": {
     "hash": 2754290383,
     "displayProperties": {
@@ -9639,6 +9666,14 @@
     },
     "checklistHash": 2797506339,
     "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2797506339.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 49,
+          "y": 65
+        }
+      }
+    },
     "related": {
       "records": [
         {
