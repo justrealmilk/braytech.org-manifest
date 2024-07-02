@@ -9643,6 +9643,163 @@
       ]
     }
   },
+  "813282127": {
+    "hash": 813282127,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 813282127,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-813282127.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "168706391": {
+    "hash": 168706391,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 168706391,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-168706391.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 56,
+          "y": 66
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "4215946632": {
+    "hash": 4215946632,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4215946632,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-4215946632.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1680149549": {
+    "hash": 1680149549,
+    "displayProperties": {
+      "name": "",
+      "description": "Before pushing forward to the left, drop down to the right to find this feather nestled in a dark close."
+    },
+    "checklistHash": 1680149549,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1680149549.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 80
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1918225694": {
+    "hash": 1918225694,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1918225694,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1918225694.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1948990755": {
+    "hash": 1948990755,
+    "displayProperties": {
+      "name": "",
+      "description": "In the farthest reaches of the darkest corner."
+    },
+    "checklistHash": 1948990755,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1948990755.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 44
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "3116941252": {
+    "hash": 3116941252,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3116941252,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-3116941252.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "2806770339": {
     "hash": 2806770339,
     "displayProperties": {
