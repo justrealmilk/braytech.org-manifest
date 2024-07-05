@@ -29,6 +29,7 @@ import DestinyPresentationNodeDefinition from '@/src/data/manifest/en/DestinyPre
 import DestinyRecordDefinition from '@/src/data/manifest/en/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@/src/data/manifest/en/DestinySeasonDefinition.json';
 import DestinySocketCategoryDefinition from '@/src/data/manifest/en/DestinySocketCategoryDefinition.json';
+import DestinySocketTypeDefinition from '@/src/data/manifest/en/DestinySocketTypeDefinition.json';
 import DestinySourceDefinition from '@/src/data/manifest/en/DestinySourceDefinition.json';
 import DestinyStatDefinition from '@/src/data/manifest/en/DestinyStatDefinition.json';
 import DestinyTraitDefinition from '@/src/data/manifest/en/DestinyTraitDefinition.json';
@@ -69,6 +70,7 @@ const en = {
     DestinyRecordDefinition,
     DestinySeasonDefinition,
     DestinySocketCategoryDefinition,
+    DestinySocketTypeDefinition,
     DestinySourceDefinition,
     DestinyStatDefinition,
     DestinyTraitDefinition,
