@@ -467,15 +467,6 @@
     ]
   },
   "es": {
-    "DestinyActivityDefinition.json": [
-      "968118624"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "626486626",
-      "3048564473",
-      "3430812784",
-      "2844537300"
-    ],
     "BraytechMapsDefinition.json": [
       "613",
       "614",
@@ -551,18 +542,7 @@
       "3990611421",
       "3998251206"
     ],
-    "BraytechActivityDefinition.json": [
-      "1661734046",
-      "910380154",
-      "3881495763",
-      "1441982566",
-      "1374392663",
-      "2381413764"
-    ],
     "DestinyPhaseDefinition.json": [
-      "2169047898",
-      "378163510",
-      "829896467",
       "1899447888",
       "2700613207",
       "1340233962",
@@ -597,23 +577,6 @@
     "BraytechRotationDefinition.json": [
       "10"
     ],
-    "BraytechCommonDefinition.json": [
-      "well-rested",
-      "season-pass-xp-bonus",
-      "seal-score",
-      "gild-score",
-      "collection-score",
-      "fish-caught-score",
-      "fish-weight-score",
-      "seal-score-rank",
-      "gild-score-rank",
-      "legacy-score-rank",
-      "collection-score-rank",
-      "fish-caught-rank",
-      "fish-weight-rank",
-      "push-notification-event-daily-vendor-banshee44",
-      "subscriber-only-features"
-    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009",
       "1062988660",
@@ -639,21 +602,6 @@
     "DestinyDestinationDefinition.json": [
       "2032534090",
       "3998251206"
-    ],
-    "DestinyActivityModifierDefinition.json": [
-      "4218937993",
-      "3621023005",
-      "1204802854",
-      "1553052482",
-      "2821522136",
-      "1315424373"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "clan-historical-stats",
-      "collections-sets",
-      "quests-pathfinder",
-      "settings-subscriptions",
-      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -711,48 +659,9 @@
       "4137754762",
       "4137754763",
       "4224291482"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "860071581",
-      "1371343017"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "2687247787",
-      "1633394671",
-      "3211393925",
-      "3950614370",
-      "255019695",
-      "3711817336",
-      "2177758697",
-      "817612586",
-      "1873118367",
-      "3641440552",
-      "565460377",
-      "2499974490",
-      "3972872067",
-      "3212229148",
-      "2287201869",
-      "3169294926",
-      "2458378027",
-      "520332023",
-      "2083540441",
-      "118566180",
-      "102366732",
-      "1855779172",
-      "1152361764",
-      "1406111926"
     ]
   },
   "es-MX": {
-    "DestinyActivityDefinition.json": [
-      "968118624"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "626486626",
-      "3048564473",
-      "3430812784",
-      "2844537300"
-    ],
     "BraytechMapsDefinition.json": [
       "613",
       "614",
@@ -828,18 +737,7 @@
       "3990611421",
       "3998251206"
     ],
-    "BraytechActivityDefinition.json": [
-      "1661734046",
-      "910380154",
-      "3881495763",
-      "1441982566",
-      "1374392663",
-      "2381413764"
-    ],
     "DestinyPhaseDefinition.json": [
-      "2169047898",
-      "378163510",
-      "829896467",
       "1899447888",
       "2700613207",
       "1340233962",
@@ -874,23 +772,6 @@
     "BraytechRotationDefinition.json": [
       "10"
     ],
-    "BraytechCommonDefinition.json": [
-      "well-rested",
-      "season-pass-xp-bonus",
-      "seal-score",
-      "gild-score",
-      "collection-score",
-      "fish-caught-score",
-      "fish-weight-score",
-      "seal-score-rank",
-      "gild-score-rank",
-      "legacy-score-rank",
-      "collection-score-rank",
-      "fish-caught-rank",
-      "fish-weight-rank",
-      "push-notification-event-daily-vendor-banshee44",
-      "subscriber-only-features"
-    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000009",
       "1062988660",
@@ -916,21 +797,6 @@
     "DestinyDestinationDefinition.json": [
       "2032534090",
       "3998251206"
-    ],
-    "DestinyActivityModifierDefinition.json": [
-      "4218937993",
-      "3621023005",
-      "1204802854",
-      "1553052482",
-      "2821522136",
-      "1315424373"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "clan-historical-stats",
-      "collections-sets",
-      "quests-pathfinder",
-      "settings-subscriptions",
-      "settings-legend"
     ],
     "DestinyCollectibleDefinition.json": [
       "651647954",
@@ -988,36 +854,6 @@
       "4137754762",
       "4137754763",
       "4224291482"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "860071581",
-      "1371343017"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "2687247787",
-      "1633394671",
-      "3211393925",
-      "3950614370",
-      "255019695",
-      "3711817336",
-      "2177758697",
-      "817612586",
-      "1873118367",
-      "3641440552",
-      "565460377",
-      "2499974490",
-      "3972872067",
-      "3212229148",
-      "2287201869",
-      "3169294926",
-      "2458378027",
-      "520332023",
-      "2083540441",
-      "118566180",
-      "102366732",
-      "1855779172",
-      "1152361764",
-      "1406111926"
     ]
   },
   "fr": {
