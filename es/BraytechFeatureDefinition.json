@@ -305,7 +305,8 @@
       "aventuras",
       "nueva luz",
       "contrato",
-      "contratos"
+      "contratos",
+      "pionero"
     ]
   },
   "quests-bounties": {
@@ -316,6 +317,17 @@
     "keywords": [
       "contrato",
       "contratos"
+    ]
+  },
+  "quests-pathfinder": {
+    "displayProperties": {
+      "name": "Pionero",
+      "description": "El Pionero es un instrumento astronómico que guía a los Guardianes hacia los tesoros del cosmos, al tiempo que les permite definir su propio viaje."
+    },
+    "keywords": [
+      "contrato",
+      "contratos",
+      "pionero"
     ]
   },
   "activity": {
@@ -417,6 +429,12 @@
     "displayProperties": {
       "name": "Suscripciones",
       "description": "Apoya el desarrollo de Braytech y consigue beneficios."
+    }
+  },
+  "settings-legend": {
+    "displayProperties": {
+      "name": "Leyenda",
+      "description": "Personaliza tu perfil con un nombre de usuario único, destaca tus logros, elige un personaje predeterminado para los enlaces compartidos y mucho más."
     }
   },
   "legend": {

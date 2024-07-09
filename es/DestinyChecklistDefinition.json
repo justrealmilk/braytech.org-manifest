@@ -171,5 +171,37 @@
       "completed": "Neutralizado"
     },
     "progressDescription": "Repetidores neutralizados"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "Pluma",
+      "name": "Pluma de luz",
+      "completed": "Recuperada"
+    },
+    "progressDescription": "Plumas recuperadas"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "Visión",
+      "name": "Visión del Viajero",
+      "completed": "Interpretada"
+    },
+    "progressDescription": "Visiones interpretadas"
+  },
+  "3430812784": {
+    "entry": {
+      "prefix": "Geometría",
+      "name": "Geometría paracausal",
+      "completed": "Alineada"
+    },
+    "progressDescription": "Geometrías alineadas"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "Fragmento",
+      "name": "Fragmento de encriptación",
+      "completed": "Desencriptado"
+    },
+    "progressDescription": "Fragmento desencriptado"
   }
 }
