@@ -3,13 +3,98 @@
     "displayProperties": {
       "name": "Maldición de Savathûn",
       "description": "Implementado por deseo de Savathûn con el último aliento de Riven y reiniciado con cada muerte de Dûl Incaru."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 275,
+        "displayProperties": {
+          "name": "Fase I: Débil",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 276,
+        "displayProperties": {
+          "name": "Fase II: Severa",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 277,
+        "displayProperties": {
+          "name": "Fase III: Abrumadora",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "2": {
     "displayProperties": {
       "name": "Desafío ascendente",
       "description": "Los Insomnes llevan mucho tiempo practicando el arte de caminar entre mundos. Sigue sus pasos y derrota al enemigo."
-    }
+    },
+    "rotation": [
+      {
+        "nodeHash": 5,
+        "displayProperties": {
+          "name": "Ouroborea",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 7,
+        "displayProperties": {
+          "name": "Altar de la pérdida",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 9,
+        "displayProperties": {
+          "name": "Ruinas desvastadas",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 11,
+        "displayProperties": {
+          "name": "Fortaleza Filos Cortantes",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 13,
+        "displayProperties": {
+          "name": "Abismo Agonarca",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 15,
+        "displayProperties": {
+          "name": "Guarnicion Cimmeria",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   },
   "3": {
     "displayProperties": {
