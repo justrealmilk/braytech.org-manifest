@@ -1,0 +1,47 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "Director"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Playlist"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "Normal"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "Prestige"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "Adept"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "Hero"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Legend"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "Master"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "Grandmaster"
+    }
+  }
+}
