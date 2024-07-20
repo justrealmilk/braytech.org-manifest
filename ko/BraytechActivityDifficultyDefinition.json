@@ -1,47 +1,47 @@
 {
   "0": {
     "displayProperties": {
-      "name": "Director"
+      "name": "목적지"
     }
   },
   "1": {
     "displayProperties": {
-      "name": "Playlist"
+      "name": "플레이리스트"
     }
   },
   "2": {
     "displayProperties": {
-      "name": "Normal"
+      "name": "보통"
     }
   },
   "3": {
     "displayProperties": {
-      "name": "Prestige"
+      "name": "명예"
     }
   },
   "4": {
     "displayProperties": {
-      "name": "Adept"
+      "name": "숙련자"
     }
   },
   "5": {
     "displayProperties": {
-      "name": "Hero"
+      "name": "영웅"
     }
   },
   "6": {
     "displayProperties": {
-      "name": "Legend"
+      "name": "전설"
     }
   },
   "7": {
     "displayProperties": {
-      "name": "Master"
+      "name": "마스터"
     }
   },
   "8": {
     "displayProperties": {
-      "name": "Grandmaster"
+      "name": "그랜드마스터"
     }
   }
 }

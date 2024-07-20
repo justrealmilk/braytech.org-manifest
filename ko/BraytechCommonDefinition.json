@@ -41,16 +41,138 @@
     },
     "itemTypeDisplayName": "플랫폼"
   },
+  "medal-developer": {
+    "displayProperties": {
+      "name": "Tom Chapman",
+      "description": "_Braytech의 창조자._\n이 플레이어는 당신이 툴팁을 읽고 있는 바로 이 앱의 제작자입니다."
+    },
+    "itemTypeDisplayName": "Braytech 개발자"
+  },
+  "medal-for-you": {
+    "displayProperties": {
+      "name": "\"널 위해 만들었어\"",
+      "description": "_너는 나의 작은 포그참프야, 수호자._ 🌞"
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "medal-icicle": {
+    "displayProperties": {
+      "name": "\"깨졌다\" 랄까 뭐랄까",
+      "description": "\"Tom을 빡치게 만들고 얻은 건 고작 이 바보같은 메달 뿐\""
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "medal-sunglas": {
+    "displayProperties": {
+      "name": "\"우리가 이것을 찾았어, 너를 위해...\"",
+      "description": "바닥 어딘가에서...\nArby의 뒤에서...\n(d2foundry.gg 사용)"
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "medal-bungie": {
+    "displayProperties": {
+      "name": "Bungie 개발자",
+      "description": "_건축가들을 조심하세요._\n이 플레이어는 _당신을 삭제할 수도 있습니다._"
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "medal-api-dev": {
+    "displayProperties": {
+      "name": "Bungie API 개발자",
+      "description": "_건축가들을 조심하세요._\n이 플레이어는 Bungie의 API를 사용하여 빌드합니다."
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "medal-submind": {
+    "displayProperties": {
+      "name": "Submind",
+      "description": "_Braytech의 직물에서 짜여진 일부로서, 당신은 샤를마뉴, 말라야티, Voluspa와 함께 서 있습니다. 당신의 행동은 더 위대한 일들이 일어날 수 있게 합니다._"
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "세라프",
+      "description": "_Rasputin의 평화유지군에 합류하고 전쟁지능과 긴밀히 협력하여 Sol 시스템에 평화를 되찾으세요. 당신의 기여는 매우 귀중합니다._"
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
   "medal-researcher": {
     "displayProperties": {
-      "name": "Researcher",
+      "name": "연구자",
       "description": "이 수호자는 클로비스 브레이의 기술 연구원으로써 브레이테크 기술의 발전을 추구합니다."
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "수호자",
+      "description": "_당신은 수호자입니다: 존재하는 모든 것과 존재할 수 있는 모든 것의 구현입니다. 당신의 잠재력은 비교할 수 없으며, 당신만이 Sol 시스템에 큰 변화를 가져올 수 있습니다._"
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "민간인",
+      "description": "_작업장 건강 및 안전이 여기에 무슨 일이 일어나고 있는지 알았다면, Rasputin이 spooky FTL에서 이등변 삼각형을 떨어뜨릴 때보다 더 빨리 종료될 것입니다._"
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
+  "medal-patron": {
+    "displayProperties": {
+      "name": "Patron",
+      "description": "귀중한 Patreon 구독자입니다."
+    },
+    "itemTypeDisplayName": "Braytech 지원가"
+  },
+  "medal-translator": {
+    "displayProperties": {
+      "name": "해독가",
+      "description": "_Braytech의 관대한 번역가._"
+    },
+    "itemTypeDisplayName": "Braytech 번역자"
+  },
+  "medal-charitable": {
+    "displayProperties": {
+      "name": "Benefactor",
+      "description": "_관대한 수호자._\n이 플레이어는 Bungie 재단을 통해 훌륭한 목적에 기부했습니다."
+    },
+    "itemTypeDisplayName": "특별"
+  },
+  "well-rested": {
+    "displayProperties": {
+      "name": "충분한 휴식",
+      "description": "이번 주 첫 5 시즌 랭크에서 XP 획득이 2배 증가합니다.\n\n시즌 챌린지를 완료하면 가장 많은 진행도를 얻을 수 있으며, 그 다음으로는 현상금과 퀘스트가 있습니다."
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "시즌 패스 XP 보너스",
+      "description": "시즌 패스를 진행하여 다양한 XP 보너스를 잠금 해제할 수 있습니다."
+    }
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "고유 무기 처치",
+      "description": "여러 다른 시스템을 통해 API에서 통계를 추적하고 노출합니다. 이국적인 무기에 대한 역사적 통계는 킬 트래커가 활성화되기 전의 킬도 추적합니다."
+    }
+  },
+  "accurate-gear-power-average": {
+    "displayProperties": {
+      "name": "장비 파워",
+      "description": "현재 장착된 무기들의 평균 파워 레벨입니다.\n정확한 값을 위해 인벤토리를 검사합니다. 인벤토리가 공개되지 않은 경우, Bungie.net에서 인증이 필요합니다."
     }
   },
   "commonality": {
     "displayProperties": {
       "name": "희소성",
       "description": "Voluspa에서 확인되는 유저 중 이 항목을 획득 또는 완료한 플레이어 비율입니다."
+    }
+  },
+  "expiration": {
+    "displayProperties": {
+      "name": "만료",
+      "description": "이 기록에는 만료 정보가 첨부되어 있습니다."
     }
   },
   "score": {
@@ -65,16 +187,142 @@
       "description": "이번 단계에 얻을 수 있는 업적 점수 값 / (전체 업적 점수 값) 입니다."
     }
   },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "점수 값",
+      "description": "이 노드의 계산된 점수 값입니다."
+    }
+  },
   "record-intervals": {
     "displayProperties": {
       "name": "업적 단계",
       "description": "어떤 업적들은 단계가 있습니다. 단계마다 요구사항과 업적 점수 값이 다릅니다."
     }
   },
+  "add-record-track": {
+    "displayProperties": {
+      "name": "기록 추적",
+      "description": "이 기록을 \"추적된 기록\"에 추가합니다\n_활성화된 경우, 이 작업은 Braytech 프로필과 동기화되며 앱을 사용하는 곳 어디에서든 반영됩니다._"
+    }
+  },
+  "remove-record-track": {
+    "displayProperties": {
+      "name": "기록 추적 해제",
+      "description": "이 기록을 \"추적된 기록\"에서 제거합니다\n_활성화된 경우, 이 작업은 Braytech 프로필과 동기화되며 앱을 사용하는 곳 어디에서든 반영됩니다._"
+    }
+  },
+  "add-record-bookmark": {
+    "displayProperties": {
+      "name": "북마크 추가",
+      "description": "나중에 보기 위해 이 기록을 북마크합니다.\n_활성화된 경우, 이 작업은 Braytech 프로필과 동기화되며 앱을 사용하는 곳 어디에서든 반영됩니다._"
+    }
+  },
+  "remove-record-bookmark": {
+    "displayProperties": {
+      "name": "북마크 제거",
+      "description": "이 북마크를 제거합니다.\n_활성화된 경우, 이 작업은 Braytech 프로필과 동기화되며 앱을 사용하는 곳 어디에서든 반영됩니다._"
+    }
+  },
+  "active-triumph-score": {
+    "displayProperties": {
+      "name": "활성 트라이엄프 점수",
+      "description": "획득한 모든 활성 트라이엄프의 현재 값과 모든 활성 트라이엄프의 총 값입니다.\n\n이 점수 값은 트라이엄프가 레거시 트라이엄프가 될 때 변경됩니다."
+    }
+  },
+  "seal-score": {
+    "displayProperties": {
+      "name": "봉인 점수",
+      "description": "완료한 봉인의 합계입니다."
+    }
+  },
+  "gild-score": {
+    "displayProperties": {
+      "name": "금박 점수",
+      "description": "봉인 금박의 총 개수입니다."
+    }
+  },
+  "legacy-triumph-score": {
+    "displayProperties": {
+      "name": "레거시 트라이엄프 점수",
+      "description": "완료된 모든 레거시 트라이엄프의 총 점수입니다."
+    }
+  },
+  "lifetime-triumph-score": {
+    "displayProperties": {
+      "name": "평생 트라이엄프 점수",
+      "description": "완료된 모든 활성 및 레거시 트라이엄프 점수의 조합입니다."
+    }
+  },
+  "collection-score": {
+    "displayProperties": {
+      "name": "수집 점수",
+      "description": "당신이 모아서 무기로 저장한 항목들의 합계입니다."
+    }
+  },
+  "fish-caught-score": {
+    "displayProperties": {
+      "name": "낚은 물고기 점수",
+      "description": "당신이 낚은 물고기의 합계입니다."
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "물고기 무게 점수",
+      "description": "기록된 가장 큰 물고기입니다."
+    }
+  },
+  "active-score-rank": {
+    "displayProperties": {
+      "name": "활성 점수 순위",
+      "description": "해당 트라이엄프 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "seal-score-rank": {
+    "displayProperties": {
+      "name": "봉인 점수 순위",
+      "description": "해당 봉인 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "gild-score-rank": {
+    "displayProperties": {
+      "name": "금박 점수 순위",
+      "description": "해당 금박 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "name": "레거시 점수 순위",
+      "description": "해당 트라이엄프 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "name": "수집 점수 순위",
+      "description": "해당 수집 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "name": "낚은 물고기 순위",
+      "description": "해당 낚은 물고기 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "name": "물고기 무게 순위",
+      "description": "해당 물고기 무게 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
+    }
+  },
   "total-resets": {
     "displayProperties": {
       "name": "전체 초기화",
       "description": "모든 시즌동안 초기화한 총 횟수입니다. 4시즌부터 추적합니다."
+    }
+  },
+  "artifact-power-bonus": {
+    "displayProperties": {
+      "name": "유물 파워 보너스",
+      "description": "XP를 획득하면 시즌 유물에서 파워 보너스와 강력한 모드를 잠금 해제할 수 있습니다."
     }
   },
   "latent-memories": {
@@ -93,6 +341,131 @@
     "displayProperties": {
       "name": "오래된 프로필",
       "description": "프로필 데이터가 오래되었습니다. 이는 장시간 비활성 상태로 인해 백그라운드 새로고침이 일시 중지되었거나 현재 서비스가 Bungie 서버에 연결되지 않음을 의미합니다. 앱을 사용해서 백그라운드 새로 고침을 다시 활성화하세요."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "오래된 프로필",
+      "description": "비활성 상태로 인해 백그라운드 새로고침이 일시 중지되었습니다. Braytech와 상호 작용하여 서비스를 다시 활성화하세요."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "오래된 프로필",
+      "description": "Bungie.net에서 오래된 정보를 반환했습니다.\n\nBraytech을 계속 사용하면 이 문제가 해결될 수 있으며, Bungie.net 서비스 가용성에 따라 다릅니다."
+    }
+  },
+  "profile-stale-maintenance": {
+    "displayProperties": {
+      "name": "오래된 프로필",
+      "description": "Bungie.net이 유지 관리로 인해 일시적으로 사용할 수 없습니다.\n\nBraytech을 계속 사용하면 이 문제가 해결될 수 있으며, Bungie.net 서비스 가용성에 따라 다릅니다."
+    }
+  },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "콘테스트 모드",
+      "description": "이 활동은 콘테스트 모드 기간에 완료되었습니다; 최초의 수호자들 중 일부로서, 특별한 상황과 압박 속에서 승리했습니다."
+    }
+  },
+  "activity-flawless": {
+    "displayProperties": {
+      "name": "무결점",
+      "description": "이 활동은 시작부터 끝까지 사망 없이 완벽하게 완료되었습니다.\n\n자격을 갖추려면, **공격전**은 Witch Queen 출시 이후에 완료해야 하며, **던전**과 **잃어버린 구역**은 단일 플레이어가 시작하고 완료해야 하며, **스트라이크**는 각 플레이어별로 특정해야 합니다."
+    }
+  },
+  "activity-solo": {
+    "displayProperties": {
+      "name": "솔로",
+      "description": "_솔로로 달립니다. 이 수호자는 화력팀이 필요하지 않을 정도로 강합니다._"
+    }
+  },
+  "activity-duo": {
+    "displayProperties": {
+      "name": "듀오",
+      "description": "_다시 백 투 백으로._"
+    }
+  },
+  "activity-trio": {
+    "displayProperties": {
+      "name": "트리오",
+      "description": "_세 명이서._"
+    }
+  },
+  "activity-weapon-popular": {
+    "displayProperties": {
+      "name": "결정타",
+      "description": "_이 무기는 지금 매우 인기가 있습니다._\n\n이 무기를 사용하는 전투원의 최종 일격 합계.\n\n이상치는 다음 공식으로 결정됩니다: \n`무기 최종 일격 합계 >= Q3 + IQR`"
+    }
+  },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "로드아웃 삭제",
+      "description": "이 로드아웃을 삭제합니다. 이 작업은 영구적입니다."
+    }
+  },
+  "progression-step-map": {
+    "displayProperties": {
+      "description": "_이 지도는 정상으로 가는 단계를 차트로 보여줍니다._"
+    }
+  },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "푸시 알림",
+      "description": "푸시 알림은 Braytech을 사용하지 않을 때도 도달할 수 있으며, 당신이 쫓고 있는 것을 놓치지 않도록 보장합니다."
+    }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "잃어버린 구역",
+      "description": "교체되는 잃어버린 구역과 보상을 다시는 놓치지 마세요. 이제 이 구역들은 더 이상 잃어버린 구역이 아닙니다..."
+    }
+  },
+  "push-notification-event-daily-weather-forecast": {
+    "displayProperties": {
+      "name": "일일 날씨 예보",
+      "description": "신중한 수호자를 위한 예측 및 실시간 통찰력. 데이터 기반 예보, 위험 지표 및 자신 있는 결정을 위한 맞춤형 추천. 점프십의 편안함을 떠나기 전에 완벽하게 준비된 상태를 유지하세요!"
+    }
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "쥴",
+      "description": "기이한 호기심의 상인, 쥴의 동기는 그의 것이 아닙니다. 그는 아홉 명의 먼 주인에게 고개를 숙입니다."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "에이다-1 셰이더",
+      "description": "당신이 얼마나 멋지게 보이는지는 당신의 셰이더 선택에 달려 있습니다. 에이다와 연락을 유지하여 필요한 상품을 놓치지 마세요."
+    }
+  },
+  "push-notification-event-daily-vendor-banshee44": {
+    "displayProperties": {
+      "name": "밴시-44 레전더리",
+      "description": "타워의 주무기 장인으로서 밴시는 수호자들에게 최고의 무기만을 제공합니다."
+    }
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "시련의 장",
+      "description": "샤크스 경이 시련의 장에 구성한 모드를 알림 받으세요.\n\n명예와 영광을 위해 싸우지만, 매주 다른 방식으로 싸우세요."
+    }
+  },
+  "push-notification-event-weekly-overview": {
+    "displayProperties": {
+      "name": "개요",
+      "description": "매주 리셋 시 의식 활동, 주기적인 챌린지 및 기타 관심사 요약을 제공합니다."
+    }
+  },
+  "push-notification-event-this-week-at-bungie": {
+    "displayProperties": {
+      "name": "이번 주 Bungie",
+      "description": "최신 Bungie 뉴스를 직접 받아보세요. 2004년부터 신선하고 따끈따끈합니다. "
+    }
+  },
+  "subscriber-only-features": {
+    "displayProperties": {
+      "name": "구독자 전용 기능",
+      "description": "**맞춤형 Braytech 사용자 이름**\n\n`https://bray.tech/1/4611686018449662397` 대신에 `https://bray.tech/@/Dare`를 가질 수 있습니다.\n\n**고급 리더보드 기능**\n\n두 인접한 플레이어 간의 차이를 빠르게 검사할 수 있습니다\n\n_더 많은 기능이 곧 추가될 예정입니다..._"
     }
   }
 }
