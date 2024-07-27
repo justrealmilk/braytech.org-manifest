@@ -60,6 +60,66 @@
       "icon": "/static/images/extracts/ui/modifiers/9caeb47c43fbe011607af18409d8162f.png"
     }
   },
+  "426976067": {
+    "hash": 426976067,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-solar.png"
+    }
+  },
+  "2691200658": {
+    "hash": 2691200658,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-arc.png"
+    }
+  },
+  "3196075844": {
+    "hash": 3196075844,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-void.png"
+    }
+  },
+  "3809788899": {
+    "hash": 3809788899,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-stasis.png"
+    }
+  },
+  "3810297122": {
+    "hash": 3810297122,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-strand.png"
+    }
+  },
+  "3517267764": {
+    "hash": 3517267764,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-solar.png"
+    }
+  },
+  "186409259": {
+    "hash": 186409259,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-arc.png"
+    }
+  },
+  "3652821947": {
+    "hash": 3652821947,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-void.png"
+    }
+  },
+  "512042454": {
+    "hash": 512042454,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-stasis.png"
+    }
+  },
+  "1598472557": {
+    "hash": 1598472557,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-strand.png"
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "Prior to each damage phase, break **all four** of Taniks' **thrusters** and deposit all Nuclear charges."
