@@ -130,6 +130,10 @@
     ]
   },
   "2032534090": {
+    "displayProperties": {
+      "name": "The Shattered Throne",
+      "description": "Strike back at the curse that plagues the Dreaming City."
+    },
     "bubbles": [
       {
         "hash": 20325340901,
@@ -183,6 +187,30 @@
         "hash": 20325340909,
         "displayProperties": {
           "name": "Tower of the Sky"
+        }
+      },
+      {
+        "hash": 20325340910,
+        "displayProperties": {
+          "name": "The Descent"
+        }
+      },
+      {
+        "hash": 20325340911,
+        "displayProperties": {
+          "name": "Eleusinia"
+        }
+      },
+      {
+        "hash": 20325340912,
+        "displayProperties": {
+          "name": "The Thrallway"
+        }
+      },
+      {
+        "hash": 20325340913,
+        "displayProperties": {
+          "name": "The Spire"
         }
       }
     ]
