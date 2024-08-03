@@ -129,6 +129,92 @@
       }
     ]
   },
+  "2032534090": {
+    "displayProperties": {
+      "name": "砕かれた玉座",
+      "description": "夢見る都市を苦しめる呪いに反撃せよ。"
+    },
+    "bubbles": [
+      {
+        "hash": 20325340901,
+        "displayProperties": {
+          "name": "エレバス"
+        }
+      },
+      {
+        "hash": 20325340902,
+        "displayProperties": {
+          "name": "入来の地"
+        }
+      },
+      {
+        "hash": 20325340903,
+        "displayProperties": {
+          "name": "深遠の塔"
+        }
+      },
+      {
+        "hash": 20325340904,
+        "displayProperties": {
+          "name": "神聖なる土地"
+        }
+      },
+      {
+        "hash": 20325340905,
+        "displayProperties": {
+          "name": "予知夢の庭園"
+        }
+      },
+      {
+        "hash": 20325340906,
+        "displayProperties": {
+          "name": "二元の神殿"
+        }
+      },
+      {
+        "hash": 20325340907,
+        "displayProperties": {
+          "name": "砕けた絶壁"
+        }
+      },
+      {
+        "hash": 20325340908,
+        "displayProperties": {
+          "name": "無限の旧神殿"
+        }
+      },
+      {
+        "hash": 20325340909,
+        "displayProperties": {
+          "name": "天空の塔"
+        }
+      },
+      {
+        "hash": 20325340910,
+        "displayProperties": {
+          "name": "ディセント"
+        }
+      },
+      {
+        "hash": 20325340911,
+        "displayProperties": {
+          "name": "エレウシス"
+        }
+      },
+      {
+        "hash": 20325340912,
+        "displayProperties": {
+          "name": "スロールの道"
+        }
+      },
+      {
+        "hash": 20325340913,
+        "displayProperties": {
+          "name": "尖塔"
+        }
+      }
+    ]
+  },
   "677774031": {
     "bubbles": [
       {
@@ -173,6 +259,46 @@
         "hash": 14321453961,
         "displayProperties": {
           "name": "テラ複合施設"
+        }
+      }
+    ]
+  },
+  "3998251206": {
+    "bubbles": [
+      {
+        "hash": 39982512061,
+        "displayProperties": {
+          "name": "剣舞"
+        }
+      },
+      {
+        "hash": 39982512062,
+        "displayProperties": {
+          "name": "モスが蔓延る洞窟"
+        }
+      },
+      {
+        "hash": 39982512063,
+        "displayProperties": {
+          "name": "スレイヤー"
+        }
+      },
+      {
+        "hash": 39982512064,
+        "displayProperties": {
+          "name": "焼け付く光"
+        }
+      },
+      {
+        "hash": 39982512065,
+        "displayProperties": {
+          "name": "息が詰まる暗黒"
+        }
+      },
+      {
+        "hash": 39982512066,
+        "displayProperties": {
+          "name": "滑空エース"
         }
       }
     ]
