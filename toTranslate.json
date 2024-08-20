@@ -189,7 +189,8 @@
       "2486723318",
       "1639772990",
       "2732566144",
-      "2546784302"
+      "2546784302",
+      "2916787939"
     ],
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
@@ -564,6 +565,9 @@
       "637313410",
       "4077323831"
     ],
+    "DestinyActivityModeDefinition.json": [
+      "2916787939"
+    ],
     "DestinySourceDefinition.json": [
       "1000000000",
       "1000000002",
@@ -761,6 +765,9 @@
       "1727550020",
       "637313410",
       "4077323831"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "2916787939"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
@@ -1081,7 +1088,8 @@
     "DestinyActivityModeDefinition.json": [
       "2486723318",
       "1639772990",
-      "2732566144"
+      "2732566144",
+      "2916787939"
     ],
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
@@ -1381,6 +1389,9 @@
       "637313410",
       "4077323831"
     ],
+    "DestinyActivityModeDefinition.json": [
+      "2916787939"
+    ],
     "DestinySourceDefinition.json": [
       "1000000000",
       "1000000002",
@@ -1662,6 +1673,9 @@
     ]
   },
   "ja": {
+    "DestinyActivityModeDefinition.json": [
+      "2916787939"
+    ],
     "BraytechRotationDefinition.json": [
       "10"
     ]
@@ -1856,7 +1870,8 @@
       "157639802",
       "2239249083",
       "1673724806",
-      "2546784302"
+      "2546784302",
+      "2916787939"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -2835,7 +2850,8 @@
       "1639772990",
       "2732566144",
       "3484731833",
-      "2546784302"
+      "2546784302",
+      "2916787939"
     ],
     "BraytechMapsDefinition.json": [
       "607",
@@ -3261,6 +3277,9 @@
       "1727550020",
       "637313410",
       "4077323831"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "2916787939"
     ],
     "DestinySourceDefinition.json": [
       "1000000000",
