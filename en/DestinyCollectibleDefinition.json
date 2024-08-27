@@ -3434,5 +3434,13 @@
     "sourceSeason": 24,
     "sourceString": "Source: Solstice",
     "sourceHash": 151416041
+  },
+  "2013123406": {
+    "hash": 2013123406,
+    "sourceSeason": 24
+  },
+  "2013123394": {
+    "hash": 2013123394,
+    "sourceSeason": 24
   }
 }
