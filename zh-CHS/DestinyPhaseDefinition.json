@@ -184,5 +184,59 @@
       "name": "奈扎雷克",
       "description": "终结梦魇, 击败奈扎雷克。"
     }
+  },
+  "2890972472": {
+    "displayProperties": {
+      "name": "深渊",
+      "description": "揭开黑暗中被照亮的道路。"
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "超灵王座大桥",
+      "description": "跨越桥梁，攀登王座。"
+    }
+  },
+  "1463700798": {
+    "displayProperties": {
+      "name": "伊尔·约特, 死亡歌者",
+      "description": "击倒女巫，令她们的死亡之歌沉寂。"
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "克洛塔, 欧里克斯之子",
+      "description": "用克洛塔最强大的武器对抗他。"
+    }
+  },
+  "2761002327": {
+    "displayProperties": {
+      "name": "底层",
+      "description": "获取进入巨石碑的权限。"
+    }
+  },
+  "193978048": {
+    "displayProperties": {
+      "name": "消散",
+      "description": "击败使者。"
+    }
+  },
+  "1727550020": {
+    "displayProperties": {
+      "name": "储备库",
+      "description": "开辟一条道路。"
+    }
+  },
+  "637313410": {
+    "displayProperties": {
+      "name": "真理",
+      "description": "看透一切。"
+    }
+  },
+  "4077323831": {
+    "displayProperties": {
+      "name": "见证者",
+      "description": "阻止终焉之形。"
+    }
   }
 }
