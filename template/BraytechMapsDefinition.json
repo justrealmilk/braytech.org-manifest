@@ -161,9 +161,26 @@
       "description": "A resonance-powered rift."
     }
   },
+  "613": {
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift."
+    }
+  },
+  "614": {
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift."
+    }
+  },
   "235152581": {
     "extended": {
       "supplement": "Stand at the tip of each defense cannon and destroy the resonant anchors to reveal a secret at the cannon farthest from your point of ingress."
+    }
+  },
+  "293144960": {
+    "displayProperties": {
+      "description": "As you move through the wall, you'll meet a bridge. Facing west, the objective lays on your right hand side. Jump across the platforms, past the enormous structural beams. Face east and look up to find this feather on the highest platform you can jump to."
     }
   },
   "379286227": {
@@ -274,6 +291,11 @@
   "1416096592": {
     "displayProperties": {
       "description": "A long-hidden stronghold sacred to the Awoken of the Reef. Infested by The Taken, The Dreaming City needs us."
+    }
+  },
+  "1543824169": {
+    "displayProperties": {
+      "description": "Once complete, move to leave the cyst. Beneath one of the cliffs which line the cavern is a path. Jump over some lava, and around to the right hand side. The tunnel will narrow. Before it widens to the exit, a small opening will appear amongst the rockface."
     }
   },
   "1729879943": {
@@ -1640,9 +1662,20 @@
       "name": "Timed Deepsight Puzzle"
     }
   },
+  "2032534090": {
+    "displayProperties": {
+      "name": "The Shattered Throne",
+      "description": "Strike back at the curse that plagues the Dreaming City."
+    }
+  },
   "2244580325": {
     "displayProperties": {
       "description": "The inner workings of Savathûn's mind, brought to life within a mysterious throne world of her own making."
+    }
+  },
+  "2426576530": {
+    "displayProperties": {
+      "description": "As you move through this **Cyst**, there will be two doorways; the topmost leads to your objective while the bottom awards an encryption bit."
     }
   },
   "2442093127": {
@@ -1668,6 +1701,16 @@
   "2779900411": {
     "displayProperties": {
       "description": "After completing the sector, proceed to the exit and find the subject on the way out."
+    }
+  },
+  "1680149549": {
+    "displayProperties": {
+      "description": "Before pushing forward to the left, drop down to the right to find this feather nestled in a dark close."
+    }
+  },
+  "1948990755": {
+    "displayProperties": {
+      "description": "In the farthest reaches of the darkest corner."
     }
   },
   "2809244994": {
@@ -1770,6 +1813,11 @@
       "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic."
     }
   },
+  "3249643781": {
+    "displayProperties": {
+      "description": "Near the start of this **Cyst**, you can drop beneath the hive ritual plate to find an encyrption bit behind the surrounding rockfaces."
+    }
+  },
   "3307732497": {
     "displayProperties": {
       "description": "Up in the very top left corner, on the rocks."
@@ -1800,6 +1848,11 @@
       "description": "Requires a **Firewall Data Fragment**. Acquire prerequisite through Eris Morn."
     }
   },
+  "3810403766": {
+    "displayProperties": {
+      "description": "Found along the path as you leave the **Cyst**. It's nestled amongst some very tall rockfaces. Jumping out of here is painful."
+    }
+  },
   "3880966469": {
     "displayProperties": {
       "description": "Frozen in an ice block. Find a **Fallen Captain** near the lifts to **Riis-Reborn Approach** named **Ferkis, Salvation's Squall**—he'll drop what you need."
@@ -1823,6 +1876,11 @@
   "3990611421": {
     "displayProperties": {
       "description": "A whole Golden Age shipyard, but crawling with Fallen. A derelict spaceflight complex in the ruins of Old Russia."
+    }
+  },
+  "3998251206": {
+    "displayProperties": {
+      "description": "A surreal domain of memory within the Traveler, corrupted by the Witness."
     }
   },
   "4006123814": {

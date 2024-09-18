@@ -62,7 +62,7 @@
   "5000000011": {
     "displayProperties": {
       "name": "Region Chest data",
-      "description": "Some Region Chests, while available in-game, are incorrectly connected to the API. This results in some chests, especially those in the [Dreaming City](/maps/dreaming-city), erroneously reporting their state.\n\nChecklist items for which the data may not be reliable may be marked by a diagonal strike through their box."
+      "description": "Some Region Chests, while available in-game, are incorrectly connected to the API. This results in some chests, especially those in the [Dreaming City](/maps/the-dreaming-city), erroneously reporting their state.\n\nChecklist items for which the data may not be reliable may be marked by a diagonal strike through their box."
     }
   }
 }

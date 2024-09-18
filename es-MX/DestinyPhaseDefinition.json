@@ -17,6 +17,12 @@
       "description": "Morgeth, el guardián de la espira, un ogro poseído enorme y poderoso, sirve como garante de la corrupción de Riven en la Ciudad Ensoñada, y como guardián de la torre principal de la Ciudad, la Fortaleza de las voces. Destrúyelo."
     }
   },
+  "2169047898": {
+    "displayProperties": {
+      "name": "Encuentra a Riven",
+      "description": "Tras derrotar a **Morgeth, el guardián de la espira**, dirígete a la Ciudad Ensoñada y persigue a Riven."
+    }
+  },
   "436847112": {
     "displayProperties": {
       "name": "Depósito",
@@ -27,6 +33,12 @@
     "displayProperties": {
       "name": "Riven de las mil voces",
       "description": "Riven, la última Ahamkara conocida, antes al servicio de Mara Sov, fue poseída por Oryx. Ahora corrompe la ciudad desde su corazón bajo las órdenes de la Reina Bruja, Savathûn."
+    }
+  },
+  "378163510": {
+    "displayProperties": {
+      "name": "Paseo de la Reina",
+      "description": "Escapa de la espira y consigue la Piedra Corazón para la técnida."
     }
   },
   "2776463390": {
@@ -129,6 +141,12 @@
     "displayProperties": {
       "name": "La Mente santificada",
       "description": "La Mente Santificada, una Mente del Eje vex, ejerce control sobre muchos vex. Derrótalo para evitar más incursiones del Divisivo Sol fuera del Jardín Negro."
+    }
+  },
+  "829896467": {
+    "displayProperties": {
+      "name": "Abre el portal",
+      "description": "Accede al santuario interior del Acorazado."
     }
   },
   "1406613360": {

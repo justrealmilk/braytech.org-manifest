@@ -38,32 +38,8 @@
   "1356373064": {
     "progressDescription": "Actividad \"//nodo.sobrescrt.ÁVALON//\" completada"
   },
-  "4140117227": {
-    "progressDescription": "Contratos de la Vanguardia completados"
-  },
-  "2338381314": {
-    "progressDescription": "Habla con el Comandante Zavala"
-  },
-  "1408783815": {
-    "progressDescription": "Contratos del armero completados"
-  },
-  "313458118": {
-    "progressDescription": "Habla con Banshee-44"
-  },
-  "877997339": {
-    "progressDescription": "Contratos de Gambito completados"
-  },
-  "967175154": {
-    "progressDescription": "Habla con el Vagabundo"
-  },
-  "565013971": {
-    "progressDescription": "Contratos de Crisol completados"
-  },
-  "4026431786": {
-    "progressDescription": "Habla con Lord Shaxx"
-  },
-  "3564470639": {
-    "progressDescription": "Misión de campaña semanal completada con una puntuación de 100 000 o superior"
+  "2687247787": {
+    "progressDescription": "Misión excepcional rotatoria \"Cruce astral\" completada"
   },
   "897950155": {
     "displayProperties": {
@@ -101,6 +77,12 @@
     },
     "progressDescription": "Incursión rotativa \"Caída del Rey\" completada"
   },
+  "1633394671": {
+    "displayProperties": {
+      "description": "Conviértete en la pesadilla de tu pesadilla."
+    },
+    "progressDescription": "Incursión rotativa \"Origen de las pesadillas\" completada"
+  },
   "2622593631": {
     "displayProperties": {
       "description": "Espera en la profundida oscuridad."
@@ -125,47 +107,80 @@
   "3039545165": {
     "progressDescription": "Mazmorra rotativa \"Dualidad\" completada"
   },
+  "3211393925": {
+    "displayProperties": {
+      "description": "Visita Marte, corrobora las visiones de Osiris e interviene en una posible catástrofe basada en los Vex."
+    },
+    "progressDescription": "Mazmorra rotativa \"Espira de la vigía\" completada"
+  },
   "1064977327": {
     "displayProperties": {
       "description": "La subcomandante Sloane vio una nave de mando de la Estirpe Luminosa entrando en la atmósfera de Titán. Poco después de su llegada, la nave se sumergió en el mar de metano de la luna y las lecturas de energía anómalas se dispararon en la Nueva Arcología del Pacífico. La subcomandante te pide que lo investigues."
     },
-    "progressDescription": "Mazmorra \"Espectros de las profundidades\" completada"
+    "progressDescription": "Mazmorra rotativa \"Espectros de las profundidades\" completada"
   },
-  "2258905201": {
+  "3950614370": {
+    "progressDescription": "Mazmora \"Ruina de la Señora de la guerra\" completada"
+  },
+  "255019695": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
-  "2050629406": {
+  "3711817336": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
-  "3376767511": {
+  "2177758697": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
-  "1878970132": {
+  "817612586": {
     "progressDescription": "Partidas del Estandarte de Hierro completadas"
   },
-  "1166685245": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  "1873118367": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "2457555059": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  "3641440552": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "3304988490": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  "565460377": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "3652736024": {
-    "progressDescription": "Partidas del Estandarte de Hierro completadas con una subclase de [Arco] Arco, [Vacío] Vacío, [Solar] Solar, o [Cuerdas] Cuerdas"
+  "2499974490": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "275339596": {
-    "progressDescription": "Contratos de los surcanubes completados"
+  "3972872067": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "3044187661": {
-    "progressDescription": "Habla con Nimbus"
+  "3212229148": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "2656858183": {
-    "progressDescription": "Combatientes de \"Sobrecarga de la terminal\" derrotados"
+  "2287201869": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
   },
-  "2177999971": {
-    "progressDescription": "Habla con Quinn Laghari"
+  "3169294926": {
+    "progressDescription": "Puntos del Estandarte de Hierro ganados por bajas de subclase [Solar] Solar, [Arco] Arco o [Vacío] Vacío [{var:4161792462}/8]"
+  },
+  "2458378027": {
+    "progressDescription": "Misión semanal de enfoque cooperativo \"Ascenso\" completada"
+  },
+  "520332023": {
+    "progressDescription": "Misión semanal de enfoque cooperativo \"Disentimiento\" completada"
+  },
+  "2083540441": {
+    "progressDescription": "Misión semanal de enfoque cooperativo \"Iconoclastia\" completada"
+  },
+  "118566180": {
+    "progressDescription": "\"Infiltración.exe\" completada"
+  },
+  "102366732": {
+    "progressDescription": "\"Infiltración.exe\" completada"
+  },
+  "1855779172": {
+    "progressDescription": "\"Infiltración.exe\" completada"
+  },
+  "1152361764": {
+    "progressDescription": "\"Infiltración.exe\" completada en dificultad experta"
+  },
+  "1406111926": {
+    "progressDescription": "Cofres de \"Protocolo Enigma\" abiertos"
   },
   "625886847": {
     "progressDescription": "Golpes finales con  o [Guja]"

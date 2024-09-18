@@ -60,6 +60,66 @@
       "icon": "/static/images/extracts/ui/modifiers/9caeb47c43fbe011607af18409d8162f.png"
     }
   },
+  "426976067": {
+    "hash": 426976067,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-solar.png"
+    }
+  },
+  "2691200658": {
+    "hash": 2691200658,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-arc.png"
+    }
+  },
+  "3196075844": {
+    "hash": 3196075844,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-void.png"
+    }
+  },
+  "3809788899": {
+    "hash": 3809788899,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-stasis.png"
+    }
+  },
+  "3810297122": {
+    "hash": 3810297122,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/surge-strand.png"
+    }
+  },
+  "3517267764": {
+    "hash": 3517267764,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-solar.png"
+    }
+  },
+  "186409259": {
+    "hash": 186409259,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-arc.png"
+    }
+  },
+  "3652821947": {
+    "hash": 3652821947,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-void.png"
+    }
+  },
+  "512042454": {
+    "hash": 512042454,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-stasis.png"
+    }
+  },
+  "1598472557": {
+    "hash": 1598472557,
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/modifiers/threat-strand.png"
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "Prior to each damage phase, break **all four** of Taniks' **thrusters** and deposit all Nuclear charges."
@@ -210,7 +270,7 @@
   "2070303007": {
     "displayProperties": {
       "name": "Cosmic Equilibrium",
-      "description": "Move all terraformed (light) planets right and resonant (dark) planets left. Requires two Planetary Shift phases per plate."
+      "description": "Move all terraformed (light) planets right and resonant (dark) planets left. May require two Planetary Shift phases."
     }
   },
   "1616571513": {
@@ -237,6 +297,36 @@
   "3523029182": {
     "displayProperties": {
       "description": "Guardians may only break Crota's shield in a single attempt. Bear multiple swords."
+    }
+  },
+  "3621023005": {
+    "displayProperties": {
+      "name": "Scenic Route",
+      "description": "If Taken Psions spawn on your route, do not defeat the **[Disruption] Overload Minotaur.** Await a third **Keeper**, and open the fourth room for the other team, and let them defeat their champion."
+    }
+  },
+  "1204802854": {
+    "displayProperties": {
+      "name": "At Capacity",
+      "description": "Each Guardian should only deposit into the altar when they have three stacks of **Resonance.** Remember that charging a conductor consumes one stack."
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "name": "Balanced Diet",
+      "description": "Guardians must not pick up the same shaped Resonance node twice in a row. Remember that the Resonance buff changes its shape based on the last node collected."
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "name": "Varied Geometry",
+      "description": "The same silhouette cannot be used again by displaced guardians to escape the shadow realm until all six silhouettes have been used. In short, use sphere, pyramid and cube for a second escape."
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "name": "Coordinated Efforts",
+      "description": "Break all of The Witness's glyphs within 5 seconds of each other."
     }
   }
 }

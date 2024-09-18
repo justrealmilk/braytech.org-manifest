@@ -376,5 +376,35 @@
       "name": "汚染を鎮める",
       "description": "\"お前は私の復讐を果たした。私の役目は終わり、ナイームの願いは果たされた。さあ、私を殺せ。終わりにしよう。—ヘフンド"
     }
+  },
+  "2761002327": {
+    "displayProperties": {
+      "name": "基層",
+      "description": "モノリスに入る"
+    }
+  },
+  "193978048": {
+    "displayProperties": {
+      "name": "散逸",
+      "description": "使者を倒す"
+    }
+  },
+  "1727550020": {
+    "displayProperties": {
+      "name": "倉庫",
+      "description": "道を切り開く"
+    }
+  },
+  "637313410": {
+    "displayProperties": {
+      "name": "真理",
+      "description": "彼方を見る"
+    }
+  },
+  "4077323831": {
+    "displayProperties": {
+      "name": "天頂",
+      "description": "最終形態を阻止する"
+    }
   }
 }

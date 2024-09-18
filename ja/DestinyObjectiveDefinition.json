@@ -38,32 +38,8 @@
   "1356373064": {
     "progressDescription": "アクティビティ \"//node.ovrd.AVALON//\"を完了する"
   },
-  "4140117227": {
-    "progressDescription": "ヴァンガードのバウンティを完了する"
-  },
-  "2338381314": {
-    "progressDescription": "ザヴァラ司令官に話しかける"
-  },
-  "1408783815": {
-    "progressDescription": "銃器技師のバウンティを完了する"
-  },
-  "313458118": {
-    "progressDescription": "バンシー44に話しかける"
-  },
-  "877997339": {
-    "progressDescription": "ギャンビットのバウンティを完了する"
-  },
-  "967175154": {
-    "progressDescription": "放浪者に話しかける"
-  },
-  "565013971": {
-    "progressDescription": "クルーシブルのバウンティを完了する"
-  },
-  "4026431786": {
-    "progressDescription": "シャックス卿に話しかける"
-  },
-  "3564470639": {
-    "progressDescription": "週間ストーリーミッションを高得点で完了する"
+  "2687247787": {
+    "progressDescription": "アクティビティ\"不運\"を完了する"
   },
   "897950155": {
     "displayProperties": {
@@ -146,49 +122,64 @@
   "3950614370": {
     "progressDescription": "迷宮\"ウォーロードの旧跡\" 周回完了"
   },
-  "2258905201": {
+  "255019695": {
     "progressDescription": "アイアンバナーの対戦を完了する"
   },
-  "2050629406": {
+  "3711817336": {
     "progressDescription": "アイアンバナーの対戦を完了する"
   },
-  "3376767511": {
+  "2177758697": {
     "progressDescription": "アイアンバナーの対戦を完了する"
   },
-  "1878970132": {
+  "817612586": {
     "progressDescription": "アイアンバナーの対戦を完了する"
   },
-  "1166685245": {
-    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
+  "1873118367": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "2457555059": {
-    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
+  "3641440552": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "3304988490": {
-    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
+  "565460377": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "3652736024": {
-    "progressDescription": "アイアンバナーの対戦で [Stasis] ステイシス、 [Solar] ソーラー、または [Strand] ストランドで完了する"
+  "2499974490": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "275339596": {
-    "progressDescription": "クラウドストライダーのバウンティを完了させる"
+  "3972872067": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "3044187661": {
-    "progressDescription": "ニンバスに話しかける"
+  "3212229148": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "2656858183": {
-    "progressDescription": "\"ターミナルオーバーロード\" の戦闘員を倒す"
+  "2287201869": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "2177999971": {
-    "progressDescription": "クイン・ラガーリに話しかける"
+  "3169294926": {
+    "progressDescription": "アイアンバナーで[Solar] ソーラー, [Arc] アーク、 [Void] ボイドクラスでキルする[{var:4161792462}/8]"
   },
-  "3447791523": {
-    "progressDescription": "「リベンのねぐら」または「とぐろ」で通路を完了する"
+  "2458378027": {
+    "progressDescription": "協力フォーカスミッション \"登頂\" を完了する"
   },
-  "2687247787": {
-    "progressDescription": "アクティビティ\"不運\"を完了する"
+  "520332023": {
+    "progressDescription": "協力フォーカスミッション \"不和\" を完了する"
   },
-  "721124822": {
-    "progressDescription": "アクティビティ\"不運\"を難易度伝説で完了する"
+  "2083540441": {
+    "progressDescription": "協力フォーカスミッション \"偶像打破\" を完了する"
+  },
+  "118566180": {
+    "progressDescription": "\"実行ファイル突破\"を完了する"
+  },
+  "102366732": {
+    "progressDescription": "\"実行ファイル突破\"を完了する"
+  },
+  "1855779172": {
+    "progressDescription": "\"実行ファイル突破\"を完了する"
+  },
+  "1152361764": {
+    "progressDescription": "難易度「名人」で \"実行ファイル突破\"を完了する"
+  },
+  "1406111926": {
+    "progressDescription": "\"エニグマ・プロトコル\" のクレートを開ける"
   }
 }

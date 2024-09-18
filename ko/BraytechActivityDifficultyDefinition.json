@@ -1,0 +1,47 @@
+{
+  "0": {
+    "displayProperties": {
+      "name": "목적지"
+    }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "플레이리스트"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "보통"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "명예"
+    }
+  },
+  "4": {
+    "displayProperties": {
+      "name": "숙련자"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "영웅"
+    }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "전설"
+    }
+  },
+  "7": {
+    "displayProperties": {
+      "name": "마스터"
+    }
+  },
+  "8": {
+    "displayProperties": {
+      "name": "그랜드마스터"
+    }
+  }
+}

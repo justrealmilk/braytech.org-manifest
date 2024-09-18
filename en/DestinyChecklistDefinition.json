@@ -182,5 +182,37 @@
       "completed": "Dismantled"
     },
     "progressDescription": "Repeaters dismantled"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "Feather",
+      "name": "Feather of Light",
+      "completed": "Recovered"
+    },
+    "progressDescription": "Feathers recovered"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "Vision",
+      "name": "Vision of the Traveler",
+      "completed": "Interpreted"
+    },
+    "progressDescription": "Visions interpreted"
+  },
+  "3430812784": {
+    "entry": {
+      "prefix": "Geometry",
+      "name": "Paracausal Geometry",
+      "completed": "Aligned"
+    },
+    "progressDescription": "Geometries aligned"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "Bit",
+      "name": "Encryption Bit",
+      "completed": "Decrypted"
+    },
+    "progressDescription": "Bits decrypted"
   }
 }

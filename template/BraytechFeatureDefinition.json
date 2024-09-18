@@ -305,7 +305,8 @@
       "quests",
       "new light",
       "bounty",
-      "bounties"
+      "bounties",
+      "pathfinder"
     ]
   },
   "quests-bounties": {
@@ -316,6 +317,17 @@
     "keywords": [
       "bounty",
       "bounties"
+    ]
+  },
+  "quests-pathfinder": {
+    "displayProperties": {
+      "name": "Pathfinder",
+      "description": "The Pathfinder is an astronomical instrument, guiding Guardians to the treasures of the cosmos, while allowing them to define their own journey."
+    },
+    "keywords": [
+      "bounty",
+      "bounties",
+      "pathfinder"
     ]
   },
   "activity": {

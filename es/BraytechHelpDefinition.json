@@ -62,7 +62,7 @@
   "5000000011": {
     "displayProperties": {
       "name": "Datos de cofres de región",
-      "description": "Algunos cofres de región, aunque están disponibles en el juego, están conectados incorrectamente a la API. Esto provoca que algunos cofres, especialmente los de la [Ciudad Onírica](/maps/dreaming-city), notifiquen erróneamente su estado.\n\nLos objetos de la lista de coleccionables cuyos datos pueden no ser fiables podrían estar marcados con un raya diagonal en su casilla."
+      "description": "Algunos cofres de región, aunque están disponibles en el juego, están conectados incorrectamente a la API. Esto provoca que algunos cofres, especialmente los de la [Ciudad Onírica](/maps/the-dreaming-city), notifiquen erróneamente su estado.\n\nLos objetos de la lista de coleccionables cuyos datos pueden no ser fiables podrían estar marcados con un raya diagonal en su casilla."
     }
   }
 }

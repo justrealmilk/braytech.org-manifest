@@ -17,10 +17,46 @@
       "description": "\"¿Cuál es el idioma de la Tierra? ¿A través de un... espejo?\"\nTradición prohibida. La Legión de las Sombras quiere luchar, así que lucha contra ellos."
     }
   },
+  "1661734046": {
+    "displayProperties": {
+      "name": "Último deseo",
+      "description": "Da caza al último Dragón de los Deseos escondido en el centro de la Ciudad Ensoñada y ayuda a las técnidas a limpiar su corazón de corrupción."
+    }
+  },
   "2659723068": {
     "displayProperties": {
       "name": "Jardín de la Salvación",
       "description": "El Jardín te llama. Responde con decisión, pero con cautela."
+    }
+  },
+  "910380154": {
+    "displayProperties": {
+      "name": "Cripta de la Piedra Profunda",
+      "description": "Los caídos de Eramis se han hecho con el control de la Cripta de la Piedra Profunda, poniendo en peligro todo el sistema. Derrota a Atraks resucitado y asegura las instalaciones."
+    }
+  },
+  "3881495763": {
+    "displayProperties": {
+      "name": "Cámara de cristal",
+      "description": "En las profundidades de la Cámara de Cristal de Venus se encuentra Atheon, Confluencia Temporal. Accede a la Cámara, navega por las fracturas del espacio y el tiempo y acaba con Atheon antes de que se convierta en una amenaza imparable."
+    }
+  },
+  "1441982566": {
+    "displayProperties": {
+      "name": "Voto del Discípulo",
+      "description": "Entra en la nave pirámide hundida en los pantanos del Mundo del Trono de Savathûn y derrota al discípulo del Testigo."
+    }
+  },
+  "1374392663": {
+    "displayProperties": {
+      "name": "Caída del rey",
+      "description": "Desde lo más recóndito del Acorazado de la Colmena, Oryx recurre al poder de la Oscuridad. Infíltrate en la guarida del Rey de los Poseídos y destrúyelo."
+    }
+  },
+  "2381413764": {
+    "displayProperties": {
+      "name": "Origen de las Pesadillas",
+      "description": "Procedente de un tiempo y un lugar desconocidos, se ha detectado una presencia inquietante. Enfréntate a la antigua amenaza que crece a nuestras puertas."
     }
   }
 }

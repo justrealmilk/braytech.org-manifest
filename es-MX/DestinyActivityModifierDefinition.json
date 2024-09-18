@@ -41,6 +41,12 @@
       "description": "Te enfrentarás a combatientes con escudos [Solar] Solar, [Arco] Arco y [Vacío] Vacío."
     }
   },
+  "4218937993": {
+    "displayProperties": {
+      "name": "Campeones: Imparable",
+      "description": "Este modo contiene campeones imparables, a los que no se puede detener sin un modificador imparable."
+    }
+  },
   "191124900": {
     "displayProperties": {
       "description": "Antes de cada fase de daño, rompe **los cuatro** **propulsores** de Taniks y deposita todos los núcleos atómicos."
@@ -218,6 +224,36 @@
   "3523029182": {
     "displayProperties": {
       "description": "Los Guardianes sólo pueden romper el escudo de Crota en un único intento. Lleva varias espadas."
+    }
+  },
+  "3621023005": {
+    "displayProperties": {
+      "name": "Ruta pintoresca",
+      "description": "[REDACTED]"
+    }
+  },
+  "1204802854": {
+    "displayProperties": {
+      "name": "Al completo",
+      "description": "[REDACTED]"
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "name": "Dieta equilibrada",
+      "description": "[REDACTED]"
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "name": "Geometría diversa",
+      "description": "[REDACTED]"
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "name": "Esfuerzos coordinados",
+      "description": "[REDACTED]"
     }
   }
 }

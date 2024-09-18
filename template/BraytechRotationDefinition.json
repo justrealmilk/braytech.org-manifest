@@ -222,7 +222,7 @@
     },
     "rotation": [
       {
-        "nodeHash": 306,
+        "nodeHash": 307,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -233,7 +233,7 @@
         "records": []
       },
       {
-        "nodeHash": 307,
+        "nodeHash": 308,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -244,7 +244,7 @@
         "records": []
       },
       {
-        "nodeHash": 308,
+        "nodeHash": 309,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -255,7 +255,7 @@
         "records": []
       },
       {
-        "nodeHash": 309,
+        "nodeHash": 310,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -309,15 +309,6 @@
     },
     "rotation": [
       {
-        "nodeHash": 300,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
-      {
         "nodeHash": 301,
         "displayProperties": {
           "name": "",
@@ -328,6 +319,15 @@
       },
       {
         "nodeHash": 302,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 303,
         "displayProperties": {
           "name": "",
           "description": ""
@@ -375,15 +375,6 @@
   "10": {
     "rotation": [
       {
-        "nodeHash": 310,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
-      {
         "nodeHash": 311,
         "displayProperties": {
           "name": "",
@@ -394,6 +385,15 @@
       },
       {
         "nodeHash": 312,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 313,
         "displayProperties": {
           "name": "",
           "description": ""

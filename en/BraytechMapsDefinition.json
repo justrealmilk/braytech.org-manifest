@@ -55,17 +55,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474576,
-            1084474577,
-            1084474591
-          ]
+          "checklistItems": [1084474576, 1084474577, 1084474591]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596463
-          ]
+          "checklistItems": [1387596463]
         }
       ]
     },
@@ -115,19 +109,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1034141726,
-            1067696996,
-            1067696997,
-            1067696998,
-            1084474590
-          ]
+          "checklistItems": [1034141726, 1067696996, 1067696997, 1067696998, 1084474590]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596460
-          ]
+          "checklistItems": [1387596460]
         }
       ]
     },
@@ -176,19 +162,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696992,
-            1067696993,
-            1067696999,
-            1067697005,
-            1084474583
-          ]
+          "checklistItems": [1067696992, 1067696993, 1067696999, 1067697005, 1084474583]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818879
-          ]
+          "checklistItems": [1370818879]
         }
       ]
     }
@@ -233,19 +211,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474578,
-            1084474579,
-            1118029876,
-            1118029877,
-            1118029882
-          ]
+          "checklistItems": [1084474578, 1084474579, 1118029876, 1118029877, 1118029882]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1387596457
-          ]
+          "checklistItems": [1387596457]
         }
       ]
     },
@@ -294,17 +264,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1084474580,
-            1084474581,
-            1084474582
-          ]
+          "checklistItems": [1084474580, 1084474581, 1084474582]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818878
-          ]
+          "checklistItems": [1370818878]
         }
       ]
     },
@@ -355,17 +319,11 @@
       "checklists": [
         {
           "checklistId": 2609997025,
-          "checklistItems": [
-            1067696994,
-            1067696995,
-            1067697004
-          ]
+          "checklistItems": [1067696994, 1067696995, 1067697004]
         },
         {
           "checklistId": 1297424116,
-          "checklistItems": [
-            1370818866
-          ]
+          "checklistItems": [1370818866]
         }
       ]
     }
@@ -849,12 +807,25 @@
   },
   "300": {
     "hash": 300,
+    "nodeType": 10,
     "displayProperties": {
       "name": "",
-      "description": ""
+      "description": "",
+      "icon": "vendor-xur"
     },
-    "destinationHash": 2481646875,
-    "bubbleHash": 4158493479
+    "vendorHash": 2190858386,
+    "destinationHash": 1737926756,
+    "bubbleHash": 2372580540,
+    "activityHash": 3737830648,
+    "map": {
+      "points": [
+        {
+          "x": -654,
+          "y": 233
+        }
+      ]
+    },
+    "screenshot": "/static/images/screenshots/vendors/vendors_xur-6-3.jpg"
   },
   "301": {
     "hash": 301,
@@ -863,7 +834,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 473462131
+    "bubbleHash": 4158493479
   },
   "302": {
     "hash": 302,
@@ -872,7 +843,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 3773756244
+    "bubbleHash": 473462131
   },
   "303": {
     "hash": 303,
@@ -881,7 +852,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 473462131
+    "bubbleHash": 3773756244
   },
   "304": {
     "hash": 304,
@@ -890,7 +861,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 3773756244
+    "bubbleHash": 473462131
   },
   "305": {
     "hash": 305,
@@ -899,7 +870,7 @@
       "description": ""
     },
     "destinationHash": 2481646875,
-    "bubbleHash": 4158493479
+    "bubbleHash": 3773756244
   },
   "306": {
     "hash": 306,
@@ -907,7 +878,8 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 201280774
+    "destinationHash": 2481646875,
+    "bubbleHash": 4158493479
   },
   "307": {
     "hash": 307,
@@ -915,7 +887,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 2948928434
+    "activityHash": 201280774
   },
   "308": {
     "hash": 308,
@@ -923,7 +895,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 54269080
+    "activityHash": 2948928434
   },
   "309": {
     "hash": 309,
@@ -931,7 +903,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 3333680772
+    "activityHash": 54269080
   },
   "310": {
     "hash": 310,
@@ -939,7 +911,7 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 230477216
+    "activityHash": 3333680772
   },
   "311": {
     "hash": 311,
@@ -947,10 +919,18 @@
       "name": "",
       "description": ""
     },
-    "activityHash": 1329796464
+    "activityHash": 230477216
   },
   "312": {
     "hash": 312,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "activityHash": 1329796464
+  },
+  "313": {
+    "hash": 313,
     "displayProperties": {
       "name": "",
       "description": ""
@@ -1050,6 +1030,30 @@
     "bubbleHash": 1988240518,
     "screenshot": "/static/images/screenshots/portals/portal_612.jpg"
   },
+  "613": {
+    "hash": 613,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 3998251206,
+    "bubbleHash": 3476143229,
+    "screenshot": "/static/images/screenshots/portals/portal_613.jpg"
+  },
+  "614": {
+    "hash": 614,
+    "nodeType": 1,
+    "displayProperties": {
+      "name": "The Seclusion",
+      "description": "A resonance-powered rift.",
+      "icon": "portal"
+    },
+    "destinationHash": 3998251206,
+    "bubbleHash": 3476143229,
+    "screenshot": "/static/images/screenshots/portals/portal_614.jpg"
+  },
   "28658981": {
     "hash": 28658981,
     "displayProperties": {
@@ -1058,6 +1062,25 @@
     },
     "checklistHash": 28658981,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-gulch-28658981.jpg"
+  },
+  "34778253": {
+    "hash": 34778253,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 34778253,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-34778253.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "36550832": {
     "hash": 36550832,
@@ -1235,6 +1258,44 @@
       }
     }
   },
+  "175102407": {
+    "hash": 175102407,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 175102407,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-175102407.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "191976451": {
+    "hash": 191976451,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 191976451,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-191976451.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "198109441": {
     "hash": 198109441,
     "displayProperties": {
@@ -1365,6 +1426,30 @@
     "checklistHash": 245987256,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-quarry-245987256.jpg"
   },
+  "255624876": {
+    "hash": 255624876,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 255624876,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-refraction-255624876.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 75
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
+  },
   "260886981": {
     "hash": 260886981,
     "displayProperties": {
@@ -1424,6 +1509,44 @@
       "video": "https://www.youtube.com/watch?v=F_5HfIoe7yk"
     }
   },
+  "285968522": {
+    "hash": 285968522,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 285968522,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-285968522.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "288532787": {
+    "hash": 288532787,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 288532787,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-288532787.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "290570570": {
     "hash": 290570570,
     "displayProperties": {
@@ -1439,6 +1562,53 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/penguin-souvenirs/riis-reborn-approach-290570570.jpg"
+  },
+  "291232241": {
+    "hash": 291232241,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 291232241,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-291232241.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "293144960": {
+    "hash": 293144960,
+    "displayProperties": {
+      "name": "",
+      "description": "As you move through the wall, you'll meet a bridge. Facing west, the objective lays on your right hand side. Jump across the platforms, past the enormous structural beams. Face east and look up to find this feather on the highest platform you can jump to."
+    },
+    "checklistHash": 293144960,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-293144960.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 39,
+          "y": 28
+        }
+      },
+      "video": "https://www.youtube.com/watch?v=xiCeAyGSe9U"
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "331621230": {
     "hash": 331621230,
@@ -1687,6 +1857,25 @@
     "checklistHash": 526088259,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/atrium-526088259.jpg"
   },
+  "552014905": {
+    "hash": 552014905,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 552014905,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-552014905.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "576743835": {
     "hash": 576743835,
     "displayProperties": {
@@ -1713,6 +1902,52 @@
     },
     "checklistHash": 592877507,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/shipyard-awo-43-592877507.jpg"
+  },
+  "596566054": {
+    "hash": 596566054,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 596566054,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-596566054.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "625075604": {
+    "hash": 625075604,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 625075604,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-seclusion-625075604.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 52,
+          "y": 58
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
   },
   "633083132": {
     "hash": 633083132,
@@ -1751,6 +1986,25 @@
     },
     "checklistHash": 668304140,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/extraction-668304140.jpg"
+  },
+  "676405877": {
+    "hash": 676405877,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 676405877,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-676405877.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "677774031": {
     "hash": 677774031,
@@ -1901,6 +2155,15 @@
       ]
     }
   },
+  "795460984": {
+    "hash": 795460984,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 795460984,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-landing-795460984.jpg"
+  },
   "815928620": {
     "hash": 815928620,
     "displayProperties": {
@@ -1951,6 +2214,25 @@
     },
     "checklistHash": 847545115,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-847545115.jpg"
+  },
+  "855046237": {
+    "hash": 855046237,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 855046237,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-855046237.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "858668439": {
     "hash": 858668439,
@@ -2025,6 +2307,49 @@
     "checklistHash": 926127853,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/sepulcher-926127853.jpg"
   },
+  "929410903": {
+    "hash": 929410903,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 929410903,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-blooming-929410903.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
+  },
+  "929827571": {
+    "hash": 929827571,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 929827571,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-seclusion-929827571.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 41,
+          "y": 37
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
+  },
   "939723978": {
     "hash": 939723978,
     "displayProperties": {
@@ -2084,6 +2409,25 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/archers-line-957600697.jpg"
+  },
+  "973999064": {
+    "hash": 973999064,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 973999064,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-973999064.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "995760197": {
     "hash": 995760197,
@@ -3548,6 +3892,15 @@
       ]
     }
   },
+  "1133550974": {
+    "hash": 1133550974,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1133550974,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-landing-1133550974.jpg"
+  },
   "1134123378": {
     "hash": 1134123378,
     "displayProperties": {
@@ -3582,6 +3935,15 @@
       }
     }
   },
+  "1151638683": {
+    "hash": 1151638683,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1151638683,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-blooming-1151638683.jpg"
+  },
   "1159650715": {
     "hash": 1159650715,
     "displayProperties": {
@@ -3608,6 +3970,25 @@
     "checklistHash": 1162848651,
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/liming-harbor-1162848651.jpg"
   },
+  "1187623323": {
+    "hash": 1187623323,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1187623323,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1187623323.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "1217064983": {
     "hash": 1217064983,
     "displayProperties": {
@@ -3632,6 +4013,15 @@
         }
       }
     }
+  },
+  "1228096031": {
+    "hash": 1228096031,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1228096031,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-landing-1228096031.jpg"
   },
   "1250639948": {
     "hash": 1250639948,
@@ -3702,6 +4092,25 @@
       }
     }
   },
+  "1292681590": {
+    "hash": 1292681590,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1292681590,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1292681590.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "1295226450": {
     "hash": 1295226450,
     "displayProperties": {
@@ -3742,6 +4151,25 @@
           "y": 64
         }
       }
+    }
+  },
+  "1332848495": {
+    "hash": 1332848495,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1332848495,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-1332848495.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "1343989713": {
@@ -4198,6 +4626,25 @@
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1445055870.jpg"
   },
+  "1467709068": {
+    "hash": 1467709068,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1467709068,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1467709068.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "1476218840": {
     "hash": 1476218840,
     "displayProperties": {
@@ -4254,6 +4701,25 @@
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-1488662855.jpg"
   },
+  "1499443706": {
+    "hash": 1499443706,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1499443706,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-1499443706.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "1505712119": {
     "hash": 1505712119,
     "displayProperties": {
@@ -4262,6 +4728,34 @@
     },
     "checklistHash": 1505712119,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/skydock-iv-1505712119.jpg"
+  },
+  "1505906871": {
+    "hash": 1505906871,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1505906871,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-impasse-1505906871.jpg"
+  },
+  "1507085605": {
+    "hash": 1507085605,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1507085605,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1507085605.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1521382762": {
     "hash": 1521382762,
@@ -4299,6 +4793,71 @@
       }
     }
   },
+  "1543824169": {
+    "hash": 1543824169,
+    "displayProperties": {
+      "name": "",
+      "description": "Once complete, move to leave the cyst. Beneath one of the cliffs which line the cavern is a path. Jump over some lava, and around to the right hand side. The tunnel will narrow. Before it widens to the exit, a small opening will appear amongst the rockface."
+    },
+    "checklistHash": 1543824169,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-transgression-1543824169.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 45,
+          "y": 53
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
+  "1548855465": {
+    "hash": 1548855465,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1548855465,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1548855465.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1559491292": {
+    "hash": 1559491292,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1559491292,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-1559491292.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "1568227000": {
     "hash": 1568227000,
     "displayProperties": {
@@ -4315,6 +4874,15 @@
     },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/chamber-of-night-1568227000.jpg"
   },
+  "1571297100": {
+    "hash": 1571297100,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1571297100,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-blooming-1571297100.jpg"
+  },
   "1578181908": {
     "hash": 1578181908,
     "displayProperties": {
@@ -4323,6 +4891,25 @@
     },
     "checklistHash": 1578181908,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/hydroponics-delta-1578181908.jpg"
+  },
+  "1595471563": {
+    "hash": 1595471563,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1595471563,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-1595471563.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1610085355": {
     "hash": 1610085355,
@@ -4419,6 +5006,33 @@
       ]
     }
   },
+  "1639729535": {
+    "hash": 1639729535,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1639729535,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-seclusion-1639729535.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 42
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "1640978814": {
     "hash": 1640978814,
     "displayProperties": {
@@ -4445,6 +5059,25 @@
     },
     "checklistHash": 1704777267,
     "screenshot": "/static/images/screenshots/checklists/region-chests/artifacts-edge-1704777267.jpg"
+  },
+  "1715467085": {
+    "hash": 1715467085,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1715467085,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1715467085.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "1719798656": {
     "hash": 1719798656,
@@ -4493,6 +5126,25 @@
     "hash": 1737926756,
     "displayProperties": {
       "description": "What remains of humanity on Earth lives in the Last City, under the watchful eyes of the Guardians in their Tower."
+    }
+  },
+  "1740303753": {
+    "hash": 1740303753,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1740303753,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-1740303753.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "1747045785": {
@@ -4636,6 +5288,25 @@
           "y": 58
         }
       }
+    }
+  },
+  "1919818666": {
+    "hash": 1919818666,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1919818666,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-1919818666.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "1949102307": {
@@ -6933,6 +7604,7 @@
         }
       ]
     },
+    "screenshot": "/static/images/screenshots/enemies/alluringCurtainExecutioner.jpg",
     "related": {
       "records": [
         {
@@ -7157,6 +7829,7 @@
         }
       ]
     },
+    "screenshot": "/static/images/screenshots/enemies/queensBaileyExecutioner.jpg",
     "related": {
       "records": [
         {
@@ -7397,6 +8070,7 @@
         }
       ]
     },
+    "screenshot": "/static/images/screenshots/enemies/witchsEchoExecutioner.jpg",
     "related": {
       "records": [
         {
@@ -7797,6 +8471,15 @@
     },
     "nodeType": 13
   },
+  "2008208662": {
+    "hash": 2008208662,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2008208662,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-impasse-2008208662.jpg"
+  },
   "2013384876": {
     "hash": 2013384876,
     "displayProperties": {
@@ -7823,6 +8506,14 @@
     },
     "checklistHash": 2025886454,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/maadim-subterrane-2025886454.jpg"
+  },
+  "2032534090": {
+    "hash": 2032534090,
+    "displayProperties": {
+      "name": "The Shattered Throne",
+      "description": "Strike back at the curse that plagues the Dreaming City.",
+      "reference": "This map's textures were created by [pryanie#2536](https://twitter.com/pryanie) and [Tenrouken#9649](https://twitter.com/tenrouken)."
+    }
   },
   "2039102766": {
     "hash": 2039102766,
@@ -7854,6 +8545,41 @@
     "checklistHash": 2069372641,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-orrery-2069372641.jpg"
   },
+  "2105461554": {
+    "hash": 2105461554,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2105461554,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2105461554.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "2106109465": {
+    "hash": 2106109465,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2106109465,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-lost-city-2106109465.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
+  },
   "2115406343": {
     "hash": 2115406343,
     "displayProperties": {
@@ -7869,6 +8595,25 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/shrine-of-oryx-2115406343.jpg"
+  },
+  "2124759956": {
+    "hash": 2124759956,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2124759956,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-2124759956.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2131720755": {
     "hash": 2131720755,
@@ -7892,6 +8637,60 @@
           "y": 60
         }
       }
+    }
+  },
+  "2200815342": {
+    "hash": 2200815342,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2200815342,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2200815342.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "2220202942": {
+    "hash": 2220202942,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2220202942,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2220202942.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "2224782554": {
+    "hash": 2224782554,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2224782554,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-impasse-2224782554.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
     }
   },
   "2242541542": {
@@ -8061,6 +8860,41 @@
     },
     "screenshot": "/static/images/screenshots/checklists/jade-rabbits/sorrows-harbor-2293092716.jpg"
   },
+  "2304280062": {
+    "hash": 2304280062,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2304280062,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-2304280062.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "2309303472": {
+    "hash": 2309303472,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2309303472,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-landing-2309303472.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
+  },
   "2310431689": {
     "hash": 2310431689,
     "displayProperties": {
@@ -8171,6 +9005,33 @@
     "checklistHash": 2420371297,
     "screenshot": "/static/images/screenshots/checklists/feline-friends/gardens-of-esila-2420371297.jpg"
   },
+  "2426576530": {
+    "hash": 2426576530,
+    "displayProperties": {
+      "name": "",
+      "description": "As you move through this **Cyst**, there will be two doorways; the topmost leads to your objective while the bottom awards an encryption bit."
+    },
+    "checklistHash": 2426576530,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-refraction-2426576530.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 51,
+          "y": 50
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "2442093127": {
     "hash": 2442093127,
     "displayProperties": {
@@ -8214,6 +9075,25 @@
     },
     "checklistHash": 2449085400,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-2449085400.jpg"
+  },
+  "2463858198": {
+    "hash": 2463858198,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2463858198,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2463858198.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2473593253": {
     "hash": 2473593253,
@@ -8554,6 +9434,25 @@
     "checklistHash": 2686335329,
     "screenshot": "/static/images/screenshots/checklists/region-chests/mothyards-2686335329.jpg"
   },
+  "2687325496": {
+    "hash": 2687325496,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2687325496,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-2687325496.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "2693451640": {
     "hash": 2693451640,
     "displayProperties": {
@@ -8630,6 +9529,34 @@
       "untracked": true
     }
   },
+  "2748135392": {
+    "hash": 2748135392,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2748135392,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2748135392.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "2751072088": {
+    "hash": 2751072088,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2751072088,
+    "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-impasse-2751072088.jpg"
+  },
   "2754290383": {
     "hash": 2754290383,
     "displayProperties": {
@@ -8691,6 +9618,190 @@
     "checklistHash": 2791553137,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-steppes-2791553137.jpg"
   },
+  "2797506339": {
+    "hash": 2797506339,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2797506339,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-2797506339.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 49,
+          "y": 65
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "813282127": {
+    "hash": 813282127,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 813282127,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-813282127.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "168706391": {
+    "hash": 168706391,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 168706391,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-168706391.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 56,
+          "y": 66
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "4215946632": {
+    "hash": 4215946632,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4215946632,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-4215946632.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1680149549": {
+    "hash": 1680149549,
+    "displayProperties": {
+      "name": "",
+      "description": "Before pushing forward to the left, drop down to the right to find this feather nestled in a dark close."
+    },
+    "checklistHash": 1680149549,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1680149549.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 80
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1918225694": {
+    "hash": 1918225694,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 1918225694,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1918225694.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "1948990755": {
+    "hash": 1948990755,
+    "displayProperties": {
+      "name": "",
+      "description": "In the farthest reaches of the darkest corner."
+    },
+    "checklistHash": 1948990755,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-1948990755.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 44
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "3116941252": {
+    "hash": 3116941252,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3116941252,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/dual-destiny-3116941252.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3706398661
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "2806770339": {
     "hash": 2806770339,
     "displayProperties": {
@@ -8717,6 +9828,25 @@
     },
     "checklistHash": 2827363902,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sorikss-cut-2827363902.jpg"
+  },
+  "2848346237": {
+    "hash": 2848346237,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2848346237,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-2848346237.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "2853314242": {
     "hash": 2853314242,
@@ -8790,6 +9920,22 @@
     "screenshot": "/static/images/screenshots/checklists/lucent-moths/quagmire-2904405255.jpg",
     "extended": {
       "video": "https://www.youtube.com/watch?v=2-cYU_XzBkI"
+    }
+  },
+  "2907978197": {
+    "hash": 2907978197,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 2907978197,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-transgression-2907978197.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
     }
   },
   "2911802565": {
@@ -9067,6 +10213,25 @@
     "checklistHash": 3010602390,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/hallowed-grove-3010602390.jpg"
   },
+  "3014116558": {
+    "hash": 3014116558,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3014116558,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-refraction-3014116558.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 104393912
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "3017060296": {
     "hash": 3017060296,
     "displayProperties": {
@@ -9092,6 +10257,15 @@
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/mayas-retreat-3040709428.jpg"
   },
+  "3056974714": {
+    "hash": 3056974714,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3056974714,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-blooming-3056974714.jpg"
+  },
   "3059588176": {
     "hash": 3059588176,
     "displayProperties": {
@@ -9100,6 +10274,34 @@
     },
     "checklistHash": 3059588176,
     "screenshot": "/static/images/screenshots/checklists/region-chests/exodus-black-3059588176.jpg"
+  },
+  "3071105937": {
+    "hash": 3071105937,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3071105937,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-landing-3071105937.jpg"
+  },
+  "3080904530": {
+    "hash": 3080904530,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3080904530,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3080904530.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3096918071": {
     "hash": 3096918071,
@@ -9143,6 +10345,25 @@
     },
     "checklistHash": 3128564200,
     "screenshot": "/static/images/screenshots/checklists/region-chests/the-cistern-3128564200.jpg"
+  },
+  "3137332724": {
+    "hash": 3137332724,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3137332724,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-3137332724.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3138619650": {
     "hash": 3138619650,
@@ -9227,6 +10448,25 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/ahimsa-park-3165550331.jpg"
+  },
+  "3180820155": {
+    "hash": 3180820155,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3180820155,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3180820155.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3191993111": {
     "hash": 3191993111,
@@ -9330,6 +10570,33 @@
     "checklistHash": 3240560483,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/the-drain-3240560483.jpg"
   },
+  "3249643781": {
+    "hash": 3249643781,
+    "displayProperties": {
+      "name": "",
+      "description": "Near the start of this **Cyst**, you can drop beneath the hive ritual plate to find an encyrption bit behind the surrounding rockfaces."
+    },
+    "checklistHash": 3249643781,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-refraction-3249643781.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 64
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
+  },
   "3254863625": {
     "hash": 3254863625,
     "displayProperties": {
@@ -9401,6 +10668,25 @@
     "checklistHash": 3307732497,
     "screenshot": "/static/images/screenshots/checklists/region-chests/sunken-isles-3307732497.jpg"
   },
+  "3308166021": {
+    "hash": 3308166021,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3308166021,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3308166021.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "3311088557": {
     "hash": 3311088557,
     "displayProperties": {
@@ -9409,6 +10695,25 @@
     },
     "checklistHash": 3311088557,
     "screenshot": "/static/images/screenshots/checklists/region-chests/thieves-landing-3311088557.jpg"
+  },
+  "3351100983": {
+    "hash": 3351100983,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3351100983,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-outskirts-3351100983.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3359286509": {
     "hash": 3359286509,
@@ -9494,6 +10799,52 @@
     "checklistHash": 3423978360,
     "screenshot": "/static/images/screenshots/checklists/lost-sectors/extraction-3423978360.jpg"
   },
+  "3446873169": {
+    "hash": 3446873169,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3446873169,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-landing-3446873169.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 1465179199
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "3451202684": {
+    "hash": 3451202684,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3451202684,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-divide-3451202684.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 76
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 117380835
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "3466568729": {
     "hash": 3466568729,
     "displayProperties": {
@@ -9559,6 +10910,44 @@
       "video": "https://www.youtube.com/watch?v=DPJvYaG-BCQ"
     }
   },
+  "3500385605": {
+    "hash": 3500385605,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3500385605,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3500385605.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "3510301672": {
+    "hash": 3510301672,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3510301672,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-lost-city-3510301672.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3327741021
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "3527611025": {
     "hash": 3527611025,
     "displayProperties": {
@@ -9592,6 +10981,25 @@
     },
     "checklistHash": 3538365411,
     "screenshot": "/static/images/screenshots/checklists/darkness-rifts/altar-of-reflection-3538365411.jpg"
+  },
+  "3544572068": {
+    "hash": 3544572068,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3544572068,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-impasse-3544572068.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3283940335
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
   },
   "3557288846": {
     "hash": 3557288846,
@@ -9708,6 +11116,15 @@
     "checklistHash": 3612414514,
     "screenshot": "/static/images/screenshots/checklists/region-chests/four-horn-gulch-3612414514.jpg"
   },
+  "3615182125": {
+    "hash": 3615182125,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3615182125,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-blooming-3615182125.jpg"
+  },
   "3618196612": {
     "hash": 3618196612,
     "displayProperties": {
@@ -9787,6 +11204,25 @@
     "checklistHash": 3658842337,
     "screenshot": "/static/images/screenshots/checklists/region-chests/winding-cove-3658842337.jpg"
   },
+  "3673250870": {
+    "hash": 3673250870,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 3673250870,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-seclusion-3673250870.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 218926746
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
   "3694727100": {
     "hash": 3694727100,
     "displayProperties": {
@@ -9845,6 +11281,33 @@
     },
     "checklistHash": 3778887197,
     "screenshot": "/static/images/screenshots/checklists/region-chests/jetsam-of-saturn-3778887197.jpg"
+  },
+  "3810403766": {
+    "hash": 3810403766,
+    "displayProperties": {
+      "name": "",
+      "description": "Found along the path as you leave the **Cyst**. It's nestled amongst some very tall rockfaces. Jumping out of here is painful."
+    },
+    "checklistHash": 3810403766,
+    "map": {
+      "in": "cyst"
+    },
+    "screenshot": "/static/images/screenshots/checklists/lost-encryption-bits/the-transgression-3810403766.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 50,
+          "y": 62
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 442463428
+        }
+      ]
+    }
   },
   "3812883599": {
     "hash": 3812883599,
@@ -10134,6 +11597,15 @@
       ]
     }
   },
+  "3998251206": {
+    "hash": 3998251206,
+    "displayProperties": {
+      "description": "A surreal domain of memory within the Traveler, corrupted by the Witness."
+    },
+    "related": {
+      "events": []
+    }
+  },
   "4006123814": {
     "hash": 4006123814,
     "displayProperties": {
@@ -10193,6 +11665,49 @@
       ]
     },
     "screenshot": "/static/images/screenshots/checklists/neomuna-apogee-repeaters/liming-harbor-4063596649.jpg"
+  },
+  "4063933715": {
+    "hash": 4063933715,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4063933715,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-blooming-4063933715.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 3881849211
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
+    }
+  },
+  "4067338566": {
+    "hash": 4067338566,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4067338566,
+    "screenshot": "/static/images/screenshots/checklists/visions-of-the-traveler/the-divide-4067338566.jpg",
+    "extended": {
+      "screenshot": {
+        "highlight": {
+          "x": 55,
+          "y": 50
+        }
+      }
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 1733260152
+        }
+      ]
+    }
   },
   "4069164097": {
     "hash": 4069164097,
@@ -10474,6 +11989,15 @@
     "checklistHash": 4157158378,
     "screenshot": "/static/images/screenshots/checklists/region-chests/braytech-futurescape-4157158378.jpg"
   },
+  "4166997609": {
+    "hash": 4166997609,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4166997609,
+    "screenshot": "/static/images/screenshots/checklists/region-chests/the-impasse-4166997609.jpg"
+  },
   "4169219646": {
     "hash": 4169219646,
     "displayProperties": {
@@ -10499,6 +12023,25 @@
           "y": 53
         }
       }
+    }
+  },
+  "4177239143": {
+    "hash": 4177239143,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "checklistHash": 4177239143,
+    "screenshot": "/static/images/screenshots/checklists/feathers-of-light/the-transgression-4177239143.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2349549688
+        },
+        {
+          "recordHash": 617556595
+        }
+      ]
     }
   },
   "4180769175": {
@@ -10947,6 +12490,303 @@
       "records": [
         {
           "recordHash": 4292949227
+        }
+      ]
+    }
+  },
+  "4203871871": {
+    "hash": 4203871871,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-transgression-4203871871.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-transgression-4203871871-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-transgression-4203871871-1.jpg"
+        }
+      ]
+    }
+  },
+  "3428109568": {
+    "hash": 3428109568,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-3428109568.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-3428109568-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-3428109568-1.jpg"
+        }
+      ]
+    }
+  },
+  "3423939387": {
+    "hash": 3423939387,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-impasse-3423939387.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-impasse-3423939387-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-impasse-3423939387-1.jpg"
+        }
+      ]
+    }
+  },
+  "1670630948": {
+    "hash": 1670630948,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-1670630948.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-1670630948-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-1670630948-1.jpg"
+        }
+      ]
+    }
+  },
+  "1687458074": {
+    "hash": 1687458074,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-outskirts-1687458074.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-outskirts-1687458074-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-lost-city-outskirts-1687458074-1.jpg"
+        }
+      ]
+    }
+  },
+  "3190325194": {
+    "hash": 3190325194,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-seclusion-3190325194.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-seclusion-3190325194-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-seclusion-3190325194-1.jpg"
+        }
+      ]
+    }
+  },
+  "323881014": {
+    "hash": 323881014,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-323881014.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-323881014-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-323881014-1.jpg"
+        }
+      ]
+    }
+  },
+  "3293737091": {
+    "hash": 3293737091,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-3293737091.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-3293737091-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-landing-3293737091-1.jpg"
+        }
+      ]
+    }
+  },
+  "2653866073": {
+    "hash": 3293737091,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-2653866073.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-2653866073-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-blooming-2653866073-1.jpg"
+        }
+      ]
+    }
+  },
+  "3540567247": {
+    "hash": 3540567247,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-divide-3540567247.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-divide-3540567247-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-divide-3540567247-1.jpg"
+        }
+      ]
+    }
+  },
+  "804633829": {
+    "hash": 804633829,
+    "displayProperties": {
+      "name": "",
+      "description": ""
+    },
+    "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-refraction-804633829.jpg",
+    "related": {
+      "records": [
+        {
+          "recordHash": 2566994971
+        }
+      ]
+    },
+    "extended": {
+      "screenshots": [
+        {
+          "bubbleHash": 0,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-refraction-804633829-0.jpg"
+        },
+        {
+          "bubbleHash": 1,
+          "screenshot": "/static/images/screenshots/checklists/paracausal-geometries/the-refraction-804633829-1.jpg"
         }
       ]
     }

@@ -143,7 +143,7 @@
       "name": "ルーセントモス",
       "completed": "回収済"
     },
-    "progressDescription": "収集したルーセントモス"
+    "progressDescription": "ルーセントモス収集率"
   },
   "4108857026": {
     "displayProperties": {
@@ -153,7 +153,7 @@
       "name": "ネクロ暗号",
       "completed": "回収済"
     },
-    "progressDescription": "すべてのネクロ暗号を回収した"
+    "progressDescription": "ネクロ暗号回収率"
   },
   "1793940260": {
     "displayProperties": {
@@ -170,6 +170,38 @@
       "name": "アポジリピーター",
       "completed": "破壊済"
     },
-    "progressDescription": "すべてのアポジリピーターを破壊"
+    "progressDescription": "破壊済達成率"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "羽根",
+      "name": "光の羽根",
+      "completed": "発見済"
+    },
+    "progressDescription": "発見率"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "幻視",
+      "name": "トラベラーの幻視",
+      "completed": "回収済"
+    },
+    "progressDescription": "幻視の回収率"
+  },
+  "3430812784": {
+    "entry": {
+      "prefix": "超常現象",
+      "name": "超因果形状",
+      "completed": "接続済"
+    },
+    "progressDescription": "接続した超常現象"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "ビット",
+      "name": "暗号化ビット",
+      "completed": "解読済"
+    },
+    "progressDescription": "ビットの解読率"
   }
 }
