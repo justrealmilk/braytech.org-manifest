@@ -170,5 +170,37 @@
       "completed": "已拆解"
     },
     "progressDescription": "已拆解的中继器"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "羽毛",
+      "name": "光能之羽",
+      "completed": "已收集"
+    },
+    "progressDescription": "已收集的光能之羽"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "幻象",
+      "name": "旅行者的幻象",
+      "completed": "已收集"
+    },
+    "progressDescription": "已收集的旅行者的幻象"
+  },
+  "3430812784": {
+    "entry": {
+      "prefix": "几何体",
+      "name": "超因果几何体",
+      "completed": "已平衡"
+    },
+    "progressDescription": "已平衡的几何体"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "比特",
+      "name": "加密比特",
+      "completed": "已解密"
+    },
+    "progressDescription": "已解密的加密比特"
   }
 }

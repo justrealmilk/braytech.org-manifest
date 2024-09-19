@@ -1,4 +1,13 @@
 {
+  "1542299784": {
+    "progressDescription": "仪式活动完成"
+  },
+  "3794117631": {
+    "progressDescription": "仪式活动完成"
+  },
+  "1270593510": {
+    "progressDescription": "仪式活动完成"
+  },
   "1612424695": {
     "progressDescription": "日落打击累计分数"
   },
@@ -17,8 +26,20 @@
   "1205559531": {
     "progressDescription": "以 {var:3648290880} 或更高的分数完成一局“永恒挑战”"
   },
+  "1320261963": {
+    "progressDescription": "“暗屋之声” 已完成"
+  },
+  "1510063869": {
+    "progressDescription": "“前兆” 已完成"
+  },
+  "3726310377": {
+    "progressDescription": "“行动：炽天使之盾” 已完成"
+  },
   "1356373064": {
     "progressDescription": "“//节点.超控.阿瓦隆//” 已完成"
+  },
+  "2687247787": {
+    "progressDescription": "“苦命鸳鸯” 已完成"
   },
   "897950155": {
     "progressDescription": "已通关周常轮换突袭：“最后一愿”"
@@ -38,6 +59,12 @@
   "406803827": {
     "progressDescription": "已通关周常轮换突袭：“国王的陨落”"
   },
+  "1633394671": {
+    "progressDescription": "已通关周常轮换突袭：“梦魇根源”"
+  },
+  "2622593631": {
+    "progressDescription": "已通关周常轮换突袭：“克洛塔的末日”"
+  },
   "2039792527": {
     "progressDescription": "已通关周常轮换地牢：“预言”"
   },
@@ -52,5 +79,23 @@
   },
   "3039545165": {
     "progressDescription": "已通关周常轮换地牢：“二象性”"
+  },
+  "3211393925": {
+    "progressDescription": "已通关周常轮换地牢：“守望者尖塔”"
+  },
+  "1064977327": {
+    "progressDescription": "已通关周常轮换地牢：“深渊机灵”"
+  },
+  "3950614370": {
+    "progressDescription": "已通关周常轮换地牢：“战争领主的废墟”"
+  },
+  "2458378027": {
+    "progressDescription": "已完成合作专注战役：“飞升”"
+  },
+  "520332023": {
+    "progressDescription": "已完成合作专注战役：“异议”"
+  },
+  "2083540441": {
+    "progressDescription": "已完成合作专注战役：“破除圣象”"
   }
 }
