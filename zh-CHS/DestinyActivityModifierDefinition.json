@@ -185,25 +185,75 @@
   "766975360": {
     "displayProperties": {
       "name": "光明折磨",
-      "description": "玩家仅可在获得光之领域增益后击杀折磨者。"
+      "description": "必须拥有光之领域BUFF后击杀折磨者。"
     }
   },
   "138641527": {
     "displayProperties": {
       "name": "火线混战",
-      "description": "跨越裂谷的玩家需要让对面平台的队友触发另一边的开关，只能使用弹射器跨越裂谷。"
+      "description": "需要对面的人打水晶，自己打水晶/超级跳会失败。"
     }
   },
   "2070303007": {
     "displayProperties": {
       "name": "宇宙平衡",
-      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+      "description": "反色塞球，左边全黑，右边全白，每轮换2个球，换2轮。"
     }
   },
   "1616571513": {
     "displayProperties": {
       "name": "五膀六臂",
-      "description": "$$UNKNOWN$$ [[mode:receive]]\n\n\"Await instruction...\""
+      "description": "每轮输出，每人只能连一对黑球和白球，连完前3对左右场对调，可使用避难机制。"
+    }
+  },
+  "3636591526": {
+    "displayProperties": {
+      "description": "两个灯座之间只能续一次启迪。"
+    }
+  },
+  "2768385440": {
+    "displayProperties": {
+      "description": "有人过桥时，大桥两端中间的符文板不能站人。"
+    }
+  },
+  "732074628": {
+    "displayProperties": {
+      "description": "每名玩家不能在其他五名玩家获得过圣杯之前再次获得圣杯。"
+    }
+  },
+  "3523029182": {
+    "displayProperties": {
+      "description": "一旦开始破盾则必须在6秒内完成，建议带多把刀破盾。"
+    }
+  },
+  "3621023005": {
+    "displayProperties": {
+      "name": "观光路线",
+      "description": "不杀第三个房间的超载米诺陶（每轮折磨者会刷2只）。"
+    }
+  },
+  "1204802854": {
+    "displayProperties": {
+      "name": "满载负荷",
+      "description": "塞入共振时必须是3个。"
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "name": "均衡饮食",
+      "description": "所有人不能连续吃相同的BUFF（换楼层期间也不能吃相同的）。"
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "name": "多变几何",
+      "description": "内场不能连续用同一个组合图形出场。"
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "name": "协调努力",
+      "description": "5秒内打碎所有纽扣。"
     }
   }
 }

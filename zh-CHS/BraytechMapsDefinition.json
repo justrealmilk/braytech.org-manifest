@@ -85,5 +85,77 @@
       "name": "乙太补给",
       "description": "摧毁魔眼，切断堕落者乙太供应。\n\n迅速消灭传输魔眼，进入英雄事件：第一轮一个，第二轮三个。"
     }
+  },
+  "3000000004": {
+    "displayProperties": {
+      "name": "阻止武器交换",
+      "description": "阻止堕落者靠近他们的武器缓存箱。\n\n击杀地行者之前，存放6个电弧能量，进入英雄事件。"
+    }
+  },
+  "3000000005": {
+    "displayProperties": {
+      "name": "注入钻机",
+      "description": "削弱渗透者军政官。\n\nDestroy the top, middle, and center **thermal vents** to trigger heroic."
+    }
+  },
+  "3000000006": {
+    "displayProperties": {
+      "name": "女巫仪式",
+      "description": "占领魔咒环并消灭巫师。\n\n占领魔咒环破除水晶无敌护盾，打破2个水晶，进入英雄事件。"
+    }
+  },
+  "3000000007": {
+    "displayProperties": {
+      "name": "战争卫星坠落",
+      "description": "防守战争卫星。\n\nDestroy each of the **three Hive shriekers** to trigger heroic."
+    }
+  },
+  "3000000008": {
+    "displayProperties": {
+      "name": "傀儡凋零阴影",
+      "description": "消灭傀儡军团及凋零阴影。\n\nStep into the perimeter of a blight and be granted the **Blight Receding** buff which will enable you to damage the primary blight with conventional weaponry. Destroy the primary blight, drawing out the Blightmaker, to trigger heroic."
+    }
+  },
+  "3000000009": {
+    "displayProperties": {
+      "name": "尖塔完整度",
+      "description": "阻止Vex强化他们的地下设施。\n\nCapture all **three sync plates** to trigger heroic."
+    }
+  },
+  "3000000010": {
+    "displayProperties": {
+      "name": "The Gatelord",
+      "description": "???"
+    }
+  },
+  "3000000011": {
+    "displayProperties": {
+      "name": "Cryo-pod Extraction",
+      "description": "???"
+    }
+  },
+  "3000000012": {
+    "displayProperties": {
+      "name": "调查乙太仪式",
+      "description": "消灭所有疏浚族长。\n\n**Shoot down** any **ether** flowing towards the Harvester to trigger heroic."
+    }
+  },
+  "3000000013": {
+    "displayProperties": {
+      "name": "裂痕发生器",
+      "description": "保护发生器核心。\n\nDestroy each of the forming blights before they dissipate to trigger heroic."
+    }
+  },
+  "3000000014": {
+    "displayProperties": {
+      "name": "Resonant Destruction",
+      "description": "A **Resonant Splinter** has manifested near. Claim control and guide it to your enemies destruction.\n\nKill **Resonant Keepers** and throw the **charges** they drop at the Resonant Splinter to trigger heroic."
+    }
+  },
+  "3000000015": {
+    "displayProperties": {
+      "name": "Crux Convergence",
+      "description": "Prevent the Fallen from communing with Darkness and destroy their artillery.\n\nDestroy the **small drones** swarming each crux to trigger heroic."
+    }
   }
 }
