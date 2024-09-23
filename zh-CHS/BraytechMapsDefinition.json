@@ -3,55 +3,96 @@
     "displayProperties": {
       "name": "衔尾蛇",
       "description": "摧毁所有的傀儡凋零阴影，然后返回大厅，打破虚空水晶。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=3"
     }
   },
   "6": {
     "displayProperties": {
       "name": "失却神殿",
       "description": "通过收集电弧能量充能来抑制阴影，消灭骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=4"
     }
   },
   "8": {
     "displayProperties": {
       "name": "破碎废墟",
       "description": "爬上废墟，消灭傀儡方阵士兵。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=5"
     }
   },
   "10": {
     "displayProperties": {
       "name": "锋刃要塞",
       "description": "消灭巫师，拿起剑击败骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=6"
     }
   },
   "12": {
     "displayProperties": {
       "name": "权威深渊",
       "description": "到达底部，消灭傀儡女巫。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=1"
     }
   },
   "14": {
     "displayProperties": {
       "name": "辛梅里安卫戍营",
       "description": "到达战斗地点，消灭骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    },
+    "extended": {
+      "video": "https://www.bilibili.com/video/BV1CE411k7xd?p=2"
+    }
+  },
+  "677774031": {
+    "displayProperties": {
+      "description": "一个古老的恶魔在我们月球的破碎地表之下骚动。"
+    }
+  },
+  "1416096592": {
+    "displayProperties": {
+      "description": "一处隐藏甚久的大本营，暗礁觉醒者将之奉为圣地。"
+    }
+  },
+  "1729879943": {
+    "displayProperties": {
+      "description": "一颗荒无人烟的寒冷卫星，人类野心和狂妄的证明。"
+    }
+  },
+  "1737926756": {
+    "displayProperties": {
+      "description": "地球上留存的人类在高塔守护者警惕的看护下居住在圣城里。"
     }
   },
   "2000000251": {
     "displayProperties": {
       "name": "魅惑帷幕行刑者",
       "description": "击败魅惑帷幕行刑者以提升 **飞升的悬赏猎人** 成就进度。"
-    }
+    },
+    "itemTypeDisplayName": "光明行刑者"
   },
   "2000000252": {
     "displayProperties": {
       "name": "女王的城墙行刑者",
       "description": "击败女王的城墙行刑者以提升 **飞升的悬赏猎人** 成就进度。"
-    }
+    },
+    "itemTypeDisplayName": "光明行刑者"
   },
   "2000000253": {
     "displayProperties": {
       "name": "女巫的回音行刑者",
       "description": "击败女巫的回音行刑者以提升 **飞升的悬赏猎人** 成就进度。"
-    }
+    },
+    "itemTypeDisplayName": "光明行刑者"
   },
   "2000000254": {
     "displayProperties": {
@@ -66,6 +107,36 @@
   "2000000256": {
     "displayProperties": {
       "name": "坦尼克斯的梦魇, 伤疤"
+    }
+  },
+  "2000000294": {
+    "displayProperties": {
+      "name": "限时深视谜题"
+    }
+  },
+  "2000000295": {
+    "displayProperties": {
+      "name": "限时深视谜题"
+    }
+  },
+  "2000000296": {
+    "displayProperties": {
+      "name": "限时深视谜题"
+    }
+  },
+  "2000000297": {
+    "displayProperties": {
+      "name": "限时深视谜题"
+    }
+  },
+  "2244580325": {
+    "displayProperties": {
+      "description": "萨瓦图恩的内在思维模式，在她自己创造的神秘王座世界中重现了。"
+    }
+  },
+  "2481646875": {
+    "displayProperties": {
+      "description": "一座隐秘的科技大都会，未曾受到大崩塌的影响。"
     }
   },
   "3000000001": {
@@ -84,6 +155,93 @@
     "displayProperties": {
       "name": "乙太补给",
       "description": "摧毁魔眼，切断堕落者乙太供应。\n\n迅速消灭传输魔眼，进入英雄事件：第一轮一个，第二轮三个。"
+    }
+  },
+  "3000000004": {
+    "displayProperties": {
+      "name": "阻止武器交换",
+      "description": "阻止堕落者靠近他们的武器缓存箱。\n\n击杀地行者之前，存放6个电弧能量，进入英雄事件。"
+    }
+  },
+  "3000000005": {
+    "displayProperties": {
+      "name": "注入钻机",
+      "description": "削弱渗透者军政官。\n\n摧毁顶部、中间以及底部的通风排气口，进入英雄事件。"
+    }
+  },
+  "3000000006": {
+    "displayProperties": {
+      "name": "女巫仪式",
+      "description": "占领魔咒环并消灭巫师。\n\n占领魔咒环破除水晶无敌护盾，打破2个水晶，进入英雄事件。"
+    }
+  },
+  "3000000007": {
+    "displayProperties": {
+      "name": "战争卫星坠落",
+      "description": "防守战争卫星。\n\n消灭每轮的死灵（共3个），进入英雄事件。"
+    }
+  },
+  "3000000008": {
+    "displayProperties": {
+      "name": "傀儡凋零阴影",
+      "description": "消灭傀儡军团及凋零阴影。\n\n进入凋零阴影后，获得凋零阴影衰退BUFF，打掉天上悬浮的凋零阴影，进入英雄事件。"
+    }
+  },
+  "3000000009": {
+    "displayProperties": {
+      "name": "尖塔完整度",
+      "description": "阻止Vex强化他们的地下设施。\n\n占领三块同步板，进入英雄事件。"
+    }
+  },
+  "3000000010": {
+    "displayProperties": {
+      "name": "The Gatelord",
+      "description": "???"
+    }
+  },
+  "3000000011": {
+    "displayProperties": {
+      "name": "Cryo-pod Extraction",
+      "description": "???"
+    }
+  },
+  "3000000012": {
+    "displayProperties": {
+      "name": "调查乙太仪式",
+      "description": "消灭所有疏浚族长。\n\n消灭族长后，摧毁所有飞出来的乙太精华（3轮），进入英雄事件。"
+    }
+  },
+  "3000000013": {
+    "displayProperties": {
+      "name": "裂痕发生器",
+      "description": "保护发生器核心。\n\n摧毁3个凋零阴影黑球，进入英雄事件。"
+    }
+  },
+  "3000000014": {
+    "displayProperties": {
+      "name": "运送共振破片",
+      "description": "留在共振破片附近来部署它对抗敌人。\n\n消灭共振守护者，拾取共振炸弹，丢向共振破片6次，进入英雄事件。"
+    }
+  },
+  "3000000015": {
+    "displayProperties": {
+      "name": "核心收缩",
+      "description": "消灭堕落者以阻止他们与暗影进行交流。\n\n消灭每次站点内的三台小无人机，进入英雄事件。"
+    }
+  },
+  "3607432451": {
+    "displayProperties": {
+      "description": "拥有不规则轨道的小行星，被Vex转化，原因未知。"
+    }
+  },
+  "3990611421": {
+    "displayProperties": {
+      "description": "旧俄罗斯废墟中一处被遗忘的太空设施。"
+    }
+  },
+  "3998251206": {
+    "displayProperties": {
+      "description": "旅行者体内的一处超现实的记忆领域，受到了见证者的腐化。"
     }
   }
 }

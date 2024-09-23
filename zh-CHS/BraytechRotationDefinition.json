@@ -2,7 +2,24 @@
   "1": {
     "displayProperties": {
       "name": "萨瓦图恩的诅咒"
-    }
+    },
+    "rotation": [
+      {
+        "displayProperties": {
+          "name": "诅咒程度：最弱"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "诅咒程度：逐渐增强"
+        }
+      },
+      {
+        "displayProperties": {
+          "name": "诅咒程度：最强"
+        }
+      }
+    ]
   },
   "2": {
     "displayProperties": {
@@ -12,43 +29,37 @@
       {
         "nodeHash": 5,
         "displayProperties": {
-          "name": "衔尾蛇",
-          "description": ""
+          "name": "衔尾蛇"
         }
       },
       {
         "nodeHash": 7,
         "displayProperties": {
-          "name": "失却神殿",
-          "description": ""
+          "name": "失却神殿"
         }
       },
       {
         "nodeHash": 9,
         "displayProperties": {
-          "name": "破碎废墟",
-          "description": ""
+          "name": "破碎废墟"
         }
       },
       {
         "nodeHash": 11,
         "displayProperties": {
-          "name": "锋刃要塞",
-          "description": ""
+          "name": "锋刃要塞"
         }
       },
       {
         "nodeHash": 13,
         "displayProperties": {
-          "name": "权威深渊",
-          "description": ""
+          "name": "权威深渊"
         }
       },
       {
         "nodeHash": 15,
         "displayProperties": {
-          "name": "辛梅里安卫戍营",
-          "description": ""
+          "name": "辛梅里安卫戍营"
         }
       }
     ]
@@ -65,7 +76,8 @@
   },
   "5": {
     "displayProperties": {
-      "name": "日蚀区"
+      "name": "日蚀区",
+      "description": "守护者摧毁了轨道空间站，它的碎片残骸不断从太空中坠落。救赎氏族企图利用暗影来占领坠落地点，收集一切可用的宝贵残骸。守护者应当去干扰这些堕落者的计划。"
     }
   },
   "6": {
@@ -80,12 +92,14 @@
   },
   "8": {
     "displayProperties": {
-      "name": "Vex 入侵区"
+      "name": "Vex 入侵区",
+      "description": "Vex正在这片区域试探云端方舟的防御系统。"
     }
   },
   "9": {
     "displayProperties": {
-      "name": "终端过载"
+      "name": "终端过载",
+      "description": "和你的守护者同伴，一起对抗终端过载的电网破裂乱象。"
     }
   }
 }
