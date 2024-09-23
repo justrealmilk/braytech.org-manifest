@@ -18,6 +18,7 @@ import DestinyHistoricalStatsDefinition from '@/src/data/manifest/zh-CHS/Destiny
 import DestinyInventoryItemDefinition from '@/src/data/manifest/zh-CHS/DestinyInventoryItemDefinition.json';
 import DestinyInventoryBucketDefinition from '@/src/data/manifest/zh-CHS/DestinyInventoryBucketDefinition.json';
 import DestinyObjectiveDefinition from '@/src/data/manifest/zh-CHS/DestinyObjectiveDefinition.json';
+import DestinyPresentationNodeDefinition from '@/src/data/manifest/zh-CHS/DestinyPresentationNodeDefinition.json';
 import DestinyMilestoneDefinition from '@/src/data/manifest/zh-CHS/DestinyMilestoneDefinition.json';
 import DestinyRecordDefinition from '@/src/data/manifest/zh-CHS/DestinyRecordDefinition.json';
 import DestinySeasonDefinition from '@/src/data/manifest/zh-CHS/DestinySeasonDefinition.json';
@@ -49,6 +50,7 @@ const zhCHS = {
     DestinyInventoryItemDefinition,
     DestinyInventoryBucketDefinition,
     DestinyObjectiveDefinition,
+    DestinyPresentationNodeDefinition,
     DestinyMilestoneDefinition,
     DestinyRecordDefinition,
     DestinySeasonDefinition,
