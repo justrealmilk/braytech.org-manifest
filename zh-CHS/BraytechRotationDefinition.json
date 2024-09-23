@@ -5,16 +5,19 @@
     },
     "rotation": [
       {
+        "nodeHash": 275,
         "displayProperties": {
           "name": "诅咒程度：最弱"
         }
       },
       {
+        "nodeHash": 276,
         "displayProperties": {
           "name": "诅咒程度：逐渐增强"
         }
       },
       {
+        "nodeHash": 277,
         "displayProperties": {
           "name": "诅咒程度：最强"
         }
