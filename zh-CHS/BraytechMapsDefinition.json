@@ -1,8 +1,32 @@
 {
+  "1": {
+    "displayProperties": {
+      "name": "汇流西",
+      "description": "**汇流** 传送门，由超自然能量形成。"
+    }
+  },
+  "2": {
+    "displayProperties": {
+      "name": "汇流东",
+      "description": "**汇流** 传送门，由超自然能量形成。"
+    }
+  },
+  "3": {
+    "displayProperties": {
+      "name": "汇流南",
+      "description": "**汇流** 传送门，由超自然能量形成。"
+    }
+  },
   "4": {
     "displayProperties": {
       "name": "衔尾蛇",
       "description": "摧毁所有的傀儡凋零阴影，然后返回大厅，打破虚空水晶。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    }
+  },
+  "5": {
+    "displayProperties": {
+      "name": "衔尾蛇",
+      "description": "**上维世界** 传送门。"
     }
   },
   "6": {
@@ -11,10 +35,22 @@
       "description": "通过收集电弧能量充能来抑制阴影，消灭骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
     }
   },
+  "7": {
+    "displayProperties": {
+      "name": "失却神殿",
+      "description": "**上维世界** 传送门。"
+    }
+  },
   "8": {
     "displayProperties": {
       "name": "破碎废墟",
       "description": "爬上废墟，消灭傀儡方阵士兵。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    }
+  },
+  "9": {
+    "displayProperties": {
+      "name": "破碎废墟",
+      "description": "**上维世界** 传送门。"
     }
   },
   "10": {
@@ -23,16 +59,112 @@
       "description": "消灭巫师，拿起剑击败骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
     }
   },
+  "11": {
+    "displayProperties": {
+      "name": "锋刃要塞",
+      "description": "**上维世界** 传送门。"
+    }
+  },
   "12": {
     "displayProperties": {
       "name": "权威深渊",
       "description": "到达底部，消灭傀儡女巫。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
     }
   },
+  "13": {
+    "displayProperties": {
+      "name": "权威深渊",
+      "description": "**上维世界** 传送门。"
+    }
+  },
   "14": {
     "displayProperties": {
       "name": "辛梅里安卫戍营",
       "description": "到达战斗地点，消灭骑士。\n\n_接受这个挑战，穿梭于世界之间，扭转已发生的事。_"
+    }
+  },
+  "15": {
+    "displayProperties": {
+      "name": "辛梅里安卫戍营",
+      "description": "**上维世界** 传送门。"
+    }
+  },
+  "16": {
+    "displayProperties": {
+      "name": "克洛塔之誓，修托尔的梦魇",
+      "description": "击败这个梦魇以提升 **游荡梦魇** 成就进度。"
+    }
+  },
+  "17": {
+    "displayProperties": {
+      "name": "米瑟拉克斯之俱，霍基斯的梦魇",
+      "description": "击败这个梦魇以提升 **游荡梦魇** 成就进度。"
+    }
+  },
+  "18": {
+    "displayProperties": {
+      "name": "希乌阿拉斯之爪，贾克斯的梦魇",
+      "description": "击败这个梦魇以提升 **游荡梦魇** 成就进度。"
+    }
+  },
+  "19": {
+    "displayProperties": {
+      "name": "堕落议会",
+      "description": "击败这个梦魇以提升 **游荡梦魇** 成就进度。"
+    }
+  },
+  "278": {
+    "displayProperties": {
+      "name": "女王大厅",
+      "description": "**女王大厅** 传送门, 玛拉·索维的王座世界。"
+    }
+  },
+  "607": {
+    "displayProperties": {
+      "name": "艾西太空港–伊尔卡拉设施",
+      "description": "一个由共振驱动的裂口通向 **伊尔卡拉设施**。"
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "伊尔卡拉设施–艾西太空港",
+      "description": "一个由共振驱动的裂口通向 **艾西太空港**。"
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "提丰大帝号：深处",
+      "description": "一个由共振驱动的裂口。"
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "提丰大帝号",
+      "description": "一个由共振驱动的裂口。"
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "忿怒之殿",
+      "description": "一个由共振驱动的裂口。"
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "忿怒之殿：深处",
+      "description": "一个由共振驱动的裂口。"
+    }
+  },
+  "613": {
+    "displayProperties": {
+      "name": "隔绝之地",
+      "description": "一个由共振驱动的裂口。"
+    }
+  },
+  "614": {
+    "displayProperties": {
+      "name": "隔绝之地",
+      "description": "一个由共振驱动的裂口。"
     }
   },
   "677774031": {
