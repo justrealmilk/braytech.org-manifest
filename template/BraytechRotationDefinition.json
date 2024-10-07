@@ -410,15 +410,6 @@
     },
     "rotation": [
       {
-        "nodeHash": 316,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
-      {
         "nodeHash": 314,
         "displayProperties": {
           "name": "",
@@ -429,6 +420,15 @@
       },
       {
         "nodeHash": 315,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 316,
         "displayProperties": {
           "name": "",
           "description": ""
