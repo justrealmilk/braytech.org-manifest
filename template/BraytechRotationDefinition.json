@@ -402,5 +402,40 @@
         "records": []
       }
     ]
+  },
+  "11": {
+    "displayProperties": {
+      "name": "Overthrow",
+      "description": "Forces of the Witness are converging."
+    },
+    "rotation": [
+      {
+        "nodeHash": 316,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 314,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 315,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
