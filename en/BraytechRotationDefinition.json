@@ -429,5 +429,44 @@
         "records": []
       }
     ]
+  },
+  "11": {
+    "hash": 11,
+    "displayProperties": {
+      "name": "Overthrow",
+      "description": "Forces of the Witness are converging.",
+      "icon": "overthrow-event"
+    },
+    "startDate": "2024-06-04T17:00:00Z",
+    "cadence": 7,
+    "rotation": [
+      {
+        "nodeHash": 316,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 314,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 315,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
