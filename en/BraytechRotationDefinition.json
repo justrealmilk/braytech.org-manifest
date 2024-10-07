@@ -438,17 +438,8 @@
       "icon": "overthrow-event"
     },
     "startDate": "2024-06-04T17:00:00Z",
-    "cadence": 7,
+    "cadence": 1,
     "rotation": [
-      {
-        "nodeHash": 316,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
       {
         "nodeHash": 314,
         "displayProperties": {
@@ -460,6 +451,15 @@
       },
       {
         "nodeHash": 315,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 316,
         "displayProperties": {
           "name": "",
           "description": ""
