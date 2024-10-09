@@ -8,6 +8,9 @@
   "17045790": {
     "collectibleHash": 756545446
   },
+  "22095468": {
+    "collectibleHash": 3995207026
+  },
   "73042000": {
     "collectibleHash": 3330240536
   },
@@ -271,6 +274,9 @@
   },
   "752104278": {
     "collectibleHash": 3539163966
+  },
+  "758530795": {
+    "collectibleHash": 1844459180
   },
   "758645239": {
     "presentationNodeHash": 1106177979
@@ -569,6 +575,9 @@
   "1464034190": {
     "presentationNodeHash": 2268797508
   },
+  "1465844702": {
+    "collectibleHash": 85571442
+  },
   "1506999309": {
     "collectibleHash": 2946320117
   },
@@ -667,6 +676,9 @@
   },
   "1778902326": {
     "collectibleHash": 319990542
+  },
+  "1824795112": {
+    "collectibleHash": 2948134329
   },
   "1826608652": {
     "presentationNodeHash": 1528010893
@@ -770,6 +782,9 @@
   "2158979729": {
     "collectibleHash": 344990537
   },
+  "2171799573": {
+    "collectibleHash": 1141170786
+  },
   "2177815995": {
     "collectibleHash": 2285399843
   },
@@ -799,6 +814,9 @@
   },
   "2302993504": {
     "presentationNodeHash": 4183969062
+  },
+  "2313049397": {
+    "collectibleHash": 4228109048
   },
   "2324218515": {
     "collectibleHash": 622741819
@@ -956,6 +974,12 @@
     },
     "collectibleHash": 1250332035
   },
+  "2744508352": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/cf4b5e8ae74c90efffb40812b00dda0a.jpg"
+    },
+    "collectibleHash": 2081206839
+  },
   "2756328801": {
     "presentationNodeHash": 1086048586
   },
@@ -1000,6 +1024,9 @@
   },
   "2896258222": {
     "collectibleHash": 4133398550
+  },
+  "2901344468": {
+    "collectibleHash": 773381624
   },
   "2906615623": {
     "collectibleHash": 256984752
@@ -1046,8 +1073,17 @@
     },
     "collectibleHash": 77226437
   },
+  "3025950752": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/e2e4dc370fef2a92ea8b58260d08c381.jpg"
+    },
+    "collectibleHash": 740275358
+  },
   "3027110436": {
     "collectibleHash": 360554695
+  },
+  "3047534189": {
+    "presentationNodeHash": 1270675697
   },
   "3047702042": {
     "presentationNodeHash": 3509969063
@@ -1177,6 +1213,12 @@
       "icon": "/common/destiny2_content/icons/36b7bae6c9e5a9c4de2ed7d70908e5c8.jpg"
     },
     "collectibleHash": 199171391
+  },
+  "3381077691": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/835df07fac142b7cecf3be86e9cc60c0.jpg"
+    },
+    "collectibleHash": 2289501267
   },
   "3392092673": {
     "presentationNodeHash": 1331476689
@@ -1444,6 +1486,9 @@
   },
   "4205772441": {
     "collectibleHash": 4106136257
+  },
+  "4226043524": {
+    "collectibleHash": 1999017690
   },
   "4231302093": {
     "collectibleHash": 152285205
