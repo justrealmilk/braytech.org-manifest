@@ -22,7 +22,8 @@
       "734180536",
       "2126433420",
       "860071581",
-      "1371343017"
+      "1371343017",
+      "2284123716"
     ],
     "BraytechMapsTypesDefinition.json": [
       "13"
@@ -537,6 +538,9 @@
       "1000000047",
       "2206233229"
     ],
+    "DestinyInventoryItemDefinition.json": [
+      "2284123716"
+    ],
     "DestinyDestinationDefinition.json": [
       "2032534090",
       "3998251206"
@@ -762,6 +766,9 @@
       "1000000014",
       "1000000047",
       "2206233229"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "2284123716"
     ],
     "DestinyDestinationDefinition.json": [
       "2032534090",
@@ -1004,7 +1011,8 @@
       "734180536",
       "2126433420",
       "860071581",
-      "1371343017"
+      "1371343017",
+      "2284123716"
     ],
     "BraytechMapsTypesDefinition.json": [
       "13"
@@ -1404,7 +1412,8 @@
       "2206233229"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "1371343017"
+      "1371343017",
+      "2284123716"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -1792,6 +1801,9 @@
     "DestinySourceDefinition.json": [
       "1000000014"
     ],
+    "DestinyInventoryItemDefinition.json": [
+      "2284123716"
+    ],
     "DestinyObjectiveDefinition.json": [
       "51472017",
       "3236905278",
@@ -1905,7 +1917,8 @@
       "860071581",
       "1371343017",
       "3491404510",
-      "2497395625"
+      "2497395625",
+      "2284123716"
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
@@ -2768,7 +2781,8 @@
       "860071581",
       "1371343017",
       "3491404510",
-      "2497395625"
+      "2497395625",
+      "2284123716"
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
@@ -3335,7 +3349,8 @@
       "2206233229"
     ],
     "DestinyInventoryItemDefinition.json": [
-      "2643364263"
+      "2643364263",
+      "2284123716"
     ],
     "DestinyDestinationDefinition.json": [
       "3821439926",
@@ -3904,7 +3919,8 @@
       "2902936983",
       "2126433420",
       "860071581",
-      "1371343017"
+      "1371343017",
+      "2284123716"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
