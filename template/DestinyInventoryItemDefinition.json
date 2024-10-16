@@ -156,15 +156,10 @@
       "description": "Increases the initial drop rate of the \"Euphony\" exotic linear fusion rifle from the \"Salvation's Edge\" raid."
     }
   },
-  "3491404510": {
+  "2156849113": {
     "displayProperties": {
-      "description": "Material used in weapon shaping.\n\nCan be obtained by completing Deepsight Resonance objectives on Legendary weapons."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Material used in weapon shaping, required to adjust intrinsic plugs.\n\nPrimarily obtained by dismantling Legendary weapons, but can also be rewarded for completing activities."
+      "name": "Increased \"Ice Breaker\" drop rate",
+      "description": "Increases the initial drop rate of the \"Ice Breaker\" exotic sniper rifle from the \"Vesper's Host\" dungeon."
     }
   },
   "23239861010": {
