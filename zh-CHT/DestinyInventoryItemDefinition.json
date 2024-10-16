@@ -102,17 +102,6 @@
       "description": "提高「夢魘根源」突襲中「條件式終局」異域霰彈槍的掉落率"
     }
   },
-  "3491404510": {
-    "displayProperties": {
-      "description": "武器塑造所用的材料。\n\n可以通過完成傳奇武器上的深視共振目標獲得。"
-    },
-    "itemTypeDisplayName": "材料"
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "用於武器成型的材料，需要調整內部插頭。\n\n主要通過分解傳奇武器獲得，但也可以通過完成活動獲得獎勵。"
-    }
-  },
   "23239861010": {
     "displayProperties": {
       "name": "空的大師之作插槽",

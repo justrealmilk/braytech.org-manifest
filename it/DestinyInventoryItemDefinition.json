@@ -150,17 +150,6 @@
       "description": "Aumenta la probabilità di trovare l'arma da supporto esotica \"Lignaggio Sepolto\" dalla segreta \"Rovina della Signora della Guerra\"."
     }
   },
-  "3491404510": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi.\n\nPuò essere ottenuto completando gli obiettivi di risonanza della Vista profonda su armi leggendarie."
-    },
-    "itemTypeDisplayName": "Materiale"
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Materiale utilizzato nella forgiatura delle armi, necessario per modificare le peculiarità intrinseche.\n\nPrincipalmente ottenuto smantellando armi leggendarie, ma può essere anche ottenuto come ricompensa completando attività."
-    }
-  },
   "23239861010": {
     "displayProperties": {
       "name": "Alloggiamento prodigio vuoto",

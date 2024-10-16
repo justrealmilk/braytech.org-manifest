@@ -70,17 +70,6 @@
       "description": "Erhöht die Droprate des exotischen \"Herzschatten\"-Schwertes im \"Dualität\"-Dungeon."
     }
   },
-  "3491404510": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird.\n\nKann durch das Abschließen von Deepsight Resonance-Zielen mit legendären Waffen erhalten werden."
-    },
-    "itemTypeDisplayName": "Material"
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Material, das bei der Waffenformung verwendet wird und zum Anpassen von intrinsischen Verbindungen benötigt wird.\n\nWird hauptsächlich durch das Zerlegen legendärer Waffen erhalten, kann aber auch für das Abschließen von Aktivitäten belohnt werden."
-    }
-  },
   "23239861010": {
     "displayProperties": {
       "name": "Leerer Meisterwerk-Sockel",

@@ -90,17 +90,6 @@
       "description": "Augmente le taux d'obtention de l'épée exotique \"Hiérarchie des Besoins\" du donjon \"Flèche de la Vigie\"."
     }
   },
-  "3491404510": {
-    "displayProperties": {
-      "description": "Matériau utilisé dans la fabrication d'armes.\n\nPeut être obtenu en accomplissant des objectifs de résonance de souvenance sur des armes légendaires."
-    },
-    "itemTypeDisplayName": "Matériau"
-  },
-  "2497395625": {
-    "displayProperties": {
-      "description": "Matériau utilisé pour façonner les armes, nécessaire pour ajuster les perks intrinsèques.\n\nS'obtient principalement en démontant des armes légendaires, mais peut également être obtenu pour avoir terminer des activités."
-    }
-  },
   "23239861010": {
     "displayProperties": {
       "name": "Emplacement de pièce maîtresse vide",
