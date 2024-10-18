@@ -1,32 +1,4 @@
 {
-  "2056946089": {
-    "displayProperties": {
-      "description": "An emblem designed as tribute to a community member past, Seraphim Crypto. You can read more about their legend in [the TWAB of September 15, 2022](https://www.bungie.net/en/Explore/Detail/News/51779)."
-    }
-  },
-  "1171206947": {
-    "sourceString": "Source: Complete the \"Last Wish\" raid within the first 24 hours of release."
-  },
-  "1469913804": {
-    "displayProperties": {
-      "supplement": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
-    }
-  },
-  "3163873693": {
-    "displayProperties": {
-      "supplement": "Earned by opening the \"Glittering Key\" chest."
-    }
-  },
-  "1246578674": {
-    "displayProperties": {
-      "supplement": "Earned by completing all \"Last Wish\" raid challenges."
-    }
-  },
-  "1171206946": {
-    "displayProperties": {
-      "supplement": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
-    }
-  },
   "304436264": {
     "displayProperties": {
       "supplement": "Earned by completing all \"Garden of Salvation\" raid challenges."
@@ -37,54 +9,31 @@
       "supplement": "Earned by completing the [\"Inherent Perfection\"](/triumphs/node/1473265108/2178633627/615240848/1522774125) triumph."
     }
   },
-  "3938759711": {
-    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
-  },
-  "1988948484": {
-    "sourceString": "Source: Earned by completing the \"Devine Fragmentation\" exotic quest."
-  },
-  "3574313939": {
-    "displayProperties": {
-      "supplement": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
-    },
-    "sourceString": "Source: \"Deep Stone Crypt\" raid."
-  },
   "392272160": {
     "displayProperties": {
       "supplement": "Earned by completing the [\"Not a Scratch\"](/triumphs/node/2647590440/1476271775/1726708384/134885948) triumph."
     },
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
-  "2571679418": {
+  "449846850": {
     "displayProperties": {
-      "supplement": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
+      "supplement": "Guide 10 Guardians through their first \"Salvation's Edge\" raid."
     }
   },
-  "2571679419": {
+  "449846851": {
     "displayProperties": {
-      "supplement": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
+      "supplement": "Awarded for Twitch subscriptions streamers during the \"Salvation's Edge\" raid contest mode."
     }
   },
-  "2273453972": {
-    "sourceString": "Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
-  },
-  "958866288": {
+  "449846853": {
     "displayProperties": {
-      "supplement": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
+      "supplement": "Watch a participating raid race stream for 2 hours."
     }
   },
-  "3568861785": {
+  "449846856": {
     "displayProperties": {
-      "supplement": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
+      "supplement": "Awarded for raising at least $500 during the 2024 Bungie Day fundraiser."
     }
-  },
-  "3568861784": {
-    "displayProperties": {
-      "supplement": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
-    }
-  },
-  "2172413746": {
-    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
   },
   "651647954": {
     "displayProperties": {
@@ -106,14 +55,40 @@
       "supplement": "Complete the \"Triumph Apprentice\" Triumph during Moments of Triumph 2020."
     }
   },
+  "781425998": {
+    "sourceString": "Source: Solstice"
+  },
   "802420308": {
     "displayProperties": {
       "supplement": "In recognition of completing the \"Gold\" Event Challenge during Guardian Games All-Stars."
     }
   },
+  "958866288": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Master Glasser\"](/triumphs/node/4011083713/3472409870/132375837/3890225317) triumph."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "supplement": "Earned by entering the \"3rd Wish\" at the \"Wall of Wishes.\""
+    }
+  },
+  "1171206947": {
+    "sourceString": "Source: Complete the \"Last Wish\" raid within the first 24 hours of release."
+  },
+  "1246578674": {
+    "displayProperties": {
+      "supplement": "Earned by completing all \"Last Wish\" raid challenges."
+    }
+  },
   "1351742174": {
     "displayProperties": {
       "supplement": "Complete the Triumph \"Super Celebratory\" during The Revelry 2019."
+    }
+  },
+  "1469913804": {
+    "displayProperties": {
+      "supplement": "Rare reward from defeating \"Morgeth, the Spirekeeper.\""
     }
   },
   "1704174847": {
@@ -201,6 +176,19 @@
       "supplement": "During Solstice 2022, complete the \"Bashing Success\" triumph."
     }
   },
+  "1988948484": {
+    "sourceString": "Source: Earned by completing the \"Devine Fragmentation\" exotic quest."
+  },
+  "1990172769": {
+    "displayProperties": {
+      "supplement": "Awarded for donating $77 during the 2024 Bungie Foundation fundraiser Twitch stream."
+    }
+  },
+  "1990172770": {
+    "displayProperties": {
+      "supplement": "Watch a participating raid race stream for 2 hours."
+    }
+  },
   "2006613202": {
     "displayProperties": {
       "supplement": "Purchase the \"Up My Sleeve\" finisher from the Eververse Store."
@@ -241,14 +229,40 @@
       "supplement": "Complete The Dawning 2022 triumph \"Frozen Doom\"."
     }
   },
+  "2056946089": {
+    "displayProperties": {
+      "description": "An emblem designed as tribute to a community member past, Seraphim Crypto. You can read more about their legend in [the TWAB of September 15, 2022](https://www.bungie.net/en/Explore/Detail/News/51779)."
+    }
+  },
+  "2172413746": {
+    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
+  },
+  "2273453972": {
+    "sourceString": "Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
+  },
   "2529229356": {
     "displayProperties": {
       "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
     }
   },
+  "2571679418": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Cryptkeeper\"](/triumphs/node/2647590440/1476271775/1726708384/992355976) triumph."
+    }
+  },
+  "2571679419": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Survival of the Fittest\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614) triumph."
+    }
+  },
   "2999013840": {
     "displayProperties": {
       "supplement": "Watch Bungie Foundation's official Game2Give stream."
+    }
+  },
+  "3163873693": {
+    "displayProperties": {
+      "supplement": "Earned by opening the \"Glittering Key\" chest."
     }
   },
   "3215337905": {
@@ -336,6 +350,25 @@
       "supplement": "Complete the \"Magnum Opus\" quest and acquire the exotic sidearm, Forerunner, and then purchase the \"Strange Coin\" replica from the Bungie Store."
     }
   },
+  "3568861784": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Flawless Vault of Glass\"](/triumphs/node/4011083713/3472409870/132375837/2750088202) triumph."
+    }
+  },
+  "3568861785": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Pearl of Glass\"](/triumphs/node/4011083713/3472409870/132375837/932039090) triumph."
+    }
+  },
+  "3574313939": {
+    "displayProperties": {
+      "supplement": "Earned by completing the [\"Rock Bottom\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181) triumph."
+    },
+    "sourceString": "Source: \"Deep Stone Crypt\" raid."
+  },
+  "3938759711": {
+    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
+  },
   "4137754756": {
     "displayProperties": {
       "supplement": "Complete 75 Seasonal Challenges during Season of the Chosen."
@@ -358,38 +391,5 @@
   },
   "4224291482": {
     "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
-  },
-  "449846850": {
-    "displayProperties": {
-      "supplement": "Guide 10 Guardians through their first \"Salvation's Edge\" raid."
-    }
-  },
-  "449846851": {
-    "displayProperties": {
-      "supplement": "Awarded for Twitch subscriptions streamers during the \"Salvation's Edge\" raid contest mode."
-    }
-  },
-  "449846853": {
-    "displayProperties": {
-      "supplement": "Watch a participating raid race stream for 2 hours."
-    }
-  },
-  "1990172770": {
-    "displayProperties": {
-      "supplement": "Watch a participating raid race stream for 2 hours."
-    }
-  },
-  "449846856": {
-    "displayProperties": {
-      "supplement": "Awarded for raising at least $500 during the 2024 Bungie Day fundraiser."
-    }
-  },
-  "1990172769": {
-    "displayProperties": {
-      "supplement": "Awarded for donating $77 during the 2024 Bungie Foundation fundraiser Twitch stream."
-    }
-  },
-  "781425998": {
-    "sourceString": "Source: Solstice"
   }
 }
