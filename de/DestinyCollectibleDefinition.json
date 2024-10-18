@@ -1,27 +1,4 @@
 {
-  "1171206947": {
-    "sourceString": "Quelle: Absolviere den \"Letzter Wunsch\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
-  },
-  "1469913804": {
-    "displayProperties": {
-      "supplement": "Seltener Drop durch Abschluss der 3. Begegnung (Morgeth, der Säulenwächter)."
-    }
-  },
-  "3163873693": {
-    "displayProperties": {
-      "supplement": "Verdient durch Öffnen der Glitzerschlüssel-Truhe, die zwischen der 3. (Morgeth, der Säulenwächter) und der 4. (Der Tresor) Begegnung zu finden ist, wenn der _2. Wunsch_ eingegeben wurde."
-    }
-  },
-  "1246578674": {
-    "displayProperties": {
-      "supplement": "Verdient durch das Abschließen aller Raid-Herausforderungen."
-    }
-  },
-  "1171206946": {
-    "displayProperties": {
-      "supplement": "Verdient durch Eingeben des _3. Wunsches_ an der _Wunschtafel_."
-    }
-  },
   "304436264": {
     "displayProperties": {
       "supplement": "Verdient durch das Abschließen aller Raid-Herausforderungen."
@@ -32,23 +9,43 @@
       "supplement": "Verdient durch Abschluss des [\"Inhärente Perfektion\"](/triumphs/node/1473265108/2178633627/615240848/1522774125)-Triumphes."
     }
   },
-  "3938759711": {
-    "sourceString": "Absolviere den \"Garten der Erlösung\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
-  },
-  "1988948484": {
-    "sourceString": "Quelle: Verdient durch Abschluss der exotischen Quest \"Göttliche Fragmentierung\"."
-  },
-  "3574313939": {
-    "displayProperties": {
-      "supplement": "Verdient durch Abschluss des [\"Tiefpunkt\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181)-Triumphes."
-    },
-    "sourceString": "Quelle: \"Tiefsteinkrypta\"-Raid."
-  },
   "392272160": {
     "displayProperties": {
       "supplement": "Verdient durch Abschluss des [\"Ohne einen Kratzer\"](/triumphs/node/2647590440/1476271775/1726708384/134885948)-Triumphes."
     },
     "sourceString": "Quelle: \"Tiefsteinkrypta\"-Raid."
+  },
+  "958866288": {
+    "displayProperties": {
+      "supplement": "Verdient durch Abschluss des [\"Gläserner Großmeister\"](/triumphs/node/4011083713/3472409870/132375837/3890225317)-Triumphes."
+    }
+  },
+  "1171206946": {
+    "displayProperties": {
+      "supplement": "Verdient durch Eingeben des _3. Wunsches_ an der _Wunschtafel_."
+    }
+  },
+  "1171206947": {
+    "sourceString": "Quelle: Absolviere den \"Letzter Wunsch\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
+  },
+  "1246578674": {
+    "displayProperties": {
+      "supplement": "Verdient durch das Abschließen aller Raid-Herausforderungen."
+    }
+  },
+  "1469913804": {
+    "displayProperties": {
+      "supplement": "Seltener Drop durch Abschluss der 3. Begegnung (Morgeth, der Säulenwächter)."
+    }
+  },
+  "1988948484": {
+    "sourceString": "Quelle: Verdient durch Abschluss der exotischen Quest \"Göttliche Fragmentierung\"."
+  },
+  "2172413746": {
+    "sourceString": "Absolviere den \"Gläserne Kammer\"-Raid und alle Raid-Herausforderungen innerhalb der ersten 24 Stunden."
+  },
+  "2273453972": {
+    "sourceString": "Verdient durch Abschluss des \"Frisch aus der Krypta\" Triumphes."
   },
   "2571679418": {
     "displayProperties": {
@@ -60,17 +57,9 @@
       "supplement": "Verdient durch Abschluss des [\"Überleben der Stärkeren\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614)-Triumphes."
     }
   },
-  "2273453972": {
-    "sourceString": "Verdient durch Abschluss des \"Frisch aus der Krypta\" Triumphes."
-  },
-  "958866288": {
+  "3163873693": {
     "displayProperties": {
-      "supplement": "Verdient durch Abschluss des [\"Gläserner Großmeister\"](/triumphs/node/4011083713/3472409870/132375837/3890225317)-Triumphes."
-    }
-  },
-  "3568861785": {
-    "displayProperties": {
-      "supplement": "Verdient durch Abschluss des [\"Gläserne Perle\"](/triumphs/node/4011083713/3472409870/132375837/932039090)-Triumphes."
+      "supplement": "Verdient durch Öffnen der Glitzerschlüssel-Truhe, die zwischen der 3. (Morgeth, der Säulenwächter) und der 4. (Der Tresor) Begegnung zu finden ist, wenn der _2. Wunsch_ eingegeben wurde."
     }
   },
   "3568861784": {
@@ -78,7 +67,18 @@
       "supplement": "Verdient durch Abschluss des [\"Makellose Gläserne Kammer\"](/triumphs/node/4011083713/3472409870/132375837/2750088202)-Triumphes."
     }
   },
-  "2172413746": {
-    "sourceString": "Absolviere den \"Gläserne Kammer\"-Raid und alle Raid-Herausforderungen innerhalb der ersten 24 Stunden."
+  "3568861785": {
+    "displayProperties": {
+      "supplement": "Verdient durch Abschluss des [\"Gläserne Perle\"](/triumphs/node/4011083713/3472409870/132375837/932039090)-Triumphes."
+    }
+  },
+  "3574313939": {
+    "displayProperties": {
+      "supplement": "Verdient durch Abschluss des [\"Tiefpunkt\"](/triumphs/node/2647590440/1476271775/1726708384/3323713181)-Triumphes."
+    },
+    "sourceString": "Quelle: \"Tiefsteinkrypta\"-Raid."
+  },
+  "3938759711": {
+    "sourceString": "Absolviere den \"Garten der Erlösung\"-Raid innerhalb der ersten 24 Stunden nach Erscheinen."
   }
 }
