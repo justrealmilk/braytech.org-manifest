@@ -371,5 +371,71 @@
         "records": []
       }
     ]
+  },
+  "10": {
+    "rotation": [
+      {
+        "nodeHash": 311,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 312,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 313,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
+  },
+  "11": {
+    "displayProperties": {
+      "name": "転覆",
+      "description": "目撃者の力は収束しつつある。"
+    },
+    "rotation": [
+      {
+        "nodeHash": 316,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 315,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 314,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      }
+    ]
   }
 }
