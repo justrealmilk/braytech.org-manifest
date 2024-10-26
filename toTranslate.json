@@ -1825,58 +1825,6 @@
       "4224291482"
     ]
   },
-  "ja": {
-    "DestinyPhaseDefinition.json": [
-      "1292217373",
-      "2133190695",
-      "1958961797"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000014"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "2156849113",
-      "2284123716"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "2697564403",
-      "1062014463",
-      "2586756916"
-    ],
-    "BraytechRotationDefinition.json": [
-      "10",
-      "11"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2968370335",
-      "1190294990",
-      "1289679000"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "2916787939"
-    ],
-    "DestinyCollectibleDefinition.json": [
-      "449846850",
-      "449846851",
-      "449846853",
-      "449846856",
-      "781425998",
-      "1990172769",
-      "1990172770"
-    ]
-  },
   "ko": {
     "DestinyChecklistDefinition.json": [
       "1793940260",
