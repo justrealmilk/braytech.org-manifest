@@ -400,7 +400,7 @@
       "name": "Quests",
       "description": "Track your pursuits, including quests and bounties."
     },
-    "to": "/quests/all",
+    "to": "/quests",
     "keywords": ["quests", "new light", "bounty", "bounties", "pathfinder"],
     "children": {
       "views": [
@@ -419,7 +419,7 @@
       "name": "Bounties",
       "description": "The operatives of the Tower and inhabitants sprawled accross the system have tasks for you. They offer rich experiences and other currencies for their completion.\n\nThese are all of the selected Guardian's bounties."
     },
-    "to": "/quests",
+    "to": "/quests/bounties",
     "keywords": ["bounty", "bounties"]
   },
   "quests-pathfinder": {
