@@ -226,7 +226,7 @@
   "active-triumph-score": {
     "displayProperties": {
       "name": "Active Triumph Score",
-      "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
+      "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs.\n\nThis value is from Bungie."
     }
   },
   "seal-score": {
@@ -244,13 +244,13 @@
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Legacy Triumph Score",
-      "description": "Total score of all completed legacy Triumphs."
+      "description": "Total score of all completed legacy Triumphs.\n\nThis value is from Bungie."
     }
   },
   "lifetime-triumph-score": {
     "displayProperties": {
       "name": "Lifetime Triumph Score",
-      "description": "A combination of all completed active and legacy Triumph scores."
+      "description": "A combination of all completed active and legacy Triumph scores.\n\nThis value is from Bungie."
     }
   },
   "collection-score": {
