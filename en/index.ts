@@ -53,7 +53,7 @@ const en = {
     DestinyActivityTypeDefinition,
     DestinyAmmunitionTypeDefinition,
     DestinyChecklistDefinition,
-    DestinyClanDefinition,
+    DestinyClanBannerDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
