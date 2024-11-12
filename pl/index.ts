@@ -1,5 +1,5 @@
-import BraytechCommonDefinition from '@/src/data/manifest/pl/BraytechCommonDefinition.json';
-import BraytechFeatureDefinition from '@/src/data/manifest/pl/BraytechFeatureDefinition.json';
+import BraytechCommonDefinition from './BraytechCommonDefinition.json';
+import BraytechFeatureDefinition from './BraytechFeatureDefinition.json';
 
 const pl = {
   definitions: {
