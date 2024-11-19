@@ -1,5 +1,6 @@
 {
   "0": {
+    "hash": 0,
     "displayProperties": {
       "name": "Classified",
       "description": "Keep it clean."
@@ -8,6 +9,7 @@
     "redacted": true
   },
   "1": {
+    "hash": 1,
     "displayProperties": {
       "name": "Unknown",
       "description": "The item you're looking for does not exist."

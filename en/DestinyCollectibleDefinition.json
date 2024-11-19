@@ -1,4 +1,13 @@
 {
+  "0": {
+    "hash": 0,
+    "displayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "Insufficient Clearance",
+    "redacted": true
+  },
   "16122352": {
     "hash": 16122352,
     "sourceSeason": 8
