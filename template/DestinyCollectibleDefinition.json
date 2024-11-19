@@ -1,4 +1,11 @@
 {
+  "0": {
+    "displayProperties": {
+      "name": "Classified",
+      "description": "Keep it clean."
+    },
+    "itemTypeDisplayName": "Insufficient Clearance"
+  },
   "304436264": {
     "displayProperties": {
       "supplement": "Earned by completing all \"Garden of Salvation\" raid challenges."
