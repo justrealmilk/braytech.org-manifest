@@ -461,11 +461,5 @@
       "name": "이번 주 Bungie",
       "description": "최신 Bungie 뉴스를 직접 받아보세요. 2004년부터 신선하고 따끈따끈합니다. "
     }
-  },
-  "subscriber-only-features": {
-    "displayProperties": {
-      "name": "구독자 전용 기능",
-      "description": "**맞춤형 Braytech 사용자 이름**\n\n`https://bray.tech/1/4611686018449662397` 대신에 `https://bray.tech/@/Dare`를 가질 수 있습니다.\n\n**고급 리더보드 기능**\n\n두 인접한 플레이어 간의 차이를 빠르게 검사할 수 있습니다\n\n_더 많은 기능이 곧 추가될 예정입니다..._"
-    }
   }
 }
