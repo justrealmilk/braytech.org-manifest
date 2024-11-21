@@ -462,10 +462,10 @@
       "description": "Get the latest Bungie news delivered direct to you. Fresh and hot since 2004. "
     }
   },
-  "subscriber-only-features": {
+  "subscriber-benefits": {
     "displayProperties": {
-      "name": "Subscriber-Only Features",
-      "description": "**Custom Braytech username**\n\nInstead of `https://bray.tech/1/4611686018449662397` you could have `https://bray.tech/@/Dare`\n\n**Advanaced Leaderboards features**\n\nQuickly inspect the difference between two neighbouring players\n\n_More coming soon..._"
+      "name": "Subscriber Benefits",
+      "description": "Shorten your address from a bunch of long numbers to https://bray.tech/@/CoolMom69. Emoji supported 💩\nSelect a default character for your address and highlight a triumph or stat tracker you're proud of for shared link images and the Legend page\nEnable more Leaderboards features such as the ability compare the difference between two neighbouring players\nMore neat bonuses are on the way. Join the discussion in Discord to steer the ship and and see what's in the pipes!"
     }
   }
 }
