@@ -465,7 +465,7 @@
   "subscriber-benefits": {
     "displayProperties": {
       "name": "Subscriber Benefits",
-      "description": "Shorten your address from a bunch of long numbers to https://bray.tech/@/CoolMom69. Emoji supported 💩\nSelect a default character for your address and highlight a triumph or stat tracker you're proud of for shared link images and the Legend page\nEnable more Leaderboards features such as the ability compare the difference between two neighbouring players\nMore neat bonuses are on the way. Join the discussion in Discord to steer the ship and and see what's in the pipes!"
+      "description": "- Shorten your address from a bunch of long numbers to https://bray.tech/@/CoolMom69. Emoji supported 💩\n- Select a default character for your unique address to default to when you don't include a character identitifer\n- Highlight a special triumph or an impressive stat tracker for shared link images and the Legend page\n- Compare the difference between two adjacent players on Leaderboards\n- The option to update your profile's Leaderboards data and reassess all leaderboards on demand\n- Receive updates such as new blog posts by email\nJoin the discussion in Discord to steer the ship and and see what's in the pipes!"
     }
   }
 }
