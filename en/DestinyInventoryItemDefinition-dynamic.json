@@ -388,6 +388,11 @@
       "blue": 104
     }
   },
+  "486862081": {
+    "displayProperties": {
+      "presentationNodeHash": 1575985352
+    }
+  },
   "532530769": {
     "backgroundColor": {
       "red": 211,
@@ -675,9 +680,37 @@
   },
   "788073489": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 97,
+      "green": 91,
+      "blue": 167
+    }
+  },
+  "788073490": {
+    "backgroundColor": {
+      "red": 93,
+      "green": 48,
+      "blue": 65
+    }
+  },
+  "788073491": {
+    "backgroundColor": {
+      "red": 148,
+      "green": 135,
+      "blue": 147
+    }
+  },
+  "788073492": {
+    "backgroundColor": {
+      "red": 46,
+      "green": 27,
+      "blue": 17
+    }
+  },
+  "788073493": {
+    "backgroundColor": {
+      "red": 66,
+      "green": 64,
+      "blue": 78
     }
   },
   "802191381": {
