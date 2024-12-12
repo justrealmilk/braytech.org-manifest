@@ -561,7 +561,7 @@
     "hash": "legend",
     "displayProperties": {
       "name": "Legend",
-      "description": "Life and death are liar's tools. Weave your own lie. Display this summary proudly before your friends and foes."
+      "description": "Your story, your legend. A detailed chronicle of your Guardian's accomplishments and stats, ready to inspire allies and intimidate foes."
     },
     "to": "/legend"
   },
@@ -602,7 +602,7 @@
     "hash": "leaderboards",
     "displayProperties": {
       "name": "Leaderboards",
-      "description": "Player ranks for competitive Guardians"
+      "description": "Climb the ranks and see how you measure up! Compare scores across Active Triumphs, Legacy Triumphs, Seals, Gilds, and Collections—individually or with your clan."
     },
     "to": "/leaderboards"
   },
