@@ -406,8 +406,9 @@
       "progression-step-map",
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
@@ -653,6 +654,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
     "DestinyPresentationNodeDefinition.json": [
@@ -894,6 +896,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
     "DestinyPresentationNodeDefinition.json": [
@@ -1283,8 +1286,9 @@
       "activity-weapon-popular",
       "progression-step-map",
       "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
       "subscriber-benefits"
@@ -1761,6 +1765,7 @@
       "fish-caught-rank",
       "fish-weight-rank",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
     "DestinyPresentationNodeDefinition.json": [
@@ -1844,6 +1849,7 @@
       "3767289993"
     ],
     "BraytechCommonDefinition.json": [
+      "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -2439,6 +2445,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
     "DestinyActivityModeDefinition.json": [
@@ -2596,8 +2603,9 @@
       "push-notification-event-daily-lost-sector",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-xur",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
@@ -2755,8 +2763,9 @@
       "push-notification-event-daily-lost-sector",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-weekly-vendor-xur",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-crucible",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
@@ -3215,8 +3224,9 @@
       "progression-step-map",
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
       "subscriber-benefits"
@@ -3755,6 +3765,7 @@
       "fish-weight-rank",
       "push-notification-event-daily-weather-forecast",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
       "subscriber-benefits"
@@ -4149,8 +4160,9 @@
       "progression-step-map",
       "configure-push-notifications",
       "push-notification-event-daily-weather-forecast",
-      "push-notification-event-weekly-vendor-ada1-shaders",
       "push-notification-event-daily-vendor-banshee44",
+      "push-notification-event-weekly-vendor-ada1-shaders",
+      "push-notification-event-weekly-vendor-tess-bright",
       "push-notification-event-weekly-overview",
       "push-notification-event-this-week-at-bungie",
       "subscriber-benefits"
