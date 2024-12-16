@@ -432,16 +432,22 @@
       "description": "A peddler of strange curios, Xûr's motives are not his own. He bows to his distant masters, the Nine."
     }
   },
+  "push-notification-event-daily-vendor-banshee44": {
+    "displayProperties": {
+      "name": "Banshee-44 Legendaries",
+      "description": "As master weaponsmith for the Tower, Banshee supplies Guardians with only the best."
+    }
+  },
   "push-notification-event-weekly-vendor-ada1-shaders": {
     "displayProperties": {
       "name": "Ada-1 Shaders",
       "description": "How drippy you look is only limited by your choice in shaders. Keep in contact with Ada in case you're missing the goods."
     }
   },
-  "push-notification-event-daily-vendor-banshee44": {
+  "push-notification-event-weekly-vendor-tess-bright": {
     "displayProperties": {
-      "name": "Banshee-44 Legendaries",
-      "description": "As master weaponsmith for the Tower, Banshee supplies Guardians with only the best."
+      "name": "Eververse Bright Dust Sales",
+      "description": "Tess is trying to move some specific products. Got any Bright Dust?"
     }
   },
   "push-notification-event-weekly-crucible": {
