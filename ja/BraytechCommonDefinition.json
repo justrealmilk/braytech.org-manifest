@@ -432,16 +432,16 @@
       "description": "奇妙な骨董品を取引するシュールの動機は、彼自身のものではない。遠く離れた主人であるナインの意思で動いている。"
     }
   },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
-    "displayProperties": {
-      "name": "エイダ1のシェーダー",
-      "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
-    }
-  },
   "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
       "name": "バンシー-44のレジェンダリーアイテム",
       "description": "タワーの武器職人として、バンシーはガーディアンに最高のものだけを供給している。"
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "エイダ1のシェーダー",
+      "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
     }
   },
   "push-notification-event-weekly-crucible": {

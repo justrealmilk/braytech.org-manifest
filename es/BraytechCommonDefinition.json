@@ -432,16 +432,16 @@
       "description": "Vendedor ambulante de extrañas curiosidades; los motivos de Xûr no son los suyos. Obedece a sus lejanos amos, los Nueve."
     }
   },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
-    "displayProperties": {
-      "name": "Shaders de Ada-1",
-      "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
-    }
-  },
   "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
       "name": "Legendarias de Banshee-44",
       "description": "Como maestro armero de la Torre, Banshee suministra a los Guardianes sólo lo mejor."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "Shaders de Ada-1",
+      "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
     }
   },
   "push-notification-event-weekly-crucible": {

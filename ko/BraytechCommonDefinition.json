@@ -432,16 +432,16 @@
       "description": "기이한 호기심의 상인, 쥴의 동기는 그의 것이 아닙니다. 그는 아홉 명의 먼 주인에게 고개를 숙입니다."
     }
   },
-  "push-notification-event-weekly-vendor-ada1-shaders": {
-    "displayProperties": {
-      "name": "에이다-1 셰이더",
-      "description": "당신이 얼마나 멋지게 보이는지는 당신의 셰이더 선택에 달려 있습니다. 에이다와 연락을 유지하여 필요한 상품을 놓치지 마세요."
-    }
-  },
   "push-notification-event-daily-vendor-banshee44": {
     "displayProperties": {
       "name": "밴시-44 레전더리",
       "description": "타워의 주무기 장인으로서 밴시는 수호자들에게 최고의 무기만을 제공합니다."
+    }
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "displayProperties": {
+      "name": "에이다-1 셰이더",
+      "description": "당신이 얼마나 멋지게 보이는지는 당신의 셰이더 선택에 달려 있습니다. 에이다와 연락을 유지하여 필요한 상품을 놓치지 마세요."
     }
   },
   "push-notification-event-weekly-crucible": {
