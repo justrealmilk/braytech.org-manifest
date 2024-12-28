@@ -48,6 +48,13 @@
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
+  "medal-beta": {
+    "displayProperties": {
+      "name": "The First Wave",
+      "description": "_Awarded to players who participated in the Destiny 2 Beta._"
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "medal-for-you": {
     "displayProperties": {
       "name": "\"I made this for you\"",
