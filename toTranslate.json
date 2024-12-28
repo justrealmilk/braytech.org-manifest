@@ -360,6 +360,7 @@
       "4033618594"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "medal-for-you",
       "medal-icicle",
       "medal-sunglas",
@@ -654,6 +655,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
@@ -896,6 +898,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
@@ -1256,6 +1259,7 @@
       "4084570599"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "medal-icicle",
       "medal-sunglas",
       "medal-seraph",
@@ -1751,6 +1755,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "well-rested",
       "season-pass-xp-bonus",
       "seal-score",
@@ -1842,6 +1847,11 @@
       "4137754762",
       "4137754763",
       "4224291482"
+    ]
+  },
+  "ja": {
+    "BraytechCommonDefinition.json": [
+      "medal-beta"
     ]
   },
   "ko": {
@@ -2433,6 +2443,7 @@
       "107319834"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
@@ -2529,6 +2540,7 @@
       "platform-stadia",
       "platform-epic",
       "medal-developer",
+      "medal-beta",
       "medal-for-you",
       "medal-icicle",
       "medal-sunglas",
@@ -2689,6 +2701,7 @@
       "platform-stadia",
       "platform-epic",
       "medal-developer",
+      "medal-beta",
       "medal-for-you",
       "medal-icicle",
       "medal-sunglas",
@@ -3161,6 +3174,7 @@
     ],
     "BraytechCommonDefinition.json": [
       "medal-developer",
+      "medal-beta",
       "medal-for-you",
       "medal-icicle",
       "medal-sunglas",
@@ -3731,6 +3745,7 @@
       "11"
     ],
     "BraytechCommonDefinition.json": [
+      "medal-beta",
       "medal-icicle",
       "medal-sunglas",
       "medal-seraph",
@@ -4088,6 +4103,7 @@
       "platform-stadia",
       "platform-epic",
       "medal-developer",
+      "medal-beta",
       "medal-for-you",
       "medal-icicle",
       "medal-sunglas",
