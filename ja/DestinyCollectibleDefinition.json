@@ -1,4 +1,11 @@
 {
+  "0": {
+    "displayProperties": {
+      "name": "機密事項",
+      "description": "他言無用"
+    },
+    "itemTypeDisplayName": "閲覧権限無し"
+  },
   "304436264": {
     "displayProperties": {
       "supplement": "すべてのレイドの挑戦を完了すると入手可能。"
