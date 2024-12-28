@@ -444,6 +444,12 @@
       "description": "あなたが魅力的な外見になれるかは、シェーダーを使うかによります。念のため、アイテムを取り忘れないようにエイダと連絡を取り合っておきましょう。"
     }
   },
+  "push-notification-event-weekly-vendor-tess-bright": {
+    "displayProperties": {
+      "name": "エバーバースのブライトダストセール",
+      "description": "テスが特定の商品で取引したいようです。ブライトダストは持っていますか?"
+    }
+  },
   "push-notification-event-weekly-crucible": {
     "displayProperties": {
       "name": "クルーシブル",
@@ -460,6 +466,12 @@
     "displayProperties": {
       "name": "今週のBungie",
       "description": "バンジーの最新ニュースを直接お届けします。2004年以来、新鮮でホットな情報をお届けしています。 "
+    }
+  },
+  "subscriber-benefits": {
+    "displayProperties": {
+      "name": "サブスクリプション特典",
+      "description": "- ランダムな長い数字のアドレスを https://bray.tech/@/CoolMom69 のように短縮（絵文字にも対応 💩）\n- キャラクターIDを省略したとき、どのクラスをデフォルト表示するか設定\n- 共有リンク画像やレジェンドページに、特別な勝利の道のりやアピールしたい記録をハイライト表示\n- リーダーボード上で隣り合うプレイヤー同士の差を比較\n- プロフィールのリーダーボードデータを更新し、ランキング更新直前にプロフィールを再査定\n- 新ブログ記事などの更新をメールで受け取る\n- Discordのチャットに参加して、今後の動向や計画をチェックしよう！"
     }
   }
 }
