@@ -58,12 +58,30 @@
       "description": "Increases your Guardian's experience substantially.",
       "icon": "/static/images/extracts/ui/xp+.png"
     },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3348653032,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    },
     "traitIds": ["item_type.experience"]
   },
   "1711513650": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly.",
       "icon": "/static/images/extracts/ui/xp+++.png"
+    },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3582080006,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
     },
     "traitIds": ["item_type.experience"]
   },
@@ -72,12 +90,30 @@
       "description": "Increases your Guardian's experience.",
       "icon": "/static/images/extracts/ui/xp.png"
     },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 1858002338,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    },
     "traitIds": ["item_type.experience"]
   },
   "2174060729": {
     "displayProperties": {
       "description": "Increases your Guardian's experience.",
       "icon": "/static/images/extracts/ui/xp.png"
+    },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 1858002338,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
     },
     "traitIds": ["item_type.experience"]
   },
@@ -86,6 +122,15 @@
       "description": "Increases your Guardian's experience greatly.",
       "icon": "/static/images/extracts/ui/xp++.png"
     },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3582080006,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    },
     "traitIds": ["item_type.experience"]
   },
   "3348653032": {
@@ -93,12 +138,30 @@
       "description": "Increases your Guardian's experience substantially.",
       "icon": "/static/images/extracts/ui/xp+.png"
     },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3348653032,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
+    },
     "traitIds": ["item_type.experience"]
   },
   "3582080006": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly.",
       "icon": "/static/images/extracts/ui/xp++.png"
+    },
+    "value": {
+      "itemValue": [
+        {
+          "itemHash": 3582080006,
+          "quantity": 0,
+          "hasConditionalVisibility": false
+        }
+      ]
     },
     "traitIds": ["item_type.experience"]
   },
