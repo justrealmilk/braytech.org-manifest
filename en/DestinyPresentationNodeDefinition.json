@@ -201,6 +201,9 @@
       "metrics": [],
       "craftables": []
     },
+    "parentNodeHashes": [
+      2744330515
+    ],
     "redacted": false,
     "distinguish": true
   },
@@ -338,6 +341,9 @@
       "metrics": [],
       "craftables": []
     },
+    "parentNodeHashes": [
+      2381001021
+    ],
     "distinguish": true,
     "redacted": false
   },
@@ -353,7 +359,8 @@
   "1000000009": {
     "hash": 1000000009,
     "displayProperties": {
-      "name": "Animated"
+      "name": "Animated",
+      "description": "These shaders have animated elements."
     },
     "children": {
       "presentationNodes": [],
@@ -474,6 +481,9 @@
       "metrics": [],
       "craftables": []
     },
+    "parentNodeHashes": [
+      1516796296
+    ],
     "distinguish": true,
     "redacted": false
   },
