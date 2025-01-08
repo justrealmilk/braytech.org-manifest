@@ -89,7 +89,8 @@
   },
   "1000000009": {
     "displayProperties": {
-      "name": "Animated"
+      "name": "Animated",
+      "description": "These shaders have animated elements."
     },
     "distinguish": "true"
   },
