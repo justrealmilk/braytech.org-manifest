@@ -59,6 +59,12 @@
     },
     "collectibleHash": 199171389
   },
+  "207103968": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/04f7e998b13d9ed4fe78ec41f19f5ee1.jpg"
+    },
+    "collectibleHash": 2454134342
+  },
   "209320411": {
     "displayProperties": {
       "icon": "/common/destiny2_content/icons/a8969211333fa1985076437e5254aa04.jpg"
@@ -588,7 +594,7 @@
     "presentationNodeHash": 2268797508
   },
   "1465844702": {
-    "collectibleHash": 1039441856
+    "collectibleHash": 2454134342
   },
   "1506999309": {
     "collectibleHash": 2946320117
