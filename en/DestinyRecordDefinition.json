@@ -15,5 +15,17 @@
         "hasConditionalVisibility": false
       }
     ]
+  },
+  "722270911": {
+    "intervalInfo": {
+      "intervalRewards": []
+    },
+    "rewardItems": [
+      {
+        "itemHash": 185321779,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      }
+    ]
   }
 }
