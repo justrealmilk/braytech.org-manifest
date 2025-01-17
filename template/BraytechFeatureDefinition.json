@@ -483,5 +483,11 @@
       "name": "Fireteam Monitor",
       "description": "_You_ are the control centre."
     }
+  },
+  "manifest": {
+    "displayProperties": {
+      "name": "Manifest",
+      "description": "???"
+    }
   }
 }
