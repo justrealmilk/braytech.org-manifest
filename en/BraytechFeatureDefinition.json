@@ -613,5 +613,13 @@
       "description": "_You_ are the control centre."
     },
     "to": "/fireteam-monitor"
+  },
+  "manifest": {
+    "hash": "manifest",
+    "displayProperties": {
+      "name": "Manifest",
+      "description": "???"
+    },
+    "to": "/manifest"
   }
 }
