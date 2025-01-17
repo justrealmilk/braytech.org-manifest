@@ -76,7 +76,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -498,6 +499,9 @@
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
     ],
+    "BraytechFeatureDefinition.json": [
+      "manifest"
+    ],
     "BraytechRotationDefinition.json": [
       "10",
       "11"
@@ -740,6 +744,9 @@
       "medal-beta",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "manifest"
     ],
     "BraytechRotationDefinition.json": [
       "10",
@@ -1032,7 +1039,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -1417,7 +1425,8 @@
       "collections-sets",
       "triumphs-user-hidden",
       "quests-pathfinder",
-      "settings-legend"
+      "settings-legend",
+      "manifest"
     ],
     "BraytechRotationDefinition.json": [
       "10",
@@ -1852,6 +1861,9 @@
   "ja": {
     "BraytechCommonDefinition.json": [
       "medal-beta"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "manifest"
     ]
   },
   "ko": {
@@ -1892,7 +1904,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -2609,7 +2622,8 @@
       "privacy",
       "credits",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ]
   },
   "pt-BR": {
@@ -2724,7 +2738,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -2867,7 +2882,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -3366,7 +3382,8 @@
       "character-inventory",
       "quests-pathfinder",
       "settings-subscriptions",
-      "settings-legend"
+      "settings-legend",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
@@ -3984,7 +4001,8 @@
       "settings-subscriptions",
       "settings-legend",
       "leaderboards",
-      "fireteam-monitor"
+      "fireteam-monitor",
+      "manifest"
     ],
     "BraytechHelpDefinition.json": [
       "5000000007",
