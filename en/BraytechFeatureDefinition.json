@@ -618,7 +618,7 @@
     "hash": "manifest",
     "displayProperties": {
       "name": "Manifest",
-      "description": "???"
+      "description": "An archive of manifest versions and definitions."
     },
     "to": "/manifest"
   }
