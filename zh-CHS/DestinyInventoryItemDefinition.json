@@ -43,29 +43,9 @@
       "tierTypeName": "常见"
     }
   },
-  "691393048": {
-    "displayProperties": {
-      "description": "大幅提升账号赛季等级。"
-    }
-  },
-  "1711513650": {
-    "displayProperties": {
-      "description": "极大幅度提升账号赛季等级。"
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "提升账号赛季等级。"
-    }
-  },
-  "2174060729": {
-    "displayProperties": {
-      "description": "提升账号赛季等级。"
-    }
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "大幅提升账号赛季等级。"
     }
   },
   "3348653032": {
@@ -74,6 +54,26 @@
     }
   },
   "3582080006": {
+    "displayProperties": {
+      "description": "极大幅度提升账号赛季等级。"
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "提升账号赛季等级。"
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "大幅提升账号赛季等级。"
+    }
+  },
+  "1711513650": {
     "displayProperties": {
       "description": "极大幅度提升账号赛季等级。"
     }

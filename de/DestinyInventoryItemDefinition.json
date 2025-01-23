@@ -29,29 +29,9 @@
       "tierTypeName": "Gewöhnlich"
     }
   },
-  "691393048": {
-    "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Hüters beträchtlich."
-    }
-  },
-  "1711513650": {
-    "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Hüters enorm."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Hüters."
-    }
-  },
-  "2174060729": {
-    "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Hüters."
-    }
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "Erhöht die Erfahrung deines Hüters erheblich."
     }
   },
   "3348653032": {
@@ -62,6 +42,26 @@
   "3582080006": {
     "displayProperties": {
       "description": "Erhöht die Erfahrung deines Wächters erheblich."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters beträchtlich."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters erheblich."
+    }
+  },
+  "1711513650": {
+    "displayProperties": {
+      "description": "Erhöht die Erfahrung deines Hüters enorm."
     }
   },
   "1950177353": {
