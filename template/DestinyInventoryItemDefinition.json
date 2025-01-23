@@ -49,29 +49,9 @@
       "tierTypeName": "Common"
     }
   },
-  "691393048": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience substantially."
-    }
-  },
-  "1711513650": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
-    }
-  },
   "1858002338": {
     "displayProperties": {
       "description": "Increases your Guardian's experience."
-    }
-  },
-  "2174060729": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience."
-    }
-  },
-  "2250176030": {
-    "displayProperties": {
-      "description": "Increases your Guardian's experience greatly."
     }
   },
   "3348653032": {
@@ -80,6 +60,26 @@
     }
   },
   "3582080006": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "2174060729": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience."
+    }
+  },
+  "691393048": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience substantially."
+    }
+  },
+  "2250176030": {
+    "displayProperties": {
+      "description": "Increases your Guardian's experience greatly."
+    }
+  },
+  "1711513650": {
     "displayProperties": {
       "description": "Increases your Guardian's experience greatly."
     }
