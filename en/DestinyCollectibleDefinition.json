@@ -3559,5 +3559,117 @@
   "3414018077": {
     "hash": 3414018077,
     "sourceSeason": 25
+  },
+  "816539106": {
+    "hash": 816539106,
+    "sourceSeason": 26
+  },
+  "816539109": {
+    "hash": 816539109,
+    "sourceSeason": 26
+  },
+  "1069597431": {
+    "hash": 1069597431,
+    "sourceSeason": 26
+  },
+  "3752876518": {
+    "hash": 3752876518,
+    "sourceSeason": 26
+  },
+  "4156993982": {
+    "hash": 4156993982,
+    "sourceSeason": 26
+  },
+  "174044604": {
+    "hash": 174044604,
+    "sourceSeason": 26
+  },
+  "174044605": {
+    "hash": 174044605,
+    "sourceSeason": 26
+  },
+  "174044597": {
+    "hash": 174044597,
+    "sourceSeason": 26
+  },
+  "2040505658": {
+    "hash": 2040505658,
+    "sourceSeason": 26,
+    "sourceHash": 1000000012
+  },
+  "2056946091": {
+    "hash": 2056946091,
+    "sourceSeason": 26,
+    "sourceHash": 1000000008
+  },
+  "802420310": {
+    "hash": 802420310,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "802420305": {
+    "hash": 802420305,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "449846857": {
+    "hash": 449846857,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "2006950359": {
+    "hash": 2006950359,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "2006950358": {
+    "hash": 2006950358,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "2006950356": {
+    "hash": 2006950356,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "2006950357": {
+    "hash": 2006950357,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "1759034748": {
+    "hash": 1759034748,
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
+  },
+  "2006950352": {
+    "hash": 2006950352,
+    "sourceSeason": 26,
+    "sourceHash": 1000000005
+  },
+  "2040505662": {
+    "hash": 2040505662,
+    "sourceSeason": 26,
+    "sourceHash": 1000000008
+  },
+  "2023727936": {
+    "hash": 2023727936,
+    "sourceSeason": 26,
+    "sourceHash": 1000000008
+  },
+  "2040505660": {
+    "hash": 2040505660,
+    "sourceSeason": 26,
+    "sourceHash": 1000000008
+  },
+  "2023727950": {
+    "hash": 2023727950,
+    "sourceSeason": 26,
+    "sourceHash": 1000000005
+  },
+  "2023727937": {
+    "hash": 2023727937,
+    "sourceSeason": 26,
+    "sourceHash": 1000000004
   }
 }
