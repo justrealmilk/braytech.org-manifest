@@ -352,6 +352,7 @@
       2381001021
     ],
     "distinguish": true,
+    "showInvisible" : true,
     "redacted": false
   },
   "1516796296": {
@@ -501,6 +502,54 @@
       1516796296
     ],
     "distinguish": true,
+    "redacted": false
+  },
+  "1000000010": {
+    "hash": 1000000010,
+    "displayProperties": {
+      "name": "The Developer's Stash",
+      "description": "Earn these codes by [REDACTED] and be granted them by The Developer."
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+          "collectibleHash": 3332781239
+        },
+        {
+          "collectibleHash": 1822059427
+        },
+        {
+          "collectibleHash": 2023390790
+        },
+        {
+          "collectibleHash": 1704174842
+        },
+        {
+          "collectibleHash": 1704174845
+        },
+        {
+          "collectibleHash": 1805281846
+        },
+        {
+          "collectibleHash": 2040168507
+        },
+        {
+          "collectibleHash": 3801407498
+        },
+        {
+          "collectibleHash": 1990172772
+        }
+      ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [
+      2381001021
+    ],
+    "distinguish": true,
+    "showInvisible" : true,
     "redacted": false
   },
   "2485764221": {
