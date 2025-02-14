@@ -94,6 +94,13 @@
     },
     "distinguish": "true"
   },
+  "1000000010": {
+    "displayProperties": {
+      "name": "The Developer's Stash",
+      "description": "Earn these codes by [REDACTED] and be granted them by The Developer."
+    },
+    "distinguish": "true"
+  },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"
   },
