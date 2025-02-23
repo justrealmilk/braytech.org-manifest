@@ -489,5 +489,11 @@
       "name": "Manifest",
       "description": "An archive of manifest versions and definitions."
     }
+  },
+  "dresstiny": {
+    "displayProperties": {
+      "name": "Dresstiny",
+      "description": "Is your drip skibidi or Ohio?"
+    }
   }
 }
