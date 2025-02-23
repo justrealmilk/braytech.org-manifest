@@ -621,5 +621,13 @@
       "description": "An archive of manifest versions and definitions."
     },
     "to": "/manifest"
+  },
+  "dresstiny": {
+    "hash": "dresstiny",
+    "displayProperties": {
+      "name": "Dresstiny",
+      "description": "Is your drip skibidi or Ohio?"
+    },
+    "to": "/dresstiny"
   }
 }
