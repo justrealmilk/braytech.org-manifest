@@ -486,5 +486,11 @@
       "name": "Equip",
       "description": "Attempt to equip this loadout to the character of the same class.\n\nItems which are darkened represent those which a matching item can not be found for."
     }
+  },
+  "dresstiny-edit": {
+    "displayProperties": {
+      "name": "Edit",
+      "description": "Edit your fit's name, descrption, or URL.\n\nSubmitting changes will mark your fit as unapproved."
+    }
   }
 }
