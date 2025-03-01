@@ -404,13 +404,12 @@
   "settings": {
     "displayProperties": {
       "name": "Settings",
-      "description": "Account, theme, local data, item visibility, language, developer, troubleshooting"
+      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
     }
   },
   "settings-common": {
     "displayProperties": {
-      "name": "Common",
-      "description": "Destiny profile, settings synchronisation, language, item visibility, theme, and more—these settings affect how you enjoy Braytech."
+      "name": "Common"
     }
   },
   "settings-advanced": {
