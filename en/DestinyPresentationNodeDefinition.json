@@ -29,6 +29,16 @@
       "icon": "/static/images/extracts/ui/overrides/power.png"
     }
   },
+  "2196753074": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/overrides/dungeon.png"
+    }
+  },
+  "4111930674": {
+    "displayProperties": {
+      "icon": "/static/images/extracts/ui/overrides/lost-sector.png"
+    }
+  },
   "2086100423": {
     "displayProperties": {
       "name": "Flawless (Season 10)"
