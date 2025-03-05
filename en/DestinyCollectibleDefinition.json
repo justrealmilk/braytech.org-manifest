@@ -3498,7 +3498,12 @@
   },
   "4224291482": {
     "hash": 4224291482,
-    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
+    "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim.",
+    "sourceSeason": 23
+  },
+  "816539110": {
+    "hash": 816539110,
+    "sourceSeason": 23
   },
   "4224291483": {
     "hash": 4224291483,
@@ -3691,13 +3696,5 @@
     "hash": 2040505657,
     "sourceSeason": 26,
     "sourceHash": 1000000012
-  },
-  "4224291482": {
-    "hash": 4224291482,
-    "sourceSeason": 23
-  },
-  "816539110": {
-    "hash": 816539110,
-    "sourceSeason": 23
   }
 }
