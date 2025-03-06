@@ -226,6 +226,9 @@
       "presentationNodes": [
         {
           "presentationNodeHash": 1000000008
+        },
+        {
+          "presentationNodeHash": 1000000010
         }
       ]
     }
@@ -543,9 +546,6 @@
         },
         {
           "collectibleHash": 1822059427
-        },
-        {
-          "collectibleHash": 2023390790
         },
         {
           "collectibleHash": 1704174842
