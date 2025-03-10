@@ -573,6 +573,72 @@
     "distinguish": true,
     "showInvisible" : true,
     "redacted": false
+  },  
+  "1205461800": {
+    "displayProperties": {
+      "name": "Ornaments"
+    },
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000011
+        },
+        {
+          "presentationNodeHash": 1000000012
+        },
+        {
+          "presentationNodeHash": 1000000013
+        }
+      ]
+    }
+  },
+  "1000000011": {
+    "hash": 1000000011,
+    "displayProperties": {
+      "name": "Titan Armor",
+      "description": ""
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "distinguish": true,
+    "redacted": false
+  },
+  "1000000012": {
+    "hash": 1000000012,
+    "displayProperties": {
+      "name": "Hunter Armor",
+      "description": ""
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "distinguish": true,
+    "redacted": false
+  },
+  "1000000013": {
+    "hash": 1000000013,
+    "displayProperties": {
+      "name": "Warlock Armor",
+      "description": ""
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "distinguish": true,
+    "redacted": false
   },
   "2485764221": {
     "displayProperties": {
