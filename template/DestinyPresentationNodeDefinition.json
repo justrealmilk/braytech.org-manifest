@@ -101,6 +101,29 @@
     },
     "distinguish": "true"
   },
+  "1205461800": {
+    "displayProperties": {
+      "name": "Ornaments"
+    }
+  },
+  "1000000011": {
+    "displayProperties": {
+      "name": "Titan Armor"
+    },
+    "distinguish": "true"
+  },
+  "1000000012": {
+    "displayProperties": {
+      "name": "Hunter Armor"
+    },
+    "distinguish": "true"
+  },
+  "1000000013": {
+    "displayProperties": {
+      "name": "Warlock Armor"
+    },
+    "distinguish": "true"
+  },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"
   },
