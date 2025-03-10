@@ -49,6 +49,9 @@
       "blue": 36
     }
   },
+  "31326870": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/31326870.jpg"
+  },
   "31953744": {
     "backgroundColor": {
       "red": 58,
@@ -145,6 +148,9 @@
   "46524085": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/46524085.jpg"
   },
+  "49421814": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/49421814.jpg"
+  },
   "50291571": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/50291571.jpg"
   },
@@ -222,6 +228,9 @@
   "73064000": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/73064000.jpg"
   },
+  "74694216": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/74694216.jpg"
+  },
   "81946149": {
     "displayProperties": {
       "presentationNodeHash": 1428811610
@@ -269,6 +278,9 @@
   "114225848": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/114225848.jpg"
   },
+  "115580637": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/115580637.jpg"
+  },
   "116193775": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/116193775.jpg"
   },
@@ -293,6 +305,12 @@
       "green": 64,
       "blue": 112
     }
+  },
+  "159907007": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/159907007.jpg"
+  },
+  "164776724": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/164776724.jpg"
   },
   "165021790": {
     "screenshot": "/static/images/screenshots/items/shaders/165021790.jpg"
@@ -708,6 +726,9 @@
   "439240927": {
     "screenshot": "/static/images/screenshots/items/shaders/439240927.jpg"
   },
+  "447258238": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/447258238.jpg"
+  },
   "449318888": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/449318888.jpg"
   },
@@ -728,6 +749,9 @@
   },
   "468010077": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/468010077.jpg"
+  },
+  "475012491": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/475012491.jpg"
   },
   "475652357": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/475652357.jpg"
@@ -827,6 +851,9 @@
       "green": 24,
       "blue": 31
     }
+  },
+  "533407799": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/533407799.jpg"
   },
   "534742271": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/534742271.jpg"
@@ -971,6 +998,9 @@
   "683481680": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/683481680.jpg"
   },
+  "683894655": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/683894655.jpg"
+  },
   "690228054": {
     "screenshot": "/static/images/screenshots/items/shaders/690228054.jpg"
   },
@@ -1004,6 +1034,9 @@
       "green": 35,
       "blue": 35
     }
+  },
+  "740142754": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/740142754.jpg"
   },
   "745759692": {
     "backgroundColor": {
@@ -1294,6 +1327,9 @@
       "blue": 46
     }
   },
+  "848193348": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/848193348.jpg"
+  },
   "855333069": {
     "backgroundColor": {
       "red": 170,
@@ -1475,6 +1511,9 @@
   "912276057": {
     "screenshot": "/static/images/screenshots/items/shaders/912276057.jpg"
   },
+  "913296044": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/913296044.jpg"
+  },
   "914313861": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/914313861.jpg"
   },
@@ -1496,6 +1535,12 @@
   "915277997": {
     "screenshot": "/static/images/screenshots/items/shaders/915277997.jpg"
   },
+  "915385568": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/915385568.jpg"
+  },
+  "933468683": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/933468683.jpg"
+  },
   "940371471": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/940371471.jpg"
   },
@@ -1508,6 +1553,9 @@
       "green": 106,
       "blue": 88
     }
+  },
+  "961465568": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/961465568.jpg"
   },
   "965288072": {
     "screenshot": "/static/images/screenshots/items/shaders/965288072.jpg"
@@ -1589,6 +1637,9 @@
   },
   "1005594231": {
     "screenshot": "/static/images/screenshots/items/shaders/1005594231.jpg"
+  },
+  "1011994721": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1011994721.jpg"
   },
   "1014060907": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1014060907.jpg"
@@ -1689,6 +1740,9 @@
   },
   "1061828070": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1061828070.jpg"
+  },
+  "1064781608": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1064781608.jpg"
   },
   "1069214754": {
     "backgroundColor": {
@@ -1918,6 +1972,9 @@
   "1141818699": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1141818699.jpg"
   },
+  "1154500559": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1154500559.jpg"
+  },
   "1160559849": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1160559849.jpg"
   },
@@ -1950,6 +2007,12 @@
       "green": 13,
       "blue": 12
     }
+  },
+  "1178901683": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1178901683.jpg"
+  },
+  "1180014202": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1180014202.jpg"
   },
   "1180846762": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1180846762.jpg"
@@ -2089,6 +2152,9 @@
   },
   "1234150730": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1234150730.jpg"
+  },
+  "1244411540": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1244411540.jpg"
   },
   "1259278657": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1259278657.jpg"
@@ -2349,6 +2415,9 @@
   "1385647483": {
     "screenshot": "/static/images/screenshots/items/shaders/1385647483.jpg"
   },
+  "1391284237": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1391284237.jpg"
+  },
   "1391923617": {
     "backgroundColor": {
       "red": 135,
@@ -2370,6 +2439,9 @@
   },
   "1396812221": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1396812221.jpg"
+  },
+  "1397707366": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1397707366.jpg"
   },
   "1400453406": {
     "screenshot": "/static/images/screenshots/items/shaders/1400453406.jpg"
@@ -2642,6 +2714,9 @@
       "blue": 55
     }
   },
+  "1505928251": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1505928251.jpg"
+  },
   "1508896098": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1508896098.jpg"
   },
@@ -2712,6 +2787,9 @@
       "green": 23,
       "blue": 24
     }
+  },
+  "1590290995": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1590290995.jpg"
   },
   "1591207518": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1591207518.jpg"
@@ -2932,11 +3010,17 @@
   "1702288800": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1702288800.jpg"
   },
+  "1702676167": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1702676167.jpg"
+  },
   "1703551922": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1703551922.jpg"
   },
   "1703598057": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1703598057.jpg"
+  },
+  "1705887390": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1705887390.jpg"
   },
   "1714370696": {
     "backgroundColor": {
@@ -4019,6 +4103,9 @@
   "1960441750": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1960441750.jpg"
   },
+  "1967983910": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1967983910.jpg"
+  },
   "1968995954": {
     "backgroundColor": {
       "red": 10,
@@ -4092,6 +4179,9 @@
   "1970437989": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1970437989.jpg"
   },
+  "1974045428": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1974045428.jpg"
+  },
   "1983149589": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1983149589.jpg"
   },
@@ -4164,6 +4254,9 @@
       "green": 47,
       "blue": 11
     }
+  },
+  "1984736607": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1984736607.jpg"
   },
   "1985773540": {
     "backgroundColor": {
@@ -4244,6 +4337,9 @@
       "green": 51,
       "blue": 48
     }
+  },
+  "1991731877": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/1991731877.jpg"
   },
   "1996008488": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1996008488.jpg"
@@ -4364,6 +4460,9 @@
   },
   "2039338164": {
     "screenshot": "/static/images/screenshots/items/shaders/2039338164.jpg"
+  },
+  "2042795071": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2042795071.jpg"
   },
   "2044500762": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2044500762.jpg"
@@ -4493,6 +4592,9 @@
       "presentationNodeHash": 28665996
     }
   },
+  "2099043843": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2099043843.jpg"
+  },
   "2102881346": {
     "screenshot": "/static/images/screenshots/items/shaders/2102881346.jpg"
   },
@@ -4604,6 +4706,9 @@
       "blue": 8
     }
   },
+  "2140296014": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2140296014.jpg"
+  },
   "2153742334": {
     "displayProperties": {
       "presentationNodeHash": 916735071
@@ -4622,6 +4727,9 @@
   },
   "2171727443": {
     "screenshot": "/static/images/screenshots/items/shaders/2171727443.jpg"
+  },
+  "2173197096": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2173197096.jpg"
   },
   "2173404085": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2173404085.jpg"
@@ -4853,11 +4961,17 @@
   "2296172971": {
     "screenshot": "/static/images/screenshots/items/shaders/2296172971.jpg"
   },
+  "2296382436": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2296382436.jpg"
+  },
   "2307426896": {
     "screenshot": "/static/images/screenshots/items/shaders/2307426896.jpg"
   },
   "2307426898": {
     "screenshot": "/static/images/screenshots/items/shaders/2307426898.jpg"
+  },
+  "2316352266": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2316352266.jpg"
   },
   "2316914168": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2316914168.jpg"
@@ -4931,6 +5045,9 @@
   },
   "2362471601": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2362471601.jpg"
+  },
+  "2365935989": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2365935989.jpg"
   },
   "2374129871": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2374129871.jpg"
@@ -5012,6 +5129,9 @@
   "2404516638": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2404516638.jpg"
   },
+  "2406427719": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2406427719.jpg"
+  },
   "2409312095": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2409312095.jpg"
   },
@@ -5026,6 +5146,9 @@
   },
   "2412488653": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2412488653.jpg"
+  },
+  "2413288976": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2413288976.jpg"
   },
   "2414564781": {
     "backgroundColor": {
@@ -5091,6 +5214,9 @@
   },
   "2452241573": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2452241573.jpg"
+  },
+  "2456870946": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2456870946.jpg"
   },
   "2460229323": {
     "displayProperties": {
@@ -5356,6 +5482,9 @@
       "blue": 13
     }
   },
+  "2549526496": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2549526496.jpg"
+  },
   "2557722678": {
     "screenshot": "/static/images/screenshots/items/shaders/2557722678.jpg"
   },
@@ -5364,6 +5493,12 @@
   },
   "2578771006": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2578771006.jpg"
+  },
+  "2579031865": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2579031865.jpg"
+  },
+  "2580207276": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2580207276.jpg"
   },
   "2583504679": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2583504679.jpg"
@@ -5475,6 +5610,9 @@
   "2657932159": {
     "screenshot": "/static/images/screenshots/items/shaders/2657932159.jpg"
   },
+  "2662368496": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2662368496.jpg"
+  },
   "2664485240": {
     "backgroundColor": {
       "red": 124,
@@ -5505,6 +5643,9 @@
   },
   "2673403667": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2673403667.jpg"
+  },
+  "2686985268": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2686985268.jpg"
   },
   "2694576561": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2694576561.jpg"
@@ -5542,6 +5683,9 @@
   },
   "2728125437": {
     "screenshot": "/static/images/screenshots/items/shaders/2728125437.jpg"
+  },
+  "2729756765": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2729756765.jpg"
   },
   "2732866526": {
     "displayProperties": {
@@ -5669,6 +5813,9 @@
   },
   "2776737695": {
     "screenshot": "/static/images/screenshots/items/shaders/2776737695.jpg"
+  },
+  "2779460227": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2779460227.jpg"
   },
   "2780717641": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2780717641.jpg"
@@ -6383,6 +6530,9 @@
   "2985926431": {
     "screenshot": "/static/images/screenshots/items/shaders/2985926431.jpg"
   },
+  "2986573526": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/2986573526.jpg"
+  },
   "2990167832": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2990167832.jpg"
   },
@@ -6394,6 +6544,9 @@
   },
   "3001449507": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3001449507.jpg"
+  },
+  "3002642194": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3002642194.jpg"
   },
   "3004379087": {
     "screenshot": "/static/images/screenshots/items/shaders/3004379087.jpg"
@@ -6506,6 +6659,9 @@
   "3042066431": {
     "screenshot": "/static/images/screenshots/items/shaders/3042066431.jpg"
   },
+  "3043294716": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3043294716.jpg"
+  },
   "3044160466": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3044160466.jpg"
   },
@@ -6514,6 +6670,9 @@
   },
   "3046205073": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3046205073.jpg"
+  },
+  "3054468233": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3054468233.jpg"
   },
   "3063212160": {
     "backgroundColor": {
@@ -6644,6 +6803,9 @@
   "3097902847": {
     "screenshot": "/static/images/screenshots/items/shaders/3097902847.jpg"
   },
+  "3105540650": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3105540650.jpg"
+  },
   "3109957218": {
     "screenshot": "/static/images/screenshots/items/shaders/3109957218.jpg"
   },
@@ -6733,11 +6895,17 @@
   "3184365082": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3184365082.jpg"
   },
+  "3192251706": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3192251706.jpg"
+  },
   "3195867806": {
     "screenshot": "/static/images/screenshots/items/shaders/3195867806.jpg"
   },
   "3195867807": {
     "screenshot": "/static/images/screenshots/items/shaders/3195867807.jpg"
+  },
+  "3200402431": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3200402431.jpg"
   },
   "3205431489": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3205431489.jpg"
@@ -6879,6 +7047,9 @@
   "3236196107": {
     "screenshot": "/static/images/screenshots/items/shaders/3236196107.jpg"
   },
+  "3242034340": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3242034340.jpg"
+  },
   "3255310006": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3255310006.jpg"
   },
@@ -6997,6 +7168,9 @@
       "blue": 96
     }
   },
+  "3355604850": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3355604850.jpg"
+  },
   "3356471746": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3356471746.jpg"
   },
@@ -7052,11 +7226,17 @@
   "3381022971": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3381022971.jpg"
   },
+  "3382176091": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3382176091.jpg"
+  },
   "3387248782": {
     "screenshot": "/static/images/screenshots/items/shaders/3387248782.jpg"
   },
   "3387248783": {
     "screenshot": "/static/images/screenshots/items/shaders/3387248783.jpg"
+  },
+  "3391785621": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3391785621.jpg"
   },
   "3401308133": {
     "backgroundColor": {
@@ -7527,8 +7707,14 @@
       "blue": 155
     }
   },
+  "3624790844": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3624790844.jpg"
+  },
   "3627185503": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3627185503.jpg"
+  },
+  "3628276006": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3628276006.jpg"
   },
   "3628862572": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3628862572.jpg"
@@ -7632,6 +7818,9 @@
   },
   "3650581589": {
     "screenshot": "/static/images/screenshots/items/shaders/3650581589.jpg"
+  },
+  "3654531549": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3654531549.jpg"
   },
   "3656515092": {
     "screenshot": "/static/images/screenshots/items/shaders/3656515092.jpg"
@@ -7775,6 +7964,9 @@
       "blue": 228
     }
   },
+  "3736112681": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3736112681.jpg"
+  },
   "3752071760": {
     "backgroundColor": {
       "red": 57,
@@ -7880,6 +8072,9 @@
       "blue": 160
     }
   },
+  "3778646768": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3778646768.jpg"
+  },
   "3779623011": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3779623011.jpg"
   },
@@ -7906,6 +8101,9 @@
       "green": 47,
       "blue": 78
     }
+  },
+  "3786758103": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3786758103.jpg"
   },
   "3787517196": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3787517196.jpg"
@@ -8279,6 +8477,9 @@
   },
   "3906243543": {
     "screenshot": "/static/images/screenshots/items/shaders/3906243543.jpg"
+  },
+  "3916835562": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3916835562.jpg"
   },
   "3919847952": {
     "backgroundColor": {
@@ -8674,6 +8875,9 @@
       "green": 147,
       "blue": 138
     }
+  },
+  "3972613793": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/3972613793.jpg"
   },
   "3973202132": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3973202132.jpg"
@@ -9385,6 +9589,9 @@
   "4133608609": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4133608609.jpg"
   },
+  "4135276161": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/4135276161.jpg"
+  },
   "4136768282": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/4136768282.jpg"
   },
@@ -9781,6 +9988,9 @@
   },
   "4207066264": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/4207066264.jpg"
+  },
+  "4215514285": {
+    "screenshot": "/static/images/screenshots/items/exotics/ornaments/4215514285.jpg"
   },
   "4224972854": {
     "screenshot": "/static/images/screenshots/items/shaders/4224972854.jpg"
