@@ -79,6 +79,9 @@
       "blue": 103
     }
   },
+  "33339334": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/33339334.jpg"
+  },
   "40549752": {
     "backgroundColor": {
       "red": 44,
@@ -353,12 +356,45 @@
   "140806329": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/140806329.jpg"
   },
+  "144819296": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/144819296.jpg"
+  },
+  "144819298": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/144819298.jpg"
+  },
+  "144819299": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/144819299.jpg"
+  },
+  "144819300": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/144819300.jpg"
+  },
+  "144819301": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/144819301.jpg"
+  },
   "148664963": {
     "backgroundColor": {
       "red": 39,
       "green": 64,
       "blue": 112
     }
+  },
+  "151208504": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208504.jpg"
+  },
+  "151208505": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208505.jpg"
+  },
+  "151208506": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208506.jpg"
+  },
+  "151208507": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208507.jpg"
+  },
+  "151208508": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208508.jpg"
+  },
+  "151208509": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/151208509.jpg"
   },
   "159093681": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/159093681.jpg"
@@ -496,6 +532,15 @@
   "235591051": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/235591051.jpg"
   },
+  "238898901": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/238898901.jpg"
+  },
+  "238898902": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/238898902.jpg"
+  },
+  "238898903": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/238898903.jpg"
+  },
   "241462141": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/241462141.jpg"
   },
@@ -510,6 +555,24 @@
   },
   "249893830": {
     "screenshot": "/static/images/screenshots/items/shaders/249893830.jpg"
+  },
+  "256118668": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/256118668.jpg"
+  },
+  "258623688": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/258623688.jpg"
+  },
+  "258623689": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/258623689.jpg"
+  },
+  "258623691": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/258623691.jpg"
+  },
+  "258623693": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/258623693.jpg"
+  },
+  "258623694": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/258623694.jpg"
   },
   "261110022": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/261110022.jpg"
@@ -579,6 +642,12 @@
   },
   "277887718": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/277887718.jpg"
+  },
+  "281718534": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/281718534.jpg"
+  },
+  "281718535": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/281718535.jpg"
   },
   "286098604": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/286098604.jpg"
@@ -740,6 +809,9 @@
   "317465075": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/317465075.jpg"
   },
+  "318471196": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/318471196.jpg"
+  },
   "322173891": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/322173891.jpg"
   },
@@ -874,11 +946,29 @@
   "396425346": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/396425346.jpg"
   },
+  "397043529": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/397043529.jpg"
+  },
   "403878807": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/403878807.jpg"
   },
+  "406589944": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/406589944.jpg"
+  },
+  "406589945": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/406589945.jpg"
+  },
+  "406589947": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/406589947.jpg"
+  },
+  "406589950": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/406589950.jpg"
+  },
   "408388875": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/408388875.jpg"
+  },
+  "409337865": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/409337865.jpg"
   },
   "414672658": {
     "backgroundColor": {
@@ -895,6 +985,27 @@
   },
   "418753773": {
     "screenshot": "/static/images/screenshots/items/shaders/418753773.jpg"
+  },
+  "422524816": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524816.jpg"
+  },
+  "422524818": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524818.jpg"
+  },
+  "422524819": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524819.jpg"
+  },
+  "422524820": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524820.jpg"
+  },
+  "422524821": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524821.jpg"
+  },
+  "422524822": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524822.jpg"
+  },
+  "422524823": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/422524823.jpg"
   },
   "425276569": {
     "screenshot": "/static/images/screenshots/items/shaders/425276569.jpg"
@@ -1062,6 +1173,15 @@
   "522693977": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/522693977.jpg"
   },
+  "523189761": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/523189761.jpg"
+  },
+  "523189762": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/523189762.jpg"
+  },
+  "523189763": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/523189763.jpg"
+  },
   "525967465": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/525967465.jpg"
   },
@@ -1079,6 +1199,9 @@
   },
   "528474811": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/528474811.jpg"
+  },
+  "528682407": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/528682407.jpg"
   },
   "530012772": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/530012772.jpg"
@@ -1240,6 +1363,9 @@
   },
   "573576346": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/573576346.jpg"
+  },
+  "576914489": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/576914489.jpg"
   },
   "577493531": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/577493531.jpg"
@@ -1421,6 +1547,9 @@
   "700322570": {
     "screenshot": "/static/images/screenshots/items/shaders/700322570.jpg"
   },
+  "709001493": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/709001493.jpg"
+  },
   "709057677": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/709057677.jpg"
   },
@@ -1536,6 +1665,9 @@
       "blue": 163
     }
   },
+  "774879414": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/774879414.jpg"
+  },
   "776125535": {
     "screenshot": "/static/images/screenshots/items/shaders/776125535.jpg"
   },
@@ -1590,6 +1722,15 @@
       "green": 75,
       "blue": 31
     }
+  },
+  "777818274": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/777818274.jpg"
+  },
+  "777818276": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/777818276.jpg"
+  },
+  "777818278": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/777818278.jpg"
   },
   "779216201": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/779216201.jpg"
@@ -1732,6 +1873,15 @@
   },
   "806017499": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/806017499.jpg"
+  },
+  "807458181": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/807458181.jpg"
+  },
+  "807458182": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/807458182.jpg"
+  },
+  "807458183": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/807458183.jpg"
   },
   "812824526": {
     "backgroundColor": {
@@ -1930,6 +2080,24 @@
   "903984858": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/903984858.jpg"
   },
+  "904825088": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825088.jpg"
+  },
+  "904825089": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825089.jpg"
+  },
+  "904825092": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825092.jpg"
+  },
+  "904825093": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825093.jpg"
+  },
+  "904825094": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825094.jpg"
+  },
+  "904825095": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/904825095.jpg"
+  },
   "907775118": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/907775118.jpg"
   },
@@ -2033,6 +2201,18 @@
   "915385568": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/915385568.jpg"
   },
+  "928095168": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/928095168.jpg"
+  },
+  "928095169": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/928095169.jpg"
+  },
+  "928095170": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/928095170.jpg"
+  },
+  "928095171": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/928095171.jpg"
+  },
   "933468683": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/933468683.jpg"
   },
@@ -2044,6 +2224,15 @@
   },
   "949483981": {
     "screenshot": "/static/images/screenshots/items/shaders/949483981.jpg"
+  },
+  "952431285": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/952431285.jpg"
+  },
+  "952431286": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/952431286.jpg"
+  },
+  "952431287": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/952431287.jpg"
   },
   "953357968": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/953357968.jpg"
@@ -2094,6 +2283,9 @@
   "965288079": {
     "screenshot": "/static/images/screenshots/items/shaders/965288079.jpg"
   },
+  "967777908": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/967777908.jpg"
+  },
   "969863968": {
     "backgroundColor": {
       "red": 177,
@@ -2139,6 +2331,9 @@
   },
   "983194593": {
     "screenshot": "/static/images/screenshots/items/shaders/983194593.jpg"
+  },
+  "983635618": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/983635618.jpg"
   },
   "987236624": {
     "screenshot": "/static/images/screenshots/items/shaders/987236624.jpg"
@@ -2201,6 +2396,9 @@
   },
   "1011994721": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1011994721.jpg"
+  },
+  "1013544390": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1013544390.jpg"
   },
   "1013853352": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1013853352.jpg"
@@ -2350,6 +2548,9 @@
   "1064781608": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1064781608.jpg"
   },
+  "1068790731": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1068790731.jpg"
+  },
   "1069214754": {
     "backgroundColor": {
       "red": 39,
@@ -2469,8 +2670,14 @@
   "1106697451": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1106697451.jpg"
   },
+  "1107624473": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1107624473.jpg"
+  },
   "1111334348": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1111334348.jpg"
+  },
+  "1112018949": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1112018949.jpg"
   },
   "1119316141": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1119316141.jpg"
@@ -2639,6 +2846,9 @@
   "1173052383": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1173052383.jpg"
   },
+  "1173626681": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1173626681.jpg"
+  },
   "1173929374": {
     "backgroundColor": {
       "red": 194,
@@ -2698,6 +2908,9 @@
   "1192890598": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1192890598.jpg"
   },
+  "1194864990": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1194864990.jpg"
+  },
   "1201830623": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1201830623.jpg"
   },
@@ -2720,6 +2933,9 @@
       "blue": 50
     }
   },
+  "1211346271": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1211346271.jpg"
+  },
   "1214401677": {
     "screenshot": "/static/images/screenshots/items/shaders/1214401677.jpg"
   },
@@ -2731,6 +2947,12 @@
   },
   "1219761634": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1219761634.jpg"
+  },
+  "1220495181": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1220495181.jpg"
+  },
+  "1220495183": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1220495183.jpg"
   },
   "1226584228": {
     "screenshot": "/static/images/screenshots/items/shaders/1226584228.jpg"
@@ -2824,6 +3046,21 @@
   },
   "1263710510": {
     "screenshot": "/static/images/screenshots/items/shaders/1263710510.jpg"
+  },
+  "1264663100": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1264663100.jpg"
+  },
+  "1264663101": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1264663101.jpg"
+  },
+  "1264663103": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1264663103.jpg"
+  },
+  "1266122672": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1266122672.jpg"
+  },
+  "1266122673": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1266122673.jpg"
   },
   "1271045312": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1271045312.jpg"
@@ -2979,6 +3216,12 @@
       "blue": 18
     }
   },
+  "1317468652": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1317468652.jpg"
+  },
+  "1317468653": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1317468653.jpg"
+  },
   "1320113564": {
     "backgroundColor": {
       "red": 69,
@@ -3038,6 +3281,9 @@
   },
   "1326838584": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1326838584.jpg"
+  },
+  "1328791939": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1328791939.jpg"
   },
   "1331482397": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1331482397.jpg"
@@ -3287,6 +3533,18 @@
   "1422712819": {
     "screenshot": "/static/images/screenshots/items/shaders/1422712819.jpg"
   },
+  "1423305584": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1423305584.jpg"
+  },
+  "1423305587": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1423305587.jpg"
+  },
+  "1423305590": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1423305590.jpg"
+  },
+  "1423305599": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1423305599.jpg"
+  },
   "1428181930": {
     "displayProperties": {
       "presentationNodeHash": 1777644015
@@ -3325,6 +3583,9 @@
   },
   "1453926847": {
     "screenshot": "/static/images/screenshots/items/shaders/1453926847.jpg"
+  },
+  "1455706250": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1455706250.jpg"
   },
   "1456844008": {
     "backgroundColor": {
@@ -3544,8 +3805,29 @@
   "1514974385": {
     "screenshot": "/static/images/screenshots/items/shaders/1514974385.jpg"
   },
+  "1515866705": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1515866705.jpg"
+  },
   "1522454198": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1522454198.jpg"
+  },
+  "1522633032": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633032.jpg"
+  },
+  "1522633033": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633033.jpg"
+  },
+  "1522633034": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633034.jpg"
+  },
+  "1522633035": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633035.jpg"
+  },
+  "1522633036": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633036.jpg"
+  },
+  "1522633037": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1522633037.jpg"
   },
   "1530147650": {
     "backgroundColor": {
@@ -3709,6 +3991,9 @@
   "1613428620": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1613428620.jpg"
   },
+  "1615970029": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1615970029.jpg"
+  },
   "1618048081": {
     "displayProperties": {
       "presentationNodeHash": 1907007852
@@ -3737,6 +4022,12 @@
   },
   "1622227947": {
     "screenshot": "/static/images/screenshots/items/shaders/1622227947.jpg"
+  },
+  "1623653769": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1623653769.jpg"
+  },
+  "1623653770": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1623653770.jpg"
   },
   "1624882687": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1624882687.jpg"
@@ -3772,6 +4063,9 @@
   },
   "1642781471": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1642781471.jpg"
+  },
+  "1644134619": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1644134619.jpg"
   },
   "1644978187": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1644978187.jpg"
@@ -3878,6 +4172,9 @@
       "green": 38,
       "blue": 31
     }
+  },
+  "1661778308": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1661778308.jpg"
   },
   "1665952087": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1665952087.jpg"
@@ -4178,6 +4475,9 @@
   "1763584999": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1763584999.jpg"
   },
+  "1764758326": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1764758326.jpg"
+  },
   "1767664464": {
     "backgroundColor": {
       "red": 20,
@@ -4382,6 +4682,9 @@
   "1810171919": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/1810171919.jpg"
   },
+  "1813883445": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1813883445.jpg"
+  },
   "1814407142": {
     "backgroundColor": {
       "red": 34,
@@ -4401,6 +4704,21 @@
   "1821705879": {
     "screenshot": "/static/images/screenshots/items/shaders/1821705879.jpg"
   },
+  "1822839832": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1822839832.jpg"
+  },
+  "1822839833": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1822839833.jpg"
+  },
+  "1822839834": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1822839834.jpg"
+  },
+  "1822839835": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1822839835.jpg"
+  },
+  "1822839838": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1822839838.jpg"
+  },
   "1833195496": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1833195496.jpg"
   },
@@ -4409,6 +4727,9 @@
   },
   "1833569877": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1833569877.jpg"
+  },
+  "1833819184": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1833819184.jpg"
   },
   "1833943240": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/1833943240.jpg"
@@ -4428,6 +4749,12 @@
   "1833943247": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/1833943247.jpg"
   },
+  "1836636207": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1836636207.jpg"
+  },
+  "1837000826": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1837000826.jpg"
+  },
   "1841451177": {
     "screenshot": "/static/images/screenshots/items/shaders/1841451177.jpg"
   },
@@ -4437,6 +4764,9 @@
   "1843730201": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/1843730201.jpg"
   },
+  "1847708611": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1847708611.jpg"
+  },
   "1848640623": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1848640623.jpg"
   },
@@ -4445,6 +4775,9 @@
   },
   "1852863732": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1852863732.jpg"
+  },
+  "1853085236": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1853085236.jpg"
   },
   "1853180924": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1853180924.jpg"
@@ -4642,6 +4975,12 @@
       "green": 204,
       "blue": 186
     }
+  },
+  "1888607907": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1888607907.jpg"
+  },
+  "1901005163": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1901005163.jpg"
   },
   "1901100184": {
     "backgroundColor": {
@@ -5147,6 +5486,9 @@
   "1960441750": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1960441750.jpg"
   },
+  "1961468307": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/1961468307.jpg"
+  },
   "1966562408": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/1966562408.jpg"
   },
@@ -5491,6 +5833,9 @@
   "2014761391": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2014761391.jpg"
   },
+  "2017375168": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2017375168.jpg"
+  },
   "2018965396": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2018965396.jpg"
   },
@@ -5587,6 +5932,21 @@
   "2056256565": {
     "screenshot": "/static/images/screenshots/items/shaders/2056256565.jpg"
   },
+  "2056426000": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2056426000.jpg"
+  },
+  "2056426001": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2056426001.jpg"
+  },
+  "2056426002": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2056426002.jpg"
+  },
+  "2056426003": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2056426003.jpg"
+  },
+  "2056426004": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2056426004.jpg"
+  },
   "2058800852": {
     "screenshot": "/static/images/screenshots/items/shaders/2058800852.jpg"
   },
@@ -5601,6 +5961,21 @@
   },
   "2066724468": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2066724468.jpg"
+  },
+  "2067296769": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2067296769.jpg"
+  },
+  "2067296770": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2067296770.jpg"
+  },
+  "2067296771": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2067296771.jpg"
+  },
+  "2067296772": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2067296772.jpg"
+  },
+  "2067296773": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2067296773.jpg"
   },
   "2069224589": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2069224589.jpg"
@@ -5675,6 +6050,12 @@
       "blue": 70
     }
   },
+  "2073952954": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2073952954.jpg"
+  },
+  "2081719592": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2081719592.jpg"
+  },
   "2082483156": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2082483156.jpg"
   },
@@ -5694,10 +6075,28 @@
   "2086800027": {
     "screenshot": "/static/images/screenshots/items/shaders/2086800027.jpg"
   },
+  "2089383936": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2089383936.jpg"
+  },
+  "2089383937": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2089383937.jpg"
+  },
+  "2089383941": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2089383941.jpg"
+  },
+  "2089383942": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2089383942.jpg"
+  },
+  "2089383943": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2089383943.jpg"
+  },
   "2089583446": {
     "displayProperties": {
       "presentationNodeHash": 28665996
     }
+  },
+  "2091889892": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2091889892.jpg"
   },
   "2099043843": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2099043843.jpg"
@@ -5747,6 +6146,9 @@
   },
   "2118730409": {
     "screenshot": "/static/images/screenshots/items/shaders/2118730409.jpg"
+  },
+  "2119182608": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2119182608.jpg"
   },
   "2130065553": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2130065553.jpg"
@@ -5906,6 +6308,9 @@
       "blue": 129
     }
   },
+  "2178429339": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2178429339.jpg"
+  },
   "2179048386": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2179048386.jpg"
   },
@@ -6030,6 +6435,9 @@
   "2232171099": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2232171099.jpg"
   },
+  "2232750624": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2232750624.jpg"
+  },
   "2233576420": {
     "screenshot": "/static/images/screenshots/items/shaders/2233576420.jpg"
   },
@@ -6110,6 +6518,9 @@
   "2273643087": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2273643087.jpg"
   },
+  "2274944459": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2274944459.jpg"
+  },
   "2276139500": {
     "backgroundColor": {
       "red": 43,
@@ -6138,6 +6549,42 @@
       "blue": 24
     }
   },
+  "2277536120": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2277536120.jpg"
+  },
+  "2277536123": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2277536123.jpg"
+  },
+  "2285214166": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214166.jpg"
+  },
+  "2285214167": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214167.jpg"
+  },
+  "2285214168": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214168.jpg"
+  },
+  "2285214169": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214169.jpg"
+  },
+  "2285214170": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214170.jpg"
+  },
+  "2285214171": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214171.jpg"
+  },
+  "2285214172": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214172.jpg"
+  },
+  "2285214173": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214173.jpg"
+  },
+  "2285214174": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214174.jpg"
+  },
+  "2285214175": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2285214175.jpg"
+  },
   "2286143274": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2286143274.jpg"
   },
@@ -6163,6 +6610,24 @@
   },
   "2296382436": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2296382436.jpg"
+  },
+  "2298896090": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896090.jpg"
+  },
+  "2298896091": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896091.jpg"
+  },
+  "2298896092": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896092.jpg"
+  },
+  "2298896093": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896093.jpg"
+  },
+  "2298896094": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896094.jpg"
+  },
+  "2298896095": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2298896095.jpg"
   },
   "2307306630": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/2307306630.jpg"
@@ -6231,11 +6696,50 @@
   "2350354266": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2350354266.jpg"
   },
+  "2351197433": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197433.jpg"
+  },
+  "2351197434": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197434.jpg"
+  },
+  "2351197435": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197435.jpg"
+  },
+  "2351197436": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197436.jpg"
+  },
+  "2351197437": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197437.jpg"
+  },
+  "2351197438": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197438.jpg"
+  },
+  "2351197439": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2351197439.jpg"
+  },
   "2355278665": {
     "screenshot": "/static/images/screenshots/items/shaders/2355278665.jpg"
   },
   "2356548547": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2356548547.jpg"
+  },
+  "2357026176": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026176.jpg"
+  },
+  "2357026177": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026177.jpg"
+  },
+  "2357026178": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026178.jpg"
+  },
+  "2357026179": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026179.jpg"
+  },
+  "2357026180": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026180.jpg"
+  },
+  "2357026181": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2357026181.jpg"
   },
   "2357297366": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2357297366.jpg"
@@ -6385,6 +6889,9 @@
   },
   "2413288976": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2413288976.jpg"
+  },
+  "2413351959": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2413351959.jpg"
   },
   "2414564781": {
     "backgroundColor": {
@@ -6550,6 +7057,9 @@
   "2503134043": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/2503134043.jpg"
   },
+  "2504786634": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2504786634.jpg"
+  },
   "2505000979": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2505000979.jpg"
   },
@@ -6609,6 +7119,9 @@
       "blue": 71
     }
   },
+  "2511583696": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2511583696.jpg"
+  },
   "2512921531": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2512921531.jpg"
   },
@@ -6642,6 +7155,9 @@
       "green": 33,
       "blue": 29
     }
+  },
+  "2525637070": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2525637070.jpg"
   },
   "2526736320": {
     "backgroundColor": {
@@ -6765,6 +7281,33 @@
       "green": 27,
       "blue": 13
     }
+  },
+  "2545880781": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2545880781.jpg"
+  },
+  "2546958592": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958592.jpg"
+  },
+  "2546958593": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958593.jpg"
+  },
+  "2546958594": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958594.jpg"
+  },
+  "2546958595": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958595.jpg"
+  },
+  "2546958596": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958596.jpg"
+  },
+  "2546958597": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958597.jpg"
+  },
+  "2546958598": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958598.jpg"
+  },
+  "2546958599": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2546958599.jpg"
   },
   "2549404869": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2549404869.jpg"
@@ -6918,6 +7461,9 @@
   "2662368496": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2662368496.jpg"
   },
+  "2664281431": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2664281431.jpg"
+  },
   "2664485240": {
     "backgroundColor": {
       "red": 124,
@@ -6955,6 +7501,9 @@
   "2680833851": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2680833851.jpg"
   },
+  "2683352145": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2683352145.jpg"
+  },
   "2686985268": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2686985268.jpg"
   },
@@ -6984,6 +7533,24 @@
   },
   "2716406907": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2716406907.jpg"
+  },
+  "2717540192": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540192.jpg"
+  },
+  "2717540193": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540193.jpg"
+  },
+  "2717540196": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540196.jpg"
+  },
+  "2717540197": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540197.jpg"
+  },
+  "2717540198": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540198.jpg"
+  },
+  "2717540199": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2717540199.jpg"
   },
   "2719140312": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/2719140312.jpg"
@@ -7038,6 +7605,12 @@
   },
   "2752635127": {
     "screenshot": "/static/images/screenshots/items/shaders/2752635127.jpg"
+  },
+  "2757144092": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2757144092.jpg"
+  },
+  "2757144093": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2757144093.jpg"
   },
   "2757144557": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2757144557.jpg"
@@ -7170,6 +7743,9 @@
   "2779460227": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2779460227.jpg"
   },
+  "2779499874": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2779499874.jpg"
+  },
   "2780717641": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2780717641.jpg"
   },
@@ -7252,6 +7828,36 @@
       "blue": 14
     }
   },
+  "2801372704": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2801372704.jpg"
+  },
+  "2801372707": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2801372707.jpg"
+  },
+  "2801372708": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2801372708.jpg"
+  },
+  "2801372709": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2801372709.jpg"
+  },
+  "2803630128": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630128.jpg"
+  },
+  "2803630129": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630129.jpg"
+  },
+  "2803630130": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630130.jpg"
+  },
+  "2803630131": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630131.jpg"
+  },
+  "2803630134": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630134.jpg"
+  },
+  "2803630135": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2803630135.jpg"
+  },
   "2808156426": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2808156426.jpg"
   },
@@ -7291,11 +7897,38 @@
   "2815102895": {
     "screenshot": "/static/images/screenshots/items/shaders/2815102895.jpg"
   },
+  "2816146406": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2816146406.jpg"
+  },
+  "2816146407": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2816146407.jpg"
+  },
   "2816212794": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2816212794.jpg"
   },
+  "2818858336": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858336.jpg"
+  },
+  "2818858337": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858337.jpg"
+  },
+  "2818858339": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858339.jpg"
+  },
+  "2818858340": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858340.jpg"
+  },
+  "2818858341": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858341.jpg"
+  },
+  "2818858343": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2818858343.jpg"
+  },
   "2822465023": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/2822465023.jpg"
+  },
+  "2832223387": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2832223387.jpg"
   },
   "2833999136": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2833999136.jpg"
@@ -7415,6 +8048,27 @@
   "2857908936": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2857908936.jpg"
   },
+  "2862488832": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488832.jpg"
+  },
+  "2862488833": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488833.jpg"
+  },
+  "2862488835": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488835.jpg"
+  },
+  "2862488836": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488836.jpg"
+  },
+  "2862488837": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488837.jpg"
+  },
+  "2862488838": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488838.jpg"
+  },
+  "2862488839": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2862488839.jpg"
+  },
   "2868525732": {
     "backgroundColor": {
       "red": 22,
@@ -7513,6 +8167,9 @@
       "blue": 32
     }
   },
+  "2894282039": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2894282039.jpg"
+  },
   "2898603256": {
     "screenshot": "/static/images/screenshots/items/shaders/2898603256.jpg"
   },
@@ -7538,6 +8195,9 @@
   },
   "2910326942": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/2910326942.jpg"
+  },
+  "2912094496": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2912094496.jpg"
   },
   "2912834745": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2912834745.jpg"
@@ -7581,6 +8241,12 @@
   },
   "2931044502": {
     "screenshot": "/static/images/screenshots/items/shaders/2931044502.jpg"
+  },
+  "2932488014": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2932488014.jpg"
+  },
+  "2932488015": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2932488015.jpg"
   },
   "2933984410": {
     "backgroundColor": {
@@ -7985,6 +8651,9 @@
   "2991424415": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/2991424415.jpg"
   },
+  "2993751041": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/2993751041.jpg"
+  },
   "2995501285": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/2995501285.jpg"
   },
@@ -8083,6 +8752,9 @@
       "blue": 37
     }
   },
+  "3013191049": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3013191049.jpg"
+  },
   "3013363601": {
     "backgroundColor": {
       "red": 28,
@@ -8096,11 +8768,20 @@
   "3030850318": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3030850318.jpg"
   },
+  "3031114503": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3031114503.jpg"
+  },
+  "3031600404": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3031600404.jpg"
+  },
   "3034617041": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3034617041.jpg"
   },
   "3038888553": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3038888553.jpg"
+  },
+  "3039049959": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3039049959.jpg"
   },
   "3041031340": {
     "screenshot": "/static/images/screenshots/items/shaders/3041031340.jpg"
@@ -8237,8 +8918,26 @@
       "blue": 36
     }
   },
+  "3081894944": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3081894944.jpg"
+  },
+  "3081894946": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3081894946.jpg"
+  },
+  "3081894947": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3081894947.jpg"
+  },
   "3084282676": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3084282676.jpg"
+  },
+  "3085024168": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3085024168.jpg"
+  },
+  "3085024169": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3085024169.jpg"
+  },
+  "3085024171": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3085024171.jpg"
   },
   "3089417789": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3089417789.jpg"
@@ -8292,6 +8991,9 @@
   },
   "3101966172": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3101966172.jpg"
+  },
+  "3102002768": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3102002768.jpg"
   },
   "3105072592": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3105072592.jpg"
@@ -8403,6 +9105,9 @@
   "3151260458": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3151260458.jpg"
   },
+  "3158812152": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3158812152.jpg"
+  },
   "3161505825": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3161505825.jpg"
   },
@@ -8436,6 +9141,9 @@
   "3174376906": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3174376906.jpg"
   },
+  "3176509806": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3176509806.jpg"
+  },
   "3176983014": {
     "screenshot": "/static/images/screenshots/items/shaders/3176983014.jpg"
   },
@@ -8447,6 +9155,24 @@
   },
   "3186756437": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3186756437.jpg"
+  },
+  "3188399952": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399952.jpg"
+  },
+  "3188399953": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399953.jpg"
+  },
+  "3188399956": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399956.jpg"
+  },
+  "3188399957": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399957.jpg"
+  },
+  "3188399958": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399958.jpg"
+  },
+  "3188399959": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3188399959.jpg"
   },
   "3192251706": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3192251706.jpg"
@@ -8560,6 +9286,9 @@
   "3219975799": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3219975799.jpg"
   },
+  "3224184260": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3224184260.jpg"
+  },
   "3227439259": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3227439259.jpg"
   },
@@ -8651,6 +9380,9 @@
   "3242034340": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3242034340.jpg"
   },
+  "3250490362": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3250490362.jpg"
+  },
   "3252358296": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3252358296.jpg"
   },
@@ -8685,6 +9417,9 @@
   "3260753130": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3260753130.jpg"
   },
+  "3262125707": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3262125707.jpg"
+  },
   "3264152240": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3264152240.jpg"
   },
@@ -8705,6 +9440,18 @@
   "3267996858": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3267996858.jpg"
   },
+  "3268592500": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3268592500.jpg"
+  },
+  "3268592501": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3268592501.jpg"
+  },
+  "3268592502": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3268592502.jpg"
+  },
+  "3268592503": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3268592503.jpg"
+  },
   "3269723222": {
     "displayProperties": {
       "presentationNodeHash": 4003550471
@@ -8724,6 +9471,9 @@
   "3286479728": {
     "screenshot": "/static/images/screenshots/items/shaders/3286479728.jpg"
   },
+  "3287231362": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3287231362.jpg"
+  },
   "3287498059": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3287498059.jpg"
   },
@@ -8738,6 +9488,9 @@
   },
   "3288917178": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3288917178.jpg"
+  },
+  "3301342410": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3301342410.jpg"
   },
   "3301944824": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3301944824.jpg"
@@ -8769,6 +9522,12 @@
   "3316517958": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3316517958.jpg"
   },
+  "3317837688": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3317837688.jpg"
+  },
+  "3317837689": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3317837689.jpg"
+  },
   "3319386964": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3319386964.jpg"
   },
@@ -8783,6 +9542,30 @@
   },
   "3328839467": {
     "screenshot": "/static/images/screenshots/items/shaders/3328839467.jpg"
+  },
+  "3330250532": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250532.jpg"
+  },
+  "3330250533": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250533.jpg"
+  },
+  "3330250538": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250538.jpg"
+  },
+  "3330250539": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250539.jpg"
+  },
+  "3330250540": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250540.jpg"
+  },
+  "3330250541": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250541.jpg"
+  },
+  "3330250542": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250542.jpg"
+  },
+  "3330250543": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3330250543.jpg"
   },
   "3334815691": {
     "backgroundColor": {
@@ -8862,6 +9645,9 @@
   "3363660171": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3363660171.jpg"
   },
+  "3363948245": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3363948245.jpg"
+  },
   "3365127084": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3365127084.jpg"
   },
@@ -8913,6 +9699,9 @@
   },
   "3382176091": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3382176091.jpg"
+  },
+  "3382260610": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3382260610.jpg"
   },
   "3385828109": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3385828109.jpg"
@@ -9044,6 +9833,9 @@
   "3487253372": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3487253372.jpg"
   },
+  "3489448910": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3489448910.jpg"
+  },
   "3491436641": {
     "backgroundColor": {
       "red": 53,
@@ -9056,6 +9848,9 @@
   },
   "3499782248": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3499782248.jpg"
+  },
+  "3499897239": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3499897239.jpg"
   },
   "3505113722": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3505113722.jpg"
@@ -9159,6 +9954,36 @@
       "blue": 130
     }
   },
+  "3538153284": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153284.jpg"
+  },
+  "3538153285": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153285.jpg"
+  },
+  "3538153288": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153288.jpg"
+  },
+  "3538153289": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153289.jpg"
+  },
+  "3538153290": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153290.jpg"
+  },
+  "3538153291": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153291.jpg"
+  },
+  "3538153292": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153292.jpg"
+  },
+  "3538153293": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153293.jpg"
+  },
+  "3538153294": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153294.jpg"
+  },
+  "3538153295": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3538153295.jpg"
+  },
   "3539357318": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3539357318.jpg"
   },
@@ -9190,6 +10015,9 @@
       "green": 88,
       "blue": 121
     }
+  },
+  "3542826854": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3542826854.jpg"
   },
   "3546298141": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3546298141.jpg"
@@ -9239,6 +10067,24 @@
   },
   "3586026952": {
     "screenshot": "/static/images/screenshots/items/shaders/3586026952.jpg"
+  },
+  "3587167050": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3587167050.jpg"
+  },
+  "3587167051": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3587167051.jpg"
+  },
+  "3588486148": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3588486148.jpg"
+  },
+  "3588486149": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3588486149.jpg"
+  },
+  "3588486150": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3588486150.jpg"
+  },
+  "3588486151": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3588486151.jpg"
   },
   "3588934839": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3588934839.jpg"
@@ -9387,6 +10233,39 @@
       "green": 61,
       "blue": 88
     }
+  },
+  "3607696740": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3607696740.jpg"
+  },
+  "3610177552": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177552.jpg"
+  },
+  "3610177553": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177553.jpg"
+  },
+  "3610177554": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177554.jpg"
+  },
+  "3610177555": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177555.jpg"
+  },
+  "3610177556": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177556.jpg"
+  },
+  "3610177557": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177557.jpg"
+  },
+  "3610177558": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177558.jpg"
+  },
+  "3610177559": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177559.jpg"
+  },
+  "3610177564": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177564.jpg"
+  },
+  "3610177565": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3610177565.jpg"
   },
   "3610893760": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3610893760.jpg"
@@ -9561,6 +10440,9 @@
       "blue": 198
     }
   },
+  "3645278673": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3645278673.jpg"
+  },
   "3650581584": {
     "screenshot": "/static/images/screenshots/items/shaders/3650581584.jpg"
   },
@@ -9698,6 +10580,24 @@
   },
   "3725585710": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3725585710.jpg"
+  },
+  "3725889192": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889192.jpg"
+  },
+  "3725889193": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889193.jpg"
+  },
+  "3725889194": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889194.jpg"
+  },
+  "3725889195": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889195.jpg"
+  },
+  "3725889198": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889198.jpg"
+  },
+  "3725889199": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3725889199.jpg"
   },
   "3733702440": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3733702440.jpg"
@@ -9885,6 +10785,9 @@
   "3766045777": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3766045777.jpg"
   },
+  "3767156788": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3767156788.jpg"
+  },
   "3773306894": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3773306894.jpg"
   },
@@ -10024,6 +10927,9 @@
   "3809059822": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/3809059822.jpg"
   },
+  "3816300537": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3816300537.jpg"
+  },
   "3818755490": {
     "screenshot": "/static/images/screenshots/items/shaders/3818755490.jpg"
   },
@@ -10051,6 +10957,9 @@
   },
   "3821409356": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3821409356.jpg"
+  },
+  "3823337168": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3823337168.jpg"
   },
   "3824106094": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/3824106094.jpg"
@@ -10187,6 +11096,9 @@
   "3874247549": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3874247549.jpg"
   },
+  "3875012143": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3875012143.jpg"
+  },
   "3875413893": {
     "screenshot": "/static/images/screenshots/items/shaders/3875413893.jpg"
   },
@@ -10271,6 +11183,36 @@
   },
   "3889064943": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3889064943.jpg"
+  },
+  "3889183906": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183906.jpg"
+  },
+  "3889183907": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183907.jpg"
+  },
+  "3889183912": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183912.jpg"
+  },
+  "3889183913": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183913.jpg"
+  },
+  "3889183914": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183914.jpg"
+  },
+  "3889183915": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183915.jpg"
+  },
+  "3889183916": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183916.jpg"
+  },
+  "3889183917": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183917.jpg"
+  },
+  "3889183918": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183918.jpg"
+  },
+  "3889183919": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3889183919.jpg"
   },
   "3891757416": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3891757416.jpg"
@@ -10557,6 +11499,9 @@
       "blue": 138
     }
   },
+  "3936838052": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3936838052.jpg"
+  },
   "3941202506": {
     "backgroundColor": {
       "red": 93,
@@ -10581,6 +11526,9 @@
   },
   "3948284065": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3948284065.jpg"
+  },
+  "3948527015": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3948527015.jpg"
   },
   "3953403248": {
     "backgroundColor": {
@@ -10722,6 +11670,21 @@
       "blue": 44
     }
   },
+  "3964057060": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3964057060.jpg"
+  },
+  "3964057061": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3964057061.jpg"
+  },
+  "3964057062": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3964057062.jpg"
+  },
+  "3964057063": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3964057063.jpg"
+  },
+  "3969205939": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3969205939.jpg"
+  },
   "3970180834": {
     "backgroundColor": {
       "red": 67,
@@ -10845,6 +11808,9 @@
       "green": 47,
       "blue": 14
     }
+  },
+  "3981634627": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/3981634627.jpg"
   },
   "3986958420": {
     "backgroundColor": {
@@ -11015,6 +11981,24 @@
       "presentationNodeHash": 1552617421
     }
   },
+  "4002999938": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999938.jpg"
+  },
+  "4002999939": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999939.jpg"
+  },
+  "4002999940": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999940.jpg"
+  },
+  "4002999941": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999941.jpg"
+  },
+  "4002999942": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999942.jpg"
+  },
+  "4002999943": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4002999943.jpg"
+  },
   "4004720050": {
     "backgroundColor": {
       "red": 208,
@@ -11132,6 +12116,9 @@
   "4023500750": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/4023500750.jpg"
   },
+  "4024856518": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4024856518.jpg"
+  },
   "4026515849": {
     "backgroundColor": {
       "red": 16,
@@ -11234,6 +12221,9 @@
   "4067547603": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4067547603.jpg"
   },
+  "4068113907": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4068113907.jpg"
+  },
   "4068264807": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/4068264807.jpg"
   },
@@ -11301,12 +12291,48 @@
   "4079130223": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/4079130223.jpg"
   },
+  "4082425931": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4082425931.jpg"
+  },
+  "4085575824": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575824.jpg"
+  },
+  "4085575825": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575825.jpg"
+  },
+  "4085575826": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575826.jpg"
+  },
+  "4085575827": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575827.jpg"
+  },
+  "4085575828": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575828.jpg"
+  },
+  "4085575829": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575829.jpg"
+  },
+  "4085575830": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575830.jpg"
+  },
+  "4085575831": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575831.jpg"
+  },
+  "4085575834": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575834.jpg"
+  },
+  "4085575835": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4085575835.jpg"
+  },
   "4085986809": {
     "backgroundColor": {
       "red": 75,
       "green": 74,
       "blue": 75
     }
+  },
+  "4087530286": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4087530286.jpg"
   },
   "4088827200": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/4088827200.jpg"
@@ -11445,6 +12471,9 @@
     "displayProperties": {
       "presentationNodeHash": 3616011551
     }
+  },
+  "4123860739": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4123860739.jpg"
   },
   "4124984448": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/4124984448.jpg"
@@ -11688,6 +12717,9 @@
       "green": 99,
       "blue": 167
     }
+  },
+  "4153737633": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4153737633.jpg"
   },
   "4159445096": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4159445096.jpg"
@@ -12010,6 +13042,21 @@
   "4198761575": {
     "screenshot": "/static/images/screenshots/items/shaders/4198761575.jpg"
   },
+  "4205434515": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4205434515.jpg"
+  },
+  "4205434516": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4205434516.jpg"
+  },
+  "4205434517": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4205434517.jpg"
+  },
+  "4205434518": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4205434518.jpg"
+  },
+  "4205434519": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4205434519.jpg"
+  },
   "4207066264": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/4207066264.jpg"
   },
@@ -12043,6 +13090,9 @@
   "4209989375": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/4209989375.jpg"
   },
+  "4213271811": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4213271811.jpg"
+  },
   "4214004310": {
     "screenshot": "/static/images/screenshots/items/equipment/ghosts/4214004310.jpg"
   },
@@ -12075,6 +13125,9 @@
   },
   "4215514285": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4215514285.jpg"
+  },
+  "4222882592": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4222882592.jpg"
   },
   "4224972854": {
     "screenshot": "/static/images/screenshots/items/shaders/4224972854.jpg"
@@ -12148,8 +13201,26 @@
       "blue": 20
     }
   },
+  "4243004391": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4243004391.jpg"
+  },
+  "4248884705": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4248884705.jpg"
+  },
+  "4248884706": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4248884706.jpg"
+  },
+  "4248884709": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4248884709.jpg"
+  },
+  "4248884710": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4248884710.jpg"
+  },
   "4252160794": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4252160794.jpg"
+  },
+  "4252635431": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4252635431.jpg"
   },
   "4255268456": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/4255268456.jpg"
@@ -12193,6 +13264,9 @@
   },
   "4269714569": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/4269714569.jpg"
+  },
+  "4271205858": {
+    "screenshot": "/static/images/screenshots/items/equipment/sparrows/4271205858.jpg"
   },
   "4279097964": {
     "screenshot": "/static/images/screenshots/items/shaders/4279097964.jpg"
