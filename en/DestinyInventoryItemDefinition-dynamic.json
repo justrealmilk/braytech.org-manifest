@@ -2827,6 +2827,27 @@
       "presentationNodeHash": 1910954518
     }
   },
+  "1611948521": {
+    "backgroundColor": {
+      "red": 88,
+      "green": 36,
+      "blue": 42
+    }
+  },
+  "1611948522": {
+    "backgroundColor": {
+      "red": 31,
+      "green": 20,
+      "blue": 40
+    }
+  },
+  "1611948523": {
+    "backgroundColor": {
+      "red": 148,
+      "green": 123,
+      "blue": 106
+    }
+  },
   "1613428620": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1613428620.jpg"
   },
@@ -6431,16 +6452,16 @@
   },
   "2979324128": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 112,
+      "green": 190,
+      "blue": 181
     }
   },
   "2979324129": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 82,
+      "green": 134,
+      "blue": 162
     }
   },
   "2979324130": {
@@ -6466,9 +6487,9 @@
   },
   "2979324133": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 25,
+      "green": 36,
+      "blue": 46
     }
   },
   "2979324134": {
@@ -6697,9 +6718,9 @@
   },
   "3063212163": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 48,
+      "green": 20,
+      "blue": 22
     }
   },
   "3063212164": {
@@ -6718,16 +6739,16 @@
   },
   "3063212166": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 159,
+      "green": 130,
+      "blue": 69
     }
   },
   "3063212167": {
     "backgroundColor": {
-      "red": 160,
-      "green": 33,
-      "blue": 160
+      "red": 16,
+      "green": 15,
+      "blue": 13
     }
   },
   "3063212170": {
@@ -6752,6 +6773,20 @@
   },
   "3071174732": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3071174732.jpg"
+  },
+  "3079989876": {
+    "backgroundColor": {
+      "red": 191,
+      "green": 247,
+      "blue": 12
+    }
+  },
+  "3079989877": {
+    "backgroundColor": {
+      "red": 65,
+      "green": 75,
+      "blue": 36
+    }
   },
   "3084282676": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/3084282676.jpg"
