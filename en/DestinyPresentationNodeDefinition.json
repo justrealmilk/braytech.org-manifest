@@ -649,6 +649,39 @@
     "distinguish": true,
     "redacted": false
   },
+  "1789205056": {
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000014
+        }
+      ],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    }
+  },
+  "1000000014": {
+    "hash": 1000000014,
+    "displayProperties": {
+      "name": "Legendary Synergies",
+      "description": "Armor ornaments which pair with exotics for unique effects."
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [
+      1789205056
+    ],
+    "distinguish": true,
+    "showInvisible" : true,
+    "redacted": false
+  },
   "2485764221": {
     "displayProperties": {
       "bannerImage": "/static/images/extracts/0332-0823.jpg"
