@@ -124,6 +124,13 @@
     },
     "distinguish": "true"
   },
+  "1000000014": {
+    "displayProperties": {
+      "name": "Legendary Synergies",
+      "description": "Armor ornaments which pair with exotics for unique effects."
+    },
+    "distinguish": "true"
+  },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"
   },
