@@ -123,7 +123,13 @@
     "displayProperties": {
       "description": "He waits in the dark below."
     },
-    "progressDescription": "\"Crota's End\" raid completed"
+    "progressDescription": "\"Crota's End\" rotator raid completed"
+  },
+  "1009732831": {
+    "displayProperties": {
+      "description": "Free the Light."
+    },
+    "progressDescription": "\"Salvation's Edge\" raid completed"
   },
   "2039792527": {
     "displayProperties": {
