@@ -484,16 +484,16 @@
       "description": "今こそあなたがチームの司令塔になる時です"
     }
   },
-    "manifest": {
-      "displayProperties": {
-        "name": "マニフェスト",
-        "description": "マニフェストの各バージョンおよび定義を保管するアーカイブです。"
-      }
-    },
-    "dresstiny": {
-      "displayProperties": {
-        "name": "Dresstiny",
-        "description": "ファッションショーへようこそ。じっくり眺めるもよし、トレンドを生み出すもよし…ご自由に楽しんでください。"
-      }
+  "manifest": {
+    "displayProperties": {
+      "name": "マニフェスト",
+      "description": "マニフェストの各バージョンおよび定義を保管するアーカイブです。"
+    }
+  },
+  "dresstiny": {
+    "displayProperties": {
+      "name": "Dresstiny",
+      "description": "ファッションショーへようこそ。じっくり眺めるもよし、トレンドを生み出すもよし…ご自由に楽しんでください。"
+    }
   }
 }
