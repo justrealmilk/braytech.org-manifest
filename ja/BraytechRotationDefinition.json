@@ -309,15 +309,6 @@
     },
     "rotation": [
       {
-        "nodeHash": 300,
-        "displayProperties": {
-          "name": "",
-          "description": ""
-        },
-        "collectibles": [],
-        "records": []
-      },
-      {
         "nodeHash": 301,
         "displayProperties": {
           "name": "",
@@ -328,6 +319,15 @@
       },
       {
         "nodeHash": 302,
+        "displayProperties": {
+          "name": "",
+          "description": ""
+        },
+        "collectibles": [],
+        "records": []
+      },
+      {
+        "nodeHash": 303,
         "displayProperties": {
           "name": "",
           "description": ""
