@@ -1914,37 +1914,6 @@
       "dresstiny"
     ]
   },
-  "ja": {
-    "BraytechCommonDefinition.json": [
-      "medal-beta",
-      "dresstiny-equip",
-      "dresstiny-edit"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1009732831",
-      "2367956143",
-      "3446372173",
-      "155825308",
-      "1390100688"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "548234283",
-      "911485777",
-      "1303588409"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "manifest",
-      "dresstiny"
-    ]
-  },
   "ko": {
     "DestinyDestinationDefinition.json": [
       "2032534090",
