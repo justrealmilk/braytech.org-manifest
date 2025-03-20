@@ -89,7 +89,45 @@
   },
   "1000000009": {
     "displayProperties": {
-      "name": "Animated"
+      "name": "アニメーション効果",
+      "description": "これらのシェーダーはアニメーション効果を備えています。"
+    },
+    "distinguish": "true"
+  },
+  "1000000010": {
+    "displayProperties": {
+      "name": "開発者の保管庫",
+      "description": "[機密扱い] してこれらのコードを入手し、開発者から報酬を受け取りましょう。"
+    },
+    "distinguish": "true"
+  },
+  "1205461800": {
+    "displayProperties": {
+      "name": "装飾"
+    }
+  },
+  "1000000011": {
+    "displayProperties": {
+      "name": "タイタンアーマー"
+    },
+    "distinguish": "true"
+  },
+  "1000000012": {
+    "displayProperties": {
+      "name": "ハンターアーマー"
+    },
+    "distinguish": "true"
+  },
+  "1000000013": {
+    "displayProperties": {
+      "name": "ウォーロックアーマー"
+    },
+    "distinguish": "true"
+  },
+  "1000000014": {
+    "displayProperties": {
+      "name": "相乗効果",
+      "description": "特定のアーマー装飾とエキゾチックアーマーの組み合わせで視覚エフェクトが発動します。"
     },
     "distinguish": "true"
   },

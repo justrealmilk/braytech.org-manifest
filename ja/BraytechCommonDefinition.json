@@ -48,6 +48,13 @@
     },
     "itemTypeDisplayName": "Braytech開発者"
   },
+  "medal-beta": {
+    "displayProperties": {
+      "name": "The First Wave",
+      "description": "_Destiny 2 ベータテスト参加者に贈る報酬です_"
+    },
+    "itemTypeDisplayName": "スペシャル"
+  },
   "medal-for-you": {
     "displayProperties": {
       "name": "\"あなたのために作りました\"",
@@ -472,6 +479,18 @@
     "displayProperties": {
       "name": "サブスクリプション特典",
       "description": "- ランダムな長い数字のアドレスを https://bray.tech/@/CoolMom69 のように短縮（絵文字にも対応 💩）\n- キャラクターIDを省略したとき、どのクラスをデフォルト表示するか設定\n- 共有リンク画像やレジェンドページに、特別な勝利の道のりやアピールしたい記録をハイライト表示\n- リーダーボード上で隣り合うプレイヤー同士の差を比較\n- プロフィールのリーダーボードデータを更新し、ランキング更新直前にプロフィールを再査定\n- 新ブログ記事などの更新をメールで受け取る\n- Discordのチャットに参加して、今後の動向や計画をチェックしよう！"
+    }
+  },
+  "dresstiny-equip": {
+    "displayProperties": {
+      "name": "装備",
+      "description": "このロードアウトは、同クラスのキャラクターに装備できます。\n\nグレーアウトしているアイテムは、アイテムが存在しないことを意味します。"
+    }
+  },
+  "dresstiny-edit": {
+    "displayProperties": {
+      "name": "編集",
+      "description": "コーディネートの名称、説明文、またはURLを変更できます。\n\n変更すると、未承認となりますのでご注意ください。"
     }
   }
 }
