@@ -249,6 +249,12 @@
       "description": "Increases the initial drop rate of the \"Ice Breaker\" exotic sniper rifle from the \"Vesper's Host\" dungeon."
     }
   },
+  "3607181138": {
+    "displayProperties": {
+      "name": "Increased \"Finality's Auger\" drop rate",
+      "description": "Increases the initial drop rate of the \"Finality's Auger\" exotic linear fusion rifle from the \"Sundered Doctrine\" dungeon."
+    }
+  },
   "23239861010": {
     "hash": 23239861010,
     "displayProperties": {
