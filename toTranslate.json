@@ -120,6 +120,7 @@
       "860071581",
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -512,6 +513,7 @@
     ],
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -774,6 +776,7 @@
     ],
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -1114,6 +1117,7 @@
       "860071581",
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -1491,6 +1495,7 @@
     "DestinyInventoryItemDefinition.json": [
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -1914,6 +1919,11 @@
       "dresstiny"
     ]
   },
+  "ja": {
+    "DestinyInventoryItemDefinition.json": [
+      "3607181138"
+    ]
+  },
   "ko": {
     "DestinyDestinationDefinition.json": [
       "2032534090",
@@ -2005,6 +2015,7 @@
       "860071581",
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -2992,6 +3003,7 @@
       "860071581",
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyHistoricalStatsDefinition.json": [
@@ -3454,6 +3466,7 @@
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
@@ -4110,6 +4123,7 @@
       "860071581",
       "1371343017",
       "2156849113",
+      "3607181138",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
