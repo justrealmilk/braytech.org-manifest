@@ -8,7 +8,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -57,6 +60,7 @@
       "medal-seraph",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -505,11 +509,17 @@
       "2032534090",
       "3998251206"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
     "DestinyActivityModeDefinition.json": [
       "2916787939"
     ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
+      "medal-one-time",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits",
       "dresstiny-equip",
@@ -772,11 +782,17 @@
       "2032534090",
       "3998251206"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
     "DestinyActivityModeDefinition.json": [
       "2916787939"
     ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
+      "medal-one-time",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits",
       "dresstiny-equip",
@@ -1043,7 +1059,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -1082,6 +1101,7 @@
       "medal-seraph",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -1470,6 +1490,11 @@
       "2032534090",
       "3998251206"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
       "3621023005",
@@ -1489,6 +1514,7 @@
     ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
+      "medal-one-time",
       "well-rested",
       "season-pass-xp-bonus",
       "seal-score",
@@ -1940,6 +1966,14 @@
     ]
   },
   "ja": {
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-one-time"
+    ],
     "DestinyInventoryItemDefinition.json": [
       "3607181138"
     ],
@@ -1959,7 +1993,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -2011,6 +2048,7 @@
     ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
+      "medal-one-time",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-benefits",
       "dresstiny-equip",
@@ -2599,6 +2637,7 @@
       "medal-researcher",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -2728,7 +2767,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -2789,6 +2831,7 @@
       "medal-researcher",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -2897,7 +2940,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -2957,6 +3003,7 @@
       "medal-seraph",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
@@ -3457,7 +3504,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModeDefinition.json": [
       "2916787939"
@@ -3469,6 +3519,7 @@
       "medal-seraph",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -4017,7 +4068,10 @@
       "5000000007",
       "5000000008",
       "5000000010",
-      "5000000011"
+      "5000000011",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -4087,6 +4141,7 @@
       "medal-researcher",
       "medal-guardian",
       "medal-civilian",
+      "medal-one-time",
       "medal-patron",
       "medal-translator",
       "medal-charitable",
