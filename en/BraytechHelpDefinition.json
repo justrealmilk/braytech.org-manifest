@@ -86,5 +86,29 @@
       "description": "Some Region Chests, while available in-game, are incorrectly connected to the API. This results in some chests, especially those in the [Dreaming City](/maps/the-dreaming-city), erroneously reporting their state.\n\nChecklist items for which the data may not be reliable may be marked by a diagonal strike through their box."
     },
     "itemType": 1
+  },
+  "5000000012": {
+    "hash": 5000000012,
+    "displayProperties": {
+      "name": "Leaderboard Updates",
+      "description": "At the time of writing, leaderboards are updated as often as subscribers request them. Subscribers have access to privileged controls allowing them to update leaderboards at will."
+    },
+    "itemType": 2
+  },
+  "5000000013": {
+    "hash": 5000000013,
+    "displayProperties": {
+      "name": "Cancellation",
+      "description": "You can cancel at any time by selecting Manage Subscription from the [Subscriptions](/settings/subscriptions) screen. This flow will take you to Stripe's website, requesting you to authenticate yourself by verifying your email. Any benefits gained through your subscription remain active until the subscription's expiration."
+    },
+    "itemType": 3
+  },
+  "5000000014": {
+    "hash": 5000000014,
+    "displayProperties": {
+      "name": "Changing Tiers",
+      "description": "To change tiers, cancel your existing subscription, and resubscribe at the new tier. If your previous tier's benefits exceed the new tier's, you'll retain those benefits until the previous tier's expiration date."
+    },
+    "itemType": 3
   }
 }
