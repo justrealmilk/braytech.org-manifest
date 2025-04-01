@@ -125,6 +125,13 @@
     },
     "itemTypeDisplayName": "Braytech Supporter"
   },
+  "medal-one-time": {
+    "displayProperties": {
+      "name": "One Time",
+      "description": "_Fund the developer's insatiable hunger for ramen and dumplings._"
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
   "medal-patron": {
     "displayProperties": {
       "name": "Patron",
