@@ -113,6 +113,18 @@
       "description": "Defeat this Nightmare to progress record **Wandering Nightmares**."
     }
   },
+  "20": {
+    "displayProperties": {
+      "name": "Vorgeth, The Boundless Hunger",
+      "description": "Overcome the Keepers of Petitions and defeat Vorgeth, The Boundless Hunger."
+    }
+  },
+  "21": {
+    "displayProperties": {
+      "name": "Dûl Incaru, the Eternal Return",
+      "description": "Defeat Dûl Incaru, the Eternal Return."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "Queen's Court",
