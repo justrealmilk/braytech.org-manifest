@@ -210,6 +210,7 @@
       "motesLost"
     ],
     "BraytechMapsTypesDefinition.json": [
+      "6",
       "13"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -279,6 +280,8 @@
       "4224291482"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "607",
       "608",
       "609",
@@ -574,6 +577,9 @@
       "1000000047",
       "2206233229"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
     "DestinyCollectibleDefinition.json": [
       "0",
       "449846850",
@@ -660,6 +666,8 @@
       "107319834"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "613",
       "614",
       "293144960",
@@ -847,6 +855,9 @@
       "1000000047",
       "2206233229"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
     "DestinyCollectibleDefinition.json": [
       "0",
       "449846850",
@@ -933,6 +944,8 @@
       "107319834"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "613",
       "614",
       "293144960",
@@ -1229,6 +1242,7 @@
       "motesLost"
     ],
     "BraytechMapsTypesDefinition.json": [
+      "6",
       "13"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -1323,6 +1337,8 @@
       "1289679000"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "607",
       "608",
       "609",
@@ -1600,6 +1616,9 @@
       "1000000047",
       "2206233229"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
     "DestinyCollectibleDefinition.json": [
       "0",
       "449846850",
@@ -1692,6 +1711,8 @@
       "107319834"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "613",
       "614",
       "293144960",
@@ -1982,6 +2003,13 @@
       "992789319",
       "4197208563",
       "1108757867"
+    ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "BraytechMapsDefinition.json": [
+      "20",
+      "21"
     ]
   },
   "ko": {
@@ -2194,12 +2222,15 @@
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
+      "6",
       "13"
     ],
     "BraytechActivityDefinition.json": [
       "107319834"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "607",
       "608",
       "609",
@@ -3139,6 +3170,7 @@
     ],
     "BraytechMapsTypesDefinition.json": [
       "5",
+      "6",
       "13"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -3225,6 +3257,8 @@
       "4224291482"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "607",
       "608",
       "609",
@@ -3606,6 +3640,9 @@
       "1000000047",
       "2206233229"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
     "DestinyCollectibleDefinition.json": [
       "0",
       "449846850",
@@ -3715,6 +3752,8 @@
       "11"
     ],
     "BraytechMapsDefinition.json": [
+      "20",
+      "21",
       "596",
       "235152581",
       "293144960",
