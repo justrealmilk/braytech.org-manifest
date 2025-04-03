@@ -486,6 +486,61 @@
     },
     "screenshot": "/static/images/screenshots/enemies/archers-line_patrol-boss_nightmareFallenCouncil.jpg"
   },
+  "20": {
+    "hash": 20,
+    "nodeType": 6,
+    "displayProperties": {
+      "name": "Vorgeth, The Boundless Hunger",
+      "description": "Overcome the Keepers of Petitions and defeat Vorgeth, The Boundless Hunger.",
+      "icon": "patrol-boss"
+    },
+    "destinationHash": 2032534090,
+    "bubbleHash": 20325340911,
+    "map": {
+      "points": [
+        {
+          "x": 454,
+          "y": 1066
+        }
+      ]
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 2436465535
+        }
+      ]
+    }
+  },
+  "21": {
+    "hash": 21,
+    "nodeType": 6,
+    "displayProperties": {
+      "name": "Dûl Incaru, the Eternal Return",
+      "description": "Defeat Dûl Incaru, the Eternal Return.",
+      "icon": "patrol-boss"
+    },
+    "destinationHash": 2032534090,
+    "bubbleHash": 20325340913,
+    "map": {
+      "points": [
+        {
+          "x": 454,
+          "y": 1938
+        }
+      ]
+    },
+    "related": {
+      "records": [
+        {
+          "recordHash": 4180867423
+        },
+        {
+          "recordHash": 1025573696
+        }
+      ]
+    }
+  },
   "230": {
     "hash": 230,
     "displayProperties": {
