@@ -19,8 +19,7 @@
   },
   "activity-contest-mode": {
     "displayProperties": {
-      "description": "This activity was finished in da contest mode window: twiumph undew extwaowdinawy ciwcumstance and pwessuwe",
-      "name": "Amongst da Fiwst"
+      "description": "This activity was finished in da contest mode window; apawt of da fiwst wave of Guawdians, twiumph undew extwaowdinawy ciwcumstance and pwessuwe."
     }
   },
   "activity-duo": {
@@ -31,7 +30,7 @@
   "activity-flawless": {
     "displayProperties": {
       "description": "This activity was stawted fwom its beginning and finished fwawwesswy, with no deaths.\n\nTo be ewigibwe, **waids** must be compweted aftew da waunch of Witch Queen, **dungeons** and **wost sectows** must be stawted and finished by a singwe (・`ω´・) pwayew, *wuns away* and **stwikes** awe specific to each pwayew.",
-      "name": "Deathwess"
+      "name": "Fwawwess"
     }
   },
   "activity-solo": {
@@ -54,26 +53,14 @@
   },
   "add-record-bookmark": {
     "displayProperties": {
-      "description": "Bookmawk this wecowd fow watew viewing.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app.",
+      "description": "Bookmawk this wecowd fow watew viewing.\n_If enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app._",
       "name": "Add Bookmawk"
     }
   },
   "add-record-track": {
     "displayProperties": {
-      "description": "Add this wecowd to \"Twacked Wecowds\"\nIf enabwed, this *boops uuw nose* action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app.",
+      "description": "Add this wecowd to \"Twacked Wecowds\"\n_If enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app._",
       "name": "Twack Wecowd"
-    }
-  },
-  "ammo-type-primary": {
-    "displayProperties": {
-      "description": "This weapon haz infinite wesewves.",
-      "name": "Pwimawy"
-    }
-  },
-  "ammo-type-special": {
-    "displayProperties": {
-      "description": "This weapon uses speciaw ammo.",
-      "name": "Speciaw"
     }
   },
   "artifact-power-bonus": {
@@ -88,9 +75,21 @@
       "name": "Dewete Woadout"
     }
   },
+  "collection-score": {
+    "displayProperties": {
+      "description": "Da sum of items uu've amassed and stowed as apawt of uuw awsenaw.",
+      "name": "Cowwection Scowe"
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow da cowwesponding cowwection scowe, *bwushes* as detewmined by Vowuspa.",
+      "name": "Cowwection Scowe Wank"
+    }
+  },
   "commonality": {
     "displayProperties": {
-      "description": "Pewcentage of pwayews who awe indexed by Vowuspa who've acquiwed ow wedeemed this entwy.",
+      "description": "Pewcentage of pwayews who awe indexed by Vowuspa who've acquiwed this cowwectibwe ow compweted this wecowd.",
       "name": "Commonawity"
     }
   },
@@ -99,16 +98,99 @@
       "description": "Push notifications can weach uu when uu'we not using Bwaytech and (・`ω´・) ensuwe uu don't miss whatevew it is that uu'we chazing."
     }
   },
+  "dresstiny-edit": {
+    "displayProperties": {
+      "description": "Edit uuw fit's name, descwption, ow UWW.\n\nSubmitting changes wiww mawk uuw fit as unappwoved."
+    }
+  },
+  "dresstiny-equip": {
+    "displayProperties": {
+      "description": "Attempt to equip this woadout to da chawactew of da same cwass.\n\nItems which awe dawkened wepwesent those which a matching item can not be found fow."
+    }
+  },
   "expiration": {
     "displayProperties": {
       "description": "This wecowd haz expiwation infowmation attached.",
       "name": "Expiwation"
     }
   },
+  "fish-caught-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow *boops uuw nose* da cowwesponding fish caught scowe, as detewmined by Vowuspa.",
+      "name": "Fish Caught Wank"
+    }
+  },
+  "fish-caught-score": {
+    "displayProperties": {
+      "description": "Da sum of fish uu've angwed.",
+      "name": "Fish Caught Scowe"
+    }
+  },
+  "fish-weight-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow da cowwesponding fish weight scowe, as detewmined by Vowuspa.",
+      "name": "Fish Weight Wank"
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "description": "Da biggest catch on wecowd.",
+      "name": "Fish Weight Scowe"
+    }
+  },
+  "gild-score": {
+    "displayProperties": {
+      "description": "Da exhaustive and totaw count of seaw giwding.",
+      "name": "Giwd Scowe"
+    }
+  },
+  "gild-score-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow da cowwesponding giwd scowe, as detewmined by Vowuspa.",
+      "name": "Giwd Scowe Wank"
+    }
+  },
+  "interval-score": {
+    "displayProperties": {
+      "description": "This wecowd's wemaining scowe vawue ovew its totaw scowe vawue.",
+      "name": "Scowe Vawue"
+    }
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "description": "Mystewious test nodes awe scattewed acwoss Maws. (・`ω´・) What is theiw puwpose? UwU",
+      "name": "Watent Memowies"
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "description": "Da Weadewboawds wank fow da cowwesponding twiumph scowe, as detewmined by Vowuspa.",
+      "name": "Wegacy Scowe Wank"
+    }
+  },
+  "legacy-triumph-score": {
+    "displayProperties": {
+      "description": "Totaw scowe of aww compweted wegacy Twiumphs.\n\nThis vawue was cawcuwated by Bungie.",
+      "name": "Wegacy Twiumph Scowe"
+    }
+  },
+  "lifetime-triumph-score": {
+    "displayProperties": {
+      "description": "A combination of aww compweted active and wegacy Twiumph scowes.\n\nThis vawue was cawcuwated by Bungie.",
+      "name": "Wifetime Twiumph Scowe"
+    }
+  },
   "medal-api-dev": {
     "displayProperties": {
       "description": "_Bewawe da Awchitects._\nThis pwayew buiwds with Bungie's API.",
       "name": "Bungie API Devewopew"
+    },
+    "itemTypeDisplayName": "Speciaw"
+  },
+  "medal-beta": {
+    "displayProperties": {
+      "description": "_Awawded to pwayews who pawticipated in da Destiny 2 Beta._",
+      "name": "Da Fiwst Wave"
     },
     "itemTypeDisplayName": "Speciaw"
   },
@@ -126,6 +208,13 @@
     },
     "itemTypeDisplayName": "Speciaw"
   },
+  "medal-civilian": {
+    "displayProperties": {
+      "description": "_If wowkpwace heawth and safety had any idea what was going on ovew hewe, it'd be shut down fastew than Wasputin when an isoscewes twiangwe dwops out of spooky FTW._",
+      "name": "Civiwian"
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
   "medal-developer": {
     "displayProperties": {
       "description": "_Cweatow of Bwaytech._\nThis pwayew cweated da app thwough which uu'we weading this toowtip."
@@ -139,12 +228,25 @@
     },
     "itemTypeDisplayName": "Speciaw"
   },
+  "medal-guardian": {
+    "displayProperties": {
+      "description": "_Uu awe a Guawdian: da embodiment of aww that is and may be. Uuw potentiaw unmatched, uu awone can bwing change to da Sow system on gwand scawes._",
+      "name": "Guawdian"
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
   "medal-icicle": {
     "displayProperties": {
       "description": "\"I annoyed Tom and aww I got was this stupid medaw\"",
-      "name": "Icicwe#6310"
+      "name": "\"shattewed\" ow something"
     },
     "itemTypeDisplayName": "Speciaw"
+  },
+  "medal-one-time": {
+    "displayProperties": {
+      "description": "_Fund da devewopew's insatiabwe hungew fow wamen and dumpwings._"
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
   "medal-patron": {
     "displayProperties": {
@@ -155,14 +257,21 @@
   },
   "medal-researcher": {
     "displayProperties": {
-      "description": "_One of few suwviving weseawchews who've escaped da tweachewy of Cwovis Bway._\nAn invawuabwe Patweon subscwibew.",
+      "description": "_As one of few suwviving weseawchews who've escaped da tweachewy of Cwovis Bway, uu now stand as a beacon of knowwedge and hope._",
       "name": "Weseawchew"
+    },
+    "itemTypeDisplayName": "Bwaytech Suppowtew"
+  },
+  "medal-seraph": {
+    "displayProperties": {
+      "description": "_Join Wasputin's peacekeeping fowce and wowk cwosewy with da Wawmind and wetuwn peace to da Sow system. Uuw contwibutions awe beyond invawuabwe._",
+      "name": "Sewaph"
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
   "medal-submind": {
     "displayProperties": {
-      "description": "_A fwagment of da Wawmind._\nAn invawuabwe Patweon subscwibew."
+      "description": "_A pawt of da vewy fabwic fwom which Bwaytech is weaved, uu stand awong side Chawwemagne, Mawahayati, and Vowuspa. Uuw actions enabwe gweatew things to come to pass._"
     },
     "itemTypeDisplayName": "Bwaytech Suppowtew"
   },
@@ -179,30 +288,6 @@
       "name": "Cwyptawch"
     },
     "itemTypeDisplayName": "Bwaytech Twanswatow"
-  },
-  "interval-score": {
-    "displayProperties": {
-      "description": "This wecowd's wemaining scowe vawue ovew its totaw scowe vawue.",
-      "name": "Scowe Vawue"
-    }
-  },
-  "latent-memories": {
-    "displayProperties": {
-      "description": "Mystewious test nodes awe scattewed acwoss Maws. (・`ω´・) What is theiw puwpose? UwU",
-      "name": "Watent Memowies"
-    }
-  },
-  "legacy-triumph-score": {
-    "displayProperties": {
-      "description": "Totaw scowe of aww compweted wegacy Twiumphs.",
-      "name": "Wegacy Twiumph Scowe"
-    }
-  },
-  "lifetime-triumph-score": {
-    "displayProperties": {
-      "description": "A combination of aww compweted active and wegacy Twiumph scowes.",
-      "name": "Wifetime Twiumph Scowe"
-    }
   },
   "platform-battlenet": {
     "displayProperties": {
@@ -283,6 +368,12 @@
       "name": "Wost *sweats* Sectows"
     }
   },
+  "push-notification-event-daily-vendor-banshee44": {
+    "displayProperties": {
+      "description": "As mastew weaponsmith fow da Towew, Banshee suppwies Guawdians with onwy da best.",
+      "name": "Banshee-44 Wegendawies"
+    }
+  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "description": "Pwedictive and weaw time insights fow pwudent Guawdians. Data-dwiven fowecasts, wisk indicatows, and pewsonawized wecommendations fow confident decision-making. Nevew weave da comfowt of uuw jumpship again without being pewfectwy pwepawed! OwO",
@@ -312,6 +403,12 @@
       "name": "Ada-1 Shadews"
     }
   },
+  "push-notification-event-weekly-vendor-tess-bright": {
+    "displayProperties": {
+      "description": "Tess is twying to move some specific pwoducts. Got any Bwight Dust? UwU",
+      "name": "Evewvewse Bwight Dust Sawes"
+    }
+  },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
       "description": "A peddwew of stwange cuwios, Xûw's motives awe not his own. He bows to his distant mastews, da Nine.",
@@ -326,13 +423,13 @@
   },
   "remove-record-bookmark": {
     "displayProperties": {
-      "description": "Wemove this bookmawk.\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app.",
+      "description": "Wemove this bookmawk.\n_If enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app._",
       "name": "Wemove Bookmawk"
     }
   },
   "remove-record-track": {
     "displayProperties": {
-      "description": "Wemove this wecowd fwom \"Twacked Wecowds\"\nIf enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app.",
+      "description": "Wemove this wecowd fwom \"Twacked Wecowds\"\n_If enabwed, this action syncs with uuw Bwaytech pwofiwe and wiww be wefwected whewevew uu use da app._",
       "name": "Untwack Wecowd"
     }
   },
@@ -342,16 +439,27 @@
       "name": "Scowe Vawue"
     }
   },
-  "stat-damage-falloff": {
+  "seal-score": {
     "displayProperties": {
-      "description": "Appwoximate distances whewe damage fawwoff begins fow hipfiwe and ADS (aim down sights).",
-      "name": "Damage Fawwoff"
+      "description": "Da sum of seaws uu've compweted.",
+      "name": "Seaw Scowe"
     }
   },
-  "stat-reload-time": {
+  "seal-score-rank": {
     "displayProperties": {
-      "description": "Da time it takes fow this weapon to compwete a fuww wewoad *boops uuw nose* and fiwe. This vawue is based onwy on da wewoad speed stat and is unaffected by pewks.",
-      "name": "Wewoad Time"
+      "description": "Da Weadewboawds wank fow da cowwesponding seaw scowe, as detewmined by Vowuspa.",
+      "name": "Seaw *wuns away* Scowe Wank"
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "description": "Vawious XP bonuses can be unwocked by pwogwessing da season pass."
+    }
+  },
+  "subscriber-benefits": {
+    "displayProperties": {
+      "description": "- Showten uuw addwess fwom a bunch of wong numbews to https://bway.tech/@/CoowMom69. Emoji suppowted 💩\n- Sewect a defauwt chawactew fow uuw unique addwess to defauwt to when uu don't incwude a chawactew identitifew\n- Highwight a speciaw twiumph ow an impwessive stat twackew fow shawed wink images and da Wegend page\n- Compawe da diffewence between two adjacent pwayews on Weadewboawds\n- Da option to update uuw pwofiwe's Weadewboawds data and weassess aww weadewboawds on demand\n- Weceive updates such as new bwog posts by emaiw\nJoin da discussion in Discowd to steew da ship and and see what's in da pipes! OwO",
+      "name": "Subscwibew Benefits"
     }
   },
   "tooltip-error": {
@@ -370,6 +478,12 @@
     "displayProperties": {
       "description": "Uuw stats awe twacked and exposed by *sweats* da API via sevewaw diffewent systems; histowicaw stats awe avaiwabwe fow exotic weapons and twack kiwws pwiow to any kiww *bwushes* twackews being enabwed.",
       "name": "Unique Weapon Kiwws"
+    }
+  },
+  "well-rested": {
+    "displayProperties": {
+      "description": "XP gains incweased by 2x fow uuw fiwst 5 Season Wanks this week.\n\nCompweting Seasonaw Chawwenges gwants da most pwogwess, fowwowed by bounties and quests.",
+      "name": "Weww Wested"
     }
   }
 }

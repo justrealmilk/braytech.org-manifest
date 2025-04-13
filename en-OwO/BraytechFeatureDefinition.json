@@ -24,7 +24,7 @@
   },
   "activity-series": {
     "displayProperties": {
-      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies",
+      "description": "Twiumph undew da most pewiwous conditions, wepowts of uuw fiweteams' fiwst victowies against ouw gweatest advewsawies.",
       "name": "Sewies"
     }
   },
@@ -89,8 +89,13 @@
   },
   "clan-about": {
     "displayProperties": {
-      "description": "About uuw cwan and what it stands fow",
-      "name": "Cwan"
+      "description": "About uuw cwan and what it stands fow"
+    }
+  },
+  "clan-historical-stats": {
+    "displayProperties": {
+      "description": "Compawe pwayews ovew stats, bwoken down by activity mode.\n\nFow mowe infowmation on da accuwacy of these stats, check out [Fwequentwy Asked Questions](/addendums/faq).",
+      "name": "Histowicaw Stats"
     }
   },
   "clan-relationships": {
@@ -109,12 +114,6 @@
     "displayProperties": {
       "description": "Take action on cwan mattews and membews",
       "name": "Administwation"
-    }
-  },
-  "clan-stats": {
-    "displayProperties": {
-      "description": "Compawe _Histowicaw Stats_ fow sevewaw activity modes acwoss aww cwan membews",
-      "name": "Histowicaw Stats"
     }
   },
   "collections": {
@@ -147,6 +146,11 @@
       "name": "Pattewns \u0026 Catawysts"
     }
   },
+  "collections-sets": {
+    "displayProperties": {
+      "description": "Cuwated cowwections of pwecious goods fwom specific pwaces incwuding waids and dungeons."
+    }
+  },
   "commendations": {
     "displayProperties": {
       "description": "Cewebwate uuw fiweteam's successes and ૮ ˶ᵔ ᵕ ᵔ˶ ა awawd them tokens of uuw thoughtfuwness"
@@ -154,8 +158,14 @@
   },
   "credits": {
     "displayProperties": {
-      "description": "About da Guawdians who make it possibwe",
+      "description": "Da Guawdians who make it possibwe",
       "name": "Cwedits"
+    }
+  },
+  "dresstiny": {
+    "displayProperties": {
+      "description": "Wewcome to da fashion show. Take uuw time, bwowse a wittwe, ow pewhaps stawt a twend...",
+      "name": "Dwesstiny"
     }
   },
   "faq": {
@@ -170,17 +180,6 @@
       "name": "Fiweteam Monitow"
     }
   },
-  "inspect-equipment": {
-    "displayProperties": {
-      "description": "Aww item attwibutes; stats, pewks, and mods"
-    }
-  },
-  "inspect-lore": {
-    "displayProperties": {
-      "description": "Wead this item's stowy",
-      "name": "Wowe"
-    }
-  },
   "journey": {
     "displayProperties": {
       "description": "Navigate uuw Guawdian's jouwney fwom New Wight to Pawagon",
@@ -189,14 +188,19 @@
   },
   "leaderboards": {
     "displayProperties": {
-      "description": "Pwayew wanks fow competitive Guawdians",
+      "description": "Cwimb da wanks and see how uu measuwe up! OwO Compawe scowes acwoss Active Twiumphs, Wegacy Twiumphs, Seaws, Giwds, and Cowwections—individuawwy ow with uuw cwan.",
       "name": "Weadewboawds"
     }
   },
   "legend": {
     "displayProperties": {
-      "description": "Wife and death awe *sweats* wiaw's toows. Weave uuw own wie. Dispway this summawy pwoudwy befowe uuw fwiends and foes.",
+      "description": "Uuw stowy, uuw wegend. A detaiwed chwonicwe of uuw Guawdian's accompwishments and stats, weady to inspiwe awwies and intimidate foes.",
       "name": "Wegend"
+    }
+  },
+  "manifest": {
+    "displayProperties": {
+      "description": "An awchive of manifest vewsions and definitions."
     }
   },
   "maps": {
@@ -217,12 +221,18 @@
   },
   "quests-bounties": {
     "displayProperties": {
-      "description": "Aww of da sewected Guawdian's bounties."
+      "description": "Da opewatives of da Towew and inhabitants spwawwed accwoss da system haz tasks fow uu. *boops uuw nose* They offew wich expewiences and othew cuwwencies fow theiw compwetion.\n\nThese awe aww of da sewected Guawdian's bounties."
+    }
+  },
+  "quests-pathfinder": {
+    "displayProperties": {
+      "description": "Da Pathfindew is an astwonomicaw instwument, guiding Guawdians to da tweasuwes of da cosmos, whiwe awwowing them to define theiw own jouwney.",
+      "name": "Pathfindew"
     }
   },
   "settings": {
     "displayProperties": {
-      "description": "Account, theme, wocaw data, item visibiwity, *bwushes* wanguage, devewopew, twoubweshooting"
+      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech."
     }
   },
   "settings-advanced": {
@@ -230,9 +240,10 @@
       "description": "Pewfowmance, debugging, and stowage management. No one haz fun hewe."
     }
   },
-  "settings-common": {
+  "settings-legend": {
     "displayProperties": {
-      "description": "Destiny pwofiwe, settings synchwonisation, wanguage, item visibiwity, theme, and mowe—these settings affect how uu enjoy *wuns away* Bwaytech."
+      "description": "Bwandish uuw pwofiwe with a unique usewname, sewect a *sweats* highwight, choose a defauwt chawactew fow shawed winks, and mowe.",
+      "name": "Wegend"
     }
   },
   "settings-push-notifications": {
@@ -240,9 +251,15 @@
       "description": "Contwow how Bwaytech weaches uu when uu'we not using it."
     }
   },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "description": "Suppowt Bwaytech's devewopment and get \"wizz'd up\" with benefits.",
+      "name": "Subscwiptions"
+    }
+  },
   "triumphs": {
     "displayProperties": {
-      "description": "Wecowds uuw Guawdian haz achieved thwough theiw twiaws",
+      "description": "Twiumphs uuw Guawdian haz achieved thwough theiw twiaws.",
       "name": "Twiumphs"
     }
   },
@@ -284,8 +301,14 @@
   },
   "triumphs-unredeemed": {
     "displayProperties": {
-      "description": "It's time to wowk those fingews and wedeem some twumphs.",
+      "description": "It's time to wowk those fingews and wedeem some twiumphs.",
       "name": "Unwedeemed Twiumphs"
+    }
+  },
+  "triumphs-user-hidden": {
+    "displayProperties": {
+      "description": "Twiumphs which uu've opted to hide. Who huwt uu? UwU",
+      "name": "Usew Hidden Twiumphs"
     }
   },
   "weeklies": {
