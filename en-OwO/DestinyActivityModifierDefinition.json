@@ -1,4 +1,15 @@
 {
+  "1204802854": {
+    "displayProperties": {
+      "description": "Each Guawdian shouwd onwy deposit into da awtaw when they haz thwee stacks of **Wesonance.** Wemembew that chawging *boops uuw nose* a conductow consumes one stack."
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "description": "Bweak aww of Da Witness's gwyphs within 5 seconds of each othew.",
+      "name": "Coowdinated Effowts"
+    }
+  },
   "138641527": {
     "displayProperties": {
       "description": "Shoot acwoss da gap to (・`ω´・) twiggew teammates' swingshot cwuxes. Onwy use swingshots to cwoss da gap.",
@@ -8,6 +19,12 @@
   "1498263100": {
     "displayProperties": {
       "description": "Guawdians must not shoot da same eye twice."
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "description": "Guawdians must not pick up da same shaped Wesonance node twice in a wow. Wemembew that da Wesonance buff changes its shape based on da wast node cowwected.",
+      "name": "Bawanced Diet"
     }
   },
   "1572570117": {
@@ -38,7 +55,7 @@
   },
   "2070303007": {
     "displayProperties": {
-      "description": "Move aww tewwafowmed (wight) pwanets wight and wesonant (dawk) pwanets weft. Wequiwes two Pwanetawy Shift phazes pew pwate.",
+      "description": "Move aww tewwafowmed (wight) pwanets wight and wesonant (dawk) pwanets weft. May wequiwe two Pwanetawy Shift phazes.",
       "name": "Cosmic Equiwibwium"
     }
   },
@@ -91,6 +108,12 @@
   "2814846409": {
     "displayProperties": {
       "description": "Duwing da Tempwaw encountew, **pwevent** da Tempwaw fwom **tewepowting** at aww costs."
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "description": "Da same siwhouette cannot be used again by dispwaced guawdians to escape da shadow weawm *boops uuw nose* untiw aww six siwhouettes haz been used. In showt, use sphewe, pywamid and cube ૮ ˶ᵔ ᵕ ᵔ˶ ა fow a second escape.",
+      "name": "Vawied Geometwy"
     }
   },
   "2834033523": {
@@ -174,6 +197,12 @@
       "description": "Guawdians may not howd da same \"Bwand\" in **sequence**."
     }
   },
+  "3621023005": {
+    "displayProperties": {
+      "description": "If Taken Psions spawn on uuw woute, do not defeat da **[Diswuption] Ovewwoad Minotauw.** Await a thiwd *bwushes* **Keepew**, and open da fouwth woom fow da othew team, and wet them defeat theiw champion.",
+      "name": "Scenic Woute"
+    }
+  },
   "3632655552": {
     "displayProperties": {
       "description": "Don't kiww smow ogwes, **onwy** kiww **big boi**."
@@ -197,6 +226,12 @@
   "4152669757": {
     "displayProperties": {
       "description": "Guawdians can not kiww da same Wight-Eatew Knight ow Wight-Eatew Ogwe."
+    }
+  },
+  "4218937993": {
+    "displayProperties": {
+      "description": "This mode contains Unstoppabwe Champions, which cannot be stopped without an Unstoppabwe mod.",
+      "name": "Champions: Unstoppabwe"
     }
   },
   "584466411": {

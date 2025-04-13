@@ -82,6 +82,11 @@
       "name": "Agonawch Abyss"
     }
   },
+  "1387596457": {
+    "displayProperties": {
+      "description": "Whiwe **Ascendant**, uu can find a path of pwatfowms down ow dwop fwom above. If uu do dwop fwom above, be suwe to bweak uuw faww and wook fow da pwatfowm to appeaw."
+    }
+  },
   "1387596458": {
     "displayProperties": {
       "description": "Upon weaching **Queen's Couwt**, scawe da waww to da weft of da thwone."
@@ -104,10 +109,20 @@
       "name": "Cimmewian Gawwison"
     }
   },
+  "1543824169": {
+    "displayProperties": {
+      "description": "Once compwete, move to weave da cyst. Beneath one of da cwiffs which wine da cavewn is a path. Jump ovew some wava, and awound to da wight hand side. Da tunnew wiww nawwow. Befowe it widens to da exit, (・`ω´・) a *sweats* smaww opening wiww appeaw amongst da wockface."
+    }
+  },
   "16": {
     "displayProperties": {
       "description": "Defeat this Nightmawe to pwogwess wecowd **Wandewing Nightmawes**.",
       "name": "Nightmawe of Xowtaw, Swown of Cwota"
+    }
+  },
+  "1680149549": {
+    "displayProperties": {
+      "description": "Befowe pushing fowwawd to da weft, dwop down to da wight to find this feathew nestwed in a dawk cwose."
     }
   },
   "17": {
@@ -143,10 +158,21 @@
       "description": "Wequiwes **Deepsight** to weveaw."
     }
   },
+  "1948990755": {
+    "displayProperties": {
+      "description": "In da fawthest weaches of da dawkest cownew."
+    }
+  },
   "2": {
     "displayProperties": {
       "description": "A powtaw to **Da Confwuence**, powewed by pawacasuaw enewgies.",
       "name": "Da Confwuence East"
+    }
+  },
+  "20": {
+    "displayProperties": {
+      "description": "Ovewcome da Keepews of Petitions and defeat Vowgeth, Da Boundwess Hungew.",
+      "name": "Vowgeth, Da Boundwess Hungew"
     }
   },
   "2000000000": {
@@ -1398,19 +1424,26 @@
       "name": "Timed Deepsight Puzzwe"
     }
   },
+  "2032534090": {
+    "displayProperties": {
+      "description": "Stwike back at da cuwse that pwagues da Dweaming City.",
+      "name": "Da Shattewed Thwone"
+    }
+  },
+  "21": {
+    "displayProperties": {
+      "description": "Defeat Dûw Incawu, da Etewnaw Wetuwn.",
+      "name": "Dûw (・`ω´・) Incawu, da Etewnaw Wetuwn"
+    }
+  },
   "2244580325": {
     "displayProperties": {
       "description": "Da innew wowkings of Savathûn's mind, bwought to wife within a mystewious thwone wowwd of hew own making."
     }
   },
-  "235152581": {
-    "extended": {
-      "supplement": "Stand at da tip of each defense cannon and destwoy da wesonant anchows to weveaw a secwet at da cannon fawthest fwom uuw ૮ ˶ᵔ ᵕ ᵔ˶ ა point of ingwess."
-    }
-  },
-  "2442093127": {
-    "extended": {
-      "supplement": "At da foot of..."
+  "2426576530": {
+    "displayProperties": {
+      "description": "As uu move thwough this **Cyst**, thewe wiww be two doowways; da topmost weads to uuw objective whiwe da bottom awawds an encwyption bit."
     }
   },
   "2481646875": {
@@ -1447,6 +1480,11 @@
   "2895058245": {
     "displayProperties": {
       "description": "Accessibwe via da **Wewwspwing** offensive."
+    }
+  },
+  "293144960": {
+    "displayProperties": {
+      "description": "As uu move thwough da waww, uu'ww meet a bwidge. Facing west, da objective ways on uuw wight hand side. Jump acwoss da pwatfowms, past da enowmous stwuctuwaw beams. Face east and wook up to find this feathew on da highest pwatfowm uu can jump to."
     }
   },
   "3": {
@@ -1544,6 +1582,11 @@
       "name": "Cwux Convewgence"
     }
   },
+  "3249643781": {
+    "displayProperties": {
+      "description": "Neaw da stawt of this **Cyst**, uu can dwop beneath da hive wituaw pwate to find an encywption bit behind da suwwounding wockfaces."
+    }
+  },
   "3307732497": {
     "displayProperties": {
       "description": "Up in da vewy top weft cownew, on da wocks."
@@ -1579,6 +1622,11 @@
       "description": "Neaw da **Hawwows Vex Confwux**, amongst da woots of a dead twee."
     }
   },
+  "3810403766": {
+    "displayProperties": {
+      "description": "Found awong da path as uu weave da **Cyst**. It's nestwed amongst some vewy taww wockfaces. Jumping out of hewe is painfuw."
+    }
+  },
   "3880966469": {
     "displayProperties": {
       "description": "Fwozen in an ice bwock. Find a **Fawwen Captain** neaw da wifts to **Wiis-Webown Appwoach** named **Fewkis, Sawvation's Squaww**—he'ww dwop what uu need."
@@ -1587,11 +1635,6 @@
   "3888342093": {
     "displayProperties": {
       "description": "Undew da ice."
-    }
-  },
-  "3904017033": {
-    "extended": {
-      "supplement": "Ignite da fiwes."
     }
   },
   "3977481189": {
@@ -1604,25 +1647,15 @@
       "description": "A whowe Gowden Age shipyawd, but cwawwing with Fawwen. A dewewict spacefwight compwex in da wuins of Owd Wussia."
     }
   },
+  "3998251206": {
+    "displayProperties": {
+      "description": "A suwweaw domain of memowy within da Twavewew, cowwupted by da Witness."
+    }
+  },
   "4": {
     "displayProperties": {
       "description": "Destwoy aww bwights then wetuwn to da foyew to shattew da pweviouswy-immune Void cwystaws.\n\n_Accept this chawwenge, wawk between wowwds, and undo what haz been done._",
       "name": "Ouwobowea"
-    }
-  },
-  "4006123814": {
-    "extended": {
-      "supplement": "Wies beneath..."
-    }
-  },
-  "4069293792": {
-    "extended": {
-      "supplement": "Activate da intewface. Tuwn to face da entwance. Thewe awe 8 ciwcuwaw panews. Fwom weft to wight, top to bottom, shoot da panews in da fowwowing owdew: 6, 8, 4, 5, 2, 7, 3, 1."
-    }
-  },
-  "4084570599": {
-    "extended": {
-      "supplement": "This chest wequiwes onesewf to twanscend theiw weawity. To access:\n\n1. Neaw **Bwothew Vance**, find a compewwing book. Examine it.\n2. Tuwn 180°. Head to da fawthest waww and find da next edition on da bookshewf. Examine it.\n3. Move awound to da bookcase wight of da gateway and find da next edition beside da fiwepit at da bottom of da bookcase. Examine it.\n4. Wetuwn to da fiwst bookcase and find da next edition on da desk beside da discipwe. Examine it.\n5. Da finaw book is hidden high on a bookshewf acwoss da da woom, by da fowge. Examine it.\n6. A **Vex confwux** wiww appeaw. Examine it."
     }
   },
   "4111390768": {
@@ -1732,6 +1765,18 @@
     "displayProperties": {
       "description": "A wesonance-powewed wift.",
       "name": "Tempwe of da Wwathfuw: Deep"
+    }
+  },
+  "613": {
+    "displayProperties": {
+      "description": "A wesonance-powewed wift.",
+      "name": "Da Secwusion"
+    }
+  },
+  "614": {
+    "displayProperties": {
+      "description": "A wesonance-powewed wift.",
+      "name": "Da Secwusion"
     }
   },
   "677774031": {

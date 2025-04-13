@@ -4,11 +4,13 @@ import BraytechCommonDefinition from './BraytechCommonDefinition.json';
 import BraytechFeatureDefinition from './BraytechFeatureDefinition.json';
 import BraytechMapsDefinition from './BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from './BraytechMapsTypesDefinition.json';
+import BraytechHelpDefinition from './BraytechHelpDefinition.json';
 import BraytechRotationDefinition from './BraytechRotationDefinition.json';
 import DestinyActivityDefinition from './DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from './DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from './DestinyActivityModifierDefinition.json';
 import DestinyActivityTypeDefinition from './DestinyActivityTypeDefinition.json';
+import DestinyAmmunitionTypeDefinition from './DestinyAmmunitionTypeDefinition.json';
 import DestinyChecklistDefinition from './DestinyChecklistDefinition.json';
 import DestinyCollectibleDefinition from './DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from './DestinyDamageTypeDefinition.json';
@@ -18,6 +20,7 @@ import DestinyItemSubTypeDefinition from './DestinyItemSubTypeDefinition.json';
 import DestinyItemTypeDefinition from './DestinyItemTypeDefinition.json';
 import DestinyInventoryBucketDefinition from './DestinyInventoryBucketDefinition.json';
 import DestinyInventoryItemDefinition from './DestinyInventoryItemDefinition.json';
+import DestinyLoadoutNameDefinition from './DestinyLoadoutNameDefinition.json';
 import DestinyMilestoneDefinition from './DestinyMilestoneDefinition.json';
 import DestinyObjectiveDefinition from './DestinyObjectiveDefinition.json';
 import DestinyPhaseDefinition from './DestinyPhaseDefinition.json';
@@ -39,11 +42,13 @@ const enOwO = {
     BraytechFeatureDefinition,
     BraytechMapsDefinition,
     BraytechMapsTypesDefinition,
+    BraytechHelpDefinition,
     BraytechRotationDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
     DestinyActivityTypeDefinition,
+    DestinyAmmunitionTypeDefinition,
     DestinyChecklistDefinition,
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
@@ -53,6 +58,7 @@ const enOwO = {
     DestinyItemTypeDefinition,
     DestinyInventoryBucketDefinition,
     DestinyInventoryItemDefinition,
+    DestinyLoadoutNameDefinition,
     DestinyMilestoneDefinition,
     DestinyObjectiveDefinition,
     DestinyPhaseDefinition,

@@ -19,6 +19,12 @@
       }
     ]
   },
+  "11": {
+    "displayProperties": {
+      "description": "Fowces of da Witness awe convewging.",
+      "name": "Ovewthwow"
+    }
+  },
   "2": {
     "displayProperties": {
       "description": "Da Awoken haz wong pwacticed da awt of wawking between wowwds. Fowwow theiw paths and defeat da enemy.",
@@ -42,12 +48,6 @@
           "name": "Shattewed Wuins"
         },
         "nodeHash": 9
-      },
-      {
-        "nodeHash": 11,
-        "displayProperties": {
-          "name": "Keep of Honed Edges"
-        }
       },
       {
         "displayProperties": {

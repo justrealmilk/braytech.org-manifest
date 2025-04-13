@@ -6,11 +6,13 @@
   },
   "2000": {
     "displayProperties": {
+      "description": "Appwoximate distances whewe damage fawwoff begins fow hipfiwe and ADS (aim down sights).",
       "name": "Damage Fawwoff"
     }
   },
   "3000": {
     "displayProperties": {
+      "description": "Da time it takes fow this weapon to compwete a fuww wewoad *boops uuw nose* and fiwe. This vawue is based onwy on da wewoad speed stat and is unaffected by pewks.",
       "name": "Wewoad Time"
     }
   }
