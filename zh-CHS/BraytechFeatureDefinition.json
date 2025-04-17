@@ -161,6 +161,18 @@
       "description": "检查你的守护者是否为下一场战斗做好充分准备"
     }
   },
+  "character-breakdown": {
+    "displayProperties": {
+      "name": "概览",
+      "description": "护者装备与准备状态的概述。"
+    }
+  },
+  "character-inventory": {
+    "displayProperties": {
+      "name": "库存",
+      "description": "邮政局长尽职尽责地监管投递、信息和遗失物品。\n也许他们也能帮助你处理其他供应和材料。"
+    }
+  },
   "character-vault": {
     "displayProperties": {
       "name": "保险库",
@@ -189,6 +201,12 @@
     "displayProperties": {
       "name": "赏金",
       "description": "查看当前选定的角色所接受的赏金"
+    }
+  },
+  "quests-pathfinder": {
+    "displayProperties": {
+      "name": "寻路者",
+      "description": "寻路者是一台天文仪器，引导守护者探索宇宙的宝藏，同时让他们定义自己的旅程。"
     }
   },
   "activity": {
