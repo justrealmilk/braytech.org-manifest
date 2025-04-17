@@ -104,6 +104,18 @@
     },
     "itemTypeDisplayName": "特殊"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "活力充沛",
+      "description": "本周前5个赛季等级的经验值收益增加了2倍。\n\n完成赛季挑战可以获得最大进度，其次是赏金和任务。"
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "季票经验值奖励",
+      "description": "通过升级季票等级，可以解锁各种经验值奖励。"
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "装备光等",
@@ -188,10 +200,40 @@
       "description": "所有已完成的现有和传承成就的得分总和。"
     }
   },
+  "collection-score": {
+    "displayProperties": {
+      "name": "收藏品得分",
+      "description": "您收集并作为武器库一部分存放的物品总和。"
+    }
+  },
+  "active-score-rank": {
+    "displayProperties": {
+      "name": "活跃分数排名",
+      "description": "由Voluspa确定的相应活跃分数的排行榜排名。"
+    }
+  },
+  "seal-score-rank": {
+    "displayProperties": {
+      "name": "印章得分排名",
+      "description": "由Voluspa确定的相应印章分数的排行榜排名。"
+    }
+  },
+  "legacy-score-rank": {
+    "displayProperties": {
+      "name": "传承得分排名",
+      "description": "由Voluspa确定的相应传承分数的排行榜排名。"
+    }
+  },
+  "collection-score-rank": {
+    "displayProperties": {
+      "name": "收藏品得分排名",
+      "description": "由Voluspa确定的相应收藏品分数的排行榜排名。"
+    }
+  },
   "total-resets": {
     "displayProperties": {
       "name": "总重置次数",
-      "description": "All seasons' resets. Tracks from Season 4 onward."
+      "description": "所有赛季的重置。从第四赛季开始追踪。"
     }
   },
   "artifact-power-bonus": {

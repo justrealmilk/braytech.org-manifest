@@ -1,7 +1,38 @@
 {
+  "1000000001": {
+    "displayProperties": {
+      "name": "限时成就",
+      "description": "并非所有的成就都永恒。一些仅在有限时间内可用。这是开发者精心挑选的成就清单，这些成就将在下个赛季变得不可获得。"
+    }
+  },
   "1000000005": {
     "displayProperties": {
       "name": "所有挑战"
+    }
+  },
+  "1000000007": {
+    "displayProperties": {
+      "name": "所有异域催化"
+    }
+  },
+  "1062988660": {
+    "displayProperties": {
+      "name": "苍白之心"
+    }
+  },
+  "2968370335": {
+    "displayProperties": {
+      "name": "先锋"
+    }
+  },
+  "1190294990": {
+    "displayProperties": {
+      "name": "智谋"
+    }
+  },
+  "1289679000": {
+    "displayProperties": {
+      "name": "熔炉"
     }
   }
 }
