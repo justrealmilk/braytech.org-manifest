@@ -198,7 +198,7 @@
   "interval-score": {
     "displayProperties": {
       "name": "Score Value",
-      "description": "This record's remaining score value over its total score value."
+      "description": "The score value earned for this triumph."
     }
   },
   "presentation-node-score": {
