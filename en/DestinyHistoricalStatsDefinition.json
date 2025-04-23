@@ -44,6 +44,10 @@
     "statName": "Cleared",
     "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of activities entered!"
   },
+  "activitiesConquered": {
+    "statName": "Conquered",
+    "statDescription": "Total activities conquered."
+  },
   "secondsPlayed": {
     "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
   },
