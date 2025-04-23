@@ -50,6 +50,9 @@
   "secondsPlayed": {
     "statDescription": "Total time devoted to eliminating threats to the City. There's no such thing as too little time gifted."
   },
+  "secondsPlayedDistribution": {
+    "statDescription": "Time played relative to other activity modes."
+  },
   "fastestCompletionMsForActivity": {
     "statName": "Fastest"
   },
