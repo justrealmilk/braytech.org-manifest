@@ -93,7 +93,7 @@
     "children": {
       "presentationNodes": [
         {
-          "presentationNodeHash": 2864426310
+          "presentationNodeHash": 518565296
         }
       ],
       "collectibles": [],
@@ -103,12 +103,6 @@
     },
     "excluded": [],
     "redacted": false
-  },
-  "2864426310": {
-    "hash": 2864426310,
-    "displayProperties": {
-      "presentationNodeHash": 518565296
-    }
   },
   "1000000004": {
     "hash": 1000000004,
