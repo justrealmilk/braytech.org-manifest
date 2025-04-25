@@ -47,6 +47,12 @@
       "description": "Hay múltiples fuentes de estadísticas en Destiny. Clan: [Estadísticas históricas](/clan/stats) se basa en el punto final de la API de HistoricalStats, mientras que otras aplicaciones obtienen sus datos de los PGCR (Post Game Carnage Reports), procesándolos ellas mismas. A veces, es difícil determinar cuál es la fuente de datos más precisa por varias razones.\n\nPara mostrar las estadísticas de la forma que se ve en Clan: estadísticas históricas, sería necesario descargar terabytes de datos de los servidores de Bungie y una potencia de cómputo significativa. ¡Es mucho! Dicho esto, son lo suficientemente precisas para una competición amistosa."
     }
   },
+  "5000000011": {
+    "displayProperties": {
+      "name": "Datos de cofres de región",
+      "description": "Algunos cofres de región, aunque están disponibles en el juego, están conectados incorrectamente a la API. Esto provoca que algunos cofres, especialmente los de la [Ciudad Onírica](/maps/the-dreaming-city), notifiquen erróneamente su estado.\n\nLos objetos de la lista de coleccionables cuyos datos pueden no ser fiables podrían estar marcados con un raya diagonal en su casilla."
+    }
+  },
   "5000000009": {
     "displayProperties": {
       "name": "Acerca de Voluspa",
@@ -57,12 +63,6 @@
     "displayProperties": {
       "name": "Rareza",
       "description": "A menudo nos preguntan, \"¿qué es el extraño porcentaje a la derecha de los coleccionables y los triunfos?\"\n\nEs un porcentaje de jugadores que descubrieron o canjearon el objeto. Cada pocos días, _Voluspa_ recopila datos de usuarios de _Braytech_ y registra quién tiene qué.\n\nSe viene discutiendo mucho sobre si es preciso o útil, pero lo cierto es que todas las estadísticas son inútiles y absurdas _a menos que_ se incluyeran todos y cada uno de los datos posibles.\n\nEs justo asumir que estas estadísticas están sesgadas hacia los jugadores casuales (puede que los porcentajes tiendan más al alza que a la baja, debido a la destreza y la atención de los usuarios que son monitoreados).\n\nCuando estén disponibles, los carteles informativos para estas estadísticas incluyen el número total de jugadores que se contabilizan como parte de esta métrica."
-    }
-  },
-  "5000000011": {
-    "displayProperties": {
-      "name": "Datos de cofres de región",
-      "description": "Algunos cofres de región, aunque están disponibles en el juego, están conectados incorrectamente a la API. Esto provoca que algunos cofres, especialmente los de la [Ciudad Onírica](/maps/the-dreaming-city), notifiquen erróneamente su estado.\n\nLos objetos de la lista de coleccionables cuyos datos pueden no ser fiables podrían estar marcados con un raya diagonal en su casilla."
     }
   }
 }

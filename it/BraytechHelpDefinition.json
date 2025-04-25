@@ -47,6 +47,12 @@
       "description": "Ci sono diverse fonti per le statistiche in Destiny. Le [Statistiche Storiche](/clan/stats) del clan sono basate sull'endpoint dell'API HistoricalStats mentre altri siti o app prendono le statistiche dai Riepiloghi (Schermata di Carneficina Post-Partita), elaborando questi dati autonomamente. È difficile constatare quale fonte abbia le statistiche più veritiere per varie ragioni.\n\nPer mostrare le statistiche come nella sezione Statistiche storiche del clan sarebbe richiesto scaricare terabyte di dati dai server Bungie e un alto potere computazionale. È tantissimo! Detto ciò, sono abbastanza precise per un'amichevole competizione."
     }
   },
+  "5000000011": {
+    "displayProperties": {
+      "name": "Dati dei forzieri della regione",
+      "description": "Alcuni forzieri della regione sono connessi incorrettamente all'API, nonostante siano disponibili correttamente nel gioco. Ciò fa sì che alcuni forzieri, in particolare quelli nella [Città Sognante](/maps/the-dreaming-city), riportino erroneamente il proprio stato.\n\nGli elementi della lista collezionabili che possono avere dati non affidabili sono contrassegnati da un segno diagonale nella propria casella."
+    }
+  },
   "5000000009": {
     "displayProperties": {
       "name": "A proposito di Voluspa",
@@ -57,12 +63,6 @@
     "displayProperties": {
       "name": "Rarità",
       "description": "Una domanda frequente è: \"Cos'è quella curiosa percentuale di fianco a collezionabili e trionfi?\"\n\nÈ la percentuale di giocatori che hanno scoperto o riscattato tale oggetto. Voluspa colleziona regolarmente i dati dagli utenti di Braytech e ne tiene traccia del progresso.\n\nQuesti dati sono un piccolo campione da perlopiù giocatori attivi ed è lecito ritenere che queste statistiche siano orientate verso i giocatori occasionali (le percentuali possono apparire più alte piuttosto che più basse a causa dell'abilità e dell'attenzione degli utenti che vengono monitorati).\n\nDove disponibile, i suggerimenti per queste statistiche includono il numero totale di giocatori che vengono conteggiati come parte di questa metrica."
-    }
-  },
-  "5000000011": {
-    "displayProperties": {
-      "name": "Dati dei forzieri della regione",
-      "description": "Alcuni forzieri della regione sono connessi incorrettamente all'API, nonostante siano disponibili correttamente nel gioco. Ciò fa sì che alcuni forzieri, in particolare quelli nella [Città Sognante](/maps/the-dreaming-city), riportino erroneamente il proprio stato.\n\nGli elementi della lista collezionabili che possono avere dati non affidabili sono contrassegnati da un segno diagonale nella propria casella."
     }
   }
 }
