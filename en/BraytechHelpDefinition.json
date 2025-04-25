@@ -19,7 +19,7 @@
     "hash": 5000000003,
     "displayProperties": {
       "name": "Keyboard shortcuts",
-      "description": "In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press , hold  to see available options, and  to return here."
+      "description": "In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press , hold  to see available options, and  to return here."
     },
     "itemType": 1
   },
@@ -59,7 +59,7 @@
     "hash": 5000000008,
     "displayProperties": {
       "name": "Clan: Historical Stats don't match",
-      "description": "There are multiple sources for stats in Destiny. Clan: [Historical Stats](/clan/stats) is based on the HistoricalStats API endpoint while other apps source their data from PGCRs (Post Game Carnage Reports), processing that data themselves. Sometimes, it's hard to determine source of data is more accurate for various reasons.\n\nTo display stats in the manner seen on Clan: Historical Stats would require downloading terabytes of data from Bungie servers and significant compute power. That's a lot! This said, they're accurate enough for some friendly competition."
+      "description": "There are multiple sources for stats in Destiny. Clan's [Historical Stats](/clan/stats) is based on the HistoricalStats API endpoint while other apps source their data from PGCRs (Post Game Carnage Reports), processing that data themselves. Sometimes, it's hard to determine which source of data is more accurate for various reasons.\n\nTo display stats in the manner seen on [Historical Stats](/clan/stats) would require downloading terabytes of data from Bungie servers and significant compute power–the number of clan members multiplied by the number of activities they've participated in. That's a lot! This said, they're accurate enough for some friendly competition. [Legend](/legend) uses a similar endpoint, AggregateActivityStats, which appears to be quite reliable for summing cleared activities."
     },
     "itemType": 1
   },
