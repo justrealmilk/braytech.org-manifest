@@ -35,7 +35,7 @@
     "hash": 5000000005,
     "displayProperties": {
       "name": "Widgets",
-      "description": "Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck."
+      "description": "Widgets are available on iOS, iPadOS, MacOS, and Android.\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration."
     },
     "itemType": 1
   },
