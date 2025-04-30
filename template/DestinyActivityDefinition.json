@@ -41,6 +41,9 @@
     "displayProperties": {
       "name": "PsiOps Battleground: Cosmodrome",
       "description": "The Lucent Hive are using stolen Guardian Light for some wicked purpose. Breach their stronghold and uncover their plot."
+    },
+    "originalDisplayProperties": {
+      "name": "PsiOps Battleground: Cosmodrome"
     }
   }
 }
