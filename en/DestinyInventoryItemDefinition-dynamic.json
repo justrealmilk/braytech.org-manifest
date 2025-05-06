@@ -2548,6 +2548,41 @@
   "1061828070": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1061828070.jpg"
   },
+  "1063872195": {
+    "backgroundColor": {
+      "red": 34,
+      "green": 37,
+      "blue": 60
+    }
+  },
+  "1063872196": {
+    "backgroundColor": {
+      "red": 80,
+      "green": 128,
+      "blue": 161
+    }
+  },
+  "1063872197": {
+    "backgroundColor": {
+      "red": 16,
+      "green": 24,
+      "blue": 48
+    }
+  },
+  "1063872198": {
+    "backgroundColor": {
+      "red": 51,
+      "green": 44,
+      "blue": 48
+    }
+  },
+  "1063872199": {
+    "backgroundColor": {
+      "red": 15,
+      "green": 23,
+      "blue": 48
+    }
+  },
   "1064781608": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1064781608.jpg"
   },
@@ -3968,6 +4003,13 @@
   "1607028779": {
     "displayProperties": {
       "presentationNodeHash": 1910954518
+    }
+  },
+  "1611948520": {
+    "backgroundColor": {
+      "red": 50,
+      "green": 57,
+      "blue": 62
     }
   },
   "1611948521": {
@@ -8777,6 +8819,48 @@
   "3013531032": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/3013531032.jpg"
   },
+  "3029657016": {
+    "backgroundColor": {
+      "red": 27,
+      "green": 28,
+      "blue": 49
+    }
+  },
+  "3029657017": {
+    "backgroundColor": {
+      "red": 28,
+      "green": 30,
+      "blue": 26
+    }
+  },
+  "3029657020": {
+    "backgroundColor": {
+      "red": 75,
+      "green": 24,
+      "blue": 24
+    }
+  },
+  "3029657021": {
+    "backgroundColor": {
+      "red": 20,
+      "green": 37,
+      "blue": 39
+    }
+  },
+  "3029657022": {
+    "backgroundColor": {
+      "red": 144,
+      "green": 119,
+      "blue": 104
+    }
+  },
+  "3029657023": {
+    "backgroundColor": {
+      "red": 22,
+      "green": 31,
+      "blue": 38
+    }
+  },
   "3030850318": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3030850318.jpg"
   },
@@ -8916,6 +9000,34 @@
   "3078552186": {
     "screenshot": "/static/images/screenshots/items/equipment/ships/3078552186.jpg"
   },
+  "3079989872": {
+    "backgroundColor": {
+      "red": 18,
+      "green": 66,
+      "blue": 64
+    }
+  },
+  "3079989873": {
+    "backgroundColor": {
+      "red": 61,
+      "green": 57,
+      "blue": 87
+    }
+  },
+  "3079989874": {
+    "backgroundColor": {
+      "red": 13,
+      "green": 35,
+      "blue": 51
+    }
+  },
+  "3079989875": {
+    "backgroundColor": {
+      "red": 21,
+      "green": 36,
+      "blue": 34
+    }
+  },
   "3079989876": {
     "backgroundColor": {
       "red": 191,
@@ -8928,6 +9040,34 @@
       "red": 65,
       "green": 75,
       "blue": 36
+    }
+  },
+  "3079989878": {
+    "backgroundColor": {
+      "red": 11,
+      "green": 13,
+      "blue": 18
+    }
+  },
+  "3079989879": {
+    "backgroundColor": {
+      "red": 14,
+      "green": 15,
+      "blue": 15
+    }
+  },
+  "3079989884": {
+    "backgroundColor": {
+      "red": 14,
+      "green": 20,
+      "blue": 37
+    }
+  },
+  "3079989885": {
+    "backgroundColor": {
+      "red": 82,
+      "green": 111,
+      "blue": 117
     }
   },
   "3081894944": {
@@ -10116,6 +10256,41 @@
       "red": 117,
       "green": 12,
       "blue": 10
+    }
+  },
+  "3598944128": {
+    "backgroundColor": {
+      "red": 15,
+      "green": 23,
+      "blue": 48
+    }
+  },
+  "3598944129": {
+    "backgroundColor": {
+      "red": 51,
+      "green": 44,
+      "blue": 48
+    }
+  },
+  "3598944130": {
+    "backgroundColor": {
+      "red": 16,
+      "green": 24,
+      "blue": 48
+    }
+  },
+  "3598944131": {
+    "backgroundColor": {
+      "red": 80,
+      "green": 128,
+      "blue": 161
+    }
+  },
+  "3598944132": {
+    "backgroundColor": {
+      "red": 34,
+      "green": 37,
+      "blue": 60
     }
   },
   "3600237168": {
