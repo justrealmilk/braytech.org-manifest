@@ -69,6 +69,12 @@
       "name": "Conqueror (Season 12)"
     }
   },
+  "2530001514": {
+    "displayProperties": {
+      "description": "The enigmatic Nine have once again summoned Guardians to partake in a trial. Prepare yourselves."
+    },
+    "showDescription": true
+  },
   "1000000001": {
     "hash": 1000000001,
     "displayProperties": {
@@ -86,7 +92,8 @@
       "metrics": [],
       "craftables": []
     },
-    "redacted": false
+    "redacted": false,
+    "showDescription": true
   },
   "1000000002": {
     "hash": 1000000002,
