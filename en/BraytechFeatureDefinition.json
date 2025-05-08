@@ -45,7 +45,7 @@
   "clan-roster-admin": {
     "hash": "clan-roster-admin",
     "displayProperties": {
-      "name": "Administration",
+      "name": "Admin",
       "description": "Take action on clan matters and members"
     },
     "to": "/clan/admin"
