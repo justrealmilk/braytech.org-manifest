@@ -213,7 +213,7 @@
       "name": "Transient Triumphs",
       "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
     },
-    "to": "/triumphs"
+    "to": "/triumphs/transient"
   },
   "triumphs-event-card": {
     "hash": "triumphs-event-card",
@@ -221,7 +221,7 @@
       "name": "Active Event Card",
       "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
     },
-    "to": "/triumphs"
+    "to": "/triumphs/event-card"
   },
   "journey": {
     "hash": "journey",
