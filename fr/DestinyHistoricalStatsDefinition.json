@@ -39,10 +39,10 @@
     "statName": "Frags de grande valeur"
   },
   "invasionKills": {
-    "statName": "Frags en tant qu'Intru"
+    "statName": "Frags en tant qu’intrus"
   },
   "invasionDeaths": {
-    "statName": "Morts en tant qu'Intru"
+    "statName": "Morts en tant qu’intrus"
   },
   "invaderKills": {
     "statName": "Intrus éliminés"
@@ -51,10 +51,10 @@
     "statName": "Morts des intrus"
   },
   "primevalDamage": {
-    "statName": "Dommage au Priomordial"
+    "statName": "Dommage au Primordial"
   },
   "primevalKills": {
-    "statName": "Priomordiaux éliminés"
+    "statName": "Primordiaux éliminés"
   },
   "motesDenied": {
     "statName": "Particules perdues"
