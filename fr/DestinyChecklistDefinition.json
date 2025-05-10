@@ -23,7 +23,7 @@
       "name": "Coffres scellés par la stase"
     },
     "entry": {
-      "prefix": "Artéfact",
+      "prefix": "Artefact",
       "name": "Coffre scellé par la stase"
     }
   },
@@ -61,7 +61,7 @@
       "prefix": "Éclats",
       "name": "Éclat entropique"
     },
-    "progressDescription": "Ordre Restoré"
+    "progressDescription": "Ordre Restauré"
   },
   "1912364094": {
     "displayProperties": {
