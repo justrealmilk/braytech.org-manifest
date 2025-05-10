@@ -91,7 +91,7 @@
   },
   "16": {
     "displayProperties": {
-      "name": "Cauchemar de Xortal, Juré à Crota",
+      "name": "Cauchemar de Xortal, Juré à Cropta",
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement **Cauchemars errants**."
     }
   },
@@ -122,7 +122,7 @@
   "596": {
     "displayProperties": {
       "name": "Falaises des Mines de Sel",
-      "description": "Un portail vers le sommet des falaises des **Mines de sel**, alimenté par un aggrégat de pièces de **Déchus**."
+      "description": "Un portail vers le sommet des falaises des **Mines de sel**, alimenté par un agrégat de pièces de **Déchus**."
     }
   },
   "379286227": {
@@ -372,7 +372,7 @@
   },
   "2000000025": {
     "displayProperties": {
-      "name": "Patrouille du Dépotoire de Saturne",
+      "name": "Patrouille du Dépotoir de Saturne",
       "description": "Traquez des ennemis de la Côte enchevêtrée."
     }
   },
@@ -384,7 +384,7 @@
   },
   "2000000027": {
     "displayProperties": {
-      "name": "Récup au Dépotoire de Saturne",
+      "name": "Récup au Dépotoir de Saturne",
       "description": "Réquisitionnez des provisions de la Ruche."
     }
   },
@@ -402,7 +402,7 @@
   },
   "2000000030": {
     "displayProperties": {
-      "name": "Récup au Dépotoire de Saturne",
+      "name": "Récup au Dépotoir de Saturne",
       "description": "Réquisitionnez des provisions des Acolytes de la Ruche."
     }
   },
@@ -727,7 +727,7 @@
   "2000000084": {
     "displayProperties": {
       "name": "Ne passez pas le flambeau",
-      "description": "Trouvez une source de chaleur et de lumière traditionnelle et cherchez à connaitre son utilité pour les Vex."
+      "description": "Trouvez une source de chaleur et de lumière traditionnelle et cherchez à connaître son utilité pour les Vex."
     }
   },
   "2000000085": {
@@ -840,7 +840,7 @@
   },
   "2000000103": {
     "displayProperties": {
-      "name": "Chroniqeur de l'histoire",
+      "name": "Chroniqueur de l'histoire",
       "description": "Faites une analyse en trois dimensions de la sculpture de l'époque précédant la Chute."
     }
   },
@@ -1582,7 +1582,7 @@
   },
   "4292949222": {
     "displayProperties": {
-      "description": "Sur le côté du l'endroit caché du module illustré."
+      "description": "Sur le côté de l'endroit caché du module illustré."
     }
   }
 }
