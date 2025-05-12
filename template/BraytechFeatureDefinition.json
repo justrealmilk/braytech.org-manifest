@@ -194,6 +194,12 @@
       "modules"
     ]
   },
+  "weeklies-event": {
+    "displayProperties": {
+      "name": "Active Event",
+      "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
+    }
+  },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Activity Challenges",
