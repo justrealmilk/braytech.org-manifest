@@ -288,6 +288,14 @@
       ]
     }
   },
+  "weeklies-event": {
+    "hash": "weeklies-event",
+    "displayProperties": {
+      "name": "Active Event",
+      "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
+    },
+    "to": "/weeklies/event"
+  },
   "weeklies-activity-challenges": {
     "hash": "weeklies-activity-challenges",
     "displayProperties": {
