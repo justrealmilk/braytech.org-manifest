@@ -152,9 +152,6 @@
         },
         {
           "viewHash": "triumphs-transient"
-        },
-        {
-          "viewHash": "triumphs-event-card"
         }
       ]
     }
@@ -215,14 +212,6 @@
     },
     "to": "/triumphs/transient"
   },
-  "triumphs-event-card": {
-    "hash": "triumphs-event-card",
-    "displayProperties": {
-      "name": "Active Event Card",
-      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
-    },
-    "to": "/triumphs/event-card"
-  },
   "journey": {
     "hash": "journey",
     "displayProperties": {
@@ -273,9 +262,12 @@
       "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph"
     },
     "to": "/weeklies",
-    "keywords": ["nightfall", "lost sector", "modules"],
+    "keywords": ["nightfall", "lost sector", "modules", "event", "challenges"],
     "children": {
       "views": [
+        {
+          "viewHash": "weeklies-event"
+        },
         {
           "viewHash": "weeklies-activity-challenges"
         },
@@ -294,7 +286,8 @@
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
     },
-    "to": "/weeklies/event"
+    "to": "/weeklies/event",
+    "keywords": ["event", "limited time"]
   },
   "weeklies-activity-challenges": {
     "hash": "weeklies-activity-challenges",
