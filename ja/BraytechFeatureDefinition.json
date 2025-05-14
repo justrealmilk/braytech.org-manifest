@@ -133,12 +133,6 @@
       "description": "獲得できる勝利の道のりは永遠ではありません。この実績を急いで完成させなければ、永遠に手に入れられません。"
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "開催中のイベントカード",
-      "description": "期間限定のイベントカードに挑戦して、様々な報酬を獲得し、イベント限定の印を入手しましょう。"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "旅路",

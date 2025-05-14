@@ -133,12 +133,6 @@
       "description": "No todos los triunfos son para siempre: completa estos triunfos con premura o se perderán en el tiempo para siempre."
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "Tarjeta de evento activa",
-      "description": "Completa los desafíos por tiempo limitado de la tarjeta de evento para ganar varias recompensas y progresar hacia la compleción del sello del evento."
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Trayectoria",

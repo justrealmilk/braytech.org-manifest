@@ -91,12 +91,6 @@
       "description": "Tous les triomphes ne sont pas éternels - complétez ces enregistrements à la hâte ou ils seront perdus à jamais dans le temps."
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "Carte d'évènement actif",
-      "description": "Relevez des défis de carte d'événement à durée limitée pour gagner diverses récompenses et progresser vers l'achèvement du sceau de l'événement."
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Parcours",

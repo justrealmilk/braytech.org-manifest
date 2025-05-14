@@ -115,12 +115,6 @@
       "description": "Non tutti i trionfi sono immortali–completa questi trionfi di fretta o saranno persi nel tempo per sempre."
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "Carta evento attiva",
-      "description": "Completa le sfide a tempo limitato della carta evento per guadagnare varie ricompense e progredire nel completamento del sigillo dell'evento."
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Viaggio",

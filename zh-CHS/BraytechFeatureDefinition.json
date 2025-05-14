@@ -95,12 +95,6 @@
       "description": "并非所有成就都是随时可以完成的，这些成就需要在限定时间内完成，否则就永远得不到它们了。"
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "当前生效的活动卡片",
-      "description": "通过完成限时活动卡片里的挑战来获取各种限时奖励并提升称号获取进度。"
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "旅程",
