@@ -133,12 +133,6 @@
       "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
     }
   },
-  "triumphs-event-card": {
-    "displayProperties": {
-      "name": "Active Event Card",
-      "description": "Complete limited-time Event Card challenges to earn various rewards and make progress toward event Seal completion."
-    }
-  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -191,14 +185,20 @@
     "keywords": [
       "nightfall",
       "lost sector",
-      "modules"
+      "modules",
+      "event",
+      "challenges"
     ]
   },
   "weeklies-event": {
     "displayProperties": {
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
-    }
+    },
+    "keywords": [
+      "event",
+      "limited time"
+    ]
   },
   "weeklies-activity-challenges": {
     "displayProperties": {
