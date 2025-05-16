@@ -41,6 +41,7 @@
   },
   "activitiesCleared": {
     "statName": "Cleared",
+    "statNameAlt": "Matches",
     "statDescription": "Total activities cleared successfully. Hopefully, Guardian, this value is greater than half of activities entered!"
   },
   "activitiesConquered": {
