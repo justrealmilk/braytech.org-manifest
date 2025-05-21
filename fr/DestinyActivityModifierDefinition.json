@@ -20,7 +20,7 @@
   "34300000001": {
     "displayProperties": {
       "name": "Boucliers solaires et cryo",
-      "description": "Cette activité contient des boucliers solaires et cryo"
+      "description": "Cette activité contient des boucliers solaires et cryo-électriques"
     }
   },
   "34300000002": {
@@ -32,13 +32,13 @@
   "34300000003": {
     "displayProperties": {
       "name": "Boucliers cryo et abyssaux",
-      "description": "Cette activité contient des boucliers cryo et abyssaux"
+      "description": "Cette activité contient des boucliers cryo-électriques et abyssaux"
     }
   },
   "34300000004": {
     "displayProperties": {
       "name": "Boucliers solaires, cryo et abyssaux",
-      "description": "Cette activité contient des boucliers solaires, cryo et abyssaux"
+      "description": "Cette activité contient des boucliers solaires, cryo-électriques et abyssaux"
     }
   },
   "191124900": {
@@ -63,7 +63,7 @@
   },
   "787678752": {
     "displayProperties": {
-      "description": "Au cours de l'étape de l'invocation de l'Esprit Consacré, tous les joueurs doivent actualiser leur buff Illumination à peu près en même temps. Cependant, l'équipe peut être divisée à différentes attaches."
+      "description": "Au cours de l'étape de l'invocation de l'Esprit Consacré, ous les joueurs doivent réinitialiser leur buff Illuminé à peu près au même moment. Cependant, l’équipe peut être répartie sur différents liens."
     }
   },
   "217815700": {
@@ -78,7 +78,7 @@
   },
   "1572570117": {
     "displayProperties": {
-      "description": "Lors de la rencontre avec Atheon, chaque Gardien ne peut détruire qu'un seul Oracle par ensemble. En tant que tel, le porteur de bouclier d'Aegis devra participer."
+      "description": "Lors de la rencontre avec Atheon, chaque Gardien ne peut détruire qu'un seul Oracle par ensemble. En tant que tel, le porteur de Relique devra y participer."
     }
   },
   "2098788044": {
@@ -93,12 +93,12 @@
   },
   "2626004713": {
     "displayProperties": {
-      "description": "Doit toujours déposer 10 motes à tout moment pendant l'étape de l'Esprit Consacré."
+      "description": "Doit toujours déposer 10 particules à tout moment pendant l'étape de l'Esprit Consacré."
     }
   },
   "2672226122": {
     "displayProperties": {
-      "description": "Pendant la durée de la rencontre d'Acquisition, chaque vague de de Champions imparables doit être vaincue en moins de 5 secondes d'intervalle."
+      "description": "Pendant la durée de la rencontre d'Acquisition, chaque vague de de Champions implacables doit être vaincue en moins de 5 secondes d'intervalle."
     }
   },
   "2814846409": {
@@ -108,7 +108,7 @@
   },
   "2834033523": {
     "displayProperties": {
-      "description": "Rencontre de Kalli : Nettoyez toutes les plaques, tuer tous les Chevaliers et tuer tous les Ogres avant la phase de DPS."
+      "description": "Rencontre de Kalli : Nettoyez toutes les plaques, tuer tous les Chevaliers et tuer tous les Ogres avant la phase de dégats."
     }
   },
   "3135466059": {
@@ -148,7 +148,7 @@
   },
   "4073197101": {
     "displayProperties": {
-      "description": "Pendant le raid de l'Esprit Sanctifié, accumulez 30 particules à chaque relais Vex. À chaque relais, les 30 particules doivent être déposées dans les 10 secondes les unes des autres."
+      "description": "Pendant l'étape de l'Esprit Sanctifié, accumulez 30 particules à chaque relais Vex. À chaque relais, les 30 particules doivent être déposées dans les 10 secondes les unes des autres."
     }
   },
   "3577304467": {
