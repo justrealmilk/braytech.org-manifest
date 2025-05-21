@@ -49,28 +49,28 @@
   "11647605040": {
     "displayProperties": {
       "name": "Toute l'Épreuve",
-      "description": "Avez vous lancer assez de grenades ?"
+      "description": "Avez-vous lancé assez de grenades ?"
     }
   },
   "1848252830": {
     "displayProperties": {
-      "description": "Chassez les ennemis dans les zones de guerre actives. Comptez avec de plus grands pouvoirs. Soyez notoire."
+      "description": "Chassez les ennemis dans les zones de guerre actives. Affrontez des puissances supérieures. Soyez notoire."
     }
   },
   "1585787840": {
     "displayProperties": {
-      "description": "Combattez pour le Courage en battant vos adversaires."
+      "description": "Combattez pour la Gloire en vainquant vos adversaires."
     }
   },
   "3199098480": {
     "displayProperties": {
-      "description": "Combattez pour le Courage en capturant des zones et en battant vos adversaires."
+      "description": "Combattez pour la Gloire en capturant des zones et en battant vos adversaires."
     }
   },
   "31990984800": {
     "displayProperties": {
       "name": "Domination et impulsion",
-      "description": "Combattez pour le Courage en capturant des zones et en battant vos adversaires. Toutes les armes sont plus meurtrières, les capacités ne se reconstituent qu'en faisant des frags et le radar est désactivé."
+      "description": "Combattez pour la Gloire en capturant des zones et en battant vos adversaires. Toutes les armes sont plus meurtrières, les capacités ne se reconstituent qu'en faisant des frags et le radar est désactivé."
     }
   },
   "3484731833": {
@@ -80,12 +80,12 @@
   },
   "4078439804": {
     "displayProperties": {
-      "description": "Combattez pour le Courage en éliminant tous les adversaires dans ce mode basé par tour. N'oubliez pas de faire revivre vos camarades Gardiens."
+      "description": "Combattez pour la Gloire en éliminant tous les adversaires dans ce mode basé par tour. N'oubliez pas de faire revivre vos camarades Gardiens."
     }
   },
   "1826469369": {
     "displayProperties": {
-      "description": "Capturez des zones afin d'augmenter les points pour chaque adversaire vaincu. Capturez les trois zones pour les verrouiller et faire la chasse à vos adversaires."
+      "description": "Votre légende, forgée dans le fer. Je ne vois pas de plus belle récompense pour un Porteur de Lumière."
     }
   },
   "1264443021": {
@@ -95,7 +95,7 @@
   },
   "157639802": {
     "displayProperties": {
-      "description": "Combattez pour le Courage en battant vos adversaires. Pas d'équipes. Aucune allégeance. Un Chacun-pour-soi où le leader ferait mieux de surveiller leurs arrières."
+      "description": "Combattez pour la Gloire en battant vos adversaires. Pas d'équipes. Aucune allégeance. Un Chacun-pour-soi où le leader ferait mieux de surveiller leurs arrières."
     }
   },
   "2239249083": {
@@ -105,7 +105,7 @@
   },
   "1673724806": {
     "displayProperties": {
-      "description": "Participez à une version spéciale d'Elimination requérant une équipe complète. Gagnez autant de victoires que possible avec un ticket. Trois défaites et vous êtes éliminés."
+      "description": "Participez à une version événementielle d'Élimination nécessitant une escouade. Enchaînez un maximum de victoires sur un même ticket. Trois défaites, et c’est terminé."
     }
   },
   "2546784302": {
