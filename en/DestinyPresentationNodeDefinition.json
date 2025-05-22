@@ -216,9 +216,7 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      2744330515
-    ],
+    "parentNodeHashes": [2744330515],
     "redacted": false,
     "distinguish": true
   },
@@ -368,11 +366,9 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      2381001021
-    ],
+    "parentNodeHashes": [2381001021],
     "distinguish": true,
-    "showInvisible" : true,
+    "showInvisible": true,
     "redacted": false
   },
   "1516796296": {
@@ -533,9 +529,7 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      1516796296
-    ],
+    "parentNodeHashes": [1516796296],
     "distinguish": true,
     "redacted": false
   },
@@ -568,19 +562,59 @@
         },
         {
           "collectibleHash": 3801407498
+        },
+        {
+          "collectibleHash": 2273442829
+        },
+        {
+          "collectibleHash": 1720952421
+        },
+        {
+          "collectibleHash": 3232115495
+        },
+        {
+          "collectibleHash": 1989835617
+        },
+        {
+          "collectibleHash": 2056946093
+        },
+        {
+          "collectibleHash": 1822059426
+        },
+        {
+          "collectibleHash": 2023390799
+        },
+        {
+          "collectibleHash": 2023390787
+        },
+        {
+          "collectibleHash": 3383113992
+        },
+        {
+          "collectibleHash": 3282448379
+        },
+        {
+          "collectibleHash": 3215337911
+        },
+        {
+          "collectibleHash": 1805281845
+        },
+        {
+          "collectibleHash": 1720952427
+        },
+        {
+          "collectibleHash": 2040505658
         }
       ],
       "records": [],
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      2381001021
-    ],
+    "parentNodeHashes": [2381001021],
     "distinguish": true,
-    "showInvisible" : true,
+    "showInvisible": true,
     "redacted": false
-  },  
+  },
   "1205461800": {
     "displayProperties": {
       "name": "Ornaments"
@@ -612,9 +646,7 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      1205461800
-    ],
+    "parentNodeHashes": [1205461800],
     "distinguish": true,
     "redacted": false
   },
@@ -631,9 +663,7 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      1205461800
-    ],
+    "parentNodeHashes": [1205461800],
     "distinguish": true,
     "redacted": false
   },
@@ -650,9 +680,7 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      1205461800
-    ],
+    "parentNodeHashes": [1205461800],
     "distinguish": true,
     "redacted": false
   },
@@ -682,11 +710,9 @@
       "metrics": [],
       "craftables": []
     },
-    "parentNodeHashes": [
-      1789205056
-    ],
+    "parentNodeHashes": [1789205056],
     "distinguish": true,
-    "showInvisible" : true,
+    "showInvisible": true,
     "redacted": false
   },
   "2485764221": {
