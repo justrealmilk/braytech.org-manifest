@@ -507,6 +507,7 @@
     "sourceHash": 1000000045
   },
   "872139466": {
+    "sourceSeason": 19,
     "sourceHash": 1000000002
   },
   "930889090": {
@@ -3046,5 +3047,33 @@
   "1656083080": {
     "sourceSeason": 26,
     "sourceHash": 1000000048
+  },
+  "1526632579": {
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "872139464": {
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "872139465": {
+    "sourceSeason": 19,
+    "sourceHash": 1000000002
+  },
+  "3854697982": {
+    "sourceSeason": 21,
+    "sourceHash": 1000000002
+  },
+  "1979768206": {
+    "sourceSeason": 22,
+    "sourceHash": 1000000002
+  },
+  "569512460": {
+    "sourceSeason": 22,
+    "sourceHash": 1000000002
+  },
+  "1759900386": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000002
   }
 }
