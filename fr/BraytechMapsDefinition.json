@@ -113,6 +113,54 @@
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement **Cauchemars errants**."
     }
   },
+  "20": {
+    "displayProperties": {
+      "name": "Vorgeth, La Faim Insatiable",
+      "description": "Vainquez les Gardiens des Pétitions et terrassez Vorgeth, La Faim Insatiable."
+    }
+  }, 
+  "21": {
+    "displayProperties": {
+      "name": "Dûl Incaru, le Retour Éternel",
+      "description": "Vainquez Dûl Incaru, le Retour Éternel"
+    }
+  },
+  "607": {
+    "displayProperties": {
+      "name": "Terminal Esi – Complexe Irkalla",
+      "description": "Une faille alimentée par résonance menant au Complexe Irkalla."
+    }
+  },
+   "608": {
+    "displayProperties": {
+      "name": "Complexe Irkalla – Terminal Esi",
+      "description": "Une faille alimentée par résonance menant au Terminal Esi."
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "Typhon Imperator: Profondeurs",
+      "description": "Une faille alimentée par résonance."
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "Typhon Imperator",
+      "description": "Une faille alimentée par résonance."
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "Temple des Courroucés",
+      "description": "Une faille alimentée par résonance."
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "Temple des Courroucés : Profondeurs",
+      "description": "Une faille alimentée par résonance."
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "La Cour de la reine",
