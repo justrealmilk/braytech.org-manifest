@@ -1,22 +1,31 @@
 {
   "965757574": {
     "displayProperties": {
-      "name": "Red War"
+      "name": "Red War",
+      "description": "The Red War is the first campaign of Destiny 2, where Guardians face off against Dominus Ghaul and the Cabal Red Legion, who have taken control of the Last City and stolen the Light from Guardians."
+    }
+  },
+  "2973407602": {
+    "displayProperties": {
+      "description": "Long dormant, the planet Mercury has now sparked back to life. The sun-drenched surface is patrolled by the surging Vex, and laid siege by the desperate remnants of the Cabal Red Legion. Below, a great machine – the Infinite Forest – holds the secret to Osiris, and our salvation."
     }
   },
   "4033618594": {
     "displayProperties": {
-      "name": "Warmind"
+      "name": "Warmind",
+      "description": "Golden Age satellites slam into the surface of the Hellas Basin on Mars. Icy glaciers thaw, revealing the core of the Warmind Rasputin – and an ancient Hive army, bent on its destruction."
     }
   },
   "20267733200": {
     "displayProperties": {
-      "name": "Forsaken"
+      "name": "Forsaken",
+      "description": "After the death of Cayde-6, Guardians must venture into the Tangled Shore and the Dreaming City to hunt down Uldren Sov and the Barons, who are responsible for his death. "
     }
   },
   "17436828180": {
     "displayProperties": {
-      "name": "Shadowkeep"
+      "name": "Shadowkeep",
+      "description": "As the heroes of the last safe city turn their attention to the far-reaching frontiers of our galaxy, new Nightmares have emerged from an ancient evil that once slumbered beneath the Lunar surface."
     }
   },
   "2809059426": {
@@ -26,27 +35,32 @@
   },
   "28090594270": {
     "displayProperties": {
-      "name": "Beyond Light"
+      "name": "Beyond Light",
+      "description": "Eramis, the Kell of Darkness, has occupied Europa with her Fallen army, and Guardians must respond. Travel to Jupiter’s frozen moon, hunt down Eramis, and prepare to wield the Darkness."
     }
   },
   "28090594280": {
     "displayProperties": {
-      "name": "30th Anniversary"
+      "name": "30th Anniversary",
+      "description": "A celebration of Destiny's 30th Anniversary, featuring new activities, weapons, and lore that pay homage to the game's history and its inspirations."
     }
   },
   "28090594310": {
     "displayProperties": {
-      "name": "The Witch Queen"
+      "name": "The Witch Queen",
+      "description": "Sister of Shapes, Sword-Breaker, Witch Queen – which of my many names lives on your lips as you weave your story around me? Even as you tread carefully through my courtyard, among those who worship the Light I have gifted, would you deny me the virtue of this power?"
     }
   },
   "27587265680": {
     "displayProperties": {
-      "name": "Lightfall"
+      "name": "Lightfall",
+      "description": "The Witness and its newest Disciple are here. Begin a journey that will reveal the hidden threads that bind us, the ability to unravel them, and the mastery to weave them anew. With this new power in hand, find strength in your fellow Guardians and triumph in the face of annihilation."
     }
   },
   "27587265720": {
     "displayProperties": {
-      "name": "The Final Shape"
+      "name": "The Final Shape",
+      "description": "The Final Shape looms—a nightmarish calcification of reality into the Witness's twisted design. Embark on a perilous journey into the heart of the Traveler, rally the Vanguard, and end the War of Light and Darkness."
     }
   },
   "27587265750": {
