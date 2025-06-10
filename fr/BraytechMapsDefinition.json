@@ -113,6 +113,18 @@
       "description": "Battez ce cauchemar pour progresser dans l'enregistrement **Cauchemars errants**."
     }
   },
+  "20": {
+    "displayProperties": {
+      "name": "Vorgeth, La Faim Insatiable ",
+      "description": "Vainquez les Gardiens des Pétitions et triomphez de Vorgeth, La Faim Insatiable"
+    }
+  },
+  "21": {
+    "displayProperties": {
+      "name": "Dûl Incaru, l'Éternel renouveau",
+      "description": "Éliminez Dûl Incaru, l'Éternel renouveau"
+    }
+  },
   "278": {
     "displayProperties": {
       "name": "La Cour de la reine",
@@ -123,6 +135,59 @@
     "displayProperties": {
       "name": "Falaises des Mines de Sel",
       "description": "Un portail vers le sommet des falaises des **Mines de sel**, alimenté par un agrégat de pièces de **Déchus**."
+    }
+  },
+  "607": {
+    "displayProperties": {
+      "name": "Terminal Esi – Complexe Irkalla",
+      "description": "Une faille de résonance vers le Complexe Irkalla"
+    }
+  },
+  "608": {
+    "displayProperties": {
+      "name": "Complexe Irkalla - Terminal Esi",
+      "description": "Une faille de résonance vers le Terminal Esi"
+    }
+  },
+  "609": {
+    "displayProperties": {
+      "name": "Typhon Imperator: Profondeurs",
+      "description": "Une faille de résonance"
+    }
+  },
+  "610": {
+    "displayProperties": {
+      "name": "Typhon Imperator",
+      "description": "Une faille de résonance"
+    }
+  },
+  "611": {
+    "displayProperties": {
+      "name": "Temple des Couroucéens",
+      "description": "Une faille de résonance"
+    }
+  },
+  "612": {
+    "displayProperties": {
+      "name": "Temple des Couroucéens : Profondeurs",
+      "description": "Une faille de résonance"
+    }
+  },
+  "613": {
+    "displayProperties": {
+      "name": "L'isolement ",
+      "description": "Une faille de résonance"
+    }
+  },
+  "614": {
+    "displayProperties": {
+      "name": "L'isolement ",
+      "description": "Une faille de résonance"
+    }
+  },
+  "293144960": {
+    "displayProperties": {
+      "description": "En traversant le mur, vous arriverez à un pont. En faisant face à l’ouest, l’objectif se trouve sur votre droite. Sautez de plateforme en plateforme, en passant au-delà des énormes poutres structurelles. Tournez-vous vers l’est et levez les yeux pour trouver cette plume sur la plateforme la plus haute que vous pouvez atteindre."
     }
   },
   "379286227": {
@@ -145,6 +210,17 @@
       "description": "Derrière la cascade."
     }
   },
+  "677774031": {
+    "displayProperties": {
+      "description": "Autrefois, nous regardions la Lune avec espoir. Aujourd’hui, nous n’y voyons plus que le pouvoir des Ténèbres. Un mal ancien s’agite sous la surface brisée de la Lune."
+    }
+  },
+  "697502628": {
+    "displayProperties": {
+      "description": "Point zéro d’un événement cataclysmique qui a laissé un éclat massif du Voyageur — la source du pouvoir et de l’immortalité de tous les Gardiens — incrusté dans l’immense paysage. Pendant des années, seules la végétation sauvage et les vestiges d’une ville abandonnée témoignaient de notre passé oublié."
+    }
+  },
+  
   "703052847": {
     "displayProperties": {
       "description": "Accessible via les activités **Autels du Reflet**."
@@ -210,9 +286,35 @@
       "description": "À l'arrière de la structure endommagée, au troisième étage, dans une pièce à droite."
     }
   },
+  "1387596457": {
+    "displayProperties": {
+      "description": "Lorsque vous êtes en état d’Ascendant, vous pouvez trouver un chemin de plateformes vers le bas ou sauter depuis les hauteurs. Si vous choisissez de sauter, veillez à amortir votre chute et à guetter l’apparition de la plateforme."
+    }
+  },
   "1387596458": {
     "displayProperties": {
       "description": "En arrivant à **La Cour de la reine**, escaladez le mur à gauche du trône."
+    }
+  },
+  "1416096592": {
+    "displayProperties": {
+      "description": "Une forteresse longtemps cachée, sacrée pour les Éveillés du Récif. Infestée par les Corrompus, la Cité des Rêves a besoin de nous. "
+    }
+  },
+  "1543824169": {
+    "displayProperties": {
+      "name": "",
+      "description": "Une fois terminé, dirigez-vous vers la sortie du kyste. Sous l’une des falaises qui bordent la caverne se trouve un chemin. Sautez au-dessus de la lave, puis contournez par la droite. Le tunnel se rétrécira. Avant qu’il ne s’élargisse vers la sortie, une petite ouverture apparaîtra dans la paroi rocheuse. "
+    }
+  },
+  "1729879943": {
+    "displayProperties": {
+      "description": "Une lune désolée et glacée, témoignage de l’ambition et de l’arrogance de l’humanité. Clovis Bray y possède plusieurs installations."
+    }
+  },
+  "1737926756": {
+    "displayProperties": {
+      "description": "Ce qu’il reste de l’humanité sur Terre vit dans la Dernière Cité, sous la surveillance attentive des Gardiens depuis leur Tour."
     }
   },
   "1903309704": {
