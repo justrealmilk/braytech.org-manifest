@@ -33,5 +33,14 @@
       "icon": "/common/destiny2_content/icons/b4c15786253c5cb5f31588acb1b409f5.jpg"
     },
     "collectibleHash": 2629609052
+  },
+  "1": {
+    "hash": 913018933,
+    "displayProperties": {
+      "name": "You're The Best",
+      "description": "This is a triumph which proves you're the best. Obviously."
+    },
+    "completionInfo": {},
+    "objectiveHashes": []
   }
 }
