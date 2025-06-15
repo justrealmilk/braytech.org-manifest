@@ -1,17 +1,73 @@
 {
   "965757574": {
     "displayProperties": {
-      "name": "La Guerre rouge"
+      "name": "La Guerre Rouge",
+      "description": "« La Guerre Rouge » est la première campagne de Destiny 2, où les Gardiens affrontent Dominus Ghaul et la Légion Rouge des Cabals, qui ont pris le contrôle de la Dernière Cité et volé la Lumière aux Gardiens."
+    }
+  },
+  "2973407602": {
+    "displayProperties": {
+      "name": "La Malédiction d'Osiris",
+      "description": "Longtemps endormie, la planète Mercure s’est soudainement réveillée. Sa surface baignée de soleil est désormais patrouillée par les Vex en pleine expansion, et assiégée par les vestiges désespérés de la Légion Rouge des Cabals. Sous la surface, une immense machine – la Forêt Infinie – détient le secret d’Osiris, et peut-être notre salut. "
     }
   },
   "4033618594": {
     "displayProperties": {
-      "name": "l'Esprit tutélaire"
+      "name": "L'esprit tutélaire",
+      "description": "Des satellites de l’Âge d’Or s’écrasent à la surface du bassin d’Hellas, sur Mars. Les glaciers glacés fondent, révélant le cœur de l’Esprit Tutélaire Raspoutine – ainsi qu’une armée ancienne de la Ruche, déterminée à le détruire."
+    }
+  },
+  "20267733200": {
+    "displayProperties": {
+      "name": "Rénégats",
+      "description": "Après la mort de Cayde-6, les Gardiens doivent s’aventurer dans le Récif et la Cité des Rêves pour traquer Uldren Sov et les Barons, responsables de sa mort. "
+    }
+  },
+  "17436828180": {
+    "displayProperties": {
+      "name": "Bastion des Ombres",
+      "description": "Alors que les héros de la dernière cité sûre tournent leur regard vers les confins de notre galaxie, de nouveaux Cauchemars émergent d’un mal ancien qui sommeillait sous la surface lunaire. "
     }
   },
   "2809059426": {
     "displayProperties": {
-      "description": "Les Pyramides et Xivu Arath déstabilisant le système, l'impératrice Caiatl, chef de la Cabale et fille de Calus, cherche une alliance. Mais quand elle exige plus que ce que Zavala peut offrir, les négociations s'effondrent et les Gardiens doivent devenir la pointe de la lance qui frappe son conseil de guerre grandissant."
+      "name": "Saison des Elus",
+      "description": "Alors que les Pyramides et Xivu Arath déstabilisent le système, l’impératrice Caiatl, cheffe des Cabals et fille de Calus, cherche à former une alliance. Mais lorsqu’elle exige plus que ce que Zavala peut offrir, les négociations échouent, et les Gardiens doivent devenir la pointe de la lance qui frappe son conseil de guerre grandissant."
+    }
+  },
+  "28090594270": {
+    "displayProperties": {
+      "name": "Au delà de la Lumière",
+      "description": "Vigris, la Kall des Ténèbres, a occupé Europe avec son armée Déchue, et les Gardiens doivent réagir. Voyagez jusqu’à la lune glacée de Jupiter, traquez Vigris, et préparez-vous à manier les Ténèbres."
+    }
+  },
+  "28090594280": {
+    "displayProperties": {
+      "name": "30 ème Anniversaire",
+      "description": "Une célébration du 30e anniversaire de Bungie, avec de nouvelles activités, armes et éléments de lore rendant hommage à l’histoire du jeu et à ses inspirations."
+    }
+  },
+  "28090594310": {
+    "displayProperties": {
+      "name": "La Reine Sorcière",
+      "description": "Sœur des Formes, Briseuse de Lames, Reine-Sorcière – lequel de mes nombreux noms vit encore sur tes lèvres alors que tu tisses ton histoire autour de moi ? Même lorsque tu avances prudemment dans ma cour, parmi ceux qui vénèrent la Lumière que j’ai offerte, oserais-tu me refuser la vertu de ce pouvoir ?"
+    }
+  },
+  "27587265680": {
+    "displayProperties": {
+      "name": "Eclipse",
+      "description": "Le Témoin et son nouveau Disciple sont là. Commencez un voyage qui révélera les fils cachés qui nous relient, la capacité de les dénouer, et la maîtrise de les tisser à nouveau. Avec ce nouveau pouvoir en main, puisez votre force auprès de vos compagnons Gardiens et triomphez face à l’anéantissement."
+    }
+  },
+  "27587265720": {
+    "displayProperties": {
+      "name": "La Forme Finale",
+      "description": "La Forme Finale approche – une calcification cauchemardesque de la réalité selon le dessein tordu du Témoin. Embarquez pour un voyage périlleux au cœur du Voyageur, ralliez l’Avant-garde, et mettez fin à la Guerre entre la Lumière et les Ténèbres. "
+    }
+  },
+  "27587265750": {
+    "displayProperties": {
+      "name": "Année de la Prophétie"
     }
   }
 }
