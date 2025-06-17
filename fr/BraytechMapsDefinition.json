@@ -220,7 +220,6 @@
       "description": "Point zéro d’un événement cataclysmique qui a laissé un éclat massif du Voyageur — la source du pouvoir et de l’immortalité de tous les Gardiens — incrusté dans l’immense paysage. Pendant des années, seules la végétation sauvage et les vestiges d’une ville abandonnée témoignaient de notre passé oublié."
     }
   },
-
   "703052847": {
     "displayProperties": {
       "description": "Accessible via les activités **Autels du Reflet**."
@@ -303,13 +302,11 @@
   },
   "1543824169": {
     "displayProperties": {
-      "name": "",
       "description": "Une fois terminé, dirigez-vous vers la sortie du kyste. Sous l’une des falaises qui bordent la caverne se trouve un chemin. Sautez au-dessus de la lave, puis contournez par la droite. Le tunnel se rétrécira. Avant qu’il ne s’élargisse vers la sortie, une petite ouverture apparaîtra dans la paroi rocheuse. "
     }
   },
   "1680149549": {
     "displayProperties": {
-      "name": "",
       "description": "Avant de vous avancer vers la gauche, descendez à droite pour trouver cette plume nichée dans un recoin sombre."
     }
   },
@@ -1590,20 +1587,17 @@
   },
   "2000000254": {
     "displayProperties": {
-      "name": "Cauchemar de Zydron, Le Maître des Clés",
-      "description": ""
+      "name": "Cauchemar de Zydron, Le Maître des Clés"
     }
   },
   "2000000255": {
     "displayProperties": {
-      "name": "Cauchemar de Ph'ogoth, l'Indompté",
-      "description": ""
+      "name": "Cauchemar de Ph'ogoth, l'Indompté"
     }
   },
   "2000000256": {
     "displayProperties": {
-      "name": "Cauchemar de Taniks, le Balafré",
-      "description": ""
+      "name": "Cauchemar de Taniks, le Balafré"
     }
   },
   "2000000260": {
@@ -1806,26 +1800,22 @@
   },
   "2000000294": {
     "displayProperties": {
-      "name": "Puzzle de Souvenance Chronométré",
-      "description": ""
+      "name": "Puzzle de Souvenance Chronométré"
     }
   },
   "2000000295": {
     "displayProperties": {
-      "name": "Puzzle de Souvenance Chronométré",
-      "description": ""
+      "name": "Puzzle de Souvenance Chronométré"
     }
   },
   "2000000296": {
     "displayProperties": {
-      "name": "Puzzle de Souvenance Chronométré",
-      "description": ""
+      "name": "Puzzle de Souvenance Chronométré"
     }
   },
   "2000000297": {
     "displayProperties": {
-      "name": "Puzzle de Souvenance Chronométré",
-      "description": ""
+      "name": "Puzzle de Souvenance Chronométré"
     }
   },
   "2032534090": {
@@ -1841,13 +1831,11 @@
   },
   "2426576530": {
     "displayProperties": {
-      "name": "",
       "description": "En traversant ce **Kyste**, il y aura deux portes ; celle du haut mène à votre objectif tandis que celle du bas attribue un bit d'encryptions."
     }
   },
   "2481646875": {
     "displayProperties": {
-      "name": "",
       "description": "Une métropole high-tech, épargnée par la chute, protégée par les vaillants Foules Nuages."
     }
   },
@@ -1958,7 +1946,6 @@
   },
   "1948990755": {
     "displayProperties": {
-      "name": "",
       "description": "Dans les recoins les plus éloignés du coin le plus sombre."
     }
   },
@@ -2054,31 +2041,26 @@
   },
   "3249643781": {
     "displayProperties": {
-      "name": "",
       "description": "Près du début de ce **Kyste**, vous pouvez descendre sous la plaque rituelle de la Ruche pour trouver un bit d'encryptions derrière les parois rocheuses environnantes."
     }
   },
   "3607432451": {
     "displayProperties": {
-      "name": "",
       "description": "Luxuriante avec des arbres géants tordus, des cavernes profondes, des cascades et des marais argentés, l'origine de cette planétoïde reste inconnue. Ce qui est clair, c'est que les Vex ont presque transformé toute la planétoïde en un Monde Machine, au-dessus et en dessous de la surface. Pour les Gardiens prêts à braver les dangers et à explorer la myriade de mystères, des trésors au-delà de l'imagination les attendent."
     }
   },
   "3810403766": {
     "displayProperties": {
-      "name": "",
       "description": "Trouvé le long du chemin en sortant du **Kyste**. Il est niché parmi de très hautes parois rocheuses. Sortir d'ici est douloureux."
     }
   },
   "3990611421": {
     "displayProperties": {
-      "name": "",
       "description": "Un chantier naval entier de l'Âge d'Or, mais grouillant de Déchus. Un complexe spatial abandonné dans les ruines de la Vieille Russie."
     }
   },
   "3998251206": {
     "displayProperties": {
-      "name": "",
       "description": "Un domaine surréaliste de la mémoire à l'intérieur du Voyageur, corrompu par le Témoin."
     }
   }

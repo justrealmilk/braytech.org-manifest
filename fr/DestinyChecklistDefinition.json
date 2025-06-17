@@ -3,7 +3,6 @@
     "displayProperties": {
       "name": "Livre d'Histoire: Égarés de Luna"
     },
-    
     "entry": {
       "name": "Fragment de Spectre"
     },
@@ -14,15 +13,13 @@
       "name": "Figurines"
     },
     "entry": {
-      "prefix": "",
       "name": "Figurines",
       "completed": "Collectées"
     },
     "progressDescription": "Figurines placées"
   },
-    "703136805": {
+  "703136805": {
     "entry": {
-      "prefix": "",
       "name": "Répéteurs d'apogée",
       "completed": "Neutralisés"
     },
@@ -44,7 +41,7 @@
     },
     "progressDescription": "Visions récupérées"
   },
-   "3430812784": {
+  "3430812784": {
     "entry": {
       "prefix": "Géometrie",
       "name": "Géometrie Paracausale",
@@ -52,7 +49,7 @@
     },
     "progressDescription": "Géometries allignées"
   },
-   "2844537300": {
+  "2844537300": {
     "entry": {
       "prefix": "Cryptage",
       "name": "Cryptage Perdu",
