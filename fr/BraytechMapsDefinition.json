@@ -305,11 +305,6 @@
       "description": "Une fois terminé, dirigez-vous vers la sortie du kyste. Sous l’une des falaises qui bordent la caverne se trouve un chemin. Sautez au-dessus de la lave, puis contournez par la droite. Le tunnel se rétrécira. Avant qu’il ne s’élargisse vers la sortie, une petite ouverture apparaîtra dans la paroi rocheuse. "
     }
   },
-  "1680149549": {
-    "displayProperties": {
-      "description": "Avant de vous avancer vers la gauche, descendez à droite pour trouver cette plume nichée dans un recoin sombre."
-    }
-  },
   "1729879943": {
     "displayProperties": {
       "description": "Une lune désolée et glacée, témoignage de l’ambition et de l’arrogance de l’humanité. Clovis Bray y possède plusieurs installations."
@@ -1854,6 +1849,16 @@
       "description": "Après avoir terminé le secteur oublié, dirigez-vous vers la sortie et trouvez l'objet en sortant."
     }
   },
+  "1680149549": {
+    "displayProperties": {
+      "description": "Avant de vous avancer vers la gauche, descendez à droite pour trouver cette plume nichée dans un recoin sombre."
+    }
+  },
+  "1948990755": {
+    "displayProperties": {
+      "description": "Dans les recoins les plus éloignés du coin le plus sombre."
+    }
+  },
   "2809244994": {
     "displayProperties": {
       "description": "Perché sur le mur du milieu de la **Forêt Infinie**."
@@ -1862,91 +1867,6 @@
   "2895058245": {
     "displayProperties": {
       "description": "Accessible via l'activité **Source**."
-    }
-  },
-  "3307732497": {
-    "displayProperties": {
-      "description": "Dans le coin tout en haut à gauche, sur les rochers."
-    }
-  },
-  "3609559330": {
-    "displayProperties": {
-      "description": "À travers le mur de briques."
-    }
-  },
-  "3644688446": {
-    "displayProperties": {
-      "description": "Sur la passerelle."
-    }
-  },
-  "3658842337": {
-    "displayProperties": {
-      "description": "Sur la falaise, surplombant La crique sinueuse, près de l'endroit où Xûr apparaît parfois."
-    }
-  },
-  "3728157446": {
-    "displayProperties": {
-      "description": "Nécessite un **fragment de données de pare-feu**. Acquérir les prérequis via Eris Morn."
-    }
-  },
-  "3880966469": {
-    "displayProperties": {
-      "description": "Congelé dans un bloc de glace. Trouvez un boss **Capitaine déchu** près des ascenseurs pour **l'Approche du Renouveau de Riis** nommé **Ferkis, Bourrasque du Salut** — il vous laissera tomber ce dont vous avez besoin."
-    }
-  },
-  "3888342093": {
-    "displayProperties": {
-      "description": "Sous la glace."
-    }
-  },
-  "3977481189": {
-    "displayProperties": {
-      "description": "En entrant dans le Cercle des ossements via La Loge, tournez à droite et continuez pour suivre la boucle autour du Gouffre des Enfers. Avant d'atteindre la prochaine intersection, retournez vous et regardez sous la plate-forme pour trouver deux yeux de jade perçant à travers votre lumière donnée par le Voyageur."
-    }
-  },
-  "4111390768": {
-    "displayProperties": {
-      "description": "Entrez dans le donjon et dirigez-vous vers la tour la plus à droite. Conservez une certaine altitude si possible. Sur le côté le plus éloigné de la tour la plus éloignée, sous son pied, se trouve un cryptage."
-    }
-  },
-  "4111390770": {
-    "displayProperties": {
-      "description": "Terminez la rencontre de la **Chambre des supplices**. Avant de vous frayer un chemin plus en avant en traversant les pièges en hauteur, montez prudemment à leur niveau le plus élevé."
-    }
-  },
-  "4111390771": {
-    "displayProperties": {
-      "description": "Terminez la rencontre de **La Nécropole** et continuez vers La Fosse. Une fois au mur des chemins, grimpez et faites demi-tour. À droite de la salle se trouve un petit rebord le long du mur de pierre de lune. Utilisez-le pour accéder au niveau supérieur du couloir et passez sur le côté droit le plus éloigné."
-    }
-  },
-  "4111390780": {
-    "displayProperties": {
-      "description": "Dans le tunnel accroupi le plus au milieu, le plus proche de la fosse de gaz vert où se trouve l'orbe solaire. En entrant dans le tunnel du côté de la fosse de gaz vert, il s'élargira rapidement en une petite pièce. Arrêtez-vous, tournez à 180 ° et regardez vers le haut."
-    }
-  },
-  "4111390781": {
-    "displayProperties": {
-      "description": "Descendez dans les **Tunnels du désespoir** et restez à droite. Entrez par le premier chemin accroupi et suivez-le jusqu'à sa fin. Vous verrez une porte rouge. Debout devant la porte rouge, tournez de 70 ° dans le sens des aiguilles d'une montre. Vous allez regarder un rocher. À droite du rocher se trouve le prix que vous recherchez."
-    }
-  },
-  "4292949216": {
-    "displayProperties": {
-      "description": "Entrez dans **La Loge** via **Le gouffre des enfers** et suivez-le jusqu'à une pièce circulaire bien éclairée. Le long du mur vitré sur la droite est ce que vous cherchez."
-    }
-  },
-  "4292949220": {
-    "displayProperties": {
-      "description": "Dans les **Tunnels du désespoir**, sur une corniche de falaise adjacente à la fosse de gaz vert."
-    }
-  },
-  "4292949222": {
-    "displayProperties": {
-      "description": "Sur le côté de l'endroit caché du module illustré."
-    }
-  },
-  "1948990755": {
-    "displayProperties": {
-      "description": "Dans les recoins les plus éloignés du coin le plus sombre."
     }
   },
   "3000000001": {
@@ -2044,14 +1964,54 @@
       "description": "Près du début de ce **Kyste**, vous pouvez descendre sous la plaque rituelle de la Ruche pour trouver un bit d'encryptions derrière les parois rocheuses environnantes."
     }
   },
+  "3307732497": {
+    "displayProperties": {
+      "description": "Dans le coin tout en haut à gauche, sur les rochers."
+    }
+  },
   "3607432451": {
     "displayProperties": {
       "description": "Luxuriante avec des arbres géants tordus, des cavernes profondes, des cascades et des marais argentés, l'origine de cette planétoïde reste inconnue. Ce qui est clair, c'est que les Vex ont presque transformé toute la planétoïde en un Monde Machine, au-dessus et en dessous de la surface. Pour les Gardiens prêts à braver les dangers et à explorer la myriade de mystères, des trésors au-delà de l'imagination les attendent."
     }
   },
+  "3609559330": {
+    "displayProperties": {
+      "description": "À travers le mur de briques."
+    }
+  },
+  "3644688446": {
+    "displayProperties": {
+      "description": "Sur la passerelle."
+    }
+  },
+  "3658842337": {
+    "displayProperties": {
+      "description": "Sur la falaise, surplombant La crique sinueuse, près de l'endroit où Xûr apparaît parfois."
+    }
+  },
+  "3728157446": {
+    "displayProperties": {
+      "description": "Nécessite un **fragment de données de pare-feu**. Acquérir les prérequis via Eris Morn."
+    }
+  },
   "3810403766": {
     "displayProperties": {
       "description": "Trouvé le long du chemin en sortant du **Kyste**. Il est niché parmi de très hautes parois rocheuses. Sortir d'ici est douloureux."
+    }
+  },
+  "3880966469": {
+    "displayProperties": {
+      "description": "Congelé dans un bloc de glace. Trouvez un boss **Capitaine déchu** près des ascenseurs pour **l'Approche du Renouveau de Riis** nommé **Ferkis, Bourrasque du Salut** — il vous laissera tomber ce dont vous avez besoin."
+    }
+  },
+  "3888342093": {
+    "displayProperties": {
+      "description": "Sous la glace."
+    }
+  },
+  "3977481189": {
+    "displayProperties": {
+      "description": "En entrant dans le Cercle des ossements via La Loge, tournez à droite et continuez pour suivre la boucle autour du Gouffre des Enfers. Avant d'atteindre la prochaine intersection, retournez vous et regardez sous la plate-forme pour trouver deux yeux de jade perçant à travers votre lumière donnée par le Voyageur."
     }
   },
   "3990611421": {
@@ -2062,6 +2022,46 @@
   "3998251206": {
     "displayProperties": {
       "description": "Un domaine surréaliste de la mémoire à l'intérieur du Voyageur, corrompu par le Témoin."
+    }
+  },
+  "4111390768": {
+    "displayProperties": {
+      "description": "Entrez dans le donjon et dirigez-vous vers la tour la plus à droite. Conservez une certaine altitude si possible. Sur le côté le plus éloigné de la tour la plus éloignée, sous son pied, se trouve un cryptage."
+    }
+  },
+  "4111390770": {
+    "displayProperties": {
+      "description": "Terminez la rencontre de la **Chambre des supplices**. Avant de vous frayer un chemin plus en avant en traversant les pièges en hauteur, montez prudemment à leur niveau le plus élevé."
+    }
+  },
+  "4111390771": {
+    "displayProperties": {
+      "description": "Terminez la rencontre de **La Nécropole** et continuez vers La Fosse. Une fois au mur des chemins, grimpez et faites demi-tour. À droite de la salle se trouve un petit rebord le long du mur de pierre de lune. Utilisez-le pour accéder au niveau supérieur du couloir et passez sur le côté droit le plus éloigné."
+    }
+  },
+  "4111390780": {
+    "displayProperties": {
+      "description": "Dans le tunnel accroupi le plus au milieu, le plus proche de la fosse de gaz vert où se trouve l'orbe solaire. En entrant dans le tunnel du côté de la fosse de gaz vert, il s'élargira rapidement en une petite pièce. Arrêtez-vous, tournez à 180 ° et regardez vers le haut."
+    }
+  },
+  "4111390781": {
+    "displayProperties": {
+      "description": "Descendez dans les **Tunnels du désespoir** et restez à droite. Entrez par le premier chemin accroupi et suivez-le jusqu'à sa fin. Vous verrez une porte rouge. Debout devant la porte rouge, tournez de 70 ° dans le sens des aiguilles d'une montre. Vous allez regarder un rocher. À droite du rocher se trouve le prix que vous recherchez."
+    }
+  },
+  "4292949216": {
+    "displayProperties": {
+      "description": "Entrez dans **La Loge** via **Le gouffre des enfers** et suivez-le jusqu'à une pièce circulaire bien éclairée. Le long du mur vitré sur la droite est ce que vous cherchez."
+    }
+  },
+  "4292949220": {
+    "displayProperties": {
+      "description": "Dans les **Tunnels du désespoir**, sur une corniche de falaise adjacente à la fosse de gaz vert."
+    }
+  },
+  "4292949222": {
+    "displayProperties": {
+      "description": "Sur le côté de l'endroit caché du module illustré."
     }
   }
 }

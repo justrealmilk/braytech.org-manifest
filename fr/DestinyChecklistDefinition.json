@@ -8,55 +8,6 @@
     },
     "progressDescription": "Fragments de spectre récupérés"
   },
-  "1793940260": {
-    "displayProperties": {
-      "name": "Figurines"
-    },
-    "entry": {
-      "name": "Figurines",
-      "completed": "Collectées"
-    },
-    "progressDescription": "Figurines placées"
-  },
-  "703136805": {
-    "entry": {
-      "name": "Répéteurs d'apogée",
-      "completed": "Neutralisés"
-    },
-    "progressDescription": "Répéteurs d'apogée Neutralisés"
-  },
-  "626486626": {
-    "entry": {
-      "prefix": "Plumes",
-      "name": "Plume de Lumière",
-      "completed": "Ramassées"
-    },
-    "progressDescription": "Plumes récupérées"
-  },
-  "3048564473": {
-    "entry": {
-      "prefix": "Visions",
-      "name": "Visions du Voyageur",
-      "completed": "Récupérées"
-    },
-    "progressDescription": "Visions récupérées"
-  },
-  "3430812784": {
-    "entry": {
-      "prefix": "Géometrie",
-      "name": "Géometrie Paracausale",
-      "completed": "Allignée"
-    },
-    "progressDescription": "Géometries allignées"
-  },
-  "2844537300": {
-    "entry": {
-      "prefix": "Cryptage",
-      "name": "Cryptage Perdu",
-      "completed": "Décryptés"
-    },
-    "progressDescription": "Cryptages Decryptés"
-  },
   "817948795": {
     "displayProperties": {
       "name": "Pingouins Souvenirs"
@@ -188,5 +139,54 @@
       "name": "Code Nécrotique"
     },
     "progressDescription": "Codes nécrotiques trouvés"
+  },
+  "1793940260": {
+    "displayProperties": {
+      "name": "Figurines"
+    },
+    "entry": {
+      "name": "Figurines",
+      "completed": "Collectées"
+    },
+    "progressDescription": "Figurines placées"
+  },
+  "703136805": {
+    "entry": {
+      "name": "Répéteurs d'apogée",
+      "completed": "Neutralisés"
+    },
+    "progressDescription": "Répéteurs d'apogée Neutralisés"
+  },
+  "626486626": {
+    "entry": {
+      "prefix": "Plumes",
+      "name": "Plume de Lumière",
+      "completed": "Ramassées"
+    },
+    "progressDescription": "Plumes récupérées"
+  },
+  "3048564473": {
+    "entry": {
+      "prefix": "Visions",
+      "name": "Visions du Voyageur",
+      "completed": "Récupérées"
+    },
+    "progressDescription": "Visions récupérées"
+  },
+  "3430812784": {
+    "entry": {
+      "prefix": "Géometrie",
+      "name": "Géometrie Paracausale",
+      "completed": "Allignée"
+    },
+    "progressDescription": "Géometries allignées"
+  },
+  "2844537300": {
+    "entry": {
+      "prefix": "Cryptage",
+      "name": "Cryptage Perdu",
+      "completed": "Décryptés"
+    },
+    "progressDescription": "Cryptages Decryptés"
   }
 }
