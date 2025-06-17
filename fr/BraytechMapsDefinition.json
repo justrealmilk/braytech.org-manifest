@@ -220,7 +220,7 @@
       "description": "Point zéro d’un événement cataclysmique qui a laissé un éclat massif du Voyageur — la source du pouvoir et de l’immortalité de tous les Gardiens — incrusté dans l’immense paysage. Pendant des années, seules la végétation sauvage et les vestiges d’une ville abandonnée témoignaient de notre passé oublié."
     }
   },
-  
+
   "703052847": {
     "displayProperties": {
       "description": "Accessible via les activités **Autels du Reflet**."
@@ -1606,12 +1606,6 @@
       "description": ""
     }
   },
-    "2000000260": {
-    "displayProperties": {
-      "name": "Aléatoire",
-      "description": "Cette balise peut relayer divers objectifs."
-    }
-  },
   "2000000260": {
     "displayProperties": {
       "name": "Aléatoire",
@@ -1851,7 +1845,7 @@
       "description": "En traversant ce **Kyste**, il y aura deux portes ; celle du haut mène à votre objectif tandis que celle du bas attribue un bit d'encryptions."
     }
   },
-   "2481646875": {
+  "2481646875": {
     "displayProperties": {
       "name": "",
       "description": "Une métropole high-tech, épargnée par la chute, protégée par les vaillants Foules Nuages."
@@ -1961,9 +1955,8 @@
     "displayProperties": {
       "description": "Sur le côté de l'endroit caché du module illustré."
     }
-  }
-}
-"1948990755": {
+  },
+  "1948990755": {
     "displayProperties": {
       "name": "",
       "description": "Dans les recoins les plus éloignés du coin le plus sombre."
@@ -2089,3 +2082,4 @@
       "description": "Un domaine surréaliste de la mémoire à l'intérieur du Voyageur, corrompu par le Témoin."
     }
   }
+}

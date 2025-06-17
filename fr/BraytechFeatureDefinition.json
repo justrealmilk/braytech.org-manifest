@@ -28,14 +28,7 @@
       "name": "Collections",
       "description": "Articles que votre Gardien a obtenu au cours du temps"
     },
-    "keywords": [
-      "exotiques",
-      "badges",
-      "traqueurs",
-      "emblèmes",
-      "catalyseurs",
-      "légendes"
-    ]
+    "keywords": ["exotiques", "badges", "traqueurs", "emblèmes", "catalyseurs", "légendes"]
   },
   "collections-lore": {
     "displayProperties": {
@@ -66,12 +59,7 @@
       "name": "Triomphes",
       "description": "Triomphes accomplis par votre gardien pendant ses aventures"
     },
-    "keywords": [
-      "presque complété",
-      "suivi",
-      "expiré",
-      "sceaux"
-    ]
+    "keywords": ["presque complété", "suivi", "expiré", "sceaux"]
   },
   "triumphs-active": {
     "displayProperties": {
@@ -96,104 +84,63 @@
       "name": "Parcours",
       "description": "Découvrez le parcours de votre Gardien, de Nouvelle Lumière à Paragon."
     },
-    "keywords": [
-      "parcours",
-      "rang de gardien"
-    ]
+    "keywords": ["parcours", "rang de gardien"]
   },
   "commendations": {
     "displayProperties": {
       "name": "Éloges",
       "description": "Célébrez les succès de votre escouade et rendez-leur les gages de votre gentillesse"
     },
-    "keywords": [
-      "éloges",
-      "rang de gardien"
-    ]
+    "keywords": ["éloges", "rang de gardien"]
   },
   "maps": {
     "displayProperties": {
       "name": "Cartes",
       "description": "Cartes interactives indiquant les listes de contrôle et d'autres destinations notables"
     },
-    "keywords": [
-      "œufs",
-      "os d'ahamkara",
-      "coffres de région",
-      "secteurs oubliés"
-    ]
+    "keywords": ["œufs", "os d'ahamkara", "coffres de région", "secteurs oubliés"]
   },
   "checklists": {
     "displayProperties": {
       "name": "Listes de contrôle",
       "description": "Scans de Spectre et listes de contrôle des éléments à récupérer dans le système solaire"
     },
-    "keywords": [
-      "œufs",
-      "os d'ahamkara",
-      "coffres de région",
-      "secteurs oubliés"
-    ]
+    "keywords": ["œufs", "os d'ahamkara", "coffres de région", "secteurs oubliés"]
   },
   "weeklies": {
     "displayProperties": {
       "name": "Hebdomadaires",
       "description": "Le guide des rituels hebdomadaires du Gardien, avec des conseils pour le prestige et le triomphe"
     },
-    "keywords": [
-      "nuit noire",
-      "secteur oublié",
-      "modules"
-    ]
+    "keywords": ["nuit noire", "secteur oublié", "modules"]
   },
   "weeklies-activity-challenges": {
     "displayProperties": {
       "name": "Défis",
       "description": "Tous les défis d'activité"
     },
-    "keywords": [
-      "hebdomadaires",
-      "défis",
-      "jalons",
-      "bonus"
-    ]
+    "keywords": ["hebdomadaires", "défis", "jalons", "bonus"]
   },
   "weeklies-seasonal-challenges": {
     "displayProperties": {
       "name": "Défis Saisonniers",
       "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
     },
-    "keywords": [
-      "défis saisonniers"
-    ]
+    "keywords": ["défis saisonniers"]
   },
   "weeklies-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Rechercher les rotations de diverses activités"
     },
-    "keywords": [
-      "nuits noires",
-      "secteurs oubliés",
-      "rotations",
-      "calendrier",
-      "raids",
-      "source",
-      "autels du malheur",
-      "défi ascendant"
-    ]
+    "keywords": ["nuits noires", "secteurs oubliés", "rotations", "calendrier", "raids", "source", "autels du malheur", "défi ascendant"]
   },
   "character": {
     "displayProperties": {
       "name": "Personnage",
       "description": "Examen de l'équipement et de l'inventaire de votre Gardien"
     },
-    "keywords": [
-      "inventaire",
-      "objets",
-      "équipement",
-      "statistiques"
-    ]
+    "keywords": ["inventaire", "objets", "équipement", "statistiques"]
   },
   "character-equipment": {
     "displayProperties": {
@@ -206,20 +153,14 @@
       "name": "Coffre",
       "description": "Stockage sécurisé pour les objets généraux. Accessible à tous vos personnages"
     },
-    "keywords": [
-      "coffre"
-    ]
+    "keywords": ["coffre"]
   },
   "character-vendors": {
     "displayProperties": {
       "name": "Vendeurs",
       "description": "Espionner vos délégataires de tâches et vos partenaires commerciaux préférés"
     },
-    "keywords": [
-      "vendeurs",
-      "calendrier poussière brillante",
-      "calendrier everversum"
-    ]
+    "keywords": ["vendeurs", "calendrier poussière brillante", "calendrier everversum"]
   },
   "character-loadouts": {
     "displayProperties": {
@@ -238,29 +179,14 @@
       "name": "Contrats",
       "description": "Toutes les contrats du Gardien sélectionné"
     },
-    "keywords": [
-      "contrat"
-    ]
+    "keywords": ["contrat"]
   },
   "activity": {
     "displayProperties": {
       "name": "Activité",
       "description": "Explorez et filtrez vos Rapports de Carnage Post-Match en détail"
     },
-    "keywords": [
-      "rapports",
-      "rcpm",
-      "raids",
-      "secteurs oubliés",
-      "nuits noires",
-      "assauts",
-      "épreuve",
-      "jugement",
-      "compétitif",
-      "matchs",
-      "réputation",
-      "rangs"
-    ]
+    "keywords": ["rapports", "rcpm", "raids", "secteurs oubliés", "nuits noires", "assauts", "épreuve", "jugement", "compétitif", "matchs", "réputation", "rangs"]
   },
   "activity-carnage": {
     "displayProperties": {
@@ -273,18 +199,7 @@
       "name": "Signets",
       "description": "Activités que vous avez mises en favoris"
     },
-    "keywords": [
-      "rapports",
-      "rcpm",
-      "raids",
-      "secteurs oubliés",
-      "nuits noires",
-      "assauts",
-      "épreuve",
-      "jugement",
-      "compétitif",
-      "matchs"
-    ]
+    "keywords": ["rapports", "rcpm", "raids", "secteurs oubliés", "nuits noires", "assauts", "épreuve", "jugement", "compétitif", "matchs"]
   },
   "activity-graphs": {
     "displayProperties": {
@@ -297,21 +212,7 @@
       "name": "Série",
       "description": "Triomphe dans les conditions les plus périlleuses, reportages sur les premières victoires de vos escouades contre nos plus grands adversaires"
     },
-    "keywords": [
-      "rapports",
-      "rcpm",
-      "statistiques",
-      "raids",
-      "secteurs oubliés",
-      "nuits noires",
-      "assauts",
-      "escouades",
-      "day one",
-      "mode tournoi",
-      "achèvements",
-      "sans fautes",
-      "matchs"
-    ]
+    "keywords": ["rapports", "rcpm", "statistiques", "raids", "secteurs oubliés", "nuits noires", "assauts", "escouades", "day one", "mode tournoi", "achèvements", "sans fautes", "matchs"]
   },
   "settings": {
     "displayProperties": {
@@ -354,11 +255,7 @@
       "name": "Questions fréquentes",
       "description": "Les questions les plus fréquemment posées et auxquelles il est facile de répondre"
     },
-    "keywords": [
-      "faq",
-      "aide",
-      "raccourcis"
-    ]
+    "keywords": ["faq", "aide", "raccourcis"]
   },
   "privacy": {
     "displayProperties": {
@@ -376,102 +273,102 @@
     "displayProperties": {
       "name": "Admin",
       "description": "Agir sur le clan ou ses membres"
-      }
-    },
-     "clan-historical-stats": {
+    }
+  },
+  "clan-historical-stats": {
     "displayProperties": {
       "name": "Historique des Statistiques",
       "description": "Comparez les statistiques des joueurs, par mode d'activité.\n\nPour plus d'informations sur l'exactitude de ces statistiques, consultez la [Foire aux questions](/addendums/faq)."
-      }
-    },
-       "collections-sets": {
+    }
+  },
+  "collections-sets": {
     "displayProperties": {
       "name": "Collections",
       "description": "Collections organisées de biens précieux provenant de lieux spécifiques, notamment de raids et de donjons."
-      }
-    },
-        "triumphs-tracked": {
+    }
+  },
+  "triumphs-tracked": {
     "displayProperties": {
       "name": "Triomphes Suivis",
       "description": "Voir ici tous les triomphes que vous avez suivis."
-      }
-    }, 
-   "triumphs-user-hidden": {
+    }
+  },
+  "triumphs-user-hidden": {
     "displayProperties": {
       "name": "Triomphes masqués par le joueur",
       "description": "Des triomphes que tu as choisi de cacher. Qui t'a fait du mal ?"
-      }
-    },
+    }
+  },
   "triumphs-unredeemed": {
     "displayProperties": {
       "name": "Triomphes non-réclamés",
       "description": "Il est temps de faire travailler ces doigts et de réclammer quelques triomphes"
-     }
-    },
+    }
+  },
   "triumphs-near": {
     "displayProperties": {
       "name": "Triomphes Proches",
       "description": "Objectifs prioritaires selon vos critères de tri. Ces triomphes sont presque mûrs pour la cueillette."
-      }
-    },
+    }
+  },
   "weeklies-event": {
     "displayProperties": {
       "name": "Evènement actif",
       "description": "Relevez des défis à durée limitée pour gagner diverses récompenses lors d'un événement à durée limitée."
-      }
-    },
+    }
+  },
   "character-breakdown": {
     "displayProperties": {
       "name": "Détail",
       "description": "Un aperçu de l'équipement et de votre Guardien."
-      }
-    },
+    }
+  },
   "character-inventory": {
     "displayProperties": {
       "name": "Inventaire",
       "description": "Les commis de poste supervisent consciencieusement les livraisons, les messages et les objets perdus. Ils peuvent peut-être aussi vous aider avec vos autres fournitures et matériaux."
-      }
-    },
-   "quests-pathfinder": {
+    }
+  },
+  "quests-pathfinder": {
     "displayProperties": {
       "name": "Cheminement",
       "description": "Le Cheminement est un instrument astronomique, guidant les Gardiens vers les trésors du cosmos, tout en leur permettant de définir leur propre voyage."
-       }
-    },
+    }
+  },
   "settings-subscriptions": {
     "displayProperties": {
       "name": "Souscriptions",
       "description": "Soutenez le développement de Braytech et bénéficiez d'avantages."
-      }
-    },
+    }
+  },
   "settings-legend": {
     "displayProperties": {
       "name": "Légendes",
       "description": "Personnalisez votre profil avec un nom d'utilisateur unique, sélectionnez un élément en surbrillance, choisissez un personnage par défaut pour les liens partagés, et plus encore."
-       }
-    },
+    }
+  },
   "leaderboards": {
     "displayProperties": {
       "name": "Classements",
       "description": "Grimpez dans les rangs et mesurez-vous à vos adversaires ! Comparez vos scores de Triomphes Actifs, Triomphes Héritage, Sceaux Dorés et Collections, individuellement ou avec votre clan."
-      }
-    },
-     "fireteam-monitor": {
+    }
+  },
+  "fireteam-monitor": {
     "displayProperties": {
       "name": "Moniteur d'escouade",
       "description": "_Vous_ êtes le centre de contrôle."
-       }
-    },
+    }
+  },
   "manifest": {
     "displayProperties": {
       "name": "Manifeste",
       "description": "Une archive des versions et définitions du manifeste."
-      }
-    },
+    }
+  },
   "dresstiny": {
     "displayProperties": {
       "name": "Dresstiny",
       "description": "Bienvenue au défilé de mode. Prenez votre temps, flânez un peu, ou lancez une nouvelle tendance…"
-      }
-    },
+    }
+  }
 }
