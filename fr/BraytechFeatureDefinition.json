@@ -371,5 +371,107 @@
       "name": "Crédits",
       "description": "À propos des gardiens qui ont rendu cela possible"
     }
-  }
+  },
+  "clan-roster-admin": {
+    "displayProperties": {
+      "name": "Admin",
+      "description": "Agir sur le clan ou ses membres"
+      }
+    },
+     "clan-historical-stats": {
+    "displayProperties": {
+      "name": "Historique des Statistiques",
+      "description": "Comparez les statistiques des joueurs, par mode d'activité.\n\nPour plus d'informations sur l'exactitude de ces statistiques, consultez la [Foire aux questions](/addendums/faq)."
+      }
+    },
+       "collections-sets": {
+    "displayProperties": {
+      "name": "Collections",
+      "description": "Collections organisées de biens précieux provenant de lieux spécifiques, notamment de raids et de donjons."
+      }
+    },
+        "triumphs-tracked": {
+    "displayProperties": {
+      "name": "Triomphes Suivis",
+      "description": "Voir ici tous les triomphes que vous avez suivis."
+      }
+    }, 
+   "triumphs-user-hidden": {
+    "displayProperties": {
+      "name": "Triomphes masqués par le joueur",
+      "description": "Des triomphes que tu as choisi de cacher. Qui t'a fait du mal ?"
+      }
+    },
+  "triumphs-unredeemed": {
+    "displayProperties": {
+      "name": "Triomphes non-réclamés",
+      "description": "Il est temps de faire travailler ces doigts et de réclammer quelques triomphes"
+     }
+    },
+  "triumphs-near": {
+    "displayProperties": {
+      "name": "Triomphes Proches",
+      "description": "Objectifs prioritaires selon vos critères de tri. Ces triomphes sont presque mûrs pour la cueillette."
+      }
+    },
+  "weeklies-event": {
+    "displayProperties": {
+      "name": "Evènement actif",
+      "description": "Relevez des défis à durée limitée pour gagner diverses récompenses lors d'un événement à durée limitée."
+      }
+    },
+  "character-breakdown": {
+    "displayProperties": {
+      "name": "Détail",
+      "description": "Un aperçu de l'équipement et de votre Guardien."
+      }
+    },
+  "character-inventory": {
+    "displayProperties": {
+      "name": "Inventaire",
+      "description": "Les commis de poste supervisent consciencieusement les livraisons, les messages et les objets perdus. Ils peuvent peut-être aussi vous aider avec vos autres fournitures et matériaux."
+      }
+    },
+   "quests-pathfinder": {
+    "displayProperties": {
+      "name": "Cheminement",
+      "description": "Le Cheminement est un instrument astronomique, guidant les Gardiens vers les trésors du cosmos, tout en leur permettant de définir leur propre voyage."
+       }
+    },
+  "settings-subscriptions": {
+    "displayProperties": {
+      "name": "Souscriptions",
+      "description": "Soutenez le développement de Braytech et bénéficiez d'avantages."
+      }
+    },
+  "settings-legend": {
+    "displayProperties": {
+      "name": "Légendes",
+      "description": "Personnalisez votre profil avec un nom d'utilisateur unique, sélectionnez un élément en surbrillance, choisissez un personnage par défaut pour les liens partagés, et plus encore."
+       }
+    },
+  "leaderboards": {
+    "displayProperties": {
+      "name": "Classements",
+      "description": "Grimpez dans les rangs et mesurez-vous à vos adversaires ! Comparez vos scores de Triomphes Actifs, Triomphes Héritage, Sceaux Dorés et Collections, individuellement ou avec votre clan."
+      }
+    },
+     "fireteam-monitor": {
+    "displayProperties": {
+      "name": "Moniteur d'escouade",
+      "description": "_Vous_ êtes le centre de contrôle."
+       }
+    },
+  "manifest": {
+    "displayProperties": {
+      "name": "Manifeste",
+      "description": "Une archive des versions et définitions du manifeste."
+      }
+    },
+  "dresstiny": {
+    "displayProperties": {
+      "name": "Dresstiny",
+      "description": "Bienvenue au défilé de mode. Prenez votre temps, flânez un peu, ou lancez une nouvelle tendance…"
+      }
+    },
 }
