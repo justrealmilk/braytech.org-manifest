@@ -58,6 +58,14 @@
   "fastestCompletionMsForActivity": {
     "statName": "Fastest"
   },
+  "playerEncounters": {
+    "statName": "Encounters",
+    "statDescription": "Players encountered throughout activities."
+  },
+  "fireteamCombinations": {
+    "statName": "Fireteams",
+    "statDescription": ""
+  },
   "currentCompetitiveRating": {
     "statName": "Current Competitive Rating",
     "statNameAlt": "Current Rating",
