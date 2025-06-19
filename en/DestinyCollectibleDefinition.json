@@ -1508,7 +1508,7 @@
     "sourceSeason": 1
   },
   "2172413746": {
-    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release.",
+    "sourceString": "Source: Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release.",
     "sourceSeason": 14
   },
   "2195312816": {
@@ -1556,7 +1556,7 @@
     "sourceSeason": 17
   },
   "2273453972": {
-    "sourceString": "Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
+    "sourceString": "Source: Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
   },
   "2273453973": {
     "sourceSeason": 12
@@ -1948,7 +1948,8 @@
     "sourceSeason": 19
   },
   "3215337904": {
-    "sourceSeason": 11
+    "sourceSeason": 11,
+    "sourceHash": 1000000050
   },
   "3215337905": {
     "displayProperties": {
@@ -2037,7 +2038,8 @@
     "sourceSeason": 4
   },
   "3265670656": {
-    "sourceSeason": 11
+    "sourceSeason": 11,
+    "sourceHash": 1000000050
   },
   "3265670657": {
     "sourceSeason": 11,
@@ -2071,7 +2073,8 @@
     "sourceHash": 1000000005
   },
   "3265670670": {
-    "sourceSeason": 11
+    "sourceSeason": 11,
+    "sourceHash": 1000000050
   },
   "3265670671": {
     "sourceHash": 1000000010,
@@ -2376,7 +2379,8 @@
     "sourceSeason": 15
   },
   "3399891681": {
-    "sourceSeason": 15
+    "sourceSeason": 15,
+    "sourceString": "Source: Redeemable code included with \"Destiny 2: The Witch Queen Collector's Edition\""
   },
   "3399891682": {
     "sourceHash": 1000000001,
@@ -2667,7 +2671,7 @@
     "sourceSeason": 8
   },
   "3938759711": {
-    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release.",
+    "sourceString": "Source: Complete the \"Garden of Salvation\" raid within the first 24 hours of release.",
     "sourceSeason": 8
   },
   "3967648329": {
@@ -2982,7 +2986,7 @@
   },
   "2040505661": {
     "sourceSeason": 26,
-    "sourceString": "Complete \"The Sunless Cell\" as a Nightfall activity between {date:2025-04-22T17:00:00.000Z} and {date:2025-04-29T17:00:00.000Z}."
+    "sourceString": "Source: Complete \"The Sunless Cell\" as a Nightfall activity between {date:2025-04-22T17:00:00.000Z} and {date:2025-04-29T17:00:00.000Z}."
   },
   "2057283247": {
     "sourceSeason": 26,
@@ -3085,5 +3089,17 @@
   },
   "2273442829": {
     "sourceSeason": 23
+  },
+  "2040168508": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000050
+  },
+  "2040505656": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000049
+  },
+  "2057283239": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000008
   }
 }
