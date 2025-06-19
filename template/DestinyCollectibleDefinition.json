@@ -242,10 +242,10 @@
     }
   },
   "2172413746": {
-    "sourceString": "Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
+    "sourceString": "Source: Complete the \"Vault of Glass\" raid and all encounter challenges within the first 24 hours of release."
   },
   "2273453972": {
-    "sourceString": "Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
+    "sourceString": "Source: Complete the \"Deep Stone Crypt\" raid within the first 24 hours of release."
   },
   "2529229356": {
     "displayProperties": {
@@ -347,6 +347,9 @@
       "supplement": "Complete the \"Vow of the Disciple\" raid."
     }
   },
+  "3399891681": {
+    "sourceString": "Source: Redeemable code included with \"Destiny 2: The Witch Queen Collector's Edition\""
+  },
   "3399891684": {
     "displayProperties": {
       "supplement": "Gift 2 subscriptions to a Destiny 2 Twitch streamer."
@@ -374,7 +377,7 @@
     "sourceString": "Source: \"Deep Stone Crypt\" raid."
   },
   "3938759711": {
-    "sourceString": "Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
+    "sourceString": "Source: Complete the \"Garden of Salvation\" raid within the first 24 hours of release."
   },
   "4137754756": {
     "displayProperties": {
@@ -400,6 +403,6 @@
     "sourceString": "Source: During Guardian Games 2024, have a top 10% standing in either \"Vying for Supremacy\" or \"Shoot to Score\" at the time of weekly reset, and then speak to Eva Levante in the Tower to claim."
   },
   "2040505661": {
-    "sourceString": "Complete \"The Sunless Cell\" as a Nightfall activity between {date:2025-04-22T17:00:00.000Z} and {date:2025-04-29T17:00:00.000Z}."
+    "sourceString": "Source: Complete \"The Sunless Cell\" as a Nightfall activity between {date:2025-04-22T17:00:00.000Z} and {date:2025-04-29T17:00:00.000Z}."
   }
 }
