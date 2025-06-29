@@ -74,7 +74,7 @@
   "5000000013": {
     "displayProperties": {
       "name": "Cancellation",
-      "description": "You can cancel at any time by selecting Manage Subscription from the [Subscriptions](/settings/subscriptions) screen. This flow will take you to Stripe's website, requesting you to authenticate yourself by verifying your email. Any perks gained through your subscription remain active until the subscription's expiration."
+      "description": "You can cancel at any time by selecting Manage Subscription from the [Subscriptions](/settings/subscriptions) view. This flow will take you to Stripe's website, requesting you to authenticate yourself by verifying your email. Any perks gained through your subscription remain active until the subscription's expiration."
     }
   },
   "5000000014": {
