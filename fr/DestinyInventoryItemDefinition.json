@@ -80,7 +80,25 @@
 "860071581": {
   "displayProperties": {
     "name": "Taux d'obtention de \"Lignée Enterrée\" augmenté",
-    "description": "Augmente le taux d'obtention initial de l'arme exotique de poing \"Lignée Enterrée\" dans le donjon \"Ruine du Seigneur de Guerre\"."
+    "description": "Augmente le taux d'obtention initial de l'arme exotique de poing \"Lignée Enterrée\" dans le donjon \"Ruine de la Guerrière\"."
+  }
+},   
+"1371343017": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Euphonie\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à fusion linéaire exotique \"Euphonie\" dans le raid \"Orée du Salut\"."
+  }
+},
+  "2156849113": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Brise-Glace\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil de précision exotique \"Brise-Glace\" dans le donjon \"Hôte Vesper\"."
+  }
+},
+  "3607181138": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Foreuse Finale\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à fusion linéaire exotique \"Foreuse Finale\" dans le donjon \"Dogme fragmenté\"."
   }
 },
   "1190250163": {
@@ -91,6 +109,11 @@
   "1808687944": {
     "displayProperties": {
       "description": "Augmente le rang de Courage de votre gardien. En outre, cela peut exciter Lord Shaxx."
+    }
+  },
+    "2284123716": {
+    "displayProperties": {
+      "name": "Engramme exotique (Rare)"
     }
   },
   "304443327": {
