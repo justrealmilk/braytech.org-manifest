@@ -2,7 +2,7 @@
   "clan": {
     "displayProperties": {
       "name": "Clan",
-      "description": "About your clan, its roster, summative historical stats for all members, and admin mode"
+      "description": "About your clan, its roster, summative historical stats for all members, and admin mode."
     }
   },
   "clan-about": {
@@ -38,7 +38,7 @@
   "collections": {
     "displayProperties": {
       "name": "Collections",
-      "description": "Items your Guardian has acquired over their lifetime"
+      "description": "Items your Guardian has acquired over their lifetime."
     },
     "keywords": [
       "exotics",
@@ -136,7 +136,7 @@
   "journey": {
     "displayProperties": {
       "name": "Journey",
-      "description": "Navigate your Guardian's journey from New Light to Paragon"
+      "description": "Navigate your Guardian's journey from New Light to Paragon."
     },
     "keywords": [
       "journey",
@@ -146,7 +146,7 @@
   "commendations": {
     "displayProperties": {
       "name": "Commendations",
-      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness."
     },
     "keywords": [
       "commendations",
@@ -156,7 +156,7 @@
   "maps": {
     "displayProperties": {
       "name": "Maps",
-      "description": "Interactive maps charting checklists and other notable destinations"
+      "description": "Interactive maps charting checklists and other notable destinations."
     },
     "keywords": [
       "eggs",
@@ -180,7 +180,7 @@
   "weeklies": {
     "displayProperties": {
       "name": "Weeklies",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph"
+      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
     },
     "keywords": [
       "nightfall",
@@ -257,12 +257,6 @@
     "displayProperties": {
       "name": "Equipment",
       "description": "Evaluate your Guardian's battle readiness"
-    }
-  },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "Breakdown",
-      "description": "An overview of your Guardian's equipment and readiness."
     }
   },
   "character-inventory": {
@@ -451,13 +445,13 @@
   "archives": {
     "displayProperties": {
       "name": "Archives",
-      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations"
+      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations."
     }
   },
   "faq": {
     "displayProperties": {
       "name": "Frequently Asked Questions",
-      "description": "The frequently asked and easy to answer"
+      "description": "The frequently asked and easy to answer..."
     },
     "keywords": [
       "faq",
@@ -468,13 +462,13 @@
   "privacy": {
     "displayProperties": {
       "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "description": "Respecting personal boundaries."
     }
   },
   "credits": {
     "displayProperties": {
       "name": "Credits",
-      "description": "The Guardians who make it possible"
+      "description": "The Guardians who make it possible."
     }
   },
   "leaderboards": {
