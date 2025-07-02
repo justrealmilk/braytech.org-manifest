@@ -2,11 +2,11 @@
   "0": {
     "displayProperties": {
       "name": "Classifié",
-      "description": "Garder cela propre."
+      "description": "Gardez cela propre."
     },
     "originalDisplayProperties": {
       "name": "Classifié",
-      "description": "Garder cela propre."
+      "description": "Gardez cela propre."
     }
   },
   "1": {
@@ -22,9 +22,27 @@
       "description": "En orbite, planifiant quelque chose de terriblement héroïque."
     }
   },
+  
   "2965669871": {
     "displayProperties": {
       "name": "Chacun pour soi: Bannière de Fer: Faille"
     }
-  }
+  },
+  "3700942889": {
+    "displayProperties": {
+      "name": "Freelance: Bannière de fer: Eruption"
+    }
+  },
+  "1698629738": {
+    "displayProperties": {
+      "name": "Freelance: Bannière de Fer: Forteresse"
+    }
+  },
+  
+"968118624": {
+  "displayProperties": {
+    "name": "Champ de Bataille PsiOps : Cosmodrome",
+    "description": "La Ruche Lumineuse utilise la Lumière volée des Gardiens à des fins malveillantes. Infiltrez leur bastion et découvrez leur complot."
+  }
+}
 }
