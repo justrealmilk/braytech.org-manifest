@@ -129,12 +129,12 @@
       }
     ]
   },
-"2032534090": {
-  "displayProperties": {
-    "name": "Le Trône Brisé",
-    "description": "Ripostez contre la malédiction qui ronge la Cité des Rêves."
-  }
-},
+  "2032534090": {
+    "displayProperties": {
+      "name": "Le Trône Brisé",
+      "description": "Ripostez contre la malédiction qui ronge la Cité des Rêves."
+    }
+  },
   "677774031": {
     "bubbles": [
       {
@@ -184,44 +184,43 @@
     ]
   },
   "3998251206": {
-  "bubbles": [
-    {
-      "hash": 39982512061,
-      "displayProperties": {
-        "name": "Danse de l'épée"
+    "bubbles": [
+      {
+        "hash": 39982512061,
+        "displayProperties": {
+          "name": "Danse de l'épée"
+        }
+      },
+      {
+        "hash": 39982512062,
+        "displayProperties": {
+          "name": "Caverne infestée de mites"
+        }
+      },
+      {
+        "hash": 39982512063,
+        "displayProperties": {
+          "name": "Bourreau"
+        }
+      },
+      {
+        "hash": 39982512064,
+        "displayProperties": {
+          "name": "Lumière ardente"
+        }
+      },
+      {
+        "hash": 39982512065,
+        "displayProperties": {
+          "name": "Obscurité oppressante"
+        }
+      },
+      {
+        "hash": 39982512066,
+        "displayProperties": {
+          "name": "Talent aérien"
+        }
       }
-    },
-    {
-      "hash": 39982512062,
-      "displayProperties": {
-        "name": "Caverne infestée de mites"
-      }
-    },
-    {
-      "hash": 39982512063,
-      "displayProperties": {
-        "name": "Bourreau"
-      }
-    },
-    {
-      "hash": 39982512064,
-      "displayProperties": {
-        "name": "Lumière ardente"
-      }
-    },
-    {
-      "hash": 39982512065,
-      "displayProperties": {
-        "name": "Obscurité oppressante"
-      }
-    },
-    {
-      "hash": 39982512066,
-      "displayProperties": {
-        "name": "Talent aérien"
-      }
-    }
-  ]
-}
-
+    ]
+  }
 }
