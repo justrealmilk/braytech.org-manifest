@@ -72,5 +72,140 @@
     "displayProperties": {
       "name": "Tous les catalyseurs exotiques"
     }
-  }
+  }, 
+  "2530001514": {
+    "displayProperties": {
+      "description": "Les énigmatiques Neuf ont de nouveau convoqué les Gardiens à une épreuve. Préparez-vous.",
+      "showDescription": true
+    }
+  },
+  "1000000008": {
+    "displayProperties": {
+      "name": "Échangeables",
+      "description": "Ces emblèmes peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/redeem"
+    }
+  },
+  "1000000009": {
+    "displayProperties": {
+      "name": "Animés",
+      "description": "Ces revêtements contiennent des éléments animés."
+    }
+  },
+  "1000000010": {
+    "displayProperties": {
+      "name": "Cache du développeur",
+      "description": "Obtenez ces codes via [CONFIDENTIEL] et recevez-les du développeur."
+    }
+  },
+  "1205461800": {
+    "displayProperties": {
+      "name": "Ornements",
+      "description": ""
+    }
+  },
+  "1000000011": {
+    "displayProperties": {
+      "name": "Armure de Titan",
+      "description": ""
+    }
+  },
+  "1000000012": {
+    "displayProperties": {
+      "name": "Armure de Chasseur",
+      "description": ""
+    }
+  },
+  "1000000013": {
+    "displayProperties": {
+      "name": "Armure d'Arcaniste",
+      "description": ""
+    }
+  },
+  "1000000014": {
+    "displayProperties": {
+      "name": "Synergies légendaires",
+      "description": "Ornements d’armure associés à des exotiques pour des effets uniques."
+    }
+  },
+  "2485764221": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "2329774788": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "2334031483": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "464627906": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "3111288225": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "4242023272": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "861774511": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "724209558": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "1194500405": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "184846131": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "562783996": {
+    "displayProperties": {
+      "itemTypeDisplayName": "Rang de Gardien",
+    }
+  },
+  "1062988660": {
+    "displayProperties": {
+      "name": "Le Cœur Pâle"
+    }
+  },
+  "2968370335": {
+    "displayProperties": {
+      "name": "Avant-garde"
+    }
+  },
+  "1190294990": {
+    "displayProperties": {
+      "name": "Gambit"
+    }
+  },
+  "1289679000": {
+    "displayProperties": {
+      "name": "Epreuve"
+    }
+  },
+  "1000000015": {
+    "displayProperties": {
+      "name": "Échangeables",
+      "description": "Ces revêtements peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/redeem"
+    }
+  }
 }
