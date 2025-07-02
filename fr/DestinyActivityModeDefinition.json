@@ -43,7 +43,7 @@
   },
   "1686739444": {
     "displayProperties": {
-      "description": "Vous avez supprimé Ghaul, réveillé le Voyageur, et maintenant la moitié de ce que j'entends dans les rues, c'est à quel point vous et votre clan faites une différence ... Et c'est pourquoi j'ai commencé tout ce truc de clan en premier lieu - les gens attendent toujours que l'Avant-garde montre l'exemple, mais il est temps de changer cela ! Et ce sont des Gardiens comme vous qui vont nous y aider ... Pas de pression."
+      "description": ""
     }
   },
   "11647605040": {
@@ -70,7 +70,7 @@
   "31990984800": {
     "displayProperties": {
       "name": "Domination et impulsion",
-      "description": "Combattez pour la Gloire en capturant des zones et en battant vos adversaires. Toutes les armes sont plus meurtrières, les capacités ne se reconstituent qu'en faisant des frags et le radar est désactivé."
+      "description": ""
     }
   },
   "3484731833": {
@@ -110,36 +110,36 @@
     }
   },
   "2486723318": {
-  "displayProperties": {
-    "name": "Compétitif",
-    "description": "Les parties dans cette playlist influencent votre placement en Division Compétitive. Les victoires entraînent des promotions, augmentant votre placement. Les défaites entraînent des relégations, diminuant votre placement."
-  }
-},
-"1639772990": {
-  "displayProperties": {
-    "name": "Bannière de Fer : Forteresse",
-    "description": ""
-  }
-}, 
-"2732566144": {
-  "displayProperties": {
-    "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
-  }
-},
+    "displayProperties": {
+      "name": "Compétitif",
+      "description": ""
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Bannière de Fer : Forteresse",
+      "description": ""
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
+    }
+  },
   "1673724806": {
     "displayProperties": {
-      "description": "Participez à une version événementielle d'Élimination nécessitant une escouade. Enchaînez un maximum de victoires sur un même ticket. Trois défaites, et c’est terminé."
+      "description": ""
     }
-  }, 
-"2916787939": {
-  "displayProperties": {
-    "name": "Missions Exotiques",
-    "description": "Découvrez des chemins cachés, déverrouillez des technologies anciennes et maîtrisez des défis secrets. La récompense ? Des armes légendaires."
-  }
-},
+  },
+  "2916787939": {
+    "displayProperties": {
+      "name": "Missions Exotiques",
+      "description": "Découvrez des chemins cachés, déverrouillez des technologies anciennes et maîtrisez des défis secrets. La récompense ? Des armes légendaires."
+    }
+  },
   "2546784302": {
     "displayProperties": {
-      "description": "Remportez la victoire en battant vos adversaires et en empêchant les réanimations. Réanimez un coéquipier vaincu pour récupérer le point marqué par vos adversaires. Gagnez le plus de manches ou affrontez-vous dans une confrontation éliminatoire."
+      "description": ""
     }
   }
 }
