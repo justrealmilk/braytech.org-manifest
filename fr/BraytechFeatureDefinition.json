@@ -249,12 +249,6 @@
       "description": "Évaluez l'état de préparation au combat de votre gardien"
     }
   },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "Détail",
-      "description": "Un aperçu de l'équipement et de votre Guardien."
-    }
-  },
   "character-inventory": {
     "displayProperties": {
       "name": "Inventaire",

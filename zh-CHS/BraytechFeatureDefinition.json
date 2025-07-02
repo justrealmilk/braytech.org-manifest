@@ -155,12 +155,6 @@
       "description": "检查你的守护者是否为下一场战斗做好充分准备"
     }
   },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "概览",
-      "description": "护者装备与准备状态的概述。"
-    }
-  },
   "character-inventory": {
     "displayProperties": {
       "name": "库存",

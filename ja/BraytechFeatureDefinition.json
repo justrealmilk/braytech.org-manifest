@@ -247,12 +247,6 @@
       "description": "ガーディアンの戦闘態勢を確認します"
     }
   },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "詳細",
-      "description": "現在装備中のアイテム概要"
-    }
-  },
   "character-inventory": {
     "displayProperties": {
       "name": "所持品",
