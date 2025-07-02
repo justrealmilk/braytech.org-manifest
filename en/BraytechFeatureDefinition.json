@@ -3,7 +3,7 @@
     "hash": "clan",
     "displayProperties": {
       "name": "Clan",
-      "description": "About your clan, its roster, summative historical stats for all members, and admin mode"
+      "description": "About your clan, its roster, summative historical stats for all members, and admin mode."
     },
     "to": "/clan",
     "children": {
@@ -70,7 +70,7 @@
     "hash": "collections",
     "displayProperties": {
       "name": "Collections",
-      "description": "Items your Guardian has acquired over their lifetime"
+      "description": "Items your Guardian has acquired over their lifetime."
     },
     "to": "/collections",
     "keywords": ["exotics", "badges", "trackers", "emblem", "catalysts", "lore"],
@@ -216,7 +216,7 @@
     "hash": "journey",
     "displayProperties": {
       "name": "Journey",
-      "description": "Navigate your Guardian's journey from New Light to Paragon"
+      "description": "Navigate your Guardian's journey from New Light to Paragon."
     },
     "to": "/journey",
     "keywords": ["journey", "guardian rank"]
@@ -225,7 +225,7 @@
     "hash": "commendations",
     "displayProperties": {
       "name": "Commendations",
-      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness"
+      "description": "Celebrate your fireteam's successes and award them tokens of your thoughtfulness."
     },
     "to": "/commendations",
     "keywords": ["commendations", "guardian rank"]
@@ -234,7 +234,7 @@
     "hash": "maps",
     "displayProperties": {
       "name": "Maps",
-      "description": "Interactive maps charting checklists and other notable destinations"
+      "description": "Interactive maps charting checklists and other notable destinations."
     },
     "to": "/maps",
     "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"],
@@ -259,7 +259,7 @@
     "hash": "weeklies",
     "displayProperties": {
       "name": "Weeklies",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph"
+      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
     },
     "to": "/weeklies",
     "keywords": ["nightfall", "lost sector", "modules", "event", "challenges"],
@@ -327,9 +327,6 @@
     "children": {
       "views": [
         {
-          "viewHash": "character-breakdown"
-        },
-        {
           "viewHash": "character-inventory"
         },
         {
@@ -351,14 +348,6 @@
       "description": "Evaluate your Guardian's battle readiness"
     },
     "to": "/character"
-  },
-  "character-breakdown": {
-    "hash": "character-breakdown",
-    "displayProperties": {
-      "name": "Breakdown",
-      "description": "An overview of your Guardian's equipment and readiness."
-    },
-    "to": "/character/breakdown"
   },
   "character-inventory": {
     "hash": "character-inventory",
@@ -569,7 +558,7 @@
     "hash": "archives",
     "displayProperties": {
       "name": "Archives",
-      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations"
+      "description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations."
     },
     "to": "/archives"
   },
@@ -577,7 +566,7 @@
     "hash": "faq",
     "displayProperties": {
       "name": "Frequently Asked Questions",
-      "description": "The frequently asked and easy to answer"
+      "description": "The frequently asked and easy to answer..."
     },
     "to": "/addendums/faq",
     "keywords": ["faq", "help", "shortcuts"]
@@ -586,7 +575,7 @@
     "hash": "privacy",
     "displayProperties": {
       "name": "Privacy",
-      "description": "Respecting personal boundaries"
+      "description": "Respecting personal boundaries."
     },
     "to": "/addendums/privacy"
   },
@@ -594,7 +583,7 @@
     "hash": "credits",
     "displayProperties": {
       "name": "Credits",
-      "description": "The Guardians who make it possible"
+      "description": "The Guardians who make it possible."
     },
     "to": "/addendums"
   },
