@@ -103,11 +103,40 @@
       "description": "Combattez pour la Gloire en épuisant la réserve de vie partagée de vos adversaires, puis en les éliminant."
     }
   },
+  "16867394440": {
+    "displayProperties": {
+      "name": "Missions exotiques",
+      "description": ""
+    }
+  },
+  "2486723318": {
+  "displayProperties": {
+    "name": "Compétitif",
+    "description": "Les parties dans cette playlist influencent votre placement en Division Compétitive. Les victoires entraînent des promotions, augmentant votre placement. Les défaites entraînent des relégations, diminuant votre placement."
+  }
+},
+"1639772990": {
+  "displayProperties": {
+    "name": "Bannière de Fer : Forteresse",
+    "description": ""
+  }
+}, 
+"2732566144": {
+  "displayProperties": {
+    "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
+  }
+},
   "1673724806": {
     "displayProperties": {
       "description": "Participez à une version événementielle d'Élimination nécessitant une escouade. Enchaînez un maximum de victoires sur un même ticket. Trois défaites, et c’est terminé."
     }
-  },
+  }, 
+"2916787939": {
+  "displayProperties": {
+    "name": "Missions Exotiques",
+    "description": "Découvrez des chemins cachés, déverrouillez des technologies anciennes et maîtrisez des défis secrets. La récompense ? Des armes légendaires."
+  }
+},
   "2546784302": {
     "displayProperties": {
       "description": "Remportez la victoire en battant vos adversaires et en empêchant les réanimations. Réanimez un coéquipier vaincu pour récupérer le point marqué par vos adversaires. Gagnez le plus de manches ou affrontez-vous dans une confrontation éliminatoire."
