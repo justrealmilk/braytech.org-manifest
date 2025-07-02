@@ -2,7 +2,7 @@
   "0": {
     "displayProperties": {
       "name": "Classifié",
-      "description": "Garde le propre."
+      "description": "Gardez le propre."
     },
     "itemTypeDisplayName": "Dégagement insuffisant"
   },
@@ -20,11 +20,69 @@
     },
     "itemTypeDisplayName": "Engramme"
   },
+  "2643364263": {
+    "displayProperties": {
+      "description": "Un engramme doté de marqueurs d'encodage remarquables. Un Cryptarque serait ravi de le décrypter pour en révéler la véritable nature."
+    },
   "372496383": {
     "displayProperties": {
       "description": "Augmente votre rang d'Infamie de votre Gardien. Ne le dites pas à l'Avant-Garde."
     }
   },
+    "951399115": {
+    "displayProperties": {
+      "name": "Taux d'obtention de Mille Voix augmenté",
+      "description": "Augmente le taux d'obtention initial du fusil à fusion exotique "Mille Voix" dans le raid "Dernier Vœu"."
+    }
+  },
+    "700251940": {
+    "displayProperties": {
+      "name": "Taux d'obtention de \"Regard du Demain augmenté\" ",
+      "description": "Augmente le taux d'obtention initial du lance-roquettes exotique \"Regard du Demain\" dans le raid \"Crypte de la Pierre\" "
+    }
+  }, 
+"901060145": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"L'Exégèse du Vex\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à fusion exotique \"L'Exégèse du Vex\" dans le raid \"Caveau de Verre\"."
+  }
+},
+"1541696845": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Obligation Collective\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à impulsion exotique \"Obligation Collective\" dans le raid \"Serment du Disciple\"."
+  }
+},
+2902936983": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Once de Méchanceté\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil éclaireur exotique \"Once de Méchanceté\" dans le raid \"Chute du Roi\"."
+  }
+},   
+"2467253899": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Finalité Conditionnelle\" augmenté",
+    "description": "Augmente considérablement le taux d'obtention initial du fusil à pompe exotique \"Finalité Conditionnelle\" dans le raid \"Origine des Cauchemars\"."
+  }
+},
+"734180536": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Finalité Conditionnelle\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à pompe exotique \"Finalité Conditionnelle\" dans le raid \"Origine des Cauchemars\"."
+  }
+},  
+"2126433420": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Le Navigateur\" augmenté",
+    "description": "Augmente le taux d'obtention initial du fusil à rayon exotique \"Le Navigateur\" dans le donjon \"Fantômes des Profondeurs\"."
+  }
+},
+"860071581": {
+  "displayProperties": {
+    "name": "Taux d'obtention de \"Lignée Enterrée\" augmenté",
+    "description": "Augmente le taux d'obtention initial de l'arme exotique de poing \"Lignée Enterrée\" dans le donjon \"Ruine du Seigneur de Guerre\"."
+  }
+},
   "1190250163": {
     "displayProperties": {
       "description": "Matériel Synthécorde qui peut être converti en Synthéfibre en utilisant le métier à tisser."
