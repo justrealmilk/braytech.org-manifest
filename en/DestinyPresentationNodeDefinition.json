@@ -733,6 +733,31 @@
     "showInvisible": true,
     "redacted": false
   },
+  "3517356538": {
+    "children": {
+      "presentationNodes": [
+        {
+          "presentationNodeHash": 1000000016
+        }
+      ]
+    }
+  },
+  "1000000016": {
+    "hash": 1000000016,
+    "displayProperties": {
+      "name": "Emotes",
+      "description": "Express yourself!"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [3517356538],
+    "redacted": false
+  },
   "2485764221": {
     "displayProperties": {
       "bannerImage": "/static/images/extracts/0332-0823.jpg"
