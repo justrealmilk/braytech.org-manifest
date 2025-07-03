@@ -62,7 +62,8 @@
     }
   },
       "781425998": {
-    "sourceString": "Source: Solstice",
+        "sourceString": "Source: Solstice"
+
   },
     "802420308": {
     "displayProperties": {
@@ -308,7 +309,7 @@
       "4137754762": {
     "displayProperties": {
       "supplement": "Récompense pour avoir terminé la quête Nouvelle Lumière."
-    },
+    }
        },
   "4224291482": {
     "sourceString": "Source : Pendant les Jeux des Gardiens 2024, atteignez le top 10 % dans « Lutte pour la suprématie » ou « Tir de précision » au moment de la réinitialisation hebdomadaire, puis parlez à Eva Levante dans la Tour pour réclamer votre récompense.",
@@ -350,4 +351,4 @@
   "3938759711": {
     "sourceString": "Terminez le raid \"Jardin du Salut\" dans les 24 premières heures suivant la sortie."
   }
-}
+      }
