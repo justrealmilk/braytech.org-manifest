@@ -247,12 +247,6 @@
       "description": "Evalúa si tu Guardián está preparado para la batalla."
     }
   },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "Desglose",
-      "description": "Una visión general del equipamiento y la preparación de tu Guardián."
-    }
-  },
   "character-inventory": {
     "displayProperties": {
       "name": "Inventario",

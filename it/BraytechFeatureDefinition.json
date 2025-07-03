@@ -229,12 +229,6 @@
       "description": "Valuta la prontezza in battaglia del tuo Guardiano"
     }
   },
-  "character-breakdown": {
-    "displayProperties": {
-      "name": "Resoconto",
-      "description": "Una panoramica dell'equipaggiamento e della prontezza del tuo Guardiani."
-    }
-  },
   "character-inventory": {
     "displayProperties": {
       "name": "Inventario",
