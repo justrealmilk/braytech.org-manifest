@@ -126,11 +126,11 @@
       "supplement": "Offrez deux abonnements à un streamer Destiny 2 sur Twitch."
     }, 
   "1171206947": {
-    "sourceString": "Source: Terminer le raid \"Dernier Serment\" dans les premières 24 heures après son lancement."
+    "sourceString": "Source: Terminer le raid \"Dernier Voeu\" dans les premières 24 heures après son lancement."
   },
   "1246578674": {
     "displayProperties": {
-      "supplement": "Compléter tous les défis du raid \"Dernier Serment\"."
+      "supplement": "Compléter tous les défis du raid \"Dernier Voeu\"."
     }
   },
       "1956280348": {
@@ -171,9 +171,81 @@
     },
   "1469913804": {
     "displayProperties": {
-      "supplement": "Récompense rare après avoir terminé la 3e rencontre du raid \"Dernier Serment\" (Morgeth, le Garde-Flèche)."
+      "supplement": "Récompense rare après avoir terminé la 3e rencontre du raid \"Dernier Voeu\" (Morgeth, le Garde-Flèche)."
     }
   },
+  "2006613207": {
+    "displayProperties": {
+      "supplement": "Regardez au moins 30 minutes du Showcase de Bungie sur Twitch."
+    },  
+    "2006613213": {
+    "displayProperties": {
+      "supplement": "En reconnaissance du déblocage de Légende des Oubliés - Vol 2 durant la fête des âmes perdues"
+    },
+    "2023390785": {
+    "displayProperties": {
+      "supplement": "Récompense pour l'achat d'un item des Jeux des Gardiens 2022 depuis le Bungie Store."
+    },
+    "2023390791": {
+    "displayProperties": {
+      "supplement": "Durant la saison des Tourments, faites 7,777 frags solaires."
+    },
+      "2040168506": {
+    "displayProperties": {
+      "supplement": "Achetez le coup de grâce Chaos Tournoyant."
+    },
+      "2056946085": {
+    "displayProperties": {
+      "supplement": "Complétez le triomphe \"Frozen Doom\" de l'Avènement 2022."
+    },
+      "2056946089": {
+    "displayProperties": {
+      "description": "Un emblème en hommage au passé d'un membre de la communauté, Seraphim Crypto. Vous pouvez en apprendre plus sur sa légende dans la CSCB du 15 Septembre 2022 (https://www.bungie.net/en/Explore/Detail/News/51779)."
+    },
+      "2529229356": {
+    "displayProperties": {
+      "supplement": "Offrez deux abonnements à un streamer Destiny 2 sur Twitch."
+    },
+       "3215337907": {
+    "displayProperties": {
+      "supplement": "En liant votre compte Epic Game pour la sortie de Destiny 2 sur l'Epic Game Store."
+    },
+        "3215337908": {
+    "displayProperties": {
+      "supplement": "En liant votre compte Epic Game pour la sortie de Destiny 2 sur l'Epic Game Store."
+    },
+        "3232115491": {
+    "displayProperties": {
+      "supplement": "Complétez une activité dans la playlist d'assaut des Jeux des Gardiens durant les Jeux des Gardiens 2021."
+    },
+      "2999013840": {
+    "displayProperties": {
+      "supplement": "Regardez le Stream Officiel Game2Give de la Fondation Bungie."
+    },
+      "3215337905": {
+    "displayProperties": {
+      "supplement": "Regardez au moins une heure d'un des streams pour \"Dans la Lumière\" sur Twitch."
+    },
+      "3265670665": {
+    "displayProperties": {
+      "supplement": "Récompense pour votre vote pour votre meilleur moment dans \"Au delà de la Lumière.\""
+    },
+      "3299225958": {
+    "displayProperties": {
+      "supplement": "Durant l'Avènement 2021, complétez le triomphe \"Livraison de cookies: Avant-Garde\"."
+    },
+      "3299225960": {
+    "displayProperties": {
+      "supplement": "Pour votre progression dans la Fête des Ames Perdues 2021."
+    },
+      "3299225961": {
+    "displayProperties": {
+      "supplement": "Guidez 10 Gardiens dans leur premier raid \"La Chute du Roi\""
+    },
+      "3316003527": {
+    "displayProperties": {
+      "supplement": "Regardez au moins une heure d'un des streams pour \"Dans la Lumière\" sur Twitch."
+    },
   "1988948484": {
     "sourceString": "Source: Obtenu en complétant la quête exotique \"Défragmentation Divine\"."
   },
@@ -188,14 +260,75 @@
       "supplement": "Obtenu en complétant le triomphe [\"Garde de la Crypte\"](/triumphs/node/2647590440/1476271775/1726708384/992355976)."
     }
   },
+      "3316003530": {
+    "displayProperties": {
+      "supplement": "Récompense pour avoir complété la quête du Solstice des Héros 2021."
+    },
   "2571679419": {
     "displayProperties": {
       "supplement": "Obtenu en complétant le triomphe [\"Loi du plus fort\"](/triumphs/node/2647590440/1476271775/1726708384/3560923614)."
     }
   },
+      "3332781236": {
+    "displayProperties": {
+      "supplement": "Obtenez Vulpecula, un nouveau revolver stasique dans la saison des Disparus."
+    },
+      "3332781237": {
+    "displayProperties": {
+      "supplement": "Guidez 10 Gardiens dans leur premier raid \"Caveau de Verre\""
+    },
+      "3383113994": {
+    "displayProperties": {
+      "supplement": "Regardez un stream participant à la course de raid pendant 2 heures."
+    },
+      "3383113997": {
+    "displayProperties": {
+      "supplement": "Offrez deux abonnements à un streamer Destiny 2 sur Twitch."
+    },
+      "3383113999": {
+    "displayProperties": {
+      "supplement": "Venez à bout du \"Serement du Disciple\""
+    },
+      "3399891687": {
+    "displayProperties": {
+      "supplement": "Terminez la quête « Magnum Opus » et obtenez l’arme exotique Prédécesseur, puis achetez la réplique de la « Pièce étrange » sur le Bungie Store"
+    },
+      "4137754757": {
+    "displayProperties": {
+      "supplement": "Pendant L’Avènement 2020, terminez la quête, \"Livraison de cookies : Tour\"."
+    },
+      "4137754756": {
+    "displayProperties": {
+      "supplement": "Terminez 75 Défis saisonniers pendant la Saison des Élus."
+    },
+      "2040505661": {
+    "sourceSeason": 26,
+    "sourceString": "Source : Terminez « Geôle Ténébreuse » en activité Nuit noire entre le {date:2025-04-22T17:00:00.000Z} et le {date:2025-04-29T17:00:00.000Z}"
+  },
+      "4137754762": {
+    "displayProperties": {
+      "supplement": "Récompense pour avoir terminé la quête Nouvelle Lumière."
+    },
+       },
+  "4224291482": {
+    "sourceString": "Source : Pendant les Jeux des Gardiens 2024, atteignez le top 10 % dans « Lutte pour la suprématie » ou « Tir de précision » au moment de la réinitialisation hebdomadaire, puis parlez à Eva Levante dans la Tour pour réclamer votre récompense.",
+    "sourceSeason": 23
+  },
+      "4137754763": {
+    "displayProperties": {
+      "supplement": "Terminez le donjon du 30e anniversaire, \"Etreinte de l'Avarice\"."
+    },
+      "3399891684": {
+    "displayProperties": {
+      "supplement": "Offrez deux abonnements à un streamer Destiny 2 sur Twitch."
+    },
+       "3399891681": {
+    "sourceSeason": 15,
+    "sourceString": "Source : Code échangeable inclus avec  \"Destiny 2 : Édition Collector de La Reine Sorcière\""
+  },
   "3163873693": {
     "displayProperties": {
-      "supplement": "Ouvrir le coffre de la \"clé scintillante\" dans le raid \"Dernier Serment\"."
+      "supplement": "Ouvrir le coffre de la \"clé scintillante\" dans le raid \"Dernier Voeu\"."
     }
   },
   "3568861784": {
