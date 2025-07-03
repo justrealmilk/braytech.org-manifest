@@ -160,5 +160,281 @@
       "name": "Oryx",
       "description": "Détrôner le roi."
     }
+  },
+  "2169047898": {
+    "displayProperties": {
+      "name": "Trouver Riven",
+      "description": "Après avoir vaincu Morgeth, le Garde-Flèche, montez plus haut dans la Cité des Rêves et poursuivez Riven."
+    }
+  },
+ "378163510": {
+    "displayProperties": {
+      "name": "Marche de la Reine",
+      "description": "Échappez-vous de la flèche et apportez le coeur à la Tékienne."
+    }
+  }, 
+   "3172054256": {
+    "displayProperties": {
+      "name": "Cataclysme",
+      "description": "Repoussez les forces de la Légion de l’Ombre et poursuivez Nezarec."
+    }
+  },
+  "2224793617": {
+    "displayProperties": {
+      "name": "Scission",
+      "description": "Entrez dans la Racine."
+    }
+  },
+  "2184227225": {
+    "displayProperties": {
+      "name": "Macrocosme",
+      "description": "Alignez les mondes et vainquez Zo'Aurc."
+    }
+  },
+  "2779782231": {
+    "displayProperties": {
+      "name": "Nezarec",
+      "description": "Mettez fin au cauchemar et vainquez Nezarec"
+    }
+  },
+   "2890972472": {
+    "displayProperties": {
+      "name": "L’Abîme",
+      "description": "Découvrez le chemin illuminé dans les ténèbres"
+    }
+  },
+  "3768812794": {
+    "displayProperties": {
+      "name": "Pont du Trône de l’Âme Suprême",
+      "description": "Traversez le pont et gravissez le Trône."
+    }
+  },
+   "1463700798": {
+    "displayProperties": {
+      "name": "Ir Yût, la Cantatrice de la Mort",
+      "description": "Abattez la sorcière, faites taire son Chant de Mort"
+    }
+  },
+  "4240994016": {
+    "displayProperties": {
+      "name": "Cropta, Fils d’Oryx",
+      "description": "Utilisez l’arme la plus puissante de Cropta contre lui. "
+    }
+  },
+  "1899447888": {
+    "displayProperties": {
+      "name": "Chercher un passage sûr",
+      "description": "\"Montre-moi ta ruse…\""
+    }
+  },
+  "2700613207": {
+    "displayProperties": {
+      "name": "Vorgeth, la faim Insatiable",
+      "description": "\"Donne forme à tes machinations… \""
+    }
+  },
+  "1340233962": {
+    "displayProperties": {
+      "name": "Dûl Incaru, l'éternel Renouveau",
+      "description": "\"Entre dans l’infini…\""
+    }
+  },
+  "5808550890": {
+    "displayProperties": {
+      "name": "Nécropole",
+      "description": "Retournez les lames de l’ennemi contre lui."
+    }
+  },
+  "1826821877": {
+    "displayProperties":  {
+      "name": "Chambre du Supplice",
+      "description": "Endurez la Chambre du Supplice."
+    }
+  },
+  "133673726": {
+    "displayProperties": {
+      "name": "Zulmak, Instrument du Tourment",
+      "description": "Tuez Zulmak, Instrument du Tourment.."
+    }
+  },
+   "2400102494": {
+    "displayProperties": {
+      "name": "Vaincre l'Écho de Phalange",
+      "description": "Affrontez l'Écho de Phalange, une partie de la réponse des Neuf à votre question."
+    }
+  },
+  "3585780724": {
+    "displayProperties": {
+      "name": "Évasion",
+      "description": "Trouvez un moyen d’avancer."
+    }
+  },
+  "3492117941": {
+    "displayProperties": {
+      "name": "Vaincre l'Écho de Kell",
+      "description": "Affrontez l'Écho de Kell, une partie de la réponse des Neuf à votre question."
+    }
+  },
+  "3998734759": {
+    "displayProperties": {
+      "name": "L'Émissaire",
+      "description": "Récupérez votre récompense auprès des Neuf."
+    }
+  },
+  "2867024332": {
+    "displayProperties": {
+      "name": "Phry'zhia, l’Insatiable",
+      "description": "Retournez le cycle de la cupidité contre vos ennemis."
+    }
+  },
+   "4063391552": {
+    "displayProperties": {
+      "name": "Bouclier déchu",
+      "description": "Tirez les restes des serviteurs sur les boucliers déchus"
+    }
+  },
+  "4056788414": {
+    "displayProperties": {
+      "name": "Capitaine Avarokk l’Avide",
+      "description": "Retournez le cycle de la cupidité contre le capitaine Avarokk l’Avide."
+    }
+  },
+  "1012557098": {
+    "displayProperties": {
+      "name": "Porteur de Chagrin",
+      "description": "Tu es né uniquement pour souffrir, parce que je n’ai pas pu renoncer à ce que je savais être un piège. Ma curiosité est un poison qui coule dans mes veines, qui caille mon cœur, qui pourrit mon esprit.Et pourtant, je ne fais rien pour l’arrêter"
+    }
+  },
+  "3780037272": {
+    "displayProperties": {
+      "name": "Coffre",
+      "description": "\"Je t’en supplie, ne fais pas ça. \""
+    }
+  },
+  "1805972064": {
+    "displayProperties": {
+      "name": "La Plus Grande Honte de Calus",
+      "description": "\"Est-ce cela que j’ai fait ? Autrefois, elle me regardait avec des yeux pleins d’adoration. J’étais son monde, et elle, mes étoiles. Comment ai-je pu la transformer en cela ? Ai-je été si aveugle ? Si égoïste ? Qu’ai-je fait ?\""
+    }
+  },
+  "1483068591": {
+    "displayProperties": {
+      "name": "Gravir la Flèche",
+      "description": "Ouvrez un passage grâce à l’élévateur gravitationnel jusqu’au sommet de la Flèche, d’où provient le signal du Pilori."
+    }
+  },
+  "1779644342": {
+    "displayProperties": {
+      "name": "Réduire la Sirène au Silence",
+      "description": "Détruisez Akelous, le Courant de la Sirène, avant qu’il ne puisse achever le protocole du Pilori et emprisonner les sous-esprits de Raspoutine."
+    }
+  },
+   "2676434388": {
+    "displayProperties": {
+      "name": "Critique Immédiate",
+      "description": "Détruisez Persys, Ruine Primordiale, et empêchez la fusion du cœur du réacteur du complexe de causer des dégâts irréparables."
+    }
+  },
+  "160562459": {
+    "displayProperties": {
+      "name": "Rompre le Rituel",
+      "description": "Déjouez le rituel de la Ruche Lumineuse."
+    }
+  },
+  "3469402858": {
+    "displayProperties": {
+      "name": "Vaincre le Bouclier de Savathûn",
+      "description": "Vainquez Ecthar, le Bouclier de Savathûn."
+    }
+  },
+   "2189312851": {
+    "displayProperties": {
+      "name": "Vaincre Šimmumah ur-Nokru",
+      "description": "Vainquez Šimmumah ur-Nokru, le nécromancien forgé par la Lumière."
+    }
+  },
+  "2065920306": {
+    "displayProperties": {
+      "name": "Adversaire Mystérieux",
+      "description": "Un Chevalier corrompu se dresse entre vous et les réponses. Relevez son défi, laissez-le brisé, mais méfiez-vous des malédictions latentes."
+    }
+  },
+  "1306680929": {
+    "displayProperties": {
+      "name": "La Tempête hurlante.",
+      "description": "Souhaitez la chaleur, affrontez les vents glacés et réduisez au silence l'Ogre qui les alimente."
+    }
+  },
+  "2741345805": {
+    "displayProperties": {
+      "name": "Réprimer la Corruption",
+      "description": "\"Tu as accompli ma vengeance. Ma tâche est terminée, le vœu de Naeem exaucé. Viens, alors. Tue-moi. Que tout cela prenne fin.\" —Hefnd"
+    }
+  },
+   "2761002327": {
+    "displayProperties": {
+      "name": "Substrat",
+      "description": "Accédez au monolithe."
+    }
+  },
+  "193978048": {
+    "displayProperties": {
+      "name": "Dissipation",
+      "description": "Vainquez le Héraut."
+    }
+  },
+  "1727550020": {
+    "displayProperties": {
+      "name": "Réservoir",
+      "description": "Frayez-vous un chemin."
+    }
+  },
+  "637313410": {
+    "displayProperties": {
+      "name": "Vérité",
+      "description": "Voyez au-delà."
+    }
+  },
+   "4077323831": {
+    "displayProperties": {
+      "name": "Le Témoin",
+      "description": "Empêchez la Forme Finale."
+    }
+  },
+  "1292217373": {
+    "displayProperties": {
+      "name": "Embarquement",
+      "description": ""
+    }
+  },
+  "2133190695": {
+    "displayProperties": {
+      "name": "Raneiks Unifié",
+      "description": ""
+    }
+  },
+  "1958961797": {
+    "displayProperties": {
+      "name": "Le Marionnettiste Corrompu",
+      "description": ""
+    }
+  },
+  "548234283": {
+    "displayProperties": {
+      "name": "Résoudre l’Énigme",
+      "description": ""
+    }
+  },
+  "911485777": {
+    "displayProperties": {
+      "name": "Serrure Zoetic",
+      "description": ""
+    }
+  },
+  "1303588409": {
+    "displayProperties": {
+      "name": "Kerrev, l'Illisible",
+      "description": ""
+    }
   }
 }
