@@ -136,6 +136,12 @@
     },
     "distinguish": "true"
   },
+  "1000000016": {
+    "displayProperties": {
+      "name": "Emotes",
+      "description": "Express yourself!"
+    }
+  },
   "2485764221": {
     "itemTypeDisplayName": "Guardian Rank"
   },
