@@ -11,6 +11,11 @@
       "description": "Formez une équipe de six tueurs de dieu et bravez les étranges et puissants royaumes de nos ennemis."
     }
   },
+  "16867394440": {
+    "displayProperties": {
+      "name": "Missions exotiques"
+    }
+  },
   "9924991580": {
     "displayProperties": {
       "name": "Offensive Vex",
@@ -45,6 +50,21 @@
     "displayProperties": {
       "name": "Toute l'Épreuve",
       "description": "Avez-vous lancé assez de grenades ?"
+    }
+  },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Compétitif"
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Bannière de Fer : Forteresse"
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
     }
   },
   "1848252830": {
@@ -95,26 +115,6 @@
   "2239249083": {
     "displayProperties": {
       "description": "Combattez pour la Gloire en épuisant la réserve de vie partagée de vos adversaires, puis en les éliminant."
-    }
-  },
-  "16867394440": {
-    "displayProperties": {
-      "name": "Missions exotiques"
-    }
-  },
-  "2486723318": {
-    "displayProperties": {
-      "name": "Compétitif"
-    }
-  },
-  "1639772990": {
-    "displayProperties": {
-      "name": "Bannière de Fer : Forteresse"
-    }
-  },
-  "2732566144": {
-    "displayProperties": {
-      "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
     }
   },
   "2916787939": {

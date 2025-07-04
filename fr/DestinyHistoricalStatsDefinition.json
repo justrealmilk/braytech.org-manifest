@@ -5,6 +5,21 @@
   "flawless": {
     "statName": "Sans-faute"
   },
+  "killsDeathsRatio": {
+    "statName": "F/M"
+  },
+  "averageKillsDeathsRatio": {
+    "statName": "Moyenne F/M"
+  },
+  "winRate": {
+    "statName": "Ratio de victoires"
+  },
+  "precisionKills": {
+    "statName": "Précision"
+  },
+  "uniqueWeaponKillsPrecisionKills": {
+    "statName": "Précision"
+  },
   "strikeDifficulty": {
     "statName": "Difficulté"
   },
@@ -16,15 +31,15 @@
     "statNameAlt": "Matchs",
     "statDescription": "Nombre total d'activités terminées avec succès. Espérons, Gardien, que cette valeur dépasse la moitié des activités commencées !"
   },
-  "secondsPlayedDistribution": {
-    "statDescription": "Temps de jeu relatif aux autres modes d'activité."
-  },
   "activitiesConquered": {
     "statName": "Conquises",
     "statDescription": "Nombre total d'activités découvertes, révélées, conquises."
   },
   "secondsPlayed": {
     "statDescription": "Temps total consacré à l'élimination des menaces pesant sur la Cité. Aucun instant offert n'est jamais trop peu."
+  },
+  "secondsPlayedDistribution": {
+    "statDescription": "Temps de jeu relatif aux autres modes d'activité."
   },
   "fastestCompletionMsForActivity": {
     "statName": "Le plus rapide"
@@ -40,27 +55,6 @@
     "statName": "Rang Compétitif Actuel",
     "statNameAlt": "Rang Actuel",
     "statDescription": "Classement actuel du joueur en Division Compétitive."
-  },
-  "motesDeposited": {
-    "statNameAbbr": "PD"
-  },
-  "motesLost": {
-    "statNameAbbr": "PL"
-  },
-  "killsDeathsRatio": {
-    "statName": "F/M"
-  },
-  "averageKillsDeathsRatio": {
-    "statName": "Moyenne F/M"
-  },
-  "winRate": {
-    "statName": "Ratio de victoires"
-  },
-  "precisionKills": {
-    "statName": "Précision"
-  },
-  "uniqueWeaponKillsPrecisionKills": {
-    "statName": "Précision"
   },
   "currentEloRating": {
     "statName": "Elo"
@@ -79,6 +73,12 @@
   },
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Frags alliés sécurisés"
+  },
+  "motesDeposited": {
+    "statNameAbbr": "PD"
+  },
+  "motesLost": {
+    "statNameAbbr": "PL"
   },
   "highValueKills": {
     "statName": "Frags de grande valeur"

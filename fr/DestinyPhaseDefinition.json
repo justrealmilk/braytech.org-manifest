@@ -17,6 +17,12 @@
       "description": "Morgeth, le Garde-Flèche est un énorme et puissant Ogre éveillé qui sert d'exécuteur de la corruption de Riven dans la Cité des Rêves, et le garde de la tour principale de la cité, le Donjon des Voix."
     }
   },
+  "2169047898": {
+    "displayProperties": {
+      "name": "Trouver Riven",
+      "description": "Après avoir vaincu Morgeth, le Garde-Flèche, montez plus haut dans la Cité des Rêves et poursuivez Riven."
+    }
+  },
   "436847112": {
     "displayProperties": {
       "name": "Le Caveau",
@@ -27,6 +33,12 @@
     "displayProperties": {
       "name": "Riven des Mille Voix",
       "description": "Riven, le dernier Ahamkara connu, anciennement au service de Mara Sov, a été prise par Oryx. Elle corrompt maintenant la ville de son cœur à la demande de Savathûn."
+    }
+  },
+  "378163510": {
+    "displayProperties": {
+      "name": "Marche de la Reine",
+      "description": "Échappez-vous de la flèche et apportez le coeur à la Tékienne."
     }
   },
   "2776463390": {
@@ -159,18 +171,6 @@
     "displayProperties": {
       "name": "Oryx",
       "description": "Détrôner le roi."
-    }
-  },
-  "2169047898": {
-    "displayProperties": {
-      "name": "Trouver Riven",
-      "description": "Après avoir vaincu Morgeth, le Garde-Flèche, montez plus haut dans la Cité des Rêves et poursuivez Riven."
-    }
-  },
-  "378163510": {
-    "displayProperties": {
-      "name": "Marche de la Reine",
-      "description": "Échappez-vous de la flèche et apportez le coeur à la Tékienne."
     }
   },
   "3172054256": {

@@ -48,12 +48,30 @@
     },
     "itemTypeDisplayName": "Développeur de Braytech"
   },
+  "medal-beta": {
+    "displayProperties": {
+      "name": "La Première Vague",
+      "description": "_Décerné aux joueurs ayant participé à la bêta de Destiny 2._"
+    }
+  },
   "medal-for-you": {
     "displayProperties": {
       "name": "\"J'ai fait ça pour toi\"",
       "description": "_Tu es mon petit pogchamp, Gardien._ 🌞"
     },
     "itemTypeDisplayName": "Spécial"
+  },
+  "medal-icicle": {
+    "displayProperties": {
+      "name": "\"Brisé\" ou quelque chose comme ça",
+      "description": "\"J'ai embêté Tom et tout ce que j'ai eu, c'est cette stupide médaille\""
+    }
+  },
+  "medal-sunglas": {
+    "displayProperties": {
+      "name": "\"Nous avons trouvé ça, pour toi...\"",
+      "description": "Par terre quelque part...\nDerrière un Arby's...\n(utilise d2foundry.gg)"
+    }
   },
   "medal-bungie": {
     "displayProperties": {
@@ -76,12 +94,36 @@
     },
     "itemTypeDisplayName": "Supporteur de Braytech"
   },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Séraphin",
+      "description": "_Rejoins la force de maintien de la paix de Raspoutine et travaille en étroite collaboration avec l'Esprit Tutélaire pour ramener la paix dans le système Sol. Tes contributions sont inestimables._"
+    }
+  },
   "medal-researcher": {
     "displayProperties": {
       "name": "Chercheur",
       "description": "_L'un des rares chercheurs à avoir échappé à la trahison de Clovis Bray._\nUn abonné Patreon inestimable."
     },
     "itemTypeDisplayName": "Supporteur de Braytech"
+  },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Gardien",
+      "description": "_Tu es un Gardien : l'incarnation de tout ce qui est et pourrait être. Ton potentiel est inégalé, toi seul peux changer le système solaire à grande échelle._"
+    }
+  },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civil",
+      "description": "_Si la santé et la sécurité au travail savaient ce qui se passe ici, tout serait fermé plus vite que Raspoutine lorsqu'un triangle isocèle sort d'une FTL effrayante._"
+    }
+  },
+  "medal-one-time": {
+    "displayProperties": {
+      "name": "Unique",
+      "description": "_Finance la faim insatiable du développeur pour les ramens et les raviolis._"
+    }
   },
   "medal-patron": {
     "displayProperties": {
@@ -104,6 +146,24 @@
     },
     "itemTypeDisplayName": "Spécial"
   },
+  "well-rested": {
+    "displayProperties": {
+      "name": "Bien reposé",
+      "description": "Les gains d'XP sont doublés pour vos 5 premiers rangs de saison cette semaine.\n\nLes défis saisonniers offrent le plus de progression, suivis des contrats et des quêtes."
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "Bonus XP du Pass Saison",
+      "description": "Divers bonus d'XP peuvent être débloqués en progressant dans le pass saisonnier."
+    }
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Frags d'armes uniques",
+      "description": "Vos statistiques sont suivies et exposées par l'API via plusieurs systèmes ; les stats historiques sont disponibles pour les armes exotiques et suivent les frags avant l'apparition des compteurs de frags."
+    }
+  },
   "accurate-gear-power-average": {
     "displayProperties": {
       "name": "Puissance de l'équipement",
@@ -116,6 +176,12 @@
       "description": "Pourcentage de joueurs indexés par Volupsa qui ont acquis ou récupéré cette entrée."
     }
   },
+  "expiration": {
+    "displayProperties": {
+      "name": "Expiration",
+      "description": "Cet enregistrement possède des informations d'expiration."
+    }
+  },
   "score": {
     "displayProperties": {
       "name": "Valeur du score",
@@ -126,6 +192,12 @@
     "displayProperties": {
       "name": "Valeur du score",
       "description": "Valeur de score restante de cet enregistrement (somme des intervalles restants)."
+    }
+  },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Valeur de score",
+      "description": "La valeur de score calculée de ce nœud."
     }
   },
   "record-intervals": {
@@ -164,165 +236,6 @@
       "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
     }
   },
-  "legacy-triumph-score": {
-    "displayProperties": {
-      "name": "Score de Triomphe du passé",
-      "description": "Score total de tous les triomphes du passé terminés."
-    }
-  },
-  "lifetime-triumph-score": {
-    "displayProperties": {
-      "name": "Score de Triomphe total",
-      "description": "Une combinaison de tous les scores Triomphe actifs et du passé terminés."
-    }
-  },
-  "total-resets": {
-    "displayProperties": {
-      "name": "Total des réinitialisations",
-      "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
-    }
-  },
-  "artifact-power-bonus": {
-    "displayProperties": {
-      "name": "Bonus de Puissance d'artefact",
-      "description": "Gagner de l'XP confère des bonus de puissance d'artefact et débloque de puissants mods sur votre artefact saisonnier."
-    }
-  },
-  "latent-memories": {
-    "displayProperties": {
-      "name": "Mémoires perdues",
-      "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
-    }
-  },
-  "tooltip-error": {
-    "displayProperties": {
-      "name": "Erreur inconnue",
-      "description": "Une erreur s'est produite lors de l'affichage de cette info-bulle.\n\nIl s'agit probablement d'une erreur temporaire. Toutes nos excuses."
-    }
-  },
-  "profile-stale": {
-    "displayProperties": {
-      "name": "Profil périmé",
-      "description": "Braytech n'a pas pu contacter Bungie.net.\n\nLe service de Braytech sera de nouveau opérationnel dès que le service Bungie.net le permettra."
-    }
-  },
-  "profile-stale-inactive": {
-    "displayProperties": {
-      "name": "Profil obsolète",
-      "description": "L'actualisation en arrière-plan a été interrompue en raison d'une inactivité."
-    }
-  },
-  "profile-stale-minted": {
-    "displayProperties": {
-      "name": "Profil obsolète",
-      "description": "Bungie.net a renvoyé d'anciennes informations.\n\nLe service de Braytech sera de nouveau opérationnel dès que le service Bungie.net le permettra."
-    }
-  },
-  "activity-contest-mode": {
-    "displayProperties": {
-      "name": "Parmi les premiers",
-      "description": "Cette activité s'est terminée dans le temps du mode concours. Un triomphe dans des circonstances et une pression extraordinaires"
-    }
-  },
-  "character-loadouts-delete": {
-    "displayProperties": {
-      "name": "Supprimer Configuration",
-      "description": "Supprimer cette configuration. Cette action est permanente."
-    }
-  },
-  "configure-push-notifications": {
-    "displayProperties": {
-      "name": "Notifications 'Push'",
-      "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
-    }
-  },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Secteurs oubliés"
-    }
-  },
-  "push-notification-event-weekly-vendor-xur": {
-    "displayProperties": {
-      "name": "Xûr"
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "Mod de l'Épreuve en Vedette"
-    }
-  },
-  "medal-beta": {
-    "displayProperties": {
-      "name": "La Première Vague",
-      "description": "_Décerné aux joueurs ayant participé à la bêta de Destiny 2._"
-    }
-  },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"Brisé\" ou quelque chose comme ça",
-      "description": "\"J'ai embêté Tom et tout ce que j'ai eu, c'est cette stupide médaille\""
-    }
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"Nous avons trouvé ça, pour toi...\"",
-      "description": "Par terre quelque part...\nDerrière un Arby's...\n(utilise d2foundry.gg)"
-    }
-  },
-  "medal-seraph": {
-    "displayProperties": {
-      "name": "Séraphin",
-      "description": "_Rejoins la force de maintien de la paix de Raspoutine et travaille en étroite collaboration avec l'Esprit Tutélaire pour ramener la paix dans le système Sol. Tes contributions sont inestimables._"
-    }
-  },
-  "medal-guardian": {
-    "displayProperties": {
-      "name": "Gardien",
-      "description": "_Tu es un Gardien : l'incarnation de tout ce qui est et pourrait être. Ton potentiel est inégalé, toi seul peux changer le système solaire à grande échelle._"
-    }
-  },
-  "medal-civilian": {
-    "displayProperties": {
-      "name": "Civil",
-      "description": "_Si la santé et la sécurité au travail savaient ce qui se passe ici, tout serait fermé plus vite que Raspoutine lorsqu'un triangle isocèle sort d'une FTL effrayante._"
-    }
-  },
-  "medal-one-time": {
-    "displayProperties": {
-      "name": "Unique",
-      "description": "_Finance la faim insatiable du développeur pour les ramens et les raviolis._"
-    }
-  },
-  "well-rested": {
-    "displayProperties": {
-      "name": "Bien reposé",
-      "description": "Les gains d'XP sont doublés pour vos 5 premiers rangs de saison cette semaine.\n\nLes défis saisonniers offrent le plus de progression, suivis des contrats et des quêtes."
-    }
-  },
-  "season-pass-xp-bonus": {
-    "displayProperties": {
-      "name": "Bonus XP du Pass Saison",
-      "description": "Divers bonus d'XP peuvent être débloqués en progressant dans le pass saisonnier."
-    }
-  },
-  "unique-weapon-kills": {
-    "displayProperties": {
-      "name": "Frags d'armes uniques",
-      "description": "Vos statistiques sont suivies et exposées par l'API via plusieurs systèmes ; les stats historiques sont disponibles pour les armes exotiques et suivent les frags avant l'apparition des compteurs de frags."
-    }
-  },
-  "expiration": {
-    "displayProperties": {
-      "name": "Expiration",
-      "description": "Cet enregistrement possède des informations d'expiration."
-    }
-  },
-  "presentation-node-score": {
-    "displayProperties": {
-      "name": "Valeur de score",
-      "description": "La valeur de score calculée de ce nœud."
-    }
-  },
   "seal-score": {
     "displayProperties": {
       "name": "Score de sceau",
@@ -333,6 +246,18 @@
     "displayProperties": {
       "name": "Score doré",
       "description": "Le compte exhaustif et total de la dorure des sceaux."
+    }
+  },
+  "legacy-triumph-score": {
+    "displayProperties": {
+      "name": "Score de Triomphe du passé",
+      "description": "Score total de tous les triomphes du passé terminés."
+    }
+  },
+  "lifetime-triumph-score": {
+    "displayProperties": {
+      "name": "Score de Triomphe total",
+      "description": "Une combinaison de tous les scores Triomphe actifs et du passé terminés."
     }
   },
   "collection-score": {
@@ -381,9 +306,57 @@
     "name": "Rang de poids de poisson",
     "description": "Le rang dans les classements pour le poids du plus gros poisson, tel que déterminé par Voluspa."
   },
+  "total-resets": {
+    "displayProperties": {
+      "name": "Total des réinitialisations",
+      "description": "Toutes les réinitialisations des saisons. Traqué à partir de la saison 4."
+    }
+  },
+  "artifact-power-bonus": {
+    "displayProperties": {
+      "name": "Bonus de Puissance d'artefact",
+      "description": "Gagner de l'XP confère des bonus de puissance d'artefact et débloque de puissants mods sur votre artefact saisonnier."
+    }
+  },
+  "latent-memories": {
+    "displayProperties": {
+      "name": "Mémoires perdues",
+      "description": "De mystérieux nœuds de test sont dispersés sur Mars. Quel est leur but?"
+    }
+  },
+  "tooltip-error": {
+    "displayProperties": {
+      "name": "Erreur inconnue",
+      "description": "Une erreur s'est produite lors de l'affichage de cette info-bulle.\n\nIl s'agit probablement d'une erreur temporaire. Toutes nos excuses."
+    }
+  },
+  "profile-stale": {
+    "displayProperties": {
+      "name": "Profil périmé",
+      "description": "Braytech n'a pas pu contacter Bungie.net.\n\nLe service de Braytech sera de nouveau opérationnel dès que le service Bungie.net le permettra."
+    }
+  },
+  "profile-stale-inactive": {
+    "displayProperties": {
+      "name": "Profil obsolète",
+      "description": "L'actualisation en arrière-plan a été interrompue en raison d'une inactivité."
+    }
+  },
+  "profile-stale-minted": {
+    "displayProperties": {
+      "name": "Profil obsolète",
+      "description": "Bungie.net a renvoyé d'anciennes informations.\n\nLe service de Braytech sera de nouveau opérationnel dès que le service Bungie.net le permettra."
+    }
+  },
   "profile-stale-maintenance": {
     "name": "Profil obsolète",
     "description": "Bungie.net est temporairement indisponible en raison d'une maintenance. L'utilisation continue de Braytech peut résoudre ce problème, sous réserve de la disponibilité du service Bungie.net."
+  },
+  "activity-contest-mode": {
+    "displayProperties": {
+      "name": "Parmi les premiers",
+      "description": "Cette activité s'est terminée dans le temps du mode concours. Un triomphe dans des circonstances et une pression extraordinaires"
+    }
   },
   "activity-flawless": {
     "name": "Sans faute",
@@ -405,12 +378,34 @@
     "name": "Frappes finales",
     "description": "Cette arme est en feu en ce moment. Somme des frappes finales par les combattants utilisant cette arme."
   },
+  "character-loadouts-delete": {
+    "displayProperties": {
+      "name": "Supprimer Configuration",
+      "description": "Supprimer cette configuration. Cette action est permanente."
+    }
+  },
   "progression-step-map": {
     "description": "Cette carte trace les étapes vers le sommet."
+  },
+  "configure-push-notifications": {
+    "displayProperties": {
+      "name": "Notifications 'Push'",
+      "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
+    }
+  },
+  "push-notification-event-daily-lost-sector": {
+    "displayProperties": {
+      "name": "Secteurs oubliés"
+    }
   },
   "push-notification-event-daily-weather-forecast": {
     "name": "Prévisions météo",
     "description": "Prévisions en temps réel pour les Gardiens prudents. Ne quittez plus jamais votre vaisseau sans être parfaitement préparé !"
+  },
+  "push-notification-event-weekly-vendor-xur": {
+    "displayProperties": {
+      "name": "Xûr"
+    }
   },
   "push-notification-event-daily-vendor-banshee44": {
     "name": "Légendaires de Banshee-44",
@@ -423,6 +418,11 @@
   "push-notification-event-weekly-vendor-tess-bright": {
     "name": "Ventes de poussière brillante Everversum",
     "description": "Tess essaie d'écouler certains produits. Vous avez de la poussière brillante ?"
+  },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Mod de l'Épreuve en Vedette"
+    }
   },
   "push-notification-event-weekly-overview": {
     "name": "Aperçu hebdomadaire",

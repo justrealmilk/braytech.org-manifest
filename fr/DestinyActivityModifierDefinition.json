@@ -5,80 +5,6 @@
       "description": "Cette activité contient des boucliers solaires"
     }
   },
-  "4218937993": {
-    "displayProperties": {
-      "name": "Champions: Implacable",
-      "description": "Ce mode contient des Champions Implacables, qui ne peuvent être stoppés sans un mod Implacable."
-    }
-  },
-  "766975360": {
-    "displayProperties": {
-      "name": "Tourment Illuminé",
-      "description": "Les Gardiens ne peuvent éliminer les **Tourmenteurs** que lorsqu'ils sont affectés par le **Champ de Lumière**."
-    }
-  },
-  "2070303007": {
-    "displayProperties": {
-      "name": "Équilibre Cosmique",
-      "description": "Déplacez toutes les planètes terraformées (lumière) vers la droite et les planètes résonantes (obscurité) vers la gauche. Peut nécessiter deux phases de déplacement planétaire."
-    }
-  },
-  "1616571513": {
-    "displayProperties": {
-      "name": "Tous à l'œuvre",
-      "description": "Chaque Gardien doit relier un nœud de lumière et un nœud d'obscurité avant chaque phase de dégâts"
-    }
-  },
-  "3636591526": {
-    "displayProperties": {
-      "description": "Préservez toujours la **Coupe de Lumière** avant d'allumer une lampe."
-    }
-  },
-  "2768385440": {
-    "displayProperties": {
-      "description": "Traversez le pont pendant qu'il disparaît. Coordonnez-vous avec votre escouade et contrôlez l'état du pont en conséquence."
-    }
-  },
-  "732074628": {
-    "displayProperties": {
-      "description": "Chaque Gardien doit tenir la Coupe de Lumière avant qu'un Gardien ne la tienne une seconde fois."
-    }
-  },
-  "3523029182": {
-    "displayProperties": {
-      "description": "Les Gardiens ne peuvent briser le bouclier de Cropta qu'en une seule tentative. Portez plusieurs épées."
-    }
-  },
-  "3621023005": {
-    "displayProperties": {
-      "name": "Route panoramique",
-      "description": "Si des Psions Corrompus apparaissent sur votre route, ne vainquez pas le Minotaure Surchargé. Attendez un troisième Porteur, ouvrez la quatrième salle pour l'autre équipe, et laissez-la vaincre son champion."
-    }
-  },
-  "1204802854": {
-    "displayProperties": {
-      "name": "Capacité maximale",
-      "description": "Chaque Gardien ne doit déposer dans l'autel que lorsqu'il possède trois charges de Résonance. N'oubliez pas que charger un conducteur consomme une charge."
-    }
-  },
-  "1553052482": {
-    "displayProperties": {
-      "name": "Régime équilibré",
-      "description": "Les Gardiens ne doivent pas ramasser deux fois de suite un nœud de Résonance de même forme. N'oubliez pas que l'amélioration de Résonance change de forme en fonction du dernier nœud collecté."
-    }
-  },
-  "2821522136": {
-    "displayProperties": {
-      "name": "Géométrie variée",
-      "description": " Les Gardiens déplacés ne peuvent pas réutiliser la même silhouette pour s'échapper du royaume des ombres tant que les six silhouettes n'ont pas été utilisées. En résumé, utilisez la sphère, la pyramide et le cube pour une seconde évasion."
-    }
-  },
-  "1315424373": {
-    "displayProperties": {
-      "name": "Efforts coordonnés",
-      "description": "Détruisez tous les glyphes du Témoin dans un intervalle de 5 secondes maximum."
-    }
-  },
   "32153845200": {
     "displayProperties": {
       "name": "Boucliers cryo-électriques",
@@ -113,6 +39,12 @@
     "displayProperties": {
       "name": "Boucliers solaires, cryo et abyssaux",
       "description": "Cette activité contient des boucliers solaires, cryo-électriques et abyssaux"
+    }
+  },
+  "4218937993": {
+    "displayProperties": {
+      "name": "Champions: Implacable",
+      "description": "Ce mode contient des Champions Implacables, qui ne peuvent être stoppés sans un mod Implacable."
     }
   },
   "191124900": {
@@ -248,6 +180,74 @@
   "4152669757": {
     "displayProperties": {
       "description": "Les gardiens ne peuvent pas tuer le même chevalier mangeur de lumière ou ogre mangeur de lumière."
+    }
+  },
+  "766975360": {
+    "displayProperties": {
+      "name": "Tourment Illuminé",
+      "description": "Les Gardiens ne peuvent éliminer les **Tourmenteurs** que lorsqu'ils sont affectés par le **Champ de Lumière**."
+    }
+  },
+  "2070303007": {
+    "displayProperties": {
+      "name": "Équilibre Cosmique",
+      "description": "Déplacez toutes les planètes terraformées (lumière) vers la droite et les planètes résonantes (obscurité) vers la gauche. Peut nécessiter deux phases de déplacement planétaire."
+    }
+  },
+  "1616571513": {
+    "displayProperties": {
+      "name": "Tous à l'œuvre",
+      "description": "Chaque Gardien doit relier un nœud de lumière et un nœud d'obscurité avant chaque phase de dégâts"
+    }
+  },
+  "3636591526": {
+    "displayProperties": {
+      "description": "Préservez toujours la **Coupe de Lumière** avant d'allumer une lampe."
+    }
+  },
+  "2768385440": {
+    "displayProperties": {
+      "description": "Traversez le pont pendant qu'il disparaît. Coordonnez-vous avec votre escouade et contrôlez l'état du pont en conséquence."
+    }
+  },
+  "732074628": {
+    "displayProperties": {
+      "description": "Chaque Gardien doit tenir la Coupe de Lumière avant qu'un Gardien ne la tienne une seconde fois."
+    }
+  },
+  "3523029182": {
+    "displayProperties": {
+      "description": "Les Gardiens ne peuvent briser le bouclier de Cropta qu'en une seule tentative. Portez plusieurs épées."
+    }
+  },
+  "3621023005": {
+    "displayProperties": {
+      "name": "Route panoramique",
+      "description": "Si des Psions Corrompus apparaissent sur votre route, ne vainquez pas le Minotaure Surchargé. Attendez un troisième Porteur, ouvrez la quatrième salle pour l'autre équipe, et laissez-la vaincre son champion."
+    }
+  },
+  "1204802854": {
+    "displayProperties": {
+      "name": "Capacité maximale",
+      "description": "Chaque Gardien ne doit déposer dans l'autel que lorsqu'il possède trois charges de Résonance. N'oubliez pas que charger un conducteur consomme une charge."
+    }
+  },
+  "1553052482": {
+    "displayProperties": {
+      "name": "Régime équilibré",
+      "description": "Les Gardiens ne doivent pas ramasser deux fois de suite un nœud de Résonance de même forme. N'oubliez pas que l'amélioration de Résonance change de forme en fonction du dernier nœud collecté."
+    }
+  },
+  "2821522136": {
+    "displayProperties": {
+      "name": "Géométrie variée",
+      "description": " Les Gardiens déplacés ne peuvent pas réutiliser la même silhouette pour s'échapper du royaume des ombres tant que les six silhouettes n'ont pas été utilisées. En résumé, utilisez la sphère, la pyramide et le cube pour une seconde évasion."
+    }
+  },
+  "1315424373": {
+    "displayProperties": {
+      "name": "Efforts coordonnés",
+      "description": "Détruisez tous les glyphes du Témoin dans un intervalle de 5 secondes maximum."
     }
   }
 }

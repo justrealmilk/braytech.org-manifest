@@ -185,6 +185,11 @@
       "description": "Une faille de résonance"
     }
   },
+  "235152581": {
+    "extended": {
+      "supplement": "Placez-vous à l'extrémité de chaque canon de défense et détruisez les ancres résonantes pour révéler un secret au niveau du canon le plus éloigné de votre point d'entrée."
+    }
+  },
   "293144960": {
     "displayProperties": {
       "description": "En traversant le mur, vous arriverez à un pont. En faisant face à l'ouest, l'objectif se trouve sur votre droite. Sautez de plateforme en plateforme, en passant au-delà des énormes poutres structurelles. Tournez-vous vers l'est et levez les yeux pour trouver cette plume sur la plateforme la plus haute que vous pouvez atteindre."
@@ -1819,29 +1824,9 @@
       "description": "Contre-attaquez la malédiction qui afflige la Cité des Rêves."
     }
   },
-  "235152581": {
-    "extended": {
-      "supplement": "Placez-vous à l'extrémité de chaque canon de défense et détruisez les ancres résonantes pour révéler un secret au niveau du canon le plus éloigné de votre point d'entrée."
-    }
-  },
-  "2442093127": {
-    "extended": {
-      "supplement": "Au pied de..."
-    }
-  },
   "2244580325": {
     "displayProperties": {
       "description": "Les rouages internes de l'esprit de Savathûn, prenant vie dans un monde trône mystérieux de sa propre création."
-    }
-  },
-  "3904017033": {
-    "extended": {
-      "supplement": "Allumez la flamme"
-    }
-  },
-  "4006123814": {
-    "extended": {
-      "supplement": "Se cache en dessous..."
     }
   },
   "2426576530": {
@@ -1849,14 +1834,9 @@
       "description": "En traversant ce **Kyste**, il y aura deux portes ; celle du haut mène à votre objectif tandis que celle du bas attribue un bit d'encryptions."
     }
   },
-  "4069293792": {
+  "2442093127": {
     "extended": {
-      "supplement": "Activez l'interface. Tournez-vous vers l'entrée. Il y a 8 panneaux circulaires. De gauche à droite, de haut en bas, tirez sur les panneaux dans l'ordre suivant : 6, 8, 4, 5, 2, 7, 3, 1."
-    }
-  },
-  "4084570599": {
-    "extended": {
-      "supplement": "Ce coffre requiert de transcender sa réalité. Pour y accéder : près de Frère Vance, examinez un livre intrigant, faites demi-tour et examinez un second tome sur l'étagère du fond, contournez la bibliothèque à droite du portail pour en trouver un autre près du brasero, revenez à la première bibliothèque pour en examiner un sur le bureau, puis cherchez le dernier en hauteur près de la forge ; un conflux Vex apparaîtra — examinez-le."
+      "supplement": "Au pied de..."
     }
   },
   "2481646875": {
@@ -2039,6 +2019,11 @@
       "description": "Sous la glace."
     }
   },
+  "3904017033": {
+    "extended": {
+      "supplement": "Allumez la flamme"
+    }
+  },
   "3977481189": {
     "displayProperties": {
       "description": "En entrant dans le Cercle des ossements via La Loge, tournez à droite et continuez pour suivre la boucle autour du Gouffre des Enfers. Avant d'atteindre la prochaine intersection, retournez vous et regardez sous la plate-forme pour trouver deux yeux de jade perçant à travers votre lumière donnée par le Voyageur."
@@ -2052,6 +2037,21 @@
   "3998251206": {
     "displayProperties": {
       "description": "Un domaine surréaliste de la mémoire à l'intérieur du Voyageur, corrompu par le Témoin."
+    }
+  },
+  "4006123814": {
+    "extended": {
+      "supplement": "Se cache en dessous..."
+    }
+  },
+  "4069293792": {
+    "extended": {
+      "supplement": "Activez l'interface. Tournez-vous vers l'entrée. Il y a 8 panneaux circulaires. De gauche à droite, de haut en bas, tirez sur les panneaux dans l'ordre suivant : 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "supplement": "Ce coffre requiert de transcender sa réalité. Pour y accéder : près de Frère Vance, examinez un livre intrigant, faites demi-tour et examinez un second tome sur l'étagère du fond, contournez la bibliothèque à droite du portail pour en trouver un autre près du brasero, revenez à la première bibliothèque pour en examiner un sur le bureau, puis cherchez le dernier en hauteur près de la forge ; un conflux Vex apparaîtra — examinez-le."
     }
   },
   "4111390768": {
