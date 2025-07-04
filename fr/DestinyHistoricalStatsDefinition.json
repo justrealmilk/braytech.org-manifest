@@ -13,8 +13,8 @@
   },
   "activitiesCleared": {
     "statName": "Terminées",
-    "statDescription": "Nombre total d'activités terminées avec succès. Espérons, Gardien, que cette valeur dépasse la moitié des activités commencées !",
-    "statNameAlt": "Matchs"
+    "statNameAlt": "Matchs",
+    "statDescription": "Nombre total d'activités terminées avec succès. Espérons, Gardien, que cette valeur dépasse la moitié des activités commencées !"
   },
   "secondsPlayedDistribution": {
     "statDescription": "Temps de jeu relatif aux autres modes d'activité."

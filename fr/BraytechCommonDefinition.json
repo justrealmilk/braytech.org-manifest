@@ -255,44 +255,44 @@
     "displayProperties": {
       "name": "La Première Vague",
       "description": "_Décerné aux joueurs ayant participé à la bêta de Destiny 2._"
-      }
-    },
-    "medal-icicle": {
+    }
+  },
+  "medal-icicle": {
     "displayProperties": {
       "name": "\"Brisé\" ou quelque chose comme ça",
       "description": "\"J'ai embêté Tom et tout ce que j'ai eu, c'est cette stupide médaille\""
-      }
-    },
-   "medal-sunglas": {
+    }
+  },
+  "medal-sunglas": {
     "displayProperties": {
       "name": "\"Nous avons trouvé ça, pour toi...\"",
       "description": "Par terre quelque part...\nDerrière un Arby's...\n(utilise d2foundry.gg)"
     }
-    },
+  },
   "medal-seraph": {
     "displayProperties": {
       "name": "Séraphin",
       "description": "_Rejoins la force de maintien de la paix de Raspoutine et travaille en étroite collaboration avec l'Esprit Tutélaire pour ramener la paix dans le système Sol. Tes contributions sont inestimables._"
-       }
-    },
+    }
+  },
   "medal-guardian": {
     "displayProperties": {
       "name": "Gardien",
       "description": "_Tu es un Gardien : l'incarnation de tout ce qui est et pourrait être. Ton potentiel est inégalé, toi seul peux changer le système solaire à grande échelle._"
     }
-    },
+  },
   "medal-civilian": {
     "displayProperties": {
       "name": "Civil",
       "description": "_Si la santé et la sécurité au travail savaient ce qui se passe ici, tout serait fermé plus vite que Raspoutine lorsqu'un triangle isocèle sort d'une FTL effrayante._"
     }
-    },
-   "medal-one-time": {
+  },
+  "medal-one-time": {
     "displayProperties": {
       "name": "Unique",
       "description": "_Finance la faim insatiable du développeur pour les ramens et les raviolis._"
     }
-    },
+  },
   "well-rested": {
     "displayProperties": {
       "name": "Bien reposé",
@@ -323,13 +323,13 @@
       "description": "La valeur de score calculée de ce nœud."
     }
   },
-   "seal-score": {
+  "seal-score": {
     "displayProperties": {
       "name": "Score de sceau",
       "description": "La somme des sceaux que vous avez complétés."
     }
   },
-   "gild-score": {
+  "gild-score": {
     "displayProperties": {
       "name": "Score doré",
       "description": "Le compte exhaustif et total de la dorure des sceaux."
@@ -341,7 +341,7 @@
       "description": "La somme des objets que vous avez amassés et stockés dans votre arsenal."
     }
   },
-   "fish-caught-score": {
+  "fish-caught-score": {
     "displayProperties": {
       "name": "Score de poissons capturés",
       "description": "La somme des poissons que vous avez attrapés."
