@@ -35,10 +35,52 @@
       "description": "Les widgets sont actuellement uniquement disponibles pour les appareils iOS (iPhone, iPad).\n\nSi vous ne trouvez pas Braytech ou ses widgets dans votre liste de widgets disponibles, essayez de redémarrer votre appareil, de lancer l'application, de la réinstaller ou d'attendre une durée arbitraire.\n\nCela peut être soit un problème de compétence, soit une particularité d'iOS. Bonne chance."
     }
   },
+  "5000000007": {
+    "displayProperties": {
+      "name": "Triomphes et objets à collectionner manquants",
+      "description": "Si vous ne trouvez pas quelque chose, vous devrez peut-être ajuster la **visibilité des objets** dans [Paramètres](/settings). Si cela ne vous aide pas, l'entité est peut-être indisponible ou non prise en charge."
+    }
+  },
+  "5000000008": {
+    "displayProperties": {
+      "name": "Les statistiques ne correspondent pas à l'autre site",
+      "description": "Il existe plusieurs sources de statistiques dans Destiny. Les Statistiques historiques du clan sont basées sur l'API HistoricalStats, tandis que d'autres applications utilisent différentes méthodes pour agréger ou présenter les données. Les écarts peuvent donc apparaître."
+    }
+  },
   "5000000009": {
     "displayProperties": {
       "name": "À propos de Voluspa",
-      "description": "_Voluspa_, nommé d'après une sous-routine de _Rasputin_, c'est ainsi que j'ai nommé le composant côté serveur de Braytech. Il est chargé de rassembler les données de profil des utilisateurs de Braytech pour les statistiques communes, la synchronisation des paramètres et d'autres fonctionnalités clés."
+      "description": "_Voluspa_, nommé d'après une sous-routine de _Raspoutine_, c'est ainsi que j'ai nommé le composant côté serveur de Braytech. Il est chargé de rassembler les données de profil des utilisateurs de Braytech pour les statistiques communes, la synchronisation des paramètres et d'autres fonctionnalités clés."
+    }
+  },
+  "5000000010": {
+    "displayProperties": {
+      "name": "Communalité",
+      "description": "Question fréquente : « Quel est ce pourcentage étrange à droite des objets à collectionner et des enregistrements ? »\n\nIl s'agit du pourcentage de joueurs ayant découvert ou acquis l'objet. Toutes les quelques semaines, _Voluspa_ collecte les données des utilisateurs de _Braytech_ et note qui a obtenu quoi."
+    }
+  },
+  "5000000011": {
+    "displayProperties": {
+      "name": "Données des coffres régionaux",
+      "description": "Certains coffres régionaux, bien qu'ils soient disponibles en jeu, sont mal reliés à l'API. Cela entraîne une mauvaise indication de leur état, notamment dans la Cité des Rêves. Ce n'est pas un bug de Braytech."
+    }
+  },
+  "5000000012": {
+    "displayProperties": {
+      "name": "Mises à jour du classement",
+      "description": "Au moment de la rédaction, les classements sont mis à jour aussi souvent que les abonnés le demandent. Les abonnés disposent de contrôles privilégiés leur permettant de mettre à jour les classements à la demande."
+    }
+  },
+  "5000000013": {
+    "displayProperties": {
+      "name": "Annulation",
+      "description": "Vous pouvez annuler à tout moment en sélectionnant Gérer l'abonnement depuis la vue [Abonnements]. Elle vous redirigera vers le site de Stripe, où il vous sera demandé de confirmer l'annulation."
+    }
+  },
+  "5000000014": {
+    "displayProperties": {
+      "name": "Changement de niveau",
+      "description": "Pour changer de niveau, annulez votre abonnement actuel, puis réabonnez-vous au nouveau niveau. Si les avantages de votre niveau précédent dépassent ceux du nouveau, vous continuerez de bénéficier de ces avantages jusqu'à expiration de la période facturée."
     }
   }
 }

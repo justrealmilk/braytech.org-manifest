@@ -3,5 +3,11 @@
     "displayProperties": {
       "supplement": "Pendant l'assaut du Geôlier du Néant, utilisez des piques pour tuer les ennemis."
     }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "Tu es le meilleur",
+      "description": "C’est un triomphe qui prouve que tu es le meilleur. Évidemment."
+    }
   }
 }

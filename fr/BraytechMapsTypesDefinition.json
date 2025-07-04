@@ -23,5 +23,16 @@
     "displayProperties": {
       "name": "Évènement public"
     }
+  },
+  "6": {
+    "displayProperties": {
+      "name": "Boss"
+    }
+  },
+  "13": {
+    "displayProperties": {
+      "name": "Deepsight",
+      "description": "Percez le voile entre les mondes et révélez des secrets cachés."
+    }
   }
 }

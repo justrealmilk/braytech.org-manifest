@@ -1,38 +1,236 @@
 {
+  "1542299784": {
+    "progressDescription": "Activités rituelles terminées"
+  },
+  "3794117631": {
+    "progressDescription": "Activités rituelles terminées"
+  },
+  "1270593510": {
+    "progressDescription": "Activités rituelles terminées"
+  },
+  "1612424695": {
+    "progressDescription": "Score de Nuit noire accumulé"
+  },
+  "4276867787": {
+    "progressDescription": "Parties du mode compétitif terminées"
+  },
+  "1458618853": {
+    "progressDescription": "Parties du mode compétitif terminées"
+  },
   "2794225827": {
-    "progressDescription": "Manches de Jugement d'Osiris gagnées"
+    "progressDescription": "Manches d'Osiris remportées"
+  },
+  "51472017": {
+    "progressDescription": "Vagues de « Agression » terminées"
+  },
+  "3236905278": {
+    "progressDescription": "Vagues de « Agression » terminées"
+  },
+  "1583650743": {
+    "progressDescription": "Vagues de « Agression » terminées"
+  },
+  "61205796": {
+    "progressDescription": "Vague la plus élevée atteinte dans « Agression »"
+  },
+  "2171624875": {
+    "progressDescription": "Vague la plus élevée atteinte dans « Agression »"
+  },
+  "101331170": {
+    "progressDescription": "Vague la plus élevée atteinte dans « Agression »"
+  },
+  "517631236": {
+    "progressDescription": "Vagues de « Agression : Salut » terminées"
+  },
+  "969263262": {
+    "progressDescription": "Vagues de « Agression : Salut » terminées"
+  },
+  "3289280568": {
+    "progressDescription": "Vagues de « Agression : Salut » terminées"
   },
   "1205559531": {
-    "progressDescription": "\"Légendes d'Éternité\" terminé avec un score de {var:3648290880} ou plus haut"
+    "progressDescription": "« Défis D'Éternité » terminées avec un score de {var:3648290880} ou plus"
   },
   "1948254616": {
-    "progressDescription": "Activités \"Légendes d'Éternité\" terminées"
+    "progressDescription": "Activités « Défis D'Éternité » terminées"
+  },
+  "1320261963": {
+    "progressDescription": "Mission exotique « Vox Obscura » en rotation terminée"
+  },
+  "1510063869": {
+    "progressDescription": "Mission exotique « Présage » en rotation terminée"
+  },
+  "3726310377": {
+    "progressDescription": "Mission exotique « Opération : Bouclier du Séraphin » en rotation terminée"
+  },
+  "1274811193": {
+    "progressDescription": "Mission exotique « //node.ovrd.AVALON// » en rotation terminée"
+  },
+  "3407714741": {
+    "progressDescription": "Mission exotique « Malchance » en rotation terminée"
+  },
+  "668893316": {
+    "progressDescription": "Mission exotique « Encore » terminée"
+  },
+  "677383186": {
+    "progressDescription": "Mission exotique « Encore » terminée"
+  },
+  "1087558304": {
+    "progressDescription": "Mission exotique « Encore » terminée"
   },
   "897950155": {
-    "progressDescription": "Rotation du raid \"Dernier Vœu\" terminé"
+    "displayProperties": {
+      "description": "« J'ai attendu si longtemps pour exaucer un dernier vœu… »"
+    },
+    "progressDescription": "Raid « Dernier Vœu » en rotation terminé"
   },
   "2398860795": {
-    "progressDescription": "Rotation du raid \"Jardin du Salut\" terminé"
+    "displayProperties": {
+      "description": "« Nous sommes votre… salut. »"
+    },
+    "progressDescription": "Raid « Jardin du Salut » en rotation terminé"
   },
   "3826130187": {
-    "progressDescription": "Rotation du raid \"Crypte de la Pierre\" terminé"
+    "displayProperties": {
+      "description": "Sécuriser le contrôle."
+    },
+    "progressDescription": "Raid « Crypte de la Pierre » en rotation terminé"
   },
   "3180884403": {
-    "progressDescription": "Rotation du raid \"Caveau de Verre\" terminé"
+    "displayProperties": {
+      "description": "Machines hors de contrôle."
+    },
+    "progressDescription": "Raid « Caveau de Verre » en rotation terminé"
+  },
+  "1863972407": {
+    "displayProperties": {
+      "description": "Avancez, Tueur de Disciple."
+    },
+    "progressDescription": "Raid « Serment du Disciple » en rotation terminé"
+  },
+  "406803827": {
+    "displayProperties": {
+      "description": "Longue vie au Roi…"
+    },
+    "progressDescription": "Raid « Chute du Roi » en rotation terminé"
+  },
+  "1633394671": {
+    "displayProperties": {
+      "description": "Devenez le cauchemar de vos cauchemars."
+    },
+    "progressDescription": "Raid « Origine des Cauchemars » en rotation terminé"
+  },
+  "3767289993": {
+    "displayProperties": {
+      "description": "Il attend dans l'obscurité en bas."
+    },
+    "progressDescription": "Raid « Chute de Cropta » en rotation terminé"
+  },
+  "1009732831": {
+    "displayProperties": {
+      "description": "Libérez la Lumière."
+    },
+    "progressDescription": "Raid « Orée du Salut » terminé"
   },
   "2039792527": {
-    "progressDescription": "Rotation du donjon \"Prophétie\" terminé"
+    "displayProperties": {
+      "description": "Entrez dans le royaume des Neuf, survivez et soyez récompensé de connaissances, et peut-être plus."
+    },
+    "progressDescription": "Donjon « Prophétie » en rotation terminé"
   },
   "1283234589": {
-    "progressDescription": "Rotation du donjon \"Fosse de l'Hérésie\" terminé"
+    "progressDescription": "Donjon « Fosse de l'Hérésie » en rotation terminé"
   },
   "1288508599": {
-    "progressDescription": "Rotation du donjon \"Étreinte de l'Avarice\" terminé"
+    "progressDescription": "Donjon « Emprise de l'Avarice » en rotation terminé"
   },
   "3838169295": {
-    "progressDescription": "Rotation du donjon \"Trône Brisé\" terminé"
+    "progressDescription": "Donjon « Trône Brisé » en rotation terminé"
   },
   "3039545165": {
-    "progressDescription": "Rotation du donjon \"Dualité\" terminé"
+    "progressDescription": "Donjon « Dualité » en rotation terminé"
+  },
+  "3211393925": {
+    "displayProperties": {
+      "description": "Visitez Mars, corroborez les visions d'Osiris et intervenez dans une potentielle catastrophe liée aux Vex."
+    },
+    "progressDescription": "Donjon « Flèche de la Vigie » en rotation terminé"
+  },
+  "2697564403": {
+    "displayProperties": {
+      "description": "Le commandant adjoint Sloane a repéré un vaisseau de commandement de la Ruche Lumineuse entrant dans l'atmosphère de Titan. Peu après son arrivée, le vaisseau a plongé dans la mer de méthane de la lune et des anomalies ont été détectées."
+    },
+    "progressDescription": "Donjon « Fantôme des Profondeurs » en rotation terminé"
+  },
+  "1062014463": {
+    "progressDescription": "Donjon « Ruine de la Guerrière » en rotation terminé"
+  },
+  "2367956143": {
+    "progressDescription": "Donjon « Hôte Vesper » en rotation terminé"
+  },
+  "3446372173": {
+    "progressDescription": "Donjon « Dogme Fragmenté » terminé"
+  },
+  "255019695": {
+    "progressDescription": "Parties de la Bannière de Fer terminées"
+  },
+  "3711817336": {
+    "progressDescription": "Parties de la Bannière de Fer terminées"
+  },
+  "2177758697": {
+    "progressDescription": "Parties de la Bannière de Fer terminées"
+  },
+  "817612586": {
+    "progressDescription": "Parties de la Bannière de Fer terminées"
+  },
+  "1873118367": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "3641440552": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "565460377": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "2499974490": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "3972872067": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "3212229148": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "2287201869": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "3169294926": {
+    "progressDescription": "Points de la Bannière de Fer gagnés grâce aux éliminations avec les doctrines [Stase], [Arc] ou [Void] [{var:4161792462}/8]"
+  },
+  "2458378027": {
+    "progressDescription": "Mission Coopérative Focus « Ascension » terminée"
+  },
+  "520332023": {
+    "progressDescription": "Mission Coopérative Focus « Dissidence » terminée"
+  },
+  "2083540441": {
+    "progressDescription": "Mission Coopérative Focus « Iconoclasme » terminée"
+  },
+  "155825308": {
+    "progressDescription": "Rencontres « Nether » terminées"
+  },
+  "1390100688": {
+    "progressDescription": "Rencontres « Nether » terminées en difficulté Expert"
+  },
+  "1145647307": {
+    "progressDescription": "Activités « Cour des Lames » terminées"
+  },
+  "992789319": {
+    "progressDescription": "Activités « Cour des Lames » terminées"
+  },
+  "4197208563": {
+    "progressDescription": "Activités « Cour des Lames » terminées"
+  },
+  "1108757867": {
+    "progressDescription": "Vaincre au moins {var:583488967} adversaires dans la « Cour des Lames » en une seule partie en difficulté Expert."
   }
 }
