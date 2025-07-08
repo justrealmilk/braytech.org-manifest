@@ -61,18 +61,6 @@
     },
     "itemTypeDisplayName": "Spécial"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"Brisé\" ou quelque chose comme ça",
-      "description": "\"J'ai embêté Tom et tout ce que j'ai eu, c'est cette stupide médaille\""
-    }
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"Nous avons trouvé ça, pour toi...\"",
-      "description": "Par terre quelque part...\nDerrière un Arby's...\n(utilise d2foundry.gg)"
-    }
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Développeur de Bungie",

@@ -55,20 +55,6 @@
     },
     "itemTypeDisplayName": "특별"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"깨졌다\" 랄까 뭐랄까",
-      "description": "\"Tom을 빡치게 만들고 얻은 건 고작 이 바보같은 메달 뿐\""
-    },
-    "itemTypeDisplayName": "특별"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"우리가 이것을 찾았어, 너를 위해...\"",
-      "description": "바닥 어딘가에서...\nArby의 뒤에서...\n(d2foundry.gg 사용)"
-    },
-    "itemTypeDisplayName": "특별"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Bungie 개발자",

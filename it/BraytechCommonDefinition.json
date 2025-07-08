@@ -55,20 +55,6 @@
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "Icicle#6310",
-      "description": "\"Ho infastidito Tom e tutto quello che ho ottenuto è stata questa stupida medaglia\""
-    },
-    "itemTypeDisplayName": "Speciale"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"Abbiamo trovato questa, per te...\"",
-      "description": "Per terra da qualche parte...\nDietro un Arby's...\n(usa d2foundry.gg)"
-    },
-    "itemTypeDisplayName": "Speciale"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Sviluppatore Bungie",

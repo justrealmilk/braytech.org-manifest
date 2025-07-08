@@ -62,20 +62,6 @@
     },
     "itemTypeDisplayName": "Special"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "Icicle#6310",
-      "description": "\"Tomを煽って投げつけられた、このメダル\""
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"あなたのために見つけてきました...\"",
-      "description": "確か、道路に落ちていて...\nハンバーガー店の裏だっけ...?\n(use d2foundry.gg)"
-    },
-    "itemTypeDisplayName": "Special"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Bungie開発者",
