@@ -44,7 +44,7 @@
   "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this tooltip."
+      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this."
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
@@ -57,35 +57,21 @@
   },
   "medal-for-you": {
     "displayProperties": {
-      "name": "\"I made this for you\"",
-      "description": "_You're my little pogchamp, Guardian._ 🌞"
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"shattered\" or something",
-      "description": "\"I annoyed Tom and all I got was this stupid medal\""
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"We found this, for you...\"",
-      "description": "On the ground somewhere...\nBehind an Arby's...\n(use d2foundry.gg)"
+      "name": "Pookie",
+      "description": "_You're my little pookie, Guardian._ 🌞"
     },
     "itemTypeDisplayName": "Special"
   },
   "medal-bungie": {
     "displayProperties": {
-      "name": "Bungie Developer",
+      "name": "Bungie Dev",
       "description": "_Beware the Architects._\nThis player _could_ delete you."
     },
     "itemTypeDisplayName": "Special"
   },
   "medal-api-dev": {
     "displayProperties": {
-      "name": "Bungie API Developer",
+      "name": "Bungie API Dev",
       "description": "_Beware the Architects._\nThis player builds with Bungie's API."
     },
     "itemTypeDisplayName": "Special"
