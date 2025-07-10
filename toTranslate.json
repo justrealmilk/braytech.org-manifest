@@ -55,6 +55,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-explorer",
       "weeklies-event",
       "character-inventory",
       "character-loadouts",
@@ -567,6 +568,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "triumphs-explorer",
       "weeklies-event",
       "manifest",
       "dresstiny"
@@ -876,6 +878,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "triumphs-explorer",
       "weeklies-event",
       "manifest",
       "dresstiny"
@@ -1148,6 +1151,9 @@
       "1673724806",
       "2546784302"
     ],
+    "BraytechFeatureDefinition.json": [
+      "triumphs-explorer"
+    ],
     "DestinyPresentationNodeDefinition.json": [
       "1000000016",
       "2485764221",
@@ -1230,6 +1236,7 @@
       "clan-historical-stats",
       "collections-sets",
       "triumphs-user-hidden",
+      "triumphs-explorer",
       "weeklies-event",
       "quests-pathfinder",
       "settings-legend",
@@ -1714,6 +1721,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "triumphs-explorer",
       "weeklies-event"
     ],
     "DestinyPresentationNodeDefinition.json": [
@@ -1852,6 +1860,7 @@
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
+      "triumphs-explorer",
       "weeklies-event",
       "character-equipment",
       "character-inventory",
@@ -2432,6 +2441,7 @@
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
+      "triumphs-explorer",
       "journey",
       "commendations",
       "maps",
@@ -2581,6 +2591,7 @@
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
+      "triumphs-explorer",
       "weeklies-event",
       "character-equipment",
       "character-inventory",
@@ -2798,6 +2809,7 @@
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
+      "triumphs-explorer",
       "weeklies-event",
       "character-equipment",
       "character-inventory",
@@ -3348,6 +3360,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-explorer",
       "weeklies-event",
       "settings-subscriptions",
       "settings-legend",
@@ -3945,6 +3958,7 @@
       "triumphs-unredeemed",
       "triumphs-near",
       "triumphs-transient",
+      "triumphs-explorer",
       "weeklies-event",
       "character-equipment",
       "character-inventory",
