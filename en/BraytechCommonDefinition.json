@@ -139,6 +139,13 @@
     },
     "itemTypeDisplayName": "Special"
   },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "Connected",
+      "description": "_Connected to comms._\nThis player has connected their Discord profile with Voluspa."
+    },
+    "itemTypeDisplayName": "Special"
+  },
   "well-rested": {
     "displayProperties": {
       "name": "Well Rested",
