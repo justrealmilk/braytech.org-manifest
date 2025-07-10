@@ -133,6 +133,12 @@
       "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
     }
   },
+  "triumphs-explorer": {
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Triumphs. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    }
+  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
