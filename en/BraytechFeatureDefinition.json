@@ -212,6 +212,14 @@
     },
     "to": "/triumphs/transient"
   },
+  "triumphs-explorer": {
+    "hash": "triumphs-explorer",
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Triumphs. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    },
+    "to": "/triumphs/explorer"
+  },
   "journey": {
     "hash": "journey",
     "displayProperties": {
