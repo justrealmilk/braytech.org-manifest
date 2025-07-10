@@ -478,6 +478,7 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -825,6 +826,7 @@
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
+      "medal-discord",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
@@ -1133,6 +1135,7 @@
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
+      "medal-discord",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
@@ -1169,6 +1172,9 @@
     ],
     "DestinyPhaseDefinition.json": [
       "829896467"
+    ],
+    "BraytechCommonDefinition.json": [
+      "medal-discord"
     ]
   },
   "it": {
@@ -1666,6 +1672,7 @@
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "seal-score",
@@ -1749,7 +1756,8 @@
       "2040505661"
     ],
     "BraytechCommonDefinition.json": [
-      "medal-one-time"
+      "medal-one-time",
+      "medal-discord"
     ]
   },
   "ko": {
@@ -2395,6 +2403,7 @@
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
+      "medal-discord",
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
@@ -2483,6 +2492,7 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -2649,6 +2659,7 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -3242,6 +3253,7 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
@@ -3844,6 +3856,7 @@
       "medal-guardian",
       "medal-civilian",
       "medal-one-time",
+      "medal-discord",
       "unique-weapon-kills",
       "seal-score",
       "gild-score",
@@ -4147,6 +4160,7 @@
       "medal-patron",
       "medal-translator",
       "medal-charitable",
+      "medal-discord",
       "well-rested",
       "season-pass-xp-bonus",
       "unique-weapon-kills",
