@@ -79,6 +79,12 @@
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
+  "collections-explorer": {
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triumphs",
