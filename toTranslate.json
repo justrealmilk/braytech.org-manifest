@@ -51,6 +51,7 @@
       "clan-historical-stats",
       "collections-sets",
       "collections-patterns-catalysts",
+      "collections-explorer",
       "triumphs-tracked",
       "triumphs-user-hidden",
       "triumphs-unredeemed",
@@ -568,6 +569,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "collections-explorer",
       "triumphs-explorer",
       "weeklies-event",
       "manifest",
@@ -878,6 +880,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "collections-explorer",
       "triumphs-explorer",
       "weeklies-event",
       "manifest",
@@ -1152,6 +1155,7 @@
       "2546784302"
     ],
     "BraytechFeatureDefinition.json": [
+      "collections-explorer",
       "triumphs-explorer"
     ],
     "DestinyPresentationNodeDefinition.json": [
@@ -1235,6 +1239,7 @@
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
+      "collections-explorer",
       "triumphs-user-hidden",
       "triumphs-explorer",
       "weeklies-event",
@@ -1721,6 +1726,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "collections-explorer",
       "triumphs-explorer",
       "weeklies-event"
     ],
@@ -1853,6 +1859,7 @@
       "collections-patterns-catalysts",
       "collections-medals",
       "collections-metrics",
+      "collections-explorer",
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
@@ -2433,6 +2440,7 @@
       "collections-patterns-catalysts",
       "collections-medals",
       "collections-metrics",
+      "collections-explorer",
       "triumphs",
       "triumphs-active",
       "triumphs-legacy",
@@ -2584,6 +2592,7 @@
       "collections-patterns-catalysts",
       "collections-medals",
       "collections-metrics",
+      "collections-explorer",
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
@@ -2802,6 +2811,7 @@
       "collections-patterns-catalysts",
       "collections-medals",
       "collections-metrics",
+      "collections-explorer",
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
@@ -3356,6 +3366,7 @@
       "1"
     ],
     "BraytechFeatureDefinition.json": [
+      "collections-explorer",
       "triumphs-tracked",
       "triumphs-user-hidden",
       "triumphs-unredeemed",
@@ -3951,6 +3962,7 @@
       "collections-patterns-catalysts",
       "collections-medals",
       "collections-metrics",
+      "collections-explorer",
       "triumphs-active",
       "triumphs-legacy",
       "triumphs-tracked",
