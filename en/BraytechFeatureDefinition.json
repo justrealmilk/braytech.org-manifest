@@ -134,6 +134,14 @@
     },
     "to": "/collections"
   },
+  "collections-explorer": {
+    "hash": "collections-explorer",
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    },
+    "to": "/collections/explorer"
+  },
   "triumphs": {
     "hash": "triumphs",
     "displayProperties": {
@@ -152,6 +160,9 @@
         },
         {
           "viewHash": "triumphs-transient"
+        },
+        {
+          "viewHash": "triumphs-explorer"
         }
       ]
     }
