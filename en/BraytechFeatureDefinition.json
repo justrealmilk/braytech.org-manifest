@@ -90,6 +90,9 @@
         },
         {
           "viewHash": "collections-metrics"
+        },
+        {
+          "viewHash": "collections-explorer"
         }
       ]
     }
