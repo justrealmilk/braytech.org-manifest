@@ -1,51 +1,5 @@
 {
   "de": {
-    "DestinyInventoryItemDefinition.json": [
-      "1",
-      "73143230",
-      "2643364263",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "3224646387",
-      "2467253899",
-      "734180536",
-      "2126433420",
-      "860071581",
-      "1371343017",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "2546784302",
-      "2916787939"
-    ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "3700942889",
-      "1698629738",
-      "968118624"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-roster-admin",
       "clan-historical-stats",
@@ -70,28 +24,6 @@
       "fireteam-monitor",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "kills",
-      "deaths",
-      "flawless",
-      "score",
-      "strikeDifficulty",
-      "activitiesEntered",
-      "activitiesCleared",
-      "activitiesConquered",
-      "secondsPlayed",
-      "secondsPlayedDistribution",
-      "fastestCompletionMsForActivity",
-      "playerEncounters",
-      "fireteamCombinations",
-      "currentCompetitiveRating",
-      "motesDeposited",
-      "motesLost"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -285,10 +217,6 @@
       "4006123814",
       "4069293792"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "6",
-      "13"
-    ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
       "3577304467",
@@ -310,70 +238,21 @@
       "2821522136",
       "1315424373"
     ],
-    "DestinyObjectiveDefinition.json": [
-      "1542299784",
-      "3794117631",
-      "1270593510",
-      "1612424695",
-      "4276867787",
-      "1458618853",
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "1320261963",
-      "1510063869",
-      "3726310377",
-      "1274811193",
-      "3407714741",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "897950155",
-      "2398860795",
-      "3826130187",
-      "3180884403",
-      "1863972407",
-      "406803827",
-      "1633394671",
-      "3767289993",
-      "1009732831",
-      "2039792527",
-      "1283234589",
-      "1288508599",
-      "3838169295",
-      "3039545165",
-      "3211393925",
-      "2697564403",
-      "1062014463",
-      "2367956143",
-      "3446372173",
-      "255019695",
-      "3711817336",
-      "2177758697",
-      "817612586",
-      "1873118367",
-      "3641440552",
-      "565460377",
-      "2499974490",
-      "3972872067",
-      "3212229148",
-      "2287201869",
-      "3169294926",
-      "2458378027",
-      "520332023",
-      "2083540441",
-      "155825308",
-      "1390100688",
-      "1145647307",
-      "992789319",
-      "4197208563",
-      "1108757867"
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
     ],
     "DestinySeasonDefinition.json": [
       "965757574",
@@ -396,8 +275,24 @@
       "3430812784",
       "2844537300"
     ],
-    "DestinyDamageTypeDefinition.json": [
-      "3949783978"
+    "DestinyInventoryItemDefinition.json": [
+      "1",
+      "73143230",
+      "2643364263",
+      "951399115",
+      "700251940",
+      "901060145",
+      "1541696845",
+      "2902936983",
+      "3224646387",
+      "2467253899",
+      "734180536",
+      "2126433420",
+      "860071581",
+      "1371343017",
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -467,6 +362,100 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6",
+      "13"
+    ],
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "3700942889",
+      "1698629738",
+      "968118624"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1542299784",
+      "3794117631",
+      "1270593510",
+      "1612424695",
+      "4276867787",
+      "1458618853",
+      "51472017",
+      "3236905278",
+      "1583650743",
+      "61205796",
+      "2171624875",
+      "101331170",
+      "517631236",
+      "969263262",
+      "3289280568",
+      "1320261963",
+      "1510063869",
+      "3726310377",
+      "1274811193",
+      "3407714741",
+      "668893316",
+      "677383186",
+      "1087558304",
+      "897950155",
+      "2398860795",
+      "3826130187",
+      "3180884403",
+      "1863972407",
+      "406803827",
+      "1633394671",
+      "3767289993",
+      "1009732831",
+      "2039792527",
+      "1283234589",
+      "1288508599",
+      "3838169295",
+      "3039545165",
+      "3211393925",
+      "2697564403",
+      "1062014463",
+      "2367956143",
+      "3446372173",
+      "255019695",
+      "3711817336",
+      "2177758697",
+      "817612586",
+      "1873118367",
+      "3641440552",
+      "565460377",
+      "2499974490",
+      "3972872067",
+      "3212229148",
+      "2287201869",
+      "3169294926",
+      "2458378027",
+      "520332023",
+      "2083540441",
+      "155825308",
+      "1390100688",
+      "1145647307",
+      "992789319",
+      "4197208563",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "kills",
+      "deaths",
+      "flawless",
+      "score",
+      "strikeDifficulty",
+      "activitiesEntered",
+      "activitiesCleared",
+      "activitiesConquered",
+      "secondsPlayed",
+      "secondsPlayedDistribution",
+      "fastestCompletionMsForActivity",
+      "playerEncounters",
+      "fireteamCombinations",
+      "currentCompetitiveRating",
+      "motesDeposited",
+      "motesLost"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-for-you",
@@ -524,82 +513,26 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyDamageTypeDefinition.json": [
+      "3949783978"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "2546784302",
+      "2916787939"
     ]
   },
   "es": {
-    "DestinyInventoryItemDefinition.json": [
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "2916787939"
-    ],
-    "BraytechActivityDefinition.json": [
-      "107319834"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000000",
-      "1000000002",
-      "1000000003",
-      "1000000004",
-      "1000000005",
-      "1000000006",
-      "1000000007",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000047",
-      "1000000048",
-      "1000000049",
-      "1000000050",
-      "2206233229"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "collections-explorer",
       "triumphs-explorer",
       "weeklies-event",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2530001514",
-      "1000000009",
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000016",
-      "1062988660",
-      "2968370335",
-      "1190294990",
-      "1289679000",
-      "1000000015"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "activitiesConquered",
-      "secondsPlayedDistribution",
-      "playerEncounters",
-      "fireteamCombinations"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -678,35 +611,6 @@
       "3990611421",
       "3998251206"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "6"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "3767289993",
-      "1009732831",
-      "2697564403",
-      "1062014463",
-      "2367956143",
-      "3446372173",
-      "155825308",
-      "1390100688",
-      "1145647307",
-      "992789319",
-      "4197208563",
-      "1108757867"
-    ],
     "DestinyPhaseDefinition.json": [
       "1899447888",
       "2700613207",
@@ -745,6 +649,21 @@
       "911485777",
       "1303588409"
     ],
+    "BraytechActivityDefinition.json": [
+      "107319834"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
     "DestinySeasonDefinition.json": [
       "2973407602",
       "20267733200",
@@ -756,9 +675,52 @@
       "27587265720",
       "27587265750"
     ],
+    "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
+      "2530001514",
+      "1000000009",
+      "1000000010",
+      "1205461800",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000016",
+      "1062988660",
+      "2968370335",
+      "1190294990",
+      "1289679000",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000000",
+      "1000000002",
+      "1000000003",
+      "1000000004",
+      "1000000005",
+      "1000000006",
+      "1000000007",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000047",
+      "1000000048",
+      "1000000049",
+      "1000000050",
+      "2206233229"
+    ],
     "BraytechRotationDefinition.json": [
       "10",
       "11"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -827,6 +789,41 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "51472017",
+      "3236905278",
+      "1583650743",
+      "61205796",
+      "2171624875",
+      "101331170",
+      "517631236",
+      "969263262",
+      "3289280568",
+      "668893316",
+      "677383186",
+      "1087558304",
+      "3767289993",
+      "1009732831",
+      "2697564403",
+      "1062014463",
+      "2367956143",
+      "3446372173",
+      "155825308",
+      "1390100688",
+      "1145647307",
+      "992789319",
+      "4197208563",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "activitiesConquered",
+      "secondsPlayedDistribution",
+      "playerEncounters",
+      "fireteamCombinations"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
@@ -835,82 +832,19 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "2916787939"
     ]
   },
   "es-MX": {
-    "DestinyInventoryItemDefinition.json": [
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "2916787939"
-    ],
-    "BraytechActivityDefinition.json": [
-      "107319834"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000000",
-      "1000000002",
-      "1000000003",
-      "1000000004",
-      "1000000005",
-      "1000000006",
-      "1000000007",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000047",
-      "1000000048",
-      "1000000049",
-      "1000000050",
-      "2206233229"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "collections-explorer",
       "triumphs-explorer",
       "weeklies-event",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2530001514",
-      "1000000009",
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000016",
-      "1062988660",
-      "2968370335",
-      "1190294990",
-      "1289679000",
-      "1000000015"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "activitiesConquered",
-      "secondsPlayedDistribution",
-      "playerEncounters",
-      "fireteamCombinations"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -989,35 +923,6 @@
       "3990611421",
       "3998251206"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "6"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "3767289993",
-      "1009732831",
-      "2697564403",
-      "1062014463",
-      "2367956143",
-      "3446372173",
-      "155825308",
-      "1390100688",
-      "1145647307",
-      "992789319",
-      "4197208563",
-      "1108757867"
-    ],
     "DestinyPhaseDefinition.json": [
       "1899447888",
       "2700613207",
@@ -1056,6 +961,21 @@
       "911485777",
       "1303588409"
     ],
+    "BraytechActivityDefinition.json": [
+      "107319834"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
     "DestinySeasonDefinition.json": [
       "2973407602",
       "20267733200",
@@ -1067,9 +987,52 @@
       "27587265720",
       "27587265750"
     ],
+    "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
+      "2530001514",
+      "1000000009",
+      "1000000010",
+      "1205461800",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000016",
+      "1062988660",
+      "2968370335",
+      "1190294990",
+      "1289679000",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000000",
+      "1000000002",
+      "1000000003",
+      "1000000004",
+      "1000000005",
+      "1000000006",
+      "1000000007",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000047",
+      "1000000048",
+      "1000000049",
+      "1000000050",
+      "2206233229"
+    ],
     "BraytechRotationDefinition.json": [
       "10",
       "11"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -1138,6 +1101,41 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "51472017",
+      "3236905278",
+      "1583650743",
+      "61205796",
+      "2171624875",
+      "101331170",
+      "517631236",
+      "969263262",
+      "3289280568",
+      "668893316",
+      "677383186",
+      "1087558304",
+      "3767289993",
+      "1009732831",
+      "2697564403",
+      "1062014463",
+      "2367956143",
+      "3446372173",
+      "155825308",
+      "1390100688",
+      "1145647307",
+      "992789319",
+      "4197208563",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "activitiesConquered",
+      "secondsPlayedDistribution",
+      "playerEncounters",
+      "fireteamCombinations"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
@@ -1146,19 +1144,25 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "2916787939"
     ]
   },
   "fr": {
-    "DestinyActivityModeDefinition.json": [
-      "1686739444",
-      "1673724806",
-      "2546784302"
-    ],
     "BraytechFeatureDefinition.json": [
       "collections-explorer",
       "triumphs-explorer"
     ],
+    "DestinyPhaseDefinition.json": [
+      "829896467"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "138641527"
+    ],
     "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
       "1000000016",
       "2485764221",
       "2329774788",
@@ -1177,65 +1181,16 @@
       "deaths",
       "score"
     ],
-    "DestinyActivityModifierDefinition.json": [
-      "138641527"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "829896467"
-    ],
     "BraytechCommonDefinition.json": [
       "medal-discord"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "1686739444",
+      "1673724806",
+      "2546784302"
     ]
   },
   "it": {
-    "DestinyInventoryItemDefinition.json": [
-      "1371343017",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "2916787939"
-    ],
-    "BraytechActivityDefinition.json": [
-      "1661734046",
-      "910380154",
-      "3881495763",
-      "1441982566",
-      "1374392663",
-      "2381413764",
-      "107319834"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000000",
-      "1000000002",
-      "1000000003",
-      "1000000004",
-      "1000000005",
-      "1000000006",
-      "1000000007",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000047",
-      "1000000048",
-      "1000000049",
-      "1000000050",
-      "2206233229"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-historical-stats",
       "collections-sets",
@@ -1247,32 +1202,6 @@
       "settings-legend",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2530001514",
-      "1000000009",
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000016",
-      "1062988660",
-      "2968370335",
-      "1190294990",
-      "1289679000",
-      "1000000015"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "activitiesConquered",
-      "secondsPlayedDistribution",
-      "playerEncounters",
-      "fireteamCombinations"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -1499,59 +1428,6 @@
       "3810403766",
       "3998251206"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "6"
-    ],
-    "DestinyActivityModifierDefinition.json": [
-      "4218937993",
-      "3621023005",
-      "1204802854",
-      "1553052482",
-      "2821522136",
-      "1315424373"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "3407714741",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "3767289993",
-      "1009732831",
-      "2697564403",
-      "1062014463",
-      "2367956143",
-      "3446372173",
-      "255019695",
-      "3711817336",
-      "2177758697",
-      "817612586",
-      "1873118367",
-      "3641440552",
-      "565460377",
-      "2499974490",
-      "3972872067",
-      "3212229148",
-      "2287201869",
-      "3169294926",
-      "2458378027",
-      "520332023",
-      "2083540441",
-      "155825308",
-      "1390100688",
-      "1145647307",
-      "992789319",
-      "4197208563",
-      "1108757867"
-    ],
     "DestinyPhaseDefinition.json": [
       "2169047898",
       "378163510",
@@ -1593,6 +1469,35 @@
       "911485777",
       "1303588409"
     ],
+    "BraytechActivityDefinition.json": [
+      "1661734046",
+      "910380154",
+      "3881495763",
+      "1441982566",
+      "1374392663",
+      "2381413764",
+      "107319834"
+    ],
+    "DestinyActivityModifierDefinition.json": [
+      "4218937993",
+      "3621023005",
+      "1204802854",
+      "1553052482",
+      "2821522136",
+      "1315424373"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
     "DestinySeasonDefinition.json": [
       "2973407602",
       "20267733200",
@@ -1604,15 +1509,59 @@
       "27587265720",
       "27587265750"
     ],
+    "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
+      "2530001514",
+      "1000000009",
+      "1000000010",
+      "1205461800",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000016",
+      "1062988660",
+      "2968370335",
+      "1190294990",
+      "1289679000",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000000",
+      "1000000002",
+      "1000000003",
+      "1000000004",
+      "1000000005",
+      "1000000006",
+      "1000000007",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000047",
+      "1000000048",
+      "1000000049",
+      "1000000050",
+      "2206233229"
+    ],
+    "BraytechRotationDefinition.json": [
+      "10",
+      "11"
+    ],
     "DestinyChecklistDefinition.json": [
       "626486626",
       "3048564473",
       "3430812784",
       "2844537300"
     ],
-    "BraytechRotationDefinition.json": [
-      "10",
-      "11"
+    "DestinyInventoryItemDefinition.json": [
+      "1371343017",
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -1681,6 +1630,57 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "51472017",
+      "3236905278",
+      "1583650743",
+      "61205796",
+      "2171624875",
+      "101331170",
+      "517631236",
+      "969263262",
+      "3289280568",
+      "3407714741",
+      "668893316",
+      "677383186",
+      "1087558304",
+      "3767289993",
+      "1009732831",
+      "2697564403",
+      "1062014463",
+      "2367956143",
+      "3446372173",
+      "255019695",
+      "3711817336",
+      "2177758697",
+      "817612586",
+      "1873118367",
+      "3641440552",
+      "565460377",
+      "2499974490",
+      "3972872067",
+      "3212229148",
+      "2287201869",
+      "3169294926",
+      "2458378027",
+      "520332023",
+      "2083540441",
+      "155825308",
+      "1390100688",
+      "1145647307",
+      "992789319",
+      "4197208563",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "activitiesConquered",
+      "secondsPlayedDistribution",
+      "playerEncounters",
+      "fireteamCombinations"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-one-time",
@@ -1703,19 +1703,21 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "2916787939"
     ]
   },
   "ja": {
-    "DestinyInventoryItemDefinition.json": [
-      "3607181138"
+    "BraytechFeatureDefinition.json": [
+      "collections-explorer",
+      "triumphs-explorer",
+      "weeklies-event"
     ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000048",
-      "1000000049",
-      "1000000050"
+    "BraytechMapsDefinition.json": [
+      "20",
+      "21"
     ],
     "BraytechHelpDefinition.json": [
       "5000000012",
@@ -1724,35 +1726,6 @@
     ],
     "DestinyRecordDefinition.json": [
       "1"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "collections-explorer",
-      "triumphs-explorer",
-      "weeklies-event"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2530001514",
-      "1000000016",
-      "1000000015"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "activitiesConquered",
-      "secondsPlayedDistribution",
-      "playerEncounters",
-      "fireteamCombinations"
-    ],
-    "BraytechMapsDefinition.json": [
-      "20",
-      "21"
-    ],
-    "BraytechMapsTypesDefinition.json": [
-      "6"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "1145647307",
-      "992789319",
-      "4197208563",
-      "1108757867"
     ],
     "DestinySeasonDefinition.json": [
       "2973407602",
@@ -1765,89 +1738,48 @@
       "27587265720",
       "27587265750"
     ],
+    "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
+      "2530001514",
+      "1000000016",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000048",
+      "1000000049",
+      "1000000050"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "3607181138"
+    ],
     "DestinyCollectibleDefinition.json": [
       "3399891681",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "1145647307",
+      "992789319",
+      "4197208563",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "activitiesConquered",
+      "secondsPlayedDistribution",
+      "playerEncounters",
+      "fireteamCombinations"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-one-time",
       "medal-discord"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440"
     ]
   },
   "ko": {
-    "DestinyInventoryItemDefinition.json": [
-      "1",
-      "73143230",
-      "2643364263",
-      "372496383",
-      "1190250163",
-      "3348653032",
-      "3582080006",
-      "2174060729",
-      "691393048",
-      "2250176030",
-      "1711513650",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "1950177353",
-      "3224646387",
-      "2467253899",
-      "734180536",
-      "2126433420",
-      "860071581",
-      "1371343017",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "9924991580",
-      "103143560",
-      "4110605575",
-      "748895195",
-      "1686739444",
-      "11647605040",
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "1848252830",
-      "1585787840",
-      "3199098480",
-      "31990984800",
-      "3484731833",
-      "4078439804",
-      "1826469369",
-      "1264443021",
-      "157639802",
-      "2239249083",
-      "1673724806",
-      "2546784302",
-      "2916787939"
-    ],
-    "BraytechActivityDefinition.json": [
-      "107319834"
-    ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "2965669871",
-      "3700942889",
-      "1698629738",
-      "968118624"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
       "clan-roster",
@@ -1884,68 +1816,6 @@
       "fireteam-monitor",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "kills",
-      "deaths",
-      "flawless",
-      "averageKillsDeathsRatio",
-      "score",
-      "strikeDifficulty",
-      "activitiesEntered",
-      "activitiesCleared",
-      "activitiesConquered",
-      "secondsPlayed",
-      "secondsPlayedDistribution",
-      "fastestCompletionMsForActivity",
-      "playerEncounters",
-      "fireteamCombinations",
-      "currentCompetitiveRating",
-      "motesDeposited",
-      "motesLost",
-      "Medals_pvp_medal_ib_control_3a",
-      "Medals_pvp_medal_ib_control_3b",
-      "Medals_pvp_medal_ib_control_2a",
-      "Medals_pvp_medal_ib_control_2b",
-      "Medals_pvp_medal_ib_control_2c",
-      "Medals_pvp_medal_ib_control_2d",
-      "Medals_pvp_medal_ib_control_1a",
-      "Medals_pvp_medal_ib_control_1b",
-      "Medals_pvp_medal_ib_control_1c",
-      "Medals_pvp_medal_ib_control_1d",
-      "Medals_pvp_medal_ib_multi_entire_team",
-      "Medals_pvp_medal_ib_multi_7x",
-      "Medals_pvp_medal_ib_multi_6x",
-      "Medals_pvp_medal_ib_multi_5x",
-      "Medals_pvp_medal_ib_multi_4x",
-      "Medals_pvp_medal_ib_multi_3x",
-      "Medals_pvp_medal_ib_multi_2x",
-      "Medals_pvp_medal_ib_payback",
-      "Medals_pvp_medal_ib_avenger",
-      "Medals_pvp_medal_ib_defender",
-      "Medals_pvp_medal_ib_streak_huge",
-      "Medals_pvp_medal_ib_streak_lg",
-      "Medals_pvp_medal_ib_streak_no_damage",
-      "Medals_pvp_medal_ib_streak_shutdown_large",
-      "Medals_pvp_medal_ib_streak_med",
-      "Medals_pvp_medal_ib_streak_team",
-      "Medals_pvp_medal_ib_streak_sm",
-      "Medals_pvp_medal_ib_streak_comeback",
-      "Medals_pvp_medal_ib_streak_shutdown",
-      "Medals_pvp_medal_ib_streak_combined",
-      "Medals_pvp_medal_ib_match_undefeated",
-      "Medals_pvp_medal_ib_match_blowout",
-      "Medals_pvp_medal_ib_match_most_damage",
-      "Medals_pvp_medal_ib_match_comeback",
-      "Medals_pvp_medal_ib_match_never_trailed",
-      "Medals_pvp_medal_ib_match_overtime",
-      "Medals_pvp_medal_ib_cycle",
-      "Medals_pvp_medal_ib_first_strike",
-      "Medals_pvp_medal_ib_super_shutdown"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -2269,10 +2139,57 @@
       "4292949220",
       "4292949222"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "5",
-      "6",
-      "13"
+    "DestinyPhaseDefinition.json": [
+      "2169047898",
+      "378163510",
+      "829896467",
+      "3172054256",
+      "2224793617",
+      "2184227225",
+      "2779782231",
+      "2890972472",
+      "3768812794",
+      "1463700798",
+      "4240994016",
+      "1899447888",
+      "2700613207",
+      "1340233962",
+      "5808550890",
+      "1826821877",
+      "133673726",
+      "2400102494",
+      "3585780724",
+      "3492117941",
+      "3998734759",
+      "2867024332",
+      "4063391552",
+      "4056788414",
+      "1012557098",
+      "3780037272",
+      "1805972064",
+      "1483068591",
+      "1779644342",
+      "2676434388",
+      "160562459",
+      "3469402858",
+      "2189312851",
+      "2065920306",
+      "1306680929",
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831",
+      "1292217373",
+      "2133190695",
+      "1958961797",
+      "548234283",
+      "911485777",
+      "1303588409"
+    ],
+    "BraytechActivityDefinition.json": [
+      "107319834"
     ],
     "DestinyActivityModifierDefinition.json": [
       "4218937993",
@@ -2289,6 +2206,81 @@
       "1553052482",
       "2821522136",
       "1315424373"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinySeasonDefinition.json": [
+      "965757574",
+      "2973407602",
+      "4033618594",
+      "20267733200",
+      "17436828180",
+      "28090594270",
+      "28090594280",
+      "28090594310",
+      "27587265680",
+      "27587265720",
+      "27587265750"
+    ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805",
+      "626486626",
+      "3048564473",
+      "3430812784",
+      "2844537300"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "1",
+      "73143230",
+      "2643364263",
+      "372496383",
+      "1190250163",
+      "3348653032",
+      "3582080006",
+      "2174060729",
+      "691393048",
+      "2250176030",
+      "1711513650",
+      "951399115",
+      "700251940",
+      "901060145",
+      "1541696845",
+      "2902936983",
+      "1950177353",
+      "3224646387",
+      "2467253899",
+      "734180536",
+      "2126433420",
+      "860071581",
+      "1371343017",
+      "2156849113",
+      "3607181138",
+      "2284123716"
+    ],
+    "BraytechMapsTypesDefinition.json": [
+      "5",
+      "6",
+      "13"
+    ],
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "2965669871",
+      "3700942889",
+      "1698629738",
+      "968118624"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -2346,75 +2338,63 @@
       "4197208563",
       "1108757867"
     ],
-    "DestinyPhaseDefinition.json": [
-      "2169047898",
-      "378163510",
-      "829896467",
-      "3172054256",
-      "2224793617",
-      "2184227225",
-      "2779782231",
-      "2890972472",
-      "3768812794",
-      "1463700798",
-      "4240994016",
-      "1899447888",
-      "2700613207",
-      "1340233962",
-      "5808550890",
-      "1826821877",
-      "133673726",
-      "2400102494",
-      "3585780724",
-      "3492117941",
-      "3998734759",
-      "2867024332",
-      "4063391552",
-      "4056788414",
-      "1012557098",
-      "3780037272",
-      "1805972064",
-      "1483068591",
-      "1779644342",
-      "2676434388",
-      "160562459",
-      "3469402858",
-      "2189312851",
-      "2065920306",
-      "1306680929",
-      "2741345805",
-      "2761002327",
-      "193978048",
-      "1727550020",
-      "637313410",
-      "4077323831",
-      "1292217373",
-      "2133190695",
-      "1958961797",
-      "548234283",
-      "911485777",
-      "1303588409"
-    ],
-    "DestinySeasonDefinition.json": [
-      "965757574",
-      "2973407602",
-      "4033618594",
-      "20267733200",
-      "17436828180",
-      "28090594270",
-      "28090594280",
-      "28090594310",
-      "27587265680",
-      "27587265720",
-      "27587265750"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805",
-      "626486626",
-      "3048564473",
-      "3430812784",
-      "2844537300"
+    "DestinyHistoricalStatsDefinition.json": [
+      "kills",
+      "deaths",
+      "flawless",
+      "averageKillsDeathsRatio",
+      "score",
+      "strikeDifficulty",
+      "activitiesEntered",
+      "activitiesCleared",
+      "activitiesConquered",
+      "secondsPlayed",
+      "secondsPlayedDistribution",
+      "fastestCompletionMsForActivity",
+      "playerEncounters",
+      "fireteamCombinations",
+      "currentCompetitiveRating",
+      "motesDeposited",
+      "motesLost",
+      "Medals_pvp_medal_ib_control_3a",
+      "Medals_pvp_medal_ib_control_3b",
+      "Medals_pvp_medal_ib_control_2a",
+      "Medals_pvp_medal_ib_control_2b",
+      "Medals_pvp_medal_ib_control_2c",
+      "Medals_pvp_medal_ib_control_2d",
+      "Medals_pvp_medal_ib_control_1a",
+      "Medals_pvp_medal_ib_control_1b",
+      "Medals_pvp_medal_ib_control_1c",
+      "Medals_pvp_medal_ib_control_1d",
+      "Medals_pvp_medal_ib_multi_entire_team",
+      "Medals_pvp_medal_ib_multi_7x",
+      "Medals_pvp_medal_ib_multi_6x",
+      "Medals_pvp_medal_ib_multi_5x",
+      "Medals_pvp_medal_ib_multi_4x",
+      "Medals_pvp_medal_ib_multi_3x",
+      "Medals_pvp_medal_ib_multi_2x",
+      "Medals_pvp_medal_ib_payback",
+      "Medals_pvp_medal_ib_avenger",
+      "Medals_pvp_medal_ib_defender",
+      "Medals_pvp_medal_ib_streak_huge",
+      "Medals_pvp_medal_ib_streak_lg",
+      "Medals_pvp_medal_ib_streak_no_damage",
+      "Medals_pvp_medal_ib_streak_shutdown_large",
+      "Medals_pvp_medal_ib_streak_med",
+      "Medals_pvp_medal_ib_streak_team",
+      "Medals_pvp_medal_ib_streak_sm",
+      "Medals_pvp_medal_ib_streak_comeback",
+      "Medals_pvp_medal_ib_streak_shutdown",
+      "Medals_pvp_medal_ib_streak_combined",
+      "Medals_pvp_medal_ib_match_undefeated",
+      "Medals_pvp_medal_ib_match_blowout",
+      "Medals_pvp_medal_ib_match_most_damage",
+      "Medals_pvp_medal_ib_match_comeback",
+      "Medals_pvp_medal_ib_match_never_trailed",
+      "Medals_pvp_medal_ib_match_overtime",
+      "Medals_pvp_medal_ib_cycle",
+      "Medals_pvp_medal_ib_first_strike",
+      "Medals_pvp_medal_ib_super_shutdown"
     ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
@@ -2424,6 +2404,31 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "9924991580",
+      "103143560",
+      "4110605575",
+      "748895195",
+      "1686739444",
+      "11647605040",
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "1848252830",
+      "1585787840",
+      "3199098480",
+      "31990984800",
+      "3484731833",
+      "4078439804",
+      "1826469369",
+      "1264443021",
+      "157639802",
+      "2239249083",
+      "1673724806",
+      "2546784302",
+      "2916787939"
     ]
   },
   "pl": {
@@ -2572,15 +2577,6 @@
     ]
   },
   "pt-BR": {
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
       "clan-roster",
@@ -2649,6 +2645,15 @@
       "1553052482",
       "2821522136",
       "1315424373"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
     ],
     "DestinyChecklistDefinition.json": [
       "1793940260",
@@ -2741,65 +2746,6 @@
     ]
   },
   "ru": {
-    "DestinyInventoryItemDefinition.json": [
-      "1",
-      "73143230",
-      "2643364263",
-      "372496383",
-      "1190250163",
-      "3348653032",
-      "3582080006",
-      "2174060729",
-      "691393048",
-      "2250176030",
-      "1711513650",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "1950177353",
-      "3224646387",
-      "2467253899",
-      "734180536",
-      "2126433420",
-      "860071581",
-      "1371343017",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinyActivityModeDefinition.json": [
-      "16867394440",
-      "9924991580",
-      "103143560",
-      "2486723318",
-      "1639772990",
-      "2732566144",
-      "3484731833",
-      "2546784302",
-      "2916787939"
-    ],
-    "DestinyActivityDefinition.json": [
-      "0",
-      "1",
-      "2965669871",
-      "3700942889",
-      "1698629738",
-      "968118624"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
       "clan-roster",
@@ -2836,68 +2782,6 @@
       "fireteam-monitor",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "kills",
-      "deaths",
-      "flawless",
-      "averageKillsDeathsRatio",
-      "score",
-      "strikeDifficulty",
-      "activitiesEntered",
-      "activitiesCleared",
-      "activitiesConquered",
-      "secondsPlayed",
-      "secondsPlayedDistribution",
-      "fastestCompletionMsForActivity",
-      "playerEncounters",
-      "fireteamCombinations",
-      "currentCompetitiveRating",
-      "motesDeposited",
-      "motesLost",
-      "Medals_pvp_medal_ib_control_3a",
-      "Medals_pvp_medal_ib_control_3b",
-      "Medals_pvp_medal_ib_control_2a",
-      "Medals_pvp_medal_ib_control_2b",
-      "Medals_pvp_medal_ib_control_2c",
-      "Medals_pvp_medal_ib_control_2d",
-      "Medals_pvp_medal_ib_control_1a",
-      "Medals_pvp_medal_ib_control_1b",
-      "Medals_pvp_medal_ib_control_1c",
-      "Medals_pvp_medal_ib_control_1d",
-      "Medals_pvp_medal_ib_multi_entire_team",
-      "Medals_pvp_medal_ib_multi_7x",
-      "Medals_pvp_medal_ib_multi_6x",
-      "Medals_pvp_medal_ib_multi_5x",
-      "Medals_pvp_medal_ib_multi_4x",
-      "Medals_pvp_medal_ib_multi_3x",
-      "Medals_pvp_medal_ib_multi_2x",
-      "Medals_pvp_medal_ib_payback",
-      "Medals_pvp_medal_ib_avenger",
-      "Medals_pvp_medal_ib_defender",
-      "Medals_pvp_medal_ib_streak_huge",
-      "Medals_pvp_medal_ib_streak_lg",
-      "Medals_pvp_medal_ib_streak_no_damage",
-      "Medals_pvp_medal_ib_streak_shutdown_large",
-      "Medals_pvp_medal_ib_streak_med",
-      "Medals_pvp_medal_ib_streak_team",
-      "Medals_pvp_medal_ib_streak_sm",
-      "Medals_pvp_medal_ib_streak_comeback",
-      "Medals_pvp_medal_ib_streak_shutdown",
-      "Medals_pvp_medal_ib_streak_combined",
-      "Medals_pvp_medal_ib_match_undefeated",
-      "Medals_pvp_medal_ib_match_blowout",
-      "Medals_pvp_medal_ib_match_most_damage",
-      "Medals_pvp_medal_ib_match_comeback",
-      "Medals_pvp_medal_ib_match_never_trailed",
-      "Medals_pvp_medal_ib_match_overtime",
-      "Medals_pvp_medal_ib_cycle",
-      "Medals_pvp_medal_ib_first_strike",
-      "Medals_pvp_medal_ib_super_shutdown"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -3122,11 +3006,6 @@
       "4006123814",
       "4069293792"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "5",
-      "6",
-      "13"
-    ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
       "32153845200",
@@ -3155,6 +3034,22 @@
       "2821522136",
       "1315424373"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
     "DestinySeasonDefinition.json": [
       "965757574",
       "2973407602",
@@ -3175,6 +3070,34 @@
       "3048564473",
       "3430812784",
       "2844537300"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "1",
+      "73143230",
+      "2643364263",
+      "372496383",
+      "1190250163",
+      "3348653032",
+      "3582080006",
+      "2174060729",
+      "691393048",
+      "2250176030",
+      "1711513650",
+      "951399115",
+      "700251940",
+      "901060145",
+      "1541696845",
+      "2902936983",
+      "1950177353",
+      "3224646387",
+      "2467253899",
+      "734180536",
+      "2126433420",
+      "860071581",
+      "1371343017",
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -3261,6 +3184,77 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "5",
+      "6",
+      "13"
+    ],
+    "DestinyActivityDefinition.json": [
+      "0",
+      "1",
+      "2965669871",
+      "3700942889",
+      "1698629738",
+      "968118624"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "kills",
+      "deaths",
+      "flawless",
+      "averageKillsDeathsRatio",
+      "score",
+      "strikeDifficulty",
+      "activitiesEntered",
+      "activitiesCleared",
+      "activitiesConquered",
+      "secondsPlayed",
+      "secondsPlayedDistribution",
+      "fastestCompletionMsForActivity",
+      "playerEncounters",
+      "fireteamCombinations",
+      "currentCompetitiveRating",
+      "motesDeposited",
+      "motesLost",
+      "Medals_pvp_medal_ib_control_3a",
+      "Medals_pvp_medal_ib_control_3b",
+      "Medals_pvp_medal_ib_control_2a",
+      "Medals_pvp_medal_ib_control_2b",
+      "Medals_pvp_medal_ib_control_2c",
+      "Medals_pvp_medal_ib_control_2d",
+      "Medals_pvp_medal_ib_control_1a",
+      "Medals_pvp_medal_ib_control_1b",
+      "Medals_pvp_medal_ib_control_1c",
+      "Medals_pvp_medal_ib_control_1d",
+      "Medals_pvp_medal_ib_multi_entire_team",
+      "Medals_pvp_medal_ib_multi_7x",
+      "Medals_pvp_medal_ib_multi_6x",
+      "Medals_pvp_medal_ib_multi_5x",
+      "Medals_pvp_medal_ib_multi_4x",
+      "Medals_pvp_medal_ib_multi_3x",
+      "Medals_pvp_medal_ib_multi_2x",
+      "Medals_pvp_medal_ib_payback",
+      "Medals_pvp_medal_ib_avenger",
+      "Medals_pvp_medal_ib_defender",
+      "Medals_pvp_medal_ib_streak_huge",
+      "Medals_pvp_medal_ib_streak_lg",
+      "Medals_pvp_medal_ib_streak_no_damage",
+      "Medals_pvp_medal_ib_streak_shutdown_large",
+      "Medals_pvp_medal_ib_streak_med",
+      "Medals_pvp_medal_ib_streak_team",
+      "Medals_pvp_medal_ib_streak_sm",
+      "Medals_pvp_medal_ib_streak_comeback",
+      "Medals_pvp_medal_ib_streak_shutdown",
+      "Medals_pvp_medal_ib_streak_combined",
+      "Medals_pvp_medal_ib_match_undefeated",
+      "Medals_pvp_medal_ib_match_blowout",
+      "Medals_pvp_medal_ib_match_most_damage",
+      "Medals_pvp_medal_ib_match_comeback",
+      "Medals_pvp_medal_ib_match_never_trailed",
+      "Medals_pvp_medal_ib_match_overtime",
+      "Medals_pvp_medal_ib_cycle",
+      "Medals_pvp_medal_ib_first_strike",
+      "Medals_pvp_medal_ib_super_shutdown"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-developer",
       "medal-beta",
@@ -3323,48 +3317,20 @@
       "subscriber-perks",
       "dresstiny-equip",
       "dresstiny-edit"
+    ],
+    "DestinyActivityModeDefinition.json": [
+      "16867394440",
+      "9924991580",
+      "103143560",
+      "2486723318",
+      "1639772990",
+      "2732566144",
+      "3484731833",
+      "2546784302",
+      "2916787939"
     ]
   },
   "zh-CHS": {
-    "DestinyInventoryItemDefinition.json": [
-      "2643364263",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000000",
-      "1000000002",
-      "1000000003",
-      "1000000004",
-      "1000000005",
-      "1000000006",
-      "1000000007",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000047",
-      "1000000048",
-      "1000000049",
-      "1000000050",
-      "2206233229"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "collections-explorer",
       "triumphs-tracked",
@@ -3377,52 +3343,6 @@
       "settings-legend",
       "manifest",
       "dresstiny"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2086100423",
-      "1376640684",
-      "3251218484",
-      "3212358005",
-      "1276693937",
-      "581214566",
-      "2530001514",
-      "1000000004",
-      "1000000051",
-      "1000000052",
-      "1000000053",
-      "1000000006",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000016",
-      "2485764221",
-      "2329774788",
-      "2334031483",
-      "464627906",
-      "3111288225",
-      "4242023272",
-      "861774511",
-      "724209558",
-      "1194500405",
-      "184846131",
-      "562783996",
-      "1000000015"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "3821439926",
-      "2032534090",
-      "3998251206"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "activitiesConquered",
-      "secondsPlayedDistribution",
-      "playerEncounters",
-      "fireteamCombinations"
     ],
     "BraytechMapsDefinition.json": [
       "20",
@@ -3725,36 +3645,6 @@
       "4292949220",
       "4292949222"
     ],
-    "BraytechMapsTypesDefinition.json": [
-      "6"
-    ],
-    "DestinyObjectiveDefinition.json": [
-      "51472017",
-      "3236905278",
-      "1583650743",
-      "61205796",
-      "2171624875",
-      "101331170",
-      "517631236",
-      "969263262",
-      "3289280568",
-      "668893316",
-      "677383186",
-      "1087558304",
-      "255019695",
-      "3711817336",
-      "2177758697",
-      "817612586",
-      "1873118367",
-      "3641440552",
-      "565460377",
-      "2499974490",
-      "3972872067",
-      "3212229148",
-      "2287201869",
-      "3169294926",
-      "1108757867"
-    ],
     "DestinyPhaseDefinition.json": [
       "2169047898",
       "378163510",
@@ -3791,6 +3681,23 @@
       "911485777",
       "1303588409"
     ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyDestinationDefinition.json": [
+      "3821439926",
+      "2032534090",
+      "3998251206"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
     "DestinySeasonDefinition.json": [
       "2973407602",
       "20267733200",
@@ -3802,9 +3709,72 @@
       "27587265720",
       "27587265750"
     ],
+    "DestinyPresentationNodeDefinition.json": [
+      "2086100423",
+      "1376640684",
+      "3251218484",
+      "3212358005",
+      "1276693937",
+      "581214566",
+      "3790247699",
+      "2530001514",
+      "1000000004",
+      "1000000051",
+      "1000000052",
+      "1000000053",
+      "1000000006",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1205461800",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000016",
+      "2485764221",
+      "2329774788",
+      "2334031483",
+      "464627906",
+      "3111288225",
+      "4242023272",
+      "861774511",
+      "724209558",
+      "1194500405",
+      "184846131",
+      "562783996",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000000",
+      "1000000002",
+      "1000000003",
+      "1000000004",
+      "1000000005",
+      "1000000006",
+      "1000000007",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000047",
+      "1000000048",
+      "1000000049",
+      "1000000050",
+      "2206233229"
+    ],
     "BraytechRotationDefinition.json": [
       "10",
       "11"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "2643364263",
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
       "0",
@@ -3874,6 +3844,42 @@
       "4224291482",
       "2040505661"
     ],
+    "BraytechMapsTypesDefinition.json": [
+      "6"
+    ],
+    "DestinyObjectiveDefinition.json": [
+      "51472017",
+      "3236905278",
+      "1583650743",
+      "61205796",
+      "2171624875",
+      "101331170",
+      "517631236",
+      "969263262",
+      "3289280568",
+      "668893316",
+      "677383186",
+      "1087558304",
+      "255019695",
+      "3711817336",
+      "2177758697",
+      "817612586",
+      "1873118367",
+      "3641440552",
+      "565460377",
+      "2499974490",
+      "3972872067",
+      "3212229148",
+      "2287201869",
+      "3169294926",
+      "1108757867"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "activitiesConquered",
+      "secondsPlayedDistribution",
+      "playerEncounters",
+      "fireteamCombinations"
+    ],
     "BraytechCommonDefinition.json": [
       "medal-beta",
       "medal-seraph",
@@ -3900,57 +3906,6 @@
     ]
   },
   "zh-CHT": {
-    "DestinyInventoryItemDefinition.json": [
-      "2643364263",
-      "951399115",
-      "700251940",
-      "901060145",
-      "1541696845",
-      "2902936983",
-      "2126433420",
-      "860071581",
-      "1371343017",
-      "2156849113",
-      "3607181138",
-      "2284123716"
-    ],
-    "DestinySourceDefinition.json": [
-      "1000000000",
-      "1000000002",
-      "1000000003",
-      "1000000004",
-      "1000000005",
-      "1000000006",
-      "1000000007",
-      "1000000008",
-      "1000000009",
-      "1000000010",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000045",
-      "1000000046",
-      "1000000047",
-      "1000000048",
-      "1000000049",
-      "1000000050",
-      "2206233229",
-      "2455011338",
-      "2399751101"
-    ],
-    "BraytechHelpDefinition.json": [
-      "5000000007",
-      "5000000008",
-      "5000000011",
-      "5000000010",
-      "5000000012",
-      "5000000013",
-      "5000000014"
-    ],
-    "DestinyRecordDefinition.json": [
-      "1"
-    ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
       "clan-roster",
@@ -3988,21 +3943,54 @@
       "manifest",
       "dresstiny"
     ],
-    "DestinyPresentationNodeDefinition.json": [
-      "2530001514",
-      "1000000009",
-      "1000000010",
-      "1205461800",
-      "1000000011",
-      "1000000012",
-      "1000000013",
-      "1000000014",
-      "1000000016",
-      "1062988660",
-      "2968370335",
-      "1190294990",
-      "1289679000",
-      "1000000015"
+    "DestinyPhaseDefinition.json": [
+      "2169047898",
+      "378163510",
+      "829896467",
+      "3172054256",
+      "2224793617",
+      "2184227225",
+      "2779782231",
+      "2890972472",
+      "3768812794",
+      "1463700798",
+      "4240994016",
+      "1899447888",
+      "2700613207",
+      "1340233962",
+      "5808550890",
+      "1826821877",
+      "133673726",
+      "2400102494",
+      "3585780724",
+      "3492117941",
+      "3998734759",
+      "2867024332",
+      "4063391552",
+      "4056788414",
+      "1012557098",
+      "3780037272",
+      "1805972064",
+      "1483068591",
+      "1779644342",
+      "2676434388",
+      "160562459",
+      "3469402858",
+      "2189312851",
+      "2065920306",
+      "1306680929",
+      "2741345805",
+      "2761002327",
+      "193978048",
+      "1727550020",
+      "637313410",
+      "4077323831",
+      "1292217373",
+      "2133190695",
+      "1958961797",
+      "548234283",
+      "911485777",
+      "1303588409"
     ],
     "DestinyActivityModifierDefinition.json": [
       "25589576690",
@@ -4044,6 +4032,93 @@
       "1553052482",
       "2821522136",
       "1315424373"
+    ],
+    "BraytechHelpDefinition.json": [
+      "5000000007",
+      "5000000008",
+      "5000000011",
+      "5000000010",
+      "5000000012",
+      "5000000013",
+      "5000000014"
+    ],
+    "DestinyRecordDefinition.json": [
+      "1"
+    ],
+    "DestinySeasonDefinition.json": [
+      "2973407602",
+      "20267733200",
+      "17436828180",
+      "28090594270",
+      "28090594280",
+      "28090594310",
+      "27587265680",
+      "27587265720",
+      "27587265750"
+    ],
+    "DestinyPresentationNodeDefinition.json": [
+      "3790247699",
+      "2530001514",
+      "1000000009",
+      "1000000010",
+      "1205461800",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000016",
+      "1062988660",
+      "2968370335",
+      "1190294990",
+      "1289679000",
+      "1000000015"
+    ],
+    "DestinySourceDefinition.json": [
+      "1000000000",
+      "1000000002",
+      "1000000003",
+      "1000000004",
+      "1000000005",
+      "1000000006",
+      "1000000007",
+      "1000000008",
+      "1000000009",
+      "1000000010",
+      "1000000011",
+      "1000000012",
+      "1000000013",
+      "1000000014",
+      "1000000045",
+      "1000000046",
+      "1000000047",
+      "1000000048",
+      "1000000049",
+      "1000000050",
+      "2206233229",
+      "2455011338",
+      "2399751101"
+    ],
+    "DestinyChecklistDefinition.json": [
+      "1793940260",
+      "703136805",
+      "626486626",
+      "3048564473",
+      "3430812784",
+      "2844537300"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "2643364263",
+      "951399115",
+      "700251940",
+      "901060145",
+      "1541696845",
+      "2902936983",
+      "2126433420",
+      "860071581",
+      "1371343017",
+      "2156849113",
+      "3607181138",
+      "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
       "1542299784",
@@ -4096,74 +4171,6 @@
       "992789319",
       "4197208563",
       "1108757867"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "2169047898",
-      "378163510",
-      "829896467",
-      "3172054256",
-      "2224793617",
-      "2184227225",
-      "2779782231",
-      "2890972472",
-      "3768812794",
-      "1463700798",
-      "4240994016",
-      "1899447888",
-      "2700613207",
-      "1340233962",
-      "5808550890",
-      "1826821877",
-      "133673726",
-      "2400102494",
-      "3585780724",
-      "3492117941",
-      "3998734759",
-      "2867024332",
-      "4063391552",
-      "4056788414",
-      "1012557098",
-      "3780037272",
-      "1805972064",
-      "1483068591",
-      "1779644342",
-      "2676434388",
-      "160562459",
-      "3469402858",
-      "2189312851",
-      "2065920306",
-      "1306680929",
-      "2741345805",
-      "2761002327",
-      "193978048",
-      "1727550020",
-      "637313410",
-      "4077323831",
-      "1292217373",
-      "2133190695",
-      "1958961797",
-      "548234283",
-      "911485777",
-      "1303588409"
-    ],
-    "DestinySeasonDefinition.json": [
-      "2973407602",
-      "20267733200",
-      "17436828180",
-      "28090594270",
-      "28090594280",
-      "28090594310",
-      "27587265680",
-      "27587265720",
-      "27587265750"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1793940260",
-      "703136805",
-      "626486626",
-      "3048564473",
-      "3430812784",
-      "2844537300"
     ],
     "BraytechCommonDefinition.json": [
       "platform-xbox",
