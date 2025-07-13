@@ -76,11 +76,5 @@
       "name": "Annulation",
       "description": "Vous pouvez annuler à tout moment en sélectionnant Gérer l'abonnement depuis la vue [Abonnements]. Elle vous redirigera vers le site de Stripe, où il vous sera demandé de confirmer l'annulation."
     }
-  },
-  "5000000014": {
-    "displayProperties": {
-      "name": "Changement de niveau",
-      "description": "Pour changer de niveau, annulez votre abonnement actuel, puis réabonnez-vous au nouveau niveau. Si les avantages de votre niveau précédent dépassent ceux du nouveau, vous continuerez de bénéficier de ces avantages jusqu'à expiration de la période facturée."
-    }
   }
 }
