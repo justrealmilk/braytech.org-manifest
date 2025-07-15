@@ -131,16 +131,6 @@
       "blue": 54
     }
   },
-  "41042800": {
-    "displayProperties": {
-      "presentationNodeHash": 1428811610
-    }
-  },
-  "41042801": {
-    "displayProperties": {
-      "presentationNodeHash": 1428811610
-    }
-  },
   "46125926": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/46125926.jpg"
   },
@@ -246,11 +236,6 @@
   "74694216": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/74694216.jpg"
   },
-  "81946149": {
-    "displayProperties": {
-      "presentationNodeHash": 1428811610
-    }
-  },
   "87646118": {
     "screenshot": "/static/images/screenshots/items/shaders/87646118.jpg"
   },
@@ -343,6 +328,27 @@
   },
   "121305948": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/121305948.jpg"
+  },
+  "131450128": {
+    "backgroundColor": {
+      "red": 23,
+      "green": 33,
+      "blue": 72
+    }
+  },
+  "131450129": {
+    "backgroundColor": {
+      "red": 134,
+      "green": 129,
+      "blue": 121
+    }
+  },
+  "131450130": {
+    "backgroundColor": {
+      "red": 21,
+      "green": 21,
+      "blue": 20
+    }
   },
   "136355432": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/136355432.jpg"
@@ -2919,6 +2925,76 @@
   "1178901683": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1178901683.jpg"
   },
+  "1179310688": {
+    "backgroundColor": {
+      "red": 74,
+      "green": 30,
+      "blue": 112
+    }
+  },
+  "1179310689": {
+    "backgroundColor": {
+      "red": 7,
+      "green": 6,
+      "blue": 6
+    }
+  },
+  "1179310690": {
+    "backgroundColor": {
+      "red": 107,
+      "green": 64,
+      "blue": 29
+    }
+  },
+  "1179310691": {
+    "backgroundColor": {
+      "red": 16,
+      "green": 11,
+      "blue": 7
+    }
+  },
+  "1179310692": {
+    "backgroundColor": {
+      "red": 197,
+      "green": 189,
+      "blue": 179
+    }
+  },
+  "1179310693": {
+    "backgroundColor": {
+      "red": 67,
+      "green": 80,
+      "blue": 30
+    }
+  },
+  "1179310694": {
+    "backgroundColor": {
+      "red": 39,
+      "green": 38,
+      "blue": 50
+    }
+  },
+  "1179310695": {
+    "backgroundColor": {
+      "red": 195,
+      "green": 100,
+      "blue": 9
+    }
+  },
+  "1179310696": {
+    "backgroundColor": {
+      "red": 37,
+      "green": 26,
+      "blue": 42
+    }
+  },
+  "1179310697": {
+    "backgroundColor": {
+      "red": 23,
+      "green": 24,
+      "blue": 35
+    }
+  },
   "1180014202": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/1180014202.jpg"
   },
@@ -4293,6 +4369,13 @@
   },
   "1681583613": {
     "screenshot": "/static/images/screenshots/items/exotics/weapons/1681583613.jpg"
+  },
+  "1686483719": {
+    "backgroundColor": {
+      "red": 160,
+      "green": 33,
+      "blue": 160
+    }
   },
   "1688602431": {
     "screenshot": "/static/images/screenshots/items/exotics/armor/1688602431.jpg"
@@ -11362,8 +11445,8 @@
   "3886292682": {
     "backgroundColor": {
       "red": 160,
-      "green": 33,
-      "blue": 160
+      "green": 34,
+      "blue": 161
     }
   },
   "3886292683": {
@@ -13077,6 +13160,62 @@
   },
   "4175323631": {
     "screenshot": "/static/images/screenshots/items/exotics/ornaments/4175323631.jpg"
+  },
+  "4178714180": {
+    "backgroundColor": {
+      "red": 47,
+      "green": 41,
+      "blue": 37
+    }
+  },
+  "4178714181": {
+    "backgroundColor": {
+      "red": 88,
+      "green": 14,
+      "blue": 22
+    }
+  },
+  "4178714184": {
+    "backgroundColor": {
+      "red": 160,
+      "green": 33,
+      "blue": 160
+    }
+  },
+  "4178714185": {
+    "backgroundColor": {
+      "red": 160,
+      "green": 33,
+      "blue": 160
+    }
+  },
+  "4178714186": {
+    "backgroundColor": {
+      "red": 160,
+      "green": 33,
+      "blue": 160
+    }
+  },
+  "4178714187": {
+    "backgroundColor": {
+      "red": 42,
+      "green": 40,
+      "blue": 42
+    }
+  },
+  "4178714188": {
+    "backgroundColor": {
+      "red": 33,
+      "green": 12,
+      "blue": 15
+    }
+  },
+  "4178714189": {
+    "backgroundColor": {
+      "red": 175,
+      "green": 126,
+      "blue": 142
+    }
   },
   "4179974574": {
     "backgroundColor": {
