@@ -109,7 +109,6 @@
       "metrics": [],
       "craftables": []
     },
-    "excluded": [],
     "redacted": false
   },
   "1000000004": {
@@ -860,5 +859,17 @@
     "distinguish": true,
     "showInvisible": true,
     "redacted": false
+  },
+  "1764538500": {
+    "exclude": true
+  },
+  "1024582165": {
+    "exclude": true
+  },
+  "2841140771": {
+    "exclude": true
+  },
+  "2531457088": {
+    "exclude": true
   }
 }
