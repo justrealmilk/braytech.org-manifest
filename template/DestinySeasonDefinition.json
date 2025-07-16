@@ -65,7 +65,14 @@
   },
   "27587265750": {
     "displayProperties": {
-      "name": "Year of Propehecy"
+      "name": "Edge of Fate",
+      "description": "Something is calling. A message arrives that draws the Vanguard to a planetoid on the edge of the solar system. Hunt down the source of our invitation, and uncover a truth that will redefine our future."
+    }
+  },
+  "2758726575": {
+    "displayProperties": {
+      "name": "Season of Reclamation",
+      "description": "As the Vanguard unravels a mystery at the edge of the system, Earth's defenders struggle to hold Inner Sol. Bolster the Forces of the City as they defend the home front from ancient foes."
     }
   }
 }
