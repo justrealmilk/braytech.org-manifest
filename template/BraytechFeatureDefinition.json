@@ -192,13 +192,12 @@
   "operations": {
     "displayProperties": {
       "name": "Operations",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
+      "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
     "keywords": [
-      "nightfall",
-      "lost sector",
-      "modules",
-      "event",
+      "raids",
+      "lost sectors",
+      "events",
       "challenges"
     ]
   },
@@ -210,19 +209,6 @@
     "keywords": [
       "event",
       "limited time"
-    ]
-  },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
-    },
-    "keywords": [
-      "operations",
-      "challenges",
-      "activities",
-      "milestones",
-      "bonuses"
     ]
   },
   "operations-seasonal-challenges": {
@@ -240,8 +226,6 @@
       "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
     "keywords": [
-      "nightfalls",
-      "lost sectors",
       "rotations",
       "calendar",
       "raids",
