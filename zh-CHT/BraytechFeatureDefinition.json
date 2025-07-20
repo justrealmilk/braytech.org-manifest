@@ -47,12 +47,6 @@
       "description": "守護者的每周成就與挑戰指南"
     }
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "All activity challenges"
-    }
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",

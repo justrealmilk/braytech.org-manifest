@@ -188,19 +188,6 @@
       "モジュール"
     ]
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "チャレンジ",
-      "description": "利用可能なすべてのアクティビティチャレンジ、アクティブな評価ボーナス、シーズンパスの厳選されたリスト"
-    },
-    "keywords": [
-      "ウィークリー",
-      "挑戦",
-      "アクティビティ",
-      "マイルストーン",
-      "ボーナス"
-    ]
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンの挑戦",

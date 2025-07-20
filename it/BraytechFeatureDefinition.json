@@ -170,19 +170,6 @@
       "moduli"
     ]
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Sfide",
-      "description": "Tutte le sfide delle attività"
-    },
-    "keywords": [
-      "settimanali",
-      "sfide",
-      "attività",
-      "pietre miliari",
-      "bonus"
-    ]
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Sfide stagionali",

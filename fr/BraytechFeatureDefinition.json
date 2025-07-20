@@ -194,18 +194,6 @@
       "description": "Relevez des défis à durée limitée pour gagner diverses récompenses lors d'un événement à durée limitée."
     }
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Défis",
-      "description": "Tous les défis d'activité"
-    },
-    "keywords": [
-      "hebdomadaires",
-      "défis",
-      "jalons",
-      "bonus"
-    ]
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Défis Saisonniers",

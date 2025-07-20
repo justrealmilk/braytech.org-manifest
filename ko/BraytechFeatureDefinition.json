@@ -47,12 +47,6 @@
       "description": "수호자의 업적과 보상을 위한 의례적인 주간 가이드입니다."
     }
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "All activity challenges"
-    }
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",

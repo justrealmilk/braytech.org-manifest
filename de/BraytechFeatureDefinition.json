@@ -101,12 +101,6 @@
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Herausforderungen",
-      "description": "Alle Aktivitäts-Herausforderungen"
-    }
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Saisonale Herausforderungen",

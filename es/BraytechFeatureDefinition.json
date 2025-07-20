@@ -188,19 +188,6 @@
       "módulos"
     ]
   },
-  "operations-activity-challenges": {
-    "displayProperties": {
-      "name": "Desafíos",
-      "description": "Todos los desafíos de actividades."
-    },
-    "keywords": [
-      "semanales",
-      "desafíos",
-      "objetivos",
-      "hitos",
-      "bonificaciones"
-    ]
-  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
