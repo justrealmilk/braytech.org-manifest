@@ -189,7 +189,7 @@
       "lost sectors"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Operations",
       "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
@@ -202,7 +202,7 @@
       "challenges"
     ]
   },
-  "weeklies-event": {
+  "operations-event": {
     "displayProperties": {
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
@@ -212,20 +212,20 @@
       "limited time"
     ]
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Activity Challenges",
       "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
     },
     "keywords": [
-      "weeklies",
+      "operations",
       "challenges",
       "activities",
       "milestones",
       "bonuses"
     ]
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
@@ -234,7 +234,7 @@
       "seasonal challenges"
     ]
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."

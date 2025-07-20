@@ -16,6 +16,7 @@ import DestinyClanBannerDefinition from './DestinyClanBannerDefinition.json';
 import DestinyCollectibleDefinition from './DestinyCollectibleDefinition.json';
 import DestinyDamageTypeDefinition from './DestinyDamageTypeDefinition.json';
 import DestinyDestinationDefinition from './DestinyDestinationDefinition.json';
+import DestinyEventCardDefinition from './DestinyEventCardDefinition.json';
 import DestinyHistoricalStatsDefinition from './DestinyHistoricalStatsDefinition.json';
 import DestinyItemSubTypeDefinition from './DestinyItemSubTypeDefinition.json';
 import DestinyItemTypeDefinition from './DestinyItemTypeDefinition.json';
@@ -57,6 +58,7 @@ const en = {
     DestinyCollectibleDefinition,
     DestinyDamageTypeDefinition,
     DestinyDestinationDefinition,
+    DestinyEventCardDefinition,
     DestinyHistoricalStatsDefinition,
     DestinyItemSubTypeDefinition,
     DestinyItemTypeDefinition,

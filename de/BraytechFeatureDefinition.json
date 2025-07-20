@@ -95,25 +95,25 @@
       "description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Wöchentliches",
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Herausforderungen",
       "description": "Alle Aktivitäts-Herausforderungen"
     }
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Saisonale Herausforderungen",
       "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotationen",
       "description": "Schau in die Bahnen verschiedenster Aktivitäten"

@@ -41,25 +41,25 @@
       "description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Semanais",
       "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
     }
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"

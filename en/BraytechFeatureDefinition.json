@@ -277,66 +277,51 @@
     "to": "/maps",
     "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"]
   },
-  "weeklies": {
-    "hash": "weeklies",
+  "operations": {
+    "hash": "operations",
     "displayProperties": {
       "name": "Operations",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
+      "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
-    "to": "/weeklies",
-    "keywords": ["nightfall", "lost sector", "modules", "event", "challenges"],
+    "to": "/operations",
+    "keywords": ["raids", "lost sectors", "events", "challenges"],
     "children": {
       "views": [
         {
-          "viewHash": "weeklies-event"
+          "viewHash": "operations-seasonal-challenges"
         },
         {
-          "viewHash": "weeklies-activity-challenges"
-        },
-        {
-          "viewHash": "weeklies-seasonal-challenges"
-        },
-        {
-          "viewHash": "weeklies-rotations"
+          "viewHash": "operations-rotations"
         }
       ]
     }
   },
-  "weeklies-event": {
-    "hash": "weeklies-event",
+  "operations-event": {
+    "hash": "operations-event",
     "displayProperties": {
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
     },
-    "to": "/weeklies/event",
+    "to": "/operations/event",
     "keywords": ["event", "limited time"]
   },
-  "weeklies-activity-challenges": {
-    "hash": "weeklies-activity-challenges",
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
-    },
-    "to": "/weeklies/activity-challenges",
-    "keywords": ["weeklies", "challenges", "activities", "milestones", "bonuses"]
-  },
-  "weeklies-seasonal-challenges": {
-    "hash": "weeklies-seasonal-challenges",
+  "operations-seasonal-challenges": {
+    "hash": "operations-seasonal-challenges",
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
     },
-    "to": "/weeklies/seasonal-challenges",
+    "to": "/operations/seasonal-challenges",
     "keywords": ["seasonal challenges"]
   },
-  "weeklies-rotations": {
-    "hash": "weeklies-rotations",
+  "operations-rotations": {
+    "hash": "operations-rotations",
     "displayProperties": {
       "name": "Rotations",
       "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
-    "to": "/weeklies/rotations",
-    "keywords": ["nightfalls", "lost sectors", "rotations", "calendar", "raids", "wellspring", "altars of sorrow", "ascendant challenge"]
+    "to": "/operations/rotations",
+    "keywords": ["rotations", "calendar", "raids", "wellspring", "altars of sorrow", "ascendant challenge"]
   },
   "character": {
     "hash": "character",

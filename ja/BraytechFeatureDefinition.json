@@ -177,7 +177,7 @@
       "失われたセクター"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "ウィークリー",
       "description": "ガーディアンたちへの、強化と勝利のためのヒントとなるウィークリーの必須ガイド"
@@ -188,7 +188,7 @@
       "モジュール"
     ]
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "チャレンジ",
       "description": "利用可能なすべてのアクティビティチャレンジ、アクティブな評価ボーナス、シーズンパスの厳選されたリスト"
@@ -201,7 +201,7 @@
       "ボーナス"
     ]
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "シーズンの挑戦",
       "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
@@ -210,7 +210,7 @@
       "シーズンの挑戦"
     ]
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "ローテーション",
       "description": "ローテーションで繰り返す周回イベントを予測して、計画を立てやすくします。このローテーションは「設計者」によって変えられることがありますが、都度更新されていきます。"

@@ -41,25 +41,25 @@
       "description": "所有目的地的機靈掃描和物品清單"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "周报",
       "description": "守護者的每周成就與挑戰指南"
     }
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"

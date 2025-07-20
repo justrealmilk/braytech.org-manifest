@@ -177,7 +177,7 @@
       "sectores perdidos"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Semanales",
       "description": "Guía del Guardián sobre rituales semanales con consejos para ganar prestigio y triunfar"
@@ -188,7 +188,7 @@
       "módulos"
     ]
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Desafíos",
       "description": "Todos los desafíos de actividades."
@@ -201,7 +201,7 @@
       "bonificaciones"
     ]
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Desafíos de temporada",
       "description": "Completa desafíos de tiempo limitado para conseguir rango de temporada, polvo brillante y otras recompensas."
@@ -210,7 +210,7 @@
       "desafíos de temporada"
     ]
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
       "description": "Predice los ciclos de varias actividades."

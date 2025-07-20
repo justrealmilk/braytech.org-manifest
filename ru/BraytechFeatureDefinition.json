@@ -41,25 +41,25 @@
       "description": "Сканирования, предметы и задания по всей Солнечной системе"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Еженедельное",
       "description": "Руководство для Стражей по еженедельным активностям с подсказками по триумфам и испытаниям"
     }
   },
-  "weeklies-activity-challenges": {
+  "operations-activity-challenges": {
     "displayProperties": {
       "name": "Activity Challenges",
       "description": "All activity challenges"
     }
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"
