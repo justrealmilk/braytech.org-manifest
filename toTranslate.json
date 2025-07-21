@@ -668,6 +668,9 @@
       "2032534090",
       "3998251206"
     ],
+    "DestinyActivityTypeDefinition.json": [
+      "1728319841"
+    ],
     "DestinyRecordDefinition.json": [
       "1"
     ],
@@ -984,6 +987,9 @@
     "DestinyDestinationDefinition.json": [
       "2032534090",
       "3998251206"
+    ],
+    "DestinyActivityTypeDefinition.json": [
+      "1728319841"
     ],
     "DestinyRecordDefinition.json": [
       "1"
@@ -1522,6 +1528,9 @@
       "2032534090",
       "3998251206"
     ],
+    "DestinyActivityTypeDefinition.json": [
+      "1728319841"
+    ],
     "DestinyRecordDefinition.json": [
       "1"
     ],
@@ -1737,6 +1746,11 @@
     "DestinyActivityModeDefinition.json": [
       "16867394440",
       "2916787939"
+    ]
+  },
+  "ja": {
+    "DestinyActivityTypeDefinition.json": [
+      "1728319841"
     ]
   },
   "ko": {
@@ -3656,6 +3670,9 @@
       "3821439926",
       "2032534090",
       "3998251206"
+    ],
+    "DestinyActivityTypeDefinition.json": [
+      "1728319841"
     ],
     "DestinyRecordDefinition.json": [
       "1"
