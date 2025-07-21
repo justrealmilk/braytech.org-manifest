@@ -3,5 +3,11 @@
     "displayProperties": {
       "supplement": "ストライク「空虚な番人」プレイ中に、パイクを使って敵を倒す。"
     }
+  },
+  "1": {
+    "displayProperties": {
+      "name": "最高です！",
+      "description": "これは、あなたが「最高」だと証明する勝利の道のりです。流石です!"
+    }
   }
 }
