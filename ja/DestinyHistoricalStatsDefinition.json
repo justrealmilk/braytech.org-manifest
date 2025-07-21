@@ -41,13 +41,28 @@
   },
   "activitiesCleared": {
     "statName": "クリア",
-    "statDescription": "全体のアクティビティが無事クリアできました。ガーディアン、おそらくですがこれはアクティビティの半分以上の数だとと思います!"
+    "statNameAlt": "対戦",
+    "statDescription": "クリアに成功したアクティビティの合計数です。ガーディアン、願わくば、この数が参加したアクティビティの半分を超えていることを祈ります！"
+  },
+  "activitiesConquered": {
+    "statName": "達成済",
+    "statDescription": "発見し、踏破し、制覇したアクティビティの総数です。"
   },
   "secondsPlayed": {
     "statDescription": "シティへの脅威を排除するために費やされた合計時間。ここで費やした時間が少なすぎるということはない。"
   },
+  "secondsPlayedDistribution": {
+    "statDescription": "他のアクティビティモードと比べた際のプレイ時間の割合です。"
+  },
   "fastestCompletionMsForActivity": {
     "statName": "最速クリア"
+  },
+  "playerEncounters": {
+    "statName": "遭遇戦",
+    "statDescription": "アクティビティ中に遭遇戦に突入したプレイヤーの総数です。"
+  },
+  "fireteamCombinations": {
+    "statName": "ファイアチーム"
   },
   "currentCompetitiveRating": {
     "statName": "現在の対戦レーティング",

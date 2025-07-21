@@ -111,6 +111,13 @@
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
+  "medal-one-time": {
+    "displayProperties": {
+      "name": "支援したことあるユーザー",
+      "description": "_ラーメンと餃子で稼働する開発者に、生命維持のご支援をお願いします。_"
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
   "medal-patron": {
     "displayProperties": {
       "name": "出資者",
@@ -129,6 +136,13 @@
     "displayProperties": {
       "name": "恩人",
       "description": "_博愛のガーディアン。_\nこのプレイヤーは、Bungie財団法人を通じて素晴らしい活動に寄付をしました。"
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "接続済",
+      "description": "_通信に接続しました。_\nこのプレイヤーは、自身のDiscordプロフィールをVoluspaと連携しています。"
     },
     "itemTypeDisplayName": "Special"
   },
