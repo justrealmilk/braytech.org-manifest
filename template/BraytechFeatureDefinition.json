@@ -195,10 +195,12 @@
       "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
     "keywords": [
-      "raids",
+      "xur",
+      "public events",
       "lost sectors",
       "events",
-      "challenges"
+      "challenges",
+      "season pass"
     ]
   },
   "operations-event": {
@@ -211,6 +213,19 @@
       "limited time"
     ]
   },
+  "operations-rotations": {
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
+    },
+    "keywords": [
+      "rotations",
+      "calendar",
+      "wellspring",
+      "altars of sorrow",
+      "ascendant challenge"
+    ]
+  },
   "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
@@ -220,18 +235,13 @@
       "seasonal challenges"
     ]
   },
-  "operations-rotations": {
+  "operations-seasonal-hub": {
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
+      "name": "Seasonal Hub",
+      "description": "Complete limited-time challenges for Portal bonuses, XP, Bright Dust, and other rewards."
     },
     "keywords": [
-      "rotations",
-      "calendar",
-      "raids",
-      "wellspring",
-      "altars of sorrow",
-      "ascendant challenge"
+      "seasonal hub"
     ]
   },
   "character": {
