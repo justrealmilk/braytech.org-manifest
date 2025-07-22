@@ -188,15 +188,6 @@
       "módulos"
     ]
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
-    },
-    "keywords": [
-      "desafíos de temporada"
-    ]
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
@@ -211,6 +202,15 @@
       "manantial",
       "altares del dolor",
       "desafío ascendente"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Desafíos de temporada",
+      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
+    },
+    "keywords": [
+      "desafíos de temporada"
     ]
   },
   "character": {

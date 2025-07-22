@@ -47,16 +47,16 @@
       "description": "守護者的每周成就與挑戰指南"
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
   "character": {

@@ -47,16 +47,16 @@
       "description": "수호자의 업적과 보상을 위한 의례적인 주간 가이드입니다."
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
   "character": {

@@ -125,16 +125,16 @@
       "description": "守护者的每周成就与挑战指南"
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "赛季挑战",
-      "description": "完成这些限时挑战来获得赛季经验、光尘和其他奖励"
-    }
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "每周轮换",
       "description": "查看每周轮换的相关信息"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "赛季挑战",
+      "description": "完成这些限时挑战来获得赛季经验、光尘和其他奖励"
     }
   },
   "character": {

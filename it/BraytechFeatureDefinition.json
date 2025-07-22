@@ -170,15 +170,6 @@
       "moduli"
     ]
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Sfide stagionali",
-      "description": "Completa le sfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
-    },
-    "keywords": [
-      "sfide stagionali"
-    ]
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotazioni",
@@ -193,6 +184,15 @@
       "sorgente",
       "altari del tormento",
       "sfida ascendente"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Sfide stagionali",
+      "description": "Completa le sfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
+    },
+    "keywords": [
+      "sfide stagionali"
     ]
   },
   "character": {

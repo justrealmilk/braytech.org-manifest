@@ -47,16 +47,16 @@
       "description": "Um guia de Guardião para os rituais semanais com dicas para prestígio e triunfo"
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
   "character": {

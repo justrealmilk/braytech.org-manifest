@@ -194,15 +194,6 @@
       "description": "Relevez des défis à durée limitée pour gagner diverses récompenses lors d'un événement à durée limitée."
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Défis Saisonniers",
-      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
-    },
-    "keywords": [
-      "défis saisonniers"
-    ]
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
@@ -217,6 +208,15 @@
       "source",
       "autels du malheur",
       "défi ascendant"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Défis Saisonniers",
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
+    },
+    "keywords": [
+      "défis saisonniers"
     ]
   },
   "character": {

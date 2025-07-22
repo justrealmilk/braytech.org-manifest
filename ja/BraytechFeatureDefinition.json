@@ -211,15 +211,6 @@
       "期間限定"
     ]
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "シーズンの挑戦",
-      "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
-    },
-    "keywords": [
-      "シーズンの挑戦"
-    ]
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "ローテーション",
@@ -232,6 +223,15 @@
       "源泉",
       "悲哀の祭壇",
       "アセンダントの挑戦"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "シーズンの挑戦",
+      "description": "期間限定チャレンジをクリアしてシーズンランクやブライトダストなどの報酬を手に入れましょう"
+    },
+    "keywords": [
+      "シーズンの挑戦"
     ]
   },
   "character": {

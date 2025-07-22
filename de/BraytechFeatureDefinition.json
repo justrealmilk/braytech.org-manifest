@@ -101,16 +101,16 @@
       "description": "Ein Leitfaden für Hüter zu wöchentlichen Ritualen mit Tipps für Prestige und Triumphe"
     }
   },
-  "operations-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Saisonale Herausforderungen",
-      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
-    }
-  },
   "operations-rotations": {
     "displayProperties": {
       "name": "Rotationen",
       "description": "Schau in die Bahnen verschiedenster Aktivitäten"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Saisonale Herausforderungen",
+      "description": "Erfülle zeitlich begrenzte Herausforderungen für Saisonränge, Glanzstaub und andere Prämien"
     }
   },
   "character": {
