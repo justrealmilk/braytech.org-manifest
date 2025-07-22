@@ -284,14 +284,17 @@
       "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
     "to": "/operations",
-    "keywords": ["raids", "lost sectors", "events", "challenges"],
+    "keywords": ["xur", "public events", "lost sectors", "events", "challenges", "season pass"],
     "children": {
       "views": [
+        {
+          "viewHash": "operations-rotations"
+        },
         {
           "viewHash": "operations-seasonal-challenges"
         },
         {
-          "viewHash": "operations-rotations"
+          "viewHash": "operations-seasonal-hub"
         }
       ]
     }
@@ -305,6 +308,15 @@
     "to": "/operations/event",
     "keywords": ["event", "limited time"]
   },
+  "operations-rotations": {
+    "hash": "operations-rotations",
+    "displayProperties": {
+      "name": "Rotations",
+      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
+    },
+    "to": "/operations/rotations",
+    "keywords": ["rotations", "calendar", "wellspring", "altars of sorrow", "ascendant challenge"]
+  },
   "operations-seasonal-challenges": {
     "hash": "operations-seasonal-challenges",
     "displayProperties": {
@@ -314,14 +326,14 @@
     "to": "/operations/seasonal-challenges",
     "keywords": ["seasonal challenges"]
   },
-  "operations-rotations": {
-    "hash": "operations-rotations",
+  "operations-seasonal-hub": {
+    "hash": "operations-seasonal-hub",
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
+      "name": "Seasonal Hub",
+      "description": "Complete limited-time challenges for Portal bonuses, XP, Bright Dust, and other rewards."
     },
-    "to": "/operations/rotations",
-    "keywords": ["rotations", "calendar", "raids", "wellspring", "altars of sorrow", "ascendant challenge"]
+    "to": "/operations/seasonal-hub",
+    "keywords": ["seasonal hub"]
   },
   "character": {
     "hash": "character",
