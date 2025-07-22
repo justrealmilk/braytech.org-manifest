@@ -12,6 +12,7 @@
       "triumphs-near",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "character-inventory",
       "character-loadouts",
       "quests-pathfinder",
@@ -536,6 +537,7 @@
       "collections-explorer",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "manifest",
       "dresstiny"
     ],
@@ -856,6 +858,7 @@
       "collections-explorer",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "manifest",
       "dresstiny"
     ],
@@ -1174,7 +1177,8 @@
   "fr": {
     "BraytechFeatureDefinition.json": [
       "collections-explorer",
-      "triumphs-explorer"
+      "triumphs-explorer",
+      "operations-seasonal-hub"
     ],
     "DestinyPhaseDefinition.json": [
       "829896467"
@@ -1229,6 +1233,7 @@
       "triumphs-user-hidden",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "quests-pathfinder",
       "settings-legend",
       "manifest",
@@ -1749,6 +1754,9 @@
     ]
   },
   "ja": {
+    "BraytechFeatureDefinition.json": [
+      "operations-seasonal-hub"
+    ],
     "DestinyActivityTypeDefinition.json": [
       "1728319841"
     ]
@@ -1775,6 +1783,7 @@
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "character-equipment",
       "character-inventory",
       "character-loadouts",
@@ -2435,8 +2444,9 @@
       "checklists",
       "operations",
       "operations-event",
-      "operations-seasonal-challenges",
       "operations-rotations",
+      "operations-seasonal-challenges",
+      "operations-seasonal-hub",
       "character",
       "character-equipment",
       "character-inventory",
@@ -2571,6 +2581,7 @@
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "character-equipment",
       "character-inventory",
       "character-loadouts",
@@ -2739,6 +2750,7 @@
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "character-equipment",
       "character-inventory",
       "character-loadouts",
@@ -3313,6 +3325,7 @@
       "triumphs-near",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "settings-subscriptions",
       "settings-legend",
       "manifest",
@@ -3909,6 +3922,7 @@
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
+      "operations-seasonal-hub",
       "character-equipment",
       "character-inventory",
       "character-loadouts",
