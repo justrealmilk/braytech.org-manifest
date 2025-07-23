@@ -296,6 +296,7 @@
       "1371343017",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -733,6 +734,7 @@
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -1054,6 +1056,7 @@
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -1206,6 +1209,9 @@
       "1194500405",
       "184846131",
       "562783996"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "3329390250"
     ],
     "DestinyCollectibleDefinition.json": [
       "2057283240",
@@ -1603,6 +1609,7 @@
       "1371343017",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -1759,6 +1766,9 @@
     ],
     "DestinyActivityTypeDefinition.json": [
       "1728319841"
+    ],
+    "DestinyInventoryItemDefinition.json": [
+      "3329390250"
     ]
   },
   "ko": {
@@ -2250,6 +2260,7 @@
       "1371343017",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "BraytechMapsTypesDefinition.json": [
@@ -3081,6 +3092,7 @@
       "1371343017",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -3767,6 +3779,7 @@
       "2643364263",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyCollectibleDefinition.json": [
@@ -4117,6 +4130,7 @@
       "1371343017",
       "2156849113",
       "3607181138",
+      "3329390250",
       "2284123716"
     ],
     "DestinyObjectiveDefinition.json": [
