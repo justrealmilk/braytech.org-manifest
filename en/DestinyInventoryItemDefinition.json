@@ -264,6 +264,12 @@
       "description": "Increases the initial drop rate of the \"Finality's Auger\" exotic linear fusion rifle from the \"Sundered Doctrine\" dungeon."
     }
   },
+  "3329390250": {
+    "displayProperties": {
+      "name": "Increased \"Whirling Ovation\" drop rate",
+      "description": "Increases the initial drop rate of the \"Whirling Ovation\" exotic rocket launcher from the \"The Desert Perpetual\" raid."
+    }
+  },
   "23239861010": {
     "hash": 23239861010,
     "displayProperties": {
