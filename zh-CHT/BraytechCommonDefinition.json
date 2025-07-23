@@ -1,17 +1,7 @@
 {
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "遺落之地"
-    }
-  },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
       "name": "蘇爾"
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "特色熔爐競技場模式"
     }
   }
 }

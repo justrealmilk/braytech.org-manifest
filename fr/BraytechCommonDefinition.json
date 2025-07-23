@@ -381,11 +381,6 @@
       "description": "Les notifications 'push' peuvent vous atteindre lorsque vous n'utilisez pas Braytech et vous assurer de ne rien manquer de ce que vous poursuivez."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Secteurs oubliés"
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "name": "Prévisions météo",
     "description": "Prévisions en temps réel pour les Gardiens prudents. Ne quittez plus jamais votre vaisseau sans être parfaitement préparé !"
@@ -406,15 +401,6 @@
   "push-notification-event-weekly-vendor-tess-bright": {
     "name": "Ventes de poussière brillante Everversum",
     "description": "Tess essaie d'écouler certains produits. Vous avez de la poussière brillante ?"
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "Mod de l'Épreuve en Vedette"
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "name": "Aperçu hebdomadaire",
-    "description": "Résumé dense à chaque réinitialisation : activités rituelles, défis cycliques, etc."
   },
   "push-notification-event-this-week-at-bungie": {
     "name": "Cette semaine chez Bungie",

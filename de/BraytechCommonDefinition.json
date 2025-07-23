@@ -132,11 +132,6 @@
       "description": "Diese Aktivität wurde im Wettkampfmodus absolviert: ein Triumph unter extraordinären Umständen und Druck."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Verlorene Sektoren"
-    }
-  },
   "push-notification-event-weekly-vendor-xur": {
     "displayProperties": {
       "name": "Xûr"

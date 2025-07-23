@@ -421,12 +421,6 @@
       "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "失われたセクター",
-      "description": "ローテーションで登場する失われたセクターや報酬を逃すな。"
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "天気予報",
@@ -455,18 +449,6 @@
     "displayProperties": {
       "name": "エバーバースのブライトダストセール",
       "description": "テスが特定の商品で取引したいようです。ブライトダストは持っていますか?"
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "クルーシブル",
-      "description": "シャックス卿が今週のクルーシブルをどのルールにしたかを通知する。\n\n 武勇と栄光のために、週ごとに変わるルールで闘え。"
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "総まとめ",
-      "description": "リセット毎に更新される、儀式アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
     }
   },
   "push-notification-event-this-week-at-bungie": {
