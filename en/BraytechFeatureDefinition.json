@@ -93,6 +93,9 @@
         },
         {
           "viewHash": "collections-explorer"
+        },
+        {
+          "viewHash": "collections-eververse"
         }
       ]
     }
@@ -144,6 +147,14 @@
       "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
     },
     "to": "/collections/explorer"
+  },
+  "collections-eververse": {
+    "hash": "collections-eververse",
+    "displayProperties": {
+      "name": "Eververse",
+      "description": "Experimental Eververse Trading science. Projections subject to astral alignment, tarot card reading, and temperature of my tea."
+    },
+    "to": "/collections/eververse"
   },
   "triumphs": {
     "hash": "triumphs",
