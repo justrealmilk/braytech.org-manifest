@@ -474,5 +474,17 @@
       "name": "Edit",
       "description": "Edit your fit's name, descrption, or URL.\n\nSubmitting changes will mark your fit as unapproved."
     }
+  },
+  "gear-tier-weapon": {
+    "displayProperties": {
+      "name": "Weapon Tier",
+      "description": "Higher tier gear provides additional stats and may come with additional benefits depending on the type of gear.\n\nTIER 1 ♦\nBase Stats\n\nTIER 2 ♦♦\nEnhanced Trait: 2\n\nTIER 3 ♦♦♦\nEnhanced Trait: 2\nMulti-Perk: 2\n\nTIER 4 ♦♦♦♦\nEnhanced Trait: 2\nMulti-Perk: 2\nEnhanced: Mods, Magazine, Barrel\n\nTIER 5 ♦♦♦♦♦\nEnhanced Trait: 2\nMulti-Perk: 3\nEnhanced: Mods, Magazine, Barrel, Origin Trait\nCosmetics: Unique Ornament, Holochip"
+    }
+  },
+  "gear-tier-armor": {
+    "displayProperties": {
+      "name": "Armor Tier",
+      "description": "Higher tier gear provides additional stats and may come with additional benefits depending on the type of gear.\n\nTIER 1 ♦\n52 - 57\n\nTIER 2 ♦♦\n58 - 63\n\nTIER 3 ♦♦♦\n64 - 69\n\nTIER 4 ♦♦♦♦\n70 - 75\n\nTIER 5 ♦♦♦♦♦\n75 + Stat Tuning"
+    }
   }
 }
