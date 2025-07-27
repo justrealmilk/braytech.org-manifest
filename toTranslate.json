@@ -519,7 +519,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyDamageTypeDefinition.json": [
       "3949783978"
@@ -850,7 +852,9 @@
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "16867394440",
@@ -1174,7 +1178,9 @@
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "16867394440",
@@ -1231,7 +1237,9 @@
       "score"
     ],
     "BraytechCommonDefinition.json": [
-      "medal-discord"
+      "medal-discord",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "1686739444",
@@ -1763,7 +1771,9 @@
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "16867394440",
@@ -1783,6 +1793,10 @@
     ],
     "DestinyInventoryItemDefinition.json": [
       "3329390250"
+    ],
+    "BraytechCommonDefinition.json": [
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ]
   },
   "ko": {
@@ -2413,7 +2427,9 @@
       "push-notification-event-weekly-vendor-tess-bright",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "16867394440",
@@ -2581,7 +2597,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ]
   },
   "pt-BR": {
@@ -2748,7 +2766,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ]
   },
   "ru": {
@@ -3327,7 +3347,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ],
     "DestinyActivityModeDefinition.json": [
       "16867394440",
@@ -3924,7 +3946,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ]
   },
   "zh-CHT": {
@@ -4275,7 +4299,9 @@
       "push-notification-event-this-week-at-bungie",
       "subscriber-perks",
       "dresstiny-equip",
-      "dresstiny-edit"
+      "dresstiny-edit",
+      "gear-tier-weapon",
+      "gear-tier-armor"
     ]
   }
 }
