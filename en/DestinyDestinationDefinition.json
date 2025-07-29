@@ -302,5 +302,33 @@
         }
       }
     ]
+  },
+  "4076196532": {
+    "bubbles": [
+      {
+        "hash": 40761965321,
+        "displayProperties": {
+          "name": "Outer Steppes"
+        }
+      },
+      {
+        "hash": 40761965322,
+        "displayProperties": {
+          "name": "The Gorge"
+        }
+      },
+      {
+        "hash": 40761965323,
+        "displayProperties": {
+          "name": "Central Academy"
+        }
+      },
+      {
+        "hash": 40761965324,
+        "displayProperties": {
+          "name": "Exile's Accord"
+        }
+      }
+    ]
   }
 }
