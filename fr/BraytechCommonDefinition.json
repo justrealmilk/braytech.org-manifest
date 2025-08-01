@@ -390,6 +390,178 @@
       "name": "Xûr"
     }
   },
+  "push-notification-event-weekly-crucible": {
+    "displayProperties": {
+      "name": "Mod de l'Épreuve en Vedette"
+    }
+  },
+  "medal-beta": {
+    "displayProperties": {
+      "name": "La Première Vague",
+      "description": "_Décerné aux joueurs ayant participé à la bêta de Destiny 2._"
+      }
+    },
+    "medal-icicle": {
+    "displayProperties": {
+      "name": "\"Brisé\" ou quelque chose comme ça",
+      "description": "\"J’ai embêté Tom et tout ce que j’ai eu, c’est cette stupide médaille\""
+      }
+    },
+   "medal-sunglas": {
+    "displayProperties": {
+      "name": "\"Nous avons trouvé ça, pour toi...\"",
+      "description": "Par terre quelque part...\nDerrière un Arby’s...\n(utilise d2foundry.gg)"
+    }
+    },
+  "medal-seraph": {
+    "displayProperties": {
+      "name": "Séraphin",
+      "description": "_Rejoins la force de maintien de la paix de Raspoutine et travaille en étroite collaboration avec l'Esprit Tutélaire pour ramener la paix dans le système Sol. Tes contributions sont inestimables._"
+       }
+    },
+  "medal-guardian": {
+    "displayProperties": {
+      "name": "Gardien",
+      "description": "_Tu es un Gardien : l’incarnation de tout ce qui est et pourrait être. Ton potentiel est inégalé, toi seul peux changer le système solaire à grande échelle._"
+    }
+    },
+  "medal-civilian": {
+    "displayProperties": {
+      "name": "Civil",
+      "description": "_Si la santé et la sécurité au travail savaient ce qui se passe ici, tout serait fermé plus vite que Raspoutine lorsqu’un triangle isocèle sort d’une FTL effrayante._"
+    }
+    },
+   "medal-one-time": {
+    "displayProperties": {
+      "name": "Unique",
+      "description": "_Finance la faim insatiable du développeur pour les ramens et les raviolis._"
+    }
+    },
+  "well-rested": {
+    "displayProperties": {
+      "name": "Bien reposé",
+      "description": "Les gains d’XP sont doublés pour vos 5 premiers rangs de saison cette semaine.\n\nLes défis saisonniers offrent le plus de progression, suivis des contrats et des quêtes."
+    }
+  },
+  "season-pass-xp-bonus": {
+    "displayProperties": {
+      "name": "Bonus XP du Pass Saison",
+      "description": "Divers bonus d’XP peuvent être débloqués en progressant dans le pass saisonnier."
+    }
+  },
+  "unique-weapon-kills": {
+    "displayProperties": {
+      "name": "Frags d’armes uniques",
+      "description": "Vos statistiques sont suivies et exposées par l’API via plusieurs systèmes ; les stats historiques sont disponibles pour les armes exotiques et suivent les frags avant l’apparition des compteurs de frags."
+    }
+  },
+  "expiration": {
+    "displayProperties": {
+      "name": "Expiration",
+      "description": "Cet enregistrement possède des informations d’expiration."
+    }
+  },
+  "presentation-node-score": {
+    "displayProperties": {
+      "name": "Valeur de score",
+      "description": "La valeur de score calculée de ce nœud."
+    }
+  },
+   "seal-score": {
+    "displayProperties": {
+      "name": "Score de sceau",
+      "description": "La somme des sceaux que vous avez complétés."
+    }
+  },
+   "gild-score": {
+    "displayProperties": {
+      "name": "Score doré",
+      "description": "Le compte exhaustif et total de la dorure des sceaux."
+    }
+  },
+  "collection-score": {
+    "displayProperties": {
+      "name": "Score de collection",
+      "description": "La somme des objets que vous avez amassés et stockés dans votre arsenal."
+    }
+  },
+   "fish-caught-score": {
+    "displayProperties": {
+      "name": "Score de poissons capturés",
+      "description": "La somme des poissons que vous avez attrapés."
+    }
+  },
+  "fish-weight-score": {
+    "displayProperties": {
+      "name": "Score de poids de poisson",
+      "description": "La plus grosse prise enregistrée."
+    }
+  },
+  "active-score-rank": {
+    "name": "Rang de score actif",
+    "description": "Le rang dans les classements pour le score de triomphe actif, tel que déterminé par Voluspa."
+  },
+  "seal-score-rank": {
+    "name": "Rang de score de sceau",
+    "description": "Le rang dans les classements pour le score de sceau, tel que déterminé par Voluspa."
+  },
+  "gild-score-rank": {
+    "name": "Rang de score doré",
+    "description": "Le rang dans les classements pour le score de dorure de sceau, tel que déterminé par Voluspa."
+  },
+  "legacy-score-rank": {
+    "name": "Rang de score hérité",
+    "description": "Le rang dans les classements pour le score de triomphe hérité, tel que déterminé par Voluspa."
+  },
+  "collection-score-rank": {
+    "name": "Rang de score de collection",
+    "description": "Le rang dans les classements pour le score de collection, tel que déterminé par Voluspa."
+  },
+  "fish-caught-rank": {
+    "name": "Rang de poissons pêchés",
+    "description": "Le rang dans les classements pour le nombre de poissons attrapés, tel que déterminé par Voluspa."
+  },
+  "fish-weight-rank": {
+    "name": "Rang de poids de poisson",
+    "description": "Le rang dans les classements pour le poids du plus gros poisson, tel que déterminé par Voluspa."
+  },
+  "profile-stale-maintenance": {
+    "name": "Profil obsolète",
+    "description": "Bungie.net est temporairement indisponible en raison d’une maintenance. L’utilisation continue de Braytech peut résoudre ce problème, sous réserve de la disponibilité du service Bungie.net."
+  },
+  "activity-flawless": {
+    "name": "Sans faute",
+    "description": "Cette activité a été commencée et terminée sans aucune mort. Raids après Witch Queen, donjons et secteurs perdus en solo, frappes spécifiques à chaque joueur."
+  },
+  "activity-solo": {
+    "name": "Solo",
+    "description": "En solo. Ce Gardien est tellement fort qu’il n’a même pas besoin d’escouade."
+  },
+  "activity-duo": {
+    "name": "Duo",
+    "description": "Enchaînez les parties à deux."
+  },
+  "activity-trio": {
+    "name": "Trio",
+    "description": "Un trio infernal."
+  },
+  "activity-weapon-popular": {
+    "name": "Frappes finales",
+    "description": "Cette arme est en feu en ce moment. Somme des frappes finales par les combattants utilisant cette arme."
+  },
+  "progression-step-map": {
+    "description": "Cette carte trace les étapes vers le sommet."
+  },
+  "push-notification-event-daily-weather-forecast": {
+    "name": "Prévisions météo",
+    "description": "Prévisions en temps réel pour les Gardiens prudents. Ne quittez plus jamais votre vaisseau sans être parfaitement préparé !"
+  },
+  "push-notification-event-daily-vendor-banshee44": {
+    "name": "Légendaires de Banshee-44",
+    "description": "En tant que maître armurier de la Tour, Banshee fournit aux Gardiens ce qu’il y a de mieux."
+  },
+  "push-notification-event-weekly-vendor-ada1-shaders": {
+    "name": "Teintures d’Ada-1",
   "push-notification-event-daily-vendor-banshee44": {
     "name": "Légendaires de Banshee-44",
     "description": "En tant que maître armurier de la Tour, Banshee fournit aux Gardiens ce qu'il y a de mieux."
@@ -400,6 +572,11 @@
   },
   "push-notification-event-weekly-vendor-tess-bright": {
     "name": "Ventes de poussière brillante Everversum",
+    "description": "Tess essaie d’écouler certains produits. Vous avez de la poussière brillante ?"
+  },
+  "push-notification-event-weekly-overview": {
+    "name": "Aperçu hebdomadaire",
+    "description": "Résumé dense à chaque réinitialisation : activités rituelles, défis cycliques, etc."
     "description": "Tess essaie d'écouler certains produits. Vous avez de la poussière brillante ?"
   },
   "push-notification-event-this-week-at-bungie": {
@@ -412,6 +589,11 @@
   },
   "dresstiny-equip": {
     "name": "Équiper",
+    "description": "Tente d’équiper cette tenue au personnage de la même classe. Les objets assombris sont introuvables."
+  },
+  "dresstiny-edit": {
+    "name": "Modifier",
+    "description": "Modifiez le nom, la description ou l’URL de votre tenue. Les modifications marquent la tenue comme non approuvée."
     "description": "Tente d'équiper cette tenue au personnage de la même classe. Les objets assombris sont introuvables."
   },
   "dresstiny-edit": {

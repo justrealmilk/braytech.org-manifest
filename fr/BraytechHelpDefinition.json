@@ -44,8 +44,7 @@
   "5000000008": {
     "displayProperties": {
       "name": "Les statistiques ne correspondent pas à l'autre site",
-      "description": "Il existe plusieurs sources de statistiques dans Destiny. Les Statistiques historiques du clan sont basées sur l'API HistoricalStats, tandis que d'autres applications utilisent différentes méthodes pour agréger ou présenter les données. Les écarts peuvent donc apparaître."
-    }
+      "description": "Il existe plusieurs sources de statistiques dans Destiny. Les Statistiques historiques du clan sont basées sur l’API HistoricalStats, tandis que d’autres applications utilisent différentes méthodes pour agréger ou présenter les données. Les écarts peuvent donc apparaître."    }
   },
   "5000000011": {
     "displayProperties": {
@@ -65,6 +64,12 @@
       "description": "Question fréquente : « Quel est ce pourcentage étrange à droite des objets à collectionner et des enregistrements ? »\n\nIl s'agit du pourcentage de joueurs ayant découvert ou acquis l'objet. Toutes les quelques semaines, _Voluspa_ collecte les données des utilisateurs de _Braytech_ et note qui a obtenu quoi."
     }
   },
+  "5000000011": {
+    "displayProperties": {
+      "name": "Données des coffres régionaux",
+      "description": "Certains coffres régionaux, bien qu’ils soient disponibles en jeu, sont mal reliés à l’API. Cela entraîne une mauvaise indication de leur état, notamment dans la Cité des Rêves. Ce n’est pas un bug de Braytech."
+    }
+  },
   "5000000012": {
     "displayProperties": {
       "name": "Mises à jour du classement",
@@ -74,7 +79,13 @@
   "5000000013": {
     "displayProperties": {
       "name": "Annulation",
-      "description": "Vous pouvez annuler à tout moment en sélectionnant Gérer l'abonnement depuis la vue [Abonnements]. Elle vous redirigera vers le site de Stripe, où il vous sera demandé de confirmer l'annulation."
+      "description": "Vous pouvez annuler à tout moment en sélectionnant Gérer l’abonnement depuis la vue [Abonnements]. Elle vous redirigera vers le site de Stripe, où il vous sera demandé de confirmer l’annulation."
+    }
+  },
+  "5000000014": {
+    "displayProperties": {
+      "name": "Changement de niveau",
+      "description": "Pour changer de niveau, annulez votre abonnement actuel, puis réabonnez-vous au nouveau niveau. Si les avantages de votre niveau précédent dépassent ceux du nouveau, vous continuerez de bénéficier de ces avantages jusqu'à expiration de la période facturée."
     }
   }
 }
