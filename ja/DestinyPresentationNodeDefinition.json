@@ -29,6 +29,16 @@
       "name": "征服者 (シーズン12)"
     }
   },
+  "3790247699": {
+    "displayProperties": {
+      "name": "コレクション"
+    }
+  },
+  "2530001514": {
+    "displayProperties": {
+      "description": "謎多きナインが、再びガーディアンたちを試練へと呼び出した。心の準備を――。"
+    }
+  },
   "1000000001": {
     "displayProperties": {
       "name": "一時的な勝利の道のり",
@@ -131,6 +141,12 @@
     },
     "distinguish": "true"
   },
+  "1000000016": {
+    "displayProperties": {
+      "name": "感情表現",
+      "description": "自分らしさを表現しよう！"
+    }
+  },
   "2485764221": {
     "itemTypeDisplayName": "ガーディアンランク"
   },
@@ -183,5 +199,12 @@
     "displayProperties": {
       "name": "クルーシブル"
     }
+  },
+  "1000000015": {
+    "displayProperties": {
+      "name": "引き換え可能",
+      "description": "これらのシェーダーは、https://www.bungie.net/redeem にてコードを入力することで、無料で入手できます。"
+    },
+    "distinguish": "true"
   }
 }

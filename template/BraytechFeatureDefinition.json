@@ -79,6 +79,18 @@
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
     }
   },
+  "collections-explorer": {
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    }
+  },
+  "collections-eververse": {
+    "displayProperties": {
+      "name": "Eververse",
+      "description": "Experimental Eververse Trading science. Projections subject to astral alignment, tarot card reading, and temperature of my tea."
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triumphs",
@@ -133,6 +145,12 @@
       "description": "Not all Triumphs are forever–complete these records with haste or be lost forever in time."
     }
   },
+  "triumphs-explorer": {
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Triumphs. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    }
+  },
   "journey": {
     "displayProperties": {
       "name": "Journey",
@@ -177,20 +195,21 @@
       "lost sectors"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
-      "name": "Weeklies",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
+      "name": "Operations",
+      "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
     "keywords": [
-      "nightfall",
-      "lost sector",
-      "modules",
-      "event",
-      "challenges"
+      "xur",
+      "public events",
+      "lost sectors",
+      "events",
+      "challenges",
+      "season pass"
     ]
   },
-  "weeklies-event": {
+  "operations-event": {
     "displayProperties": {
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
@@ -200,20 +219,20 @@
       "limited time"
     ]
   },
-  "weeklies-activity-challenges": {
+  "operations-rotations": {
     "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
+      "name": "Rotations",
+      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
     "keywords": [
-      "weeklies",
-      "challenges",
-      "activities",
-      "milestones",
-      "bonuses"
+      "rotations",
+      "calendar",
+      "wellspring",
+      "altars of sorrow",
+      "ascendant challenge"
     ]
   },
-  "weeklies-seasonal-challenges": {
+  "operations-seasonal-challenges": {
     "displayProperties": {
       "name": "Seasonal Challenges",
       "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
@@ -222,20 +241,13 @@
       "seasonal challenges"
     ]
   },
-  "weeklies-rotations": {
+  "operations-seasonal-hub": {
     "displayProperties": {
-      "name": "Rotations",
-      "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
+      "name": "Seasonal Hub",
+      "description": "Complete limited-time challenges for Portal bonuses, XP, Bright Dust, and other rewards."
     },
     "keywords": [
-      "nightfalls",
-      "lost sectors",
-      "rotations",
-      "calendar",
-      "raids",
-      "wellspring",
-      "altars of sorrow",
-      "ascendant challenge"
+      "seasonal hub"
     ]
   },
   "character": {

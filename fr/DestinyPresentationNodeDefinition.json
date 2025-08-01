@@ -29,6 +29,11 @@
       "name": "Conquérant (Saison 12)"
     }
   },
+  "2530001514": {
+    "displayProperties": {
+      "description": "Les énigmatiques Neuf ont de nouveau convoqué les Gardiens à une épreuve. Préparez-vous."
+    }
+  },
   "1000000001": {
     "displayProperties": {
       "name": "Triomphes éphémères",
@@ -73,12 +78,6 @@
       "name": "Tous les catalyseurs exotiques"
     }
   },
-  "2530001514": {
-    "displayProperties": {
-      "description": "Les énigmatiques Neuf ont de nouveau convoqué les Gardiens à une épreuve. Préparez-vous.",
-      "showDescription": true
-    }
-  },
   "1000000008": {
     "displayProperties": {
       "name": "Échangeables",
@@ -99,26 +98,22 @@
   },
   "1205461800": {
     "displayProperties": {
-      "name": "Ornements",
-      "description": ""
+      "name": "Ornements"
     }
   },
   "1000000011": {
     "displayProperties": {
-      "name": "Armure de Titan",
-      "description": ""
+      "name": "Armure de Titan"
     }
   },
   "1000000012": {
     "displayProperties": {
-      "name": "Armure de Chasseur",
-      "description": ""
+      "name": "Armure de Chasseur"
     }
   },
   "1000000013": {
     "displayProperties": {
-      "name": "Armure d'Arcaniste",
-      "description": ""
+      "name": "Armure d'Arcaniste"
     }
   },
   "1000000014": {
@@ -180,6 +175,7 @@
   "562783996": {
     "displayProperties": {
       "itemTypeDisplayName": "Rang de Gardien"
+      "description": "Ornements d'armure associés à des exotiques pour des effets uniques."
     }
   },
   "1062988660": {

@@ -55,20 +55,6 @@
     },
     "itemTypeDisplayName": "Especial"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "Icicle#6310",
-      "description": "\"Fastidié a Tom y todo lo que conseguí fue esta estúpida medalla.\""
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"Encontramos esto, para ti...\"",
-      "description": "En el suelo en alguna parte...\nDetrás de un Arby's...\n(usa d2foundry.gg)"
-    },
-    "itemTypeDisplayName": "Special"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Desarrollador de Bungie",
@@ -414,12 +400,6 @@
       "description": "Las notificaciones push pueden llegarte cuando no estás usando Braytech y te aseguran que no te pierdas nada de aquello que buscas."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Sectores perdidos",
-      "description": "No vuelvas a perderte un sector perdido en rotación o una recompensa."
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "Previsión del tiempo",
@@ -442,18 +422,6 @@
     "displayProperties": {
       "name": "Shaders de Ada-1",
       "description": "Tu aspecto sólo está limitado por tu elección de shaders. Mantente en contacto con Ada por si te falta algo."
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "Crisol",
-      "description": "Recibe notificaciones sobre los modos que Lord Shaxx ha dispuesto en el Crisol.\n\nLucha por la fama y la gloria, pero de formas curiosamente específicas cada semana."
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "Resumen",
-      "description": "Recibe cada reinicio una densa ráfaga de información que resume las actividades rituales, los retos temporales y otros puntos de interés."
     }
   },
   "push-notification-event-this-week-at-bungie": {

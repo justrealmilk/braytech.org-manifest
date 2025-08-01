@@ -177,7 +177,7 @@
       "secteurs oubliés"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Hebdomadaires",
       "description": "Le guide des rituels hebdomadaires du Gardien, avec des conseils pour le prestige et le triomphe"
@@ -188,34 +188,13 @@
       "modules"
     ]
   },
-  "weeklies-event": {
+  "operations-event": {
     "displayProperties": {
       "name": "Evènement actif",
       "description": "Relevez des défis à durée limitée pour gagner diverses récompenses lors d'un événement à durée limitée."
     }
   },
-  "weeklies-activity-challenges": {
-    "displayProperties": {
-      "name": "Défis",
-      "description": "Tous les défis d'activité"
-    },
-    "keywords": [
-      "hebdomadaires",
-      "défis",
-      "jalons",
-      "bonus"
-    ]
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Défis Saisonniers",
-      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
-    },
-    "keywords": [
-      "défis saisonniers"
-    ]
-  },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Rechercher les rotations de diverses activités"
@@ -229,6 +208,15 @@
       "source",
       "autels du malheur",
       "défi ascendant"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Défis Saisonniers",
+      "description": "Terminez des défis à durée limitée pour augmenter le rang de la saison, la Poussière brillante et d'autres récompenses"
+    },
+    "keywords": [
+      "défis saisonniers"
     ]
   },
   "character": {

@@ -90,6 +90,12 @@
         },
         {
           "viewHash": "collections-metrics"
+        },
+        {
+          "viewHash": "collections-explorer"
+        },
+        {
+          "viewHash": "collections-eververse"
         }
       ]
     }
@@ -134,6 +140,22 @@
     },
     "to": "/collections"
   },
+  "collections-explorer": {
+    "hash": "collections-explorer",
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    },
+    "to": "/collections/explorer"
+  },
+  "collections-eververse": {
+    "hash": "collections-eververse",
+    "displayProperties": {
+      "name": "Eververse",
+      "description": "Experimental Eververse Trading science. Projections subject to astral alignment, tarot card reading, and temperature of my tea."
+    },
+    "to": "/collections/eververse"
+  },
   "triumphs": {
     "hash": "triumphs",
     "displayProperties": {
@@ -152,6 +174,9 @@
         },
         {
           "viewHash": "triumphs-transient"
+        },
+        {
+          "viewHash": "triumphs-explorer"
         }
       ]
     }
@@ -212,6 +237,14 @@
     },
     "to": "/triumphs/transient"
   },
+  "triumphs-explorer": {
+    "hash": "triumphs-explorer",
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Triumphs. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    },
+    "to": "/triumphs/explorer"
+  },
   "journey": {
     "hash": "journey",
     "displayProperties": {
@@ -255,66 +288,63 @@
     "to": "/maps",
     "keywords": ["eggs", "ahamkara bones", "region chests", "lost sectors"]
   },
-  "weeklies": {
-    "hash": "weeklies",
+  "operations": {
+    "hash": "operations",
     "displayProperties": {
-      "name": "Weeklies",
-      "description": "A Guardian's guide to weekly rituals with tips for prestige and triumph."
+      "name": "Operations",
+      "description": "A Guardian's guide to ongoing operations with tips for prestige and triumph."
     },
-    "to": "/weeklies",
-    "keywords": ["nightfall", "lost sector", "modules", "event", "challenges"],
+    "to": "/operations",
+    "keywords": ["xur", "public events", "lost sectors", "events", "challenges", "season pass"],
     "children": {
       "views": [
         {
-          "viewHash": "weeklies-event"
+          "viewHash": "operations-rotations"
         },
         {
-          "viewHash": "weeklies-activity-challenges"
+          "viewHash": "operations-seasonal-challenges"
         },
         {
-          "viewHash": "weeklies-seasonal-challenges"
-        },
-        {
-          "viewHash": "weeklies-rotations"
+          "viewHash": "operations-seasonal-hub"
         }
       ]
     }
   },
-  "weeklies-event": {
-    "hash": "weeklies-event",
+  "operations-event": {
+    "hash": "operations-event",
     "displayProperties": {
       "name": "Active Event",
       "description": "Complete limited-time challenges to earn various rewards in a limited-time event."
     },
-    "to": "/weeklies/event",
+    "to": "/operations/event",
     "keywords": ["event", "limited time"]
   },
-  "weeklies-activity-challenges": {
-    "hash": "weeklies-activity-challenges",
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "A curated list of all available activity challenges, active reputation bonuses, and your season pass."
-    },
-    "to": "/weeklies/activity-challenges",
-    "keywords": ["weeklies", "challenges", "activities", "milestones", "bonuses"]
-  },
-  "weeklies-seasonal-challenges": {
-    "hash": "weeklies-seasonal-challenges",
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
-    },
-    "to": "/weeklies/seasonal-challenges",
-    "keywords": ["seasonal challenges"]
-  },
-  "weeklies-rotations": {
-    "hash": "weeklies-rotations",
+  "operations-rotations": {
+    "hash": "operations-rotations",
     "displayProperties": {
       "name": "Rotations",
       "description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be updated accordingly."
     },
-    "to": "/weeklies/rotations",
-    "keywords": ["nightfalls", "lost sectors", "rotations", "calendar", "raids", "wellspring", "altars of sorrow", "ascendant challenge"]
+    "to": "/operations/rotations",
+    "keywords": ["rotations", "calendar", "wellspring", "altars of sorrow", "ascendant challenge"]
+  },
+  "operations-seasonal-challenges": {
+    "hash": "operations-seasonal-challenges",
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards."
+    },
+    "to": "/operations/seasonal-challenges",
+    "keywords": ["seasonal challenges"]
+  },
+  "operations-seasonal-hub": {
+    "hash": "operations-seasonal-hub",
+    "displayProperties": {
+      "name": "Seasonal Hub",
+      "description": "Complete limited-time challenges for Portal bonuses, XP, Bright Dust, and other rewards."
+    },
+    "to": "/operations/seasonal-hub",
+    "keywords": ["seasonal hub"]
   },
   "character": {
     "hash": "character",

@@ -119,28 +119,22 @@
       "description": "所有目的地的机灵扫描和物品清单"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "周常",
       "description": "守护者的每周成就与挑战指南"
     }
   },
-  "weeklies-activity-challenges": {
-    "displayProperties": {
-      "name": "挑战",
-      "description": "所有活动的挑战项目"
-    }
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "赛季挑战",
-      "description": "完成这些限时挑战来获得赛季经验、光尘和其他奖励"
-    }
-  },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "每周轮换",
       "description": "查看每周轮换的相关信息"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "赛季挑战",
+      "description": "完成这些限时挑战来获得赛季经验、光尘和其他奖励"
     }
   },
   "character": {

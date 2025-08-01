@@ -56,6 +56,8 @@
   },
   "motesLost": {
     "statNameAbbr": "PL"
+  "flawless": {
+    "statName": "Sans-faute"
   },
   "killsDeathsRatio": {
     "statName": "F/M"
@@ -71,6 +73,42 @@
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Précision"
+  },
+  "strikeDifficulty": {
+    "statName": "Difficulté"
+  },
+  "activitiesEntered": {
+    "statName": "Commencées"
+  },
+  "activitiesCleared": {
+    "statName": "Terminées",
+    "statNameAlt": "Matchs",
+    "statDescription": "Nombre total d'activités terminées avec succès. Espérons, Gardien, que cette valeur dépasse la moitié des activités commencées !"
+  },
+  "activitiesConquered": {
+    "statName": "Conquises",
+    "statDescription": "Nombre total d'activités découvertes, révélées, conquises."
+  },
+  "secondsPlayed": {
+    "statDescription": "Temps total consacré à l'élimination des menaces pesant sur la Cité. Aucun instant offert n'est jamais trop peu."
+  },
+  "secondsPlayedDistribution": {
+    "statDescription": "Temps de jeu relatif aux autres modes d'activité."
+  },
+  "fastestCompletionMsForActivity": {
+    "statName": "Le plus rapide"
+  },
+  "playerEncounters": {
+    "statName": "Rencontres",
+    "statDescription": "Joueurs rencontrés au cours des activités."
+  },
+  "fireteamCombinations": {
+    "statName": "Escouades"
+  },
+  "currentCompetitiveRating": {
+    "statName": "Rang Compétitif Actuel",
+    "statNameAlt": "Rang Actuel",
+    "statDescription": "Classement actuel du joueur en Division Compétitive."
   },
   "currentEloRating": {
     "statName": "Elo"
@@ -90,14 +128,20 @@
   "supremacyAllyKillEnemyTagsCaptured": {
     "statName": "Frags alliés sécurisés"
   },
+  "motesDeposited": {
+    "statNameAbbr": "PD"
+  },
+  "motesLost": {
+    "statNameAbbr": "PL"
+  },
   "highValueKills": {
     "statName": "Frags de grande valeur"
   },
   "invasionKills": {
-    "statName": "Frags en tant qu’intrus"
+    "statName": "Frags en tant qu'intrus"
   },
   "invasionDeaths": {
-    "statName": "Morts en tant qu’intrus"
+    "statName": "Morts en tant qu'intrus"
   },
   "invaderKills": {
     "statName": "Intrus éliminés"

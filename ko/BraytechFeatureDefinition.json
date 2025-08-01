@@ -41,28 +41,22 @@
       "description": "태양계의 고스트 스캔 및 아이템 체크리스트"
     }
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "주간",
       "description": "수호자의 업적과 보상을 위한 의례적인 주간 가이드입니다."
     }
   },
-  "weeklies-activity-challenges": {
-    "displayProperties": {
-      "name": "Activity Challenges",
-      "description": "All activity challenges"
-    }
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Seasonal Challenges",
-      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
-    }
-  },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotations",
       "description": "Scry the orbits of various activities"
+    }
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Seasonal Challenges",
+      "description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards"
     }
   },
   "character": {

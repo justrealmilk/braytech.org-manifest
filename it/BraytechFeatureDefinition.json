@@ -159,7 +159,7 @@
       "settori perduti"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Settimanali",
       "description": "Una guida per Guardiani ai rituali settimanali per prestigio e trionfo"
@@ -170,29 +170,7 @@
       "moduli"
     ]
   },
-  "weeklies-activity-challenges": {
-    "displayProperties": {
-      "name": "Sfide",
-      "description": "Tutte le sfide delle attività"
-    },
-    "keywords": [
-      "settimanali",
-      "sfide",
-      "attività",
-      "pietre miliari",
-      "bonus"
-    ]
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Sfide stagionali",
-      "description": "Completa le sfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
-    },
-    "keywords": [
-      "sfide stagionali"
-    ]
-  },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotazioni",
       "description": "Prevedi le rotazioni di varie attività"
@@ -206,6 +184,15 @@
       "sorgente",
       "altari del tormento",
       "sfida ascendente"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Sfide stagionali",
+      "description": "Completa le sfide a tempo limitato per progresso del pass stagionale, polvere luminosa e altre ricompense"
+    },
+    "keywords": [
+      "sfide stagionali"
     ]
   },
   "character": {

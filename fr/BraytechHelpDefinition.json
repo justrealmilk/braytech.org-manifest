@@ -44,7 +44,12 @@
   "5000000008": {
     "displayProperties": {
       "name": "Les statistiques ne correspondent pas à l'autre site",
-      "description": "Il existe plusieurs sources de statistiques dans Destiny. Les Statistiques historiques du clan sont basées sur l’API HistoricalStats, tandis que d’autres applications utilisent différentes méthodes pour agréger ou présenter les données. Les écarts peuvent donc apparaître."
+      "description": "Il existe plusieurs sources de statistiques dans Destiny. Les Statistiques historiques du clan sont basées sur l’API HistoricalStats, tandis que d’autres applications utilisent différentes méthodes pour agréger ou présenter les données. Les écarts peuvent donc apparaître."    }
+  },
+  "5000000011": {
+    "displayProperties": {
+      "name": "Données des coffres régionaux",
+      "description": "Certains coffres régionaux, bien qu'ils soient disponibles en jeu, sont mal reliés à l'API. Cela entraîne une mauvaise indication de leur état, notamment dans la Cité des Rêves. Ce n'est pas un bug de Braytech."
     }
   },
   "5000000009": {

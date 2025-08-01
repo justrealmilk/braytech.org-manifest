@@ -55,20 +55,6 @@
     },
     "itemTypeDisplayName": "특별"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"깨졌다\" 랄까 뭐랄까",
-      "description": "\"Tom을 빡치게 만들고 얻은 건 고작 이 바보같은 메달 뿐\""
-    },
-    "itemTypeDisplayName": "특별"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"우리가 이것을 찾았어, 너를 위해...\"",
-      "description": "바닥 어딘가에서...\nArby의 뒤에서...\n(d2foundry.gg 사용)"
-    },
-    "itemTypeDisplayName": "특별"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Bungie 개발자",
@@ -414,12 +400,6 @@
       "description": "푸시 알림은 Braytech을 사용하지 않을 때도 도달할 수 있으며, 당신이 쫓고 있는 것을 놓치지 않도록 보장합니다."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "잃어버린 구역",
-      "description": "교체되는 잃어버린 구역과 보상을 다시는 놓치지 마세요. 이제 이 구역들은 더 이상 잃어버린 구역이 아닙니다..."
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "일일 날씨 예보",
@@ -442,18 +422,6 @@
     "displayProperties": {
       "name": "에이다-1 셰이더",
       "description": "당신이 얼마나 멋지게 보이는지는 당신의 셰이더 선택에 달려 있습니다. 에이다와 연락을 유지하여 필요한 상품을 놓치지 마세요."
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "시련의 장",
-      "description": "샤크스 경이 시련의 장에 구성한 모드를 알림 받으세요.\n\n명예와 영광을 위해 싸우지만, 매주 다른 방식으로 싸우세요."
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "개요",
-      "description": "매주 리셋 시 의식 활동, 주기적인 챌린지 및 기타 관심사 요약을 제공합니다."
     }
   },
   "push-notification-event-this-week-at-bungie": {

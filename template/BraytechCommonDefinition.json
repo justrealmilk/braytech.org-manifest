@@ -44,7 +44,7 @@
   "medal-developer": {
     "displayProperties": {
       "name": "Tom Chapman",
-      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this tooltip."
+      "description": "_Creator of Braytech._\nThis player created the app through which you're reading this."
     },
     "itemTypeDisplayName": "Braytech Developer"
   },
@@ -57,35 +57,21 @@
   },
   "medal-for-you": {
     "displayProperties": {
-      "name": "\"I made this for you\"",
-      "description": "_You're my little pogchamp, Guardian._ 🌞"
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "\"shattered\" or something",
-      "description": "\"I annoyed Tom and all I got was this stupid medal\""
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"We found this, for you...\"",
-      "description": "On the ground somewhere...\nBehind an Arby's...\n(use d2foundry.gg)"
+      "name": "Pookie",
+      "description": "_You're my little pookie, Guardian._ 🌞"
     },
     "itemTypeDisplayName": "Special"
   },
   "medal-bungie": {
     "displayProperties": {
-      "name": "Bungie Developer",
+      "name": "Bungie Dev",
       "description": "_Beware the Architects._\nThis player _could_ delete you."
     },
     "itemTypeDisplayName": "Special"
   },
   "medal-api-dev": {
     "displayProperties": {
-      "name": "Bungie API Developer",
+      "name": "Bungie API Dev",
       "description": "_Beware the Architects._\nThis player builds with Bungie's API."
     },
     "itemTypeDisplayName": "Special"
@@ -150,6 +136,13 @@
     "displayProperties": {
       "name": "Benefactor",
       "description": "_A charitable Guardian._\nThis player made a donation to a great cause via the Bungie Foundation."
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "Connected",
+      "description": "_Connected to comms._\nThis player has connected their Discord profile with Voluspa."
     },
     "itemTypeDisplayName": "Special"
   },
@@ -428,12 +421,6 @@
       "description": "Push notifications can reach you when you're not using Braytech and ensure you don't miss whatever it is that you're chasing."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Lost Sectors",
-      "description": "Never miss a rotating lost sector or reward again. These sectors aren't so lost anymore, are they..."
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "Weather Forecast",
@@ -464,18 +451,6 @@
       "description": "Tess is trying to move some specific products. Got any Bright Dust?"
     }
   },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "Crucible",
-      "description": "Be notified of which modes Lord Shaxx has configured the Crucible for.\n\nFight for fame and glory, but in oddly specific ways and at a weekly cadence."
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "Overview",
-      "description": "Receive a dense information burst every reset summarising ritual activities, cyclical challenges, and other points of interest."
-    }
-  },
   "push-notification-event-this-week-at-bungie": {
     "displayProperties": {
       "name": "This Week at Bungie",
@@ -498,6 +473,18 @@
     "displayProperties": {
       "name": "Edit",
       "description": "Edit your fit's name, descrption, or URL.\n\nSubmitting changes will mark your fit as unapproved."
+    }
+  },
+  "gear-tier-weapon": {
+    "displayProperties": {
+      "name": "Weapon Tier",
+      "description": "Higher tier gear provides additional stats and may come with additional benefits depending on the type of gear.\n\nTIER 1 \nBase Stats\n\nTIER 2 \nEnhanced Trait: 2\n\nTIER 3 \nEnhanced Trait: 2\nMulti-Perk: 2\n\nTIER 4 \nEnhanced Trait: 2\nMulti-Perk: 2\nEnhanced: Mods, Magazine, Barrel\n\nTIER 5 \nEnhanced Trait: 2\nMulti-Perk: 3\nEnhanced: Mods, Magazine, Barrel, Origin Trait\nCosmetics: Unique Ornament, Holochip"
+    }
+  },
+  "gear-tier-armor": {
+    "displayProperties": {
+      "name": "Armor Tier",
+      "description": "Higher tier gear provides additional stats and may come with additional benefits depending on the type of gear.\n\nTIER 1 \n52 - 57\n\nTIER 2 \n58 - 63\n\nTIER 3 \n64 - 69\n\nTIER 4 \n70 - 75\n\nTIER 5 \n75 + Stat Tuning"
     }
   }
 }

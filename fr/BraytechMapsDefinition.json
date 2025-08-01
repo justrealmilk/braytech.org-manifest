@@ -185,9 +185,14 @@
       "description": "Une faille de résonance"
     }
   },
+  "235152581": {
+    "extended": {
+      "supplement": "Placez-vous à l'extrémité de chaque canon de défense et détruisez les ancres résonantes pour révéler un secret au niveau du canon le plus éloigné de votre point d'entrée."
+    }
+  },
   "293144960": {
     "displayProperties": {
-      "description": "En traversant le mur, vous arriverez à un pont. En faisant face à l’ouest, l’objectif se trouve sur votre droite. Sautez de plateforme en plateforme, en passant au-delà des énormes poutres structurelles. Tournez-vous vers l’est et levez les yeux pour trouver cette plume sur la plateforme la plus haute que vous pouvez atteindre."
+      "description": "En traversant le mur, vous arriverez à un pont. En faisant face à l'ouest, l'objectif se trouve sur votre droite. Sautez de plateforme en plateforme, en passant au-delà des énormes poutres structurelles. Tournez-vous vers l'est et levez les yeux pour trouver cette plume sur la plateforme la plus haute que vous pouvez atteindre."
     }
   },
   "379286227": {
@@ -212,12 +217,12 @@
   },
   "677774031": {
     "displayProperties": {
-      "description": "Autrefois, nous regardions la Lune avec espoir. Aujourd’hui, nous n’y voyons plus que le pouvoir des Ténèbres. Un mal ancien s’agite sous la surface brisée de la Lune."
+      "description": "Autrefois, nous regardions la Lune avec espoir. Aujourd'hui, nous n'y voyons plus que le pouvoir des Ténèbres. Un mal ancien s'agite sous la surface brisée de la Lune."
     }
   },
   "697502628": {
     "displayProperties": {
-      "description": "Point zéro d’un événement cataclysmique qui a laissé un éclat massif du Voyageur — la source du pouvoir et de l’immortalité de tous les Gardiens — incrusté dans l’immense paysage. Pendant des années, seules la végétation sauvage et les vestiges d’une ville abandonnée témoignaient de notre passé oublié."
+      "description": "Point zéro d'un événement cataclysmique qui a laissé un éclat massif du Voyageur — la source du pouvoir et de l'immortalité de tous les Gardiens — incrusté dans l'immense paysage. Pendant des années, seules la végétation sauvage et les vestiges d'une ville abandonnée témoignaient de notre passé oublié."
     }
   },
   "703052847": {
@@ -287,7 +292,7 @@
   },
   "1387596457": {
     "displayProperties": {
-      "description": "Lorsque vous êtes en état d’Ascendant, vous pouvez trouver un chemin de plateformes vers le bas ou sauter depuis les hauteurs. Si vous choisissez de sauter, veillez à amortir votre chute et à guetter l’apparition de la plateforme."
+      "description": "Lorsque vous êtes en état d'Ascendant, vous pouvez trouver un chemin de plateformes vers le bas ou sauter depuis les hauteurs. Si vous choisissez de sauter, veillez à amortir votre chute et à guetter l'apparition de la plateforme."
     }
   },
   "1387596458": {
@@ -302,17 +307,17 @@
   },
   "1543824169": {
     "displayProperties": {
-      "description": "Une fois terminé, dirigez-vous vers la sortie du kyste. Sous l’une des falaises qui bordent la caverne se trouve un chemin. Sautez au-dessus de la lave, puis contournez par la droite. Le tunnel se rétrécira. Avant qu’il ne s’élargisse vers la sortie, une petite ouverture apparaîtra dans la paroi rocheuse. "
+      "description": "Une fois terminé, dirigez-vous vers la sortie du kyste. Sous l'une des falaises qui bordent la caverne se trouve un chemin. Sautez au-dessus de la lave, puis contournez par la droite. Le tunnel se rétrécira. Avant qu'il ne s'élargisse vers la sortie, une petite ouverture apparaîtra dans la paroi rocheuse. "
     }
   },
   "1729879943": {
     "displayProperties": {
-      "description": "Une lune désolée et glacée, témoignage de l’ambition et de l’arrogance de l’humanité. Clovis Bray y possède plusieurs installations."
+      "description": "Une lune désolée et glacée, témoignage de l'ambition et de l'arrogance de l'humanité. Clovis Bray y possède plusieurs installations."
     }
   },
   "1737926756": {
     "displayProperties": {
-      "description": "Ce qu’il reste de l’humanité sur Terre vit dans la Dernière Cité, sous la surveillance attentive des Gardiens depuis leur Tour."
+      "description": "Ce qu'il reste de l'humanité sur Terre vit dans la Dernière Cité, sous la surveillance attentive des Gardiens depuis leur Tour."
     }
   },
   "1903309704": {
@@ -917,7 +922,7 @@
   "2000000099": {
     "displayProperties": {
       "name": "Les échos de ce qu'il reste",
-      "description": "Récupérez les réservoirs d’éther vidés des Vandales déchus vaincus dans la Clairière des échos."
+      "description": "Récupérez les réservoirs d'éther vidés des Vandales déchus vaincus dans la Clairière des échos."
     }
   },
   "2000000100": {
@@ -1115,7 +1120,7 @@
   "2000000132": {
     "displayProperties": {
       "name": "Sur terre comme sur mer",
-      "description": "Éliminez les cibles dans la zone autour de la Soute de l’Égéon."
+      "description": "Éliminez les cibles dans la zone autour de la Soute de l'Égéon."
     }
   },
   "2000000133": {
@@ -1223,7 +1228,7 @@
   "2000000150": {
     "displayProperties": {
       "name": "Accostage",
-      "description": "Déplacez-vous parmi les véhicules abandonnés et les débris éparpillés et ouvrez l’œil."
+      "description": "Déplacez-vous parmi les véhicules abandonnés et les débris éparpillés et ouvrez l'œil."
     }
   },
   "2000000151": {
@@ -1938,6 +1943,9 @@
     "extended": {
       "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
       "supplement": "Ce coffre requiert de transcender sa réalité. Pour y accéder : près de Frère Vance, examinez un livre intrigant, faites demi-tour et examinez un second tome sur l’étagère du fond, contournez la bibliothèque à droite du portail pour en trouver un autre près du brasero, revenez à la première bibliothèque pour en examiner un sur le bureau, puis cherchez le dernier en hauteur près de la forge ; un conflux Vex apparaîtra — examinez-le."
+  "2442093127": {
+    "extended": {
+      "supplement": "Au pied de..."
     }
   },
   "2481646875": {
@@ -2120,6 +2128,11 @@
       "description": "Sous la glace."
     }
   },
+  "3904017033": {
+    "extended": {
+      "supplement": "Allumez la flamme"
+    }
+  },
   "3977481189": {
     "displayProperties": {
       "description": "En entrant dans le Cercle des ossements via La Loge, tournez à droite et continuez pour suivre la boucle autour du Gouffre des Enfers. Avant d'atteindre la prochaine intersection, retournez vous et regardez sous la plate-forme pour trouver deux yeux de jade perçant à travers votre lumière donnée par le Voyageur."
@@ -2133,6 +2146,21 @@
   "3998251206": {
     "displayProperties": {
       "description": "Un domaine surréaliste de la mémoire à l'intérieur du Voyageur, corrompu par le Témoin."
+    }
+  },
+  "4006123814": {
+    "extended": {
+      "supplement": "Se cache en dessous..."
+    }
+  },
+  "4069293792": {
+    "extended": {
+      "supplement": "Activez l'interface. Tournez-vous vers l'entrée. Il y a 8 panneaux circulaires. De gauche à droite, de haut en bas, tirez sur les panneaux dans l'ordre suivant : 6, 8, 4, 5, 2, 7, 3, 1."
+    }
+  },
+  "4084570599": {
+    "extended": {
+      "supplement": "Ce coffre requiert de transcender sa réalité. Pour y accéder : près de Frère Vance, examinez un livre intrigant, faites demi-tour et examinez un second tome sur l'étagère du fond, contournez la bibliothèque à droite du portail pour en trouver un autre près du brasero, revenez à la première bibliothèque pour en examiner un sur le bureau, puis cherchez le dernier en hauteur près de la forge ; un conflux Vex apparaîtra — examinez-le."
     }
   },
   "4111390768": {

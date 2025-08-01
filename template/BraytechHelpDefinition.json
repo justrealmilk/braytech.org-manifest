@@ -76,11 +76,5 @@
       "name": "Cancellation",
       "description": "You can cancel at any time by selecting Manage Subscription from the [Subscriptions](/settings/subscriptions) view. This flow will take you to Stripe's website, requesting you to authenticate yourself by verifying your email. Any perks gained through your subscription remain active until the subscription's expiration."
     }
-  },
-  "5000000014": {
-    "displayProperties": {
-      "name": "Changing Tiers",
-      "description": "To change tiers, cancel your existing subscription, and resubscribe at the new tier. If your previous tier's perks exceed the new tier's, you'll retain those perks until the previous tier's expiration date."
-    }
   }
 }

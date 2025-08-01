@@ -62,20 +62,6 @@
     },
     "itemTypeDisplayName": "Special"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "Icicle#6310",
-      "description": "\"Tomを煽って投げつけられた、このメダル\""
-    },
-    "itemTypeDisplayName": "Special"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"あなたのために見つけてきました...\"",
-      "description": "確か、道路に落ちていて...\nハンバーガー店の裏だっけ...?\n(use d2foundry.gg)"
-    },
-    "itemTypeDisplayName": "Special"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Bungie開発者",
@@ -125,6 +111,13 @@
     },
     "itemTypeDisplayName": "Braytechサポーター"
   },
+  "medal-one-time": {
+    "displayProperties": {
+      "name": "支援したことあるユーザー",
+      "description": "_ラーメンと餃子で稼働する開発者に、生命維持のご支援をお願いします。_"
+    },
+    "itemTypeDisplayName": "Braytech Supporter"
+  },
   "medal-patron": {
     "displayProperties": {
       "name": "出資者",
@@ -143,6 +136,13 @@
     "displayProperties": {
       "name": "恩人",
       "description": "_博愛のガーディアン。_\nこのプレイヤーは、Bungie財団法人を通じて素晴らしい活動に寄付をしました。"
+    },
+    "itemTypeDisplayName": "Special"
+  },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "接続済",
+      "description": "_通信に接続しました。_\nこのプレイヤーは、自身のDiscordプロフィールをVoluspaと連携しています。"
     },
     "itemTypeDisplayName": "Special"
   },
@@ -421,12 +421,6 @@
       "description": "プッシュ通知はBraytechを使っていないときにも通知して、追跡中のものを逃しません。"
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "失われたセクター",
-      "description": "ローテーションで登場する失われたセクターや報酬を逃すな。"
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "天気予報",
@@ -455,18 +449,6 @@
     "displayProperties": {
       "name": "エバーバースのブライトダストセール",
       "description": "テスが特定の商品で取引したいようです。ブライトダストは持っていますか?"
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "クルーシブル",
-      "description": "シャックス卿が今週のクルーシブルをどのルールにしたかを通知する。\n\n 武勇と栄光のために、週ごとに変わるルールで闘え。"
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "総まとめ",
-      "description": "リセット毎に更新される、儀式アクティビティや周期的な挑戦、その他の注目ポイントをまとめた濃密な情報を受け取れます。"
     }
   },
   "push-notification-event-this-week-at-bungie": {

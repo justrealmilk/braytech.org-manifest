@@ -177,7 +177,7 @@
       "sectores perdidos"
     ]
   },
-  "weeklies": {
+  "operations": {
     "displayProperties": {
       "name": "Semanales",
       "description": "Guía del Guardián sobre rituales semanales con consejos para ganar prestigio y triunfar"
@@ -188,29 +188,7 @@
       "módulos"
     ]
   },
-  "weeklies-activity-challenges": {
-    "displayProperties": {
-      "name": "Desafíos",
-      "description": "Todos los desafíos de actividades."
-    },
-    "keywords": [
-      "semanales",
-      "desafíos",
-      "objetivos",
-      "hitos",
-      "bonificaciones"
-    ]
-  },
-  "weeklies-seasonal-challenges": {
-    "displayProperties": {
-      "name": "Desafíos de temporada",
-      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
-    },
-    "keywords": [
-      "desafíos de temporada"
-    ]
-  },
-  "weeklies-rotations": {
+  "operations-rotations": {
     "displayProperties": {
       "name": "Rotaciones",
       "description": "Predice los ciclos de varias actividades."
@@ -224,6 +202,15 @@
       "manantial",
       "altares del dolor",
       "desafío ascendente"
+    ]
+  },
+  "operations-seasonal-challenges": {
+    "displayProperties": {
+      "name": "Desafíos de temporada",
+      "description": "Completa desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas."
+    },
+    "keywords": [
+      "desafíos de temporada"
     ]
   },
   "character": {

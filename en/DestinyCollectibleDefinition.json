@@ -6,6 +6,7 @@
       "description": "Keep it clean."
     },
     "itemTypeDisplayName": "Insufficient Clearance",
+    "itemHash": 0,
     "redacted": true
   },
   "16122352": {
@@ -3107,6 +3108,50 @@
   },
   "2074060806": {
     "sourceSeason": 26,
+    "sourceHash": 1000000008
+  },
+  "2023727949": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000009
+  },
+  "2057283240": {
+    "sourceSeason": 26,
+    "sourceString": "Source: Participated in the \"Seventh Column Chaos Bungie Foundation Tournament\" (streamer invitational) and won."
+  },
+  "2057283238": {
+    "sourceSeason": 26,
+    "sourceString": "Source: Participated in the \"Rite of the Nine\" dungeon race challenge hosted by Destiny Tracker."
+  },
+  "1990172779": {
+    "sourceSeason": 26,
+    "sourceHash": 1000000012
+  },
+  "1510568972": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000002
+  },
+  "1510568963": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000009
+  },
+  "1510568969": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000012
+  },
+  "3336678284": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000012
+  },
+  "3336678286": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000008
+  },
+  "3336678287": {
+    "sourceSeason": 27,
+    "sourceHash": 1000000008
+  },
+  "2057283242": {
+    "sourceSeason": 27,
     "sourceHash": 1000000008
   }
 }

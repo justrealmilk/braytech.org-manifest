@@ -55,20 +55,6 @@
     },
     "itemTypeDisplayName": "Speciale"
   },
-  "medal-icicle": {
-    "displayProperties": {
-      "name": "Icicle#6310",
-      "description": "\"Ho infastidito Tom e tutto quello che ho ottenuto è stata questa stupida medaglia\""
-    },
-    "itemTypeDisplayName": "Speciale"
-  },
-  "medal-sunglas": {
-    "displayProperties": {
-      "name": "\"Abbiamo trovato questa, per te...\"",
-      "description": "Per terra da qualche parte...\nDietro un Arby's...\n(usa d2foundry.gg)"
-    },
-    "itemTypeDisplayName": "Speciale"
-  },
   "medal-bungie": {
     "displayProperties": {
       "name": "Sviluppatore Bungie",
@@ -336,12 +322,6 @@
       "description": "Le notifiche push possono raggiungerti quando non stai usando Braytech e ti permettono di non perdere quello che cerchi."
     }
   },
-  "push-notification-event-daily-lost-sector": {
-    "displayProperties": {
-      "name": "Settori perduti",
-      "description": "Non perdere mai più un settore perduto o una ricompensa in rotazione."
-    }
-  },
   "push-notification-event-daily-weather-forecast": {
     "displayProperties": {
       "name": "Previsioni del tempo",
@@ -358,18 +338,6 @@
     "displayProperties": {
       "name": "Shader di Ada-1",
       "description": "Il tuo drip è limitato solo dalla tua scelta di shader. Rimani in contatto con Ada nel caso ti mancasse la merce."
-    }
-  },
-  "push-notification-event-weekly-crucible": {
-    "displayProperties": {
-      "name": "Crogiolo",
-      "description": "Informati su quali modalità Lord Shaxx ha configurato per il Crogiolo.\n\nCombatti per la fama e la gloria, ma in modi stranamente specifici e con cadenza settimanale."
-    }
-  },
-  "push-notification-event-weekly-overview": {
-    "displayProperties": {
-      "name": "Panoramica",
-      "description": "Ricevi una fitta serie di informazioni a ogni reset che riassume attività rituali, sfide cicliche e altri punti di interesse."
     }
   },
   "push-notification-event-this-week-at-bungie": {

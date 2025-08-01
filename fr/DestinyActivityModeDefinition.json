@@ -11,6 +11,11 @@
       "description": "Formez une équipe de six tueurs de dieu et bravez les étranges et puissants royaumes de nos ennemis."
     }
   },
+  "16867394440": {
+    "displayProperties": {
+      "name": "Missions exotiques"
+    }
+  },
   "9924991580": {
     "displayProperties": {
       "name": "Offensive Vex",
@@ -52,6 +57,21 @@
       "description": "Avez-vous lancé assez de grenades ?"
     }
   },
+  "2486723318": {
+    "displayProperties": {
+      "name": "Compétitif"
+    }
+  },
+  "1639772990": {
+    "displayProperties": {
+      "name": "Bannière de Fer : Forteresse"
+    }
+  },
+  "2732566144": {
+    "displayProperties": {
+      "description": "Remportez la victoire en récupérant l'Étincelle et en enflammant la Faille ennemie."
+    }
+  },
   "1848252830": {
     "displayProperties": {
       "description": "Chassez les ennemis dans les zones de guerre actives. Affrontez des puissances supérieures. Soyez notoire."
@@ -71,6 +91,7 @@
     "displayProperties": {
       "name": "Domination et impulsion",
       "description": ""
+      "name": "Domination et impulsion"
     }
   },
   "3484731833": {
@@ -140,6 +161,12 @@
   "2546784302": {
     "displayProperties": {
       "description": ""
+ }
+  },
+  "2916787939": {
+    "displayProperties": {
+      "name": "Missions Exotiques",
+      "description": "Découvrez des chemins cachés, déverrouillez des technologies anciennes et maîtrisez des défis secrets. La récompense ? Des armes légendaires."
     }
   }
 }
