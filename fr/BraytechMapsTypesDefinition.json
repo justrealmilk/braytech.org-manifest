@@ -35,16 +35,4 @@
       "description": "Percez le voile entre les mondes et révélez des secrets cachés."
     }
   }
-  "6": {
-    "displayProperties": {
-      "name": "Boss"
-    }
-  },
-  "13": {
-    "hash": 13,
-    "displayProperties": {
-      "name": "Deepsight",
-      "description": "Percez le voile entre les mondes et révélez des secrets cachés.",
-    }
-  }
 }
