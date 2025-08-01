@@ -1824,125 +1824,16 @@
       "description": "Contre-attaquez la malédiction qui afflige la Cité des Rêves."
     }
   },
-  "235152581": {
-    "hash": 235152581,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 235152581,
-    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/irkalla-complex-235152581.jpg",
-    "related": {
-      "records": [
-        {
-          "recordHash": 327519256
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=8Ce1Xh9udrQ",
-      "supplement": "Placez-vous à l’extrémité de chaque canon de défense et détruisez les ancres résonantes pour révéler un secret au niveau du canon le plus éloigné de votre point d’entrée."
-    }
-  },
-  "2442093127": {
-    "hash": 2442093127,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 2442093127,
-    "related": {
-      "records": [
-        {
-          "recordHash": 209536962
-        }
-      ]
-    },
-    "extended": {
-      "supplement": "Au pied de..."
-    },
-    "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-2442093127.jpg"
-  },
   "2244580325": {
     "displayProperties": {
       "description": "Les rouages internes de l'esprit de Savathûn, prenant vie dans un monde trône mystérieux de sa propre création."
     }
-  },
-  "3904017033": {
-    "hash": 3904017033,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 3904017033,
-    "related": {
-      "records": [
-        {
-          "recordHash": 327519256
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=vqXwSIPSWG4",
-      "supplement": "Allumez la flamme"
-    },
-    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/mayas-retreat-3904017033.jpg"
-  },
-  "4006123814": {
-    "hash": 4006123814,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 4006123814,
-    "related": {
-      "records": [
-        {
-          "recordHash": 209536962
-        }
-      ]
-    },
-    "extended": {
-      "supplement": "Se cache en dessous..."
-    },
-    "screenshot": "/static/images/screenshots/checklists/region-chests/ahimsa-park-4006123814.jpg"
   },
   "2426576530": {
     "displayProperties": {
       "description": "En traversant ce **Kyste**, il y aura deux portes ; celle du haut mène à votre objectif tandis que celle du bas attribue un bit d'encryptions."
     }
   },
-  "4069293792": {
-    "hash": 4069293792,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 4069293792,
-    "related": {
-      "records": [
-        {
-          "recordHash": 327519256
-        }
-      ]
-    },
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=Dhsap3seMXI&t=172s",
-      "supplement": "Activez l’interface. Tournez-vous vers l’entrée. Il y a 8 panneaux circulaires. De gauche à droite, de haut en bas, tirez sur les panneaux dans l’ordre suivant : 6, 8, 4, 5, 2, 7, 3, 1."
-    },
-    "screenshot": "/static/images/screenshots/checklists/neomuna-action-figures/radiosonde-4069293792.jpg"
-  },
-  "4084570599": {
-    "hash": 4084570599,
-    "displayProperties": {
-      "name": "",
-      "description": ""
-    },
-    "checklistHash": 4084570599,
-    "screenshot": "/static/images/screenshots/checklists/region-chests/the-lighthouse-4084570599.jpg",
-    "extended": {
-      "video": "https://www.youtube.com/watch?v=WJ2E4I44BmU",
-      "supplement": "Ce coffre requiert de transcender sa réalité. Pour y accéder : près de Frère Vance, examinez un livre intrigant, faites demi-tour et examinez un second tome sur l’étagère du fond, contournez la bibliothèque à droite du portail pour en trouver un autre près du brasero, revenez à la première bibliothèque pour en examiner un sur le bureau, puis cherchez le dernier en hauteur près de la forge ; un conflux Vex apparaîtra — examinez-le."
   "2442093127": {
     "extended": {
       "supplement": "Au pied de..."

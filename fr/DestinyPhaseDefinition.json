@@ -173,22 +173,6 @@
       "description": "Détrôner le roi."
     }
   },
-  "2169047898": {
-    "displayProperties": {
-      "name": "Trouver Riven",
-      "description": "Après avoir vaincu Morgeth, le Garde-Flèche, montez plus haut dans la Cité des Rêves et poursuivez Riven."
-    }
-  },
- "378163510": {
-    "displayProperties": {
-      "name": "Marche de la Reine",
-      "description": "Échappez-vous de la flèche et apportez le coeur à la Tékienne."
-    }
-  }, 
-   "3172054256": {
-    "displayProperties": {
-      "name": "Cataclysme",
-      "description": "Repoussez les forces de la Légion de l’Ombre et poursuivez Nezarec."
   "3172054256": {
     "displayProperties": {
       "name": "Cataclysme",
@@ -213,19 +197,18 @@
       "description": "Mettez fin au cauchemar et vainquez Nezarec"
     }
   },
-   "2890972472": {
+  "2890972472": {
     "displayProperties": {
-      "name": "L’Abîme",
+      "name": "L'Abîme",
       "description": "Découvrez le chemin illuminé dans les ténèbres"
     }
   },
   "3768812794": {
-
-      "name": "Pont du Trône de l’Âme Suprême",
+    "displayProperties": {
+      "name": "Pont du Trône de l'Âme Suprême",
       "description": "Traversez le pont et gravissez le Trône."
     }
   },
-
   "1463700798": {
     "displayProperties": {
       "name": "Ir Yût, la Cantatrice de la Mort",
@@ -259,11 +242,6 @@
   "5808550890": {
     "displayProperties": {
       "name": "Nécropole",
-      "description": "Retournez les lames de l’ennemi contre lui."
-    }
-  },
-  "1826821877": {
-    "displayProperties":  {
       "description": "Retournez les lames de l'ennemi contre lui."
     }
   },
@@ -305,11 +283,6 @@
   },
   "2867024332": {
     "displayProperties": {
-      "name": "Phry'zhia, l’Insatiable",
-      "description": "Retournez le cycle de la cupidité contre vos ennemis."
-    }
-  },
-   "4063391552": {
       "name": "Phry'zhia, l'Insatiable",
       "description": "Retournez le cycle de la cupidité contre vos ennemis."
     }
