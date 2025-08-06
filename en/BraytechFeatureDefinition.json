@@ -184,7 +184,7 @@
   "triumphs-active": {
     "hash": "triumphs-active",
     "displayProperties": {
-      "name": "Active Triumphs and Seals",
+      "name": "Active Triumphs and Titles",
       "description": "Records of the Guardian's achievements. Challenge yourself according to the objectives found herein for fame, glory, and prizes."
     },
     "to": "/triumphs"
@@ -192,7 +192,7 @@
   "triumphs-legacy": {
     "hash": "triumphs-legacy",
     "displayProperties": {
-      "name": "Legacy Triumphs and Seals",
+      "name": "Legacy Triumphs and Titles",
       "description": "Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review."
     },
     "to": "/triumphs/legacy"
@@ -621,7 +621,7 @@
     "hash": "leaderboards",
     "displayProperties": {
       "name": "Leaderboards",
-      "description": "Climb the ranks and see how you measure up! Compare scores across Active Triumphs, Legacy Triumphs, Seals, Gilds, and Collections—individually or with your clan."
+      "description": "Climb the ranks and see how you measure up! Compare scores across Active Triumphs, Legacy Triumphs, Titles, Gilds, and Collections—individually or with your clan."
     },
     "to": "/leaderboards"
   },

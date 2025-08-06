@@ -236,16 +236,16 @@
       "description": "The current value of all active Triumphs that have been earned and the total value of all active triumphs.\n\nThese score values change when Triumphs become legacy Triumphs."
     }
   },
-  "seal-score": {
+  "title-score": {
     "displayProperties": {
-      "name": "Seal Score",
-      "description": "The sum of seals you've completed."
+      "name": "Title Score",
+      "description": "The sum of titles you've completed."
     }
   },
   "gild-score": {
     "displayProperties": {
       "name": "Gild Score",
-      "description": "The exhaustive and total count of seal gilding."
+      "description": "The exhaustive and total count of title gilding."
     }
   },
   "legacy-triumph-score": {
@@ -284,10 +284,10 @@
       "description": "The Leaderboards rank for the corresponding triumph score, as determined by Voluspa."
     }
   },
-  "seal-score-rank": {
+  "title-score-rank": {
     "displayProperties": {
-      "name": "Seal Score Rank",
-      "description": "The Leaderboards rank for the corresponding seal score, as determined by Voluspa."
+      "name": "Title Score Rank",
+      "description": "The Leaderboards rank for the corresponding title score, as determined by Voluspa."
     }
   },
   "gild-score-rank": {
