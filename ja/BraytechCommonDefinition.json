@@ -236,12 +236,6 @@
       "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
     }
   },
-  "seal-score": {
-    "displayProperties": {
-      "name": "印のスコア",
-      "description": "取得した印の合計スコア。"
-    }
-  },
   "gild-score": {
     "displayProperties": {
       "name": "黄金のスコア",
@@ -282,12 +276,6 @@
     "displayProperties": {
       "name": "アクティブスコアランク",
       "description": "Voluspaによる、道のりのスコアランキング。"
-    }
-  },
-  "seal-score-rank": {
-    "displayProperties": {
-      "name": "印のスコアランク",
-      "description": "Voluspa集計による、印スコアのリーダーボードランキング。"
     }
   },
   "gild-score-rank": {

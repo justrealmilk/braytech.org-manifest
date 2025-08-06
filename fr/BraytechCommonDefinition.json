@@ -224,12 +224,6 @@
       "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
     }
   },
-  "seal-score": {
-    "displayProperties": {
-      "name": "Score de sceau",
-      "description": "La somme des sceaux que vous avez complétés."
-    }
-  },
   "gild-score": {
     "displayProperties": {
       "name": "Score doré",
@@ -269,10 +263,6 @@
   "active-score-rank": {
     "name": "Rang de score actif",
     "description": "Le rang dans les classements pour le score de triomphe actif, tel que déterminé par Voluspa."
-  },
-  "seal-score-rank": {
-    "name": "Rang de score de sceau",
-    "description": "Le rang dans les classements pour le score de sceau, tel que déterminé par Voluspa."
   },
   "gild-score-rank": {
     "name": "Rang de score doré",

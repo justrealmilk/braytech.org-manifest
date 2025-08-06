@@ -215,12 +215,6 @@
       "description": "La puntaje de triunfos activos tiene en cuenta el valor actual de todos los triunfos activos que has ganado y el valor total de todos los triunfos activos.\n\nEsta puntaje varía cuando los triunfos activos pasan a convertirse en triunfos de legado."
     }
   },
-  "seal-score": {
-    "displayProperties": {
-      "name": "Puntaje de sello",
-      "description": "La suma de sellos que completaste."
-    }
-  },
   "gild-score": {
     "displayProperties": {
       "name": "Puntaje de dorados",
@@ -261,12 +255,6 @@
     "displayProperties": {
       "name": "Rango de puntaje activa",
       "description": "La clasificación de las tablas de clasificación para el puntaje de triunfo correspondiente, determinada por Voluspa."
-    }
-  },
-  "seal-score-rank": {
-    "displayProperties": {
-      "name": "Rango de puntaje del sello",
-      "description": "La clasificación de las tablas de clasificación para el puntaje del sello correspondiente, determinada por Voluspa."
     }
   },
   "gild-score-rank": {

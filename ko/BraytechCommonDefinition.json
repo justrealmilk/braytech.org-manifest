@@ -215,12 +215,6 @@
       "description": "획득한 모든 활성 트라이엄프의 현재 값과 모든 활성 트라이엄프의 총 값입니다.\n\n이 점수 값은 트라이엄프가 레거시 트라이엄프가 될 때 변경됩니다."
     }
   },
-  "seal-score": {
-    "displayProperties": {
-      "name": "봉인 점수",
-      "description": "완료한 봉인의 합계입니다."
-    }
-  },
   "gild-score": {
     "displayProperties": {
       "name": "금박 점수",
@@ -261,12 +255,6 @@
     "displayProperties": {
       "name": "활성 점수 순위",
       "description": "해당 트라이엄프 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
-    }
-  },
-  "seal-score-rank": {
-    "displayProperties": {
-      "name": "봉인 점수 순위",
-      "description": "해당 봉인 점수에 대한 리더보드 순위, Voluspa에 의해 결정됩니다."
     }
   },
   "gild-score-rank": {

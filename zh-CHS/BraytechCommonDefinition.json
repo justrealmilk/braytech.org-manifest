@@ -212,12 +212,6 @@
       "description": "由Voluspa确定的相应活跃分数的排行榜排名。"
     }
   },
-  "seal-score-rank": {
-    "displayProperties": {
-      "name": "印章得分排名",
-      "description": "由Voluspa确定的相应印章分数的排行榜排名。"
-    }
-  },
   "legacy-score-rank": {
     "displayProperties": {
       "name": "传承得分排名",
