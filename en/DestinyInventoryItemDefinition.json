@@ -764,5 +764,10 @@
   },
   "2705455302": {
     "collectibleHash": 3860168553
+  },
+  "3956025454": {
+    "displayProperties": {
+      "description": "A reward multipler, grants a bonus weapon or armour drop."
+    }
   }
 }
