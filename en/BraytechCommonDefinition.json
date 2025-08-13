@@ -176,12 +176,6 @@
       "description": "Percentage of players who are indexed by Voluspa who've acquired this collectible or completed this record."
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "Expiration",
-      "description": "This record has expiration information attached."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "Score Value",
