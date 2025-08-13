@@ -155,12 +155,6 @@
       "description": "Una representación del número de jugadores que adquirieron o canjearon este triunfo."
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "Caducidad",
-      "description": "Este triunfo lleva información de caducidad adjunta."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "Valor en puntos",

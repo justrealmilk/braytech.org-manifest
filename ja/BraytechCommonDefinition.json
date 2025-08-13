@@ -176,12 +176,6 @@
       "description": "Voluspaのデータに登録されているプレイヤーのうち、取得または達成した人の割合です。"
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "有効期限",
-      "description": "この記録は有効期限に関しての情報があります"
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "スコア値",

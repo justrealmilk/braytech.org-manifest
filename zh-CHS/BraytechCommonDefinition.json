@@ -128,12 +128,6 @@
       "description": "Voluspa 数据库中获取或已领取该项目的玩家所占的百分比。"
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "Expiration",
-      "description": "This record has expiration information attached."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "Score Value",

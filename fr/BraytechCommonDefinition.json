@@ -164,12 +164,6 @@
       "description": "Pourcentage de joueurs indexés par Volupsa qui ont acquis ou récupéré cette entrée."
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "Expiration",
-      "description": "Cet enregistrement possède des informations d'expiration."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "Valeur du score",

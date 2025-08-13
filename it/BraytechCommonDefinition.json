@@ -143,12 +143,6 @@
       "description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito o riscattato questa voce."
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "Scadenza",
-      "description": "Questo trionfo ha informazioni sulla scadenza allegate."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "Valore punteggio",

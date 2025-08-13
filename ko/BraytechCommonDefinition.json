@@ -155,12 +155,6 @@
       "description": "Voluspa에서 확인되는 유저 중 이 항목을 획득 또는 완료한 플레이어 비율입니다."
     }
   },
-  "expiration": {
-    "displayProperties": {
-      "name": "만료",
-      "description": "이 기록에는 만료 정보가 첨부되어 있습니다."
-    }
-  },
   "score": {
     "displayProperties": {
       "name": "업적 점수",
