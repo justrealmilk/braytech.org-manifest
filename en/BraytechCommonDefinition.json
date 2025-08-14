@@ -245,7 +245,7 @@
   "legacy-triumph-score": {
     "displayProperties": {
       "name": "Legacy Triumph Score",
-      "description": "Total score of all completed legacy Triumphs.\n\nThis value was calculated by Bungie."
+      "description": "Total score of all completed legacy Triumphs."
     }
   },
   "lifetime-triumph-score": {
