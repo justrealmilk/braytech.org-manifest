@@ -230,6 +230,12 @@
       "description": "獲得したアクティブな勝利の道のりの値と、すべてのアクティブな勝利の道のりの合計値です。 \n\n アクティブな勝利の道のりが過去の勝利の道のりになると、このスコアは変化します。"
     }
   },
+  "title-score": {
+    "displayProperties": {
+      "name": "タイトルスコア",
+      "description": "あなたが達成したタイトルの合計数。"
+    }
+  },
   "gild-score": {
     "displayProperties": {
       "name": "黄金のスコア",
@@ -269,7 +275,13 @@
   "active-score-rank": {
     "displayProperties": {
       "name": "アクティブスコアランク",
-      "description": "Voluspaによる、道のりのスコアランキング。"
+      "description": "Voluspaによって算出された、該当する勝利の道のりスコアに基づくリーダーボード順位です。"
+    }
+  },
+  "title-score-rank": {
+    "displayProperties": {
+      "name": "タイトルスコアランク",
+      "description": "Voluspaによって算出された、該当する称号スコアに基づくリーダーボード順位です。"
     }
   },
   "gild-score-rank": {
@@ -455,6 +467,18 @@
     "displayProperties": {
       "name": "編集",
       "description": "コーディネートの名称、説明文、またはURLを変更できます。\n\n変更すると、未承認となりますのでご注意ください。"
+    }
+  },
+  "gear-tier-weapon": {
+    "displayProperties": {
+      "name": "武器Tier",
+      "description": "上位ティアの装備は、追加のステータスを提供し、装備の種類によってはさらなるパークが付く場合があります。\n\nTIER 1 \n基本ステータス\n\nTIER 2 \n強化特性: 2\n\nTIER 3 \n強化特性: 2\n複数パーク: 2\n\nTIER 4 \n強化特性: 2\n複数パーク: 2\n強化対象: Mod、マガジン、バレル\n\nTIER 5 \n強化特性: 2\n複数パーク: 3\n強化対象: Mod、マガジン、バレル、起源特性\n装飾:専用装飾、ホロチップ"
+    }
+  },
+  "gear-tier-armor": {
+    "displayProperties": {
+      "name": "防具Tier",
+      "description": "上位ティアの装備は、追加のステータスを提供し、装備の種類によってはさらなるパークが付く場合があります。\n\nTIER 1 \n52 - 57\n\nTIER 2 \n58 - 63\n\nTIER 3 \n64 - 69\n\nTIER 4 \n70 - 75\n\nTIER 5 \n75 + ステータスチューニングMod"
     }
   }
 }

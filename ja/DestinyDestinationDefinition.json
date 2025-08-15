@@ -302,5 +302,33 @@
         }
       }
     ]
+  },
+  "4076196532": {
+    "bubbles": [
+      {
+        "hash": 40761965321,
+        "displayProperties": {
+          "name": "アウターステップ"
+        }
+      },
+      {
+        "hash": 40761965322,
+        "displayProperties": {
+          "name": "峡谷"
+        }
+      },
+      {
+        "hash": 40761965323,
+        "displayProperties": {
+          "name": "中央アカデミー"
+        }
+      },
+      {
+        "hash": 40761965324,
+        "displayProperties": {
+          "name": "エグザイルのアコード"
+        }
+      }
+    ]
   }
 }

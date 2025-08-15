@@ -1,7 +1,7 @@
 {
   "1": {
     "displayProperties": {
-      "name": "材料"
+      "name": "素材"
     }
   },
   "2": {
@@ -21,12 +21,12 @@
   },
   "9": {
     "displayProperties": {
-      "name": "交換品"
+      "name": "交換アイテム"
     }
   },
   "12": {
     "displayProperties": {
-      "name": "クエストステップ"
+      "name": "クエスト進捗"
     }
   },
   "14": {
@@ -41,7 +41,7 @@
   },
   "16": {
     "displayProperties": {
-      "name": "ウォーロック サブクラス"
+      "name": "ウォーロックサブクラス"
     }
   },
   "17": {
@@ -71,7 +71,7 @@
   },
   "24": {
     "displayProperties": {
-      "name": "ゴーストの外殻"
+      "name": "ゴーストのシェル"
     }
   },
   "25": {
@@ -96,7 +96,7 @@
   },
   "30": {
     "displayProperties": {
-      "name": "パターン"
+      "name": "シェーダー"
     }
   }
 }
