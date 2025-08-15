@@ -1843,43 +1843,8 @@
     ]
   },
   "ja": {
-    "DestinyInventoryItemDefinition.json": [
-      "3329390250",
-      "3956025454"
-    ],
-    "DestinyDestinationDefinition.json": [
-      "4076196532"
-    ],
-    "BraytechCommonDefinition.json": [
-      "title-score",
-      "title-score-rank",
-      "gear-tier-weapon",
-      "gear-tier-armor"
-    ],
-    "DestinySeasonDefinition.json": [
-      "27587265600"
-    ],
-    "DestinyActivityModifierDefinition.json": [
-      "3286837323",
-      "3641922583",
-      "2881201792",
-      "2480815324"
-    ],
     "BraytechMapsDefinition.json": [
       "4076196532"
-    ],
-    "DestinyActivityTypeDefinition.json": [
-      "1728319841"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "collections-eververse",
-      "operations-seasonal-hub"
-    ],
-    "DestinyPhaseDefinition.json": [
-      "3286837323",
-      "3641922583",
-      "2881201792",
-      "2480815324"
     ]
   },
   "ko": {
