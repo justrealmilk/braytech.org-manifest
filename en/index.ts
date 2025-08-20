@@ -6,6 +6,7 @@ import BraytechMapsDefinition from './BraytechMapsDefinition.json';
 import BraytechMapsTypesDefinition from './BraytechMapsTypesDefinition.json';
 import BraytechHelpDefinition from './BraytechHelpDefinition.json';
 import BraytechRotationDefinition from './BraytechRotationDefinition.json';
+import BraytechWaypointDefinition from './BraytechWaypointDefinition.json';
 import DestinyActivityDefinition from './DestinyActivityDefinition.json';
 import DestinyActivityModeDefinition from './DestinyActivityModeDefinition.json';
 import DestinyActivityModifierDefinition from './DestinyActivityModifierDefinition.json';
@@ -48,6 +49,7 @@ const en = {
     BraytechMapsTypesDefinition,
     BraytechHelpDefinition,
     BraytechRotationDefinition,
+    BraytechWaypointDefinition,
     DestinyActivityDefinition,
     DestinyActivityModeDefinition,
     DestinyActivityModifierDefinition,
