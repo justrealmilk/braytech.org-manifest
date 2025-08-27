@@ -1,0 +1,12 @@
+{
+  "info_light_requirement": {
+    "displayProperties": {
+      "description": "You need to be at least 340 to complete this."
+    }
+  },
+  "info_chance_deepsight_activity": {
+    "displayProperties": {
+      "description": "Complete {{activity}} for a chance to earn a reward with Deepsight Resonance."
+    }
+  }
+}

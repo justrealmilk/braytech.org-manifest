@@ -203,5 +203,21 @@
       "completed": "Decrypted"
     },
     "progressDescription": "Bits decrypted"
+  },
+  "1062690000": {
+    "entry": {
+      "prefix": "Ability Chest",
+      "name": "Ability Chest",
+      "completed": "Opened"
+    },
+    "progressDescription": "Ability chests opened"
+  },
+  "2526495740": {
+    "entry": {
+      "prefix": "Urn",
+      "name": "Urn",
+      "completed": "Collected"
+    },
+    "progressDescription": "Urns collected"
   }
 }
