@@ -391,5 +391,26 @@
   },
   "1073708151": {
     "activityTypeHash": 1728319841
+  },
+  "1325548022": {
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
+  },
+  "3996127757": {
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
+  },
+  "3584571989": {
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
   }
 }
