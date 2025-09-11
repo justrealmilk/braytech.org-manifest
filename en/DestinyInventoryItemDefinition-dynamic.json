@@ -143,6 +143,9 @@
   "41632512": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "42468428": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "44301888": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -3956,6 +3959,15 @@
   "1689814211": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "1699826952": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1699826953": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1699826958": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1700183918": {
     "collectibleHash": 4000000710
   },
@@ -4175,6 +4187,15 @@
   },
   "1758773207": {
     "collectibleHash": 4000000515
+  },
+  "1761982889": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1761982894": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1761982895": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1763507063": {
     "collectibleHash": 4000000685
