@@ -44,7 +44,7 @@
   },
   "29194593": {
     "backgroundColor": {
-      "red": 81,
+      "red": 73,
       "green": 36,
       "blue": 36
     }
@@ -93,51 +93,51 @@
   },
   "40549752": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549754": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549755": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549756": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549757": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549758": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "40549759": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "41632512": {
@@ -151,9 +151,9 @@
   },
   "46275857": {
     "backgroundColor": {
-      "red": 78,
-      "green": 49,
-      "blue": 98
+      "red": 81,
+      "green": 52,
+      "blue": 101
     }
   },
   "47238115": {
@@ -176,9 +176,9 @@
   },
   "54004488": {
     "backgroundColor": {
-      "red": 8,
-      "green": 19,
-      "blue": 12
+      "red": 13,
+      "green": 26,
+      "blue": 19
     }
   },
   "54004489": {
@@ -204,14 +204,14 @@
   },
   "54004492": {
     "backgroundColor": {
-      "red": 59,
+      "red": 60,
       "green": 43,
-      "blue": 49
+      "blue": 50
     }
   },
   "54004493": {
     "backgroundColor": {
-      "red": 25,
+      "red": 26,
       "green": 24,
       "blue": 21
     }
@@ -219,14 +219,14 @@
   "54004494": {
     "backgroundColor": {
       "red": 7,
-      "green": 9,
+      "green": 10,
       "blue": 8
     }
   },
   "54004495": {
     "backgroundColor": {
-      "red": 50,
-      "green": 42,
+      "red": 48,
+      "green": 41,
       "blue": 18
     }
   },
@@ -287,9 +287,6 @@
   "99130811": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
-  "104086636": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "105579934": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -346,9 +343,9 @@
   },
   "131450131": {
     "backgroundColor": {
-      "red": 42,
-      "green": 28,
-      "blue": 42
+      "red": 43,
+      "green": 29,
+      "blue": 43
     }
   },
   "131450132": {
@@ -362,21 +359,21 @@
     "backgroundColor": {
       "red": 42,
       "green": 46,
-      "blue": 65
+      "blue": 66
     }
   },
   "131450134": {
     "backgroundColor": {
-      "red": 53,
-      "green": 56,
-      "blue": 104
+      "red": 48,
+      "green": 53,
+      "blue": 103
     }
   },
   "131450135": {
     "backgroundColor": {
-      "red": 54,
-      "green": 82,
-      "blue": 79
+      "red": 53,
+      "green": 81,
+      "blue": 78
     }
   },
   "131450136": {
@@ -390,7 +387,7 @@
     "backgroundColor": {
       "red": 65,
       "green": 23,
-      "blue": 25
+      "blue": 24
     }
   },
   "131729126": {
@@ -411,8 +408,8 @@
   "148664963": {
     "backgroundColor": {
       "red": 39,
-      "green": 63,
-      "blue": 111
+      "green": 64,
+      "blue": 112
     }
   },
   "153780217": {
@@ -454,7 +451,7 @@
   },
   "180108391": {
     "backgroundColor": {
-      "red": 71,
+      "red": 72,
       "green": 52,
       "blue": 52
     }
@@ -464,7 +461,7 @@
   },
   "181783016": {
     "backgroundColor": {
-      "red": 198,
+      "red": 197,
       "green": 151,
       "blue": 134
     }
@@ -473,7 +470,7 @@
     "backgroundColor": {
       "red": 40,
       "green": 36,
-      "blue": 67
+      "blue": 66
     }
   },
   "181783018": {
@@ -513,16 +510,16 @@
   },
   "185321778": {
     "backgroundColor": {
-      "red": 17,
-      "green": 17,
+      "red": 16,
+      "green": 16,
       "blue": 17
     }
   },
   "185321779": {
     "backgroundColor": {
-      "red": 30,
+      "red": 29,
       "green": 37,
-      "blue": 65
+      "blue": 64
     }
   },
   "200218998": {
@@ -567,17 +564,11 @@
   "240371989": {
     "collectibleHash": 4000000738
   },
-  "245481679": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "248046130": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "248592690": {
     "collectibleHash": 4000000889
-  },
-  "251839240": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "253759600": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -654,8 +645,8 @@
   "298334048": {
     "backgroundColor": {
       "red": 31,
-      "green": 22,
-      "blue": 41
+      "green": 23,
+      "blue": 40
     }
   },
   "298334049": {
@@ -668,21 +659,21 @@
   "298334056": {
     "backgroundColor": {
       "red": 66,
-      "green": 70,
+      "green": 71,
       "blue": 64
     }
   },
   "298334057": {
     "backgroundColor": {
-      "red": 50,
-      "green": 51,
+      "red": 52,
+      "green": 52,
       "blue": 74
     }
   },
   "298334058": {
     "backgroundColor": {
-      "red": 54,
-      "green": 83,
+      "red": 55,
+      "green": 84,
       "blue": 65
     }
   },
@@ -697,14 +688,14 @@
     "backgroundColor": {
       "red": 44,
       "green": 14,
-      "blue": 18
+      "blue": 19
     }
   },
   "298334061": {
     "backgroundColor": {
-      "red": 25,
+      "red": 22,
       "green": 6,
-      "blue": 8
+      "blue": 7
     }
   },
   "298334062": {
@@ -716,7 +707,7 @@
   },
   "298334063": {
     "backgroundColor": {
-      "red": 44,
+      "red": 45,
       "green": 55,
       "blue": 47
     }
@@ -755,9 +746,9 @@
   },
   "313685909": {
     "backgroundColor": {
-      "red": 115,
-      "green": 88,
-      "blue": 63
+      "red": 117,
+      "green": 91,
+      "blue": 66
     }
   },
   "313685910": {
@@ -862,9 +853,6 @@
   "368803715": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
-  "370622807": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "375770440": {
     "collectibleHash": 4000000446
   },
@@ -883,9 +871,6 @@
   "381744429": {
     "collectibleHash": 4000000474
   },
-  "382065498": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "382975121": {
     "collectibleHash": 4000000580
   },
@@ -893,13 +878,13 @@
     "backgroundColor": {
       "red": 48,
       "green": 28,
-      "blue": 37
+      "blue": 38
     }
   },
   "383734233": {
     "backgroundColor": {
       "red": 18,
-      "green": 15,
+      "green": 16,
       "blue": 13
     }
   },
@@ -907,12 +892,12 @@
     "backgroundColor": {
       "red": 95,
       "green": 66,
-      "blue": 75
+      "blue": 74
     }
   },
   "383734236": {
     "backgroundColor": {
-      "red": 10,
+      "red": 11,
       "green": 14,
       "blue": 25
     }
@@ -927,7 +912,7 @@
   "383734238": {
     "backgroundColor": {
       "red": 113,
-      "green": 24,
+      "green": 25,
       "blue": 19
     }
   },
@@ -935,7 +920,7 @@
     "backgroundColor": {
       "red": 155,
       "green": 14,
-      "blue": 16
+      "blue": 17
     }
   },
   "383973261": {
@@ -1001,14 +986,11 @@
   "411709610": {
     "collectibleHash": 4000000868
   },
-  "411722351": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "414672658": {
     "backgroundColor": {
       "red": 47,
-      "green": 40,
-      "blue": 96
+      "green": 41,
+      "blue": 97
     }
   },
   "415723640": {
@@ -1175,15 +1157,15 @@
   "532530776": {
     "backgroundColor": {
       "red": 27,
-      "green": 80,
-      "blue": 115
+      "green": 81,
+      "blue": 114
     }
   },
   "532530777": {
     "backgroundColor": {
-      "red": 34,
-      "green": 55,
-      "blue": 81
+      "red": 36,
+      "green": 51,
+      "blue": 76
     }
   },
   "532530778": {
@@ -1255,7 +1237,7 @@
   "540603118": {
     "backgroundColor": {
       "red": 35,
-      "green": 48,
+      "green": 49,
       "blue": 55
     }
   },
@@ -1298,9 +1280,6 @@
   },
   "574946530": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
-  },
-  "575478556": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "578095706": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -1379,8 +1358,8 @@
   },
   "621113310": {
     "backgroundColor": {
-      "red": 68,
-      "green": 41,
+      "red": 69,
+      "green": 42,
       "blue": 89
     }
   },
@@ -1394,7 +1373,7 @@
     "backgroundColor": {
       "red": 84,
       "green": 52,
-      "blue": 148
+      "blue": 149
     }
   },
   "631776518": {
@@ -1476,14 +1455,8 @@
   "695820638": {
     "collectibleHash": 4000000478
   },
-  "700864268": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "704532774": {
     "collectibleHash": 4000000448
-  },
-  "708126197": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "710527784": {
     "collectibleHash": 4000000402
@@ -1547,9 +1520,9 @@
   },
   "745759695": {
     "backgroundColor": {
-      "red": 106,
-      "green": 79,
-      "blue": 128
+      "red": 97,
+      "green": 76,
+      "blue": 129
     }
   },
   "753547630": {
@@ -1676,29 +1649,29 @@
   "787024996": {
     "backgroundColor": {
       "red": 165,
-      "green": 166,
+      "green": 165,
       "blue": 167
     }
   },
   "787024997": {
     "backgroundColor": {
-      "red": 227,
-      "green": 194,
-      "blue": 74
+      "red": 226,
+      "green": 193,
+      "blue": 73
     }
   },
   "787024998": {
     "backgroundColor": {
-      "red": 128,
-      "green": 51,
-      "blue": 82
+      "red": 114,
+      "green": 42,
+      "blue": 64
     }
   },
   "787024999": {
     "backgroundColor": {
-      "red": 24,
+      "red": 25,
       "green": 24,
-      "blue": 23
+      "blue": 24
     }
   },
   "787195759": {
@@ -1706,9 +1679,9 @@
   },
   "788073488": {
     "backgroundColor": {
-      "red": 39,
+      "red": 40,
       "green": 27,
-      "blue": 43
+      "blue": 45
     }
   },
   "788073489": {
@@ -1720,16 +1693,16 @@
   },
   "788073490": {
     "backgroundColor": {
-      "red": 92,
-      "green": 47,
-      "blue": 64
+      "red": 93,
+      "green": 48,
+      "blue": 65
     }
   },
   "788073491": {
     "backgroundColor": {
-      "red": 165,
-      "green": 119,
-      "blue": 127
+      "red": 148,
+      "green": 135,
+      "blue": 147
     }
   },
   "788073492": {
@@ -1773,22 +1746,22 @@
   "802191381": {
     "backgroundColor": {
       "red": 156,
-      "green": 72,
-      "blue": 59
+      "green": 71,
+      "blue": 58
     }
   },
   "802191382": {
     "backgroundColor": {
-      "red": 58,
-      "green": 44,
-      "blue": 87
+      "red": 50,
+      "green": 42,
+      "blue": 85
     }
   },
   "802191383": {
     "backgroundColor": {
-      "red": 16,
-      "green": 16,
-      "blue": 16
+      "red": 17,
+      "green": 17,
+      "blue": 17
     }
   },
   "804309451": {
@@ -1855,16 +1828,16 @@
   },
   "842157718": {
     "backgroundColor": {
-      "red": 26,
+      "red": 27,
       "green": 38,
-      "blue": 49
+      "blue": 48
     }
   },
   "842157719": {
     "backgroundColor": {
-      "red": 46,
-      "green": 40,
-      "blue": 28
+      "red": 47,
+      "green": 41,
+      "blue": 29
     }
   },
   "844563491": {
@@ -1938,7 +1911,7 @@
   },
   "866034300": {
     "backgroundColor": {
-      "red": 10,
+      "red": 11,
       "green": 27,
       "blue": 25
     }
@@ -1952,8 +1925,8 @@
   },
   "866034302": {
     "backgroundColor": {
-      "red": 28,
-      "green": 7,
+      "red": 29,
+      "green": 8,
       "blue": 21
     }
   },
@@ -2026,8 +1999,8 @@
   "893502917": {
     "backgroundColor": {
       "red": 63,
-      "green": 42,
-      "blue": 50
+      "green": 43,
+      "blue": 51
     }
   },
   "896553940": {
@@ -2063,8 +2036,8 @@
   },
   "908153537": {
     "backgroundColor": {
-      "red": 136,
-      "green": 52,
+      "red": 137,
+      "green": 53,
       "blue": 207
     }
   },
@@ -2072,21 +2045,21 @@
     "backgroundColor": {
       "red": 102,
       "green": 81,
-      "blue": 67
+      "blue": 66
     }
   },
   "908153539": {
     "backgroundColor": {
-      "red": 60,
-      "green": 75,
-      "blue": 91
+      "red": 49,
+      "green": 67,
+      "blue": 84
     }
   },
   "908153540": {
     "backgroundColor": {
       "red": 33,
       "green": 17,
-      "blue": 19
+      "blue": 20
     }
   },
   "908153541": {
@@ -2114,7 +2087,7 @@
     "backgroundColor": {
       "red": 36,
       "green": 14,
-      "blue": 21
+      "blue": 22
     }
   },
   "908677920": {
@@ -2172,16 +2145,13 @@
   "947540634": {
     "collectibleHash": 4000000805
   },
-  "951234572": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "955394464": {
     "collectibleHash": 4000000780
   },
   "956685247": {
     "backgroundColor": {
-      "red": 116,
-      "green": 105,
+      "red": 117,
+      "green": 106,
       "blue": 88
     }
   },
@@ -2208,9 +2178,9 @@
   },
   "969863968": {
     "backgroundColor": {
-      "red": 176,
-      "green": 12,
-      "blue": 13
+      "red": 177,
+      "green": 14,
+      "blue": 14
     }
   },
   "976115754": {
@@ -2260,9 +2230,6 @@
   "1005293753": {
     "collectibleHash": 4000000896
   },
-  "1005626339": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "1007524098": {
     "collectibleHash": 4000000253
   },
@@ -2304,9 +2271,6 @@
   },
   "1033800931": {
     "collectibleHash": 4000000654
-  },
-  "1035463236": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1036776535": {
     "collectibleHash": 4000000759
@@ -2358,9 +2322,9 @@
   },
   "1059304051": {
     "backgroundColor": {
-      "red": 187,
-      "green": 173,
-      "blue": 184
+      "red": 189,
+      "green": 175,
+      "blue": 186
     }
   },
   "1061014658": {
@@ -2415,9 +2379,9 @@
   },
   "1069214754": {
     "backgroundColor": {
-      "red": 37,
-      "green": 41,
-      "blue": 42
+      "red": 39,
+      "green": 42,
+      "blue": 43
     }
   },
   "1069380472": {
@@ -2445,8 +2409,8 @@
   "1078226393": {
     "backgroundColor": {
       "red": 93,
-      "green": 88,
-      "blue": 97
+      "green": 89,
+      "blue": 98
     }
   },
   "1078226394": {
@@ -2494,8 +2458,8 @@
   },
   "1131244817": {
     "backgroundColor": {
-      "red": 47,
-      "green": 30,
+      "red": 45,
+      "green": 29,
       "blue": 29
     }
   },
@@ -2507,9 +2471,9 @@
   },
   "1138508272": {
     "backgroundColor": {
-      "red": 36,
-      "green": 66,
-      "blue": 63
+      "red": 37,
+      "green": 67,
+      "blue": 62
     }
   },
   "1138508273": {
@@ -2523,7 +2487,7 @@
     "backgroundColor": {
       "red": 148,
       "green": 54,
-      "blue": 53
+      "blue": 54
     }
   },
   "1138508275": {
@@ -2535,16 +2499,16 @@
   },
   "1138508276": {
     "backgroundColor": {
-      "red": 22,
-      "green": 35,
-      "blue": 47
+      "red": 24,
+      "green": 38,
+      "blue": 49
     }
   },
   "1138508277": {
     "backgroundColor": {
       "red": 32,
       "green": 42,
-      "blue": 55
+      "blue": 56
     }
   },
   "1138508278": {
@@ -2556,21 +2520,21 @@
   },
   "1138508279": {
     "backgroundColor": {
-      "red": 29,
-      "green": 26,
-      "blue": 24
+      "red": 30,
+      "green": 27,
+      "blue": 25
     }
   },
   "1138508286": {
     "backgroundColor": {
-      "red": 46,
+      "red": 45,
       "green": 54,
       "blue": 68
     }
   },
   "1138508287": {
     "backgroundColor": {
-      "red": 40,
+      "red": 41,
       "green": 40,
       "blue": 49
     }
@@ -2598,16 +2562,16 @@
   },
   "1141716960": {
     "backgroundColor": {
-      "red": 7,
-      "green": 39,
-      "blue": 38
+      "red": 5,
+      "green": 42,
+      "blue": 46
     }
   },
   "1141716961": {
     "backgroundColor": {
-      "red": 52,
-      "green": 52,
-      "blue": 52
+      "red": 53,
+      "green": 53,
+      "blue": 53
     }
   },
   "1141716962": {
@@ -2620,15 +2584,15 @@
   "1141716963": {
     "backgroundColor": {
       "red": 69,
-      "green": 72,
-      "blue": 62
+      "green": 73,
+      "blue": 63
     }
   },
   "1141716966": {
     "backgroundColor": {
       "red": 189,
       "green": 180,
-      "blue": 176
+      "blue": 174
     }
   },
   "1141716967": {
@@ -2665,8 +2629,8 @@
   "1162929425": {
     "backgroundColor": {
       "red": 84,
-      "green": 49,
-      "blue": 28
+      "green": 50,
+      "blue": 29
     }
   },
   "1163621614": {
@@ -2686,7 +2650,7 @@
     "backgroundColor": {
       "red": 63,
       "green": 13,
-      "blue": 13
+      "blue": 12
     }
   },
   "1179310688": {
@@ -2873,9 +2837,9 @@
   },
   "1230660640": {
     "backgroundColor": {
-      "red": 32,
-      "green": 53,
-      "blue": 42
+      "red": 33,
+      "green": 54,
+      "blue": 43
     }
   },
   "1230660641": {
@@ -2901,22 +2865,22 @@
   },
   "1230660644": {
     "backgroundColor": {
-      "red": 225,
-      "green": 202,
-      "blue": 203
+      "red": 223,
+      "green": 198,
+      "blue": 198
     }
   },
   "1230660645": {
     "backgroundColor": {
       "red": 49,
-      "green": 33,
+      "green": 34,
       "blue": 82
     }
   },
   "1230660647": {
     "backgroundColor": {
       "red": 71,
-      "green": 98,
+      "green": 99,
       "blue": 184
     }
   },
@@ -2929,9 +2893,9 @@
   },
   "1230660649": {
     "backgroundColor": {
-      "red": 73,
-      "green": 24,
-      "blue": 28
+      "red": 81,
+      "green": 30,
+      "blue": 34
     }
   },
   "1234797759": {
@@ -3010,8 +2974,8 @@
   },
   "1273131836": {
     "backgroundColor": {
-      "red": 35,
-      "green": 34,
+      "red": 37,
+      "green": 35,
       "blue": 25
     }
   },
@@ -3030,12 +2994,9 @@
   "1283540420": {
     "collectibleHash": 4000000327
   },
-  "1283782926": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "1291068165": {
     "backgroundColor": {
-      "red": 34,
+      "red": 35,
       "green": 35,
       "blue": 37
     }
@@ -3056,15 +3017,15 @@
   },
   "1291068172": {
     "backgroundColor": {
-      "red": 69,
-      "green": 116,
+      "red": 71,
+      "green": 117,
       "blue": 153
     }
   },
   "1291068173": {
     "backgroundColor": {
       "red": 35,
-      "green": 66,
+      "green": 67,
       "blue": 65
     }
   },
@@ -3093,7 +3054,7 @@
   "1312626341": {
     "backgroundColor": {
       "red": 153,
-      "green": 40,
+      "green": 41,
       "blue": 18
     }
   },
@@ -3148,12 +3109,6 @@
   "1338552830": {
     "collectibleHash": 4000000758
   },
-  "1339538270": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
-  "1342758974": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "1344199169": {
     "collectibleHash": 4000000609
   },
@@ -3169,8 +3124,8 @@
   },
   "1347384482": {
     "backgroundColor": {
-      "red": 161,
-      "green": 64,
+      "red": 162,
+      "green": 65,
       "blue": 43
     }
   },
@@ -3262,8 +3217,8 @@
   },
   "1409726978": {
     "backgroundColor": {
-      "red": 31,
-      "green": 29,
+      "red": 32,
+      "green": 30,
       "blue": 30
     }
   },
@@ -3290,8 +3245,8 @@
   },
   "1409726986": {
     "backgroundColor": {
-      "red": 42,
-      "green": 26,
+      "red": 43,
+      "green": 27,
       "blue": 25
     }
   },
@@ -3319,7 +3274,7 @@
   "1409726990": {
     "backgroundColor": {
       "red": 104,
-      "green": 139,
+      "green": 138,
       "blue": 143
     }
   },
@@ -3434,22 +3389,22 @@
   },
   "1465090512": {
     "backgroundColor": {
-      "red": 37,
-      "green": 38,
-      "blue": 52
+      "red": 39,
+      "green": 40,
+      "blue": 54
     }
   },
   "1465090513": {
     "backgroundColor": {
       "red": 181,
-      "green": 170,
+      "green": 169,
       "blue": 65
     }
   },
   "1465090514": {
     "backgroundColor": {
       "red": 89,
-      "green": 25,
+      "green": 26,
       "blue": 28
     }
   },
@@ -3457,7 +3412,7 @@
     "backgroundColor": {
       "red": 195,
       "green": 91,
-      "blue": 96
+      "blue": 97
     }
   },
   "1465090516": {
@@ -3471,14 +3426,14 @@
     "backgroundColor": {
       "red": 13,
       "green": 32,
-      "blue": 36
+      "blue": 35
     }
   },
   "1465090518": {
     "backgroundColor": {
-      "red": 11,
-      "green": 11,
-      "blue": 16
+      "red": 13,
+      "green": 13,
+      "blue": 18
     }
   },
   "1465090519": {
@@ -3562,7 +3517,7 @@
     "backgroundColor": {
       "red": 193,
       "green": 180,
-      "blue": 189
+      "blue": 190
     }
   },
   "1511214613": {
@@ -3636,9 +3591,9 @@
   },
   "1554459527": {
     "backgroundColor": {
-      "red": 24,
-      "green": 51,
-      "blue": 83
+      "red": 25,
+      "green": 52,
+      "blue": 84
     }
   },
   "1556736433": {
@@ -3786,7 +3741,7 @@
   "1625974211": {
     "backgroundColor": {
       "red": 129,
-      "green": 22,
+      "green": 23,
       "blue": 9
     }
   },
@@ -3845,42 +3800,42 @@
     "backgroundColor": {
       "red": 16,
       "green": 17,
-      "blue": 18
+      "blue": 17
     }
   },
   "1661191193": {
     "backgroundColor": {
-      "red": 44,
+      "red": 43,
       "green": 30,
-      "blue": 23
+      "blue": 22
     }
   },
   "1661191194": {
     "backgroundColor": {
-      "red": 43,
-      "green": 36,
-      "blue": 58
+      "red": 44,
+      "green": 37,
+      "blue": 59
     }
   },
   "1661191195": {
     "backgroundColor": {
       "red": 77,
-      "green": 21,
+      "green": 22,
       "blue": 24
     }
   },
   "1661191196": {
     "backgroundColor": {
-      "red": 52,
-      "green": 30,
-      "blue": 21
+      "red": 50,
+      "green": 28,
+      "blue": 20
     }
   },
   "1661191197": {
     "backgroundColor": {
-      "red": 87,
-      "green": 50,
-      "blue": 37
+      "red": 88,
+      "green": 51,
+      "blue": 38
     }
   },
   "1661191198": {
@@ -3894,7 +3849,7 @@
     "backgroundColor": {
       "red": 48,
       "green": 38,
-      "blue": 30
+      "blue": 31
     }
   },
   "1666450988": {
@@ -3902,8 +3857,8 @@
   },
   "1667199810": {
     "backgroundColor": {
-      "red": 12,
-      "green": 28,
+      "red": 13,
+      "green": 29,
       "blue": 102
     }
   },
@@ -3913,8 +3868,8 @@
   "1671775166": {
     "backgroundColor": {
       "red": 170,
-      "green": 141,
-      "blue": 99
+      "green": 140,
+      "blue": 98
     }
   },
   "1671775167": {
@@ -3985,9 +3940,9 @@
   },
   "1714370696": {
     "backgroundColor": {
-      "red": 100,
-      "green": 107,
-      "blue": 64
+      "red": 101,
+      "green": 109,
+      "blue": 66
     }
   },
   "1714370697": {
@@ -3999,9 +3954,9 @@
   },
   "1714370698": {
     "backgroundColor": {
-      "red": 37,
-      "green": 30,
-      "blue": 37
+      "red": 38,
+      "green": 31,
+      "blue": 38
     }
   },
   "1716179979": {
@@ -4044,12 +3999,12 @@
     "backgroundColor": {
       "red": 60,
       "green": 40,
-      "blue": 38
+      "blue": 37
     }
   },
   "1724152706": {
     "backgroundColor": {
-      "red": 26,
+      "red": 27,
       "green": 17,
       "blue": 16
     }
@@ -4085,9 +4040,9 @@
   },
   "1736897073": {
     "backgroundColor": {
-      "red": 118,
-      "green": 117,
-      "blue": 155
+      "red": 119,
+      "green": 118,
+      "blue": 154
     }
   },
   "1736897074": {
@@ -4113,7 +4068,7 @@
   },
   "1736897077": {
     "backgroundColor": {
-      "red": 54,
+      "red": 53,
       "green": 59,
       "blue": 26
     }
@@ -4134,15 +4089,15 @@
   },
   "1736897080": {
     "backgroundColor": {
-      "red": 76,
-      "green": 74,
+      "red": 77,
+      "green": 75,
       "blue": 88
     }
   },
   "1736897081": {
     "backgroundColor": {
       "red": 81,
-      "green": 54,
+      "green": 55,
       "blue": 71
     }
   },
@@ -4223,9 +4178,9 @@
   },
   "1767664467": {
     "backgroundColor": {
-      "red": 116,
-      "green": 77,
-      "blue": 92
+      "red": 125,
+      "green": 85,
+      "blue": 100
     }
   },
   "1767664468": {
@@ -4238,15 +4193,15 @@
   "1767664469": {
     "backgroundColor": {
       "red": 89,
-      "green": 74,
-      "blue": 64
+      "green": 75,
+      "blue": 65
     }
   },
   "1767664470": {
     "backgroundColor": {
-      "red": 22,
+      "red": 23,
       "green": 15,
-      "blue": 15
+      "blue": 14
     }
   },
   "1767664471": {
@@ -4258,14 +4213,14 @@
   },
   "1767664478": {
     "backgroundColor": {
-      "red": 177,
+      "red": 174,
       "green": 118,
-      "blue": 120
+      "blue": 121
     }
   },
   "1767664479": {
     "backgroundColor": {
-      "red": 246,
+      "red": 247,
       "green": 118,
       "blue": 27
     }
@@ -4295,8 +4250,8 @@
   "1782320603": {
     "backgroundColor": {
       "red": 150,
-      "green": 27,
-      "blue": 29
+      "green": 28,
+      "blue": 30
     }
   },
   "1784442048": {
@@ -4343,9 +4298,9 @@
   },
   "1784442060": {
     "backgroundColor": {
-      "red": 49,
+      "red": 50,
       "green": 74,
-      "blue": 55
+      "blue": 56
     }
   },
   "1784442061": {
@@ -4357,21 +4312,21 @@
   },
   "1784442062": {
     "backgroundColor": {
-      "red": 74,
-      "green": 47,
-      "blue": 83
+      "red": 84,
+      "green": 58,
+      "blue": 88
     }
   },
   "1784442063": {
     "backgroundColor": {
       "red": 46,
       "green": 75,
-      "blue": 115
+      "blue": 116
     }
   },
   "1788892384": {
     "backgroundColor": {
-      "red": 36,
+      "red": 35,
       "green": 23,
       "blue": 46
     }
@@ -4398,9 +4353,6 @@
   "1810366491": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
-  "1810593799": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "1812891775": {
     "collectibleHash": 4000000608
   },
@@ -4416,9 +4368,6 @@
   },
   "1818656374": {
     "collectibleHash": 4000000811
-  },
-  "1819280251": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1821925607": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -4464,7 +4413,7 @@
   },
   "1868330208": {
     "backgroundColor": {
-      "red": 34,
+      "red": 35,
       "green": 29,
       "blue": 16
     }
@@ -4478,7 +4427,7 @@
   },
   "1868330216": {
     "backgroundColor": {
-      "red": 40,
+      "red": 41,
       "green": 50,
       "blue": 63
     }
@@ -4487,14 +4436,14 @@
     "backgroundColor": {
       "red": 84,
       "green": 14,
-      "blue": 9
+      "blue": 10
     }
   },
   "1868330218": {
     "backgroundColor": {
       "red": 20,
       "green": 59,
-      "blue": 86
+      "blue": 87
     }
   },
   "1868330219": {
@@ -4672,9 +4621,9 @@
   },
   "1901100187": {
     "backgroundColor": {
-      "red": 96,
-      "green": 61,
-      "blue": 9
+      "red": 97,
+      "green": 62,
+      "blue": 10
     }
   },
   "1901885382": {
@@ -4716,14 +4665,14 @@
     "backgroundColor": {
       "red": 71,
       "green": 91,
-      "blue": 140
+      "blue": 139
     }
   },
   "1901885388": {
     "backgroundColor": {
       "red": 60,
       "green": 25,
-      "blue": 28
+      "blue": 29
     }
   },
   "1901885389": {
@@ -4756,22 +4705,22 @@
   "1907674137": {
     "backgroundColor": {
       "red": 176,
-      "green": 140,
-      "blue": 42
+      "green": 141,
+      "blue": 43
     }
   },
   "1907674138": {
     "backgroundColor": {
-      "red": 73,
+      "red": 74,
       "green": 115,
-      "blue": 123
+      "blue": 124
     }
   },
   "1907674139": {
     "backgroundColor": {
-      "red": 154,
-      "green": 57,
-      "blue": 48
+      "red": 155,
+      "green": 58,
+      "blue": 49
     }
   },
   "1908170679": {
@@ -4779,9 +4728,6 @@
   },
   "1915493615": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
-  },
-  "1916850418": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1918663072": {
     "backgroundColor": {
@@ -4799,7 +4745,7 @@
   },
   "1918663074": {
     "backgroundColor": {
-      "red": 164,
+      "red": 163,
       "green": 177,
       "blue": 193
     }
@@ -4813,9 +4759,9 @@
   },
   "1918663076": {
     "backgroundColor": {
-      "red": 62,
-      "green": 51,
-      "blue": 49
+      "red": 67,
+      "green": 54,
+      "blue": 50
     }
   },
   "1918663077": {
@@ -4827,7 +4773,7 @@
   },
   "1918663078": {
     "backgroundColor": {
-      "red": 7,
+      "red": 8,
       "green": 7,
       "blue": 6
     }
@@ -4841,8 +4787,8 @@
   },
   "1918663080": {
     "backgroundColor": {
-      "red": 60,
-      "green": 52,
+      "red": 61,
+      "green": 53,
       "blue": 128
     }
   },
@@ -4858,9 +4804,9 @@
   },
   "1923236933": {
     "backgroundColor": {
-      "red": 27,
-      "green": 27,
-      "blue": 27
+      "red": 28,
+      "green": 28,
+      "blue": 28
     }
   },
   "1927230245": {
@@ -4877,8 +4823,8 @@
   },
   "1935440656": {
     "backgroundColor": {
-      "red": 29,
-      "green": 21,
+      "red": 30,
+      "green": 22,
       "blue": 44
     }
   },
@@ -4886,7 +4832,7 @@
     "backgroundColor": {
       "red": 149,
       "green": 8,
-      "blue": 11
+      "blue": 10
     }
   },
   "1935440658": {
@@ -4920,8 +4866,8 @@
   "1935440662": {
     "backgroundColor": {
       "red": 30,
-      "green": 127,
-      "blue": 75
+      "green": 128,
+      "blue": 76
     }
   },
   "1935440663": {
@@ -4933,15 +4879,15 @@
   },
   "1935440668": {
     "backgroundColor": {
-      "red": 89,
-      "green": 68,
-      "blue": 31
+      "red": 90,
+      "green": 69,
+      "blue": 33
     }
   },
   "1935440669": {
     "backgroundColor": {
       "red": 53,
-      "green": 44,
+      "green": 45,
       "blue": 66
     }
   },
@@ -4956,9 +4902,9 @@
   },
   "1940590816": {
     "backgroundColor": {
-      "red": 61,
-      "green": 76,
-      "blue": 103
+      "red": 64,
+      "green": 80,
+      "blue": 106
     }
   },
   "1940590817": {
@@ -4979,12 +4925,12 @@
     "backgroundColor": {
       "red": 63,
       "green": 13,
-      "blue": 13
+      "blue": 12
     }
   },
   "1940590820": {
     "backgroundColor": {
-      "red": 223,
+      "red": 222,
       "green": 221,
       "blue": 55
     }
@@ -4992,15 +4938,15 @@
   "1940590821": {
     "backgroundColor": {
       "red": 154,
-      "green": 138,
+      "green": 139,
       "blue": 116
     }
   },
   "1940590822": {
     "backgroundColor": {
-      "red": 117,
+      "red": 118,
       "green": 146,
-      "blue": 148
+      "blue": 149
     }
   },
   "1940590823": {
@@ -5019,9 +4965,9 @@
   },
   "1940590825": {
     "backgroundColor": {
-      "red": 46,
-      "green": 26,
-      "blue": 16
+      "red": 48,
+      "green": 31,
+      "blue": 20
     }
   },
   "1942988696": {
@@ -5038,9 +4984,9 @@
   },
   "1949951625": {
     "backgroundColor": {
-      "red": 43,
-      "green": 45,
-      "blue": 51
+      "red": 44,
+      "green": 46,
+      "blue": 53
     }
   },
   "1949951626": {
@@ -5080,16 +5026,16 @@
   },
   "1952218243": {
     "backgroundColor": {
-      "red": 29,
-      "green": 36,
-      "blue": 40
+      "red": 30,
+      "green": 37,
+      "blue": 41
     }
   },
   "1952218244": {
     "backgroundColor": {
       "red": 196,
       "green": 207,
-      "blue": 203
+      "blue": 202
     }
   },
   "1952218245": {
@@ -5101,9 +5047,9 @@
   },
   "1952218246": {
     "backgroundColor": {
-      "red": 93,
-      "green": 93,
-      "blue": 174
+      "red": 92,
+      "green": 91,
+      "blue": 172
     }
   },
   "1952218247": {
@@ -5181,23 +5127,23 @@
   },
   "1968995955": {
     "backgroundColor": {
-      "red": 240,
-      "green": 78,
+      "red": 238,
+      "green": 77,
       "blue": 10
     }
   },
   "1968995960": {
     "backgroundColor": {
-      "red": 11,
-      "green": 6,
-      "blue": 16
+      "red": 12,
+      "green": 7,
+      "blue": 17
     }
   },
   "1968995961": {
     "backgroundColor": {
       "red": 202,
       "green": 51,
-      "blue": 22
+      "blue": 23
     }
   },
   "1968995962": {
@@ -5209,9 +5155,9 @@
   },
   "1968995963": {
     "backgroundColor": {
-      "red": 9,
+      "red": 10,
       "green": 92,
-      "blue": 177
+      "blue": 178
     }
   },
   "1968995964": {
@@ -5223,23 +5169,23 @@
   },
   "1968995965": {
     "backgroundColor": {
-      "red": 45,
-      "green": 59,
-      "blue": 45
+      "red": 46,
+      "green": 61,
+      "blue": 46
     }
   },
   "1968995966": {
     "backgroundColor": {
       "red": 200,
       "green": 124,
-      "blue": 127
+      "blue": 128
     }
   },
   "1968995967": {
     "backgroundColor": {
-      "red": 28,
+      "red": 27,
       "green": 49,
-      "blue": 38
+      "blue": 37
     }
   },
   "1970090469": {
@@ -5277,7 +5223,7 @@
   },
   "1983519830": {
     "backgroundColor": {
-      "red": 43,
+      "red": 44,
       "green": 38,
       "blue": 30
     }
@@ -5285,7 +5231,7 @@
   "1983519831": {
     "backgroundColor": {
       "red": 214,
-      "green": 206,
+      "green": 205,
       "blue": 190
     }
   },
@@ -5306,8 +5252,8 @@
   "1983519834": {
     "backgroundColor": {
       "red": 180,
-      "green": 138,
-      "blue": 89
+      "green": 137,
+      "blue": 88
     }
   },
   "1983519835": {
@@ -5326,23 +5272,23 @@
   },
   "1983519837": {
     "backgroundColor": {
-      "red": 40,
+      "red": 39,
       "green": 44,
       "blue": 34
     }
   },
   "1983519838": {
     "backgroundColor": {
-      "red": 53,
-      "green": 53,
-      "blue": 51
+      "red": 54,
+      "green": 54,
+      "blue": 52
     }
   },
   "1983519839": {
     "backgroundColor": {
       "red": 76,
       "green": 47,
-      "blue": 10
+      "blue": 11
     }
   },
   "1984331521": {
@@ -5363,23 +5309,23 @@
   },
   "1985773541": {
     "backgroundColor": {
-      "red": 38,
+      "red": 39,
       "green": 180,
-      "blue": 245
+      "blue": 244
     }
   },
   "1985773544": {
     "backgroundColor": {
-      "red": 100,
-      "green": 17,
-      "blue": 18
+      "red": 101,
+      "green": 18,
+      "blue": 19
     }
   },
   "1985773545": {
     "backgroundColor": {
       "red": 243,
       "green": 5,
-      "blue": 6
+      "blue": 7
     }
   },
   "1985773546": {
@@ -5398,29 +5344,29 @@
   },
   "1985773548": {
     "backgroundColor": {
-      "red": 27,
+      "red": 28,
       "green": 27,
-      "blue": 24
+      "blue": 25
     }
   },
   "1985773549": {
     "backgroundColor": {
-      "red": 235,
-      "green": 136,
-      "blue": 55
+      "red": 236,
+      "green": 138,
+      "blue": 57
     }
   },
   "1985773550": {
     "backgroundColor": {
-      "red": 21,
-      "green": 28,
-      "blue": 32
+      "red": 22,
+      "green": 29,
+      "blue": 33
     }
   },
   "1985773551": {
     "backgroundColor": {
-      "red": 48,
-      "green": 39,
+      "red": 49,
+      "green": 40,
       "blue": 71
     }
   },
@@ -5430,9 +5376,6 @@
       "green": 51,
       "blue": 48
     }
-  },
-  "1990902821": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1993687886": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -5464,9 +5407,9 @@
   },
   "2010554576": {
     "backgroundColor": {
-      "red": 22,
+      "red": 23,
       "green": 36,
-      "blue": 59
+      "blue": 58
     }
   },
   "2010554578": {
@@ -5478,7 +5421,7 @@
   },
   "2010554579": {
     "backgroundColor": {
-      "red": 127,
+      "red": 128,
       "green": 53,
       "blue": 62
     }
@@ -5499,14 +5442,14 @@
     "backgroundColor": {
       "red": 44,
       "green": 87,
-      "blue": 114
+      "blue": 113
     }
   },
   "2026109714": {
     "backgroundColor": {
-      "red": 31,
-      "green": 39,
-      "blue": 45
+      "red": 30,
+      "green": 38,
+      "blue": 44
     }
   },
   "2026109715": {
@@ -5518,14 +5461,14 @@
   },
   "2026109716": {
     "backgroundColor": {
-      "red": 53,
+      "red": 52,
       "green": 30,
       "blue": 28
     }
   },
   "2026109717": {
     "backgroundColor": {
-      "red": 61,
+      "red": 62,
       "green": 82,
       "blue": 90
     }
@@ -5539,9 +5482,9 @@
   },
   "2026109719": {
     "backgroundColor": {
-      "red": 54,
-      "green": 53,
-      "blue": 104
+      "red": 58,
+      "green": 58,
+      "blue": 107
     }
   },
   "2028925874": {
@@ -5553,7 +5496,7 @@
   "2029506313": {
     "backgroundColor": {
       "red": 7,
-      "green": 187,
+      "green": 188,
       "blue": 190
     }
   },
@@ -5596,7 +5539,7 @@
   "2054118356": {
     "backgroundColor": {
       "red": 115,
-      "green": 163,
+      "green": 162,
       "blue": 193
     }
   },
@@ -5625,7 +5568,7 @@
     "backgroundColor": {
       "red": 11,
       "green": 8,
-      "blue": 16
+      "blue": 17
     }
   },
   "2069797993": {
@@ -5637,8 +5580,8 @@
   },
   "2069797994": {
     "backgroundColor": {
-      "red": 29,
-      "green": 13,
+      "red": 30,
+      "green": 14,
       "blue": 27
     }
   },
@@ -5658,9 +5601,9 @@
   },
   "2069797997": {
     "backgroundColor": {
-      "red": 25,
-      "green": 53,
-      "blue": 58
+      "red": 15,
+      "green": 39,
+      "blue": 45
     }
   },
   "2069797998": {
@@ -5685,9 +5628,9 @@
   },
   "2071635914": {
     "backgroundColor": {
-      "red": 181,
-      "green": 151,
-      "blue": 90
+      "red": 182,
+      "green": 152,
+      "blue": 91
     }
   },
   "2071635915": {
@@ -5717,9 +5660,9 @@
   },
   "2083630698": {
     "backgroundColor": {
-      "red": 13,
-      "green": 15,
-      "blue": 16
+      "red": 14,
+      "green": 17,
+      "blue": 17
     }
   },
   "2087899461": {
@@ -5747,9 +5690,6 @@
   },
   "2089620975": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
-  },
-  "2090294670": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2091383218": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -5782,14 +5722,14 @@
   "2133500854": {
     "backgroundColor": {
       "red": 213,
-      "green": 178,
-      "blue": 68
+      "green": 177,
+      "blue": 67
     }
   },
   "2133500855": {
     "backgroundColor": {
-      "red": 30,
-      "green": 59,
+      "red": 31,
+      "green": 60,
       "blue": 142
     }
   },
@@ -5831,8 +5771,8 @@
   "2133500861": {
     "backgroundColor": {
       "red": 48,
-      "green": 67,
-      "blue": 64
+      "green": 68,
+      "blue": 65
     }
   },
   "2133500862": {
@@ -5845,8 +5785,8 @@
   "2133500863": {
     "backgroundColor": {
       "red": 248,
-      "green": 86,
-      "blue": 7
+      "green": 85,
+      "blue": 6
     }
   },
   "2133641433": {
@@ -5907,16 +5847,16 @@
   },
   "2176571298": {
     "backgroundColor": {
-      "red": 43,
-      "green": 34,
-      "blue": 53
+      "red": 44,
+      "green": 35,
+      "blue": 54
     }
   },
   "2176571299": {
     "backgroundColor": {
-      "red": 39,
-      "green": 36,
-      "blue": 61
+      "red": 41,
+      "green": 37,
+      "blue": 62
     }
   },
   "2178159620": {
@@ -5946,7 +5886,7 @@
   "2182330181": {
     "backgroundColor": {
       "red": 50,
-      "green": 35,
+      "green": 36,
       "blue": 32
     }
   },
@@ -6237,9 +6177,9 @@
   },
   "2331063861": {
     "backgroundColor": {
-      "red": 101,
-      "green": 40,
-      "blue": 112
+      "red": 102,
+      "green": 41,
+      "blue": 113
     }
   },
   "2332841665": {
@@ -6424,14 +6364,11 @@
       "blue": 127
     }
   },
-  "2418039943": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "2419113768": {
     "backgroundColor": {
-      "red": 163,
-      "green": 151,
-      "blue": 162
+      "red": 160,
+      "green": 148,
+      "blue": 158
     }
   },
   "2419113769": {
@@ -6443,15 +6380,15 @@
   },
   "2420153990": {
     "backgroundColor": {
-      "red": 153,
-      "green": 131,
-      "blue": 99
+      "red": 152,
+      "green": 130,
+      "blue": 98
     }
   },
   "2420153991": {
     "backgroundColor": {
-      "red": 69,
-      "green": 56,
+      "red": 70,
+      "green": 57,
       "blue": 29
     }
   },
@@ -6499,9 +6436,6 @@
   },
   "2449520393": {
     "collectibleHash": 4000000389
-  },
-  "2452190905": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2457660464": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -6563,22 +6497,22 @@
   "2484637936": {
     "backgroundColor": {
       "red": 162,
-      "green": 137,
-      "blue": 142
+      "green": 136,
+      "blue": 141
     }
   },
   "2484637938": {
     "backgroundColor": {
       "red": 37,
       "green": 92,
-      "blue": 136
+      "blue": 137
     }
   },
   "2484637939": {
     "backgroundColor": {
-      "red": 19,
-      "green": 20,
-      "blue": 20
+      "red": 20,
+      "green": 21,
+      "blue": 21
     }
   },
   "2489032048": {
@@ -6590,7 +6524,7 @@
   "2510169794": {
     "backgroundColor": {
       "red": 9,
-      "green": 44,
+      "green": 45,
       "blue": 55
     }
   },
@@ -6626,7 +6560,7 @@
     "backgroundColor": {
       "red": 52,
       "green": 37,
-      "blue": 64
+      "blue": 65
     }
   },
   "2510169805": {
@@ -6656,9 +6590,9 @@
   },
   "2522667664": {
     "backgroundColor": {
-      "red": 169,
-      "green": 5,
-      "blue": 6
+      "red": 170,
+      "green": 6,
+      "blue": 7
     }
   },
   "2523918265": {
@@ -6667,7 +6601,7 @@
   "2525626415": {
     "backgroundColor": {
       "red": 69,
-      "green": 32,
+      "green": 33,
       "blue": 29
     }
   },
@@ -6701,9 +6635,9 @@
   },
   "2526736324": {
     "backgroundColor": {
-      "red": 139,
+      "red": 140,
       "green": 216,
-      "blue": 186
+      "blue": 187
     }
   },
   "2526736325": {
@@ -6717,20 +6651,20 @@
     "backgroundColor": {
       "red": 21,
       "green": 12,
-      "blue": 49
+      "blue": 48
     }
   },
   "2526736327": {
     "backgroundColor": {
-      "red": 79,
-      "green": 27,
-      "blue": 36
+      "red": 56,
+      "green": 22,
+      "blue": 33
     }
   },
   "2526736328": {
     "backgroundColor": {
-      "red": 36,
-      "green": 33,
+      "red": 37,
+      "green": 34,
       "blue": 29
     }
   },
@@ -6758,7 +6692,7 @@
   },
   "2535664168": {
     "backgroundColor": {
-      "red": 104,
+      "red": 105,
       "green": 110,
       "blue": 153
     }
@@ -6772,13 +6706,10 @@
   },
   "2535664170": {
     "backgroundColor": {
-      "red": 104,
-      "green": 110,
-      "blue": 153
+      "red": 106,
+      "green": 112,
+      "blue": 154
     }
-  },
-  "2536853835": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2537840254": {
     "backgroundColor": {
@@ -6806,9 +6737,6 @@
       "blue": 13
     }
   },
-  "2545534684": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "2554219588": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -6817,36 +6745,36 @@
   },
   "2565108496": {
     "backgroundColor": {
-      "red": 57,
-      "green": 22,
+      "red": 58,
+      "green": 23,
       "blue": 60
     }
   },
   "2565108497": {
     "backgroundColor": {
-      "red": 34,
-      "green": 37,
-      "blue": 43
+      "red": 35,
+      "green": 38,
+      "blue": 44
     }
   },
   "2565108498": {
     "backgroundColor": {
       "red": 140,
-      "green": 74,
-      "blue": 61
+      "green": 75,
+      "blue": 62
     }
   },
   "2565108499": {
     "backgroundColor": {
-      "red": 43,
+      "red": 44,
       "green": 32,
-      "blue": 21
+      "blue": 22
     }
   },
   "2565108500": {
     "backgroundColor": {
-      "red": 12,
-      "green": 20,
+      "red": 13,
+      "green": 21,
       "blue": 19
     }
   },
@@ -6859,8 +6787,8 @@
   },
   "2565108502": {
     "backgroundColor": {
-      "red": 58,
-      "green": 61,
+      "red": 59,
+      "green": 62,
       "blue": 50
     }
   },
@@ -6873,7 +6801,7 @@
   },
   "2565108508": {
     "backgroundColor": {
-      "red": 117,
+      "red": 118,
       "green": 80,
       "blue": 92
     }
@@ -6882,7 +6810,7 @@
     "backgroundColor": {
       "red": 241,
       "green": 57,
-      "blue": 56
+      "blue": 57
     }
   },
   "2565792257": {
@@ -6922,7 +6850,7 @@
   "2588647361": {
     "backgroundColor": {
       "red": 18,
-      "green": 41,
+      "green": 42,
       "blue": 70
     }
   },
@@ -6930,7 +6858,7 @@
     "backgroundColor": {
       "red": 80,
       "green": 41,
-      "blue": 20
+      "blue": 21
     }
   },
   "2588647363": {
@@ -6993,8 +6921,8 @@
   },
   "2632846356": {
     "backgroundColor": {
-      "red": 201,
-      "green": 127,
+      "red": 200,
+      "green": 126,
       "blue": 66
     }
   },
@@ -7034,9 +6962,9 @@
   },
   "2664485241": {
     "backgroundColor": {
-      "red": 129,
-      "green": 140,
-      "blue": 90
+      "red": 128,
+      "green": 139,
+      "blue": 89
     }
   },
   "2664485242": {
@@ -7218,30 +7146,30 @@
   },
   "2770607177": {
     "backgroundColor": {
-      "red": 80,
-      "green": 69,
-      "blue": 62
+      "red": 84,
+      "green": 71,
+      "blue": 63
     }
   },
   "2770607178": {
     "backgroundColor": {
-      "red": 59,
-      "green": 74,
-      "blue": 78
+      "red": 60,
+      "green": 75,
+      "blue": 79
     }
   },
   "2770607179": {
     "backgroundColor": {
-      "red": 102,
-      "green": 115,
-      "blue": 142
+      "red": 101,
+      "green": 114,
+      "blue": 140
     }
   },
   "2770607183": {
     "backgroundColor": {
-      "red": 21,
-      "green": 22,
-      "blue": 28
+      "red": 22,
+      "green": 23,
+      "blue": 29
     }
   },
   "2771616579": {
@@ -7299,23 +7227,23 @@
   },
   "2790542792": {
     "backgroundColor": {
-      "red": 37,
-      "green": 31,
-      "blue": 34
+      "red": 38,
+      "green": 32,
+      "blue": 35
     }
   },
   "2790542793": {
     "backgroundColor": {
-      "red": 27,
-      "green": 27,
+      "red": 28,
+      "green": 28,
       "blue": 28
     }
   },
   "2790542794": {
     "backgroundColor": {
-      "red": 46,
-      "green": 40,
-      "blue": 66
+      "red": 47,
+      "green": 41,
+      "blue": 67
     }
   },
   "2790542795": {
@@ -7334,21 +7262,21 @@
   },
   "2790542797": {
     "backgroundColor": {
-      "red": 150,
+      "red": 148,
       "green": 108,
-      "blue": 18
+      "blue": 19
     }
   },
   "2790542798": {
     "backgroundColor": {
       "red": 17,
-      "green": 34,
+      "green": 35,
       "blue": 47
     }
   },
   "2790542799": {
     "backgroundColor": {
-      "red": 19,
+      "red": 20,
       "green": 14,
       "blue": 14
     }
@@ -7400,23 +7328,23 @@
   },
   "2847579024": {
     "backgroundColor": {
-      "red": 47,
+      "red": 48,
       "green": 28,
-      "blue": 30
+      "blue": 31
     }
   },
   "2847579025": {
     "backgroundColor": {
-      "red": 49,
-      "green": 25,
-      "blue": 28
+      "red": 50,
+      "green": 26,
+      "blue": 29
     }
   },
   "2847579026": {
     "backgroundColor": {
       "red": 75,
       "green": 52,
-      "blue": 47
+      "blue": 46
     }
   },
   "2847579027": {
@@ -7435,9 +7363,9 @@
   },
   "2847579029": {
     "backgroundColor": {
-      "red": 32,
-      "green": 33,
-      "blue": 27
+      "red": 33,
+      "green": 34,
+      "blue": 28
     }
   },
   "2847579030": {
@@ -7449,8 +7377,8 @@
   },
   "2847579031": {
     "backgroundColor": {
-      "red": 47,
-      "green": 33,
+      "red": 48,
+      "green": 34,
       "blue": 57
     }
   },
@@ -7483,16 +7411,16 @@
   },
   "2868525733": {
     "backgroundColor": {
-      "red": 58,
-      "green": 92,
+      "red": 60,
+      "green": 93,
       "blue": 99
     }
   },
   "2868525736": {
     "backgroundColor": {
-      "red": 83,
-      "green": 37,
-      "blue": 32
+      "red": 84,
+      "green": 38,
+      "blue": 33
     }
   },
   "2868525737": {
@@ -7511,7 +7439,7 @@
   },
   "2868525739": {
     "backgroundColor": {
-      "red": 58,
+      "red": 57,
       "green": 49,
       "blue": 42
     }
@@ -7579,7 +7507,7 @@
   },
   "2890977363": {
     "backgroundColor": {
-      "red": 43,
+      "red": 44,
       "green": 31,
       "blue": 32
     }
@@ -7606,9 +7534,9 @@
   },
   "2919429251": {
     "backgroundColor": {
-      "red": 66,
-      "green": 58,
-      "blue": 46
+      "red": 69,
+      "green": 61,
+      "blue": 48
     }
   },
   "2919888381": {
@@ -7631,9 +7559,6 @@
   },
   "2925817709": {
     "collectibleHash": 4000000946
-  },
-  "2925956260": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2931525672": {
     "collectibleHash": 4000000423
@@ -7699,8 +7624,8 @@
   "2939572589": {
     "backgroundColor": {
       "red": 61,
-      "green": 63,
-      "blue": 78
+      "green": 64,
+      "blue": 79
     }
   },
   "2939572590": {
@@ -7712,9 +7637,9 @@
   },
   "2939572591": {
     "backgroundColor": {
-      "red": 80,
-      "green": 49,
-      "blue": 82
+      "red": 83,
+      "green": 51,
+      "blue": 85
     }
   },
   "2942440273": {
@@ -7751,7 +7676,7 @@
   },
   "2962058737": {
     "backgroundColor": {
-      "red": 32,
+      "red": 33,
       "green": 39,
       "blue": 28
     }
@@ -7772,15 +7697,15 @@
   },
   "2962058746": {
     "backgroundColor": {
-      "red": 19,
-      "green": 31,
-      "blue": 42
+      "red": 20,
+      "green": 32,
+      "blue": 43
     }
   },
   "2962058747": {
     "backgroundColor": {
-      "red": 35,
-      "green": 56,
+      "red": 36,
+      "green": 57,
       "blue": 81
     }
   },
@@ -7793,9 +7718,9 @@
   },
   "2962058749": {
     "backgroundColor": {
-      "red": 56,
-      "green": 14,
-      "blue": 83
+      "red": 57,
+      "green": 17,
+      "blue": 85
     }
   },
   "2962058750": {
@@ -7815,15 +7740,15 @@
   "2962546544": {
     "backgroundColor": {
       "red": 20,
-      "green": 13,
+      "green": 14,
       "blue": 23
     }
   },
   "2962546545": {
     "backgroundColor": {
-      "red": 28,
+      "red": 29,
       "green": 28,
-      "blue": 26
+      "blue": 27
     }
   },
   "2962546546": {
@@ -7835,9 +7760,9 @@
   },
   "2962546547": {
     "backgroundColor": {
-      "red": 99,
+      "red": 100,
       "green": 81,
-      "blue": 56
+      "blue": 57
     }
   },
   "2962546548": {
@@ -7850,15 +7775,15 @@
   "2962546549": {
     "backgroundColor": {
       "red": 15,
-      "green": 10,
+      "green": 11,
       "blue": 12
     }
   },
   "2962546550": {
     "backgroundColor": {
       "red": 44,
-      "green": 67,
-      "blue": 82
+      "green": 68,
+      "blue": 83
     }
   },
   "2962546551": {
@@ -7877,9 +7802,9 @@
   },
   "2962546553": {
     "backgroundColor": {
-      "red": 110,
-      "green": 35,
-      "blue": 13
+      "red": 111,
+      "green": 37,
+      "blue": 14
     }
   },
   "2962622602": {
@@ -7892,7 +7817,7 @@
     "backgroundColor": {
       "red": 104,
       "green": 145,
-      "blue": 172
+      "blue": 173
     }
   },
   "2967915798": {
@@ -7927,8 +7852,8 @@
   },
   "2979324131": {
     "backgroundColor": {
-      "red": 56,
-      "green": 36,
+      "red": 57,
+      "green": 37,
       "blue": 46
     }
   },
@@ -7974,14 +7899,11 @@
       "blue": 74
     }
   },
-  "2982286163": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "2984066626": {
     "backgroundColor": {
       "red": 52,
       "green": 45,
-      "blue": 26
+      "blue": 27
     }
   },
   "2989179500": {
@@ -8050,16 +7972,16 @@
   },
   "3012879296": {
     "backgroundColor": {
-      "red": 24,
-      "green": 27,
+      "red": 25,
+      "green": 29,
       "blue": 28
     }
   },
   "3012879297": {
     "backgroundColor": {
-      "red": 43,
-      "green": 112,
-      "blue": 95
+      "red": 44,
+      "green": 111,
+      "blue": 94
     }
   },
   "3012879304": {
@@ -8079,7 +8001,7 @@
   "3012879306": {
     "backgroundColor": {
       "red": 126,
-      "green": 33,
+      "green": 34,
       "blue": 99
     }
   },
@@ -8106,8 +8028,8 @@
   },
   "3012879310": {
     "backgroundColor": {
-      "red": 10,
-      "green": 12,
+      "red": 11,
+      "green": 13,
       "blue": 10
     }
   },
@@ -8120,9 +8042,9 @@
   },
   "3013363601": {
     "backgroundColor": {
-      "red": 29,
-      "green": 56,
-      "blue": 51
+      "red": 28,
+      "green": 54,
+      "blue": 50
     }
   },
   "3015685389": {
@@ -8157,9 +8079,9 @@
   },
   "3029657016": {
     "backgroundColor": {
-      "red": 28,
+      "red": 27,
       "green": 28,
-      "blue": 48
+      "blue": 49
     }
   },
   "3029657017": {
@@ -8178,9 +8100,9 @@
   },
   "3029657021": {
     "backgroundColor": {
-      "red": 18,
-      "green": 36,
-      "blue": 38
+      "red": 20,
+      "green": 37,
+      "blue": 39
     }
   },
   "3029657022": {
@@ -8224,9 +8146,6 @@
   "3047869799": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
-  "3055135874": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "3058007494": {
     "collectibleHash": 4000000570
   },
@@ -8260,9 +8179,9 @@
   },
   "3063212164": {
     "backgroundColor": {
-      "red": 128,
-      "green": 97,
-      "blue": 117
+      "red": 126,
+      "green": 96,
+      "blue": 116
     }
   },
   "3063212165": {
@@ -8297,7 +8216,7 @@
     "backgroundColor": {
       "red": 169,
       "green": 171,
-      "blue": 221
+      "blue": 220
     }
   },
   "3063253628": {
@@ -8339,9 +8258,9 @@
   },
   "3079989876": {
     "backgroundColor": {
-      "red": 192,
+      "red": 191,
       "green": 247,
-      "blue": 10
+      "blue": 12
     }
   },
   "3079989877": {
@@ -8440,9 +8359,9 @@
   },
   "3115055261": {
     "backgroundColor": {
-      "red": 43,
-      "green": 45,
-      "blue": 51
+      "red": 44,
+      "green": 46,
+      "blue": 53
     }
   },
   "3118323620": {
@@ -8473,9 +8392,9 @@
   },
   "3136552544": {
     "backgroundColor": {
-      "red": 97,
-      "green": 102,
-      "blue": 152
+      "red": 99,
+      "green": 103,
+      "blue": 153
     }
   },
   "3136552545": {
@@ -8520,9 +8439,6 @@
   },
   "3155738721": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
-  },
-  "3157133380": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3157549001": {
     "collectibleHash": 4000000602
@@ -8629,9 +8545,9 @@
   },
   "3228576704": {
     "backgroundColor": {
-      "red": 40,
-      "green": 38,
-      "blue": 51
+      "red": 41,
+      "green": 39,
+      "blue": 52
     }
   },
   "3228576705": {
@@ -8643,7 +8559,7 @@
   },
   "3228576706": {
     "backgroundColor": {
-      "red": 33,
+      "red": 32,
       "green": 31,
       "blue": 30
     }
@@ -8657,7 +8573,7 @@
   },
   "3228576708": {
     "backgroundColor": {
-      "red": 182,
+      "red": 181,
       "green": 186,
       "blue": 198
     }
@@ -8671,7 +8587,7 @@
   },
   "3228576710": {
     "backgroundColor": {
-      "red": 17,
+      "red": 18,
       "green": 45,
       "blue": 82
     }
@@ -8685,9 +8601,9 @@
   },
   "3228576714": {
     "backgroundColor": {
-      "red": 38,
+      "red": 39,
       "green": 18,
-      "blue": 14
+      "blue": 15
     }
   },
   "3228576715": {
@@ -8778,7 +8694,7 @@
   },
   "3267552998": {
     "backgroundColor": {
-      "red": 40,
+      "red": 41,
       "green": 29,
       "blue": 19
     }
@@ -8823,9 +8739,9 @@
   },
   "3282118732": {
     "backgroundColor": {
-      "red": 126,
-      "green": 63,
-      "blue": 59
+      "red": 124,
+      "green": 61,
+      "blue": 58
     }
   },
   "3302119490": {
@@ -8906,9 +8822,9 @@
   },
   "3338748564": {
     "backgroundColor": {
-      "red": 77,
-      "green": 47,
-      "blue": 99
+      "red": 78,
+      "green": 48,
+      "blue": 100
     }
   },
   "3340490891": {
@@ -8931,9 +8847,9 @@
   },
   "3352019292": {
     "backgroundColor": {
-      "red": 76,
-      "green": 79,
-      "blue": 95
+      "red": 78,
+      "green": 81,
+      "blue": 96
     }
   },
   "3357290009": {
@@ -8944,15 +8860,15 @@
   },
   "3373303016": {
     "backgroundColor": {
-      "red": 33,
+      "red": 34,
       "green": 31,
-      "blue": 8
+      "blue": 9
     }
   },
   "3373303017": {
     "backgroundColor": {
-      "red": 44,
-      "green": 27,
+      "red": 45,
+      "green": 28,
       "blue": 24
     }
   },
@@ -8968,9 +8884,6 @@
     "collectibleHash": 4000000567
   },
   "3379920227": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
-  "3381919092": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3382825552": {
@@ -8996,7 +8909,7 @@
   },
   "3401308133": {
     "backgroundColor": {
-      "red": 77,
+      "red": 76,
       "green": 29,
       "blue": 24
     }
@@ -9073,7 +8986,7 @@
   },
   "3427785728": {
     "backgroundColor": {
-      "red": 40,
+      "red": 41,
       "green": 54,
       "blue": 14
     }
@@ -9083,9 +8996,6 @@
   },
   "3434490958": {
     "collectibleHash": 4000000318
-  },
-  "3440410921": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3442589756": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -9108,9 +9018,6 @@
       "green": 88,
       "blue": 63
     }
-  },
-  "3455140041": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3462529885": {
     "collectibleHash": 4000000877
@@ -9182,21 +9089,21 @@
     "backgroundColor": {
       "red": 42,
       "green": 7,
-      "blue": 39
+      "blue": 38
     }
   },
   "3508476915": {
     "backgroundColor": {
-      "red": 45,
+      "red": 44,
       "green": 35,
       "blue": 42
     }
   },
   "3508476920": {
     "backgroundColor": {
-      "red": 66,
-      "green": 42,
-      "blue": 21
+      "red": 71,
+      "green": 46,
+      "blue": 24
     }
   },
   "3508476924": {
@@ -9217,13 +9124,13 @@
     "backgroundColor": {
       "red": 29,
       "green": 13,
-      "blue": 62
+      "blue": 63
     }
   },
   "3508476927": {
     "backgroundColor": {
-      "red": 38,
-      "green": 14,
+      "red": 39,
+      "green": 15,
       "blue": 22
     }
   },
@@ -9262,9 +9169,6 @@
   "3521438865": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
-  "3527314066": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "3527716502": {
     "collectibleHash": 4000000246
   },
@@ -9284,7 +9188,7 @@
     "backgroundColor": {
       "red": 184,
       "green": 108,
-      "blue": 129
+      "blue": 130
     }
   },
   "3539322898": {
@@ -9332,7 +9236,7 @@
   },
   "3541326823": {
     "backgroundColor": {
-      "red": 58,
+      "red": 57,
       "green": 88,
       "blue": 121
     }
@@ -9368,7 +9272,7 @@
     "backgroundColor": {
       "red": 97,
       "green": 86,
-      "blue": 58
+      "blue": 59
     }
   },
   "3574066955": {
@@ -9456,23 +9360,23 @@
   },
   "3605230073": {
     "backgroundColor": {
-      "red": 149,
+      "red": 148,
       "green": 59,
       "blue": 59
     }
   },
   "3605230074": {
     "backgroundColor": {
-      "red": 14,
+      "red": 13,
       "green": 101,
       "blue": 139
     }
   },
   "3605230075": {
     "backgroundColor": {
-      "red": 62,
-      "green": 68,
-      "blue": 45
+      "red": 50,
+      "green": 55,
+      "blue": 42
     }
   },
   "3605490912": {
@@ -9512,15 +9416,15 @@
   },
   "3605490917": {
     "backgroundColor": {
-      "red": 31,
-      "green": 26,
-      "blue": 20
+      "red": 29,
+      "green": 25,
+      "blue": 19
     }
   },
   "3605490918": {
     "backgroundColor": {
       "red": 52,
-      "green": 72,
+      "green": 73,
       "blue": 85
     }
   },
@@ -9540,9 +9444,9 @@
   },
   "3605490923": {
     "backgroundColor": {
-      "red": 141,
-      "green": 58,
-      "blue": 86
+      "red": 144,
+      "green": 61,
+      "blue": 88
     }
   },
   "3608357319": {
@@ -9580,8 +9484,8 @@
   "3622268498": {
     "backgroundColor": {
       "red": 31,
-      "green": 57,
-      "blue": 74
+      "green": 58,
+      "blue": 76
     }
   },
   "3622268499": {
@@ -9600,23 +9504,23 @@
   },
   "3622268501": {
     "backgroundColor": {
-      "red": 35,
+      "red": 36,
       "green": 28,
-      "blue": 26
+      "blue": 27
     }
   },
   "3622268502": {
     "backgroundColor": {
-      "red": 17,
-      "green": 164,
-      "blue": 214
+      "red": 18,
+      "green": 165,
+      "blue": 212
     }
   },
   "3622268503": {
     "backgroundColor": {
-      "red": 67,
+      "red": 68,
       "green": 114,
-      "blue": 109
+      "blue": 108
     }
   },
   "3622268510": {
@@ -9628,7 +9532,7 @@
   },
   "3622268511": {
     "backgroundColor": {
-      "red": 173,
+      "red": 174,
       "green": 168,
       "blue": 155
     }
@@ -9647,16 +9551,16 @@
   },
   "3635192014": {
     "backgroundColor": {
-      "red": 41,
-      "green": 55,
-      "blue": 68
+      "red": 40,
+      "green": 54,
+      "blue": 65
     }
   },
   "3639046081": {
     "backgroundColor": {
-      "red": 65,
-      "green": 65,
-      "blue": 65
+      "red": 67,
+      "green": 67,
+      "blue": 67
     }
   },
   "3639046089": {
@@ -9675,28 +9579,28 @@
   },
   "3639046091": {
     "backgroundColor": {
-      "red": 31,
-      "green": 31,
-      "blue": 31
+      "red": 32,
+      "green": 32,
+      "blue": 32
     }
   },
   "3639046092": {
     "backgroundColor": {
       "red": 61,
-      "green": 43,
-      "blue": 66
+      "green": 44,
+      "blue": 67
     }
   },
   "3639046093": {
     "backgroundColor": {
-      "red": 45,
-      "green": 45,
-      "blue": 45
+      "red": 46,
+      "green": 46,
+      "blue": 47
     }
   },
   "3639046094": {
     "backgroundColor": {
-      "red": 14,
+      "red": 13,
       "green": 12,
       "blue": 8
     }
@@ -9712,7 +9616,7 @@
     "backgroundColor": {
       "red": 128,
       "green": 133,
-      "blue": 199
+      "blue": 198
     }
   },
   "3639970146": {
@@ -9720,9 +9624,6 @@
   },
   "3651793541": {
     "collectibleHash": 4000000647
-  },
-  "3655783861": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3658937452": {
     "collectibleHash": 4000000339
@@ -9824,8 +9725,8 @@
   },
   "3715790138": {
     "backgroundColor": {
-      "red": 50,
-      "green": 33,
+      "red": 51,
+      "green": 34,
       "blue": 24
     }
   },
@@ -9879,14 +9780,14 @@
     "backgroundColor": {
       "red": 34,
       "green": 33,
-      "blue": 25
+      "blue": 24
     }
   },
   "3735294181": {
     "backgroundColor": {
       "red": 19,
-      "green": 34,
-      "blue": 39
+      "green": 35,
+      "blue": 40
     }
   },
   "3735294182": {
@@ -9912,9 +9813,9 @@
   },
   "3735294185": {
     "backgroundColor": {
-      "red": 127,
-      "green": 134,
-      "blue": 231
+      "red": 129,
+      "green": 133,
+      "blue": 228
     }
   },
   "3736949607": {
@@ -9979,20 +9880,20 @@
   "3752071765": {
     "backgroundColor": {
       "red": 30,
-      "green": 47,
+      "green": 48,
       "blue": 37
     }
   },
   "3752071766": {
     "backgroundColor": {
-      "red": 34,
-      "green": 46,
-      "blue": 148
+      "red": 35,
+      "green": 47,
+      "blue": 147
     }
   },
   "3752071767": {
     "backgroundColor": {
-      "red": 31,
+      "red": 33,
       "green": 36,
       "blue": 38
     }
@@ -10006,16 +9907,16 @@
   },
   "3752071771": {
     "backgroundColor": {
-      "red": 90,
-      "green": 84,
-      "blue": 76
+      "red": 92,
+      "green": 86,
+      "blue": 78
     }
   },
   "3754910498": {
     "backgroundColor": {
-      "red": 115,
-      "green": 88,
-      "blue": 63
+      "red": 117,
+      "green": 91,
+      "blue": 66
     }
   },
   "3759268624": {
@@ -10038,8 +9939,8 @@
   },
   "3778092977": {
     "backgroundColor": {
-      "red": 94,
-      "green": 134,
+      "red": 95,
+      "green": 135,
       "blue": 160
     }
   },
@@ -10101,9 +10002,9 @@
   },
   "3800278197": {
     "backgroundColor": {
-      "red": 201,
-      "green": 172,
-      "blue": 56
+      "red": 200,
+      "green": 171,
+      "blue": 55
     }
   },
   "3800278198": {
@@ -10117,7 +10018,7 @@
     "backgroundColor": {
       "red": 119,
       "green": 139,
-      "blue": 121
+      "blue": 122
     }
   },
   "3801115443": {
@@ -10177,7 +10078,7 @@
     "backgroundColor": {
       "red": 183,
       "green": 95,
-      "blue": 39
+      "blue": 40
     }
   },
   "3828115113": {
@@ -10215,9 +10116,9 @@
   },
   "3844225097": {
     "backgroundColor": {
-      "red": 123,
+      "red": 124,
       "green": 11,
-      "blue": 8
+      "blue": 9
     }
   },
   "3848868583": {
@@ -10225,9 +10126,6 @@
   },
   "3850287637": {
     "collectibleHash": 4000000475
-  },
-  "3857017062": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3858293504": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -10246,14 +10144,14 @@
   },
   "3860733294": {
     "backgroundColor": {
-      "red": 100,
+      "red": 99,
       "green": 45,
       "blue": 31
     }
   },
   "3860733295": {
     "backgroundColor": {
-      "red": 77,
+      "red": 78,
       "green": 39,
       "blue": 28
     }
@@ -10269,9 +10167,6 @@
       "presentationNodeHash": 1406970473
     }
   },
-  "3885657207": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "3886292674": {
     "backgroundColor": {
       "red": 36,
@@ -10281,7 +10176,7 @@
   },
   "3886292675": {
     "backgroundColor": {
-      "red": 198,
+      "red": 199,
       "green": 111,
       "blue": 57
     }
@@ -10290,7 +10185,7 @@
     "backgroundColor": {
       "red": 42,
       "green": 50,
-      "blue": 50
+      "blue": 51
     }
   },
   "3886292681": {
@@ -10351,9 +10246,6 @@
   "3888027476": {
     "collectibleHash": 4000000229
   },
-  "3889480205": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "3889500868": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -10362,30 +10254,30 @@
   },
   "3899944893": {
     "backgroundColor": {
-      "red": 94,
-      "green": 90,
-      "blue": 74
+      "red": 110,
+      "green": 105,
+      "blue": 82
     }
   },
   "3903070390": {
     "backgroundColor": {
       "red": 246,
       "green": 104,
-      "blue": 13
+      "blue": 14
     }
   },
   "3903070391": {
     "backgroundColor": {
-      "red": 42,
-      "green": 34,
-      "blue": 43
+      "red": 44,
+      "green": 35,
+      "blue": 42
     }
   },
   "3903070392": {
     "backgroundColor": {
-      "red": 29,
-      "green": 46,
-      "blue": 76
+      "red": 30,
+      "green": 47,
+      "blue": 77
     }
   },
   "3903070393": {
@@ -10399,21 +10291,21 @@
     "backgroundColor": {
       "red": 95,
       "green": 182,
-      "blue": 230
+      "blue": 229
     }
   },
   "3903070395": {
     "backgroundColor": {
-      "red": 31,
-      "green": 53,
+      "red": 32,
+      "green": 54,
       "blue": 64
     }
   },
   "3903070396": {
     "backgroundColor": {
       "red": 190,
-      "green": 77,
-      "blue": 52
+      "green": 76,
+      "blue": 51
     }
   },
   "3903070397": {
@@ -10448,16 +10340,16 @@
   },
   "3919847952": {
     "backgroundColor": {
-      "red": 11,
-      "green": 95,
-      "blue": 143
+      "red": 12,
+      "green": 96,
+      "blue": 142
     }
   },
   "3919847953": {
     "backgroundColor": {
-      "red": 185,
-      "green": 162,
-      "blue": 145
+      "red": 174,
+      "green": 160,
+      "blue": 156
     }
   },
   "3919847954": {
@@ -10491,7 +10383,7 @@
   "3919847958": {
     "backgroundColor": {
       "red": 197,
-      "green": 18,
+      "green": 19,
       "blue": 75
     }
   },
@@ -10530,9 +10422,9 @@
   },
   "3931192718": {
     "backgroundColor": {
-      "red": 22,
-      "green": 30,
-      "blue": 45
+      "red": 23,
+      "green": 31,
+      "blue": 46
     }
   },
   "3931192719": {
@@ -10547,22 +10439,22 @@
   },
   "3936625536": {
     "backgroundColor": {
-      "red": 205,
-      "green": 194,
-      "blue": 80
+      "red": 204,
+      "green": 193,
+      "blue": 79
     }
   },
   "3936625537": {
     "backgroundColor": {
       "red": 218,
       "green": 31,
-      "blue": 22
+      "blue": 23
     }
   },
   "3936625538": {
     "backgroundColor": {
-      "red": 113,
-      "green": 105,
+      "red": 114,
+      "green": 107,
       "blue": 129
     }
   },
@@ -10582,9 +10474,9 @@
   },
   "3936625541": {
     "backgroundColor": {
-      "red": 36,
-      "green": 59,
-      "blue": 148
+      "red": 35,
+      "green": 58,
+      "blue": 147
     }
   },
   "3936625542": {
@@ -10597,14 +10489,14 @@
   "3936625543": {
     "backgroundColor": {
       "red": 208,
-      "green": 121,
+      "green": 122,
       "blue": 225
     }
   },
   "3936625548": {
     "backgroundColor": {
-      "red": 61,
-      "green": 61,
+      "red": 60,
+      "green": 60,
       "blue": 74
     }
   },
@@ -10628,7 +10520,7 @@
     "backgroundColor": {
       "red": 93,
       "green": 15,
-      "blue": 12
+      "blue": 13
     }
   },
   "3941766715": {
@@ -10669,15 +10561,15 @@
   },
   "3953403251": {
     "backgroundColor": {
-      "red": 35,
+      "red": 36,
       "green": 26,
-      "blue": 79
+      "blue": 80
     }
   },
   "3953403252": {
     "backgroundColor": {
       "red": 230,
-      "green": 90,
+      "green": 89,
       "blue": 55
     }
   },
@@ -10690,23 +10582,23 @@
   },
   "3953403254": {
     "backgroundColor": {
-      "red": 27,
+      "red": 26,
       "green": 28,
-      "blue": 111
+      "blue": 112
     }
   },
   "3953403255": {
     "backgroundColor": {
       "red": 52,
       "green": 69,
-      "blue": 88
+      "blue": 87
     }
   },
   "3953403262": {
     "backgroundColor": {
       "red": 136,
       "green": 139,
-      "blue": 121
+      "blue": 120
     }
   },
   "3953403263": {
@@ -10727,16 +10619,16 @@
   },
   "3961503936": {
     "backgroundColor": {
-      "red": 80,
-      "green": 66,
-      "blue": 106
+      "red": 63,
+      "green": 53,
+      "blue": 111
     }
   },
   "3961503937": {
     "backgroundColor": {
-      "red": 185,
+      "red": 184,
       "green": 183,
-      "blue": 215
+      "blue": 214
     }
   },
   "3961503938": {
@@ -10769,9 +10661,9 @@
   },
   "3961503942": {
     "backgroundColor": {
-      "red": 32,
-      "green": 34,
-      "blue": 34
+      "red": 33,
+      "green": 36,
+      "blue": 36
     }
   },
   "3961503943": {
@@ -10783,9 +10675,9 @@
   },
   "3961503948": {
     "backgroundColor": {
-      "red": 57,
+      "red": 58,
       "green": 68,
-      "blue": 73
+      "blue": 74
     }
   },
   "3961503949": {
@@ -10835,16 +10727,16 @@
   },
   "3970180840": {
     "backgroundColor": {
-      "red": 208,
-      "green": 41,
-      "blue": 27
+      "red": 209,
+      "green": 42,
+      "blue": 28
     }
   },
   "3970180841": {
     "backgroundColor": {
-      "red": 57,
-      "green": 149,
-      "blue": 70
+      "red": 55,
+      "green": 144,
+      "blue": 67
     }
   },
   "3970180842": {
@@ -10863,30 +10755,30 @@
   },
   "3970180844": {
     "backgroundColor": {
-      "red": 37,
-      "green": 34,
-      "blue": 30
+      "red": 38,
+      "green": 35,
+      "blue": 31
     }
   },
   "3970180845": {
     "backgroundColor": {
-      "red": 33,
-      "green": 40,
-      "blue": 78
+      "red": 34,
+      "green": 41,
+      "blue": 79
     }
   },
   "3970180846": {
     "backgroundColor": {
-      "red": 34,
-      "green": 48,
-      "blue": 50
+      "red": 36,
+      "green": 50,
+      "blue": 52
     }
   },
   "3970180847": {
     "backgroundColor": {
       "red": 9,
       "green": 147,
-      "blue": 139
+      "blue": 138
     }
   },
   "3972732999": {
@@ -10904,7 +10796,7 @@
   "3978281650": {
     "backgroundColor": {
       "red": 121,
-      "green": 56,
+      "green": 55,
       "blue": 56
     }
   },
@@ -10918,8 +10810,8 @@
   "3978281652": {
     "backgroundColor": {
       "red": 189,
-      "green": 183,
-      "blue": 168
+      "green": 182,
+      "blue": 167
     }
   },
   "3978281653": {
@@ -10977,30 +10869,30 @@
   },
   "3986958424": {
     "backgroundColor": {
-      "red": 28,
-      "green": 89,
-      "blue": 224
+      "red": 31,
+      "green": 88,
+      "blue": 221
     }
   },
   "3986958425": {
     "backgroundColor": {
-      "red": 119,
-      "green": 11,
-      "blue": 21
+      "red": 120,
+      "green": 13,
+      "blue": 22
     }
   },
   "3986958426": {
     "backgroundColor": {
-      "red": 10,
-      "green": 10,
-      "blue": 10
+      "red": 11,
+      "green": 11,
+      "blue": 11
     }
   },
   "3986958427": {
     "backgroundColor": {
       "red": 22,
-      "green": 28,
-      "blue": 24
+      "green": 29,
+      "blue": 25
     }
   },
   "3986958428": {
@@ -11026,9 +10918,9 @@
   },
   "3986958431": {
     "backgroundColor": {
-      "red": 43,
-      "green": 43,
-      "blue": 43
+      "red": 44,
+      "green": 44,
+      "blue": 44
     }
   },
   "3987651306": {
@@ -11054,13 +10946,13 @@
   "3992231368": {
     "backgroundColor": {
       "red": 34,
-      "green": 45,
+      "green": 46,
       "blue": 43
     }
   },
   "3992231369": {
     "backgroundColor": {
-      "red": 41,
+      "red": 42,
       "green": 39,
       "blue": 17
     }
@@ -11074,14 +10966,14 @@
   },
   "3992231371": {
     "backgroundColor": {
-      "red": 109,
-      "green": 83,
-      "blue": 83
+      "red": 110,
+      "green": 84,
+      "blue": 84
     }
   },
   "3992231372": {
     "backgroundColor": {
-      "red": 99,
+      "red": 100,
       "green": 20,
       "blue": 98
     }
@@ -11130,8 +11022,8 @@
   },
   "4004720051": {
     "backgroundColor": {
-      "red": 153,
-      "green": 141,
+      "red": 152,
+      "green": 140,
       "blue": 122
     }
   },
@@ -11143,9 +11035,9 @@
   },
   "4011836820": {
     "backgroundColor": {
-      "red": 39,
-      "green": 67,
-      "blue": 57
+      "red": 41,
+      "green": 69,
+      "blue": 59
     }
   },
   "4011836821": {
@@ -11164,8 +11056,8 @@
   },
   "4011836825": {
     "backgroundColor": {
-      "red": 74,
-      "green": 40,
+      "red": 75,
+      "green": 41,
       "blue": 49
     }
   },
@@ -11206,9 +11098,9 @@
   },
   "4011836831": {
     "backgroundColor": {
-      "red": 6,
-      "green": 6,
-      "blue": 6
+      "red": 7,
+      "green": 7,
+      "blue": 7
     }
   },
   "4013693850": {
@@ -11249,9 +11141,9 @@
   },
   "4026515849": {
     "backgroundColor": {
-      "red": 18,
-      "green": 53,
-      "blue": 87
+      "red": 16,
+      "green": 50,
+      "blue": 82
     }
   },
   "4027855847": {
@@ -11288,9 +11180,9 @@
   },
   "4040838279": {
     "backgroundColor": {
-      "red": 57,
+      "red": 58,
       "green": 58,
-      "blue": 103
+      "blue": 102
     }
   },
   "4041621012": {
@@ -11312,7 +11204,7 @@
     "backgroundColor": {
       "red": 22,
       "green": 23,
-      "blue": 14
+      "blue": 15
     }
   },
   "4053390172": {
@@ -11336,8 +11228,8 @@
   },
   "4077939641": {
     "backgroundColor": {
-      "red": 130,
-      "green": 111,
+      "red": 135,
+      "green": 115,
       "blue": 100
     }
   },
@@ -11372,8 +11264,8 @@
   "4077939646": {
     "backgroundColor": {
       "red": 72,
-      "green": 77,
-      "blue": 92
+      "green": 78,
+      "blue": 93
     }
   },
   "4077939647": {
@@ -11397,9 +11289,9 @@
   },
   "4085986809": {
     "backgroundColor": {
-      "red": 74,
+      "red": 75,
       "green": 74,
-      "blue": 74
+      "blue": 75
     }
   },
   "4086164721": {
@@ -11441,15 +11333,15 @@
   },
   "4099900663": {
     "backgroundColor": {
-      "red": 18,
-      "green": 16,
-      "blue": 18
+      "red": 20,
+      "green": 17,
+      "blue": 19
     }
   },
   "4099900664": {
     "backgroundColor": {
       "red": 20,
-      "green": 22,
+      "green": 23,
       "blue": 29
     }
   },
@@ -11457,7 +11349,7 @@
     "backgroundColor": {
       "red": 115,
       "green": 132,
-      "blue": 156
+      "blue": 157
     }
   },
   "4099900666": {
@@ -11497,9 +11389,9 @@
   },
   "4099900671": {
     "backgroundColor": {
-      "red": 189,
+      "red": 190,
       "green": 186,
-      "blue": 176
+      "blue": 174
     }
   },
   "4100279244": {
@@ -11539,9 +11431,9 @@
   },
   "4116678225": {
     "backgroundColor": {
-      "red": 171,
-      "green": 20,
-      "blue": 216
+      "red": 175,
+      "green": 26,
+      "blue": 214
     }
   },
   "4117871848": {
@@ -11573,7 +11465,7 @@
   },
   "4132147345": {
     "backgroundColor": {
-      "red": 24,
+      "red": 25,
       "green": 23,
       "blue": 43
     }
@@ -11594,9 +11486,9 @@
   },
   "4132147348": {
     "backgroundColor": {
-      "red": 38,
+      "red": 39,
       "green": 38,
-      "blue": 37
+      "blue": 38
     }
   },
   "4132147349": {
@@ -11624,21 +11516,21 @@
     "backgroundColor": {
       "red": 82,
       "green": 34,
-      "blue": 53
+      "blue": 52
     }
   },
   "4132147353": {
     "backgroundColor": {
-      "red": 76,
-      "green": 181,
-      "blue": 224
+      "red": 77,
+      "green": 182,
+      "blue": 223
     }
   },
   "4133455808": {
     "backgroundColor": {
       "red": 78,
       "green": 104,
-      "blue": 119
+      "blue": 118
     }
   },
   "4133455809": {
@@ -11664,9 +11556,9 @@
   },
   "4133455812": {
     "backgroundColor": {
-      "red": 103,
-      "green": 60,
-      "blue": 44
+      "red": 104,
+      "green": 61,
+      "blue": 45
     }
   },
   "4133455813": {
@@ -11745,15 +11637,15 @@
   "4150233522": {
     "backgroundColor": {
       "red": 11,
-      "green": 155,
-      "blue": 217
+      "green": 156,
+      "blue": 216
     }
   },
   "4150233523": {
     "backgroundColor": {
-      "red": 25,
-      "green": 32,
-      "blue": 50
+      "red": 27,
+      "green": 33,
+      "blue": 51
     }
   },
   "4150233524": {
@@ -11786,20 +11678,17 @@
   },
   "4150233534": {
     "backgroundColor": {
-      "red": 24,
+      "red": 25,
       "green": 81,
-      "blue": 170
+      "blue": 169
     }
   },
   "4150233535": {
     "backgroundColor": {
-      "red": 10,
-      "green": 98,
-      "blue": 168
+      "red": 11,
+      "green": 99,
+      "blue": 167
     }
-  },
-  "4153505435": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "4156964619": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -11811,14 +11700,14 @@
     "backgroundColor": {
       "red": 140,
       "green": 77,
-      "blue": 70
+      "blue": 71
     }
   },
   "4159550314": {
     "backgroundColor": {
-      "red": 39,
-      "green": 32,
-      "blue": 28
+      "red": 37,
+      "green": 30,
+      "blue": 27
     }
   },
   "4159550315": {
@@ -11830,7 +11719,7 @@
   },
   "4159935832": {
     "backgroundColor": {
-      "red": 64,
+      "red": 65,
       "green": 47,
       "blue": 46
     }
@@ -11845,9 +11734,9 @@
   },
   "4162792207": {
     "backgroundColor": {
-      "red": 43,
-      "green": 56,
-      "blue": 71
+      "red": 44,
+      "green": 57,
+      "blue": 72
     }
   },
   "4166489444": {
@@ -11918,9 +11807,9 @@
   },
   "4167011119": {
     "backgroundColor": {
-      "red": 197,
-      "green": 206,
-      "blue": 220
+      "red": 196,
+      "green": 205,
+      "blue": 219
     }
   },
   "4178714180": {
@@ -11932,9 +11821,9 @@
   },
   "4178714181": {
     "backgroundColor": {
-      "red": 86,
-      "green": 15,
-      "blue": 23
+      "red": 88,
+      "green": 14,
+      "blue": 22
     }
   },
   "4178714184": {
@@ -11982,7 +11871,7 @@
   "4178714190": {
     "backgroundColor": {
       "red": 44,
-      "green": 68,
+      "green": 67,
       "blue": 67
     }
   },
@@ -12005,16 +11894,16 @@
   },
   "4181232540": {
     "backgroundColor": {
-      "red": 11,
-      "green": 11,
+      "red": 12,
+      "green": 12,
       "blue": 11
     }
   },
   "4182480224": {
     "backgroundColor": {
-      "red": 42,
-      "green": 43,
-      "blue": 53
+      "red": 44,
+      "green": 44,
+      "blue": 55
     }
   },
   "4182480225": {
@@ -12033,7 +11922,7 @@
   },
   "4182480233": {
     "backgroundColor": {
-      "red": 9,
+      "red": 10,
       "green": 170,
       "blue": 246
     }
@@ -12047,8 +11936,8 @@
   },
   "4182480235": {
     "backgroundColor": {
-      "red": 166,
-      "green": 56,
+      "red": 165,
+      "green": 55,
       "blue": 53
     }
   },
@@ -12061,9 +11950,9 @@
   },
   "4182480237": {
     "backgroundColor": {
-      "red": 12,
+      "red": 13,
       "green": 59,
-      "blue": 23
+      "blue": 24
     }
   },
   "4182480239": {
@@ -12091,28 +11980,28 @@
     "backgroundColor": {
       "red": 97,
       "green": 71,
-      "blue": 70
+      "blue": 69
     }
   },
   "4183788697": {
     "backgroundColor": {
-      "red": 188,
+      "red": 187,
       "green": 175,
-      "blue": 151
+      "blue": 152
     }
   },
   "4183788698": {
     "backgroundColor": {
-      "red": 141,
+      "red": 140,
       "green": 169,
       "blue": 187
     }
   },
   "4183788699": {
     "backgroundColor": {
-      "red": 35,
-      "green": 50,
-      "blue": 113
+      "red": 33,
+      "green": 48,
+      "blue": 112
     }
   },
   "4183788700": {
@@ -12140,28 +12029,28 @@
     "backgroundColor": {
       "red": 69,
       "green": 24,
-      "blue": 179
+      "blue": 180
     }
   },
   "4185095556": {
     "backgroundColor": {
       "red": 53,
       "green": 35,
-      "blue": 25
+      "blue": 26
     }
   },
   "4185095557": {
     "backgroundColor": {
       "red": 53,
-      "green": 60,
+      "green": 59,
       "blue": 56
     }
   },
   "4185095558": {
     "backgroundColor": {
-      "red": 98,
+      "red": 99,
       "green": 145,
-      "blue": 122
+      "blue": 123
     }
   },
   "4185095559": {
@@ -12270,22 +12159,22 @@
   "4242592192": {
     "backgroundColor": {
       "red": 31,
-      "green": 51,
-      "blue": 57
+      "green": 52,
+      "blue": 58
     }
   },
   "4242592193": {
     "backgroundColor": {
-      "red": 46,
+      "red": 47,
       "green": 15,
       "blue": 22
     }
   },
   "4242592195": {
     "backgroundColor": {
-      "red": 101,
-      "green": 17,
-      "blue": 19
+      "red": 102,
+      "green": 18,
+      "blue": 20
     }
   },
   "4247137339": {
@@ -12305,9 +12194,9 @@
   },
   "4261480748": {
     "backgroundColor": {
-      "red": 61,
-      "green": 97,
-      "blue": 114
+      "red": 62,
+      "green": 98,
+      "blue": 115
     }
   },
   "4261480749": {
@@ -12320,7 +12209,7 @@
   "4261480750": {
     "backgroundColor": {
       "red": 54,
-      "green": 20,
+      "green": 21,
       "blue": 12
     }
   },
