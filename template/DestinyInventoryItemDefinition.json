@@ -198,5 +198,11 @@
     "displayProperties": {
       "description": "A reward multiplier, grants a bonus weapon or armour drop."
     }
+  },
+  "1753923263": {
+    "itemTypeDisplayName": "Axe"
+  },
+  "3170398481": {
+    "itemTypeDisplayName": "Axe"
   }
 }
