@@ -252,5 +252,17 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Stop an opponent's Super with your Super."
+  },
+  "timeBonus": {
+    "statName": "Time Bonus"
+  },
+  "challengeMultiplier": {
+    "statName": "Challenge Multiplier"
+  },
+  "rewardMultiplier": {
+    "statName": "Reward Multiplier"
+  },
+  "rewardScore": {
+    "statName": "Reward Score"
   }
 }
