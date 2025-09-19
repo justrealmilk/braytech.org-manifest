@@ -250,7 +250,11 @@
       "fireteamCombinations",
       "currentCompetitiveRating",
       "motesDeposited",
-      "motesLost"
+      "motesLost",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -742,7 +746,11 @@
       "activitiesConquered",
       "secondsPlayedDistribution",
       "playerEncounters",
-      "fireteamCombinations"
+      "fireteamCombinations",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
@@ -1090,7 +1098,11 @@
       "activitiesConquered",
       "secondsPlayedDistribution",
       "playerEncounters",
-      "fireteamCombinations"
+      "fireteamCombinations",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2156849113",
@@ -1286,7 +1298,11 @@
     "DestinyHistoricalStatsDefinition.json": [
       "kills",
       "deaths",
-      "score"
+      "score",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "3329390250",
@@ -1675,7 +1691,11 @@
       "activitiesConquered",
       "secondsPlayedDistribution",
       "playerEncounters",
-      "fireteamCombinations"
+      "fireteamCombinations",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1371343017",
@@ -1880,6 +1900,12 @@
     "DestinyChecklistDefinition.json": [
       "1062690000",
       "2526495740"
+    ],
+    "DestinyHistoricalStatsDefinition.json": [
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1753923263",
@@ -2375,7 +2401,11 @@
       "Medals_pvp_medal_ib_match_overtime",
       "Medals_pvp_medal_ib_cycle",
       "Medals_pvp_medal_ib_first_strike",
-      "Medals_pvp_medal_ib_super_shutdown"
+      "Medals_pvp_medal_ib_super_shutdown",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -3205,7 +3235,11 @@
       "Medals_pvp_medal_ib_match_overtime",
       "Medals_pvp_medal_ib_cycle",
       "Medals_pvp_medal_ib_first_strike",
-      "Medals_pvp_medal_ib_super_shutdown"
+      "Medals_pvp_medal_ib_super_shutdown",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "1",
@@ -3923,7 +3957,11 @@
       "activitiesConquered",
       "secondsPlayedDistribution",
       "playerEncounters",
-      "fireteamCombinations"
+      "fireteamCombinations",
+      "timeBonus",
+      "challengeMultiplier",
+      "rewardMultiplier",
+      "rewardScore"
     ],
     "DestinyInventoryItemDefinition.json": [
       "2643364263",
