@@ -77,7 +77,13 @@
     "children": {
       "views": [
         {
+          "viewHash": "collections-explorer"
+        },
+        {
           "viewHash": "collections-sets"
+        },
+        {
+          "viewHash": "collections-sets-bonuses"
         },
         {
           "viewHash": "collections-lore"
@@ -90,9 +96,6 @@
         },
         {
           "viewHash": "collections-metrics"
-        },
-        {
-          "viewHash": "collections-explorer"
         },
         {
           "viewHash": "collections-eververse"
