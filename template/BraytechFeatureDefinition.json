@@ -49,10 +49,22 @@
       "lore"
     ]
   },
+  "collections-explorer": {
+    "displayProperties": {
+      "name": "Explorer",
+      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
+    }
+  },
   "collections-sets": {
     "displayProperties": {
       "name": "Sets",
       "description": "Curated collections of precious goods from specific places including raids and dungeons."
+    }
+  },
+  "collections-sets-bonuses": {
+    "displayProperties": {
+      "name": "Armor Set Bonuses",
+      "description": "Some armor sets provide special bonuses when multiple pieces from the same set are equipped. These bonuses can significantly enhance your Guardian's capabilities in various activities."
     }
   },
   "collections-lore": {
@@ -77,12 +89,6 @@
     "displayProperties": {
       "name": "Stat Trackers",
       "description": "Stat trackers can be applied to your emblem from its inspect view. Applied trackers will appear on your nameplate whenever visible"
-    }
-  },
-  "collections-explorer": {
-    "displayProperties": {
-      "name": "Explorer",
-      "description": "A structured, hierarchical look into your Collections. Expand and collapse nodes to trace your journey from broad pursuits to specific feats. Compare progress with fireteam members, clanmates, or others—directly within the table. Every checkbox tells a story."
     }
   },
   "collections-eververse": {
