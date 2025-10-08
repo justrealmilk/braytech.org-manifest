@@ -239,6 +239,9 @@
   "63857986": {
     "collectibleHash": 4000000648
   },
+  "64444640": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "66879345": {
     "collectibleHash": 4000000517
   },
@@ -487,6 +490,27 @@
       "blue": 54
     }
   },
+  "181783020": {
+    "backgroundColor": {
+      "red": 41,
+      "green": 19,
+      "blue": 49
+    }
+  },
+  "181783021": {
+    "backgroundColor": {
+      "red": 63,
+      "green": 22,
+      "blue": 25
+    }
+  },
+  "181783023": {
+    "backgroundColor": {
+      "red": 30,
+      "green": 25,
+      "blue": 16
+    }
+  },
   "181853784": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -522,6 +546,9 @@
       "blue": 64
     }
   },
+  "188737361": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "200218998": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -543,6 +570,9 @@
   "214374661": {
     "collectibleHash": 4000000324
   },
+  "215591502": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "215618528": {
     "collectibleHash": 4000000269
   },
@@ -553,6 +583,9 @@
     "collectibleHash": 4000000543
   },
   "220835462": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "224100863": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "225456309": {
@@ -629,6 +662,9 @@
   },
   "285267633": {
     "collectibleHash": 4000000773
+  },
+  "289078408": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "292292653": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -715,6 +751,9 @@
   "300144357": {
     "collectibleHash": 4000000707
   },
+  "301936628": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "302801923": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -795,6 +834,9 @@
   },
   "340413553": {
     "collectibleHash": 4000000701
+  },
+  "341592307": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "346333546": {
     "collectibleHash": 4000000683
@@ -960,6 +1002,21 @@
     "collectibleHash": 4000000763
   },
   "398230678": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "399418777": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "399418778": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "399418779": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "399418780": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "399418781": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "402210664": {
@@ -1290,6 +1347,9 @@
   "586497084": {
     "collectibleHash": 4000000275
   },
+  "586558916": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "586567709": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -1365,6 +1425,9 @@
   },
   "621701973": {
     "collectibleHash": 4000000912
+  },
+  "621810011": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "626176103": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -1496,6 +1559,9 @@
   },
   "726895548": {
     "collectibleHash": 4000000544
+  },
+  "738822020": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "738873646": {
     "backgroundColor": {
@@ -1967,6 +2033,9 @@
   "877839380": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "880888915": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "882147437": {
     "displayProperties": {
       "presentationNodeHash": 2420973244
@@ -1987,6 +2056,9 @@
   "882480511": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "883847469": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "885860628": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -1995,6 +2067,9 @@
   },
   "889173106": {
     "collectibleHash": 4000000506
+  },
+  "893405206": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "893502917": {
     "backgroundColor": {
@@ -2103,14 +2178,29 @@
       "blue": 39
     }
   },
+  "915477242": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "915477244": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "915477245": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "916211206": {
     "collectibleHash": 4000000566
   },
   "918690421": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "918791342": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "918947620": {
     "collectibleHash": 4000000310
+  },
+  "919335953": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "922888618": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -2281,6 +2371,9 @@
   "1037921423": {
     "collectibleHash": 4000000573
   },
+  "1045685184": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1045929536": {
     "collectibleHash": 4000000469
   },
@@ -2436,6 +2529,9 @@
   "1092391807": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "1098573268": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1098828194": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -2444,6 +2540,9 @@
   },
   "1102685448": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "1112535733": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1120463913": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -2781,6 +2880,18 @@
       "blue": 50
     }
   },
+  "1214706360": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1214706366": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1214706367": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1218004886": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1219011612": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -2898,6 +3009,9 @@
       "blue": 34
     }
   },
+  "1233143739": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1234797759": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -2908,6 +3022,9 @@
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1237928189": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1242668855": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1243101200": {
@@ -2978,6 +3095,9 @@
       "green": 35,
       "blue": 25
     }
+  },
+  "1274138144": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1275776230": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -3105,6 +3225,9 @@
   },
   "1333212979": {
     "collectibleHash": 4000000642
+  },
+  "1334187908": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1338552830": {
     "collectibleHash": 4000000758
@@ -3770,6 +3893,12 @@
   "1647410496": {
     "collectibleHash": 4000000280
   },
+  "1649287022": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1649642650": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1650510309": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -3938,6 +4067,9 @@
   "1711459689": {
     "collectibleHash": 4000000797
   },
+  "1713927036": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1714370696": {
     "backgroundColor": {
       "red": 101,
@@ -4104,8 +4236,14 @@
   "1740156933": {
     "collectibleHash": 4000000902
   },
+  "1745619962": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1748608556": {
     "collectibleHash": 4000000297
+  },
+  "1749218602": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1749473785": {
     "collectibleHash": 4000000405
@@ -4344,6 +4482,9 @@
   "1799214498": {
     "collectibleHash": 4000000277
   },
+  "1801552541": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1801784637": {
     "collectibleHash": 4000000321
   },
@@ -4378,8 +4519,14 @@
   "1824935794": {
     "collectibleHash": 4000000858
   },
+  "1835738552": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "1843912327": {
     "collectibleHash": 4000000827
+  },
+  "1845046434": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1845747102": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -4816,6 +4963,9 @@
     "collectibleHash": 4000000664
   },
   "1928728959": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "1931473593": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "1931729143": {
@@ -5487,6 +5637,9 @@
       "blue": 107
     }
   },
+  "2028247893": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2028925874": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -5533,6 +5686,9 @@
   "2039246691": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "2040522711": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2041281101": {
     "collectibleHash": 4000000782
   },
@@ -5549,6 +5705,12 @@
   "2054709461": {
     "collectibleHash": 4000000291
   },
+  "2055757418": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "2056043681": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2058585645": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -5557,6 +5719,9 @@
   },
   "2064956040": {
     "collectibleHash": 4000000620
+  },
+  "2065740688": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2067971469": {
     "collectibleHash": 4000000657
@@ -5667,6 +5832,9 @@
   },
   "2087899461": {
     "collectibleHash": 4000000943
+  },
+  "2089379749": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2089583446": {
     "displayProperties": {
@@ -5807,6 +5975,9 @@
   },
   "2144724879": {
     "collectibleHash": 4000000691
+  },
+  "2145013895": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2147358304": {
     "collectibleHash": 4000000347
@@ -5949,6 +6120,9 @@
   "2203539122": {
     "collectibleHash": 4000000686
   },
+  "2203771129": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2213036539": {
     "collectibleHash": 4000000865
   },
@@ -6085,6 +6259,9 @@
       "blue": 24
     }
   },
+  "2277688375": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2281276269": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -6134,6 +6311,9 @@
   },
   "2300270673": {
     "collectibleHash": 4000000880
+  },
+  "2314454779": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2316417452": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -6234,6 +6414,9 @@
   },
   "2367025562": {
     "collectibleHash": 4000000698
+  },
+  "2367446526": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2367924731": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -6336,6 +6519,9 @@
       "blue": 19
     }
   },
+  "2403342226": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2403841984": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -6363,6 +6549,9 @@
       "green": 79,
       "blue": 127
     }
+  },
+  "2418889708": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2419113768": {
     "backgroundColor": {
@@ -6404,9 +6593,6 @@
   "2427328578": {
     "collectibleHash": 4000000767
   },
-  "2431479930": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
-  },
   "2432107793": {
     "collectibleHash": 4000000857
   },
@@ -6439,6 +6625,9 @@
   },
   "2457660464": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "2458488476": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2460229323": {
     "displayProperties": {
@@ -6577,6 +6766,9 @@
       "blue": 71
     }
   },
+  "2514487190": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2516065187": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -6674,6 +6866,9 @@
       "green": 31,
       "blue": 49
     }
+  },
+  "2526839481": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2527061042": {
     "collectibleHash": 4000000844
@@ -6907,6 +7102,9 @@
   "2624974641": {
     "collectibleHash": 4000000651
   },
+  "2625070678": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2626152325": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -6918,6 +7116,9 @@
   },
   "2631183969": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "2632141946": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2632846356": {
     "backgroundColor": {
@@ -7041,6 +7242,9 @@
   "2733510056": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
+  "2734173653": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2736703249": {
     "collectibleHash": 4000000575
   },
@@ -7055,6 +7259,9 @@
   },
   "2737926379": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "2738329952": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2746828936": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -7076,6 +7283,9 @@
   },
   "2748215252": {
     "collectibleHash": 4000000909
+  },
+  "2748946556": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "2750833232": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -7667,6 +7877,9 @@
   "2954040647": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
+  "2955258995": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "2962058736": {
     "backgroundColor": {
       "red": 72,
@@ -8125,6 +8338,9 @@
   "3035129091": {
     "collectibleHash": 4000000739
   },
+  "3037180287": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3043004564": {
     "collectibleHash": 4000000367
   },
@@ -8148,6 +8364,9 @@
   },
   "3058007494": {
     "collectibleHash": 4000000570
+  },
+  "3061609357": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3063212160": {
     "backgroundColor": {
@@ -8221,6 +8440,18 @@
   },
   "3063253628": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "3065473122": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3065473123": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3065473124": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3065473125": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3066778061": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -8381,6 +8612,9 @@
   "3122427354": {
     "collectibleHash": 4000000486
   },
+  "3124459510": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3125136030": {
     "collectibleHash": 4000000855
   },
@@ -8497,6 +8731,9 @@
   "3201545584": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "3204013319": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3204522881": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
@@ -8539,6 +8776,9 @@
   },
   "3219933759": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
+  },
+  "3220436566": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3225062820": {
     "collectibleHash": 4000000731
@@ -8630,6 +8870,9 @@
   },
   "3234481163": {
     "collectibleHash": 4000000185
+  },
+  "3238267498": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3239301540": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -8845,6 +9088,9 @@
   "3348304837": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "3351054271": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3352019292": {
     "backgroundColor": {
       "red": 78,
@@ -8963,6 +9209,9 @@
   "3414847998": {
     "collectibleHash": 4000000377
   },
+  "3418714006": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3423657808": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -8991,6 +9240,9 @@
       "blue": 14
     }
   },
+  "3432641527": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3434213444": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -9001,6 +9253,9 @@
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
   "3443091709": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3448685137": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3449153538": {
@@ -9055,6 +9310,12 @@
   "3476824264": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
+  "3478033487": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3479545148": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3485775922": {
     "collectibleHash": 4000000621
   },
@@ -9079,6 +9340,9 @@
   },
   "3494199208": {
     "collectibleHash": 4000000465
+  },
+  "3498489831": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3505399417": {
     "displayProperties": {
@@ -9287,6 +9551,9 @@
   "3581655471": {
     "collectibleHash": 4000000373
   },
+  "3581710179": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3582457406": {
     "collectibleHash": 4000000336
   },
@@ -9299,6 +9566,9 @@
       "green": 6,
       "blue": 6
     }
+  },
+  "3591179300": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3596399040": {
     "collectibleHash": 4000000829
@@ -9452,6 +9722,9 @@
   "3608357319": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
+  "3609337707": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3611093853": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
@@ -9537,11 +9810,17 @@
       "blue": 155
     }
   },
+  "3627888524": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3631203817": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
   "3631942882": {
     "collectibleHash": 4000000288
+  },
+  "3632546175": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3632912674": {
     "collectibleHash": 4000000278
@@ -9624,6 +9903,9 @@
   },
   "3651793541": {
     "collectibleHash": 4000000647
+  },
+  "3656138192": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3658937452": {
     "collectibleHash": 4000000339
@@ -9721,6 +10003,12 @@
     "uiItemDisplayStyle": "ui_display_style_bonus"
   },
   "3711749129": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3713555898": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3714520045": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3715790138": {
@@ -9837,6 +10125,9 @@
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3748665538": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
+  "3749843461": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3750289651": {
@@ -10064,6 +10355,9 @@
   },
   "3819277880": {
     "collectibleHash": 4000000216
+  },
+  "3822081521": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3825210658": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -10781,14 +11075,14 @@
       "blue": 138
     }
   },
+  "3972041303": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "3972732999": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3973089432": {
     "collectibleHash": 4000000883
-  },
-  "3973201757": {
-    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "3976601076": {
     "uiItemDisplayStyle": "ui_display_style_engram_alt"
@@ -11296,6 +11590,9 @@
   },
   "4086164721": {
     "collectibleHash": 4000000290
+  },
+  "4087217568": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "4088764447": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
@@ -11882,6 +12179,9 @@
       "blue": 36
     }
   },
+  "4178739118": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
+  },
   "4179243516": {
     "collectibleHash": 4000000890
   },
@@ -12080,6 +12380,9 @@
   },
   "4198587027": {
     "collectibleHash": 4000000866
+  },
+  "4199187256": {
+    "uiItemDisplayStyle": "ui_display_style_engram_alt"
   },
   "4200341748": {
     "uiItemDisplayStyle": "ui_display_style_bonus"
