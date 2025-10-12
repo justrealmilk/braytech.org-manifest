@@ -383,5 +383,8 @@
   },
   "display_team_multiplier": {
     "unitType": 8
+  },
+  "performance_grade_multiplier": {
+    "unitType": 8
   }
 }
