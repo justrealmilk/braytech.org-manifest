@@ -234,6 +234,14 @@
   },
   "2559374375": {
     "pgcrImageLocal": "/static/images/screenshots/activity/dungeon_pit_of_heresy.jpg"
+  },  
+  "1325548022": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/dungeon_pit_of_heresy.jpg",
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
   },
   "2381413764": {
     "pgcrImageLocal": "/static/images/screenshots/activity/raid_root_of_nightmares.jpg"
@@ -371,6 +379,21 @@
   "3012587626": {
     "pgcrImageLocal": "/static/images/screenshots/activity/dungeon_duality.jpg"
   },
+  "3584571989": {
+    "pgcrImageLocal": "/static/images/screenshots/activity/dungeon_duality.jpg",    
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
+  },  
+  "3996127757": {
+    "activityTypeHash": 608898761,
+    "directActivityModeHash": 608898761,
+    "directActivityModeType": 82,
+    "activityModeHashes": [608898761, 1164760493],
+    "activityModeTypes": [82, 7]
+  },
   "74501540": {
     "pgcrImageLocal": "/static/images/screenshots/activity/whisper.jpg"
   },
@@ -415,27 +438,6 @@
   },
   "3830679567": {
     "activityTypeHash": 1589650888
-  },
-  "1325548022": {
-    "activityTypeHash": 608898761,
-    "directActivityModeHash": 608898761,
-    "directActivityModeType": 82,
-    "activityModeHashes": [608898761, 1164760493],
-    "activityModeTypes": [82, 7]
-  },
-  "3996127757": {
-    "activityTypeHash": 608898761,
-    "directActivityModeHash": 608898761,
-    "directActivityModeType": 82,
-    "activityModeHashes": [608898761, 1164760493],
-    "activityModeTypes": [82, 7]
-  },
-  "3584571989": {
-    "activityTypeHash": 608898761,
-    "directActivityModeHash": 608898761,
-    "directActivityModeType": 82,
-    "activityModeHashes": [608898761, 1164760493],
-    "activityModeTypes": [82, 7]
   },
   "154066551": {
     "activityTypeHash": 1728319841
