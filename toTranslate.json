@@ -229,6 +229,7 @@
       "character-inventory",
       "character-loadouts",
       "quests-pathfinder",
+      "activity-heat",
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
@@ -691,6 +692,7 @@
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
+      "activity-heat",
       "manifest",
       "dresstiny"
     ],
@@ -1045,6 +1047,7 @@
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
+      "activity-heat",
       "manifest",
       "dresstiny"
     ],
@@ -1284,7 +1287,8 @@
       "collections-sets-bonuses",
       "collections-eververse",
       "triumphs-explorer",
-      "operations-seasonal-hub"
+      "operations-seasonal-hub",
+      "activity-heat"
     ],
     "DestinyDestinationDefinition.json": [
       "4076196532"
@@ -1527,6 +1531,7 @@
       "operations-event",
       "operations-seasonal-hub",
       "quests-pathfinder",
+      "activity-heat",
       "settings-legend",
       "manifest",
       "dresstiny"
@@ -1909,7 +1914,8 @@
       "1759034749"
     ],
     "BraytechFeatureDefinition.json": [
-      "collections-sets-bonuses"
+      "collections-sets-bonuses",
+      "activity-heat"
     ],
     "DestinyChecklistDefinition.json": [
       "1062690000",
@@ -2050,6 +2056,7 @@
       "quests-pathfinder",
       "activity-carnage",
       "activity-graphs",
+      "activity-heat",
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
@@ -2740,6 +2747,7 @@
       "activity-bookmarks",
       "activity-graphs",
       "activity-series",
+      "activity-heat",
       "settings",
       "settings-common",
       "settings-advanced",
@@ -2867,6 +2875,7 @@
       "quests-pathfinder",
       "activity-carnage",
       "activity-graphs",
+      "activity-heat",
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
@@ -3129,6 +3138,7 @@
       "quests-pathfinder",
       "activity-carnage",
       "activity-graphs",
+      "activity-heat",
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
@@ -3696,6 +3706,7 @@
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
+      "activity-heat",
       "settings-subscriptions",
       "settings-legend",
       "manifest",
@@ -4332,6 +4343,7 @@
       "quests-pathfinder",
       "activity-carnage",
       "activity-graphs",
+      "activity-heat",
       "settings-common",
       "settings-advanced",
       "settings-push-notifications",
