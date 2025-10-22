@@ -55,7 +55,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -564,7 +565,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -919,7 +921,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -1268,7 +1271,8 @@
       "title-score",
       "title-score-rank",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -1377,7 +1381,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -1910,6 +1915,9 @@
     ]
   },
   "ja": {
+    "BraytechCommonDefinition.json": [
+      "activity-heat-day"
+    ],
     "DestinyCollectibleDefinition.json": [
       "1759034749"
     ],
@@ -1950,7 +1958,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinySeasonDefinition.json": [
       "965757574",
@@ -2697,7 +2706,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "BraytechFeatureDefinition.json": [
       "clan",
@@ -2843,7 +2853,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "BraytechFeatureDefinition.json": [
       "clan-about",
@@ -3003,7 +3014,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinySeasonDefinition.json": [
       "965757574",
@@ -3575,7 +3587,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
@@ -4243,7 +4256,8 @@
       "dresstiny-equip",
       "dresstiny-edit",
       "gear-tier-weapon",
-      "gear-tier-armor"
+      "gear-tier-armor",
+      "activity-heat-day"
     ],
     "DestinyTraitDefinition.json": [
       "2878306895"
