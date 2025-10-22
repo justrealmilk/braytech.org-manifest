@@ -483,6 +483,9 @@
         },
         {
           "viewHash": "activity-series"
+        },
+        {
+          "viewHash": "activity-heat"
         }
       ]
     }
@@ -520,6 +523,15 @@
     },
     "to": "/activity/series",
     "keywords": ["reports", "pgcr", "stats", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
+  },
+  "activity-heat": {
+    "hash": "activity-heat",
+    "displayProperties": {
+      "name": "Heat",
+      "description": "Your playtime across all of Destiny 2."
+    },
+    "to": "/activity/heat",
+    "keywords": ["reports", "pgcr", "stats", "playtime"]
   },
   "settings": {
     "hash": "settings",
