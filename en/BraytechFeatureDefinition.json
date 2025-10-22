@@ -513,7 +513,8 @@
       "name": "Graphs",
       "description": "Activities plotted against graphs, for the statistically inclined."
     },
-    "to": "/activity/graphs"
+    "to": "/activity/graphs",
+    "keywords": ["reports", "pgcr", "stats", "playtime", "activity"]
   },
   "activity-series": {
     "hash": "activity-series",
@@ -522,16 +523,16 @@
       "description": "Triumph under the most perilous conditions, reports of your fireteams' first victories against our greatest adversaries."
     },
     "to": "/activity/series",
-    "keywords": ["reports", "pgcr", "stats", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
+    "keywords": ["reports", "pgcr", "stats", "activity", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
   },
   "activity-heat": {
     "hash": "activity-heat",
     "displayProperties": {
       "name": "Heat",
-      "description": "Your playtime across all of Destiny 2."
+      "description": "Your playtime across all of Destiny 2. Discover unhealthy levels of participation in past seasons. Touch any day in the season to see more information.\n\nEach calendar day syncs with in-game time–days begin at reset. The cell colour indicates the relative time played that day compared to all other days in that season."
     },
     "to": "/activity/heat",
-    "keywords": ["reports", "pgcr", "stats", "playtime"]
+    "keywords": ["reports", "pgcr", "stats", "playtime", "activity"]
   },
   "settings": {
     "hash": "settings",

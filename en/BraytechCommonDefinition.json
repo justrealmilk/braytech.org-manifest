@@ -480,5 +480,12 @@
       "name": "Armor Tier",
       "description": "Higher tier gear provides additional stats and may come with additional benefits depending on the type of gear.\n\nTIER 1 \n52 - 57\n\nTIER 2 \n58 - 63\n\nTIER 3 \n64 - 69\n\nTIER 4 \n70 - 75\n\nTIER 5 \n75 + Stat Tuning"
     }
+  },
+  "activity-heat-day": {
+    "displayProperties": {
+      "name": "Heat",
+      "description": ""
+    },
+    "flavorText": "Insight into the nominated day."
   }
 }
