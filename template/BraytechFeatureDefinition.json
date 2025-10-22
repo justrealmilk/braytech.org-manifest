@@ -419,6 +419,18 @@
       "matches"
     ]
   },
+  "activity-heat": {
+    "displayProperties": {
+      "name": "Heat",
+      "description": "Your playtime across all of Destiny 2."
+    },
+    "keywords": [
+      "reports",
+      "pgcr",
+      "stats",
+      "playtime"
+    ]
+  },
   "settings": {
     "displayProperties": {
       "name": "Settings",
