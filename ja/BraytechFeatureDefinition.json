@@ -386,12 +386,6 @@
       "試合"
     ]
   },
-  "activity-graphs": {
-    "displayProperties": {
-      "name": "統計グラフ",
-      "description": "アクティビティをグラフにしたもの（統計に強い方向け)"
-    }
-  },
   "activity-series": {
     "displayProperties": {
       "name": "シリーズ",

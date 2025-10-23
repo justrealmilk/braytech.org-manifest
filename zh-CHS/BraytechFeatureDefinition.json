@@ -209,12 +209,6 @@
       "description": "查看你所添加书签的活动"
     }
   },
-  "activity-graphs": {
-    "displayProperties": {
-      "name": "图表",
-      "description": "根据所选活动类型的近期数据所绘制的图表，供那些需要参考的使用。"
-    }
-  },
   "activity-series": {
     "displayProperties": {
       "name": "系列活动",

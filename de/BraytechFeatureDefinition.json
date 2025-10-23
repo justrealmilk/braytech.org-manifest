@@ -167,12 +167,6 @@
       "description": "Aktivitäten, die du mit einem Lesezeichen versehen hast"
     }
   },
-  "activity-graphs": {
-    "displayProperties": {
-      "name": "Graphen",
-      "description": "Aktivitäten auf Graphen dargestellt, für Statistikfreunde."
-    }
-  },
   "activity-series": {
     "displayProperties": {
       "description": "Triumphe under den risikoreichsten Umständen. Erzählungen der ersten Siege deines Einsatztrupps gegen unsere größten Widersacher"

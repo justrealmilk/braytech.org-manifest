@@ -349,12 +349,6 @@
       "partidas"
     ]
   },
-  "activity-graphs": {
-    "displayProperties": {
-      "name": "Gráficos",
-      "description": "Actividades representadas en gráficos, para los interesados en la estadística."
-    }
-  },
   "activity-series": {
     "displayProperties": {
       "name": "Series",
