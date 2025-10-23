@@ -476,16 +476,13 @@
           "viewHash": "activity-carnage"
         },
         {
+          "viewHash": "activity-heat"
+        },
+        {
           "viewHash": "activity-bookmarks"
         },
         {
-          "viewHash": "activity-graphs"
-        },
-        {
           "viewHash": "activity-series"
-        },
-        {
-          "viewHash": "activity-heat"
         }
       ]
     }
@@ -498,6 +495,15 @@
     },
     "to": "/activity"
   },
+  "activity-heat": {
+    "hash": "activity-heat",
+    "displayProperties": {
+      "name": "Heat",
+      "description": "Your playtime across all of Destiny 2. Discover unhealthy levels of participation in past seasons. Touch any day in the season to see more information.\n\nEach calendar day syncs with in-game time–days begin at reset. The cell colour indicates the relative time played that day compared to all other days in that season."
+    },
+    "to": "/activity/heat",
+    "keywords": ["reports", "pgcr", "stats", "playtime", "activity"]
+  },
   "activity-bookmarks": {
     "hash": "activity-bookmarks",
     "displayProperties": {
@@ -507,15 +513,6 @@
     "to": "/activity/bookmarks",
     "keywords": ["reports", "pgcr", "raids", "lost sectors", "nightfalls", "strikes", "crucible", "trials", "competitive", "matches"]
   },
-  "activity-graphs": {
-    "hash": "activity-graphs",
-    "displayProperties": {
-      "name": "Graphs",
-      "description": "Activities plotted against graphs, for the statistically inclined."
-    },
-    "to": "/activity/graphs",
-    "keywords": ["reports", "pgcr", "stats", "playtime", "activity"]
-  },
   "activity-series": {
     "hash": "activity-series",
     "displayProperties": {
@@ -524,15 +521,6 @@
     },
     "to": "/activity/series",
     "keywords": ["reports", "pgcr", "stats", "activity", "raids", "lost sectors", "nightfalls", "strikes", "fireteams", "day 1s", "contest mode", "completions", "flawlesses", "matches"]
-  },
-  "activity-heat": {
-    "hash": "activity-heat",
-    "displayProperties": {
-      "name": "Heat",
-      "description": "Your playtime across all of Destiny 2. Discover unhealthy levels of participation in past seasons. Touch any day in the season to see more information.\n\nEach calendar day syncs with in-game time–days begin at reset. The cell colour indicates the relative time played that day compared to all other days in that season."
-    },
-    "to": "/activity/heat",
-    "keywords": ["reports", "pgcr", "stats", "playtime", "activity"]
   },
   "settings": {
     "hash": "settings",
