@@ -374,6 +374,19 @@
       "description": "All of the selected Guardian's recent activities."
     }
   },
+  "activity-heat": {
+    "displayProperties": {
+      "name": "Heat",
+      "description": "Your playtime across all of Destiny 2. Discover unhealthy levels of participation in past seasons. Touch any day in the season to see more information.\n\nEach calendar day syncs with in-game time–days begin at reset. The cell colour indicates the relative time played that day compared to all other days in that season."
+    },
+    "keywords": [
+      "reports",
+      "pgcr",
+      "stats",
+      "playtime",
+      "activity"
+    ]
+  },
   "activity-bookmarks": {
     "displayProperties": {
       "name": "Bookmarks",
@@ -390,19 +403,6 @@
       "trials",
       "competitive",
       "matches"
-    ]
-  },
-  "activity-graphs": {
-    "displayProperties": {
-      "name": "Graphs",
-      "description": "Activities plotted against graphs, for the statistically inclined."
-    },
-    "keywords": [
-      "reports",
-      "pgcr",
-      "stats",
-      "playtime",
-      "activity"
     ]
   },
   "activity-series": {
@@ -425,19 +425,6 @@
       "completions",
       "flawlesses",
       "matches"
-    ]
-  },
-  "activity-heat": {
-    "displayProperties": {
-      "name": "Heat",
-      "description": "Your playtime across all of Destiny 2. Discover unhealthy levels of participation in past seasons. Touch any day in the season to see more information.\n\nEach calendar day syncs with in-game time–days begin at reset. The cell colour indicates the relative time played that day compared to all other days in that season."
-    },
-    "keywords": [
-      "reports",
-      "pgcr",
-      "stats",
-      "playtime",
-      "activity"
     ]
   },
   "settings": {
