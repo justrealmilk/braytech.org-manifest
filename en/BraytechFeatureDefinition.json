@@ -22,6 +22,9 @@
         },
         {
           "viewHash": "clan-relationships"
+        },
+        {
+          "viewHash": "clan-exotics"
         }
       ]
     }
@@ -65,6 +68,14 @@
       "description": "Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other."
     },
     "to": "/clan/relationships"
+  },
+  "clan-exotics": {
+    "hash": "clan-exotics",
+    "displayProperties": {
+      "name": "Exotics",
+      "description": "Name, shame, and assist clanmates who are missing key Exotic weapons and armor."
+    },
+    "to": "/clan/exotics"
   },
   "collections": {
     "hash": "collections",
