@@ -768,6 +768,9 @@
   "3956025454": {
     "displayProperties": {
       "description": "A reward multiplier, grants a bonus weapon or armour drop."
+    },
+    "inventory": {
+      "tierType": 2
     }
   },
   "1753923263": {
