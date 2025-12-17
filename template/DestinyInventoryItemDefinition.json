@@ -174,6 +174,12 @@
       "description": "Increases the initial drop rate of the \"Whirling Ovation\" exotic rocket launcher from the \"The Desert Perpetual\" raid."
     }
   },
+  "2016954284": {
+    "displayProperties": {
+      "name": "Increased \"Heirloom\" drop rate",
+      "description": "Increases the initial drop rate of the \"Heirloom\" exotic combat bow from the \"Equilibrium\" dungeon."
+    }
+  },
   "23239861010": {
     "displayProperties": {
       "name": "Empty Masterwork Socket",
