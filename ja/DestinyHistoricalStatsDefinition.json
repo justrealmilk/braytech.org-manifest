@@ -103,7 +103,7 @@
     "statNameAbbr": "IK"
   },
   "invasionDeaths": {
-    "statName": "侵入者でのキル数"
+    "statName": "侵入者でキルされた数"
   },
   "invaderKills": {
     "statName": "侵入者をキルした数"
@@ -251,6 +251,18 @@
     "statDescription": "試合で最初にファイナルブローを決める"
   },
   "Medals_pvp_medal_ib_super_shutdown": {
-    "statDescription": "スーパースキルを使ってスーパースキルを使っている敵を止める。"
+    "statDescription": "スーパースキルを使ってスーパースキルを使ってきた敵を止める。"
+  },
+  "timeBonus": {
+    "statName": "タイムボーナス"
+  },
+  "challengeMultiplier": {
+    "statName": "挑戦倍率"
+  },
+  "rewardMultiplier": {
+    "statName": "報酬倍率"
+  },
+  "rewardScore": {
+    "statName": "報酬スコア"
   }
 }

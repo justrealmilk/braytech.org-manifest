@@ -203,5 +203,21 @@
       "completed": "解読済"
     },
     "progressDescription": "ビットの解読率"
+      },
+  "1062690000": {
+    "entry": {
+      "prefix": "ケプラースキルクレート",
+      "name": "ケプラースキルクレート",
+      "completed": "入手済"
+    },
+    "progressDescription": "入手済のケプラースキルクレート"
+  },
+  "2526495740": {
+    "entry": {
+      "prefix": "壺",
+      "name": "壺",
+      "completed": "発見済"
+    },
+    "progressDescription": "発見した壺"
   }
 }

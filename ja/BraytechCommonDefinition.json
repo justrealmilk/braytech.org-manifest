@@ -480,5 +480,10 @@
       "name": "防具Tier",
       "description": "上位ティアの装備は、追加のステータスを提供し、装備の種類によってはさらなるパークが付く場合があります。\n\nTIER 1 \n52 - 57\n\nTIER 2 \n58 - 63\n\nTIER 3 \n64 - 69\n\nTIER 4 \n70 - 75\n\nTIER 5 \n75 + ステータスチューニングMod"
     }
+  },
+  "activity-heat-day": {
+    "displayProperties": {
+      "name": "ヒートマップ"
+    }
   }
 }

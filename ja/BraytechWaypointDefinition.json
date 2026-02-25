@@ -1,0 +1,12 @@
+{
+  "info_light_requirement": {
+    "displayProperties": {
+      "description": "推奨パワー： 340 以上推奨"
+    }
+  },
+  "info_chance_deepsight_activity": {
+    "displayProperties": {
+      "description": "{{activity}} を完了すると、ディープサイト共振付きアイテムを入手できるチャンスがあります。"
+    }
+  }
+}
