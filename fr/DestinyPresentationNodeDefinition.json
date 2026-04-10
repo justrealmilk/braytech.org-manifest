@@ -147,5 +147,82 @@
       "name": "Échangeables",
       "description": "Ces revêtements peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/7/en/Codes/Redeem"
     }
+  },
+  "3790247699": {
+    "displayProperties": {
+      "name": "Collections"
+    }
+  },
+"1000000016": {
+    "hash": 1000000016,
+    "displayProperties": {
+      "name": "Emotes",
+      "description": "Exprimez vous!"
+    },
+"2485764221": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0823.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"2329774788": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0825.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"2334031483": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0827.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"464627906": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0829.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"3111288225": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082B.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"4242023272": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082D.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+"861774511": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-082F.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+  "724209558": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0831.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+  "1194500405": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0833.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+  "184846131": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0835.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
+  },
+  "562783996": {
+    "displayProperties": {
+      "bannerImage": "/static/images/extracts/0332-0837.jpg"
+    },
+    "itemTypeDisplayName": "Rang de Gardien"
   }
 }
