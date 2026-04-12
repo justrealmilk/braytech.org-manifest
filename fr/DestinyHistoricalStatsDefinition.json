@@ -2,6 +2,12 @@
   "opponentsDefeated": {
     "statName": "Frags + Assistances"
   },
+  "kills": {
+    "statNameAbbr": "F"
+  },
+  "deaths": {
+    "statNameAbbr": "M"
+  },
   "flawless": {
     "statName": "Sans-faute"
   },
@@ -19,6 +25,9 @@
   },
   "uniqueWeaponKillsPrecisionKills": {
     "statName": "Précision"
+  },
+  "score": {
+    "statNameAbbr": "S"
   },
   "strikeDifficulty": {
     "statName": "Difficulté"
@@ -235,14 +244,5 @@
   },
   "Medals_pvp_medal_ib_super_shutdown": {
     "statDescription": "Arrêtez le Super d'un adversaire avec votre Super."
-  },
-  "kills": {
-    "statNameAbbr": "F"
-  },
-  "deaths": {
-    "statNameAbbr": "M"
-  },
-  "score": {
-    "statNameAbbr": "S"
   }
 }

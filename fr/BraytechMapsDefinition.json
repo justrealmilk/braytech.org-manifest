@@ -215,6 +215,11 @@
       "description": "Derrière la cascade."
     }
   },
+  "4076196532": {
+    "displayProperties": {
+      "description": "Un phare, qui appelle depuis la mer d'étoiles. Une enclave perdue, déracinée du temps."
+    }
+  },
   "677774031": {
     "displayProperties": {
       "description": "Autrefois, nous regardions la Lune avec espoir. Aujourd'hui, nous n'y voyons plus que le pouvoir des Ténèbres. Un mal ancien s'agite sous la surface brisée de la Lune."
@@ -2092,11 +2097,6 @@
   "4292949222": {
     "displayProperties": {
       "description": "Sur le côté de l'endroit caché du module illustré."
-    }
-  },
-  "4076196532": {
-    "displayProperties": {
-      "description": "Un phare, qui appelle depuis la mer d'étoiles. Une enclave perdue, déracinée du temps."
     }
   }
 }

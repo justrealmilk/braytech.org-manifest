@@ -29,6 +29,11 @@
       "name": "Conquérant (Saison 12)"
     }
   },
+  "3790247699": {
+    "displayProperties": {
+      "name": "Collections"
+    }
+  },
   "2530001514": {
     "displayProperties": {
       "description": "Les énigmatiques Neuf ont de nouveau convoqué les Gardiens à une épreuve. Préparez-vous."
@@ -122,37 +127,6 @@
       "description": "Ornements d'armure associés à des exotiques pour des effets uniques."
     }
   },
-  "1062988660": {
-    "displayProperties": {
-      "name": "Le Cœur Pâle"
-    }
-  },
-  "2968370335": {
-    "displayProperties": {
-      "name": "Avant-garde"
-    }
-  },
-  "1190294990": {
-    "displayProperties": {
-      "name": "Gambit"
-    }
-  },
-  "1289679000": {
-    "displayProperties": {
-      "name": "Epreuve"
-    }
-  },
-  "1000000015": {
-    "displayProperties": {
-      "name": "Échangeables",
-      "description": "Ces revêtements peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/7/en/Codes/Redeem"
-    }
-  },
-  "3790247699": {
-    "displayProperties": {
-      "name": "Collections"
-    }
-  },
   "1000000016": {
     "displayProperties": {
       "name": "Emotes",
@@ -191,5 +165,31 @@
   },
   "562783996": {
     "itemTypeDisplayName": "Rang de Gardien"
+  },
+  "1062988660": {
+    "displayProperties": {
+      "name": "Le Cœur Pâle"
+    }
+  },
+  "2968370335": {
+    "displayProperties": {
+      "name": "Avant-garde"
+    }
+  },
+  "1190294990": {
+    "displayProperties": {
+      "name": "Gambit"
+    }
+  },
+  "1289679000": {
+    "displayProperties": {
+      "name": "Epreuve"
+    }
+  },
+  "1000000015": {
+    "displayProperties": {
+      "name": "Échangeables",
+      "description": "Ces revêtements peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/7/en/Codes/Redeem"
+    }
   }
 }

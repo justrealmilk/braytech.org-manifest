@@ -134,6 +134,12 @@
     },
     "itemTypeDisplayName": "Spécial"
   },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "Connecté",
+      "description": "Connecté aux communications. Ce joueur a connecté son profil Discord à Voluspa."
+    }
+  },
   "well-rested": {
     "displayProperties": {
       "name": "Bien reposé",
@@ -401,12 +407,6 @@
   "dresstiny-edit": {
     "name": "Modifier",
     "description": "Modifiez le nom, la description ou l'URL de votre tenue. Les modifications marquent la tenue comme non approuvée."
-  },
-  "medal-discord": {
-    "displayProperties": {
-      "name": "Connecté",
-      "description": "Connecté aux communications. Ce joueur a connecté son profil Discord à Voluspa."
-    }
   },
   "gear-tier-weapon": {
     "displayProperties": {

@@ -188,6 +188,12 @@
       "description": "Les Gardiens ne peuvent éliminer les **Tourmenteurs** que lorsqu'ils sont affectés par le **Champ de Lumière**."
     }
   },
+  "138641527": {
+    "displayProperties": {
+      "name": "Tir croisé",
+      "description": "Tirez à travers le gouffre pour activer la lumière/ténébres de vos coéquipiers. N'utilisez que les tremplins pour traverser le gouffre."
+    }
+  },
   "2070303007": {
     "displayProperties": {
       "name": "Équilibre Cosmique",
@@ -248,12 +254,6 @@
     "displayProperties": {
       "name": "Efforts coordonnés",
       "description": "Détruisez tous les glyphes du Témoin dans un intervalle de 5 secondes maximum."
-    }
-  },
-  "138641527": {
-    "displayProperties": {
-      "name": "Tir croisé",
-      "description": "Tirez à travers le gouffre pour activer la lumière/ténébres de vos coéquipiers. N'utilisez que les tremplins pour traverser le gouffre."
     }
   }
 }

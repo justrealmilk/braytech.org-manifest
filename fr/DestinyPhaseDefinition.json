@@ -143,6 +143,12 @@
       "description": "Esprit axial Vex, l'Esprit Sanctifié exerce un contrôle sur de nombreux Vex. Vainquez-le pour empêcher de nouvelles incursions des Sols Reclus hors du Jardin Noir."
     }
   },
+  "829896467": {
+    "displayProperties": {
+      "name": "Ouvrez le Portail",
+      "description": "Accédez au cœur du Cuirassé"
+    }
+  },
   "1406613360": {
     "displayProperties": {
       "name": "La Basilique",
@@ -429,12 +435,6 @@
   "1303588409": {
     "displayProperties": {
       "name": "Kerrev, l'Illisible"
-    }
-  },
-  "829896467": {
-    "displayProperties": {
-      "name": "Ouvrez le Portail",
-      "description": "Accédez au cœur du Cuirassé"
     }
   }
 }
