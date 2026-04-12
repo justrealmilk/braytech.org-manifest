@@ -454,14 +454,14 @@
   "collections-explorer": {
     "displayProperties": {
       "name": "Explorateur",
-      "description": "Un visuel structuré et hiérarchique dans votre Collection. Dépliez et repliez les cases pour retracer votre parcours, des objectifs généraux aux exploits précis. Comparez votre progression avec les membres de votre escouade, de votre clan ou d’autres joueurs — directement dans le tableau. Chaque case cochée raconte une histoire."
+      "description": "Un visuel structuré et hiérarchique dans votre Collection. Dépliez et repliez les cases pour retracer votre parcours, des objectifs généraux aux exploits précis. Comparez votre progression avec les membres de votre escouade, de votre clan ou d'autres joueurs — directement dans le tableau. Chaque case cochée raconte une histoire."
     }
   },
 
   "collections-eververse": {
     "displayProperties": {
       "name": "Eververse",
-      "description": "Science expérimentale du commerce Eververse. Projections susceptibles de varier selon l’alignement astral, le tirage des cartes de tarot et la température de mon thé."
+      "description": "Science expérimentale du commerce Eververse. Projections susceptibles de varier selon l'alignement astral, le tirage des cartes de tarot et la température de mon thé."
     }
   },
 
@@ -475,7 +475,7 @@
   "operations-seasonal-hub": {
     "displayProperties": {
       "name": "Hub saisonnier",
-      "description": "Relevez des défis à durée limitée pour obtenir des bonus du Portail, de l’XP, de la Poussière brillante et d’autres récompenses."
+      "description": "Relevez des défis à durée limitée pour obtenir des bonus du Portail, de l'XP, de la Poussière brillante et d'autres récompenses."
     }
   }
 }
