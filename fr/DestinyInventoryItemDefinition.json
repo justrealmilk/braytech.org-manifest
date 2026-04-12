@@ -186,5 +186,11 @@
     "displayProperties": {
       "name": "Engramme exotique (Rare)"
     }
+  },
+  "3329390250": {
+    "displayProperties": {
+      "name": "Augmentation du taux de loot de l' \"Ovation Tourbillonnante\".",
+      "description": "Augmente le taux d’obtention initial du lance-roquettes exotique \"Ovation Tourbillonnante\"  dans le raid \"Le Désert Perpétuel\"."
+    }
   }
 }

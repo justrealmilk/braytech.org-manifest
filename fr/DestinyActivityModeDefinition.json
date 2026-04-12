@@ -122,5 +122,21 @@
       "name": "Missions Exotiques",
       "description": "Découvrez des chemins cachés, déverrouillez des technologies anciennes et maîtrisez des défis secrets. La récompense ? Des armes légendaires."
     }
+  },
+  "1686739444": {
+    "displayProperties": {
+      "description": "On a éliminé Ghaul, réveillé le Voyageur, et maintenant, la moitié de ce que j’entends dans les rues, c’est à quel point toi et ton clan faites la différence… Et c’est exactement pour ça que j’ai lancé cette histoire de clan au départ. Les gens attendent encore que l’Avant-garde montre la voie, mais il est temps que ça change. Et ce sont des Gardiens comme toi qui rendent ça possible… Sans pression."
+    }
   }
+]
+"1673724806": {
+  "displayProperties": {
+    "description": "Affrontez d’autres équipes dans une version d’Élimination nécessitant une escouade complète. Remportez autant de victoires que possible sur un passage. Trois défaites, et c’est terminé."
+  }
+},
+"2546784302": {
+  "displayProperties": {
+    "description": "Remportez la victoire en éliminant vos adversaires et en empêchant les réanimations. Réanimez un allié vaincu pour reprendre le point marqué par vos ennemis. Gagnez le plus de manches ou affrontez vous lors d’un duel décisif en élimination."
+  }
+}
 }

@@ -401,5 +401,23 @@
   "dresstiny-edit": {
     "name": "Modifier",
     "description": "Modifiez le nom, la description ou l'URL de votre tenue. Les modifications marquent la tenue comme non approuvée."
+  },
+  "medal-discord": {
+    "displayProperties": {
+      "name": "Connecté",
+      "description": "Connecté aux communications. Ce joueur a connecté son profil Discord à Voluspa."
+    },
+"gear-tier-weapon": {
+  "displayProperties": {
+    "name": "Palier d’arme",
+    "description": "Les équipements de palier supérieur offrent des statistiques accrues et peuvent débloquer des avantages supplémentaires selon leur niveau.\n\nPALIER 1 ?\nStatistiques de base\n\nPALIER 2 ??\nTraits améliorés : 2\n\nPALIER 3 ???\nTraits améliorés : 2\nMulti-perks : 2\n\nPALIER 4 ????\nTraits améliorés : 2\nMulti-perks : 2\nÉléments améliorés : Mods, Chargeur, Canon\n\nPALIER 5 ?????\nTraits améliorés : 2\nMulti-perks : 3\nÉléments améliorés : Mods, Chargeur, Canon, Trait d’origine\nCosmétiques : Ornement unique"
   }
+},
+
+"gear-tier-armor": {
+  "displayProperties": {
+    "name": "Palier d’armure",
+    "description": "Les équipements de palier supérieur offrent des statistiques accrues et peuvent conférer des avantages supplémentaires selon leur niveau.\n\nPALIER 1 ?\n52 – 57\n\nPALIER 2 ??\n58 – 63\n\nPALIER 3 ???\n64 – 69\n\nPALIER 4 ????\n70 – 75\n\nPALIER 5 ?????\n75 + Ajustement des statistiques"
+  }
+}
 }
