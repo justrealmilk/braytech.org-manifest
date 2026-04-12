@@ -450,28 +450,24 @@
       "description": "Bienvenue au défilé de mode. Prenez votre temps, flânez un peu, ou lancez une nouvelle tendance…"
     }
   },
-
   "collections-explorer": {
     "displayProperties": {
       "name": "Explorateur",
       "description": "Un visuel structuré et hiérarchique dans votre Collection. Dépliez et repliez les cases pour retracer votre parcours, des objectifs généraux aux exploits précis. Comparez votre progression avec les membres de votre escouade, de votre clan ou d'autres joueurs — directement dans le tableau. Chaque case cochée raconte une histoire."
     }
   },
-
   "collections-eververse": {
     "displayProperties": {
       "name": "Eververse",
       "description": "Science expérimentale du commerce Eververse. Projections susceptibles de varier selon l'alignement astral, le tirage des cartes de tarot et la température de mon thé."
     }
   },
-
   "triumphs-explorer": {
     "displayProperties": {
       "name": "Explorateur",
       "description": "Une chronique hiérarchisée de vos Triomphes. Déployez les cases pour suivre votre légende, des grandes quêtes aux exploits décisifs. Comparez votre destinée à celle de votre escouade ou de votre clan. Chaque case cochée est une preuve de votre gloire."
     }
   },
-
   "operations-seasonal-hub": {
     "displayProperties": {
       "name": "Hub saisonnier",
