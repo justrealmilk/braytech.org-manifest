@@ -116,29 +116,6 @@
     },
     "distinguish": "true"
   },
-  "1205461800": {
-    "displayProperties": {
-      "name": "装飾"
-    }
-  },
-  "1000000011": {
-    "displayProperties": {
-      "name": "タイタンアーマー"
-    },
-    "distinguish": "true"
-  },
-  "1000000012": {
-    "displayProperties": {
-      "name": "ハンターアーマー"
-    },
-    "distinguish": "true"
-  },
-  "1000000013": {
-    "displayProperties": {
-      "name": "ウォーロックアーマー"
-    },
-    "distinguish": "true"
-  },
   "1000000014": {
     "displayProperties": {
       "name": "相乗効果",
