@@ -744,24 +744,6 @@
   "3698448090": {
     "collectibleHash": 2176629195
   },
-  "2499607616": {
-    "redacted": true
-  },
-  "4162305076": {
-    "redacted": true
-  },
-  "2259155960": {
-    "redacted": true
-  },
-  "803088062": {
-    "redacted": true
-  },
-  "3100679920": {
-    "redacted": true
-  },
-  "4142710206": {
-    "redacted": true
-  },
   "3076343411": {
     "collectibleHash": 2371517663
   },
@@ -786,5 +768,10 @@
   "3170398481": {
     "itemTypeDisplayName": "Axe",
     "itemTypeAndTierDisplayName": "Exotic Axe"
+  },
+  "4041218086": {
+    "displayProperties": {
+      "icon": "/common/destiny2_content/icons/4ec4e15d16453b67e0f8faedb304614d.png"
+    }
   }
 }
