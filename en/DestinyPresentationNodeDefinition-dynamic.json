@@ -2859,6 +2859,9 @@
         },
         {
           "collectibleHash": 4000000824
+        },
+        {
+          "collectibleHash": 4000000825
         }
       ]
     }
@@ -4853,6 +4856,15 @@
       "red": 44,
       "green": 43,
       "blue": 47,
+      "alpha": 255
+    }
+  },
+  "3937255218": {
+    "backgroundColor": {
+      "colorHash": 0,
+      "red": 228,
+      "green": 34,
+      "blue": 255,
       "alpha": 255
     }
   },
