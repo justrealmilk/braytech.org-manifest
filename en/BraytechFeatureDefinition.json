@@ -110,6 +110,9 @@
         },
         {
           "viewHash": "collections-eververse"
+        },
+        {
+          "viewHash": "collections-tenets"
         }
       ]
     }
@@ -177,6 +180,14 @@
       "description": "Experimental Eververse Trading science. Projections subject to astral alignment, tarot card reading, and temperature of my tea."
     },
     "to": "/collections/eververse"
+  },
+  "collections-tenets": {
+    "hash": "collections-tenets",
+    "displayProperties": {
+      "name": "Tenets",
+      "description": "Convenient monitoring of your progress towards unlocking and attaining all of the rewards granteed by your core tenets."
+    },
+    "to": "/collections/tenets"
   },
   "triumphs": {
     "hash": "triumphs",
