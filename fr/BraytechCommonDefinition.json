@@ -434,9 +434,7 @@
   },
   "activity-heat-day": {
     "displayProperties": {
-      "name": "Temps de jeu",
-      "description": ""
-    },
-    "flavorText": "Un aperçu de la journée sélectionnée."
+      "name": "Temps de jeu"
+    }
   }
 }
