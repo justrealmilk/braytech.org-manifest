@@ -34,6 +34,11 @@
       "name": "Collections"
     }
   },
+  "329982304": {
+    "displayProperties": {
+      "name": "Raids et donjons"
+    }
+  },
   "2530001514": {
     "displayProperties": {
       "description": "Les énigmatiques Neuf ont de nouveau convoqué les Gardiens à une épreuve. Préparez-vous."
@@ -170,11 +175,6 @@
     "displayProperties": {
       "name": "Échangeables",
       "description": "Ces revêtements peuvent être obtenus gratuitement en les échangeant avec un code sur https://www.bungie.net/7/en/Codes/Redeem"
-    }
-  },
-  "329982304": {
-    "displayProperties": {
-      "name": "Raids et donjons"
     }
   }
 }

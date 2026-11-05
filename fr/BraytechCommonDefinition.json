@@ -224,6 +224,12 @@
       "description": "La valeur actuelle de tous les triomphes actifs qui ont été remportés et la valeur totale de tous les triomphes actifs.\n\nCes valeurs de score changent lorsque les triomphes deviennent des triomphes du passé."
     }
   },
+  "title-score": {
+    "displayProperties": {
+      "name": "Score de titres",
+      "description": "Le nombre total de titres que vous avez obtenus."
+    }
+  },
   "gild-score": {
     "displayProperties": {
       "name": "Score doré",
@@ -263,6 +269,12 @@
   "active-score-rank": {
     "name": "Rang de score actif",
     "description": "Le rang dans les classements pour le score de triomphe actif, tel que déterminé par Voluspa."
+  },
+  "title-score-rank": {
+    "displayProperties": {
+      "name": "Classement du score de titres",
+      "description": "La position dans les classements correspondant au score de titres, déterminée par Voluspa."
+    }
   },
   "gild-score-rank": {
     "name": "Rang de score doré",
@@ -418,18 +430,6 @@
     "displayProperties": {
       "name": "Palier d'armure",
       "description": "Les équipements de palier supérieur offrent des statistiques accrues et peuvent conférer des avantages supplémentaires selon leur niveau.\n\nPALIER 1 ?\n52 – 57\n\nPALIER 2 ??\n58 – 63\n\nPALIER 3 ???\n64 – 69\n\nPALIER 4 ????\n70 – 75\n\nPALIER 5 ?????\n75 + Ajustement des statistiques"
-    }
-  },
-  "title-score": {
-    "displayProperties": {
-      "name": "Score de titres",
-      "description": "Le nombre total de titres que vous avez obtenus."
-    }
-  },
-  "title-score-rank": {
-    "displayProperties": {
-      "name": "Classement du score de titres",
-      "description": "La position dans les classements correspondant au score de titres, déterminée par Voluspa."
     }
   },
   "activity-heat-day": {

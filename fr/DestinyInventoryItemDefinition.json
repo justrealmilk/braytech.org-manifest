@@ -173,6 +173,12 @@
       "description": "Augmente le taux d'obtention initial du lance-roquettes exotique \"Ovation Tourbillonnante\"  dans le raid \"Le Désert Perpétuel\"."
     }
   },
+  "2016954284": {
+    "displayProperties": {
+      "name": "Probabilité d'obtention de « Heirloom » augmentée",
+      "description": "Augmente la probabilité initiale d'obtenir l'arc de combat exotique « Heirloom » dans le donjon « Equilibrium »."
+    }
+  },
   "23239861010": {
     "displayProperties": {
       "name": "Emplacement de pièce maîtresse vide",
@@ -191,12 +197,6 @@
   "2284123716": {
     "displayProperties": {
       "name": "Engramme exotique (Rare)"
-    }
-  },
-  "2016954284": {
-    "displayProperties": {
-      "name": "Probabilité d'obtention de « Heirloom » augmentée",
-      "description": "Augmente la probabilité initiale d'obtenir l'arc de combat exotique « Heirloom » dans le donjon « Equilibrium »."
     }
   },
   "3956025454": {
