@@ -188,5 +188,21 @@
       "completed": "Décryptés"
     },
     "progressDescription": "Cryptages Decryptés"
+  },
+  "1062690000": {
+    "entry": {
+      "prefix": "Coffre de capacités",
+      "name": "Coffre de capacités",
+      "completed": "Ouvert"
+    },
+    "progressDescription": "Coffres de capacités ouverts"
+  },
+  "2526495740": {
+    "entry": {
+      "prefix": "Urne",
+      "name": "Urne",
+      "completed": "Récupérée"
+    },
+    "progressDescription": "Urnes récupérées"
   }
 }

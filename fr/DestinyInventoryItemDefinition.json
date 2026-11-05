@@ -192,5 +192,24 @@
     "displayProperties": {
       "name": "Engramme exotique (Rare)"
     }
+  },
+  "2016954284": {
+    "displayProperties": {
+      "name": "Probabilité d’obtention de « Heirloom » augmentée",
+      "description": "Augmente la probabilité initiale d’obtenir l’arc de combat exotique « Heirloom » dans le donjon « Equilibrium »."
+    }
+  },
+  "3956025454": {
+    "displayProperties": {
+      "description": "Un multiplicateur de récompenses qui permet d’obtenir une arme ou une pièce d’armure supplémentaire."
+    }
+  },
+  "1753923263": {
+    "itemTypeDisplayName": "Hache",
+    "itemTypeAndTierDisplayName": "Hache exotique"
+  },
+  "3170398481": {
+    "itemTypeDisplayName": "Hache",
+    "itemTypeAndTierDisplayName": "Hache exotique"
   }
 }

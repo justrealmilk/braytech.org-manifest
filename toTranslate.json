@@ -1295,56 +1295,11 @@
       "4206792504",
       "3183085586"
     ],
-    "DestinySourceDefinition.json": [
-      "2387628034",
-      "1000000051"
-    ],
     "DestinyActivityModifierDefinition.json": [
       "3286837323",
       "3641922583",
       "2881201792",
       "2480815324"
-    ],
-    "DestinyCollectibleDefinition.json": [
-      "1759034749",
-      "1965238644",
-      "3420566441"
-    ],
-    "DestinyHistoricalStatsDefinition.json": [
-      "timeBonus",
-      "challengeMultiplier",
-      "rewardMultiplier",
-      "rewardScore"
-    ],
-    "DestinyInventoryItemDefinition.json": [
-      "2016954284",
-      "3956025454",
-      "1753923263",
-      "3170398481"
-    ],
-    "DestinySeasonDefinition.json": [
-      "2758726560"
-    ],
-    "BraytechCommonDefinition.json": [
-      "title-score",
-      "title-score-rank",
-      "activity-heat-day"
-    ],
-    "DestinyChecklistDefinition.json": [
-      "1062690000",
-      "2526495740"
-    ],
-    "BraytechFeatureDefinition.json": [
-      "clan-exotics",
-      "collections-sets-bonuses",
-      "collections-tenets",
-      "activity-heat"
-    ],
-    "DestinyTraitDefinition.json": [
-      "2878306895"
-    ],
-    "DestinyPresentationNodeDefinition.json": [
-      "329982304"
     ]
   },
   "it": {

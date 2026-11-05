@@ -473,5 +473,29 @@
       "name": "Dresstiny",
       "description": "Bienvenue au défilé de mode. Prenez votre temps, flânez un peu, ou lancez une nouvelle tendance…"
     }
+  },
+  "clan-exotics": {
+    "displayProperties": {
+      "name": "Équipements exotiques",
+      "description": "Repérez les membres du clan auxquels il manque des armes et armures exotiques essentielles, taquinez-les et aidez-les à les obtenir."
+    }
+  },
+  "collections-sets-bonuses": {
+    "displayProperties": {
+      "name": "Bonus d’ensembles d’armure",
+      "description": "Certains ensembles d’armure offrent des bonus spéciaux lorsque plusieurs pièces du même ensemble sont équipées. Ces bonus peuvent considérablement améliorer les capacités de votre Gardien dans diverses activités."
+    }
+  },
+  "collections-tenets": {
+    "displayProperties": {
+      "name": "Préceptes",
+      "description": "Suivez facilement votre progression pour débloquer et obtenir toutes les récompenses accordées par vos préceptes fondamentaux."
+    }
+  },
+  "activity-heat": {
+    "displayProperties": {
+      "name": "Temps de jeu",
+      "description": "Votre temps de jeu sur l’ensemble de Destiny 2. Découvrez vos excès de participation lors des saisons passées. Sélectionnez un jour de la saison pour afficher plus d’informations.\n\nChaque journée du calendrier suit l’horaire du jeu : les journées commencent à la réinitialisation. La couleur de chaque case indique le temps joué ce jour-là par rapport aux autres jours de la saison."
+    }
   }
 }

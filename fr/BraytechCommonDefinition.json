@@ -419,5 +419,24 @@
       "name": "Palier d'armure",
       "description": "Les équipements de palier supérieur offrent des statistiques accrues et peuvent conférer des avantages supplémentaires selon leur niveau.\n\nPALIER 1 ?\n52 – 57\n\nPALIER 2 ??\n58 – 63\n\nPALIER 3 ???\n64 – 69\n\nPALIER 4 ????\n70 – 75\n\nPALIER 5 ?????\n75 + Ajustement des statistiques"
     }
+  },
+  "title-score": {
+    "displayProperties": {
+      "name": "Score de titres",
+      "description": "Le nombre total de titres que vous avez obtenus."
+    }
+  },
+  "title-score-rank": {
+    "displayProperties": {
+      "name": "Classement du score de titres",
+      "description": "La position dans les classements correspondant au score de titres, déterminée par Voluspa."
+    }
+  },
+  "activity-heat-day": {
+    "displayProperties": {
+      "name": "Temps de jeu",
+      "description": ""
+    },
+    "flavorText": "Un aperçu de la journée sélectionnée."
   }
 }
