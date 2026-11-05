@@ -482,8 +482,8 @@
   },
   "collections-sets-bonuses": {
     "displayProperties": {
-      "name": "Bonus d’ensembles d’armure",
-      "description": "Certains ensembles d’armure offrent des bonus spéciaux lorsque plusieurs pièces du même ensemble sont équipées. Ces bonus peuvent considérablement améliorer les capacités de votre Gardien dans diverses activités."
+      "name": "Bonus d'ensembles d'armure",
+      "description": "Certains ensembles d'armure offrent des bonus spéciaux lorsque plusieurs pièces du même ensemble sont équipées. Ces bonus peuvent considérablement améliorer les capacités de votre Gardien dans diverses activités."
     }
   },
   "collections-tenets": {
@@ -495,7 +495,7 @@
   "activity-heat": {
     "displayProperties": {
       "name": "Temps de jeu",
-      "description": "Votre temps de jeu sur l’ensemble de Destiny 2. Découvrez vos excès de participation lors des saisons passées. Sélectionnez un jour de la saison pour afficher plus d’informations.\n\nChaque journée du calendrier suit l’horaire du jeu : les journées commencent à la réinitialisation. La couleur de chaque case indique le temps joué ce jour-là par rapport aux autres jours de la saison."
+      "description": "Votre temps de jeu sur l'ensemble de Destiny 2. Découvrez vos excès de participation lors des saisons passées. Sélectionnez un jour de la saison pour afficher plus d'informations.\n\nChaque journée du calendrier suit l'horaire du jeu : les journées commencent à la réinitialisation. La couleur de chaque case indique le temps joué ce jour-là par rapport aux autres jours de la saison."
     }
   }
 }
