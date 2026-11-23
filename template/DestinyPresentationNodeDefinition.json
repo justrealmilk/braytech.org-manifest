@@ -95,6 +95,36 @@
     },
     "distinguish": "true"
   },
+  "1000000017": {
+    "displayProperties": {
+      "name": "All Weapon Ornaments"
+    },
+    "distinguish": "true"
+  },
+  "1000000018": {
+    "displayProperties": {
+      "name": "All Armor Ornaments"
+    },
+    "distinguish": "true"
+  },
+  "1000000019": {
+    "displayProperties": {
+      "name": "All Weapon Ornaments"
+    },
+    "distinguish": "true"
+  },
+  "1000000020": {
+    "displayProperties": {
+      "name": "All Exotic Armor"
+    },
+    "distinguish": "true"
+  },
+  "1000000021": {
+    "displayProperties": {
+      "name": "All Exotic Weapons"
+    },
+    "distinguish": "true"
+  },
   "1000000008": {
     "displayProperties": {
       "name": "Redeemable",

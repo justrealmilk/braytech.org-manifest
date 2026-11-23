@@ -240,6 +240,86 @@
     "redacted": false,
     "distinguish": true
   },
+  "1000000017": {
+    "hash": 1000000017,
+    "displayProperties": {
+      "name": "All Weapon Ornaments"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [1205461800],
+    "redacted": false,
+    "distinguish": true
+  },
+  "1000000018": {
+    "hash": 1000000018,
+    "displayProperties": {
+      "name": "All Armor Ornaments"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [1643736657],
+    "redacted": false,
+    "distinguish": true
+  },
+  "1000000019": {
+    "hash": 1000000019,
+    "displayProperties": {
+      "name": "All Weapon Ornaments"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [3155750055],
+    "redacted": false,
+    "distinguish": true
+  },
+  "1000000020": {
+    "hash": 1000000020,
+    "displayProperties": {
+      "name": "All Exotic Armor"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [1789205056],
+    "redacted": false,
+    "distinguish": true
+  },
+  "1000000021": {
+    "hash": 1000000021,
+    "displayProperties": {
+      "name": "All Exotic Weapons"
+    },
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
+    "parentNodeHashes": [2214408526],
+    "redacted": false,
+    "distinguish": true
+  },
   "2381001021": {
     "children": {
       "presentationNodes": [
