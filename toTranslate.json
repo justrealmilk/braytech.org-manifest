@@ -513,6 +513,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
@@ -890,6 +891,7 @@
       "collections-sets-bonuses",
       "collections-eververse",
       "collections-tenets",
+      "triumphs-visibility",
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
@@ -1258,6 +1260,7 @@
       "collections-sets-bonuses",
       "collections-eververse",
       "collections-tenets",
+      "triumphs-visibility",
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
@@ -1311,6 +1314,9 @@
       "1000000019",
       "1000000020",
       "1000000021"
+    ],
+    "BraytechFeatureDefinition.json": [
+      "triumphs-visibility"
     ],
     "DestinyActivityModifierDefinition.json": [
       "3286837323",
@@ -1843,6 +1849,7 @@
       "collections-eververse",
       "collections-tenets",
       "triumphs-user-hidden",
+      "triumphs-visibility",
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
@@ -1903,7 +1910,8 @@
       "2878306895"
     ],
     "BraytechFeatureDefinition.json": [
-      "collections-tenets"
+      "collections-tenets",
+      "triumphs-visibility"
     ],
     "DestinySourceDefinition.json": [
       "1000000051"
@@ -2556,6 +2564,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
@@ -2703,6 +2712,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-transient",
       "triumphs-explorer",
       "journey",
@@ -2866,6 +2876,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
@@ -3485,6 +3496,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
@@ -4128,6 +4140,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-explorer",
       "operations-event",
       "operations-seasonal-hub",
@@ -4453,6 +4466,7 @@
       "triumphs-user-hidden",
       "triumphs-unredeemed",
       "triumphs-near",
+      "triumphs-visibility",
       "triumphs-transient",
       "triumphs-explorer",
       "operations-event",
