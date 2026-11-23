@@ -262,6 +262,14 @@
     },
     "to": "/triumphs/near"
   },
+  "triumphs-visibility": {
+    "hash": "triumphs-visibility",
+    "displayProperties": {
+      "name": "Triumph Visibility",
+      "description": "How the API marks triumphs, and which ones the game or Braytech keep out of sight."
+    },
+    "to": "/triumphs/visibility"
+  },
   "triumphs-transient": {
     "hash": "triumphs-transient",
     "displayProperties": {
