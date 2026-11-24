@@ -189,6 +189,14 @@
     },
     "to": "/collections/tenets"
   },
+  "collections-sources": {
+    "hash": "collections-sources",
+    "displayProperties": {
+      "name": "Sources",
+      "description": "Where your collectibles come from, sorted using Bungie's source data, Destiny Item Manager's source categories, and Braytech's own real-world sources. Each item counts once, in the first family it matches."
+    },
+    "to": "/collections/sources"
+  },
   "triumphs": {
     "hash": "triumphs",
     "displayProperties": {

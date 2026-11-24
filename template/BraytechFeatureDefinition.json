@@ -109,6 +109,12 @@
       "description": "Convenient monitoring of your progress towards unlocking and attaining all of the rewards granted by your core tenets."
     }
   },
+  "collections-sources": {
+    "displayProperties": {
+      "name": "Sources",
+      "description": "Where your collectibles come from, sorted using Bungie's source data, Destiny Item Manager's source categories, and Braytech's own real-world sources. Each item counts once, in the first family it matches."
+    }
+  },
   "triumphs": {
     "displayProperties": {
       "name": "Triumphs",
